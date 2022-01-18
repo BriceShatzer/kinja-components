@@ -1,0 +1,1133 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ReviewBox /> renders all props 1`] = `
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  max-width: 100%;
+  overflow: hidden;
+  margin-bottom: 5px;
+}
+
+.c2:last-child {
+  margin-right: 0;
+}
+
+.c2 .c18 {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.c10 {
+  margin-bottom: 15px;
+  font-size: 24px;
+  line-height: 28px;
+  text-align: center;
+}
+
+.c10:last-child {
+  margin-bottom: 0;
+}
+
+.c8 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  width: 48px;
+  height: 48px;
+  margin: 0 auto 15px;
+  border: 2px solid #F5F5F5;
+  border-radius: 50%;
+  font-family: ProximaNovaCond,sans-serif;
+  font-size: 24px;
+  line-height: 24px;
+  color: #FFF;
+  background-color: #0A7BC2;
+}
+
+.c12 {
+  padding-bottom: 15px;
+}
+
+.c13 {
+  margin-bottom: 0;
+  font-family: ProximaNovaCond,sans-serif;
+  font-size: 15px;
+  font-weight: normal;
+  line-height: 28px;
+  color: #666;
+  text-transform: uppercase;
+}
+
+.c14.c14.c14 {
+  margin-bottom: 0;
+  max-width: none;
+  font-size: 15px;
+  font-family: ElizabethSerif,Georgia,serif;
+  color: #222;
+}
+
+.c6 {
+  position: relative;
+  padding: 15px 15px 1px 15px;
+  background-color: #F5F5F5;
+}
+
+.c3 {
+  position: relative;
+  height: 0;
+  padding-top: 56.25%;
+}
+
+.c4 {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  overflow: hidden;
+}
+
+.c4 img {
+  min-height: 100%;
+}
+
+.c4 .c16 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  background-color: #E5E5E5;
+}
+
+.c15 .c1 .c17:hover {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c15 .c5 {
+  padding: 15px;
+}
+
+.c15 .c5 .c9 {
+  margin-bottom: 0;
+}
+
+.c15 .c5 .c11 {
+  display: none;
+}
+
+.c0 {
+  width: 100%;
+  max-width: 470px;
+  margin: 0 auto;
+}
+
+.c0 .c1 .c17:hover {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0 .c19 {
+  display: none;
+}
+
+.c0 .c7 {
+  position: absolute;
+  margin: 0;
+  top: -38px;
+  left: calc(50% - 24px);
+}
+
+@media only screen and (min-width:37.37em) {
+  .c0 {
+    width: 320px;
+    margin: 0;
+  }
+}
+
+<ReviewBox
+  alignment="Left"
+  category="category"
+  imageComponent={<div />}
+  score="A"
+  subcategory="subcategory"
+  text={
+    Array [
+      Object {
+        "label": "foo",
+        "value": "bar",
+      },
+      Object {
+        "label": "baz",
+        "value": "boo",
+      },
+    ]
+  }
+  title="Title"
+>
+  <EnsureDefaultTheme>
+    <ThemeProvider
+      theme={[Function]}
+    >
+      <ReviewBox__ReviewBoxWrapper
+        alignment="Left"
+        category="category"
+        className="reviewbox-inset"
+        imageComponent={<div />}
+        score="A"
+        subcategory="subcategory"
+        text={
+          Array [
+            Object {
+              "label": "foo",
+              "value": "bar",
+            },
+            Object {
+              "label": "baz",
+              "value": "boo",
+            },
+          ]
+        }
+        title="Title"
+      >
+        <StyledComponent
+          alignment="Left"
+          category="category"
+          className="reviewbox-inset"
+          forwardedComponent={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": Array [],
+              "componentStyle": ComponentStyle {
+                "componentId": "ReviewBox__ReviewBoxWrapper-aebpua-12",
+                "isStatic": false,
+                "lastClassName": "c0",
+                "rules": Array [
+                  "width:100%;max-width:470px;margin:0 auto;",
+                  ".c1",
+                  "{",
+                  ".c17",
+                  ":hover{text-decoration:none;}}",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  "@media only screen and ",
+                  "(max-width: 49.94em)",
+                  "{",
+                  "
+		",
+                  [Function],
+                  "
+	",
+                  "}",
+                  " ",
+                  "@media only screen and ",
+                  "(min-width: 37.37em)",
+                  "{",
+                  "
+		",
+                  [Function],
+                  "
+
+	",
+                  "}",
+                  " ",
+                  "@media only screen and ",
+                  "(min-width: 50em)",
+                  "{",
+                  "
+		",
+                  [Function],
+                  "
+	",
+                  "}",
+                ],
+              },
+              "displayName": "ReviewBox__ReviewBoxWrapper",
+              "foldedComponentIds": Array [],
+              "render": [Function],
+              "styledComponentId": "ReviewBox__ReviewBoxWrapper-aebpua-12",
+              "target": "section",
+              "toString": [Function],
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+          imageComponent={<div />}
+          score="A"
+          subcategory="subcategory"
+          text={
+            Array [
+              Object {
+                "label": "foo",
+                "value": "bar",
+              },
+              Object {
+                "label": "baz",
+                "value": "boo",
+              },
+            ]
+          }
+          title="Title"
+        >
+          <section
+            className="reviewbox-inset c0"
+            title="Title"
+          >
+            <story-type-label-wrapper__Wrapper
+              margin="small"
+              variant="top"
+            >
+              <StyledComponent
+                forwardedComponent={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": Array [],
+                    "componentStyle": ComponentStyle {
+                      "componentId": "c1",
+                      "isStatic": false,
+                      "lastClassName": "c2",
+                      "rules": Array [
+                        "display:flex;max-width:100%;overflow:hidden;",
+                        [Function],
+                        " ",
+                        [Function],
+                        ":last-child{margin-right:0;}",
+                        ".c18",
+                        "{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}",
+                      ],
+                    },
+                    "displayName": "story-type-label-wrapper__Wrapper",
+                    "foldedComponentIds": Array [],
+                    "render": [Function],
+                    "styledComponentId": "c1",
+                    "target": "div",
+                    "toString": [Function],
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+                margin="small"
+                variant="top"
+              >
+                <div
+                  className="c1 c2"
+                />
+              </StyledComponent>
+            </story-type-label-wrapper__Wrapper>
+            <ReviewBox__Head>
+              <StyledComponent
+                forwardedComponent={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": Array [],
+                    "componentStyle": ComponentStyle {
+                      "componentId": "ReviewBox__Head-aebpua-2",
+                      "isStatic": true,
+                      "lastClassName": "Uixpq",
+                      "rules": Array [],
+                    },
+                    "displayName": "ReviewBox__Head",
+                    "foldedComponentIds": Array [],
+                    "render": [Function],
+                    "styledComponentId": "ReviewBox__Head-aebpua-2",
+                    "target": "div",
+                    "toString": [Function],
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+              >
+                <div
+                  className=""
+                >
+                  <ReviewBox__ImageWrapper>
+                    <StyledComponent
+                      forwardedComponent={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "attrs": Array [],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "ReviewBox__ImageWrapper-aebpua-10",
+                            "isStatic": true,
+                            "lastClassName": "c3",
+                            "rules": Array [
+                              "position:relative;height:0;padding-top:56.25%;",
+                            ],
+                          },
+                          "displayName": "ReviewBox__ImageWrapper",
+                          "foldedComponentIds": Array [],
+                          "render": [Function],
+                          "styledComponentId": "ReviewBox__ImageWrapper-aebpua-10",
+                          "target": "div",
+                          "toString": [Function],
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                    >
+                      <div
+                        className="c3"
+                      >
+                        <ReviewBox__ImageContainer>
+                          <StyledComponent
+                            forwardedComponent={
+                              Object {
+                                "$$typeof": Symbol(react.forward_ref),
+                                "attrs": Array [],
+                                "componentStyle": ComponentStyle {
+                                  "componentId": "ReviewBox__ImageContainer-aebpua-11",
+                                  "isStatic": false,
+                                  "lastClassName": "c4",
+                                  "rules": Array [
+                                    "position:absolute;width:100%;top:0;right:0;bottom:0;left:0;overflow:hidden;img{min-height:100%;}",
+                                    ".c16",
+                                    "{display:flex;justify-content:center;align-items:center;width:100%;height:100%;background-color:",
+                                    [Function],
+                                    ";}",
+                                  ],
+                                },
+                                "displayName": "ReviewBox__ImageContainer",
+                                "foldedComponentIds": Array [],
+                                "render": [Function],
+                                "styledComponentId": "ReviewBox__ImageContainer-aebpua-11",
+                                "target": "div",
+                                "toString": [Function],
+                                "warnTooManyClasses": [Function],
+                                "withComponent": [Function],
+                              }
+                            }
+                            forwardedRef={null}
+                          >
+                            <div
+                              className="c4"
+                            >
+                              <div />
+                            </div>
+                          </StyledComponent>
+                        </ReviewBox__ImageContainer>
+                      </div>
+                    </StyledComponent>
+                  </ReviewBox__ImageWrapper>
+                </div>
+              </StyledComponent>
+            </ReviewBox__Head>
+            <ReviewBox__Content>
+              <StyledComponent
+                forwardedComponent={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": Array [],
+                    "componentStyle": ComponentStyle {
+                      "componentId": "c5",
+                      "isStatic": false,
+                      "lastClassName": "c6",
+                      "rules": Array [
+                        "position:relative;padding:15px 15px 1px 15px;background-color:",
+                        [Function],
+                        ";",
+                      ],
+                    },
+                    "displayName": "ReviewBox__Content",
+                    "foldedComponentIds": Array [],
+                    "render": [Function],
+                    "styledComponentId": "c5",
+                    "target": "div",
+                    "toString": [Function],
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+              >
+                <div
+                  className="c5 c6"
+                >
+                  <ReviewBox__Score>
+                    <StyledComponent
+                      forwardedComponent={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "attrs": Array [],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "c7",
+                            "isStatic": false,
+                            "lastClassName": "c8",
+                            "rules": Array [
+                              "display:flex;align-items:center;justify-content:center;width:48px;height:48px;margin:0 auto 15px;border:2px solid ",
+                              [Function],
+                              ";border-radius:50%;font-family:",
+                              [Function],
+                              ";font-size:24px;line-height:24px;color:",
+                              [Function],
+                              ";background-color:",
+                              [Function],
+                              ";",
+                            ],
+                          },
+                          "displayName": "ReviewBox__Score",
+                          "foldedComponentIds": Array [],
+                          "render": [Function],
+                          "styledComponentId": "c7",
+                          "target": "div",
+                          "toString": [Function],
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                    >
+                      <div
+                        className="c7 c8"
+                      >
+                        <span>
+                          A
+                        </span>
+                      </div>
+                    </StyledComponent>
+                  </ReviewBox__Score>
+                  <ReviewBox__Title>
+                    <StyledComponent
+                      forwardedComponent={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "attrs": Array [],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "c9",
+                            "isStatic": true,
+                            "lastClassName": "c10",
+                            "rules": Array [
+                              "margin-bottom:15px;font-size:24px;line-height:28px;text-align:center;&:last-child{margin-bottom:0;}",
+                            ],
+                          },
+                          "displayName": "ReviewBox__Title",
+                          "foldedComponentIds": Array [],
+                          "render": [Function],
+                          "styledComponentId": "c9",
+                          "target": "h2",
+                          "toString": [Function],
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                    >
+                      <h2
+                        className="c9 c10"
+                      >
+                        Title
+                      </h2>
+                    </StyledComponent>
+                  </ReviewBox__Title>
+                  <ReviewBox__DataWrapper>
+                    <StyledComponent
+                      forwardedComponent={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "attrs": Array [],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "c11",
+                            "isStatic": true,
+                            "lastClassName": "jIFghh",
+                            "rules": Array [],
+                          },
+                          "displayName": "ReviewBox__DataWrapper",
+                          "foldedComponentIds": Array [],
+                          "render": [Function],
+                          "styledComponentId": "c11",
+                          "target": "div",
+                          "toString": [Function],
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                    >
+                      <div
+                        className="c11 "
+                      >
+                        <ReviewBox__DataItem
+                          key="foo-bar-0"
+                        >
+                          <StyledComponent
+                            forwardedComponent={
+                              Object {
+                                "$$typeof": Symbol(react.forward_ref),
+                                "attrs": Array [],
+                                "componentStyle": ComponentStyle {
+                                  "componentId": "ReviewBox__DataItem-aebpua-6",
+                                  "isStatic": true,
+                                  "lastClassName": "c12",
+                                  "rules": Array [
+                                    "padding-bottom:15px;",
+                                  ],
+                                },
+                                "displayName": "ReviewBox__DataItem",
+                                "foldedComponentIds": Array [],
+                                "render": [Function],
+                                "styledComponentId": "ReviewBox__DataItem-aebpua-6",
+                                "target": "div",
+                                "toString": [Function],
+                                "warnTooManyClasses": [Function],
+                                "withComponent": [Function],
+                              }
+                            }
+                            forwardedRef={null}
+                          >
+                            <div
+                              className="c12"
+                            >
+                              <ReviewBox__DataLabel>
+                                <StyledComponent
+                                  forwardedComponent={
+                                    Object {
+                                      "$$typeof": Symbol(react.forward_ref),
+                                      "attrs": Array [],
+                                      "componentStyle": ComponentStyle {
+                                        "componentId": "ReviewBox__DataLabel-aebpua-7",
+                                        "isStatic": false,
+                                        "lastClassName": "c13",
+                                        "rules": Array [
+                                          "margin-bottom:0;font-family:",
+                                          [Function],
+                                          ";font-size:15px;font-weight:normal;line-height:28px;color:",
+                                          [Function],
+                                          ";text-transform:uppercase;",
+                                        ],
+                                      },
+                                      "displayName": "ReviewBox__DataLabel",
+                                      "foldedComponentIds": Array [],
+                                      "render": [Function],
+                                      "styledComponentId": "ReviewBox__DataLabel-aebpua-7",
+                                      "target": "h2",
+                                      "toString": [Function],
+                                      "warnTooManyClasses": [Function],
+                                      "withComponent": [Function],
+                                    }
+                                  }
+                                  forwardedRef={null}
+                                >
+                                  <h2
+                                    className="c13"
+                                  >
+                                    foo
+                                  </h2>
+                                </StyledComponent>
+                              </ReviewBox__DataLabel>
+                              <ReviewBox__DataValue>
+                                <StyledComponent
+                                  forwardedComponent={
+                                    Object {
+                                      "$$typeof": Symbol(react.forward_ref),
+                                      "attrs": Array [],
+                                      "componentStyle": ComponentStyle {
+                                        "componentId": "ReviewBox__DataValue-aebpua-8",
+                                        "isStatic": false,
+                                        "lastClassName": "c14",
+                                        "rules": Array [
+                                          "&&&{margin-bottom:0;max-width:none;font-size:15px;font-family:",
+                                          [Function],
+                                          ";color:",
+                                          [Function],
+                                          ";}",
+                                        ],
+                                      },
+                                      "displayName": "ReviewBox__DataValue",
+                                      "foldedComponentIds": Array [],
+                                      "render": [Function],
+                                      "styledComponentId": "ReviewBox__DataValue-aebpua-8",
+                                      "target": "p",
+                                      "toString": [Function],
+                                      "warnTooManyClasses": [Function],
+                                      "withComponent": [Function],
+                                    }
+                                  }
+                                  forwardedRef={null}
+                                >
+                                  <p
+                                    className="c14"
+                                  >
+                                    bar
+                                  </p>
+                                </StyledComponent>
+                              </ReviewBox__DataValue>
+                            </div>
+                          </StyledComponent>
+                        </ReviewBox__DataItem>
+                        <ReviewBox__DataItem
+                          key="baz-boo-1"
+                        >
+                          <StyledComponent
+                            forwardedComponent={
+                              Object {
+                                "$$typeof": Symbol(react.forward_ref),
+                                "attrs": Array [],
+                                "componentStyle": ComponentStyle {
+                                  "componentId": "ReviewBox__DataItem-aebpua-6",
+                                  "isStatic": true,
+                                  "lastClassName": "c12",
+                                  "rules": Array [
+                                    "padding-bottom:15px;",
+                                  ],
+                                },
+                                "displayName": "ReviewBox__DataItem",
+                                "foldedComponentIds": Array [],
+                                "render": [Function],
+                                "styledComponentId": "ReviewBox__DataItem-aebpua-6",
+                                "target": "div",
+                                "toString": [Function],
+                                "warnTooManyClasses": [Function],
+                                "withComponent": [Function],
+                              }
+                            }
+                            forwardedRef={null}
+                          >
+                            <div
+                              className="c12"
+                            >
+                              <ReviewBox__DataLabel>
+                                <StyledComponent
+                                  forwardedComponent={
+                                    Object {
+                                      "$$typeof": Symbol(react.forward_ref),
+                                      "attrs": Array [],
+                                      "componentStyle": ComponentStyle {
+                                        "componentId": "ReviewBox__DataLabel-aebpua-7",
+                                        "isStatic": false,
+                                        "lastClassName": "c13",
+                                        "rules": Array [
+                                          "margin-bottom:0;font-family:",
+                                          [Function],
+                                          ";font-size:15px;font-weight:normal;line-height:28px;color:",
+                                          [Function],
+                                          ";text-transform:uppercase;",
+                                        ],
+                                      },
+                                      "displayName": "ReviewBox__DataLabel",
+                                      "foldedComponentIds": Array [],
+                                      "render": [Function],
+                                      "styledComponentId": "ReviewBox__DataLabel-aebpua-7",
+                                      "target": "h2",
+                                      "toString": [Function],
+                                      "warnTooManyClasses": [Function],
+                                      "withComponent": [Function],
+                                    }
+                                  }
+                                  forwardedRef={null}
+                                >
+                                  <h2
+                                    className="c13"
+                                  >
+                                    baz
+                                  </h2>
+                                </StyledComponent>
+                              </ReviewBox__DataLabel>
+                              <ReviewBox__DataValue>
+                                <StyledComponent
+                                  forwardedComponent={
+                                    Object {
+                                      "$$typeof": Symbol(react.forward_ref),
+                                      "attrs": Array [],
+                                      "componentStyle": ComponentStyle {
+                                        "componentId": "ReviewBox__DataValue-aebpua-8",
+                                        "isStatic": false,
+                                        "lastClassName": "c14",
+                                        "rules": Array [
+                                          "&&&{margin-bottom:0;max-width:none;font-size:15px;font-family:",
+                                          [Function],
+                                          ";color:",
+                                          [Function],
+                                          ";}",
+                                        ],
+                                      },
+                                      "displayName": "ReviewBox__DataValue",
+                                      "foldedComponentIds": Array [],
+                                      "render": [Function],
+                                      "styledComponentId": "ReviewBox__DataValue-aebpua-8",
+                                      "target": "p",
+                                      "toString": [Function],
+                                      "warnTooManyClasses": [Function],
+                                      "withComponent": [Function],
+                                    }
+                                  }
+                                  forwardedRef={null}
+                                >
+                                  <p
+                                    className="c14"
+                                  >
+                                    boo
+                                  </p>
+                                </StyledComponent>
+                              </ReviewBox__DataValue>
+                            </div>
+                          </StyledComponent>
+                        </ReviewBox__DataItem>
+                      </div>
+                    </StyledComponent>
+                  </ReviewBox__DataWrapper>
+                </div>
+              </StyledComponent>
+            </ReviewBox__Content>
+          </section>
+        </StyledComponent>
+      </ReviewBox__ReviewBoxWrapper>
+    </ThemeProvider>
+  </EnsureDefaultTheme>
+</ReviewBox>
+`;
+
+exports[`<ReviewBox /> renders by default 1`] = `
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  max-width: 100%;
+  overflow: hidden;
+  margin-bottom: 5px;
+}
+
+.c2:last-child {
+  margin-right: 0;
+}
+
+.c2 .c9 {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.c6 {
+  margin-bottom: 15px;
+  font-size: 24px;
+  line-height: 28px;
+  text-align: center;
+}
+
+.c6:last-child {
+  margin-bottom: 0;
+}
+
+.c4 {
+  position: relative;
+  padding: 15px 15px 1px 15px;
+  background-color: #F5F5F5;
+}
+
+.c0 {
+  width: 100%;
+  max-width: 470px;
+  margin: 0 auto;
+}
+
+.c0 .c1 .c8:hover {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0 .c3 {
+  padding: 15px;
+}
+
+.c0 .c3 .c5 {
+  margin-bottom: 0;
+}
+
+.c0 .c3 .c7 {
+  display: none;
+}
+
+<ReviewBox
+  text={Array []}
+  title="Title"
+>
+  <EnsureDefaultTheme>
+    <ThemeProvider
+      theme={[Function]}
+    >
+      <ReviewBox__ReviewBoxWrapper
+        className="reviewbox-inset"
+        text={Array []}
+        title="Title"
+      >
+        <StyledComponent
+          className="reviewbox-inset"
+          forwardedComponent={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": Array [],
+              "componentStyle": ComponentStyle {
+                "componentId": "ReviewBox__ReviewBoxWrapper-aebpua-12",
+                "isStatic": false,
+                "lastClassName": "c0",
+                "rules": Array [
+                  "width:100%;max-width:470px;margin:0 auto;",
+                  ".c1",
+                  "{",
+                  ".c8",
+                  ":hover{text-decoration:none;}}",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  "@media only screen and ",
+                  "(max-width: 49.94em)",
+                  "{",
+                  "
+		",
+                  [Function],
+                  "
+	",
+                  "}",
+                  " ",
+                  "@media only screen and ",
+                  "(min-width: 37.37em)",
+                  "{",
+                  "
+		",
+                  [Function],
+                  "
+
+	",
+                  "}",
+                  " ",
+                  "@media only screen and ",
+                  "(min-width: 50em)",
+                  "{",
+                  "
+		",
+                  [Function],
+                  "
+	",
+                  "}",
+                ],
+              },
+              "displayName": "ReviewBox__ReviewBoxWrapper",
+              "foldedComponentIds": Array [],
+              "render": [Function],
+              "styledComponentId": "ReviewBox__ReviewBoxWrapper-aebpua-12",
+              "target": "section",
+              "toString": [Function],
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+          text={Array []}
+          title="Title"
+        >
+          <section
+            className="reviewbox-inset c0"
+            title="Title"
+          >
+            <story-type-label-wrapper__Wrapper
+              margin="small"
+              variant="top"
+            >
+              <StyledComponent
+                forwardedComponent={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": Array [],
+                    "componentStyle": ComponentStyle {
+                      "componentId": "c1",
+                      "isStatic": false,
+                      "lastClassName": "c2",
+                      "rules": Array [
+                        "display:flex;max-width:100%;overflow:hidden;",
+                        [Function],
+                        " ",
+                        [Function],
+                        ":last-child{margin-right:0;}",
+                        ".c9",
+                        "{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}",
+                      ],
+                    },
+                    "displayName": "story-type-label-wrapper__Wrapper",
+                    "foldedComponentIds": Array [],
+                    "render": [Function],
+                    "styledComponentId": "c1",
+                    "target": "div",
+                    "toString": [Function],
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+                margin="small"
+                variant="top"
+              >
+                <div
+                  className="c1 c2"
+                />
+              </StyledComponent>
+            </story-type-label-wrapper__Wrapper>
+            <ReviewBox__Head>
+              <StyledComponent
+                forwardedComponent={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": Array [],
+                    "componentStyle": ComponentStyle {
+                      "componentId": "ReviewBox__Head-aebpua-2",
+                      "isStatic": true,
+                      "lastClassName": "Uixpq",
+                      "rules": Array [],
+                    },
+                    "displayName": "ReviewBox__Head",
+                    "foldedComponentIds": Array [],
+                    "render": [Function],
+                    "styledComponentId": "ReviewBox__Head-aebpua-2",
+                    "target": "div",
+                    "toString": [Function],
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+              >
+                <div
+                  className=""
+                />
+              </StyledComponent>
+            </ReviewBox__Head>
+            <ReviewBox__Content>
+              <StyledComponent
+                forwardedComponent={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": Array [],
+                    "componentStyle": ComponentStyle {
+                      "componentId": "c3",
+                      "isStatic": false,
+                      "lastClassName": "c4",
+                      "rules": Array [
+                        "position:relative;padding:15px 15px 1px 15px;background-color:",
+                        [Function],
+                        ";",
+                      ],
+                    },
+                    "displayName": "ReviewBox__Content",
+                    "foldedComponentIds": Array [],
+                    "render": [Function],
+                    "styledComponentId": "c3",
+                    "target": "div",
+                    "toString": [Function],
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+              >
+                <div
+                  className="c3 c4"
+                >
+                  <ReviewBox__Title>
+                    <StyledComponent
+                      forwardedComponent={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "attrs": Array [],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "c5",
+                            "isStatic": true,
+                            "lastClassName": "c6",
+                            "rules": Array [
+                              "margin-bottom:15px;font-size:24px;line-height:28px;text-align:center;&:last-child{margin-bottom:0;}",
+                            ],
+                          },
+                          "displayName": "ReviewBox__Title",
+                          "foldedComponentIds": Array [],
+                          "render": [Function],
+                          "styledComponentId": "c5",
+                          "target": "h2",
+                          "toString": [Function],
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                    >
+                      <h2
+                        className="c5 c6"
+                      >
+                        Title
+                      </h2>
+                    </StyledComponent>
+                  </ReviewBox__Title>
+                  <ReviewBox__DataWrapper>
+                    <StyledComponent
+                      forwardedComponent={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "attrs": Array [],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "c7",
+                            "isStatic": true,
+                            "lastClassName": "jIFghh",
+                            "rules": Array [],
+                          },
+                          "displayName": "ReviewBox__DataWrapper",
+                          "foldedComponentIds": Array [],
+                          "render": [Function],
+                          "styledComponentId": "c7",
+                          "target": "div",
+                          "toString": [Function],
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                    >
+                      <div
+                        className="c7 "
+                      />
+                    </StyledComponent>
+                  </ReviewBox__DataWrapper>
+                </div>
+              </StyledComponent>
+            </ReviewBox__Content>
+          </section>
+        </StyledComponent>
+      </ReviewBox__ReviewBoxWrapper>
+    </ThemeProvider>
+  </EnsureDefaultTheme>
+</ReviewBox>
+`;

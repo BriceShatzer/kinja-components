@@ -1,0 +1,54 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CuratedHomepageEditor - state reducer RemoveSelectedCardAction should remove the selected card from the current edit state and not affect other states on the stack 1`] = `
+Array [
+  Object {
+    "customExcerpt": undefined,
+    "customHeadline": undefined,
+    "customThumbnail": undefined,
+    "postId": "1",
+  },
+  Object {
+    "customExcerpt": undefined,
+    "customHeadline": undefined,
+    "customThumbnail": undefined,
+    "postId": "2",
+  },
+  null,
+  Object {
+    "customExcerpt": undefined,
+    "customHeadline": undefined,
+    "customThumbnail": undefined,
+    "postId": "4",
+  },
+]
+`;
+
+exports[`CuratedHomepageEditor - state reducer RemoveSelectedCardAction should remove the selected card from the current edit state and not affect other states on the stack 2`] = `
+Array [
+  Object {
+    "customExcerpt": undefined,
+    "customHeadline": undefined,
+    "customThumbnail": undefined,
+    "postId": "1",
+  },
+  Object {
+    "customExcerpt": undefined,
+    "customHeadline": undefined,
+    "customThumbnail": undefined,
+    "postId": "2",
+  },
+  Object {
+    "customExcerpt": undefined,
+    "customHeadline": undefined,
+    "customThumbnail": undefined,
+    "postId": "3",
+  },
+  Object {
+    "customExcerpt": undefined,
+    "customHeadline": undefined,
+    "customThumbnail": undefined,
+    "postId": "4",
+  },
+]
+`;

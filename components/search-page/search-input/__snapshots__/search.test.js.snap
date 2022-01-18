@@ -1,0 +1,1580 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Search /> should render and match snapshot 1`] = `
+.c15 {
+  display: inline-block;
+  vertical-align: middle;
+  fill: none;
+  stroke-width: 1.01px;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke: #000;
+  opacity: 0.3;
+  height: 18px;
+  width: 18px;
+}
+
+.c17 {
+  display: inline-block;
+  vertical-align: middle;
+  fill: none;
+  stroke-width: 1.01px;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke: #000;
+  opacity: 1.0;
+  height: 24px;
+  width: 24px;
+}
+
+.c19 {
+  display: inline-block;
+  vertical-align: middle;
+  fill: none;
+  stroke-width: 1.01px;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke: #000;
+  opacity: 1.0;
+  height: 18px;
+  width: 18px;
+}
+
+.c9.c9 {
+  color: #666;
+  font-size: 16px;
+  line-height: 21px;
+}
+
+.c7 {
+  margin-bottom: 30px;
+  -webkit-flex-basis: 100%;
+  -ms-flex-preferred-size: 100%;
+  flex-basis: 100%;
+}
+
+.c7:hover .c8 {
+  color: #222;
+}
+
+.c7:focus-within .c8 {
+  color: #0A7BC2;
+}
+
+.c13.c13 {
+  border-bottom: 1px solid #7D7D7D;
+  color: #222 !important;
+  font-size: 18px;
+  line-height: 23px;
+  padding: 6px 0;
+  width: 100%;
+}
+
+.c13.c13.c13:hover,
+.c13.c13.c13:active,
+.c13.c13.c13:focus {
+  color: #222;
+}
+
+.c13:hover {
+  border-bottom-color: #666;
+}
+
+.c13.c13.c13:focus,
+.c13.c13.c13:active {
+  border-bottom-color: #0A7BC2;
+}
+
+.c13:disabled {
+  border-bottom-color: #CCC;
+  cursor: not-allowed;
+}
+
+.c11 {
+  position: relative;
+}
+
+.c11:hover {
+  border-bottom-color: #666;
+}
+
+.c11:hover .c10:focus,
+.c11:hover .c11:active {
+  border-bottom-color: #0A7BC2;
+}
+
+.c11:hover .c10:disabled {
+  border-bottom-color: #CCC;
+  cursor: not-allowed;
+}
+
+.c11 .c22 {
+  padding: 0;
+}
+
+.c14 {
+  display: none;
+  position: absolute;
+  bottom: 10px;
+  right: 0;
+}
+
+.c14.c14 {
+  opacity: 1;
+  stroke: #D24A1D;
+}
+
+.c21 {
+  fill: currentColor;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c5 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: end;
+  -webkit-justify-content: flex-end;
+  -ms-flex-pack: end;
+  justify-content: flex-end;
+  margin-bottom: 24px;
+  width: 100%;
+}
+
+.c5 .c6 {
+  width: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c5 .c10 {
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+}
+
+.c5 .c23 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0 15px 0 0;
+}
+
+.c5 .c12 {
+  -webkit-align-self: flex-end;
+  -ms-flex-item-align: end;
+  align-self: flex-end;
+  padding-right: 0;
+}
+
+.c4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.c4 .c6 {
+  margin: 0;
+}
+
+.c4 .c12 {
+  font-size: 30px;
+}
+
+.c4 > .c20 {
+  display: block;
+  margin-left: 8px;
+  cursor: pointer;
+}
+
+.c3 {
+  font-weight: normal;
+  margin: 0;
+  color: #0A7BC2;
+}
+
+.c16 {
+  display: inline-block;
+  position: absolute;
+  right: 0;
+  top: 12px;
+  cursor: pointer;
+  z-index: 2;
+  background: #fff;
+}
+
+.c18 {
+  display: inline-block;
+  position: absolute;
+  right: 0;
+  top: 12px;
+  cursor: pointer;
+  z-index: 2;
+  background: #fff;
+  display: none;
+}
+
+.c2 {
+  display: inline-block;
+  position: relative;
+}
+
+.c0 {
+  width: 100%;
+  margin: 20px 0;
+}
+
+.c0 .c1 {
+  display: block;
+}
+
+.c0 .c24 {
+  z-index: 99;
+}
+
+@media only screen and (min-width:37.37em) {
+  .c4 {
+    display: block;
+    margin-bottom: 31px;
+  }
+
+  .c4 > .c20 {
+    display: none;
+  }
+}
+
+@media only screen and (max-width:37.31em) {
+  .c16 {
+    display: none;
+  }
+}
+
+@media only screen and (max-width:37.31em) {
+  .c18 {
+    display: inline-block;
+  }
+}
+
+<Search
+  clearSuggestions={[MockFunction]}
+  inputValue="test"
+  isEmptySearchField={false}
+  onActionableSearch={[MockFunction]}
+  onFilterIconClick={[MockFunction]}
+  onManualSearch={[MockFunction]}
+  onSuggestionSelected={[MockFunction]}
+  onTyping={[MockFunction]}
+  resetSearchBar={[MockFunction]}
+  suggestions={Array []}
+>
+  <search__SearchWrapper
+    className="js_search_page_bar"
+  >
+    <StyledComponent
+      className="js_search_page_bar"
+      forwardedComponent={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": Array [],
+          "componentStyle": ComponentStyle {
+            "componentId": "search__SearchWrapper-sc-1jydn36-0",
+            "isStatic": true,
+            "lastClassName": "c0",
+            "rules": Array [
+              "width:100%;margin:20px 0;",
+              ".c1",
+              "{display:block;}",
+              ".c24",
+              "{z-index:99;}",
+            ],
+          },
+          "displayName": "search__SearchWrapper",
+          "foldedComponentIds": Array [],
+          "render": [Function],
+          "styledComponentId": "search__SearchWrapper-sc-1jydn36-0",
+          "target": "div",
+          "toString": [Function],
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        }
+      }
+      forwardedRef={null}
+    >
+      <div
+        className="js_search_page_bar c0"
+      >
+        <Suggestions
+          clearSuggestions={[Function]}
+          handleSelectedSuggestion={[Function]}
+          highlightIndex={0}
+          suggestions={Array []}
+          trigger={
+            <SearchInput
+              clearSuggestions={[Function]}
+              inputValue="test"
+              isEmptySearchField={false}
+              locale="en-US"
+              onActionableSearch={[Function]}
+              onFilterIconClick={[MockFunction]}
+              onInputChanged={[Function]}
+              onManualSearch={[Function]}
+              onResetSearchBar={[Function]}
+              onSearch={[Function]}
+              placeholder=""
+              typeahead={true}
+              walkDropDown={[Function]}
+            />
+          }
+        >
+          <EnsureDefaultTheme>
+            <ThemeProvider
+              theme={[Function]}
+            >
+              <Dropdown
+                dropdownContainer={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": Array [],
+                    "componentStyle": ComponentStyle {
+                      "componentId": "search-suggestions__DropdownContainer-kitjbg-2",
+                      "isStatic": false,
+                      "rules": Array [
+                        "background:",
+                        [Function],
+                        ";border:1px solid ",
+                        [Function],
+                        ";",
+                      ],
+                    },
+                    "displayName": "search-suggestions__DropdownContainer",
+                    "foldedComponentIds": Array [],
+                    "render": [Function],
+                    "styledComponentId": "search-suggestions__DropdownContainer-kitjbg-2",
+                    "target": "div",
+                    "toString": [Function],
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                isOpen={false}
+                onClickOutside={[Function]}
+                onClose={[Function]}
+                options={
+                  Object {
+                    "align": "fullwidth",
+                    "useClick": false,
+                  }
+                }
+                trigger={
+                  <SearchInput
+                    clearSuggestions={[Function]}
+                    inputValue="test"
+                    isEmptySearchField={false}
+                    locale="en-US"
+                    onActionableSearch={[Function]}
+                    onFilterIconClick={[MockFunction]}
+                    onInputChanged={[Function]}
+                    onManualSearch={[Function]}
+                    onResetSearchBar={[Function]}
+                    onSearch={[Function]}
+                    placeholder=""
+                    typeahead={true}
+                    walkDropDown={[Function]}
+                  />
+                }
+              >
+                <ClickOutside(Component)
+                  handleClickOutside={[Function]}
+                  onClick={[Function]}
+                  onMouseEnter={[Function]}
+                  onMouseLeave={[Function]}
+                >
+                  <Component
+                    insideReference={[Function]}
+                    onClick={[Function]}
+                    onMouseEnter={[Function]}
+                    onMouseLeave={[Function]}
+                  >
+                    <dropdown__TriggerContainer
+                      insideReference={[Function]}
+                      onClick={[Function]}
+                      onMouseEnter={[Function]}
+                      onMouseLeave={[Function]}
+                    >
+                      <StyledComponent
+                        forwardedComponent={
+                          Object {
+                            "$$typeof": Symbol(react.forward_ref),
+                            "attrs": Array [],
+                            "componentStyle": ComponentStyle {
+                              "componentId": "c1",
+                              "isStatic": true,
+                              "lastClassName": "c2",
+                              "rules": Array [
+                                "display:inline-block;position:relative;",
+                              ],
+                            },
+                            "displayName": "dropdown__TriggerContainer",
+                            "foldedComponentIds": Array [],
+                            "render": [Function],
+                            "styledComponentId": "c1",
+                            "target": "div",
+                            "toString": [Function],
+                            "warnTooManyClasses": [Function],
+                            "withComponent": [Function],
+                          }
+                        }
+                        forwardedRef={[Function]}
+                        insideReference={[Function]}
+                        onClick={[Function]}
+                        onMouseEnter={[Function]}
+                        onMouseLeave={[Function]}
+                      >
+                        <div
+                          className="c1 c2"
+                          onClick={[Function]}
+                          onMouseEnter={[Function]}
+                          onMouseLeave={[Function]}
+                        >
+                          <SearchInput
+                            clearSuggestions={[Function]}
+                            inputValue="test"
+                            isEmptySearchField={false}
+                            locale="en-US"
+                            onActionableSearch={[Function]}
+                            onFilterIconClick={[MockFunction]}
+                            onInputChanged={[Function]}
+                            onManualSearch={[Function]}
+                            onResetSearchBar={[Function]}
+                            onSearch={[Function]}
+                            placeholder=""
+                            typeahead={true}
+                            walkDropDown={[Function]}
+                          >
+                            <EnsureDefaultTheme>
+                              <ThemeProvider
+                                theme={[Function]}
+                              >
+                                <search-bar__Headline>
+                                  <StyledComponent
+                                    forwardedComponent={
+                                      Object {
+                                        "$$typeof": Symbol(react.forward_ref),
+                                        "attrs": Array [],
+                                        "componentStyle": ComponentStyle {
+                                          "componentId": "search-bar__Headline-sc-109c13d-1",
+                                          "isStatic": false,
+                                          "lastClassName": "c3",
+                                          "rules": Array [
+                                            "font-weight:normal;margin:0;color:",
+                                            [Function],
+                                            ";",
+                                          ],
+                                        },
+                                        "displayName": "search-bar__Headline",
+                                        "foldedComponentIds": Array [],
+                                        "render": [Function],
+                                        "styledComponentId": "search-bar__Headline-sc-109c13d-1",
+                                        "target": "h3",
+                                        "toString": [Function],
+                                        "warnTooManyClasses": [Function],
+                                        "withComponent": [Function],
+                                      }
+                                    }
+                                    forwardedRef={null}
+                                  >
+                                    <h3
+                                      className="c3"
+                                    >
+                                      Search for
+                                    </h3>
+                                  </StyledComponent>
+                                </search-bar__Headline>
+                                <search-bar__InputContainer>
+                                  <StyledComponent
+                                    forwardedComponent={
+                                      Object {
+                                        "$$typeof": Symbol(react.forward_ref),
+                                        "attrs": Array [],
+                                        "componentStyle": ComponentStyle {
+                                          "componentId": "search-bar__InputContainer-sc-109c13d-5",
+                                          "isStatic": true,
+                                          "lastClassName": "iHdKKF",
+                                          "rules": Array [],
+                                        },
+                                        "displayName": "search-bar__InputContainer",
+                                        "foldedComponentIds": Array [],
+                                        "render": [Function],
+                                        "styledComponentId": "search-bar__InputContainer-sc-109c13d-5",
+                                        "target": "div",
+                                        "toString": [Function],
+                                        "warnTooManyClasses": [Function],
+                                        "withComponent": [Function],
+                                      }
+                                    }
+                                    forwardedRef={null}
+                                  >
+                                    <div
+                                      className=""
+                                    >
+                                      <search-bar__StyledSearchBar
+                                        clearSuggestions={[Function]}
+                                        icon={
+                                          <React.Fragment>
+                                            <ForwardRef
+                                              name="search"
+                                              onClick={[Function]}
+                                              opacity="complete"
+                                              size="giant"
+                                            />
+                                            <ForwardRef
+                                              name="close"
+                                              onClick={[Function]}
+                                              opacity="complete"
+                                              size="normal"
+                                            />
+                                          </React.Fragment>
+                                        }
+                                        inputValue="test"
+                                        isEmptySearchField={false}
+                                        locale="en-US"
+                                        onActionableSearch={[Function]}
+                                        onFilterIconClick={[MockFunction]}
+                                        onInputChanged={[Function]}
+                                        onManualSearch={[Function]}
+                                        onResetSearchBar={[Function]}
+                                        onSearch={[Function]}
+                                        placeholder=""
+                                        typeahead={true}
+                                        walkDropDown={[Function]}
+                                      >
+                                        <StyledComponent
+                                          clearSuggestions={[Function]}
+                                          forwardedComponent={
+                                            Object {
+                                              "$$typeof": Symbol(react.forward_ref),
+                                              "attrs": Array [],
+                                              "componentStyle": ComponentStyle {
+                                                "componentId": "search-bar__StyledSearchBar-sc-109c13d-0",
+                                                "isStatic": true,
+                                                "lastClassName": "c4",
+                                                "rules": Array [
+                                                  "display:flex;align-items:center;",
+                                                  ".c6",
+                                                  "{margin:0;}",
+                                                  ".c12",
+                                                  "{font-size:30px;}> ",
+                                                  ".c20",
+                                                  "{display:block;margin-left:8px;cursor:pointer;}",
+                                                  "@media only screen and (min-width:37.37em){",
+                                                  "
+		display: block;
+		margin-bottom: 31px;
+
+		> ",
+                                                  ".c20",
+                                                  " {
+			display: none;
+		}
+	",
+                                                  "}",
+                                                ],
+                                              },
+                                              "displayName": "search-bar__StyledSearchBar",
+                                              "foldedComponentIds": Array [],
+                                              "render": [Function],
+                                              "styledComponentId": "search-bar__StyledSearchBar-sc-109c13d-0",
+                                              "target": [Function],
+                                              "toString": [Function],
+                                              "warnTooManyClasses": [Function],
+                                              "withComponent": [Function],
+                                              Symbol(Symbol.hasInstance): [Function],
+                                            }
+                                          }
+                                          forwardedRef={null}
+                                          icon={
+                                            <React.Fragment>
+                                              <ForwardRef
+                                                name="search"
+                                                onClick={[Function]}
+                                                opacity="complete"
+                                                size="giant"
+                                              />
+                                              <ForwardRef
+                                                name="close"
+                                                onClick={[Function]}
+                                                opacity="complete"
+                                                size="normal"
+                                              />
+                                            </React.Fragment>
+                                          }
+                                          inputValue="test"
+                                          isEmptySearchField={false}
+                                          locale="en-US"
+                                          onActionableSearch={[Function]}
+                                          onFilterIconClick={[MockFunction]}
+                                          onInputChanged={[Function]}
+                                          onManualSearch={[Function]}
+                                          onResetSearchBar={[Function]}
+                                          onSearch={[Function]}
+                                          placeholder=""
+                                          typeahead={true}
+                                          walkDropDown={[Function]}
+                                        >
+                                          <SearchBar
+                                            className="c4"
+                                            clearSuggestions={[Function]}
+                                            icon={
+                                              <React.Fragment>
+                                                <ForwardRef
+                                                  name="search"
+                                                  onClick={[Function]}
+                                                  opacity="complete"
+                                                  size="giant"
+                                                />
+                                                <ForwardRef
+                                                  name="close"
+                                                  onClick={[Function]}
+                                                  opacity="complete"
+                                                  size="normal"
+                                                />
+                                              </React.Fragment>
+                                            }
+                                            inputValue="test"
+                                            isEmptySearchField={false}
+                                            locale="en-US"
+                                            onActionableSearch={[Function]}
+                                            onFilterIconClick={[MockFunction]}
+                                            onInputChanged={[Function]}
+                                            onManualSearch={[Function]}
+                                            onResetSearchBar={[Function]}
+                                            onSearch={[Function]}
+                                            placeholder=""
+                                            typeahead={true}
+                                            walkDropDown={[Function]}
+                                          >
+                                            <EnsureDefaultTheme>
+                                              <ThemeProvider
+                                                theme={[Function]}
+                                              >
+                                                <SearchBar__SearchBarWrapper
+                                                  className="js_searchbar c4"
+                                                >
+                                                  <StyledComponent
+                                                    className="js_searchbar c4"
+                                                    forwardedComponent={
+                                                      Object {
+                                                        "$$typeof": Symbol(react.forward_ref),
+                                                        "attrs": Array [],
+                                                        "componentStyle": ComponentStyle {
+                                                          "componentId": "SearchBar__SearchBarWrapper-sc-1vrprhi-0",
+                                                          "isStatic": true,
+                                                          "lastClassName": "c5",
+                                                          "rules": Array [
+                                                            "display:flex;justify-content:flex-end;margin-bottom:24px;width:100%;",
+                                                            ".c6",
+                                                            "{width:100%;display:flex;}",
+                                                            ".c10",
+                                                            "{flex:1;}",
+                                                            ".c23",
+                                                            "{display:flex;margin:0 15px 0 0;}",
+                                                            ".c12",
+                                                            "{align-self:flex-end;padding-right:0;}",
+                                                          ],
+                                                        },
+                                                        "displayName": "SearchBar__SearchBarWrapper",
+                                                        "foldedComponentIds": Array [],
+                                                        "render": [Function],
+                                                        "styledComponentId": "SearchBar__SearchBarWrapper-sc-1vrprhi-0",
+                                                        "target": "div",
+                                                        "toString": [Function],
+                                                        "warnTooManyClasses": [Function],
+                                                        "withComponent": [Function],
+                                                      }
+                                                    }
+                                                    forwardedRef={null}
+                                                  >
+                                                    <div
+                                                      className="js_searchbar c4 c5"
+                                                    >
+                                                      <Textfield18
+                                                        blogTheme="default"
+                                                        customIcon={
+                                                          <React.Fragment>
+                                                            <ForwardRef
+                                                              name="search"
+                                                              onClick={[Function]}
+                                                              opacity="complete"
+                                                              size="giant"
+                                                            />
+                                                            <ForwardRef
+                                                              name="close"
+                                                              onClick={[Function]}
+                                                              opacity="complete"
+                                                              size="normal"
+                                                            />
+                                                          </React.Fragment>
+                                                        }
+                                                        fullWidth={true}
+                                                        name="search-bar"
+                                                        onChange={[Function]}
+                                                        onKeyDown={[Function]}
+                                                        placeholder=""
+                                                        value="test"
+                                                      >
+                                                        <Theme
+                                                          blog="default"
+                                                          theme={
+                                                            Object {
+                                                              "breakpointBanner": "969px",
+                                                              "breakpointMedium": "53.125em",
+                                                              "color": Object {
+                                                                "alert": "#EEB544",
+                                                                "amazon": "#F5C056",
+                                                                "backgroundLayer": "rgba(0,0,0,0.45)",
+                                                                "backgroundLight": "#F5F5F5",
+                                                                "black": "#000",
+                                                                "blackOverlay": "rgba(0,0,0,0.7)",
+                                                                "bodytext": "#222",
+                                                                "commerce": "#72AD75",
+                                                                "darkBlackOverlay": "rgba(0,0,0,0.9)",
+                                                                "darkgray": "#666",
+                                                                "darksmoke": "#222",
+                                                                "error": "#D24A1D",
+                                                                "facebook": "#3B5998",
+                                                                "foregroundLayer": "rgba(0,0,0,0.4)",
+                                                                "google": "#DB4437",
+                                                                "gray": "#7D7D7D",
+                                                                "instagram": "#C32AA3",
+                                                                "lightgray": "#E5E5E5",
+                                                                "linkedin": "#0077B5",
+                                                                "logo": "#000",
+                                                                "midgray": "#CCC",
+                                                                "primary": "#0A7BC2",
+                                                                "primaryLight": "#0C91E4",
+                                                                "rss": "#7D7D7D",
+                                                                "secondarytext": "#7D7D7D",
+                                                                "success": "#23891F",
+                                                                "twitter": "#1DA1F2",
+                                                                "white": "#FFF",
+                                                                "whiteOverlay": "rgba(255,255,255,0.7)",
+                                                                "whitesmoke": "#F5F5F5",
+                                                                "youtube": "#FF0000",
+                                                              },
+                                                              "columnGutter": "2.25rem",
+                                                              "columnGutter19": Object {
+                                                                "largeUp": "1.5rem",
+                                                                "small19": "1rem",
+                                                                "xlargeUp": "2rem",
+                                                              },
+                                                              "columnPadding": "1.125rem",
+                                                              "columnPadding19": Object {
+                                                                "largeUp": "0.75rem",
+                                                                "small19": "0.5rem",
+                                                                "xlargeUp": "1rem",
+                                                              },
+                                                              "featuredContentWidth": "1024px",
+                                                              "font": Object {
+                                                                "body": "ElizabethSerif, Georgia, serif",
+                                                                "embiggenedHeadlineSize": "34px",
+                                                                "headline": "ProximaNovaCond, sans-serif",
+                                                                "headlineLineHeight": "1.3",
+                                                                "headlineSize": "24px",
+                                                                "primary": "ProximaNovaCond, sans-serif",
+                                                                "serif": "ElizabethSerif, Georgia, serif",
+                                                                "tertiary": "FiraSans, sans-serif",
+                                                                "utility": "ProximaNovaCond, sans-serif",
+                                                              },
+                                                              "globalNavHeight": "80px",
+                                                              "linkTransition": "0.1s ease-out",
+                                                              "mainContainerWidth": "66.5%",
+                                                              "mainContentMaxWidth": "800px",
+                                                              "pageWidth": "1336px",
+                                                              "postContentMaxWidth": "636px",
+                                                              "scrollbackNavHeight": "60px",
+                                                              "sidebarContainerWidth": "33.5%",
+                                                              "sidebarContentMaxWidth": "360px",
+                                                              "sidebarContentMinWidth": "300px",
+                                                              "slideshowTransitionDuration": "0.2s",
+                                                            }
+                                                          }
+                                                        >
+                                                          <ThemeProvider
+                                                            theme={
+                                                              Object {
+                                                                "blog": "default",
+                                                                "breakpointBanner": "969px",
+                                                                "breakpointMedium": "53.125em",
+                                                                "color": Object {
+                                                                  "alert": "#EEB544",
+                                                                  "amazon": "#F5C056",
+                                                                  "backgroundLayer": "rgba(0,0,0,0.45)",
+                                                                  "backgroundLight": "#F5F5F5",
+                                                                  "black": "#000",
+                                                                  "blackOverlay": "rgba(0,0,0,0.7)",
+                                                                  "bodytext": "#222",
+                                                                  "commerce": "#72AD75",
+                                                                  "darkBlackOverlay": "rgba(0,0,0,0.9)",
+                                                                  "darkgray": "#666",
+                                                                  "darksmoke": "#222",
+                                                                  "error": "#D24A1D",
+                                                                  "facebook": "#3B5998",
+                                                                  "foregroundLayer": "rgba(0,0,0,0.4)",
+                                                                  "google": "#DB4437",
+                                                                  "gray": "#7D7D7D",
+                                                                  "instagram": "#C32AA3",
+                                                                  "lightgray": "#E5E5E5",
+                                                                  "linkedin": "#0077B5",
+                                                                  "logo": "#000",
+                                                                  "midgray": "#CCC",
+                                                                  "primary": "#0A7BC2",
+                                                                  "primaryLight": "#0C91E4",
+                                                                  "rss": "#7D7D7D",
+                                                                  "secondarytext": "#7D7D7D",
+                                                                  "success": "#23891F",
+                                                                  "twitter": "#1DA1F2",
+                                                                  "white": "#FFF",
+                                                                  "whiteOverlay": "rgba(255,255,255,0.7)",
+                                                                  "whitesmoke": "#F5F5F5",
+                                                                  "youtube": "#FF0000",
+                                                                },
+                                                                "columnGutter": "2.25rem",
+                                                                "columnGutter19": Object {
+                                                                  "largeUp": "1.5rem",
+                                                                  "small19": "1rem",
+                                                                  "xlargeUp": "2rem",
+                                                                },
+                                                                "columnPadding": "1.125rem",
+                                                                "columnPadding19": Object {
+                                                                  "largeUp": "0.75rem",
+                                                                  "small19": "0.5rem",
+                                                                  "xlargeUp": "1rem",
+                                                                },
+                                                                "featuredContentWidth": "1024px",
+                                                                "font": Object {
+                                                                  "body": "ElizabethSerif, Georgia, serif",
+                                                                  "embiggenedHeadlineSize": "34px",
+                                                                  "headline": "ProximaNovaCond, sans-serif",
+                                                                  "headlineLineHeight": "1.3",
+                                                                  "headlineSize": "24px",
+                                                                  "primary": "ProximaNovaCond, sans-serif",
+                                                                  "serif": "ElizabethSerif, Georgia, serif",
+                                                                  "tertiary": "FiraSans, sans-serif",
+                                                                  "utility": "ProximaNovaCond, sans-serif",
+                                                                },
+                                                                "globalNavHeight": "80px",
+                                                                "linkTransition": "0.1s ease-out",
+                                                                "mainContainerWidth": "66.5%",
+                                                                "mainContentMaxWidth": "800px",
+                                                                "pageWidth": "1336px",
+                                                                "postContentMaxWidth": "636px",
+                                                                "scrollbackNavHeight": "60px",
+                                                                "sidebarContainerWidth": "33.5%",
+                                                                "sidebarContentMaxWidth": "360px",
+                                                                "sidebarContentMinWidth": "300px",
+                                                                "slideshowTransitionDuration": "0.2s",
+                                                              }
+                                                            }
+                                                          >
+                                                            <textfield__KinjaFormFieldWrapper>
+                                                              <StyledComponent
+                                                                forwardedComponent={
+                                                                  Object {
+                                                                    "$$typeof": Symbol(react.forward_ref),
+                                                                    "attrs": Array [],
+                                                                    "componentStyle": ComponentStyle {
+                                                                      "componentId": "c6",
+                                                                      "isStatic": false,
+                                                                      "lastClassName": "c7",
+                                                                      "rules": Array [
+                                                                        "margin-bottom:30px;flex-basis:100%;&:hover{",
+                                                                        ".c8",
+                                                                        "{color:",
+                                                                        [Function],
+                                                                        ";}}&:focus-within{",
+                                                                        ".c8",
+                                                                        "{color:",
+                                                                        [Function],
+                                                                        ";}}",
+                                                                        [Function],
+                                                                      ],
+                                                                    },
+                                                                    "displayName": "textfield__KinjaFormFieldWrapper",
+                                                                    "foldedComponentIds": Array [],
+                                                                    "render": [Function],
+                                                                    "styledComponentId": "c6",
+                                                                    "target": "div",
+                                                                    "toString": [Function],
+                                                                    "warnTooManyClasses": [Function],
+                                                                    "withComponent": [Function],
+                                                                  }
+                                                                }
+                                                                forwardedRef={null}
+                                                              >
+                                                                <div
+                                                                  className="c6 c7"
+                                                                >
+                                                                  <textfield__KinjaLabel
+                                                                    htmlFor="search-bar"
+                                                                  >
+                                                                    <StyledComponent
+                                                                      forwardedComponent={
+                                                                        Object {
+                                                                          "$$typeof": Symbol(react.forward_ref),
+                                                                          "attrs": Array [],
+                                                                          "componentStyle": ComponentStyle {
+                                                                            "componentId": "c8",
+                                                                            "isStatic": false,
+                                                                            "lastClassName": "c9",
+                                                                            "rules": Array [
+                                                                              "&&{color:",
+                                                                              [Function],
+                                                                              ";font-size:16px;line-height:21px;}",
+                                                                            ],
+                                                                          },
+                                                                          "displayName": "textfield__KinjaLabel",
+                                                                          "foldedComponentIds": Array [],
+                                                                          "render": [Function],
+                                                                          "styledComponentId": "c8",
+                                                                          "target": "label",
+                                                                          "toString": [Function],
+                                                                          "warnTooManyClasses": [Function],
+                                                                          "withComponent": [Function],
+                                                                        }
+                                                                      }
+                                                                      forwardedRef={null}
+                                                                      htmlFor="search-bar"
+                                                                    >
+                                                                      <label
+                                                                        className="c8 c9"
+                                                                        htmlFor="search-bar"
+                                                                      />
+                                                                    </StyledComponent>
+                                                                  </textfield__KinjaLabel>
+                                                                  <textfield__KinjaTextFieldWrapper>
+                                                                    <StyledComponent
+                                                                      forwardedComponent={
+                                                                        Object {
+                                                                          "$$typeof": Symbol(react.forward_ref),
+                                                                          "attrs": Array [],
+                                                                          "componentStyle": ComponentStyle {
+                                                                            "componentId": "c10",
+                                                                            "isStatic": false,
+                                                                            "lastClassName": "c11",
+                                                                            "rules": Array [
+                                                                              "position:relative;&:hover{border-bottom-color:",
+                                                                              [Function],
+                                                                              ";}&:hover &:focus,&:hover &:active{border-bottom-color:",
+                                                                              [Function],
+                                                                              ";}&:hover &:disabled{border-bottom-color:",
+                                                                              [Function],
+                                                                              ";cursor:not-allowed;}",
+                                                                              ".c22",
+                                                                              "{padding:0;}",
+                                                                              ".c22",
+                                                                              "{",
+                                                                              [Function],
+                                                                              "}",
+                                                                            ],
+                                                                          },
+                                                                          "displayName": "textfield__KinjaTextFieldWrapper",
+                                                                          "foldedComponentIds": Array [],
+                                                                          "render": [Function],
+                                                                          "styledComponentId": "c10",
+                                                                          "target": "div",
+                                                                          "toString": [Function],
+                                                                          "warnTooManyClasses": [Function],
+                                                                          "withComponent": [Function],
+                                                                        }
+                                                                      }
+                                                                      forwardedRef={null}
+                                                                    >
+                                                                      <div
+                                                                        className="c10 c11"
+                                                                      >
+                                                                        <textfield__KinjaTextField
+                                                                          fullWidth={true}
+                                                                          id="search-bar"
+                                                                          name="search-bar"
+                                                                          onChange={[Function]}
+                                                                          onKeyDown={[Function]}
+                                                                          placeholder=""
+                                                                          type="text"
+                                                                          value="test"
+                                                                        >
+                                                                          <StyledComponent
+                                                                            forwardedComponent={
+                                                                              Object {
+                                                                                "$$typeof": Symbol(react.forward_ref),
+                                                                                "attrs": Array [],
+                                                                                "componentStyle": ComponentStyle {
+                                                                                  "componentId": "c12",
+                                                                                  "isStatic": false,
+                                                                                  "lastClassName": "c13",
+                                                                                  "rules": Array [
+                                                                                    "&&{border-bottom:1px solid ",
+                                                                                    [Function],
+                                                                                    ";color:",
+                                                                                    [Function],
+                                                                                    " !important;font-size:18px;line-height:23px;padding:6px ",
+                                                                                    [Function],
+                                                                                    ";width:100%;}&&&:hover,&&&:active,&&&:focus{color:",
+                                                                                    [Function],
+                                                                                    ";}&:hover{border-bottom-color:",
+                                                                                    [Function],
+                                                                                    ";}&&&:focus,&&&:active{border-bottom-color:",
+                                                                                    [Function],
+                                                                                    ";}&:disabled{border-bottom-color:",
+                                                                                    [Function],
+                                                                                    ";cursor:not-allowed;}",
+                                                                                    ";",
+                                                                                  ],
+                                                                                },
+                                                                                "displayName": "textfield__KinjaTextField",
+                                                                                "foldedComponentIds": Array [],
+                                                                                "render": [Function],
+                                                                                "styledComponentId": "c12",
+                                                                                "target": "input",
+                                                                                "toString": [Function],
+                                                                                "warnTooManyClasses": [Function],
+                                                                                "withComponent": [Function],
+                                                                              }
+                                                                            }
+                                                                            forwardedRef={null}
+                                                                            fullWidth={true}
+                                                                            id="search-bar"
+                                                                            name="search-bar"
+                                                                            onChange={[Function]}
+                                                                            onKeyDown={[Function]}
+                                                                            placeholder=""
+                                                                            type="text"
+                                                                            value="test"
+                                                                          >
+                                                                            <input
+                                                                              className="c12 c13"
+                                                                              id="search-bar"
+                                                                              name="search-bar"
+                                                                              onChange={[Function]}
+                                                                              onKeyDown={[Function]}
+                                                                              placeholder=""
+                                                                              type="text"
+                                                                              value="test"
+                                                                            />
+                                                                          </StyledComponent>
+                                                                        </textfield__KinjaTextField>
+                                                                        <textfield__KinjaTextFieldIcon
+                                                                          name="error"
+                                                                        >
+                                                                          <StyledComponent
+                                                                            forwardedComponent={
+                                                                              Object {
+                                                                                "$$typeof": Symbol(react.forward_ref),
+                                                                                "attrs": Array [],
+                                                                                "componentStyle": ComponentStyle {
+                                                                                  "componentId": "textfield__KinjaTextFieldIcon-sc-1a9gghc-5",
+                                                                                  "isStatic": false,
+                                                                                  "lastClassName": "c14",
+                                                                                  "rules": Array [
+                                                                                    "display:",
+                                                                                    [Function],
+                                                                                    ";position:absolute;bottom:10px;right:0;&&{opacity:1;stroke:",
+                                                                                    [Function],
+                                                                                    ";}",
+                                                                                  ],
+                                                                                },
+                                                                                "displayName": "textfield__KinjaTextFieldIcon",
+                                                                                "foldedComponentIds": Array [],
+                                                                                "render": [Function],
+                                                                                "styledComponentId": "textfield__KinjaTextFieldIcon-sc-1a9gghc-5",
+                                                                                "target": [Function],
+                                                                                "toString": [Function],
+                                                                                "warnTooManyClasses": [Function],
+                                                                                "withComponent": [Function],
+                                                                                Symbol(Symbol.hasInstance): [Function],
+                                                                              }
+                                                                            }
+                                                                            forwardedRef={null}
+                                                                            name="error"
+                                                                          >
+                                                                            <Icon
+                                                                              className="c14"
+                                                                              name="error"
+                                                                            >
+                                                                              <EnsureDefaultTheme>
+                                                                                <ThemeProvider
+                                                                                  theme={[Function]}
+                                                                                >
+                                                                                  <icon__IconSVG
+                                                                                    aria-label="error icon"
+                                                                                    className="c14"
+                                                                                    name="error"
+                                                                                  >
+                                                                                    <StyledComponent
+                                                                                      aria-label="error icon"
+                                                                                      className="c14"
+                                                                                      forwardedComponent={
+                                                                                        Object {
+                                                                                          "$$typeof": Symbol(react.forward_ref),
+                                                                                          "attrs": Array [],
+                                                                                          "componentStyle": ComponentStyle {
+                                                                                            "componentId": "icon__IconSVG-sc-1rlybe8-0",
+                                                                                            "isStatic": false,
+                                                                                            "lastClassName": "c19",
+                                                                                            "rules": Array [
+                                                                                              "display:inline-block;vertical-align:middle;fill:none;stroke-width:",
+                                                                                              [Function],
+                                                                                              ";stroke-linecap:",
+                                                                                              [Function],
+                                                                                              ";stroke-linejoin:",
+                                                                                              [Function],
+                                                                                              ";stroke:",
+                                                                                              [Function],
+                                                                                              ";opacity:",
+                                                                                              [Function],
+                                                                                              ";height:",
+                                                                                              [Function],
+                                                                                              ";width:",
+                                                                                              [Function],
+                                                                                              ";transform:",
+                                                                                              [Function],
+                                                                                              " ",
+                                                                                              [Function],
+                                                                                              ";",
+                                                                                              [Function],
+                                                                                              " ",
+                                                                                              [Function],
+                                                                                              " ",
+                                                                                              [Function],
+                                                                                              " ",
+                                                                                              [Function],
+                                                                                              " ",
+                                                                                              [Function],
+                                                                                              " ",
+                                                                                              [Function],
+                                                                                            ],
+                                                                                          },
+                                                                                          "displayName": "icon__IconSVG",
+                                                                                          "foldedComponentIds": Array [],
+                                                                                          "render": [Function],
+                                                                                          "styledComponentId": "icon__IconSVG-sc-1rlybe8-0",
+                                                                                          "target": "svg",
+                                                                                          "toString": [Function],
+                                                                                          "warnTooManyClasses": [Function],
+                                                                                          "withComponent": [Function],
+                                                                                        }
+                                                                                      }
+                                                                                      forwardedRef={null}
+                                                                                      name="error"
+                                                                                    >
+                                                                                      <svg
+                                                                                        aria-label="error icon"
+                                                                                        className="c14 c15"
+                                                                                        name="error"
+                                                                                      >
+                                                                                        <use
+                                                                                          xlinkHref="#iconset-error"
+                                                                                        />
+                                                                                      </svg>
+                                                                                    </StyledComponent>
+                                                                                  </icon__IconSVG>
+                                                                                </ThemeProvider>
+                                                                              </EnsureDefaultTheme>
+                                                                            </Icon>
+                                                                          </StyledComponent>
+                                                                        </textfield__KinjaTextFieldIcon>
+                                                                        <search-bar__SearchIconElem
+                                                                          name="search"
+                                                                          onClick={[Function]}
+                                                                          opacity="complete"
+                                                                          size="giant"
+                                                                        >
+                                                                          <StyledComponent
+                                                                            forwardedComponent={
+                                                                              Object {
+                                                                                "$$typeof": Symbol(react.forward_ref),
+                                                                                "attrs": Array [],
+                                                                                "componentStyle": ComponentStyle {
+                                                                                  "componentId": "search-bar__SearchIconElem-sc-109c13d-3",
+                                                                                  "isStatic": true,
+                                                                                  "lastClassName": "c16",
+                                                                                  "rules": Array [
+                                                                                    "display:inline-block;position:absolute;right:0;top:12px;cursor:pointer;z-index:2;background:#fff;",
+                                                                                    "@media only screen and (max-width:37.31em){",
+                                                                                    "
+		display: none;
+	",
+                                                                                    "}",
+                                                                                  ],
+                                                                                },
+                                                                                "displayName": "search-bar__SearchIconElem",
+                                                                                "foldedComponentIds": Array [
+                                                                                  "search-bar__IconElem-sc-109c13d-2",
+                                                                                ],
+                                                                                "render": [Function],
+                                                                                "styledComponentId": "search-bar__SearchIconElem-sc-109c13d-3",
+                                                                                "target": [Function],
+                                                                                "toString": [Function],
+                                                                                "warnTooManyClasses": [Function],
+                                                                                "withComponent": [Function],
+                                                                                Symbol(Symbol.hasInstance): [Function],
+                                                                              }
+                                                                            }
+                                                                            forwardedRef={null}
+                                                                            name="search"
+                                                                            onClick={[Function]}
+                                                                            opacity="complete"
+                                                                            size="giant"
+                                                                          >
+                                                                            <Icon
+                                                                              className="c16"
+                                                                              name="search"
+                                                                              onClick={[Function]}
+                                                                              opacity="complete"
+                                                                              size="giant"
+                                                                            >
+                                                                              <EnsureDefaultTheme>
+                                                                                <ThemeProvider
+                                                                                  theme={[Function]}
+                                                                                >
+                                                                                  <icon__IconSVG
+                                                                                    aria-label="search icon"
+                                                                                    className="c16"
+                                                                                    name="search"
+                                                                                    onClick={[Function]}
+                                                                                    opacity="complete"
+                                                                                    size="giant"
+                                                                                  >
+                                                                                    <StyledComponent
+                                                                                      aria-label="search icon"
+                                                                                      className="c16"
+                                                                                      forwardedComponent={
+                                                                                        Object {
+                                                                                          "$$typeof": Symbol(react.forward_ref),
+                                                                                          "attrs": Array [],
+                                                                                          "componentStyle": ComponentStyle {
+                                                                                            "componentId": "icon__IconSVG-sc-1rlybe8-0",
+                                                                                            "isStatic": false,
+                                                                                            "lastClassName": "c19",
+                                                                                            "rules": Array [
+                                                                                              "display:inline-block;vertical-align:middle;fill:none;stroke-width:",
+                                                                                              [Function],
+                                                                                              ";stroke-linecap:",
+                                                                                              [Function],
+                                                                                              ";stroke-linejoin:",
+                                                                                              [Function],
+                                                                                              ";stroke:",
+                                                                                              [Function],
+                                                                                              ";opacity:",
+                                                                                              [Function],
+                                                                                              ";height:",
+                                                                                              [Function],
+                                                                                              ";width:",
+                                                                                              [Function],
+                                                                                              ";transform:",
+                                                                                              [Function],
+                                                                                              " ",
+                                                                                              [Function],
+                                                                                              ";",
+                                                                                              [Function],
+                                                                                              " ",
+                                                                                              [Function],
+                                                                                              " ",
+                                                                                              [Function],
+                                                                                              " ",
+                                                                                              [Function],
+                                                                                              " ",
+                                                                                              [Function],
+                                                                                              " ",
+                                                                                              [Function],
+                                                                                            ],
+                                                                                          },
+                                                                                          "displayName": "icon__IconSVG",
+                                                                                          "foldedComponentIds": Array [],
+                                                                                          "render": [Function],
+                                                                                          "styledComponentId": "icon__IconSVG-sc-1rlybe8-0",
+                                                                                          "target": "svg",
+                                                                                          "toString": [Function],
+                                                                                          "warnTooManyClasses": [Function],
+                                                                                          "withComponent": [Function],
+                                                                                        }
+                                                                                      }
+                                                                                      forwardedRef={null}
+                                                                                      name="search"
+                                                                                      onClick={[Function]}
+                                                                                      opacity="complete"
+                                                                                      size="giant"
+                                                                                    >
+                                                                                      <svg
+                                                                                        aria-label="search icon"
+                                                                                        className="c16 c17"
+                                                                                        name="search"
+                                                                                        onClick={[Function]}
+                                                                                        opacity="complete"
+                                                                                        size="giant"
+                                                                                      >
+                                                                                        <use
+                                                                                          xlinkHref="#iconset-search"
+                                                                                        />
+                                                                                      </svg>
+                                                                                    </StyledComponent>
+                                                                                  </icon__IconSVG>
+                                                                                </ThemeProvider>
+                                                                              </EnsureDefaultTheme>
+                                                                            </Icon>
+                                                                          </StyledComponent>
+                                                                        </search-bar__SearchIconElem>
+                                                                        <search-bar__ClearIconElem
+                                                                          name="close"
+                                                                          onClick={[Function]}
+                                                                          opacity="complete"
+                                                                          size="normal"
+                                                                        >
+                                                                          <StyledComponent
+                                                                            forwardedComponent={
+                                                                              Object {
+                                                                                "$$typeof": Symbol(react.forward_ref),
+                                                                                "attrs": Array [],
+                                                                                "componentStyle": ComponentStyle {
+                                                                                  "componentId": "search-bar__ClearIconElem-sc-109c13d-4",
+                                                                                  "isStatic": true,
+                                                                                  "lastClassName": "c18",
+                                                                                  "rules": Array [
+                                                                                    "display:inline-block;position:absolute;right:0;top:12px;cursor:pointer;z-index:2;background:#fff;",
+                                                                                    "display:none;",
+                                                                                    "@media only screen and (max-width:37.31em){",
+                                                                                    "
+		display: inline-block;
+	",
+                                                                                    "}",
+                                                                                  ],
+                                                                                },
+                                                                                "displayName": "search-bar__ClearIconElem",
+                                                                                "foldedComponentIds": Array [
+                                                                                  "search-bar__IconElem-sc-109c13d-2",
+                                                                                ],
+                                                                                "render": [Function],
+                                                                                "styledComponentId": "search-bar__ClearIconElem-sc-109c13d-4",
+                                                                                "target": [Function],
+                                                                                "toString": [Function],
+                                                                                "warnTooManyClasses": [Function],
+                                                                                "withComponent": [Function],
+                                                                                Symbol(Symbol.hasInstance): [Function],
+                                                                              }
+                                                                            }
+                                                                            forwardedRef={null}
+                                                                            name="close"
+                                                                            onClick={[Function]}
+                                                                            opacity="complete"
+                                                                            size="normal"
+                                                                          >
+                                                                            <Icon
+                                                                              className="c18"
+                                                                              name="close"
+                                                                              onClick={[Function]}
+                                                                              opacity="complete"
+                                                                              size="normal"
+                                                                            >
+                                                                              <EnsureDefaultTheme>
+                                                                                <ThemeProvider
+                                                                                  theme={[Function]}
+                                                                                >
+                                                                                  <icon__IconSVG
+                                                                                    aria-label="close icon"
+                                                                                    className="c18"
+                                                                                    name="close"
+                                                                                    onClick={[Function]}
+                                                                                    opacity="complete"
+                                                                                    size="normal"
+                                                                                  >
+                                                                                    <StyledComponent
+                                                                                      aria-label="close icon"
+                                                                                      className="c18"
+                                                                                      forwardedComponent={
+                                                                                        Object {
+                                                                                          "$$typeof": Symbol(react.forward_ref),
+                                                                                          "attrs": Array [],
+                                                                                          "componentStyle": ComponentStyle {
+                                                                                            "componentId": "icon__IconSVG-sc-1rlybe8-0",
+                                                                                            "isStatic": false,
+                                                                                            "lastClassName": "c19",
+                                                                                            "rules": Array [
+                                                                                              "display:inline-block;vertical-align:middle;fill:none;stroke-width:",
+                                                                                              [Function],
+                                                                                              ";stroke-linecap:",
+                                                                                              [Function],
+                                                                                              ";stroke-linejoin:",
+                                                                                              [Function],
+                                                                                              ";stroke:",
+                                                                                              [Function],
+                                                                                              ";opacity:",
+                                                                                              [Function],
+                                                                                              ";height:",
+                                                                                              [Function],
+                                                                                              ";width:",
+                                                                                              [Function],
+                                                                                              ";transform:",
+                                                                                              [Function],
+                                                                                              " ",
+                                                                                              [Function],
+                                                                                              ";",
+                                                                                              [Function],
+                                                                                              " ",
+                                                                                              [Function],
+                                                                                              " ",
+                                                                                              [Function],
+                                                                                              " ",
+                                                                                              [Function],
+                                                                                              " ",
+                                                                                              [Function],
+                                                                                              " ",
+                                                                                              [Function],
+                                                                                            ],
+                                                                                          },
+                                                                                          "displayName": "icon__IconSVG",
+                                                                                          "foldedComponentIds": Array [],
+                                                                                          "render": [Function],
+                                                                                          "styledComponentId": "icon__IconSVG-sc-1rlybe8-0",
+                                                                                          "target": "svg",
+                                                                                          "toString": [Function],
+                                                                                          "warnTooManyClasses": [Function],
+                                                                                          "withComponent": [Function],
+                                                                                        }
+                                                                                      }
+                                                                                      forwardedRef={null}
+                                                                                      name="close"
+                                                                                      onClick={[Function]}
+                                                                                      opacity="complete"
+                                                                                      size="normal"
+                                                                                    >
+                                                                                      <svg
+                                                                                        aria-label="close icon"
+                                                                                        className="c18 c19"
+                                                                                        name="close"
+                                                                                        onClick={[Function]}
+                                                                                        opacity="complete"
+                                                                                        size="normal"
+                                                                                      >
+                                                                                        <use
+                                                                                          xlinkHref="#iconset-close"
+                                                                                        />
+                                                                                      </svg>
+                                                                                    </StyledComponent>
+                                                                                  </icon__IconSVG>
+                                                                                </ThemeProvider>
+                                                                              </EnsureDefaultTheme>
+                                                                            </Icon>
+                                                                          </StyledComponent>
+                                                                        </search-bar__ClearIconElem>
+                                                                      </div>
+                                                                    </StyledComponent>
+                                                                  </textfield__KinjaTextFieldWrapper>
+                                                                </div>
+                                                              </StyledComponent>
+                                                            </textfield__KinjaFormFieldWrapper>
+                                                          </ThemeProvider>
+                                                        </Theme>
+                                                      </Textfield18>
+                                                    </div>
+                                                  </StyledComponent>
+                                                </SearchBar__SearchBarWrapper>
+                                              </ThemeProvider>
+                                            </EnsureDefaultTheme>
+                                          </SearchBar>
+                                        </StyledComponent>
+                                      </search-bar__StyledSearchBar>
+                                      <SettingsIcon
+                                        onClick={[MockFunction]}
+                                      >
+                                        <Icon19
+                                          onClick={[MockFunction]}
+                                        >
+                                          <icon19__IconWrapper
+                                            onClick={[MockFunction]}
+                                          >
+                                            <StyledComponent
+                                              forwardedComponent={
+                                                Object {
+                                                  "$$typeof": Symbol(react.forward_ref),
+                                                  "attrs": Array [],
+                                                  "componentStyle": ComponentStyle {
+                                                    "componentId": "c20",
+                                                    "isStatic": true,
+                                                    "lastClassName": "c21",
+                                                    "rules": Array [
+                                                      "fill:currentColor;display:flex;",
+                                                    ],
+                                                  },
+                                                  "displayName": "icon19__IconWrapper",
+                                                  "foldedComponentIds": Array [],
+                                                  "render": [Function],
+                                                  "styledComponentId": "c20",
+                                                  "target": "span",
+                                                  "toString": [Function],
+                                                  "warnTooManyClasses": [Function],
+                                                  "withComponent": [Function],
+                                                }
+                                              }
+                                              forwardedRef={null}
+                                              onClick={[MockFunction]}
+                                            >
+                                              <span
+                                                className="c20 c21"
+                                                onClick={[MockFunction]}
+                                              >
+                                                <Settings
+                                                  aria-label="Settings icon"
+                                                  height="18"
+                                                  viewBox="0 0 18 18"
+                                                  width="18"
+                                                  xmlns="http://www.w3.org/2000/svg"
+                                                >
+                                                  <svg
+                                                    aria-label="Settings icon"
+                                                    height="18"
+                                                    viewBox="0 0 18 18"
+                                                    width="18"
+                                                    xmlns="http://www.w3.org/2000/svg"
+                                                  >
+                                                    <path
+                                                      d="M14 8v8.5a.5.5 0 1 1-1 0V7.9a2.5 2.5 0 0 1 0-4.8V1.5a.5.5 0 1 1 1 0v1.6a2.5 2.5 0 0 1 0 4.8zm-5 6v2.5a.5.5 0 1 1-1 0v-2.6a2.5 2.5 0 0 1 0-4.8V1.5a.5.5 0 0 1 1 0v7.6a2.5 2.5 0 0 1 0 4.8zM4 8v8.5a.5.5 0 1 1-1 0V7.9a2.5 2.5 0 0 1 0-4.8V1.5a.5.5 0 0 1 1 0v1.6a2.5 2.5 0 0 1 0 4.8zm-.5-1a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3zm5 6a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3zm5-6a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3z"
+                                                      fillRule="evenodd"
+                                                    />
+                                                  </svg>
+                                                </Settings>
+                                              </span>
+                                            </StyledComponent>
+                                          </icon19__IconWrapper>
+                                        </Icon19>
+                                      </SettingsIcon>
+                                    </div>
+                                  </StyledComponent>
+                                </search-bar__InputContainer>
+                              </ThemeProvider>
+                            </EnsureDefaultTheme>
+                          </SearchInput>
+                        </div>
+                      </StyledComponent>
+                    </dropdown__TriggerContainer>
+                  </Component>
+                </ClickOutside(Component)>
+              </Dropdown>
+            </ThemeProvider>
+          </EnsureDefaultTheme>
+        </Suggestions>
+      </div>
+    </StyledComponent>
+  </search__SearchWrapper>
+</Search>
+`;

@@ -1,0 +1,760 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ReviewInset /> should render in center by default 1`] = `
+.c3 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  max-width: 100%;
+  overflow: hidden;
+  margin-bottom: 5px;
+}
+
+.c3:last-child {
+  margin-right: 0;
+}
+
+.c3 .c15 {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.c9 {
+  margin-bottom: 15px;
+  font-size: 24px;
+  line-height: 28px;
+  text-align: center;
+}
+
+.c9:last-child {
+  margin-bottom: 0;
+}
+
+.c8 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  width: 48px;
+  height: 48px;
+  margin: 0 auto 15px;
+  border: 2px solid #F5F5F5;
+  border-radius: 50%;
+  font-family: ProximaNovaCond,sans-serif;
+  font-size: 24px;
+  line-height: 24px;
+  color: #FFF;
+  background-color: #0A7BC2;
+}
+
+.c10 {
+  padding-bottom: 15px;
+}
+
+.c11 {
+  margin-bottom: 0;
+  font-family: ProximaNovaCond,sans-serif;
+  font-size: 15px;
+  font-weight: normal;
+  line-height: 28px;
+  color: #666;
+  text-transform: uppercase;
+}
+
+.c12.c12.c12 {
+  margin-bottom: 0;
+  max-width: none;
+  font-size: 15px;
+  font-family: ElizabethSerif,Georgia,serif;
+  color: #222;
+}
+
+.c6 {
+  position: relative;
+  padding: 15px 15px 1px 15px;
+  background-color: #F5F5F5;
+}
+
+.c4 {
+  position: relative;
+  height: 0;
+  padding-top: 56.25%;
+}
+
+.c5 {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  overflow: hidden;
+}
+
+.c5 img {
+  min-height: 100%;
+}
+
+.c5 .c13 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  background-color: #E5E5E5;
+}
+
+.c1 {
+  width: 100%;
+  max-width: 470px;
+  margin: 0 auto;
+}
+
+.c1 .c2 .c14:hover {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c1 .c7 {
+  position: absolute;
+  margin: 0;
+  top: -38px;
+  left: calc(50% - 24px);
+}
+
+.c0 {
+  clear: left;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+<aside
+  class="align--center js_lazy-image c0"
+  contenteditable="false"
+>
+  <section
+    class="reviewbox-inset c1"
+    title="Spirited Away"
+  >
+    <div
+      class="c2 c3"
+    />
+    <div
+      class=""
+    >
+      <div
+        class="c4"
+      >
+        <div
+          class="c5"
+        >
+          <div>
+            <img
+              data-anim-src=""
+              data-chomp-id="ikwum2k9iayoepoyql5p"
+              data-format="jpg"
+              data-srcset="https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_180,q_80,w_320/ikwum2k9iayoepoyql5p.jpg 320w, https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_264,q_80,w_470/ikwum2k9iayoepoyql5p.jpg 470w, https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_450,q_80,w_800/ikwum2k9iayoepoyql5p.jpg 800w, https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,q_80,w_1200/ikwum2k9iayoepoyql5p.jpg 1200w, https://i.kinja-img.com/gawker-media/image/upload/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/ikwum2k9iayoepoyql5p.jpg 1600w, https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_80,q_80,w_80/ikwum2k9iayoepoyql5p.jpg 80w"
+              draggable="auto"
+              sizes="(max-width: 520px) 470px, 800px"
+              src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="c6"
+    >
+      <div
+        class="c7 c8"
+      >
+        <span>
+          A+
+        </span>
+      </div>
+      <h2
+        class="c9"
+      >
+        Spirited Away
+      </h2>
+      <div
+        class=""
+      >
+        <div
+          class="c10"
+        >
+          <h2
+            class="c11"
+          >
+            Director
+          </h2>
+          <p
+            class="c12"
+          >
+            Hayao Miyazaki
+          </p>
+        </div>
+        <div
+          class="c10"
+        >
+          <h2
+            class="c11"
+          >
+            Release Date
+          </h2>
+          <p
+            class="c12"
+          >
+            2001
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+</aside>
+`;
+
+exports[`<ReviewInset /> should render in the editor 1`] = `
+.c4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  max-width: 100%;
+  overflow: hidden;
+  margin-bottom: 5px;
+}
+
+.c4:last-child {
+  margin-right: 0;
+}
+
+.c4 .c17 {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.c10 {
+  margin-bottom: 15px;
+  font-size: 24px;
+  line-height: 28px;
+  text-align: center;
+}
+
+.c10:last-child {
+  margin-bottom: 0;
+}
+
+.c9 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  width: 48px;
+  height: 48px;
+  margin: 0 auto 15px;
+  border: 2px solid #F5F5F5;
+  border-radius: 50%;
+  font-family: ProximaNovaCond,sans-serif;
+  font-size: 24px;
+  line-height: 24px;
+  color: #FFF;
+  background-color: #0A7BC2;
+}
+
+.c11 {
+  padding-bottom: 15px;
+}
+
+.c12 {
+  margin-bottom: 0;
+  font-family: ProximaNovaCond,sans-serif;
+  font-size: 15px;
+  font-weight: normal;
+  line-height: 28px;
+  color: #666;
+  text-transform: uppercase;
+}
+
+.c13.c13.c13 {
+  margin-bottom: 0;
+  max-width: none;
+  font-size: 15px;
+  font-family: ElizabethSerif,Georgia,serif;
+  color: #222;
+}
+
+.c7 {
+  position: relative;
+  padding: 15px 15px 1px 15px;
+  background-color: #F5F5F5;
+}
+
+.c5 {
+  position: relative;
+  height: 0;
+  padding-top: 56.25%;
+}
+
+.c6 {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  overflow: hidden;
+}
+
+.c6 img {
+  min-height: 100%;
+}
+
+.c6 .c15 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  background-color: #E5E5E5;
+}
+
+.c2 {
+  width: 100%;
+  max-width: 470px;
+  margin: 0 auto;
+}
+
+.c2 .c3 .c16:hover {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c2 .c8 {
+  position: absolute;
+  margin: 0;
+  top: -38px;
+  left: calc(50% - 24px);
+}
+
+.c14 .c3 .c16:hover {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c14 .c8 {
+  position: absolute;
+  margin: 0;
+  top: -38px;
+  left: calc(50% - 24px);
+}
+
+.c0 {
+  clear: left;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+@media only screen and (min-width:37.37em) {
+  .YMnX .c1 {
+    width: 320px;
+  }
+}
+
+<aside
+  class="align--center js_lazy-image reviewbox-inset js_inset c0"
+  contenteditable="false"
+  data-reviewdata="{\\"alignment\\":\\"Center\\",\\"text\\":[{\\"label\\":\\"Director\\",\\"value\\":\\"Hayao Miyazaki\\"},{\\"label\\":\\"Release Date\\",\\"value\\":2001}],\\"image\\":{\\"id\\":\\"ikwum2k9iayoepoyql5p\\",\\"format\\":\\"jpg\\"},\\"score\\":\\"A+\\",\\"title\\":\\"Spirited Away\\"}"
+>
+  <section
+    class="reviewbox-inset c1 c2"
+    title="Spirited Away"
+  >
+    <div
+      class="c3 c4"
+    />
+    <div
+      class=""
+    >
+      <div
+        class="c5"
+      >
+        <div
+          class="c6"
+        >
+          <div>
+            <img
+              data-anim-src=""
+              data-chomp-id="ikwum2k9iayoepoyql5p"
+              data-format="jpg"
+              data-srcset="https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_180,q_80,w_320/ikwum2k9iayoepoyql5p.jpg 320w, https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_264,q_80,w_470/ikwum2k9iayoepoyql5p.jpg 470w, https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_450,q_80,w_800/ikwum2k9iayoepoyql5p.jpg 800w, https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,q_80,w_1200/ikwum2k9iayoepoyql5p.jpg 1200w, https://i.kinja-img.com/gawker-media/image/upload/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/ikwum2k9iayoepoyql5p.jpg 1600w, https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_80,q_80,w_80/ikwum2k9iayoepoyql5p.jpg 80w"
+              draggable="auto"
+              sizes="(max-width: 520px) 470px, 800px"
+              src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="c7"
+    >
+      <div
+        class="c8 c9"
+      >
+        <span>
+          A+
+        </span>
+      </div>
+      <h2
+        class="c10"
+      >
+        Spirited Away
+      </h2>
+      <div
+        class=""
+      >
+        <div
+          class="c11"
+        >
+          <h2
+            class="c12"
+          >
+            Director
+          </h2>
+          <p
+            class="c13"
+          >
+            Hayao Miyazaki
+          </p>
+        </div>
+        <div
+          class="c11"
+        >
+          <h2
+            class="c12"
+          >
+            Release Date
+          </h2>
+          <p
+            class="c13"
+          >
+            2001
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+</aside>
+`;
+
+exports[`<ReviewInset /> should render with left alignment 1`] = `
+.c4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  max-width: 100%;
+  overflow: hidden;
+  margin-bottom: 5px;
+}
+
+.c4:last-child {
+  margin-right: 0;
+}
+
+.c4 .c17 {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.c10 {
+  margin-bottom: 15px;
+  font-size: 24px;
+  line-height: 28px;
+  text-align: center;
+}
+
+.c10:last-child {
+  margin-bottom: 0;
+}
+
+.c9 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  width: 48px;
+  height: 48px;
+  margin: 0 auto 15px;
+  border: 2px solid #F5F5F5;
+  border-radius: 50%;
+  font-family: ProximaNovaCond,sans-serif;
+  font-size: 24px;
+  line-height: 24px;
+  color: #FFF;
+  background-color: #0A7BC2;
+}
+
+.c11 {
+  padding-bottom: 15px;
+}
+
+.c12 {
+  margin-bottom: 0;
+  font-family: ProximaNovaCond,sans-serif;
+  font-size: 15px;
+  font-weight: normal;
+  line-height: 28px;
+  color: #666;
+  text-transform: uppercase;
+}
+
+.c13.c13.c13 {
+  margin-bottom: 0;
+  max-width: none;
+  font-size: 15px;
+  font-family: ElizabethSerif,Georgia,serif;
+  color: #222;
+}
+
+.c7 {
+  position: relative;
+  padding: 15px 15px 1px 15px;
+  background-color: #F5F5F5;
+}
+
+.c5 {
+  position: relative;
+  height: 0;
+  padding-top: 56.25%;
+}
+
+.c6 {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  overflow: hidden;
+}
+
+.c6 img {
+  min-height: 100%;
+}
+
+.c6 .c15 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  background-color: #E5E5E5;
+}
+
+.c14 .c3 .c16:hover {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c14 .c8 {
+  position: absolute;
+  margin: 0;
+  top: -38px;
+  left: calc(50% - 24px);
+}
+
+.c2 {
+  width: 100%;
+  max-width: 470px;
+  margin: 0 auto;
+}
+
+.c2 .c3 .c16:hover {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c2 .c18 {
+  display: none;
+}
+
+.c2 .c8 {
+  position: absolute;
+  margin: 0;
+  top: -38px;
+  left: calc(50% - 24px);
+}
+
+.c0 {
+  clear: left;
+}
+
+@media only screen and (min-width:37.37em) {
+  .c2 {
+    width: 320px;
+    margin: 0;
+  }
+}
+
+@media only screen and (max-width:37.31em) {
+  .c0 {
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+}
+
+@media only screen and (min-width:37.37em) {
+  .c0 {
+    float: left;
+    margin-top: 0.5rem;
+    margin-right: 2.25rem;
+    margin-bottom: 2rem;
+  }
+
+  .c0 .c1 {
+    width: 320px;
+  }
+}
+
+<aside
+  class="align--left js_lazy-image c0"
+  contenteditable="false"
+>
+  <section
+    class="reviewbox-inset c1 c2"
+    title="Spirited Away"
+  >
+    <div
+      class="c3 c4"
+    />
+    <div
+      class=""
+    >
+      <div
+        class="c5"
+      >
+        <div
+          class="c6"
+        >
+          <div>
+            <img
+              data-anim-src=""
+              data-chomp-id="ikwum2k9iayoepoyql5p"
+              data-format="jpg"
+              data-srcset="https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_180,q_80,w_320/ikwum2k9iayoepoyql5p.jpg 320w, https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_264,q_80,w_470/ikwum2k9iayoepoyql5p.jpg 470w, https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_450,q_80,w_800/ikwum2k9iayoepoyql5p.jpg 800w, https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,q_80,w_1200/ikwum2k9iayoepoyql5p.jpg 1200w, https://i.kinja-img.com/gawker-media/image/upload/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/ikwum2k9iayoepoyql5p.jpg 1600w, https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_80,q_80,w_80/ikwum2k9iayoepoyql5p.jpg 80w"
+              draggable="auto"
+              sizes="(max-width: 520px) 470px, 800px"
+              src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="c7"
+    >
+      <div
+        class="c8 c9"
+      >
+        <span>
+          A+
+        </span>
+      </div>
+      <h2
+        class="c10"
+      >
+        Spirited Away
+      </h2>
+      <div
+        class=""
+      >
+        <div
+          class="c11"
+        >
+          <h2
+            class="c12"
+          >
+            Director
+          </h2>
+          <p
+            class="c13"
+          >
+            Hayao Miyazaki
+          </p>
+        </div>
+        <div
+          class="c11"
+        >
+          <h2
+            class="c12"
+          >
+            Release Date
+          </h2>
+          <p
+            class="c13"
+          >
+            2001
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+</aside>
+`;

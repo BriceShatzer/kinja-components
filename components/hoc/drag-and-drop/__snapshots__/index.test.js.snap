@@ -1,0 +1,78 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<DragAndDropHOC /> render with drag and drop functionality without being set to draggable 1`] = `
+<DragAndDrop(ExampleComponent)
+  isDraggable={false}
+  setCardSwapState={[MockFunction]}
+>
+  <ExampleComponent
+    dragEvents={null}
+    isDraggable={false}
+    setCardSwapState={[MockFunction]}
+  >
+    <div>
+      <div
+        className="first"
+        data-index="1234567"
+      />
+      <div
+        className="second"
+        data-index="7654321"
+      />
+    </div>
+  </ExampleComponent>
+</DragAndDrop(ExampleComponent)>
+`;
+
+exports[`<DragAndDropHOC /> render with full drag and drop functionality 1`] = `
+<DragAndDrop(ExampleComponent)
+  isDraggable={true}
+  setCardSwapState={[MockFunction]}
+>
+  <ExampleComponent
+    dragEvents={
+      Object {
+        "draggable": true,
+        "onDragEnd": [Function],
+        "onDragEnter": [Function],
+        "onDragLeave": [Function],
+        "onDragOver": [Function],
+        "onDragStart": [Function],
+        "onDrop": [Function],
+      }
+    }
+    isDraggable={true}
+    setCardSwapState={[MockFunction]}
+  >
+    <div>
+      <div
+        className="first"
+        data-index="1234567"
+      />
+      <div
+        className="second"
+        data-index="7654321"
+      />
+    </div>
+  </ExampleComponent>
+</DragAndDrop(ExampleComponent)>
+`;
+
+exports[`<DragAndDropHOC /> render without drag and drop functionality 1`] = `
+<DragAndDrop(ExampleComponent)>
+  <ExampleComponent
+    dragEvents={null}
+  >
+    <div>
+      <div
+        className="first"
+        data-index="1234567"
+      />
+      <div
+        className="second"
+        data-index="7654321"
+      />
+    </div>
+  </ExampleComponent>
+</DragAndDrop(ExampleComponent)>
+`;

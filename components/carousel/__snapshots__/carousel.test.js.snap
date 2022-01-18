@@ -1,0 +1,50 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Carousel /> should render by default 1`] = `
+<carousel__Items>
+  <Carousel
+    afterSlide={[Function]}
+    autoGenerateStyleTag={true}
+    autoplay={false}
+    autoplayInterval={3000}
+    autoplayReverse={false}
+    beforeSlide={[Function]}
+    cellAlign="left"
+    cellSpacing={32}
+    disableAnimation={false}
+    disableEdgeSwiping={true}
+    dragging={true}
+    easing="easeCircleOut"
+    edgeEasing="linear"
+    enableKeyboardControls={false}
+    frameOverflow="normal"
+    framePadding="0px"
+    height="inherit"
+    heightMode="max"
+    initialSlideWidth={223}
+    onDragStart={[Function]}
+    onResize={[Function]}
+    pauseOnHover={true}
+    renderAnnounceSlideMessage={[Function]}
+    renderBottomCenterControls={[Function]}
+    renderCenterLeftControls={[Function]}
+    renderCenterRightControls={[Function]}
+    renderTopCenterControls={[Function]}
+    slideHeight="auto"
+    slideIndex={0}
+    slideListMargin={10}
+    slideOffset={25}
+    slideWidth={1}
+    slidesToScroll={4}
+    slidesToShow={4}
+    speed={300}
+    style={Object {}}
+    swiping={true}
+    transitionMode="scroll"
+    vertical={false}
+    width="100%"
+    withoutControls={false}
+    wrapAround={false}
+  />
+</carousel__Items>
+`;

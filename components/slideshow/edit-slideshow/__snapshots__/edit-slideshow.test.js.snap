@@ -1,0 +1,202 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<EditSlideshow /> should change aspect ratio 1`] = `
+<edit-slideshow__KinjaEditSlideshow>
+  <h2
+    className="modal-title"
+  >
+    Edit slideshow
+  </h2>
+  <edit-slideshow__EditSlideshowRatioSelector>
+    <ButtonGroup
+      onChange={[Function]}
+    >
+      <ButtonGroupItem
+        label="3:2"
+        selected={false}
+        value="Photo"
+      />
+      <ButtonGroupItem
+        label="16:9"
+        selected={true}
+        value="Wide"
+      />
+    </ButtonGroup>
+  </edit-slideshow__EditSlideshowRatioSelector>
+  <edit-slideshow__InlineHelp
+    className="inline-help"
+  >
+    Drag slides to rearrange
+  </edit-slideshow__InlineHelp>
+  <ImageList
+    aspectRatio="Wide"
+    items={
+      Array [
+        Object {
+          "image": Object {
+            "url": "test1",
+          },
+        },
+        Object {
+          "image": Object {
+            "url": "test2",
+          },
+        },
+      ]
+    }
+    onChange={[Function]}
+  />
+  <edit-slideshow__FormButtons
+    className="form-buttons"
+  >
+    <Button
+      className="form-button"
+      label="Cancel"
+      onClick={[Function]}
+      type="button"
+      weight="secondary"
+    />
+    <Button
+      className="form-button"
+      label="Save slideshow"
+      onClick={[Function]}
+      type="submit"
+      weight="primary"
+    />
+  </edit-slideshow__FormButtons>
+</edit-slideshow__KinjaEditSlideshow>
+`;
+
+exports[`<EditSlideshow /> should render by default 1`] = `
+<edit-slideshow__KinjaEditSlideshow>
+  <h2
+    className="modal-title"
+  >
+    Edit slideshow
+  </h2>
+  <edit-slideshow__EditSlideshowRatioSelector>
+    <ButtonGroup
+      onChange={[Function]}
+    >
+      <ButtonGroupItem
+        label="3:2"
+        selected={true}
+        value="Photo"
+      />
+      <ButtonGroupItem
+        label="16:9"
+        selected={false}
+        value="Wide"
+      />
+    </ButtonGroup>
+  </edit-slideshow__EditSlideshowRatioSelector>
+  <edit-slideshow__InlineHelp
+    className="inline-help"
+  >
+    Drag slides to rearrange
+  </edit-slideshow__InlineHelp>
+  <ImageList
+    aspectRatio="Photo"
+    items={
+      Array [
+        Object {
+          "image": Object {
+            "url": "test1",
+          },
+        },
+        Object {
+          "image": Object {
+            "url": "test2",
+          },
+        },
+      ]
+    }
+    onChange={[Function]}
+  />
+  <edit-slideshow__FormButtons
+    className="form-buttons"
+  >
+    <Button
+      className="form-button"
+      label="Cancel"
+      onClick={[Function]}
+      type="button"
+      weight="secondary"
+    />
+    <Button
+      className="form-button"
+      label="Save slideshow"
+      onClick={[Function]}
+      type="submit"
+      weight="primary"
+    />
+  </edit-slideshow__FormButtons>
+</edit-slideshow__KinjaEditSlideshow>
+`;
+
+exports[`<EditSlideshow /> should render with wide aspect ratio 1`] = `
+<edit-slideshow__KinjaEditSlideshow>
+  <h2
+    className="modal-title"
+  >
+    Edit slideshow
+  </h2>
+  <edit-slideshow__EditSlideshowRatioSelector>
+    <ButtonGroup
+      onChange={[Function]}
+    >
+      <ButtonGroupItem
+        label="3:2"
+        selected={false}
+        value="Photo"
+      />
+      <ButtonGroupItem
+        label="16:9"
+        selected={true}
+        value="Wide"
+      />
+    </ButtonGroup>
+  </edit-slideshow__EditSlideshowRatioSelector>
+  <edit-slideshow__InlineHelp
+    className="inline-help"
+  >
+    Drag slides to rearrange
+  </edit-slideshow__InlineHelp>
+  <ImageList
+    aspectRatio="Wide"
+    items={
+      Array [
+        Object {
+          "image": Object {
+            "url": "test1",
+          },
+        },
+        Object {
+          "image": Object {
+            "url": "test2",
+          },
+        },
+      ]
+    }
+    onChange={[Function]}
+  />
+  <edit-slideshow__FormButtons
+    className="form-buttons"
+  >
+    <Button
+      className="form-button"
+      label="Cancel"
+      onClick={[Function]}
+      type="button"
+      weight="secondary"
+    />
+    <Button
+      className="form-button"
+      label="Save slideshow"
+      onClick={[Function]}
+      type="submit"
+      weight="primary"
+    />
+  </edit-slideshow__FormButtons>
+</edit-slideshow__KinjaEditSlideshow>
+`;

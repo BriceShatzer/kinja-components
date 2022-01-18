@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<EmbedFrame /> should render an embed iframe 1`] = `
+<EnsureDefaultTheme>
+  <embedFrame__EmbedWrapper
+    className="has-video media-large video-embed embed-frame"
+  >
+    <span
+      className="flex-video widescreen"
+    >
+      <iframe
+        allowFullScreen="allowfullscreen"
+        className="core-inset"
+        data-chomp-id="I7Tps0M-l64"
+        data-recommend-id="youtube://I7Tps0M-l64"
+        data-recommended={false}
+        frameBorder={0}
+        height={450}
+        id="youtube-I7Tps0M-l64"
+        mozallowfullscreen="mozallowfullscreen"
+        scrolling="no"
+        src="/ajax/inset/iframe?id=youtube-video-I7Tps0M-l64&start=0"
+        webkitallowfullscreen="webkitAllowFullScreen"
+        width={800}
+      />
+      <span
+        className="js_recommend"
+        data-chomp-id="I7Tps0M-l64"
+        data-recommend-id="youtube://I7Tps0M-l64"
+        data-recommended={false}
+        id="youtube-I7Tps0M-l64"
+      />
+    </span>
+  </embedFrame__EmbedWrapper>
+</EnsureDefaultTheme>
+`;

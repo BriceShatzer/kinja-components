@@ -1,0 +1,616 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<MetaInfo /> should render properly 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c1 svg {
+  width: 15px;
+  margin: 2px 2px 0 2px;
+}
+
+@media only screen and (max-width:49.94em) {
+  .c0 {
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+  }
+}
+
+@media only screen and (max-width:49.94em) {
+  .c1 .link__Anchor-sc-1out364-0:not(:first-of-type),
+  .c1 > svg {
+    display: none;
+  }
+}
+
+<MetaInfo
+  blog={
+    Object {
+      "avatar": Object {
+        "format": "png",
+        "id": "no63bw902mddhwxtjtxh",
+      },
+      "blogGroup": "avclub",
+      "canonicalHost": "www.avclub.com",
+      "createTimeMillis": 1494255234433,
+      "createdById": "1459038012",
+      "description": "Pop culture obsessives writing for the pop culture obsessed.",
+      "displayName": "The A.V. Club",
+      "hosts": Array [
+        "yibm5m2hj43ksbkaeqbwkaavclub.kinja.com",
+        "avclub.com",
+      ],
+      "id": 1636027099,
+      "lastUpdateTimeMillis": 1525985102748,
+      "logo": Object {
+        "format": "png",
+        "id": "vwu6rbqlim4vaszsfkfk",
+      },
+      "name": "avclub",
+      "navBackground": null,
+      "ownerId": "5876237249237147629",
+      "properties": Object {
+        "aboutPostId": 1798308102,
+        "adsTxtEnabled": true,
+        "blogGroup": "avclub",
+        "facebookPixelId": "513778665663423",
+        "facebookScreenName": "theavclub",
+        "fbAppId": "1621890511466174",
+        "fbPagesId": "39581755672",
+        "freelancerDraftEmail": "sendtoavceditors@theonion.com",
+        "googleAnalyticsID": "UA-223393-2",
+        "hideViewcounts": true,
+        "instagramScreenName": "theavc",
+        "isGmgBlog": true,
+        "logoLink": "https://x.kinja-static.com/assets/images/logos/newsletter/avclub-500px.png",
+        "mainColor": "#1c263c",
+        "navigationGroup": "fmg",
+        "newsletter": true,
+        "noindex": false,
+        "numberOfInfiniteScrollArticles": 10,
+        "promotionUnit": "fmg.avclub",
+        "recircGroup": "fmgNonSatire",
+        "robotsAllowed": true,
+        "singleOptIn": true,
+        "skimLinkId": "33330X1569324",
+        "sourcepointDomain": "mms.avclub.com",
+        "tagPageDescription": "Pop Culture News, Photos, Videos & More",
+        "twitterScreenName": "theavclub",
+        "youtubeUrl": "https://www.youtube.com/user/theavclub",
+      },
+      "status": "ENABLED",
+      "timezone": "America/Chicago",
+      "timezoneOffset": -18000000,
+    }
+  }
+  multiline={false}
+  post={
+    Object {
+      "adSenseDisabled": false,
+      "adZone": "",
+      "allowReplies": true,
+      "author": Object {
+        "avatar": Object {
+          "format": "jpg",
+          "id": "k5abq3xxeyzaroiqlwhy",
+        },
+        "displayName": "Kyle Fowle",
+        "id": "5876237249237174625",
+        "screenName": "kylefowle",
+      },
+      "authorScreenName": "kylefowle",
+      "authors": Array [
+        Object {
+          "avatar": Object {
+            "format": "jpg",
+            "id": "k5abq3xxeyzaroiqlwhy",
+          },
+          "displayName": "Kyle Fowle",
+          "id": "5876237249237174625",
+          "screenName": "kylefowle",
+        },
+      ],
+      "byline": "",
+      "category": Object {
+        "canonicalName": "modern-family",
+        "id": 1363,
+        "valueDisplay": "Modern Family",
+      },
+      "defaultBlogId": "1636140416",
+      "discussionSettings": Object {
+        "mode": "Normal",
+        "postId": 1830299886,
+        "sort": "asc",
+        "staffIncluded": false,
+        "status": "Queued",
+      },
+      "doNotCrawl": false,
+      "facebookImage": Object {
+        "format": "jpg",
+        "height": 424,
+        "id": "wjvvtkavgsqayqovy1ew",
+        "src": "https://i.kinja-img.com/gawker-media/image/upload/s--NbG0gVID--/c_fit,fl_progressive,q_80,w_636/wjvvtkavgsqayqovy1ew.jpg",
+        "width": 636,
+      },
+      "featuredMedia": null,
+      "first100Characters": "What’s the ideal scenario for a “good” episode of Modern Family in its tenth season? The show is nev",
+      "firstSentence": "What’s the ideal scenario for a “good” episode of Modern Family in its tenth season? ",
+      "gaDimensions": Object {
+        "gaVideoIds": "",
+        "wordCount": 838,
+        "wordCountBucket": "800 - 1000",
+      },
+      "hasFeaturedVideo": false,
+      "headline": "Identity is a funny thing on the latest <i>Modern Family</i>",
+      "id": 1830299886,
+      "images": Array [
+        Object {
+          "$el": Object {
+            "0": Object {
+              "_lazysizesWidth": 800,
+            },
+            "context": Object {},
+            "length": 1,
+            "prevObject": Object {
+              "0": Object {},
+              "context": Object {},
+              "length": 1,
+            },
+            "selector": "[data-chomp-id=\\"wjvvtkavgsqayqovy1ew\\"]",
+          },
+          "format": "jpg",
+          "height": 424,
+          "id": "wjvvtkavgsqayqovy1ew",
+          "src": "https://i.kinja-img.com/gawker-media/image/upload/s--NbG0gVID--/c_fit,fl_progressive,q_80,w_636/wjvvtkavgsqayqovy1ew.jpg",
+          "type": "image",
+          "width": 636,
+        },
+      ],
+      "inArticleVideos": null,
+      "isFeatured": false,
+      "isStarter": true,
+      "isVideo": false,
+      "mainMedia": Object {
+        "alignment": "Bleed",
+        "attribution": Array [],
+        "caption": Array [],
+        "format": "jpg",
+        "height": 2000,
+        "id": "wjvvtkavgsqayqovy1ew",
+        "lightbox": true,
+        "syndicationRights": false,
+        "type": "Image",
+        "width": 3000,
+      },
+      "permalink": "https://tv.avclub.com/identity-is-a-funny-thing-on-the-latest-modern-family-1830299886",
+      "plaintext": "What’s the ideal scenario for a “good” episode of Modern Family in its tenth season? The show is never going to reach the heights of its strongest seasons, the ones that made it a massive hit during its earliest days, but there’s usually still a few surprises with each new seasom. A few weeks ago the show said goodbye to Didi in an episode that managed to blend comedy and pathos in an effective way. But those kinds of stakes can’t be present in every episode, so what makes a “good” episode of Modern Family in the weeks where it isn’t entertaining ideas of mortality?
+",
+      "publishTimeISO": "2018-11-08T14:00:00.886Z",
+      "publishTimeMillis": 1541685600886,
+      "qaMembers": Array [],
+      "qaParticipants": Array [],
+      "qaStatus": null,
+      "replyCount": 2,
+      "securePermalink": "https://tv.avclub.com/identity-is-a-funny-thing-on-the-latest-modern-family-1830299886",
+      "socialHeadline": null,
+      "sponsored": false,
+      "staffIncluded": false,
+      "status": "PUBLISHED",
+      "storyType": Object {
+        "blogId": 1636027099,
+        "canonical": "tv-review",
+        "content": "Standard",
+        "id": 169,
+        "title": "TV Reviews",
+      },
+      "subcategory": Object {
+        "canonicalName": "season-10",
+        "id": 5613,
+        "parentId": 1363,
+        "valueDisplay": "Season 10",
+      },
+      "tags": Array [
+        Object {
+          "canonical": "recap",
+          "displayName": "Recap",
+          "urlName": "recap",
+        },
+        Object {
+          "canonical": "modernfamily",
+          "displayName": "Modern Family",
+          "urlName": "modern-family",
+        },
+        Object {
+          "canonical": "abc",
+          "displayName": "ABC",
+          "urlName": "abc",
+        },
+      ],
+      "twitterCardType": "summary_large_image",
+      "videos": Array [],
+    }
+  }
+  shouldShowStoryTypes={true}
+>
+  <EnsureDefaultTheme>
+    <ThemeProvider
+      theme={[Function]}
+    >
+      <meta-info__MetaInfoWrapper>
+        <StyledComponent
+          forwardedComponent={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": Array [],
+              "componentStyle": ComponentStyle {
+                "componentId": "meta-info__MetaInfoWrapper-sc-17s4usc-0",
+                "isStatic": true,
+                "lastClassName": "c0",
+                "rules": Array [
+                  "display:flex;flex-wrap:wrap;flex-direction:row;",
+                  "@media only screen and ",
+                  "(max-width: 49.94em)",
+                  "{",
+                  "
+		flex-direction: row;
+	",
+                  "}",
+                ],
+              },
+              "displayName": "meta-info__MetaInfoWrapper",
+              "foldedComponentIds": Array [],
+              "render": [Function],
+              "styledComponentId": "meta-info__MetaInfoWrapper-sc-17s4usc-0",
+              "target": "div",
+              "toString": [Function],
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+        >
+          <div
+            className="c0"
+          >
+            <meta-info__CategoryWrapper>
+              <StyledComponent
+                forwardedComponent={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": Array [],
+                    "componentStyle": ComponentStyle {
+                      "componentId": "meta-info__CategoryWrapper-sc-17s4usc-1",
+                      "isStatic": true,
+                      "lastClassName": "c1",
+                      "rules": Array [
+                        "display:flex;",
+                        "@media only screen and ",
+                        "(max-width: 49.94em)",
+                        "{",
+                        "
+		",
+                        ".link__Anchor-sc-1out364-0",
+                        ":not(:first-of-type),
+		> svg {
+			display: none;
+		}
+	",
+                        "}",
+                        " svg{width:15px;margin:2px 2px 0 2px;}",
+                      ],
+                    },
+                    "displayName": "meta-info__CategoryWrapper",
+                    "foldedComponentIds": Array [],
+                    "render": [Function],
+                    "styledComponentId": "meta-info__CategoryWrapper-sc-17s4usc-1",
+                    "target": "div",
+                    "toString": [Function],
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+              >
+                <div
+                  className="c1"
+                >
+                  <LabelStoryType
+                    blog={
+                      Object {
+                        "avatar": Object {
+                          "format": "png",
+                          "id": "no63bw902mddhwxtjtxh",
+                        },
+                        "blogGroup": "avclub",
+                        "canonicalHost": "www.avclub.com",
+                        "createTimeMillis": 1494255234433,
+                        "createdById": "1459038012",
+                        "description": "Pop culture obsessives writing for the pop culture obsessed.",
+                        "displayName": "The A.V. Club",
+                        "hosts": Array [
+                          "yibm5m2hj43ksbkaeqbwkaavclub.kinja.com",
+                          "avclub.com",
+                        ],
+                        "id": 1636027099,
+                        "lastUpdateTimeMillis": 1525985102748,
+                        "logo": Object {
+                          "format": "png",
+                          "id": "vwu6rbqlim4vaszsfkfk",
+                        },
+                        "name": "avclub",
+                        "navBackground": null,
+                        "ownerId": "5876237249237147629",
+                        "properties": Object {
+                          "aboutPostId": 1798308102,
+                          "adsTxtEnabled": true,
+                          "blogGroup": "avclub",
+                          "facebookPixelId": "513778665663423",
+                          "facebookScreenName": "theavclub",
+                          "fbAppId": "1621890511466174",
+                          "fbPagesId": "39581755672",
+                          "freelancerDraftEmail": "sendtoavceditors@theonion.com",
+                          "googleAnalyticsID": "UA-223393-2",
+                          "hideViewcounts": true,
+                          "instagramScreenName": "theavc",
+                          "isGmgBlog": true,
+                          "logoLink": "https://x.kinja-static.com/assets/images/logos/newsletter/avclub-500px.png",
+                          "mainColor": "#1c263c",
+                          "navigationGroup": "fmg",
+                          "newsletter": true,
+                          "noindex": false,
+                          "numberOfInfiniteScrollArticles": 10,
+                          "promotionUnit": "fmg.avclub",
+                          "recircGroup": "fmgNonSatire",
+                          "robotsAllowed": true,
+                          "singleOptIn": true,
+                          "skimLinkId": "33330X1569324",
+                          "sourcepointDomain": "mms.avclub.com",
+                          "tagPageDescription": "Pop Culture News, Photos, Videos & More",
+                          "twitterScreenName": "theavclub",
+                          "youtubeUrl": "https://www.youtube.com/user/theavclub",
+                        },
+                        "status": "ENABLED",
+                        "timezone": "America/Chicago",
+                        "timezoneOffset": -18000000,
+                      }
+                    }
+                    post={
+                      Object {
+                        "adSenseDisabled": false,
+                        "adZone": "",
+                        "allowReplies": true,
+                        "author": Object {
+                          "avatar": Object {
+                            "format": "jpg",
+                            "id": "k5abq3xxeyzaroiqlwhy",
+                          },
+                          "displayName": "Kyle Fowle",
+                          "id": "5876237249237174625",
+                          "screenName": "kylefowle",
+                        },
+                        "authorScreenName": "kylefowle",
+                        "authors": Array [
+                          Object {
+                            "avatar": Object {
+                              "format": "jpg",
+                              "id": "k5abq3xxeyzaroiqlwhy",
+                            },
+                            "displayName": "Kyle Fowle",
+                            "id": "5876237249237174625",
+                            "screenName": "kylefowle",
+                          },
+                        ],
+                        "byline": "",
+                        "category": Object {
+                          "canonicalName": "modern-family",
+                          "id": 1363,
+                          "valueDisplay": "Modern Family",
+                        },
+                        "defaultBlogId": "1636140416",
+                        "discussionSettings": Object {
+                          "mode": "Normal",
+                          "postId": 1830299886,
+                          "sort": "asc",
+                          "staffIncluded": false,
+                          "status": "Queued",
+                        },
+                        "doNotCrawl": false,
+                        "facebookImage": Object {
+                          "format": "jpg",
+                          "height": 424,
+                          "id": "wjvvtkavgsqayqovy1ew",
+                          "src": "https://i.kinja-img.com/gawker-media/image/upload/s--NbG0gVID--/c_fit,fl_progressive,q_80,w_636/wjvvtkavgsqayqovy1ew.jpg",
+                          "width": 636,
+                        },
+                        "featuredMedia": null,
+                        "first100Characters": "What’s the ideal scenario for a “good” episode of Modern Family in its tenth season? The show is nev",
+                        "firstSentence": "What’s the ideal scenario for a “good” episode of Modern Family in its tenth season? ",
+                        "gaDimensions": Object {
+                          "gaVideoIds": "",
+                          "wordCount": 838,
+                          "wordCountBucket": "800 - 1000",
+                        },
+                        "hasFeaturedVideo": false,
+                        "headline": "Identity is a funny thing on the latest <i>Modern Family</i>",
+                        "id": 1830299886,
+                        "images": Array [
+                          Object {
+                            "$el": Object {
+                              "0": Object {
+                                "_lazysizesWidth": 800,
+                              },
+                              "context": Object {},
+                              "length": 1,
+                              "prevObject": Object {
+                                "0": Object {},
+                                "context": Object {},
+                                "length": 1,
+                              },
+                              "selector": "[data-chomp-id=\\"wjvvtkavgsqayqovy1ew\\"]",
+                            },
+                            "format": "jpg",
+                            "height": 424,
+                            "id": "wjvvtkavgsqayqovy1ew",
+                            "src": "https://i.kinja-img.com/gawker-media/image/upload/s--NbG0gVID--/c_fit,fl_progressive,q_80,w_636/wjvvtkavgsqayqovy1ew.jpg",
+                            "type": "image",
+                            "width": 636,
+                          },
+                        ],
+                        "inArticleVideos": null,
+                        "isFeatured": false,
+                        "isStarter": true,
+                        "isVideo": false,
+                        "mainMedia": Object {
+                          "alignment": "Bleed",
+                          "attribution": Array [],
+                          "caption": Array [],
+                          "format": "jpg",
+                          "height": 2000,
+                          "id": "wjvvtkavgsqayqovy1ew",
+                          "lightbox": true,
+                          "syndicationRights": false,
+                          "type": "Image",
+                          "width": 3000,
+                        },
+                        "permalink": "https://tv.avclub.com/identity-is-a-funny-thing-on-the-latest-modern-family-1830299886",
+                        "plaintext": "What’s the ideal scenario for a “good” episode of Modern Family in its tenth season? The show is never going to reach the heights of its strongest seasons, the ones that made it a massive hit during its earliest days, but there’s usually still a few surprises with each new seasom. A few weeks ago the show said goodbye to Didi in an episode that managed to blend comedy and pathos in an effective way. But those kinds of stakes can’t be present in every episode, so what makes a “good” episode of Modern Family in the weeks where it isn’t entertaining ideas of mortality?
+",
+                        "publishTimeISO": "2018-11-08T14:00:00.886Z",
+                        "publishTimeMillis": 1541685600886,
+                        "qaMembers": Array [],
+                        "qaParticipants": Array [],
+                        "qaStatus": null,
+                        "replyCount": 2,
+                        "securePermalink": "https://tv.avclub.com/identity-is-a-funny-thing-on-the-latest-modern-family-1830299886",
+                        "socialHeadline": null,
+                        "sponsored": false,
+                        "staffIncluded": false,
+                        "status": "PUBLISHED",
+                        "storyType": Object {
+                          "blogId": 1636027099,
+                          "canonical": "tv-review",
+                          "content": "Standard",
+                          "id": 169,
+                          "title": "TV Reviews",
+                        },
+                        "subcategory": Object {
+                          "canonicalName": "season-10",
+                          "id": 5613,
+                          "parentId": 1363,
+                          "valueDisplay": "Season 10",
+                        },
+                        "tags": Array [
+                          Object {
+                            "canonical": "recap",
+                            "displayName": "Recap",
+                            "urlName": "recap",
+                          },
+                          Object {
+                            "canonical": "modernfamily",
+                            "displayName": "Modern Family",
+                            "urlName": "modern-family",
+                          },
+                          Object {
+                            "canonical": "abc",
+                            "displayName": "ABC",
+                            "urlName": "abc",
+                          },
+                        ],
+                        "twitterCardType": "summary_large_image",
+                        "videos": Array [],
+                      }
+                    }
+                  />
+                  <LabelCategory
+                    canonicalHost="www.avclub.com"
+                  />
+                </div>
+              </StyledComponent>
+            </meta-info__CategoryWrapper>
+            <NativeShareLabel
+              blog={
+                Object {
+                  "avatar": Object {
+                    "format": "png",
+                    "id": "no63bw902mddhwxtjtxh",
+                  },
+                  "blogGroup": "avclub",
+                  "canonicalHost": "www.avclub.com",
+                  "createTimeMillis": 1494255234433,
+                  "createdById": "1459038012",
+                  "description": "Pop culture obsessives writing for the pop culture obsessed.",
+                  "displayName": "The A.V. Club",
+                  "hosts": Array [
+                    "yibm5m2hj43ksbkaeqbwkaavclub.kinja.com",
+                    "avclub.com",
+                  ],
+                  "id": 1636027099,
+                  "lastUpdateTimeMillis": 1525985102748,
+                  "logo": Object {
+                    "format": "png",
+                    "id": "vwu6rbqlim4vaszsfkfk",
+                  },
+                  "name": "avclub",
+                  "navBackground": null,
+                  "ownerId": "5876237249237147629",
+                  "properties": Object {
+                    "aboutPostId": 1798308102,
+                    "adsTxtEnabled": true,
+                    "blogGroup": "avclub",
+                    "facebookPixelId": "513778665663423",
+                    "facebookScreenName": "theavclub",
+                    "fbAppId": "1621890511466174",
+                    "fbPagesId": "39581755672",
+                    "freelancerDraftEmail": "sendtoavceditors@theonion.com",
+                    "googleAnalyticsID": "UA-223393-2",
+                    "hideViewcounts": true,
+                    "instagramScreenName": "theavc",
+                    "isGmgBlog": true,
+                    "logoLink": "https://x.kinja-static.com/assets/images/logos/newsletter/avclub-500px.png",
+                    "mainColor": "#1c263c",
+                    "navigationGroup": "fmg",
+                    "newsletter": true,
+                    "noindex": false,
+                    "numberOfInfiniteScrollArticles": 10,
+                    "promotionUnit": "fmg.avclub",
+                    "recircGroup": "fmgNonSatire",
+                    "robotsAllowed": true,
+                    "singleOptIn": true,
+                    "skimLinkId": "33330X1569324",
+                    "sourcepointDomain": "mms.avclub.com",
+                    "tagPageDescription": "Pop Culture News, Photos, Videos & More",
+                    "twitterScreenName": "theavclub",
+                    "youtubeUrl": "https://www.youtube.com/user/theavclub",
+                  },
+                  "status": "ENABLED",
+                  "timezone": "America/Chicago",
+                  "timezoneOffset": -18000000,
+                }
+              }
+              showSharedLabel={true}
+            />
+          </div>
+        </StyledComponent>
+      </meta-info__MetaInfoWrapper>
+    </ThemeProvider>
+  </EnsureDefaultTheme>
+</MetaInfo>
+`;

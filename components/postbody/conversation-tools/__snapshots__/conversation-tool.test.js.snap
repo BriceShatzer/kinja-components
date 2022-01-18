@@ -1,0 +1,64 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ConversationTool /> should render properly 1`] = `
+<EnsureDefaultTheme>
+  <conversation-tool__Container
+    activeChild={1}
+    isOpen={true}
+  >
+    <conversation-tool__Title>
+      pets
+      : 
+      <strong>
+        kitty
+      </strong>
+    </conversation-tool__Title>
+    <conversation-tool__Subtitle>
+      pets are friends
+    </conversation-tool__Subtitle>
+    <conversation-tool__ButtonWrapper>
+      <RadioGroup
+        name="conversation-tool"
+        onChange={[MockFunction]}
+      >
+        <Radio
+          checked={true}
+          key="radio-kitty"
+          label="kitty"
+          value="kitty"
+        />
+        <conversation-tool__Line
+          active={false}
+          key="line-kitty"
+        />
+        <Radio
+          checked={false}
+          key="radio-piggy"
+          label="piggy"
+          value="piggy"
+        />
+        <conversation-tool__Line
+          active={false}
+          key="line-piggy"
+        />
+        <Radio
+          checked={false}
+          key="radio-doggo"
+          label="doggo"
+          value="doggo"
+        />
+      </RadioGroup>
+    </conversation-tool__ButtonWrapper>
+    <conversation-tool__FooterContainer>
+      <p>
+        footer
+      </p>
+    </conversation-tool__FooterContainer>
+    <conversation-tool__ChevronWrapper
+      onClick={[Function]}
+    >
+      <ChevronDownIcon />
+    </conversation-tool__ChevronWrapper>
+  </conversation-tool__Container>
+</EnsureDefaultTheme>
+`;

@@ -1,0 +1,247 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<FooterLegal /> for Gizmodo blogs renders G/O Media's legal text 1`] = `
+<EnsureDefaultTheme>
+  <footerLegal__FooterLegalWrap>
+    <span>
+       © 
+      2019
+       
+      <a
+        href="https://g-omedia.com"
+      >
+        G/O Media Inc.
+      </a>
+    </span>
+  </footerLegal__FooterLegalWrap>
+</EnsureDefaultTheme>
+`;
+
+exports[`<FooterLegal /> for Gizmodo blogs renders G/O Media's legal text 2`] = `
+<EnsureDefaultTheme>
+  <footerLegal__FooterLegalWrap>
+    <span>
+       © 
+      2019
+       
+      <a
+        href="https://g-omedia.com"
+      >
+        G/O Media Inc.
+      </a>
+    </span>
+  </footerLegal__FooterLegalWrap>
+</EnsureDefaultTheme>
+`;
+
+exports[`<FooterLegal /> for Gizmodo blogs renders G/O Media's legal text 3`] = `
+<EnsureDefaultTheme>
+  <footerLegal__FooterLegalWrap>
+    <span>
+       © 
+      2019
+       
+      <a
+        href="https://g-omedia.com"
+      >
+        G/O Media Inc.
+      </a>
+    </span>
+  </footerLegal__FooterLegalWrap>
+</EnsureDefaultTheme>
+`;
+
+exports[`<FooterLegal /> for Gizmodo blogs renders G/O Media's legal text 4`] = `
+<EnsureDefaultTheme>
+  <footerLegal__FooterLegalWrap>
+    <span>
+       © 
+      2019
+       
+      <a
+        href="https://g-omedia.com"
+      >
+        G/O Media Inc.
+      </a>
+    </span>
+  </footerLegal__FooterLegalWrap>
+</EnsureDefaultTheme>
+`;
+
+exports[`<FooterLegal /> for Gizmodo blogs renders G/O Media's legal text 5`] = `
+<EnsureDefaultTheme>
+  <footerLegal__FooterLegalWrap>
+    <span>
+       © 
+      2019
+       
+      <a
+        href="https://g-omedia.com"
+      >
+        G/O Media Inc.
+      </a>
+    </span>
+  </footerLegal__FooterLegalWrap>
+</EnsureDefaultTheme>
+`;
+
+exports[`<FooterLegal /> for Gizmodo blogs renders G/O Media's legal text 6`] = `
+<EnsureDefaultTheme>
+  <footerLegal__FooterLegalWrap>
+    <span>
+       © 
+      2019
+       
+      <a
+        href="https://g-omedia.com"
+      >
+        G/O Media Inc.
+      </a>
+    </span>
+  </footerLegal__FooterLegalWrap>
+</EnsureDefaultTheme>
+`;
+
+exports[`<FooterLegal /> for Gizmodo blogs renders G/O Media's legal text 7`] = `
+<EnsureDefaultTheme>
+  <footerLegal__FooterLegalWrap>
+    <span>
+       © 
+      2019
+       
+      <a
+        href="https://g-omedia.com"
+      >
+        G/O Media Inc.
+      </a>
+    </span>
+  </footerLegal__FooterLegalWrap>
+</EnsureDefaultTheme>
+`;
+
+exports[`<FooterLegal /> for Gizmodo blogs renders G/O Media's legal text 8`] = `
+<EnsureDefaultTheme>
+  <footerLegal__FooterLegalWrap>
+    <span>
+       © 
+      2019
+       
+      <a
+        href="https://g-omedia.com"
+      >
+        G/O Media Inc.
+      </a>
+    </span>
+  </footerLegal__FooterLegalWrap>
+</EnsureDefaultTheme>
+`;
+
+exports[`<FooterLegal /> for Gizmodo blogs renders G/O Media's legal text 9`] = `
+<EnsureDefaultTheme>
+  <footerLegal__FooterLegalWrap>
+    <span>
+       © 
+      2019
+       
+      <a
+        href="https://g-omedia.com"
+      >
+        G/O Media Inc.
+      </a>
+    </span>
+  </footerLegal__FooterLegalWrap>
+</EnsureDefaultTheme>
+`;
+
+exports[`<FooterLegal /> for Gizmodo blogs renders G/O Media's legal text 10`] = `
+<EnsureDefaultTheme>
+  <footerLegal__FooterLegalWrap>
+    <span>
+       © 
+      2019
+       
+      <a
+        href="https://g-omedia.com"
+      >
+        G/O Media Inc.
+      </a>
+    </span>
+  </footerLegal__FooterLegalWrap>
+</EnsureDefaultTheme>
+`;
+
+exports[`<FooterLegal /> for Onion blogs renders G/O Media's legal text 1`] = `
+<EnsureDefaultTheme>
+  <footerLegal__FooterLegalWrap>
+    <span>
+       © 
+      2019
+       
+      <a
+        href="https://g-omedia.com"
+      >
+        G/O Media Inc.
+      </a>
+    </span>
+  </footerLegal__FooterLegalWrap>
+</EnsureDefaultTheme>
+`;
+
+exports[`<FooterLegal /> for Onion blogs renders G/O Media's legal text 2`] = `
+<EnsureDefaultTheme>
+  <footerLegal__FooterLegalWrap>
+    <span>
+      ClickHole uses invented names in all of its stories, except in cases where public figures
+							are being satirized. Any other use of real names is accidental and coincidental. ClickHole is
+							not intended for readers under 18 years of age.
+    </span>
+    <span>
+       © 
+      2019
+       
+      <a
+        href="https://g-omedia.com"
+      >
+        G/O Media Inc.
+      </a>
+    </span>
+  </footerLegal__FooterLegalWrap>
+</EnsureDefaultTheme>
+`;
+
+exports[`<FooterLegal /> for Onion blogs renders G/O Media's legal text 3`] = `
+<EnsureDefaultTheme>
+  <footerLegal__FooterLegalWrap>
+    <span>
+      The Onion is not intended for readers under 18 years of age.
+    </span>
+    <span>
+       © 
+      2019
+       
+      <a
+        href="https://g-omedia.com"
+      >
+        G/O Media Inc.
+      </a>
+    </span>
+  </footerLegal__FooterLegalWrap>
+</EnsureDefaultTheme>
+`;
+
+exports[`<FooterLegal /> for Onion blogs renders G/O Media's legal text 4`] = `
+<EnsureDefaultTheme>
+  <footerLegal__FooterLegalWrap>
+    <span>
+       © 
+      2019
+       
+      <a
+        href="https://g-omedia.com"
+      >
+        G/O Media Inc.
+      </a>
+    </span>
+  </footerLegal__FooterLegalWrap>
+</EnsureDefaultTheme>
+`;

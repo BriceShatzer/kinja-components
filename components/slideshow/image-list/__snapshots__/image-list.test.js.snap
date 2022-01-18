@@ -1,0 +1,1251 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Slideshow <ImageList /> should display all items 1`] = `
+.c7 {
+  display: block;
+  width: 62px;
+  height: 18px;
+  margin: auto;
+  text-align: center;
+}
+
+.c7 > * {
+  width: 18px;
+  height: 18px;
+  background-color: #CCC;
+  border-radius: 100%;
+  display: inline-block;
+  -webkit-animation: dNuRBx 0.8s infinite ease-in-out;
+  animation: dNuRBx 0.8s infinite ease-in-out;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+}
+
+.c7.c7 .c8 {
+  -webkit-animation-delay: -0.32s;
+  animation-delay: -0.32s;
+}
+
+.c7.c7 .c9 {
+  -webkit-animation-delay: -0.16s;
+  animation-delay: -0.16s;
+}
+
+.c10 {
+  padding-top: 1.125rem;
+  min-height: 57px;
+}
+
+.c4 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  box-sizing: border-box;
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  overflow: hidden;
+  background: #000;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c6 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  box-sizing: border-box;
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  overflow: hidden;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  width: 100%;
+  display: none;
+}
+
+.c6 img {
+  max-width: 100%;
+  max-height: 100%;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  position: relative;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  object-fit: contain;
+}
+
+.c3 {
+  width: 100%;
+  padding-bottom: 66.6666%;
+  position: relative;
+}
+
+.c1 {
+  -webkit-transition-timing-function: cubic-bezier(0.25,0.1,0.25,1);
+  transition-timing-function: cubic-bezier(0.25,0.1,0.25,1);
+  width: 100%;
+  position: relative;
+  -webkit-flex: 0 0 100%;
+  -ms-flex: 0 0 100%;
+  flex: 0 0 100%;
+}
+
+.c5 {
+  background-size: cover;
+  background-position: center center;
+  -webkit-filter: blur(30px);
+  filter: blur(30px);
+  position: absolute;
+  width: 120%;
+  height: 120%;
+  opacity: 0.6;
+  background-image: url();
+  display: none;
+}
+
+.c0 {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  max-width: none;
+}
+
+.c0 > * {
+  background: white;
+  padding: 15px;
+  float: left;
+  width: 210px;
+}
+
+@media only screen and (max-width:49.94em) {
+  .c4 {
+    background: #222;
+    pointer-events: none;
+  }
+}
+
+@media only screen and (min-width:50em) {
+  .c4 {
+    cursor: pointer;
+  }
+
+  .c4:hover .slide__SlideFullscreenIndicator-sc-7y2kxp-2 {
+    opacity: 1;
+  }
+}
+
+@media only screen and (orientation:landscape) {
+  .c2 {
+    margin: inherit;
+  }
+}
+
+@media only screen and (orientation:landscape) {
+  .c1 {
+    -webkit-box-pack: start;
+    -webkit-justify-content: flex-start;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+  }
+}
+
+@media only screen and (max-width:49.94em) {
+  .c5 {
+    display: none;
+  }
+}
+
+<ImageList
+  aspectRatio="Photo"
+  items={
+    Array [
+      Object {
+        "image": Object {
+          "url": "test1",
+        },
+      },
+      Object {
+        "image": Object {
+          "url": "test2",
+        },
+      },
+    ]
+  }
+  onChange={[Function]}
+>
+  <GlobalStyleComponent />
+  <sortableList
+    axis="xy"
+    distance={5}
+    getHelperDimensions={[Function]}
+    helperClass="kinja-slide--dragging"
+    hideSortableGhost={true}
+    items={
+      Array [
+        Object {
+          "aspectRatio": "Photo",
+          "fullscreenEnabled": false,
+          "image": Object {
+            "image": Object {
+              "url": "test1",
+            },
+          },
+          "initialIndex": 0,
+          "load": true,
+          "onDelete": [Function],
+        },
+        Object {
+          "aspectRatio": "Photo",
+          "fullscreenEnabled": false,
+          "image": Object {
+            "image": Object {
+              "url": "test2",
+            },
+          },
+          "initialIndex": 1,
+          "load": true,
+          "onDelete": [Function],
+        },
+      ]
+    }
+    lockOffset="50%"
+    lockToContainerEdges={false}
+    onSortEnd={[Function]}
+    pressDelay={0}
+    pressThreshold={5}
+    shouldCancelStart={[Function]}
+    transitionDuration={300}
+    useWindowAsScrollContainer={true}
+  >
+    <Component
+      items={
+        Array [
+          Object {
+            "aspectRatio": "Photo",
+            "fullscreenEnabled": false,
+            "image": Object {
+              "image": Object {
+                "url": "test1",
+              },
+            },
+            "initialIndex": 0,
+            "load": true,
+            "onDelete": [Function],
+          },
+          Object {
+            "aspectRatio": "Photo",
+            "fullscreenEnabled": false,
+            "image": Object {
+              "image": Object {
+                "url": "test2",
+              },
+            },
+            "initialIndex": 1,
+            "load": true,
+            "onDelete": [Function],
+          },
+        ]
+      }
+    >
+      <image-list__EditSlideshowList>
+        <StyledComponent
+          forwardedComponent={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": Array [],
+              "componentStyle": ComponentStyle {
+                "componentId": "image-list__EditSlideshowList-tz2uaz-0",
+                "isStatic": true,
+                "lastClassName": "c0",
+                "rules": Array [
+                  "position:relative;width:100%;height:100%;list-style:none;padding:0;margin:0;max-width:none;> *{background:white;padding:15px;float:left;width:210px;}",
+                ],
+              },
+              "displayName": "image-list__EditSlideshowList",
+              "foldedComponentIds": Array [],
+              "render": [Function],
+              "styledComponentId": "image-list__EditSlideshowList-tz2uaz-0",
+              "target": "ul",
+              "toString": [Function],
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+        >
+          <ul
+            className="c0"
+          >
+            <sortableElement(Slide)
+              aspectRatio="Photo"
+              collection={0}
+              fullscreenEnabled={false}
+              image={
+                Object {
+                  "image": Object {
+                    "url": "test1",
+                  },
+                }
+              }
+              index={0}
+              initialIndex={0}
+              key="item-0"
+              load={true}
+              onDelete={[Function]}
+            >
+              <Slide
+                aspectRatio="Photo"
+                fullscreenEnabled={false}
+                image={
+                  Object {
+                    "image": Object {
+                      "url": "test1",
+                    },
+                  }
+                }
+                initialIndex={0}
+                load={true}
+                onDelete={[Function]}
+              >
+                <EnsureDefaultTheme>
+                  <ThemeProvider
+                    theme={[Function]}
+                  >
+                    <slide__KinjaSlide>
+                      <StyledComponent
+                        forwardedComponent={
+                          Object {
+                            "$$typeof": Symbol(react.forward_ref),
+                            "attrs": Array [],
+                            "componentStyle": ComponentStyle {
+                              "componentId": "slide__KinjaSlide-sc-7y2kxp-7",
+                              "isStatic": true,
+                              "lastClassName": "c1",
+                              "rules": Array [
+                                "transition-timing-function:cubic-bezier(0.25,0.1,0.25,1);width:100%;position:relative;flex:0 0 100%;@media only screen and (orientation:landscape){justify-content:flex-start;}",
+                              ],
+                            },
+                            "displayName": "slide__KinjaSlide",
+                            "foldedComponentIds": Array [],
+                            "render": [Function],
+                            "styledComponentId": "slide__KinjaSlide-sc-7y2kxp-7",
+                            "target": "div",
+                            "toString": [Function],
+                            "warnTooManyClasses": [Function],
+                            "withComponent": [Function],
+                          }
+                        }
+                        forwardedRef={null}
+                      >
+                        <div
+                          className="c1"
+                        >
+                          <slide__SlideInner>
+                            <StyledComponent
+                              forwardedComponent={
+                                Object {
+                                  "$$typeof": Symbol(react.forward_ref),
+                                  "attrs": Array [],
+                                  "componentStyle": ComponentStyle {
+                                    "componentId": "slide__SlideInner-sc-7y2kxp-6",
+                                    "isStatic": true,
+                                    "lastClassName": "c2",
+                                    "rules": Array [
+                                      "@media only screen and (orientation:landscape){margin:inherit;}",
+                                    ],
+                                  },
+                                  "displayName": "slide__SlideInner",
+                                  "foldedComponentIds": Array [],
+                                  "render": [Function],
+                                  "styledComponentId": "slide__SlideInner-sc-7y2kxp-6",
+                                  "target": "div",
+                                  "toString": [Function],
+                                  "warnTooManyClasses": [Function],
+                                  "withComponent": [Function],
+                                }
+                              }
+                              forwardedRef={null}
+                            >
+                              <div
+                                className="c2"
+                              >
+                                <slide__SlideContainer
+                                  wide={false}
+                                >
+                                  <StyledComponent
+                                    forwardedComponent={
+                                      Object {
+                                        "$$typeof": Symbol(react.forward_ref),
+                                        "attrs": Array [],
+                                        "componentStyle": ComponentStyle {
+                                          "componentId": "slide__SlideContainer-sc-7y2kxp-5",
+                                          "isStatic": false,
+                                          "lastClassName": "c3",
+                                          "rules": Array [
+                                            "width:100%;padding-bottom:66.6666%;position:relative;",
+                                            [Function],
+                                          ],
+                                        },
+                                        "displayName": "slide__SlideContainer",
+                                        "foldedComponentIds": Array [],
+                                        "render": [Function],
+                                        "styledComponentId": "slide__SlideContainer-sc-7y2kxp-5",
+                                        "target": "div",
+                                        "toString": [Function],
+                                        "warnTooManyClasses": [Function],
+                                        "withComponent": [Function],
+                                      }
+                                    }
+                                    forwardedRef={null}
+                                    wide={false}
+                                  >
+                                    <div
+                                      className="c3"
+                                    >
+                                      <slide__SlideImageContainer>
+                                        <StyledComponent
+                                          forwardedComponent={
+                                            Object {
+                                              "$$typeof": Symbol(react.forward_ref),
+                                              "attrs": Array [],
+                                              "componentStyle": ComponentStyle {
+                                                "componentId": "slide__SlideImageContainer-sc-7y2kxp-3",
+                                                "isStatic": false,
+                                                "lastClassName": "c4",
+                                                "rules": Array [
+                                                  "align-items:center;box-sizing:border-box;position:absolute;left:0;top:0;right:0;bottom:0;display:flex;justify-content:center;overflow:hidden;background:",
+                                                  [Function],
+                                                  ";user-select:none;",
+                                                  "@media only screen and ",
+                                                  "(max-width: 49.94em)",
+                                                  "{",
+                                                  "
+		background: ",
+                                                  [Function],
+                                                  ";
+		pointer-events: none;
+	",
+                                                  "}",
+                                                  " ",
+                                                  "@media only screen and ",
+                                                  "(min-width: 50em)",
+                                                  "{",
+                                                  "
+		cursor: pointer;
+		&:hover ",
+                                                  ".slide__SlideFullscreenIndicator-sc-7y2kxp-2",
+                                                  " {
+			opacity: 1;
+		}
+	",
+                                                  "}",
+                                                ],
+                                              },
+                                              "displayName": "slide__SlideImageContainer",
+                                              "foldedComponentIds": Array [],
+                                              "render": [Function],
+                                              "styledComponentId": "slide__SlideImageContainer-sc-7y2kxp-3",
+                                              "target": "div",
+                                              "toString": [Function],
+                                              "warnTooManyClasses": [Function],
+                                              "withComponent": [Function],
+                                            }
+                                          }
+                                          forwardedRef={null}
+                                        >
+                                          <div
+                                            className="c4"
+                                          >
+                                            <slide__SlideBlurBackground
+                                              hidden={true}
+                                              loaded={true}
+                                              url=""
+                                            >
+                                              <StyledComponent
+                                                forwardedComponent={
+                                                  Object {
+                                                    "$$typeof": Symbol(react.forward_ref),
+                                                    "attrs": Array [],
+                                                    "componentStyle": ComponentStyle {
+                                                      "componentId": "slide__SlideBlurBackground-sc-7y2kxp-8",
+                                                      "isStatic": false,
+                                                      "lastClassName": "c5",
+                                                      "rules": Array [
+                                                        "background-size:cover;background-position:center center;filter:blur(30px);position:absolute;width:120%;height:120%;opacity:0.6;",
+                                                        [Function],
+                                                        " ",
+                                                        [Function],
+                                                        " ",
+                                                        "@media only screen and ",
+                                                        "(max-width: 49.94em)",
+                                                        "{",
+                                                        "
+		display: none;
+	",
+                                                        "}",
+                                                      ],
+                                                    },
+                                                    "displayName": "slide__SlideBlurBackground",
+                                                    "foldedComponentIds": Array [],
+                                                    "render": [Function],
+                                                    "styledComponentId": "slide__SlideBlurBackground-sc-7y2kxp-8",
+                                                    "target": "div",
+                                                    "toString": [Function],
+                                                    "warnTooManyClasses": [Function],
+                                                    "withComponent": [Function],
+                                                  }
+                                                }
+                                                forwardedRef={null}
+                                                hidden={true}
+                                                loaded={true}
+                                                url=""
+                                              >
+                                                <div
+                                                  className="c5"
+                                                  hidden={true}
+                                                />
+                                              </StyledComponent>
+                                            </slide__SlideBlurBackground>
+                                            <slide__SlideImage
+                                              hidden={true}
+                                            >
+                                              <StyledComponent
+                                                forwardedComponent={
+                                                  Object {
+                                                    "$$typeof": Symbol(react.forward_ref),
+                                                    "attrs": Array [],
+                                                    "componentStyle": ComponentStyle {
+                                                      "componentId": "slide__SlideImage-sc-7y2kxp-4",
+                                                      "isStatic": false,
+                                                      "lastClassName": "c6",
+                                                      "rules": Array [
+                                                        "align-items:center;box-sizing:border-box;position:absolute;left:0;top:0;right:0;bottom:0;display:flex;justify-content:center;overflow:hidden;user-select:none;width:100%;img{max-width:100%;max-height:100%;align-self:center;position:relative;user-select:none;object-fit:contain;}",
+                                                        [Function],
+                                                      ],
+                                                    },
+                                                    "displayName": "slide__SlideImage",
+                                                    "foldedComponentIds": Array [],
+                                                    "render": [Function],
+                                                    "styledComponentId": "slide__SlideImage-sc-7y2kxp-4",
+                                                    "target": "picture",
+                                                    "toString": [Function],
+                                                    "warnTooManyClasses": [Function],
+                                                    "withComponent": [Function],
+                                                  }
+                                                }
+                                                forwardedRef={null}
+                                                hidden={true}
+                                              >
+                                                <picture
+                                                  className="c6"
+                                                  hidden={true}
+                                                >
+                                                  <source
+                                                    media="(max-width: 599px)"
+                                                    srcSet=""
+                                                  />
+                                                  <img
+                                                    draggable={false}
+                                                    onLoad={[Function]}
+                                                    src=""
+                                                  />
+                                                </picture>
+                                              </StyledComponent>
+                                            </slide__SlideImage>
+                                            <Loading>
+                                              <load-indicator__Spinner>
+                                                <StyledComponent
+                                                  forwardedComponent={
+                                                    Object {
+                                                      "$$typeof": Symbol(react.forward_ref),
+                                                      "attrs": Array [],
+                                                      "componentStyle": ComponentStyle {
+                                                        "componentId": "load-indicator__Spinner-w46in-3",
+                                                        "isStatic": false,
+                                                        "lastClassName": "c7",
+                                                        "rules": Array [
+                                                          "display:block;width:62px;height:18px;margin:auto;text-align:center;& > *{width:18px;height:18px;background-color:",
+                                                          [Function],
+                                                          ";border-radius:100%;display:inline-block;animation:",
+                                                          Keyframes {
+                                                            "id": "sc-keyframes-dNuRBx",
+                                                            "inject": [Function],
+                                                            "name": "dNuRBx",
+                                                            "rules": Array [
+                                                              "@-webkit-keyframes dNuRBx{0%,80%,100%{-webkit-transform:scale(0.8);-ms-transform:scale(0.8);transform:scale(0.8);}40%{-webkit-transform:scale(1);-ms-transform:scale(1);transform:scale(1);}}",
+                                                              "@keyframes dNuRBx{0%,80%,100%{-webkit-transform:scale(0.8);-ms-transform:scale(0.8);transform:scale(0.8);}40%{-webkit-transform:scale(1);-ms-transform:scale(1);transform:scale(1);}}",
+                                                            ],
+                                                            "toString": [Function],
+                                                          },
+                                                          " 0.8s infinite ease-in-out;animation-fill-mode:both;}&& ",
+                                                          ".c8",
+                                                          "{animation-delay:-0.32s;}&& ",
+                                                          ".c9",
+                                                          "{animation-delay:-0.16s;}",
+                                                        ],
+                                                      },
+                                                      "displayName": "load-indicator__Spinner",
+                                                      "foldedComponentIds": Array [],
+                                                      "render": [Function],
+                                                      "styledComponentId": "load-indicator__Spinner-w46in-3",
+                                                      "target": "span",
+                                                      "toString": [Function],
+                                                      "warnTooManyClasses": [Function],
+                                                      "withComponent": [Function],
+                                                    }
+                                                  }
+                                                  forwardedRef={null}
+                                                >
+                                                  <span
+                                                    className="c7"
+                                                  >
+                                                    <load-indicator__One>
+                                                      <StyledComponent
+                                                        forwardedComponent={
+                                                          Object {
+                                                            "$$typeof": Symbol(react.forward_ref),
+                                                            "attrs": Array [],
+                                                            "componentStyle": ComponentStyle {
+                                                              "componentId": "c8",
+                                                              "isStatic": true,
+                                                              "lastClassName": "exkeuo",
+                                                              "rules": Array [],
+                                                            },
+                                                            "displayName": "load-indicator__One",
+                                                            "foldedComponentIds": Array [],
+                                                            "render": [Function],
+                                                            "styledComponentId": "c8",
+                                                            "target": "span",
+                                                            "toString": [Function],
+                                                            "warnTooManyClasses": [Function],
+                                                            "withComponent": [Function],
+                                                          }
+                                                        }
+                                                        forwardedRef={null}
+                                                      >
+                                                        <span
+                                                          className="c8 "
+                                                        />
+                                                      </StyledComponent>
+                                                    </load-indicator__One>
+                                                    <load-indicator__Two>
+                                                      <StyledComponent
+                                                        forwardedComponent={
+                                                          Object {
+                                                            "$$typeof": Symbol(react.forward_ref),
+                                                            "attrs": Array [],
+                                                            "componentStyle": ComponentStyle {
+                                                              "componentId": "c9",
+                                                              "isStatic": true,
+                                                              "lastClassName": "ljIYEF",
+                                                              "rules": Array [],
+                                                            },
+                                                            "displayName": "load-indicator__Two",
+                                                            "foldedComponentIds": Array [],
+                                                            "render": [Function],
+                                                            "styledComponentId": "c9",
+                                                            "target": "span",
+                                                            "toString": [Function],
+                                                            "warnTooManyClasses": [Function],
+                                                            "withComponent": [Function],
+                                                          }
+                                                        }
+                                                        forwardedRef={null}
+                                                      >
+                                                        <span
+                                                          className="c9 "
+                                                        />
+                                                      </StyledComponent>
+                                                    </load-indicator__Two>
+                                                    <load-indicator__Three>
+                                                      <StyledComponent
+                                                        forwardedComponent={
+                                                          Object {
+                                                            "$$typeof": Symbol(react.forward_ref),
+                                                            "attrs": Array [],
+                                                            "componentStyle": ComponentStyle {
+                                                              "componentId": "load-indicator__Three-w46in-2",
+                                                              "isStatic": true,
+                                                              "lastClassName": "fVScJl",
+                                                              "rules": Array [],
+                                                            },
+                                                            "displayName": "load-indicator__Three",
+                                                            "foldedComponentIds": Array [],
+                                                            "render": [Function],
+                                                            "styledComponentId": "load-indicator__Three-w46in-2",
+                                                            "target": "span",
+                                                            "toString": [Function],
+                                                            "warnTooManyClasses": [Function],
+                                                            "withComponent": [Function],
+                                                          }
+                                                        }
+                                                        forwardedRef={null}
+                                                      >
+                                                        <span
+                                                          className=""
+                                                        />
+                                                      </StyledComponent>
+                                                    </load-indicator__Three>
+                                                  </span>
+                                                </StyledComponent>
+                                              </load-indicator__Spinner>
+                                            </Loading>
+                                          </div>
+                                        </StyledComponent>
+                                      </slide__SlideImageContainer>
+                                    </div>
+                                  </StyledComponent>
+                                </slide__SlideContainer>
+                                <slide__SlideCaption>
+                                  <StyledComponent
+                                    forwardedComponent={
+                                      Object {
+                                        "$$typeof": Symbol(react.forward_ref),
+                                        "attrs": Array [],
+                                        "componentStyle": ComponentStyle {
+                                          "componentId": "slide__SlideCaption-sc-7y2kxp-1",
+                                          "isStatic": false,
+                                          "lastClassName": "c10",
+                                          "rules": Array [
+                                            "padding-top:",
+                                            [Function],
+                                            ";min-height:57px;",
+                                          ],
+                                        },
+                                        "displayName": "slide__SlideCaption",
+                                        "foldedComponentIds": Array [],
+                                        "render": [Function],
+                                        "styledComponentId": "slide__SlideCaption-sc-7y2kxp-1",
+                                        "target": "div",
+                                        "toString": [Function],
+                                        "warnTooManyClasses": [Function],
+                                        "withComponent": [Function],
+                                      }
+                                    }
+                                    forwardedRef={null}
+                                  >
+                                    <div
+                                      className="c10"
+                                    >
+                                      <MaybeCaption />
+                                      <MaybeAttribution />
+                                    </div>
+                                  </StyledComponent>
+                                </slide__SlideCaption>
+                              </div>
+                            </StyledComponent>
+                          </slide__SlideInner>
+                        </div>
+                      </StyledComponent>
+                    </slide__KinjaSlide>
+                  </ThemeProvider>
+                </EnsureDefaultTheme>
+              </Slide>
+            </sortableElement(Slide)>
+            <sortableElement(Slide)
+              aspectRatio="Photo"
+              collection={0}
+              fullscreenEnabled={false}
+              image={
+                Object {
+                  "image": Object {
+                    "url": "test2",
+                  },
+                }
+              }
+              index={1}
+              initialIndex={1}
+              key="item-1"
+              load={true}
+              onDelete={[Function]}
+            >
+              <Slide
+                aspectRatio="Photo"
+                fullscreenEnabled={false}
+                image={
+                  Object {
+                    "image": Object {
+                      "url": "test2",
+                    },
+                  }
+                }
+                initialIndex={1}
+                load={true}
+                onDelete={[Function]}
+              >
+                <EnsureDefaultTheme>
+                  <ThemeProvider
+                    theme={[Function]}
+                  >
+                    <slide__KinjaSlide>
+                      <StyledComponent
+                        forwardedComponent={
+                          Object {
+                            "$$typeof": Symbol(react.forward_ref),
+                            "attrs": Array [],
+                            "componentStyle": ComponentStyle {
+                              "componentId": "slide__KinjaSlide-sc-7y2kxp-7",
+                              "isStatic": true,
+                              "lastClassName": "c1",
+                              "rules": Array [
+                                "transition-timing-function:cubic-bezier(0.25,0.1,0.25,1);width:100%;position:relative;flex:0 0 100%;@media only screen and (orientation:landscape){justify-content:flex-start;}",
+                              ],
+                            },
+                            "displayName": "slide__KinjaSlide",
+                            "foldedComponentIds": Array [],
+                            "render": [Function],
+                            "styledComponentId": "slide__KinjaSlide-sc-7y2kxp-7",
+                            "target": "div",
+                            "toString": [Function],
+                            "warnTooManyClasses": [Function],
+                            "withComponent": [Function],
+                          }
+                        }
+                        forwardedRef={null}
+                      >
+                        <div
+                          className="c1"
+                        >
+                          <slide__SlideInner>
+                            <StyledComponent
+                              forwardedComponent={
+                                Object {
+                                  "$$typeof": Symbol(react.forward_ref),
+                                  "attrs": Array [],
+                                  "componentStyle": ComponentStyle {
+                                    "componentId": "slide__SlideInner-sc-7y2kxp-6",
+                                    "isStatic": true,
+                                    "lastClassName": "c2",
+                                    "rules": Array [
+                                      "@media only screen and (orientation:landscape){margin:inherit;}",
+                                    ],
+                                  },
+                                  "displayName": "slide__SlideInner",
+                                  "foldedComponentIds": Array [],
+                                  "render": [Function],
+                                  "styledComponentId": "slide__SlideInner-sc-7y2kxp-6",
+                                  "target": "div",
+                                  "toString": [Function],
+                                  "warnTooManyClasses": [Function],
+                                  "withComponent": [Function],
+                                }
+                              }
+                              forwardedRef={null}
+                            >
+                              <div
+                                className="c2"
+                              >
+                                <slide__SlideContainer
+                                  wide={false}
+                                >
+                                  <StyledComponent
+                                    forwardedComponent={
+                                      Object {
+                                        "$$typeof": Symbol(react.forward_ref),
+                                        "attrs": Array [],
+                                        "componentStyle": ComponentStyle {
+                                          "componentId": "slide__SlideContainer-sc-7y2kxp-5",
+                                          "isStatic": false,
+                                          "lastClassName": "c3",
+                                          "rules": Array [
+                                            "width:100%;padding-bottom:66.6666%;position:relative;",
+                                            [Function],
+                                          ],
+                                        },
+                                        "displayName": "slide__SlideContainer",
+                                        "foldedComponentIds": Array [],
+                                        "render": [Function],
+                                        "styledComponentId": "slide__SlideContainer-sc-7y2kxp-5",
+                                        "target": "div",
+                                        "toString": [Function],
+                                        "warnTooManyClasses": [Function],
+                                        "withComponent": [Function],
+                                      }
+                                    }
+                                    forwardedRef={null}
+                                    wide={false}
+                                  >
+                                    <div
+                                      className="c3"
+                                    >
+                                      <slide__SlideImageContainer>
+                                        <StyledComponent
+                                          forwardedComponent={
+                                            Object {
+                                              "$$typeof": Symbol(react.forward_ref),
+                                              "attrs": Array [],
+                                              "componentStyle": ComponentStyle {
+                                                "componentId": "slide__SlideImageContainer-sc-7y2kxp-3",
+                                                "isStatic": false,
+                                                "lastClassName": "c4",
+                                                "rules": Array [
+                                                  "align-items:center;box-sizing:border-box;position:absolute;left:0;top:0;right:0;bottom:0;display:flex;justify-content:center;overflow:hidden;background:",
+                                                  [Function],
+                                                  ";user-select:none;",
+                                                  "@media only screen and ",
+                                                  "(max-width: 49.94em)",
+                                                  "{",
+                                                  "
+		background: ",
+                                                  [Function],
+                                                  ";
+		pointer-events: none;
+	",
+                                                  "}",
+                                                  " ",
+                                                  "@media only screen and ",
+                                                  "(min-width: 50em)",
+                                                  "{",
+                                                  "
+		cursor: pointer;
+		&:hover ",
+                                                  ".slide__SlideFullscreenIndicator-sc-7y2kxp-2",
+                                                  " {
+			opacity: 1;
+		}
+	",
+                                                  "}",
+                                                ],
+                                              },
+                                              "displayName": "slide__SlideImageContainer",
+                                              "foldedComponentIds": Array [],
+                                              "render": [Function],
+                                              "styledComponentId": "slide__SlideImageContainer-sc-7y2kxp-3",
+                                              "target": "div",
+                                              "toString": [Function],
+                                              "warnTooManyClasses": [Function],
+                                              "withComponent": [Function],
+                                            }
+                                          }
+                                          forwardedRef={null}
+                                        >
+                                          <div
+                                            className="c4"
+                                          >
+                                            <slide__SlideBlurBackground
+                                              hidden={true}
+                                              loaded={true}
+                                              url=""
+                                            >
+                                              <StyledComponent
+                                                forwardedComponent={
+                                                  Object {
+                                                    "$$typeof": Symbol(react.forward_ref),
+                                                    "attrs": Array [],
+                                                    "componentStyle": ComponentStyle {
+                                                      "componentId": "slide__SlideBlurBackground-sc-7y2kxp-8",
+                                                      "isStatic": false,
+                                                      "lastClassName": "c5",
+                                                      "rules": Array [
+                                                        "background-size:cover;background-position:center center;filter:blur(30px);position:absolute;width:120%;height:120%;opacity:0.6;",
+                                                        [Function],
+                                                        " ",
+                                                        [Function],
+                                                        " ",
+                                                        "@media only screen and ",
+                                                        "(max-width: 49.94em)",
+                                                        "{",
+                                                        "
+		display: none;
+	",
+                                                        "}",
+                                                      ],
+                                                    },
+                                                    "displayName": "slide__SlideBlurBackground",
+                                                    "foldedComponentIds": Array [],
+                                                    "render": [Function],
+                                                    "styledComponentId": "slide__SlideBlurBackground-sc-7y2kxp-8",
+                                                    "target": "div",
+                                                    "toString": [Function],
+                                                    "warnTooManyClasses": [Function],
+                                                    "withComponent": [Function],
+                                                  }
+                                                }
+                                                forwardedRef={null}
+                                                hidden={true}
+                                                loaded={true}
+                                                url=""
+                                              >
+                                                <div
+                                                  className="c5"
+                                                  hidden={true}
+                                                />
+                                              </StyledComponent>
+                                            </slide__SlideBlurBackground>
+                                            <slide__SlideImage
+                                              hidden={true}
+                                            >
+                                              <StyledComponent
+                                                forwardedComponent={
+                                                  Object {
+                                                    "$$typeof": Symbol(react.forward_ref),
+                                                    "attrs": Array [],
+                                                    "componentStyle": ComponentStyle {
+                                                      "componentId": "slide__SlideImage-sc-7y2kxp-4",
+                                                      "isStatic": false,
+                                                      "lastClassName": "c6",
+                                                      "rules": Array [
+                                                        "align-items:center;box-sizing:border-box;position:absolute;left:0;top:0;right:0;bottom:0;display:flex;justify-content:center;overflow:hidden;user-select:none;width:100%;img{max-width:100%;max-height:100%;align-self:center;position:relative;user-select:none;object-fit:contain;}",
+                                                        [Function],
+                                                      ],
+                                                    },
+                                                    "displayName": "slide__SlideImage",
+                                                    "foldedComponentIds": Array [],
+                                                    "render": [Function],
+                                                    "styledComponentId": "slide__SlideImage-sc-7y2kxp-4",
+                                                    "target": "picture",
+                                                    "toString": [Function],
+                                                    "warnTooManyClasses": [Function],
+                                                    "withComponent": [Function],
+                                                  }
+                                                }
+                                                forwardedRef={null}
+                                                hidden={true}
+                                              >
+                                                <picture
+                                                  className="c6"
+                                                  hidden={true}
+                                                >
+                                                  <source
+                                                    media="(max-width: 599px)"
+                                                    srcSet=""
+                                                  />
+                                                  <img
+                                                    draggable={false}
+                                                    onLoad={[Function]}
+                                                    src=""
+                                                  />
+                                                </picture>
+                                              </StyledComponent>
+                                            </slide__SlideImage>
+                                            <Loading>
+                                              <load-indicator__Spinner>
+                                                <StyledComponent
+                                                  forwardedComponent={
+                                                    Object {
+                                                      "$$typeof": Symbol(react.forward_ref),
+                                                      "attrs": Array [],
+                                                      "componentStyle": ComponentStyle {
+                                                        "componentId": "load-indicator__Spinner-w46in-3",
+                                                        "isStatic": false,
+                                                        "lastClassName": "c7",
+                                                        "rules": Array [
+                                                          "display:block;width:62px;height:18px;margin:auto;text-align:center;& > *{width:18px;height:18px;background-color:",
+                                                          [Function],
+                                                          ";border-radius:100%;display:inline-block;animation:",
+                                                          Keyframes {
+                                                            "id": "sc-keyframes-dNuRBx",
+                                                            "inject": [Function],
+                                                            "name": "dNuRBx",
+                                                            "rules": Array [
+                                                              "@-webkit-keyframes dNuRBx{0%,80%,100%{-webkit-transform:scale(0.8);-ms-transform:scale(0.8);transform:scale(0.8);}40%{-webkit-transform:scale(1);-ms-transform:scale(1);transform:scale(1);}}",
+                                                              "@keyframes dNuRBx{0%,80%,100%{-webkit-transform:scale(0.8);-ms-transform:scale(0.8);transform:scale(0.8);}40%{-webkit-transform:scale(1);-ms-transform:scale(1);transform:scale(1);}}",
+                                                            ],
+                                                            "toString": [Function],
+                                                          },
+                                                          " 0.8s infinite ease-in-out;animation-fill-mode:both;}&& ",
+                                                          ".c8",
+                                                          "{animation-delay:-0.32s;}&& ",
+                                                          ".c9",
+                                                          "{animation-delay:-0.16s;}",
+                                                        ],
+                                                      },
+                                                      "displayName": "load-indicator__Spinner",
+                                                      "foldedComponentIds": Array [],
+                                                      "render": [Function],
+                                                      "styledComponentId": "load-indicator__Spinner-w46in-3",
+                                                      "target": "span",
+                                                      "toString": [Function],
+                                                      "warnTooManyClasses": [Function],
+                                                      "withComponent": [Function],
+                                                    }
+                                                  }
+                                                  forwardedRef={null}
+                                                >
+                                                  <span
+                                                    className="c7"
+                                                  >
+                                                    <load-indicator__One>
+                                                      <StyledComponent
+                                                        forwardedComponent={
+                                                          Object {
+                                                            "$$typeof": Symbol(react.forward_ref),
+                                                            "attrs": Array [],
+                                                            "componentStyle": ComponentStyle {
+                                                              "componentId": "c8",
+                                                              "isStatic": true,
+                                                              "lastClassName": "exkeuo",
+                                                              "rules": Array [],
+                                                            },
+                                                            "displayName": "load-indicator__One",
+                                                            "foldedComponentIds": Array [],
+                                                            "render": [Function],
+                                                            "styledComponentId": "c8",
+                                                            "target": "span",
+                                                            "toString": [Function],
+                                                            "warnTooManyClasses": [Function],
+                                                            "withComponent": [Function],
+                                                          }
+                                                        }
+                                                        forwardedRef={null}
+                                                      >
+                                                        <span
+                                                          className="c8 "
+                                                        />
+                                                      </StyledComponent>
+                                                    </load-indicator__One>
+                                                    <load-indicator__Two>
+                                                      <StyledComponent
+                                                        forwardedComponent={
+                                                          Object {
+                                                            "$$typeof": Symbol(react.forward_ref),
+                                                            "attrs": Array [],
+                                                            "componentStyle": ComponentStyle {
+                                                              "componentId": "c9",
+                                                              "isStatic": true,
+                                                              "lastClassName": "ljIYEF",
+                                                              "rules": Array [],
+                                                            },
+                                                            "displayName": "load-indicator__Two",
+                                                            "foldedComponentIds": Array [],
+                                                            "render": [Function],
+                                                            "styledComponentId": "c9",
+                                                            "target": "span",
+                                                            "toString": [Function],
+                                                            "warnTooManyClasses": [Function],
+                                                            "withComponent": [Function],
+                                                          }
+                                                        }
+                                                        forwardedRef={null}
+                                                      >
+                                                        <span
+                                                          className="c9 "
+                                                        />
+                                                      </StyledComponent>
+                                                    </load-indicator__Two>
+                                                    <load-indicator__Three>
+                                                      <StyledComponent
+                                                        forwardedComponent={
+                                                          Object {
+                                                            "$$typeof": Symbol(react.forward_ref),
+                                                            "attrs": Array [],
+                                                            "componentStyle": ComponentStyle {
+                                                              "componentId": "load-indicator__Three-w46in-2",
+                                                              "isStatic": true,
+                                                              "lastClassName": "fVScJl",
+                                                              "rules": Array [],
+                                                            },
+                                                            "displayName": "load-indicator__Three",
+                                                            "foldedComponentIds": Array [],
+                                                            "render": [Function],
+                                                            "styledComponentId": "load-indicator__Three-w46in-2",
+                                                            "target": "span",
+                                                            "toString": [Function],
+                                                            "warnTooManyClasses": [Function],
+                                                            "withComponent": [Function],
+                                                          }
+                                                        }
+                                                        forwardedRef={null}
+                                                      >
+                                                        <span
+                                                          className=""
+                                                        />
+                                                      </StyledComponent>
+                                                    </load-indicator__Three>
+                                                  </span>
+                                                </StyledComponent>
+                                              </load-indicator__Spinner>
+                                            </Loading>
+                                          </div>
+                                        </StyledComponent>
+                                      </slide__SlideImageContainer>
+                                    </div>
+                                  </StyledComponent>
+                                </slide__SlideContainer>
+                                <slide__SlideCaption>
+                                  <StyledComponent
+                                    forwardedComponent={
+                                      Object {
+                                        "$$typeof": Symbol(react.forward_ref),
+                                        "attrs": Array [],
+                                        "componentStyle": ComponentStyle {
+                                          "componentId": "slide__SlideCaption-sc-7y2kxp-1",
+                                          "isStatic": false,
+                                          "lastClassName": "c10",
+                                          "rules": Array [
+                                            "padding-top:",
+                                            [Function],
+                                            ";min-height:57px;",
+                                          ],
+                                        },
+                                        "displayName": "slide__SlideCaption",
+                                        "foldedComponentIds": Array [],
+                                        "render": [Function],
+                                        "styledComponentId": "slide__SlideCaption-sc-7y2kxp-1",
+                                        "target": "div",
+                                        "toString": [Function],
+                                        "warnTooManyClasses": [Function],
+                                        "withComponent": [Function],
+                                      }
+                                    }
+                                    forwardedRef={null}
+                                  >
+                                    <div
+                                      className="c10"
+                                    >
+                                      <MaybeCaption />
+                                      <MaybeAttribution />
+                                    </div>
+                                  </StyledComponent>
+                                </slide__SlideCaption>
+                              </div>
+                            </StyledComponent>
+                          </slide__SlideInner>
+                        </div>
+                      </StyledComponent>
+                    </slide__KinjaSlide>
+                  </ThemeProvider>
+                </EnsureDefaultTheme>
+              </Slide>
+            </sortableElement(Slide)>
+          </ul>
+        </StyledComponent>
+      </image-list__EditSlideshowList>
+    </Component>
+  </sortableList>
+</ImageList>
+`;

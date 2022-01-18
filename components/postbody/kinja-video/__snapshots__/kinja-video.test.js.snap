@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<KinjaVideo /> should render a VideoPlayer element 1`] = `
+<kinja-video__KinjaVideoContainer
+  className="js_video-wrapper"
+>
+  <OnScreenHOC
+    aspectRatio="16:9"
+    autoplay={false}
+    controls={true}
+    muted={true}
+    playsInline={true}
+    poster="https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_450,q_80,w_800/1234abcd.jpg"
+    preload="none"
+    sources={
+      Array [
+        Object {
+          "src": "https://testurl.com/playlist.m3u8",
+          "type": "application/x-mpegURL",
+        },
+      ]
+    }
+  />
+</kinja-video__KinjaVideoContainer>
+`;

@@ -1,0 +1,78 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Page layout/Page should render 1`] = `
+@media only screen and (min-width:63.75em) {
+  .c0 {
+    margin: 0 auto;
+    width: 100%;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-flow: row nowrap;
+    -ms-flex-flow: row nowrap;
+    flex-flow: row nowrap;
+    -webkit-box-pack: end;
+    -webkit-justify-content: flex-end;
+    -ms-flex-pack: end;
+    justify-content: flex-end;
+  }
+}
+
+<page__Page>
+  <StyledComponent
+    forwardedComponent={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": Array [],
+        "componentStyle": ComponentStyle {
+          "componentId": "page__Page-sc-157agsr-0",
+          "isStatic": false,
+          "lastClassName": "c0",
+          "rules": Array [
+            "@media only screen and ",
+            "(min-width: 63.75em)",
+            "{",
+            "
+		max-width: ",
+            [Function],
+            ";
+		margin: 0 auto;
+		width: 100%;
+		display: flex;
+		flex-flow: ",
+            [Function],
+            ";
+		justify-content: ",
+            [Function],
+            ";
+
+		",
+            [Function],
+            "
+	",
+            "}",
+            " ",
+            [Function],
+            " ",
+            [Function],
+          ],
+        },
+        "displayName": "page__Page",
+        "foldedComponentIds": Array [],
+        "render": [Function],
+        "styledComponentId": "page__Page-sc-157agsr-0",
+        "target": "div",
+        "toString": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
+    forwardedRef={null}
+  >
+    <div
+      className="c0"
+    />
+  </StyledComponent>
+</page__Page>
+`;

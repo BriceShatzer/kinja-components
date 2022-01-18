@@ -1,0 +1,143 @@
+{
+	"id": 1830299886,
+	"headline": "Identity is a funny thing on the latest <i>Modern Family</i>",
+	"isStarter": true,
+	"isFeatured": false,
+	"isVideo": false,
+	"allowReplies": true,
+	"replyCount": 2,
+	"status": "PUBLISHED",
+	"permalink": "https://tv.avclub.com/identity-is-a-funny-thing-on-the-latest-modern-family-1830299886",
+	"securePermalink": "https://tv.avclub.com/identity-is-a-funny-thing-on-the-latest-modern-family-1830299886",
+	"featuredMedia": null,
+	"first100Characters": "What’s the ideal scenario for a “good” episode of Modern Family in its tenth season? The show is nev",
+	"firstSentence": "What’s the ideal scenario for a “good” episode of Modern Family in its tenth season? ",
+	"facebookImage": {
+	  "src": "https://i.kinja-img.com/gawker-media/image/upload/s--NbG0gVID--/c_fit,fl_progressive,q_80,w_636/wjvvtkavgsqayqovy1ew.jpg",
+	  "id": "wjvvtkavgsqayqovy1ew",
+	  "width": 636,
+	  "height": 424,
+	  "format": "jpg"
+	},
+	"twitterCardType": "summary_large_image",
+	"plaintext": "What’s the ideal scenario for a “good” episode of Modern Family in its tenth season? The show is never going to reach the heights of its strongest seasons, the ones that made it a massive hit during its earliest days, but there’s usually still a few surprises with each new seasom. A few weeks ago the show said goodbye to Didi in an episode that managed to blend comedy and pathos in an effective way. But those kinds of stakes can’t be present in every episode, so what makes a “good” episode of Modern Family in the weeks where it isn’t entertaining ideas of mortality?\n",
+	"author": {
+	  "id": "5876237249237174625",
+	  "screenName": "kylefowle",
+	  "displayName": "Kyle Fowle",
+	  "avatar": {
+		"id": "k5abq3xxeyzaroiqlwhy",
+		"format": "jpg"
+	  }
+	},
+	"authors": [
+	  {
+		"id": "5876237249237174625",
+		"screenName": "kylefowle",
+		"displayName": "Kyle Fowle",
+		"avatar": {
+		  "id": "k5abq3xxeyzaroiqlwhy",
+		  "format": "jpg"
+		}
+	  }
+	],
+	"authorScreenName": "kylefowle",
+	"byline": "",
+	"tags": [
+	  {
+		"canonical": "recap",
+		"urlName": "recap",
+		"displayName": "Recap"
+	  },
+	  {
+		"canonical": "modernfamily",
+		"urlName": "modern-family",
+		"displayName": "Modern Family"
+	  },
+	  {
+		"canonical": "abc",
+		"urlName": "abc",
+		"displayName": "ABC"
+	  }
+	],
+	"publishTimeMillis": 1541685600886,
+	"publishTimeISO": "2018-11-08T14:00:00.886Z",
+	"adZone": "",
+	"adSenseDisabled": false,
+	"sponsored": false,
+	"doNotCrawl": false,
+	"defaultBlogId": "1636140416",
+	"images": [
+	  {
+		"src": "https://i.kinja-img.com/gawker-media/image/upload/s--NbG0gVID--/c_fit,fl_progressive,q_80,w_636/wjvvtkavgsqayqovy1ew.jpg",
+		"id": "wjvvtkavgsqayqovy1ew",
+		"width": 636,
+		"height": 424,
+		"format": "jpg",
+		"$el": {
+		  "0": {
+			"_lazysizesWidth": 800
+		  },
+		  "length": 1,
+		  "prevObject": {
+			"0": {},
+			"context": {},
+			"length": 1
+		  },
+		  "context": {},
+		  "selector": "[data-chomp-id=\"wjvvtkavgsqayqovy1ew\"]"
+		},
+		"type": "image"
+	  }
+	],
+	"videos": [],
+	"mainMedia": {
+	  "id": "wjvvtkavgsqayqovy1ew",
+	  "format": "jpg",
+	  "width": 3000,
+	  "height": 2000,
+	  "alignment": "Bleed",
+	  "caption": [],
+	  "syndicationRights": false,
+	  "attribution": [],
+	  "lightbox": true,
+	  "type": "Image"
+	},
+	"qaParticipants": [],
+	"qaMembers": [],
+	"qaStatus": null,
+	"staffIncluded": false,
+	"hasFeaturedVideo": false,
+	"discussionSettings": {
+	  "postId": 1830299886,
+	  "mode": "Normal",
+	  "status": "Queued",
+	  "staffIncluded": false,
+	  "sort": "asc"
+	},
+	"storyType": {
+	  "id": 169,
+	  "blogId": 1636027099,
+	  "canonical": "tv-review",
+	  "title": "TV Reviews",
+	  "content": "Standard"
+	},
+	"socialHeadline": null,
+	"gaDimensions": {
+	  "wordCount": 838,
+	  "wordCountBucket": "800 - 1000",
+	  "gaVideoIds": ""
+	},
+	"category": {
+	  "id": 1363,
+	  "canonicalName": "modern-family",
+	  "valueDisplay": "Modern Family"
+	},
+	"subcategory": {
+	  "id": 5613,
+	  "canonicalName": "season-10",
+	  "valueDisplay": "Season 10",
+	  "parentId": 1363
+	},
+	"inArticleVideos": null
+  }

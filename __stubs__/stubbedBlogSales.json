@@ -1,0 +1,17 @@
+{
+	"blogId": "8",
+	"amazonInsetsEnabled": true,
+	"amazonAffiliateTag": "gizmodoamzn-20",
+	"adsEnabled": true,
+	"adNetworkId": 4246,
+	"adSiteName": "gm.gizmodo",
+	"tagsExcludedFromPartnerRss": [
+		"externalPost"
+	],
+	"tagsForceSynced": [],
+	"adSlotsDisabled": [],
+	"indexExchangeWebSiteId": "12515575323306",
+	"indexExchangeAmpSiteId": "272207",
+	"updatedAt": 1538498549498,
+	"stored": true
+}

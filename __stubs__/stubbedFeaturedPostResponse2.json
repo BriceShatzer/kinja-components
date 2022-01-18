@@ -1,0 +1,1177 @@
+{
+	"parent": null,
+	"largeOnStream": false,
+	"parentAuthorId": null,
+	"adSettings": null,
+	"videos": [
+		{
+			"id": null,
+			"type": "kinjavideo",
+			"src": "kinjavideo://105077",
+			"embedCode": null,
+			"height": null,
+			"width": null,
+			"thumbnails": [
+				{
+					"id": "awkctvslh28v5wapv4om",
+					"format": "png"
+				}
+			]
+		},
+		{
+			"id": null,
+			"type": "kinjavideo",
+			"src": "kinjavideo://100200",
+			"embedCode": null,
+			"height": null,
+			"width": null,
+			"thumbnails": [
+				{
+					"id": "wy5btisj8dbzwmmo7sdo",
+					"format": "png"
+				}
+			]
+		}
+	],
+	"body": [
+		{
+			"containers": [],
+			"type": "Paragraph",
+			"value": [
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "The "
+				},
+				{
+					"reference": "https://i.kinja-img.com/gawker-media/image/upload/khf2wxeygashwztmlglq.jpg",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [],
+							"type": "Text",
+							"value": "2020 Hyundai Palisade"
+						}
+					]
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": " isn’t the bargain-basement large-medium three-row SUV I was expecting. Well, it "
+				},
+				{
+					"styles": [
+						"Italic"
+					],
+					"type": "Text",
+					"value": "is"
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": " an eight-seat sport utility and it’s definitely not small. But it’s also really nice. The top-spec Limited version, actually, is almost shockingly luxurious. Hyundai is not messing around here."
+				},
+				{
+					"type": "LineBreak"
+				}
+			]
+		},
+		{
+			"slides": [
+				{
+					"lightbox": true,
+					"syndicationRights": false,
+					"format": "jpg",
+					"width": 1800,
+					"attribution": [
+						{
+							"label": "Photo",
+							"credit": [
+								{
+									"styles": [],
+									"type": "Text",
+									"value": "Hyundai"
+								}
+							],
+							"source": []
+						}
+					],
+					"caption": [],
+					"id": "twnfczmimqnutgs3bduc",
+					"alignment": "Bleed",
+					"type": "Image",
+					"height": 1200
+				},
+				{
+					"lightbox": true,
+					"syndicationRights": false,
+					"format": "jpg",
+					"width": 1800,
+					"attribution": [
+						{
+							"label": "Photo",
+							"credit": [
+								{
+									"styles": [],
+									"type": "Text",
+									"value": "Hyundai"
+								}
+							],
+							"source": []
+						}
+					],
+					"caption": [],
+					"id": "lniteaaxj2pazexhah7r",
+					"alignment": "Bleed",
+					"type": "Image",
+					"height": 1200
+				}
+			],
+			"aspectRatio": "Wide",
+			"type": "Slideshow"
+		},
+		{
+			"containers": [],
+			"type": "Paragraph",
+			"value": [
+				{
+					"styles": [
+						"Italic"
+					],
+					"type": "Text",
+					"value": "("
+				},
+				{
+					"styles": [
+						"Italic",
+						"Bold"
+					],
+					"type": "Text",
+					"value": "Full Disclosure"
+				},
+				{
+					"styles": [
+						"Italic"
+					],
+					"type": "Text",
+					"value": ": Hyundai flew me to Spokane, Wash. then drove me to Coeur d’Alene lake in Idaho, which, wow, what a place. It’s like Lake Tahoe but with more fancy coffee shops. I’m pretty sure a couple nights in my hotel room cost more than some of my cars. Food and drinks were also provided. Also, I drove the 2020 Palisade.)"
+				}
+			]
+		},
+		{
+			"level": 3,
+			"containers": [],
+			"alignment": "Left",
+			"type": "Header",
+			"value": [
+				{
+					"styles": [
+						"Bold"
+					],
+					"type": "Text",
+					"value": "What Is It?"
+				}
+			]
+		},
+		{
+			"lightbox": true,
+			"syndicationRights": false,
+			"format": "jpg",
+			"width": 1600,
+			"attribution": [],
+			"caption": [],
+			"id": "mccw8zwowoysorno98q8",
+			"alignment": "Bleed",
+			"type": "Image",
+			"height": 900
+		},
+		{
+			"containers": [],
+			"type": "Paragraph",
+			"value": [
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "We, as in The People, as in the American car-buying public, demand vehicles with lots of seats and cup holders. Also, a healthy suite of driver-assistance tech to make us feel fancy and just enough ground clearance to make us feel tough. It’s why "
+				},
+				{
+					"reference": "https://jalopnik.com/the-dodge-journey-proves-that-old-vehicle-platforms-wor-1833593189",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [],
+							"type": "Text",
+							"value": "people keep buying the Dodge Journey"
+						}
+					]
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "  and why Hyundai has put this thing on sale."
+				},
+				{
+					"type": "LineBreak"
+				}
+			]
+		},
+		{
+			"containers": [],
+			"type": "Paragraph",
+			"value": [
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "The Palisade shares a platform with the Kia Telluride, but representatives from the company (Hyundai) insist the vehicles were independently developed despite sharing some technology. Kia is a subsidiary of Hyundai, but the companies don’t collaborate on product planning according to Hyundai’s people. I suspect the relationship between the two entities is complex, but that might be a blog for another day."
+				}
+			]
+		},
+		{
+			"containers": [],
+			"type": "Paragraph",
+			"value": [
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "That car-buying public I just mentioned won’t care about who’s counting the beans to bring this car to life, and practically speaking, it doesn’t really matter anyway. So the Palisade is a comfortable family hauler designed to rival the Honda Pilot, Toyota Highlander, Ford Explorer, and yes, the Kia Telluride."
+				},
+				{
+					"type": "LineBreak"
+				}
+			]
+		},
+		{
+			"level": 3,
+			"containers": [],
+			"alignment": "Left",
+			"type": "Header",
+			"value": [
+				{
+					"styles": [
+						"Bold"
+					],
+					"type": "Text",
+					"value": "Specs That Matter"
+				}
+			]
+		},
+		{
+			"slides": [
+				{
+					"lightbox": true,
+					"syndicationRights": false,
+					"format": "jpg",
+					"width": 1600,
+					"attribution": [],
+					"caption": [],
+					"id": "qxkjz9hxpvnbx52eugv2",
+					"alignment": "Bleed",
+					"type": "Image",
+					"height": 900
+				},
+				{
+					"lightbox": true,
+					"syndicationRights": false,
+					"format": "jpg",
+					"width": 1600,
+					"attribution": [],
+					"caption": [],
+					"id": "feg2zlwfeviqy7xvmzea",
+					"alignment": "Bleed",
+					"type": "Image",
+					"height": 900
+				}
+			],
+			"aspectRatio": "Wide",
+			"type": "Slideshow"
+		},
+		{
+			"containers": [],
+			"type": "Paragraph",
+			"value": [
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "The Palisade has seven seats and about twice as many cup holders. Or, eight seats if you go for a bench in the second row. And there’s plenty of space for your crap even if there’s an ass on every perch."
+				},
+				{
+					"type": "LineBreak"
+				}
+			]
+		},
+		{
+			"containers": [],
+			"type": "Paragraph",
+			"value": [
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "The basic front-wheel drive Palisade SE books out at $31,550, with a 3.8-liter V6 engine making a claimed 291 horsepower and 262 lb-ft of torque. That’s hooked up to an eight-speed automatic you shift between park, drive, neutral and reverse with buttons on the center console. Once you’re underway, you can snap between gears with paddle shifters on the steering column but, I mean, it’s hard to imagine having a reason to do so."
+				}
+			]
+		},
+		{
+			"slides": [
+				{
+					"lightbox": true,
+					"syndicationRights": false,
+					"format": "jpg",
+					"width": 1800,
+					"attribution": [
+						{
+							"label": "Photo",
+							"credit": [
+								{
+									"styles": [],
+									"type": "Text",
+									"value": "Hyundai"
+								}
+							],
+							"source": []
+						}
+					],
+					"caption": [],
+					"id": "hwwgwoavhv7lsmxl5qwu",
+					"alignment": "Bleed",
+					"type": "Image",
+					"height": 1200
+				},
+				{
+					"lightbox": true,
+					"syndicationRights": false,
+					"format": "jpg",
+					"width": 1800,
+					"attribution": [
+						{
+							"label": "Photo",
+							"credit": [
+								{
+									"styles": [],
+									"type": "Text",
+									"value": "Hyundai"
+								}
+							],
+							"source": []
+						}
+					],
+					"caption": [],
+					"id": "sjvqkrnjcth3xolaujhp",
+					"alignment": "Bleed",
+					"type": "Image",
+					"height": 1200
+				}
+			],
+			"aspectRatio": "Wide",
+			"type": "Slideshow"
+		},
+		{
+			"containers": [],
+			"type": "Paragraph",
+			"value": [
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "Hyundai says that powertrain is tasked with moving 4,127 to 4,387 pounds of Palisade, plus passengers and cargo, depending on how it’s optioned. The whole vehicle’s 196.1 inches nose-to-tail, making it almost exactly the same size as the rivals I just mentioned. You could also say it’s pretty much between a Subaru Outback and a Chevy Tahoe."
+				}
+			]
+		},
+		{
+			"lightbox": true,
+			"syndicationRights": false,
+			"format": "jpg",
+			"width": 1600,
+			"attribution": [],
+			"caption": [],
+			"id": "z9defbqymv52mpyakalh",
+			"alignment": "Bleed",
+			"type": "Image",
+			"height": 900
+		},
+		{
+			"containers": [],
+			"type": "Paragraph",
+			"value": [
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "Inside, the Korea-built Palisade claims 18 cubic feet of cargo space behind the third row, which is actually quite generous. There’s even a cool sub-trunk you can stash smaller items or the cargo cover in if you’re not using it. Put the third row down, and you get almost 46 cubic feet of very usable hauling space. Four substantial rolling suitcases would get swallowed up no problem, with plenty of air above to pile more things on top of them."
+				},
+				{
+					"type": "LineBreak"
+				}
+			]
+		},
+		{
+			"containers": [],
+			"type": "Paragraph",
+			"value": [
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "Fuel economy specs are 19 mpg city, 26 highway, and 22 combined. If you get all-wheel drive, that drops to 24 highway and 21 combined. Speaking of adding options, the $46,400 Palisade Limited AWD is the top of the heap and effectively Hyundai’s new flagship now that Genesis is its own automotive brand."
+				},
+				{
+					"type": "LineBreak"
+				}
+			]
+		},
+		{
+			"containers": [],
+			"type": "Paragraph",
+			"value": [
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "In between is the SEL AWD at $35,200 but that seems like a tough sell. Once you climb under the Limited’s soft suede-looking headliner (in a Hyundai!) and drink in the beautifully high-resolution TFT gauge cluster, it’s going to be pretty easy for a salesperson to seduce you into buying the top model."
+				}
+			]
+		},
+		{
+			"containers": [],
+			"type": "Paragraph",
+			"value": [
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "Working with the all-wheel-drive  powertrain is a pretty impressive multi-mode traction-control system. You can cycle manually between different settings for different road surfaces, or just leave in “auto” and let the car do the work. We watched a Palisade escape from a strip of ultra-slippery rollers as part of a demonstration, and the car seemed to do a pretty good job managing power to maximize traction where there essentially was none."
+				}
+			]
+		},
+		{
+			"level": 3,
+			"containers": [],
+			"alignment": "Left",
+			"type": "Header",
+			"value": [
+				{
+					"styles": [
+						"Bold"
+					],
+					"type": "Text",
+					"value": "What’s Great"
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": " "
+				}
+			]
+		},
+		{
+			"lightbox": true,
+			"syndicationRights": false,
+			"format": "jpg",
+			"width": 1600,
+			"attribution": [],
+			"caption": [],
+			"id": "kkzlj4ka1pqrwdahrf6c",
+			"alignment": "Bleed",
+			"type": "Image",
+			"height": 900
+		},
+		{
+			"containers": [],
+			"type": "Paragraph",
+			"value": [
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "Every version of the Hyundai Palisade benefits from good proportions, well-utilized interior space, comfortable seats and a highly-accessible third row."
+				},
+				{
+					"type": "LineBreak"
+				}
+			]
+		},
+		{
+			"containers": [],
+			"type": "Paragraph",
+			"value": [
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "“The idea was to make the way-back seats easy enough to get in and out of that a kid could do it by themselves,” one of the many Hyundai employees I spoke to told me at the car’s launch party. That seems like a straightforward idea, but Hyundai’s execution is actually pretty slick."
+				}
+			]
+		},
+		{
+			"thumbnail": {
+				"id": "awkctvslh28v5wapv4om",
+				"format": "png"
+			},
+			"isLooping": false,
+			"caption": [],
+			"id": "105077",
+			"alignment": "Bleed",
+			"type": "KinjaVideo"
+		},
+		{
+			"containers": [],
+			"type": "Paragraph",
+			"value": [
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "The second-row seats have big, kid-friendly buttons on the outside shoulder–tap one and the seat swiftly leans and slides forward. I will say it seemed to work a lot better when you could push it with your other hand, so this video is a bit of an undersell, but you get the idea."
+				}
+			]
+		},
+		{
+			"containers": [],
+			"type": "Paragraph",
+			"value": [
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "Plus, there are grab handles integrated into the interior plastics to give third-row exits some semblance of grace. But my favorite tiny feature is the seat belt holster. Both sides of the car have a little tab to accept the second row seat belt, so you can tuck it out of the way before you climb in or out of the Palisade’s third row."
+				},
+				{
+					"type": "LineBreak"
+				}
+			]
+		},
+		{
+			"slides": [
+				{
+					"lightbox": true,
+					"syndicationRights": false,
+					"format": "jpg",
+					"width": 1600,
+					"attribution": [],
+					"caption": [],
+					"id": "bcvkuuixeirmuwbdrsjm",
+					"alignment": "Bleed",
+					"type": "Image",
+					"height": 900
+				},
+				{
+					"lightbox": true,
+					"syndicationRights": false,
+					"format": "jpg",
+					"width": 1600,
+					"attribution": [],
+					"caption": [],
+					"id": "fniydrueac5dhb36myf8",
+					"alignment": "Bleed",
+					"type": "Image",
+					"height": 900
+				},
+				{
+					"lightbox": true,
+					"syndicationRights": false,
+					"format": "jpg",
+					"width": 1600,
+					"attribution": [],
+					"caption": [],
+					"id": "nnq3oxqfkkdfartj5u75",
+					"alignment": "Bleed",
+					"type": "Image",
+					"height": 900
+				}
+			],
+			"aspectRatio": "Wide",
+			"type": "Slideshow"
+		},
+		{
+			"containers": [],
+			"type": "Paragraph",
+			"value": [
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "As for actually occupying the way-back seat, it’s not terrible for a six-foot person like myself as long as you can stretch your legs up through the center aisle. But with a full car, it’s not  set up to handle much more than kids stuck back there."
+				},
+				{
+					"type": "LineBreak"
+				}
+			]
+		},
+		{
+			"containers": [],
+			"type": "Paragraph",
+			"value": [
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "I already mentioned how sweet the soft headliner in the Limited is, but more people will probably be impressed by the top trim’s digital dashboard, which is extremely smooth and crisp."
+				},
+				{
+					"type": "LineBreak"
+				}
+			]
+		},
+		{
+			"containers": [],
+			"type": "Paragraph",
+			"value": [
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "On the road, the Palisade’s “Lane Follow” is like Lane Keeping (which you can also have) in that it helps the car treat a lane of highway like a train track, but it makes the assisted driving experience much smoother. Instead of just ping-pong in you off the edges of the lanes, Lane Follow is actually predictive and very actively locks the car in line."
+				},
+				{
+					"type": "LineBreak"
+				}
+			]
+		},
+		{
+			"containers": [],
+			"type": "Paragraph",
+			"value": [
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "Speaking of semi-autonomous functionality, if you ask it to, the Palisade will synchronize its cruise control speed with the speed limit, even as it changes, based on map data. Don’t worry, you can override it, but the car’s driving experience is so placidly banal no matter how fast you’re going that, honestly, you might as well just fly under the cops’ radar."
+				}
+			]
+		},
+		{
+			"containers": [],
+			"type": "Paragraph",
+			"value": [
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "Also, get a load of these spring-loaded cupholders in the center console!"
+				}
+			]
+		},
+		{
+			"thumbnail": {
+				"id": "wy5btisj8dbzwmmo7sdo",
+				"format": "png"
+			},
+			"isLooping": false,
+			"caption": [],
+			"id": "100200",
+			"alignment": "Bleed",
+			"type": "KinjaVideo"
+		},
+		{
+			"level": 3,
+			"containers": [],
+			"alignment": "Left",
+			"type": "Header",
+			"value": [
+				{
+					"styles": [
+						"Bold"
+					],
+					"type": "Text",
+					"value": "What’s Weak"
+				}
+			]
+		},
+		{
+			"containers": [],
+			"type": "Paragraph",
+			"value": [
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "Nobody asked the Hyundai Palisade to be a driving enthusiast’s car, but in the off chance you are wondering, the Hyundai Palisade is not a driving enthusiast’s car."
+				},
+				{
+					"type": "LineBreak"
+				}
+			]
+		},
+		{
+			"lightbox": true,
+			"syndicationRights": false,
+			"format": "jpg",
+			"width": 800,
+			"attribution": [],
+			"caption": [],
+			"id": "yvjy36qs2fblehdwrhh1",
+			"alignment": "Bleed",
+			"type": "Image",
+			"height": 450
+		},
+		{
+			"containers": [],
+			"type": "Paragraph",
+			"value": [
+				{
+					"styles": [],
+					"type": "Text",
+					"value": " Whatever though, I wouldn’t consider that a glaring weakness when it comes to family hauling. The numbness between the road and the steering wheel isn’t egregiously disconcerting. It doesn’t feel unstable, or too-tall. And the vehicle never felt out-of-control despite the fact that there’s not really much sensation of feedback from the road."
+				}
+			]
+		},
+		{
+			"containers": [],
+			"type": "Paragraph",
+			"value": [
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "What does put a dent in the Palisade’s aura of opulence is pretty apparent road noise, especially in the trims below the top Limited. At highway cruising speed, the wind is kind of oddly loud in the cabin."
+				}
+			]
+		},
+		{
+			"containers": [],
+			"type": "Paragraph",
+			"value": [
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "I also would’ve liked to have seen a slightly higher fuel economy rating; the Palisade’s rivals have a bit of an edge there."
+				},
+				{
+					"type": "LineBreak"
+				}
+			]
+		},
+		{
+			"containers": [],
+			"type": "Paragraph",
+			"value": [
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "Otherwise, on a sunny afternoon drive over roads so smooth they could have made my ’75 Scout seems supple, there wasn’t a lot to dislike about this comfortable people-mover."
+				}
+			]
+		},
+		{
+			"level": 3,
+			"containers": [],
+			"alignment": "Left",
+			"type": "Header",
+			"value": [
+				{
+					"styles": [
+						"Bold"
+					],
+					"type": "Text",
+					"value": "Early Verdict"
+				}
+			]
+		},
+		{
+			"lightbox": true,
+			"syndicationRights": false,
+			"format": "jpg",
+			"width": 1600,
+			"attribution": [],
+			"caption": [],
+			"id": "ow86ookizr3lvfi8krdn",
+			"alignment": "Bleed",
+			"type": "Image",
+			"height": 900
+		},
+		{
+			"containers": [],
+			"type": "Paragraph",
+			"value": [
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "The auto industry has been talking about the rise of quality Korean cars for years now, but even I was surprised here. Hyundai didn’t "
+				},
+				{
+					"styles": [
+						"Italic"
+					],
+					"type": "Text",
+					"value": "have"
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": " to make this anything more than a big box with three rows. Again, Dodge is still selling the Journey just fine."
+				}
+			]
+		},
+		{
+			"containers": [],
+			"type": "Paragraph",
+			"value": [
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "What got me was that among the already rising tide of Korean car quality, the Palisade actually does feel like another leveling-up of refinement and luxury. I seriously can’t get over how high-class the soft headliner is in the Palisade Limited, and the interior design in general really does have a distinctly lux-leaning ambiance that sets it apart from other popular vehicles in the segment."
+				},
+				{
+					"type": "LineBreak"
+				}
+			]
+		},
+		{
+			"containers": [],
+			"type": "Paragraph",
+			"value": [
+				{
+					"styles": [],
+					"type": "Text",
+					"value": " In other words, the Palisade is a super comfortable family car with more room than most people probably need. So, it’s good. As long as your kids aren’t too scared of seeing the Predator pull up when it’s time to get them from school."
+				},
+				{
+					"type": "LineBreak"
+				}
+			]
+		},
+		{
+			"image": {
+				"id": "khf2wxeygashwztmlglq",
+				"format": "jpg"
+			},
+			"hide": false,
+			"text": [
+				{
+					"label": "+",
+					"value": "Lovely to ride in"
+				},
+				{
+					"label": "-",
+					"value": "A little intense to look at, and a bit thirsty"
+				},
+				{
+					"label": "TL;DR",
+					"value": "A worthy flagship; a great mix of nice materials and convenient features"
+				},
+				{
+					"label": "Power",
+					"value": "291 HP • 262 LB-FT"
+				},
+				{
+					"label": "Weight",
+					"value": "4,387 LBS"
+				},
+				{
+					"label": "Price",
+					"value": "$46,400 List"
+				}
+			],
+			"alignment": "Fullbleed",
+			"title": "2020 Palisade Limited",
+			"type": "ReviewBox"
+		},
+		{
+			"lightbox": true,
+			"syndicationRights": false,
+			"format": "jpg",
+			"width": 1800,
+			"attribution": [
+				{
+					"label": "Photo",
+					"credit": [
+						{
+							"styles": [],
+							"type": "Text",
+							"value": "Hyundai"
+						}
+					],
+					"source": []
+				}
+			],
+			"caption": [],
+			"id": "fux3u1brghoog7stkjhw",
+			"alignment": "Bleed",
+			"type": "Image",
+			"height": 1200
+		},
+		{
+			"lightbox": true,
+			"syndicationRights": false,
+			"format": "jpg",
+			"width": 1800,
+			"attribution": [
+				{
+					"label": "Photo",
+					"credit": [
+						{
+							"styles": [],
+							"type": "Text",
+							"value": "Hyundai"
+						}
+					],
+					"source": []
+				}
+			],
+			"caption": [],
+			"id": "o7tlum9kn0meeopbc78d",
+			"alignment": "Bleed",
+			"type": "Image",
+			"height": 1200
+		},
+		{
+			"lightbox": true,
+			"syndicationRights": false,
+			"format": "jpg",
+			"width": 1800,
+			"attribution": [
+				{
+					"label": "Photo",
+					"credit": [
+						{
+							"styles": [],
+							"type": "Text",
+							"value": "Hyundai"
+						}
+					],
+					"source": []
+				}
+			],
+			"caption": [],
+			"id": "xmjs3g2tg21a43mk0m8d",
+			"alignment": "Bleed",
+			"type": "Image",
+			"height": 914
+		}
+	],
+	"approved": true,
+	"starterId": 1835709763,
+	"isRoundup": false,
+	"isBlip": false,
+	"id": 1835709763,
+	"isFeatured": true,
+	"aboveHeadline": {
+		"src": "UNUSED",
+		"isAnimated": false,
+		"id": "khf2wxeygashwztmlglq",
+		"width": 1600,
+		"height": 900,
+		"format": "jpg",
+		"frozenFormat": "jpg"
+	},
+	"images": [
+		{
+			"id": "mccw8zwowoysorno98q8",
+			"width": 1600,
+			"height": 900,
+			"format": "jpg"
+		},
+		{
+			"id": "z9defbqymv52mpyakalh",
+			"width": 1600,
+			"height": 900,
+			"format": "jpg"
+		},
+		{
+			"id": "kkzlj4ka1pqrwdahrf6c",
+			"width": 1600,
+			"height": 900,
+			"format": "jpg"
+		},
+		{
+			"id": "yvjy36qs2fblehdwrhh1",
+			"width": 800,
+			"height": 450,
+			"format": "jpg"
+		},
+		{
+			"id": "ow86ookizr3lvfi8krdn",
+			"width": 1600,
+			"height": 900,
+			"format": "jpg"
+		},
+		{
+			"id": "fux3u1brghoog7stkjhw",
+			"width": 1800,
+			"height": 1200,
+			"format": "jpg"
+		},
+		{
+			"id": "o7tlum9kn0meeopbc78d",
+			"width": 1800,
+			"height": 1200,
+			"format": "jpg"
+		},
+		{
+			"id": "xmjs3g2tg21a43mk0m8d",
+			"width": 1800,
+			"height": 914,
+			"format": "jpg"
+		}
+	],
+	"author": null,
+	"postId": 1835709763,
+	"mainMedia": null,
+	"tags": [
+		{
+			"canonical": "jalopnikreviews",
+			"urlName": "jalopnik-reviews",
+			"displayName": "Jalopnik Reviews"
+		},
+		{
+			"canonical": "firstdrive",
+			"urlName": "first-drive",
+			"displayName": "FIRST DRIVE"
+		},
+		{
+			"canonical": "hyundai",
+			"urlName": "hyundai",
+			"displayName": "hyundai"
+		},
+		{
+			"canonical": "2020hyundaipalisade",
+			"urlName": "2020-hyundai-palisade",
+			"displayName": "2020 hyundai palisade"
+		}
+	],
+	"permalinkHost": "https://jalopnik.com",
+	"permalinkPath": "/the-2020-hyundai-palisade-is-kind-of-astoundingly-luxur-1835709763",
+	"firstSentence": "The 2020 Hyundai Palisade isn’t the bargain-basement large-medium three-row SUV I was expecting. ",
+	"relatedPosts": [
+		{
+			"id": 1835443963,
+			"headline": "The Humongous Hyundai Palisade Starts at $31,550",
+			"sharingMainImage": {
+				"src": "UNUSED",
+				"isAnimated": false,
+				"id": "ft86qk22qra14mhdz77h",
+				"width": 800,
+				"height": 450,
+				"format": "jpg",
+				"frozenFormat": "jpg",
+				"type": "image"
+			},
+			"permalink": "https://jalopnik.com/the-humongous-hyundai-palisade-starts-at-31-550-1835443963",
+			"defaultBlogId": 12
+		},
+		{
+			"id": 1830727630,
+			"headline": "The 2020 Hyundai Palisade Is The Hugest Hyundai Ever<em></em>",
+			"sharingMainImage": {
+				"src": "UNUSED",
+				"isAnimated": false,
+				"id": "xmozuxbz0vwesmclfgjm",
+				"width": 800,
+				"height": 449,
+				"format": "jpg",
+				"frozenFormat": "jpg"
+			},
+			"permalink": "https://jalopnik.com/the-2020-hyundai-palisade-is-the-hugest-hyundai-ever-1830727630",
+			"defaultBlogId": 12
+		},
+		{
+			"id": 1830693181,
+			"headline": "Get In Boys, We&#39;re Going K-Popping",
+			"sharingMainImage": {
+				"src": "UNUSED",
+				"isAnimated": false,
+				"id": "rwqmheb987l54wgjz4dy",
+				"width": 800,
+				"height": 449,
+				"format": "jpg",
+				"frozenFormat": "jpg",
+				"type": "image"
+			},
+			"permalink": "https://jalopnik.com/get-in-boys-were-going-k-popping-1830693181",
+			"defaultBlogId": 12
+		}
+	],
+	"storyTypeId": 265,
+	"showAuthorBio": true,
+	"storyType": {
+		"id": 265,
+		"blogId": 12,
+		"canonical": "jalopnik-reviews",
+		"title": "Jalopnik Reviews",
+		"content": "Standard",
+		"description": "Shakedown rides and road tests from Jalopnik's staff and friends.",
+		"boilerplate": "All of our test drives in one convenient place.",
+		"createdAt": "2017-08-02T16:21:00.533-04:00[America/New_York]"
+	},
+	"permalink": "https://jalopnik.com/the-2020-hyundai-palisade-is-kind-of-astoundingly-luxur-1835709763",
+	"status": "PUBLISHED",
+	"authors": [],
+	"relatedModule": {
+		"headline": "More in hyundai palisade",
+		"posts": [
+			{
+				"id": 1835443963
+			},
+			{
+				"id": 1830727630
+			},
+			{
+				"id": 1830693181
+			}
+		],
+		"storyTypes": [],
+		"tags": [
+			"hyundaipalisade"
+		]
+	},
+	"permalinkRedirect": null,
+	"timezone": "America/New_York",
+	"showByline": true,
+	"parentAuthorIds": [],
+	"salesAvatar": null,
+	"leftOfHeadline": {
+		"src": "UNUSED",
+		"isAnimated": false,
+		"id": "mccw8zwowoysorno98q8",
+		"width": 320,
+		"height": 180,
+		"format": "jpg",
+		"frozenFormat": "jpg",
+		"type": "image"
+	},
+	"lastUpdateTimeMillis": 1563222087869,
+	"sharingMainImage": {
+		"src": "UNUSED",
+		"isAnimated": false,
+		"id": "khf2wxeygashwztmlglq",
+		"width": 1600,
+		"height": 900,
+		"format": "jpg",
+		"frozenFormat": "jpg"
+	},
+	"publishTimeMillis": 1563209520763,
+	"byline": "",
+	"headline": "The 2020 Hyundai Palisade Is Kind of Astoundingly Luxurious",
+	"authorIds": [
+		"1109565396"
+	],
+	"starter": null,
+	"defaultBlogId": 12,
+	"length": 8307,
+	"isVideo": false,
+	"sponsored": false,
+	"plaintext": "The 2020 Hyundai Palisade isn’t the bargain-basement large-medium three-row SUV I was expecting. Well, it is an eight-seat sport utility and it’s definitely not small. But it’s also really nice. The top-spec Limited version, actually, is almost shockingly luxurious. Hyundai is not messing around here.",
+	"allowReplies": true,
+	"authorId": "1109565396",
+	"parentId": null,
+	"sharedUrl": null,
+	"featuredMedia": {
+		"syndicationRights": false,
+		"format": "jpg",
+		"width": 1600,
+		"attribution": [
+			{
+				"label": "Photo",
+				"credit": [
+					{
+						"styles": [],
+						"type": "Text",
+						"value": "Andrew P Collins"
+					}
+				],
+				"source": []
+			}
+		],
+		"caption": [
+			{
+				"styles": [],
+				"type": "Text",
+				"value": "Photos by the author, except where noted"
+			}
+		],
+		"id": "khf2wxeygashwztmlglq",
+		"alignment": "Bleed",
+		"type": "Image",
+		"height": 900
+	},
+	"category": {
+		"id": 323,
+		"storyTypeId": 265,
+		"canonicalName": "crossoverssuvs",
+		"displayName": "Crossovers/SUVs"
+	},
+	"properties": "{\"sharingMainImageSetInDistTools\":true,\"hideFromRss\":false,\"dropCapEnabled\":false,\"autoRepostDisabled\":false,\"impactHeader\":{\"titleAlignment\":\"BottomLeft\",\"overlay\":\"Black\"},\"featuredHeaderLayout\":\"Magazine\"}"
+}

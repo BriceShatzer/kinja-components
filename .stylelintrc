@@ -1,0 +1,28 @@
+{
+  "processors": ["stylelint-processor-styled-components"],
+  "extends": [
+    "stylelint-config-standard",
+    "stylelint-config-styled-components"
+  ],
+  "syntax": "scss",
+  "rules": {
+  	"block-no-empty": null,
+  	"comment-empty-line-before": null,
+  	"declaration-block-semicolon-newline-after": null,
+		"declaration-colon-newline-after": null,
+  	"declaration-empty-line-before": null,
+  	"indentation": "tab",
+  	"no-descending-specificity": null,
+  	"no-duplicate-selectors": null,
+  	"property-no-vendor-prefix": null,
+  	"rule-empty-line-before": null,
+  	"selector-descendant-combinator-no-non-space": null,
+  	"selector-type-case": null,
+  	"selector-type-no-unknown": null,
+  	"value-list-max-empty-lines": null,
+  	"value-no-vendor-prefix": null
+	},
+	"ignoreFiles": [
+		"components/carousel/carousel-style.js"
+	]
+}

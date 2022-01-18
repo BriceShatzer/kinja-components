@@ -1,0 +1,168 @@
+{
+  "id": 1822977960,
+  "headline": "From the garden of culinary delights: Candy, cider, and a sneaky dessert",
+  "isStarter": true,
+  "isFeatured": false,
+  "isVideo": false,
+  "allowReplies": true,
+  "replyCount": 2,
+  "status": "PUBLISHED",
+  "permalink": "https://www.avclub.com/from-the-garden-of-culinary-delights-candy-cider-and-1822977960",
+  "securePermalink": "https://www.avclub.com/from-the-garden-of-culinary-delights-candy-cider-and-1822977960",
+  "featuredMedia": null,
+  "first100Characters": "Three staffers, three unabashed recommendations.",
+  "firstSentence": "Three staffers, three unabashed recommendations.",
+  "facebookImage": {
+    "src": "https://i.kinja-img.com/gawker-media/image/upload/s--4hUVDq0C--/c_fit,fl_progressive,q_80,w_636/axcasxoipjqgs7s2xog1.jpg",
+    "id": "axcasxoipjqgs7s2xog1",
+    "width": 636,
+    "height": 357,
+    "format": "jpg"
+  },
+  "twitterCardType": "summary_large_image",
+  "plaintext": "Three staffers, three unabashed recommendations.",
+  "author": {
+    "id": "5876237249237148574",
+    "screenName": "ladamczyk",
+    "displayName": "Laura Adamczyk",
+    "avatar": {
+      "id": "otfjmlt44b0eftwcbbcb",
+      "format": "jpg"
+    }
+  },
+  "authors": [
+    {
+      "id": "5876237249237148574",
+      "screenName": "ladamczyk",
+      "displayName": "Laura Adamczyk",
+      "avatar": {
+        "id": "otfjmlt44b0eftwcbbcb",
+        "format": "jpg"
+      }
+    },
+    {
+      "id": "5876237249237148570",
+      "screenName": "danettechavez",
+      "displayName": "Danette Chavez",
+      "avatar": {
+        "id": "q6o2wazc8hxqddte7u2u",
+        "format": "jpg"
+      }
+    },
+    {
+      "id": "5876237249237148584",
+      "screenName": "penzeymoog",
+      "displayName": "Caitlin PenzeyMoog",
+      "avatar": {
+        "id": "qsi3wfbwhocrnzrxdz7c",
+        "format": "jpg"
+      }
+    }
+  ],
+  "authorScreenName": "ladamczyk",
+  "byline": "",
+  "tags": [
+    {
+      "canonical": "staffpicks",
+      "urlName": "staff-picks",
+      "displayName": "Staff Picks"
+    },
+    {
+      "canonical": "ginger",
+      "urlName": "ginger",
+      "displayName": "Ginger"
+    },
+    {
+      "canonical": "rhinegeist",
+      "urlName": "rhinegeist",
+      "displayName": "Rhinegeist"
+    }
+  ],
+  "publishTimeMillis": 1518894000960,
+  "publishTimeISO": "2018-02-17T19:00:00.960Z",
+  "adZone": "",
+  "adSenseDisabled": false,
+  "sponsored": false,
+  "doNotCrawl": false,
+  "defaultBlogId": "1636027099",
+  "images": [
+    {
+      "src": "https://i.kinja-img.com/gawker-media/image/upload/s--4hUVDq0C--/c_fit,fl_progressive,q_80,w_636/axcasxoipjqgs7s2xog1.jpg",
+      "id": "axcasxoipjqgs7s2xog1",
+      "width": 636,
+      "height": 357,
+      "format": "jpg",
+      "$el": {
+        "0": {
+          "_lazysizesWidth": 800
+        },
+        "length": 1,
+        "prevObject": {
+          "0": {},
+          "context": {},
+          "length": 1
+        },
+        "context": {},
+        "selector": "[data-chomp-id=\"axcasxoipjqgs7s2xog1\"]"
+      },
+      "type": "image"
+    },
+    {
+      "src": "https://i.kinja-img.com/gawker-media/image/upload/s--bTYqjUOR--/c_fill,fl_progressive,g_north,h_77,q_80,w_137/bvkbznq0vajled6zvduv.jpg",
+      "id": "bvkbznq0vajled6zvduv",
+      "width": 137,
+      "height": 77,
+      "format": "jpg",
+      "$el": {
+        "0": {},
+        "length": 1,
+        "prevObject": {
+          "0": {},
+          "context": {},
+          "length": 1
+        },
+        "context": {},
+        "selector": "[data-chomp-id=\"bvkbznq0vajled6zvduv\"]"
+      },
+      "type": "image"
+    }
+  ],
+  "videos": [],
+  "mainMedia": {
+    "id": "axcasxoipjqgs7s2xog1",
+    "format": "jpg",
+    "width": 4798,
+    "height": 2699,
+    "alignment": "Bleed",
+    "caption": [
+      {
+        "styles": [],
+        "value": "Photo: Chaloner Woods/Getty Images",
+        "type": "Text"
+      }
+    ],
+    "syndicationRights": false,
+    "attribution": [],
+    "lightbox": true,
+    "type": "Image"
+  },
+  "qaParticipants": [],
+  "qaMembers": [],
+  "qaStatus": null,
+  "staffIncluded": false,
+  "hasFeaturedVideo": false,
+  "discussionSettings": null,
+  "storyType": {
+    "id": 239,
+    "blogId": 1636027099,
+    "canonical": "recommends",
+    "title": "Recommends",
+    "content": "Standard"
+  },
+  "socialHeadline": "From the garden of culinary delights: Candy, cider, and a sneaky dessert",
+  "gaDimensions": {
+    "wordCount": 629,
+    "wordCountBucket": "600 - 800",
+    "gaVideoIds": ""
+  }
+}

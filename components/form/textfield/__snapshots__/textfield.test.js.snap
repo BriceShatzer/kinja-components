@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Textfield /> should be disabled 1`] = `
+<Field
+  error=""
+  label="Test"
+>
+  <textfield__Input
+    disabled={true}
+    name="test"
+    onChange={[Function]}
+    type="text"
+  />
+</Field>
+`;
+
+exports[`<Textfield /> should render correctly 1`] = `
+<Field
+  error=""
+  label="Test"
+>
+  <textfield__Input
+    disabled={false}
+    name="test"
+    onChange={[Function]}
+    type="text"
+  />
+</Field>
+`;

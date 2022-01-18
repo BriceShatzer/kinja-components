@@ -1,0 +1,622 @@
+{
+	"parent": null,
+	"largeOnStream": false,
+	"parentAuthorId": null,
+	"adSettings": null,
+	"videos": [],
+	"body": [
+		{
+			"containers": [],
+			"type": "Paragraph",
+			"value": [
+				{
+					"styles": [
+						"Italic"
+					],
+					"type": "Text",
+					"value": "Star Wars: Galaxy’s Edge"
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": " is "
+				},
+				{
+					"reference": "https://io9.gizmodo.com/star-wars-galaxys-edge-is-here-the-good-the-bad-and-1835129231?_ga=2.63909419.50400545.1559575882-1597414124.1522872342",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [],
+							"type": "Text",
+							"value": "full of "
+						},
+						{
+							"styles": [
+								"Italic"
+							],
+							"type": "Text",
+							"value": "Star Wars"
+						},
+						{
+							"styles": [],
+							"type": "Text",
+							"value": " mysteries"
+						}
+					]
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": ","
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": " and one of the biggest is sitting on a stage for everyone to see. It’s the First Order’s TIE Echelon, a "
+				},
+				{
+					"reference": "https://io9.gizmodo.com/star-wars-galaxys-edge-the-77-most-fascinating-things-1832883014?_ga=2.63909419.50400545.1559575882-1597414124.1522872342",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [],
+							"type": "Text",
+							"value": "brand new "
+						},
+						{
+							"styles": [
+								"Italic"
+							],
+							"type": "Text",
+							"value": "Star Wars "
+						},
+						{
+							"styles": [],
+							"type": "Text",
+							"value": "ship"
+						}
+					]
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": " making its debut at the theme park. And that’s where I had a few minutes to talk to Brent Nikolin, a principal project manager for Walt Disney Imagineering, about the park—u"
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "n"
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "der the watchful eye of some First Order Stormtroopers, of course."
+				},
+				{
+					"type": "LineBreak"
+				}
+			]
+		},
+		{
+			"containers": [],
+			"type": "Paragraph",
+			"value": [
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "Nikolin and I spoke about what it was like for him to work on "
+				},
+				{
+					"styles": [
+						"Italic"
+					],
+					"type": "Text",
+					"value": "Galaxy’s Edge"
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": ", the park’s Easter e"
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "ggs, and "
+				},
+				{
+					"reference": "https://io9.gizmodo.com/heres-how-youll-be-told-to-move-along-at-star-wars-gal-1834650272?_ga=2.223864991.50400545.1559575882-1597414124.1522872342",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [],
+							"type": "Text",
+							"value": "his number one tip"
+						}
+					]
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": " for fans who attend. However, when I tried to ask about something a little too secret, well, watch the video above to see what happened."
+				}
+			]
+		},
+		{
+			"containers": [],
+			"type": "Paragraph",
+			"value": [
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "Though the Stormtroopers “didn’t want us to talk about it” (in what you might have already guessed was a pre-arranged joke I came up with because the producers told me the Stormtroopers would do what I wanted and Nikolin told me he couldn’t say anything about that question anyway), "
+				},
+				{
+					"styles": [
+						"Italic"
+					],
+					"type": "Text",
+					"value": "Galaxy’s Edge"
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": " is a park that was designed to be adaptable. What that means specifically is also one of those big "
+				},
+				{
+					"styles": [
+						"Italic"
+					],
+					"type": "Text",
+					"value": "Star Wars"
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": " mysteries. However, a hint may be that the park’s one current ride, "
+				},
+				{
+					"styles": [
+						"Italic"
+					],
+					"type": "Text",
+					"value": "Millennium Falcon: Smugglers Run"
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": ", "
+				},
+				{
+					"reference": "https://io9.gizmodo.com/disneys-millennium-falcon-ride-will-take-you-on-differe-1835125036?_ga=2.224272927.50400545.1559575882-1597414124.1522872342",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [],
+							"type": "Text",
+							"value": "can be completely changed"
+						}
+					]
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": ". It’s a park somehow built to last through not just this"
+				},
+				{
+					"styles": [
+						"Italic"
+					],
+					"type": "Text",
+					"value": " Star Wars "
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "trilogy, but more to come."
+				}
+			]
+		},
+		{
+			"containers": [],
+			"type": "Paragraph",
+			"value": [
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "Nikolin also wouldn’t tell us anything specific about this intriguing statue of a Jedi Priestess, which we snapped a shot of outside Dok-Ondar’s Den of Antiquities. Any guesses as to her backstory?"
+				}
+			]
+		},
+		{
+			"lightbox": true,
+			"syndicationRights": false,
+			"format": "jpg",
+			"width": 3024,
+			"attribution": [
+				{
+					"label": "Photo",
+					"credit": [
+						{
+							"styles": [],
+							"type": "Text",
+							"value": "Germain Lussier"
+						}
+					],
+					"source": [
+						{
+							"styles": [],
+							"type": "Text",
+							"value": "io9"
+						}
+					]
+				}
+			],
+			"caption": [
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "An unnamed Jedi Priestess."
+				}
+			],
+			"id": "hotblgadw2pfeggz0efb",
+			"alignment": "Bleed",
+			"type": "Image",
+			"height": 4032
+		},
+		{
+			"containers": [],
+			"type": "Paragraph",
+			"value": [
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "Mysteries like that, both obvious and not so obvious, are all over "
+				},
+				{
+					"styles": [
+						"Italic"
+					],
+					"type": "Text",
+					"value": "Galaxy’s Edge"
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": ". It’s now open at Disneyland in Anaheim, CA, though "
+				},
+				{
+					"reference": "https://io9.gizmodo.com/all-of-disneylands-star-wars-galaxys-edge-reservations-1834483722",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [],
+							"type": "Text",
+							"value": "if you don’t have a reservation"
+						}
+					]
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": ", you can’t go until June 24. It opens August 29 at Hollywood Studios at Walt Disney World in Orlando, Florida.  Admission is included with the price of a theme park ticket, which currently fluctuates between $104-$149 for a one-day pass, depending on what date you go."
+				}
+			]
+		},
+		{
+			"style": "Line",
+			"containers": [],
+			"type": "HorizontalRule"
+		},
+		{
+			"containers": [],
+			"type": "Paragraph",
+			"value": [
+				{
+					"styles": [
+						"Italic"
+					],
+					"type": "Text",
+					"value": "For more, make sure you’re following us on our new Instagram @"
+				},
+				{
+					"reference": "https://www.instagram.com/io9dotcom/",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Italic"
+							],
+							"type": "Text",
+							"value": "io9dotcom"
+						}
+					],
+					"target": "_blank"
+				},
+				{
+					"styles": [
+						"Italic"
+					],
+					"type": "Text",
+					"value": "."
+				}
+			]
+		}
+	],
+	"approved": true,
+	"starterId": 1835238447,
+	"isRoundup": false,
+	"isBlip": false,
+	"id": 1835238447,
+	"isFeatured": false,
+	"aboveHeadline": {
+		"src": "UNUSED",
+		"isAnimated": false,
+		"id": "qa/3691511",
+		"width": 800,
+		"height": 450,
+		"format": "jpg",
+		"frozenFormat": "jpg"
+	},
+	"images": [
+		{
+			"id": "hotblgadw2pfeggz0efb",
+			"width": 3024,
+			"height": 4032,
+			"format": "jpg"
+		}
+	],
+	"author": null,
+	"postId": 1835238447,
+	"mainMedia": null,
+	"tags": [
+		{
+			"canonical": "interview",
+			"urlName": "interview",
+			"displayName": "Interview"
+		},
+		{
+			"canonical": "starwarsgalaxysedge",
+			"urlName": "star-wars-galaxys-edge",
+			"displayName": "Star Wars Galaxy’s Edge"
+		},
+		{
+			"canonical": "disneyland",
+			"urlName": "disneyland",
+			"displayName": "Disneyland"
+		},
+		{
+			"canonical": "themeparks",
+			"urlName": "theme-parks",
+			"displayName": "theme parks"
+		},
+		{
+			"canonical": "firstorder",
+			"urlName": "first-order",
+			"displayName": "First Order"
+		},
+		{
+			"canonical": "lucasfilm",
+			"urlName": "lucasfilm",
+			"displayName": "Lucasfilm"
+		},
+		{
+			"canonical": "disney",
+			"urlName": "disney",
+			"displayName": "Disney"
+		},
+		{
+			"canonical": "video",
+			"urlName": "video",
+			"displayName": "video"
+		}
+	],
+	"permalinkHost": "https://io9.gizmodo.com",
+	"permalinkPath": "/the-first-order-watched-over-our-interview-in-star-wars-1835238447",
+	"deprecatedFullPlainText": "Star Wars: Galaxy’s Edge is full of Star Wars mysteries, and one of the biggest is sitting on a stage for everyone to see. It’s the First Order’s TIE Echelon, a brand new Star Wars ship making its debut at the theme park. And that’s where I had a few minutes to talk to Brent Nikolin, a principal project manager for Walt Disney Imagineering, about the park—under the watchful eye of some First Order Stormtroopers, of course. Nikolin and I spoke about what it was like for him to work on Galaxy’s Edge, the park’s Easter eggs, and his number one tip for fans who attend. However, when I tried to ask about something a little too secret, well, watch the video above to see what happened. Though the Stormtroopers “didn’t want us to talk about it” (in what you might have already guessed was a pre-arranged joke I came up with because the producers told me the Stormtroopers would do what I wanted and Nikolin told me he couldn’t say anything about that question anyway), Galaxy’s Edge is a park that was designed to be adaptable. What that means specifically is also one of those big Star Wars mysteries. However, a hint may be that the park’s one current ride, Millennium Falcon: Smugglers Run, can be completely changed. It’s a park somehow built to last through not just this Star Wars trilogy, but more to come. Nikolin also wouldn’t tell us anything specific about this intriguing statue of a Jedi Priestess, which we snapped a shot of outside Dok-Ondar’s Den of Antiquities. Any guesses as to her backstory? Mysteries like that, both obvious and not so obvious, are all over Galaxy’s Edge. It’s now open at Disneyland in Anaheim, CA, though if you don’t have a reservation, you can’t go until June 24. It opens August 29 at Hollywood Studios at Walt Disney World in Orlando, Florida.  Admission is included with the price of a theme park ticket, which currently fluctuates between $104-$149 for a one-day pass, depending on what date you go. For more, make sure you’re following us on our new Instagram @io9dotcom.",
+	"firstSentence": "Star Wars: Galaxy’s Edge is full of Star Wars mysteries, and one of the biggest is sitting on a stag",
+	"relatedPosts": [
+		{
+			"id": 1835129231,
+			"headline": "<i>Star Wars: Galaxy&#39;s Edge</i> Is Here: The Good, the Bad, and the Incredible",
+			"sharingMainImage": {
+				"src": "UNUSED",
+				"isAnimated": false,
+				"id": "u7wya8btup07i5beht5y",
+				"width": 2000,
+				"height": 1500,
+				"format": "jpg",
+				"frozenFormat": "jpg"
+			},
+			"permalink": "https://io9.gizmodo.com/star-wars-galaxys-edge-is-here-the-good-the-bad-and-1835129231",
+			"permalinkHost": "https://io9.gizmodo.com",
+			"permalinkPath": "/star-wars-galaxys-edge-is-here-the-good-the-bad-and-1835129231",
+			"defaultBlogId": "8"
+		},
+		{
+			"id": 1835125036,
+			"headline": "Disney&#39;s Millennium Falcon Ride Will Take You on Different Adventures in the Future",
+			"sharingMainImage": {
+				"src": "UNUSED",
+				"isAnimated": false,
+				"id": "dpmdqvyxdmquwpqn68x7",
+				"width": 800,
+				"height": 449,
+				"format": "jpg",
+				"frozenFormat": "jpg",
+				"type": "image"
+			},
+			"permalink": "https://io9.gizmodo.com/disneys-millennium-falcon-ride-will-take-you-on-differe-1835125036",
+			"permalinkHost": "https://io9.gizmodo.com",
+			"permalinkPath": "/disneys-millennium-falcon-ride-will-take-you-on-differe-1835125036",
+			"defaultBlogId": "8"
+		},
+		{
+			"id": 1834702270,
+			"headline": "<i>Star Wars: Galaxy&#39;s Edge</i> Got Some Famous Visitors This Weekend",
+			"sharingMainImage": {
+				"src": "UNUSED",
+				"isAnimated": false,
+				"id": "lxdjyszrm5f1tlwkjsbo",
+				"width": 800,
+				"height": 450,
+				"format": "png",
+				"frozenFormat": "png"
+			},
+			"permalink": "https://io9.gizmodo.com/star-wars-galaxys-edge-got-some-famous-visitors-this-w-1834702270",
+			"permalinkHost": "https://io9.gizmodo.com",
+			"permalinkPath": "/star-wars-galaxys-edge-got-some-famous-visitors-this-w-1834702270",
+			"defaultBlogId": "8"
+		},
+		{
+			"id": 1834650272,
+			"headline": "Here&#39;s How You&#39;ll Be Told to &#39;Move Along&#39; at <i>Star Wars: Galaxy&#39;s Edge</i>",
+			"sharingMainImage": {
+				"src": "UNUSED",
+				"isAnimated": false,
+				"id": "s1e2c14tdgy9gsp5mrvi",
+				"width": 800,
+				"height": 449,
+				"format": "jpg",
+				"frozenFormat": "jpg"
+			},
+			"permalink": "https://io9.gizmodo.com/heres-how-youll-be-told-to-move-along-at-star-wars-gal-1834650272",
+			"permalinkHost": "https://io9.gizmodo.com",
+			"permalinkPath": "/heres-how-youll-be-told-to-move-along-at-star-wars-gal-1834650272",
+			"defaultBlogId": "8"
+		},
+		{
+			"id": 1834483722,
+			"headline": "All of Disneyland&#39;s <i>Star Wars: Galaxy&#39;s Edge</i> Reservations Sold Out in 2 Hours",
+			"sharingMainImage": {
+				"src": "UNUSED",
+				"isAnimated": false,
+				"id": "mhafzvuxnqqrrgvt6fxi",
+				"width": 800,
+				"height": 450,
+				"format": "jpg",
+				"frozenFormat": "jpg"
+			},
+			"permalink": "https://io9.gizmodo.com/all-of-disneylands-star-wars-galaxys-edge-reservations-1834483722",
+			"permalinkHost": "https://io9.gizmodo.com",
+			"permalinkPath": "/all-of-disneylands-star-wars-galaxys-edge-reservations-1834483722",
+			"defaultBlogId": "8"
+		},
+		{
+			"id": 1834023969,
+			"headline": "This is How Earth Drinks Are Becoming part of <i>Star Wars</i> Canon",
+			"sharingMainImage": {
+				"src": "UNUSED",
+				"isAnimated": false,
+				"id": "zypfaikdu3imoojyp3lx",
+				"width": 800,
+				"height": 451,
+				"format": "png",
+				"frozenFormat": "png"
+			},
+			"permalink": "https://io9.gizmodo.com/this-is-how-earth-drinks-are-becoming-part-of-star-wars-1834023969",
+			"permalinkHost": "https://io9.gizmodo.com",
+			"permalinkPath": "/this-is-how-earth-drinks-are-becoming-part-of-star-wars-1834023969",
+			"defaultBlogId": "8"
+		}
+	],
+	"storyTypeId": 139,
+	"showAuthorBio": true,
+	"storyType": {
+		"id": 139,
+		"blogId": 4,
+		"canonical": "movies",
+		"title": "Movies",
+		"content": "Standard",
+		"description": "Coverage of Star Wars, the Marvel Cinematic Universe, Batman, Wonder Woman, Pixar, Transformers, sci-fi, horror, animation, and all the other movies you love (or at least are curious about).",
+		"createdAt": "2017-08-01T12:01:24.827-04:00[America/New_York]"
+	},
+	"permalink": "https://io9.gizmodo.com/the-first-order-watched-over-our-interview-in-star-wars-1835238447",
+	"status": "PUBLISHED",
+	"authors": [],
+	"relatedModule": {
+		"headline": "Reporting From Batuu",
+		"posts": [
+			{
+				"id": 1835129231
+			},
+			{
+				"id": 1835125036
+			},
+			{
+				"id": 1834702270
+			},
+			{
+				"id": 1834650272
+			},
+			{
+				"id": 1834483722
+			},
+			{
+				"id": 1834023969
+			}
+		],
+		"storyTypes": [],
+		"tags": [
+			"starwarsgalaxysedge"
+		]
+	},
+	"permalinkRedirect": null,
+	"timezone": "America/New_York",
+	"showByline": true,
+	"parentAuthorIds": [],
+	"salesAvatar": null,
+	"leftOfHeadline": {
+		"src": "UNUSED",
+		"isAnimated": false,
+		"id": "hotblgadw2pfeggz0efb",
+		"width": 320,
+		"height": 180,
+		"format": "jpg",
+		"frozenFormat": "jpg",
+		"type": "image"
+	},
+	"lastUpdateTimeMillis": 1559676602313,
+	"sharingMainImage": {
+		"src": "UNUSED",
+		"isAnimated": false,
+		"id": "lcpox1nhjxnd37k6bpxm",
+		"width": 1920,
+		"height": 1080,
+		"format": "jpg",
+		"frozenFormat": "jpg"
+	},
+	"publishTimeMillis": 1559676600447,
+	"byline": "",
+	"headline": "The First Order Watched Over Our Interview in <i>Star Wars: Galaxy&#39;s Edge</i>",
+	"authorIds": [
+		"5876237249235823346"
+	],
+	"starter": null,
+	"defaultBlogId": "8",
+	"length": 2015,
+	"isVideo": true,
+	"sponsored": false,
+	"plaintext": "Star Wars: Galaxy’s Edge is full of Star Wars mysteries, and one of the biggest is sitting on a stage for everyone to see. It’s the First Order’s TIE Echelon, a brand new Star Wars ship making its debut at the theme park. And that’s where I had a few minutes to talk to Brent Nikolin, a principal project manager for Walt Disney Imagineering, about the park—under the watchful eye of some First Order Stormtroopers, of course.",
+	"allowReplies": true,
+	"authorId": "5876237249235823346",
+	"parentId": null,
+	"sharedUrl": null,
+	"featuredMedia": {
+		"thumbnail": {
+			"id": "qa/3691511",
+			"format": "jpg"
+		},
+		"isLooping": false,
+		"caption": [],
+		"id": "3691511",
+		"alignment": "Bleed",
+		"type": "KinjaVideo"
+	},
+	"category": {
+		"id": 5383,
+		"storyTypeId": 139,
+		"canonicalName": "star-wars",
+		"displayName": "Star Wars"
+	},
+	"properties": "{\"headTitleTag\":\"Star Wars Galaxy's Edge Video Interview at the TIE Echelon Ship\",\"sharingMainImageSetInDistTools\":true,\"hideFromRss\":false,\"dropCapEnabled\":false,\"autoRepostDisabled\":false,\"impactHeader\":{\"titleAlignment\":\"BottomLeft\",\"overlay\":\"Black\"},\"featuredHeaderLayout\":\"Default\"}"
+}

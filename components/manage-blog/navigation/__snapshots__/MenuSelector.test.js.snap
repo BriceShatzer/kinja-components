@@ -1,0 +1,256 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<MenuSelector /> should render properly 1`] = `
+.c3 {
+  fill: currentColor;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c0 {
+  position: relative;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  position: relative;
+  bottom: -1px;
+  height: 47px;
+  padding: 14px;
+  padding-left: 0;
+  border-bottom: 1px solid #E5E5E5;
+  cursor: pointer;
+}
+
+.c2 {
+  width: 100%;
+  float: left;
+  text-align: left;
+  font-size: 16px;
+  color: #7D7D7D;
+  line-height: 19px;
+}
+
+<Toggle(MenuSelector)
+  activeMenu="Posts"
+  menuList={
+    Array [
+      "Posts",
+      "Story Types",
+      "Moderation",
+      "Members",
+      "Settings",
+    ]
+  }
+  onClick={[MockFunction]}
+>
+  <ClickOutside(MenuSelector)
+    activeMenu="Posts"
+    close={[Function]}
+    handleClickOutside={[Function]}
+    isOpen={false}
+    menuList={
+      Array [
+        "Posts",
+        "Story Types",
+        "Moderation",
+        "Members",
+        "Settings",
+      ]
+    }
+    onClick={[MockFunction]}
+    toggle={[Function]}
+  >
+    <MenuSelector
+      activeMenu="Posts"
+      close={[Function]}
+      insideReference={[Function]}
+      isOpen={false}
+      menuList={
+        Array [
+          "Posts",
+          "Story Types",
+          "Moderation",
+          "Members",
+          "Settings",
+        ]
+      }
+      onClick={[MockFunction]}
+      toggle={[Function]}
+    >
+      <EnsureDefaultTheme>
+        <ThemeProvider
+          theme={[Function]}
+        >
+          <MenuSelector__Wrapper>
+            <StyledComponent
+              forwardedComponent={
+                Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "attrs": Array [],
+                  "componentStyle": ComponentStyle {
+                    "componentId": "MenuSelector__Wrapper-sc-1ladpb5-0",
+                    "isStatic": true,
+                    "lastClassName": "c0",
+                    "rules": Array [
+                      "position:relative;",
+                    ],
+                  },
+                  "displayName": "MenuSelector__Wrapper",
+                  "foldedComponentIds": Array [],
+                  "render": [Function],
+                  "styledComponentId": "MenuSelector__Wrapper-sc-1ladpb5-0",
+                  "target": "div",
+                  "toString": [Function],
+                  "warnTooManyClasses": [Function],
+                  "withComponent": [Function],
+                }
+              }
+              forwardedRef={[Function]}
+            >
+              <div
+                className="c0"
+              >
+                <MenuSelector__SelectedMenu
+                  onClick={[Function]}
+                >
+                  <StyledComponent
+                    forwardedComponent={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": Array [],
+                        "componentStyle": ComponentStyle {
+                          "componentId": "MenuSelector__SelectedMenu-sc-1ladpb5-3",
+                          "isStatic": false,
+                          "lastClassName": "c1",
+                          "rules": Array [
+                            "display:flex;position:relative;bottom:-1px;height:47px;padding:14px;padding-left:0;border-bottom:1px solid ",
+                            [Function],
+                            ";cursor:pointer;",
+                          ],
+                        },
+                        "displayName": "MenuSelector__SelectedMenu",
+                        "foldedComponentIds": Array [],
+                        "render": [Function],
+                        "styledComponentId": "MenuSelector__SelectedMenu-sc-1ladpb5-3",
+                        "target": "div",
+                        "toString": [Function],
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                    onClick={[Function]}
+                  >
+                    <div
+                      className="c1"
+                      onClick={[Function]}
+                    >
+                      <MenuSelector__SelectedMenuItem>
+                        <StyledComponent
+                          forwardedComponent={
+                            Object {
+                              "$$typeof": Symbol(react.forward_ref),
+                              "attrs": Array [],
+                              "componentStyle": ComponentStyle {
+                                "componentId": "MenuSelector__SelectedMenuItem-sc-1ladpb5-4",
+                                "isStatic": false,
+                                "lastClassName": "c2",
+                                "rules": Array [
+                                  "width:100%;float:left;text-align:left;font-size:16px;color:",
+                                  [Function],
+                                  ";line-height:19px;",
+                                ],
+                              },
+                              "displayName": "MenuSelector__SelectedMenuItem",
+                              "foldedComponentIds": Array [],
+                              "render": [Function],
+                              "styledComponentId": "MenuSelector__SelectedMenuItem-sc-1ladpb5-4",
+                              "target": "span",
+                              "toString": [Function],
+                              "warnTooManyClasses": [Function],
+                              "withComponent": [Function],
+                            }
+                          }
+                          forwardedRef={null}
+                        >
+                          <span
+                            className="c2"
+                          >
+                            Posts
+                          </span>
+                        </StyledComponent>
+                      </MenuSelector__SelectedMenuItem>
+                      <ChevronDownIcon>
+                        <Icon19>
+                          <icon19__IconWrapper>
+                            <StyledComponent
+                              forwardedComponent={
+                                Object {
+                                  "$$typeof": Symbol(react.forward_ref),
+                                  "attrs": Array [],
+                                  "componentStyle": ComponentStyle {
+                                    "componentId": "icon19__IconWrapper-iyvn34-0",
+                                    "isStatic": true,
+                                    "lastClassName": "c3",
+                                    "rules": Array [
+                                      "fill:currentColor;display:flex;",
+                                    ],
+                                  },
+                                  "displayName": "icon19__IconWrapper",
+                                  "foldedComponentIds": Array [],
+                                  "render": [Function],
+                                  "styledComponentId": "icon19__IconWrapper-iyvn34-0",
+                                  "target": "span",
+                                  "toString": [Function],
+                                  "warnTooManyClasses": [Function],
+                                  "withComponent": [Function],
+                                }
+                              }
+                              forwardedRef={null}
+                            >
+                              <span
+                                className="c3"
+                              >
+                                <ChevronDown
+                                  aria-label="ChevronDown icon"
+                                  height="18"
+                                  viewBox="0 0 18 18"
+                                  width="18"
+                                  xmlns="http://www.w3.org/2000/svg"
+                                >
+                                  <svg
+                                    aria-label="ChevronDown icon"
+                                    height="18"
+                                    viewBox="0 0 18 18"
+                                    width="18"
+                                    xmlns="http://www.w3.org/2000/svg"
+                                  >
+                                    <path
+                                      d="M3.87 6.16a.5.5 0 0 0-.74.68l5.5 6c.2.21.54.21.74 0l5.5-6a.5.5 0 1 0-.74-.68L9 11.76l-5.13-5.6z"
+                                      fillRule="evenodd"
+                                    />
+                                  </svg>
+                                </ChevronDown>
+                              </span>
+                            </StyledComponent>
+                          </icon19__IconWrapper>
+                        </Icon19>
+                      </ChevronDownIcon>
+                    </div>
+                  </StyledComponent>
+                </MenuSelector__SelectedMenu>
+              </div>
+            </StyledComponent>
+          </MenuSelector__Wrapper>
+        </ThemeProvider>
+      </EnsureDefaultTheme>
+    </MenuSelector>
+  </ClickOutside(MenuSelector)>
+</Toggle(MenuSelector)>
+`;

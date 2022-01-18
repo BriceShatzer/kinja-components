@@ -1,0 +1,144 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Iframe /> SSL placeholder fixed aspect ratio 1`] = `
+<WithPlatform
+  aspectRatio="Fixed"
+  domain="non-whitelisted.com"
+  source="http://non-whitelisted.com"
+/>
+`;
+
+exports[`<Iframe /> SSL placeholder should render an SSL placeholder 1`] = `
+<WithPlatform
+  domain="non-whitelisted.com"
+  source="http://non-whitelisted.com"
+/>
+`;
+
+exports[`<Iframe /> SSL placeholder wide dimension 1`] = `
+<WithPlatform
+  domain="non-whitelisted.com"
+  source="http://non-whitelisted.com"
+  width={
+    Dimension {
+      "unit": "Pixel",
+      "value": 1000,
+    }
+  }
+/>
+`;
+
+exports[`<Iframe /> SSL placeholder with thumbnail 1`] = `
+<WithPlatform
+  domain="non-whitelisted.com"
+  source="http://non-whitelisted.com"
+  thumbnail={
+    Object {
+      "format": "jpg",
+      "id": "id",
+    }
+  }
+/>
+`;
+
+exports[`<Iframe /> sizes custom with dimensions 1`] = `
+<p
+  className=""
+>
+  <iframe
+    className="lazyload custom"
+    data-src="https://bloomberg.com/foo"
+    height="320px"
+    scrolling="yes"
+    width="640px"
+  />
+</p>
+`;
+
+exports[`<Iframe /> sizes custom without dimensions 1`] = `
+<p
+  className=""
+>
+  <iframe
+    className="lazyload custom"
+    data-src="https://bloomberg.com/foo"
+    scrolling="yes"
+  />
+</p>
+`;
+
+exports[`<Iframe /> sizes fixed with dimensions 1`] = `
+<p
+  className="has-media has-embed"
+>
+  <iframe
+    className="lazyload custom aspect"
+    data-src="https://bloomberg.com/foo"
+    height="320px"
+    scrolling="yes"
+    width="640px"
+  />
+</p>
+`;
+
+exports[`<Iframe /> sizes fixed with wide dimensions 1`] = `
+<p
+  className="has-media has-embed has-video media-large"
+>
+  <iframe
+    className="lazyload custom aspect"
+    data-src="https://bloomberg.com/foo"
+    height="320px"
+    scrolling="yes"
+    width="1000px"
+  />
+</p>
+`;
+
+exports[`<Iframe /> sizes fixed without dimensions 1`] = `
+<p
+  className="has-media has-embed"
+>
+  <iframe
+    className="lazyload custom aspect"
+    data-src="https://bloomberg.com/foo"
+    scrolling="yes"
+  />
+</p>
+`;
+
+exports[`<Iframe /> sizes flex with dimensions 1`] = `
+<p
+  className=""
+>
+  <span
+    className="clear-both flex-video video-320 widescreen"
+  >
+    <iframe
+      allowFullScreen="allowfullscreen"
+      className="lazyload"
+      data-src="https://bloomberg.com/foo"
+      height="320px"
+      scrolling="yes"
+      width="640px"
+    />
+  </span>
+</p>
+`;
+
+exports[`<Iframe /> sizes flex without dimensions 1`] = `
+<p
+  className=""
+>
+  <span
+    className="clear-both flex-video video-unknown widescreen"
+  >
+    <iframe
+      allowFullScreen="allowfullscreen"
+      className="lazyload"
+      data-src="https://bloomberg.com/foo"
+      scrolling="yes"
+    />
+  </span>
+</p>
+`;

@@ -1,0 +1,947 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<RecentSearches /> should render and match snapshot 1`] = `
+.c10 {
+  fill: currentColor;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c7 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c7 + svg,
+.c7 + .c9 {
+  margin-left: 4px;
+}
+
+.c6 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  width: 100%;
+  white-space: nowrap;
+  pointer-events: none;
+}
+
+.c6 svg + span {
+  margin-left: 4px;
+}
+
+.c6 .c9 + span {
+  margin-left: 4px;
+}
+
+.c4 {
+  width: auto;
+  height: 34px;
+  padding: 0 2rem;
+  border: transparent 1px solid;
+  border-radius: 34px;
+  border-color: #DA1032;
+  color: #DA1032;
+  font-size: 14px;
+  text-align: center;
+  line-height: 34px;
+  background-color: #FFF;
+  -webkit-transition: background-color 0.2s ease-out,border-color 0.2s ease-out,color 0.2s ease-out;
+  transition: background-color 0.2s ease-out,border-color 0.2s ease-out,color 0.2s ease-out;
+}
+
+.c4 .c5 > svg {
+  margin-bottom: 2px;
+}
+
+.c4 .c9 {
+  margin-bottom: 2px;
+}
+
+.c4:hover,
+.c4:active,
+.c4:focus {
+  color: #7b091c;
+  border-color: #7b091c;
+  background-color: #fff;
+}
+
+.c4:hover .c5 > svg,
+.c4:active .c5 > svg,
+.c4:focus .c5 > svg {
+  stroke: #aa0d27;
+}
+
+.c2 {
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  width: 70px;
+  margin-right: 10px;
+  font-size: 15px;
+  line-height: 19px;
+}
+
+.c12 {
+  margin: 0 0 -2px 5px;
+}
+
+.c8 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.c8 .c9,
+.c8 .c11 {
+  color: #DA1032;
+  -webkit-transition: color 0.2s ease-out;
+  transition: color 0.2s ease-out;
+}
+
+.c8:hover .c9,
+.c8:hover .c11 {
+  color: #aa0d27;
+}
+
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  padding: 0 16px;
+  margin-right: 16px;
+  overflow-x: scroll;
+}
+
+.c0::-webkit-scrollbar {
+  display: none;
+}
+
+.c0 .c3 {
+  margin-right: 8px;
+}
+
+@media only screen and (min-width:37.37em) {
+  .c0 {
+    padding: 0;
+    margin: 0 0 31px;
+    overflow: auto;
+  }
+
+  .c0 .c1 {
+    width: auto;
+  }
+}
+
+@media only screen and (max-width:37.31em) {
+  .c0 {
+    padding: 0;
+  }
+}
+
+<RecentSearches
+  keywords={
+    Array [
+      "Oliver Tree",
+      "Alex Lahey",
+    ]
+  }
+  locale="en-US"
+  onClear={[MockFunction]}
+  onClick={[MockFunction]}
+  theme="jezebel"
+>
+  <Theme
+    blog="jezebel"
+    theme={
+      Object {
+        "breakpointBanner": "969px",
+        "breakpointMedium": "53.125em",
+        "color": Object {
+          "alert": "#EEB544",
+          "amazon": "#F5C056",
+          "backgroundLayer": "rgba(0,0,0,0.45)",
+          "backgroundLight": "#F5F5F5",
+          "black": "#000",
+          "blackOverlay": "rgba(0,0,0,0.7)",
+          "bodytext": "#222",
+          "commerce": "#72AD75",
+          "darkBlackOverlay": "rgba(0,0,0,0.9)",
+          "darkgray": "#666",
+          "darksmoke": "#222",
+          "error": "#D24A1D",
+          "facebook": "#3B5998",
+          "foregroundLayer": "rgba(0,0,0,0.4)",
+          "google": "#DB4437",
+          "gray": "#7D7D7D",
+          "instagram": "#C32AA3",
+          "lightgray": "#E5E5E5",
+          "linkedin": "#0077B5",
+          "logo": "#000",
+          "midgray": "#CCC",
+          "primary": "#0A7BC2",
+          "primaryLight": "#0C91E4",
+          "rss": "#7D7D7D",
+          "secondarytext": "#7D7D7D",
+          "success": "#23891F",
+          "twitter": "#1DA1F2",
+          "white": "#FFF",
+          "whiteOverlay": "rgba(255,255,255,0.7)",
+          "whitesmoke": "#F5F5F5",
+          "youtube": "#FF0000",
+        },
+        "columnGutter": "2.25rem",
+        "columnGutter19": Object {
+          "largeUp": "1.5rem",
+          "small19": "1rem",
+          "xlargeUp": "2rem",
+        },
+        "columnPadding": "1.125rem",
+        "columnPadding19": Object {
+          "largeUp": "0.75rem",
+          "small19": "0.5rem",
+          "xlargeUp": "1rem",
+        },
+        "featuredContentWidth": "1024px",
+        "font": Object {
+          "body": "ElizabethSerif, Georgia, serif",
+          "embiggenedHeadlineSize": "34px",
+          "headline": "ProximaNovaCond, sans-serif",
+          "headlineLineHeight": "1.3",
+          "headlineSize": "24px",
+          "primary": "ProximaNovaCond, sans-serif",
+          "serif": "ElizabethSerif, Georgia, serif",
+          "tertiary": "FiraSans, sans-serif",
+          "utility": "ProximaNovaCond, sans-serif",
+        },
+        "globalNavHeight": "80px",
+        "linkTransition": "0.1s ease-out",
+        "mainContainerWidth": "66.5%",
+        "mainContentMaxWidth": "800px",
+        "pageWidth": "1336px",
+        "postContentMaxWidth": "636px",
+        "scrollbackNavHeight": "60px",
+        "sidebarContainerWidth": "33.5%",
+        "sidebarContentMaxWidth": "360px",
+        "sidebarContentMinWidth": "300px",
+        "slideshowTransitionDuration": "0.2s",
+      }
+    }
+  >
+    <ThemeProvider
+      theme={
+        Object {
+          "blog": "jezebel",
+          "breakpointBanner": "969px",
+          "breakpointMedium": "53.125em",
+          "color": Object {
+            "alert": "#EEB544",
+            "amazon": "#F5C056",
+            "backgroundLayer": "rgba(0,0,0,0.45)",
+            "backgroundLight": "#FFF0F3",
+            "black": "#000",
+            "blackOverlay": "rgba(0,0,0,0.7)",
+            "bodytext": "#222",
+            "commerce": "#72AD75",
+            "darkBlackOverlay": "rgba(0,0,0,0.9)",
+            "darkgray": "#666",
+            "darksmoke": "#222",
+            "error": "#D24A1D",
+            "facebook": "#3B5998",
+            "foregroundLayer": "rgba(0,0,0,0.4)",
+            "google": "#DB4437",
+            "gray": "#7D7D7D",
+            "instagram": "#C32AA3",
+            "jezebelBlue": "#00D0FF",
+            "lightgray": "#E5E5E5",
+            "linkedin": "#0077B5",
+            "logo": "#DA1032",
+            "midgray": "#CCC",
+            "primary": "#DA1032",
+            "primaryLight": "#FFEBBE",
+            "rss": "#7D7D7D",
+            "secondarytext": "#7D7D7D",
+            "success": "#23891F",
+            "twitter": "#1DA1F2",
+            "white": "#FFF",
+            "whiteOverlay": "rgba(255,255,255,0.7)",
+            "whitesmoke": "#F5F5F5",
+            "youtube": "#FF0000",
+          },
+          "columnGutter": "2.25rem",
+          "columnGutter19": Object {
+            "largeUp": "1.5rem",
+            "small19": "1rem",
+            "xlargeUp": "2rem",
+          },
+          "columnPadding": "1.125rem",
+          "columnPadding19": Object {
+            "largeUp": "0.75rem",
+            "small19": "0.5rem",
+            "xlargeUp": "1rem",
+          },
+          "featuredContentWidth": "1024px",
+          "font": Object {
+            "body": "ElizabethSerif, Georgia, serif",
+            "embiggenedHeadlineSize": "34px",
+            "headline": "ProximaNovaCond, sans-serif",
+            "headlineLineHeight": "1.3",
+            "headlineSize": "24px",
+            "primary": "ProximaNovaCond, sans-serif",
+            "serif": "ElizabethSerif, Georgia, serif",
+            "tertiary": "FiraSans, sans-serif",
+            "utility": "ProximaNovaCond, sans-serif",
+          },
+          "globalNavHeight": "80px",
+          "linkTransition": "0.1s ease-out",
+          "mainContainerWidth": "66.5%",
+          "mainContentMaxWidth": "800px",
+          "pageWidth": "1336px",
+          "postContentMaxWidth": "636px",
+          "scrollbackNavHeight": "60px",
+          "sidebarContainerWidth": "33.5%",
+          "sidebarContentMaxWidth": "360px",
+          "sidebarContentMinWidth": "300px",
+          "slideshowTransitionDuration": "0.2s",
+        }
+      }
+    >
+      <recent-searches__Container>
+        <StyledComponent
+          forwardedComponent={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": Array [],
+              "componentStyle": ComponentStyle {
+                "componentId": "recent-searches__Container-sc-6hxfvd-3",
+                "isStatic": true,
+                "lastClassName": "c0",
+                "rules": Array [
+                  "display:flex;align-items:center;padding:0 16px;margin-right:16px;overflow-x:scroll;&::-webkit-scrollbar{display:none;}",
+                  ".c3",
+                  "{margin-right:8px;}",
+                  "@media only screen and (min-width:37.37em){",
+                  "
+		padding: 0;
+		margin: 0 0 31px;
+		overflow: auto;
+
+		",
+                  ".c1",
+                  " {
+			width: auto;
+		}
+	",
+                  "}",
+                  " ",
+                  "@media only screen and (max-width:37.31em){",
+                  "
+		padding: 0;
+	",
+                  "}",
+                ],
+              },
+              "displayName": "recent-searches__Container",
+              "foldedComponentIds": Array [],
+              "render": [Function],
+              "styledComponentId": "recent-searches__Container-sc-6hxfvd-3",
+              "target": "div",
+              "toString": [Function],
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+        >
+          <div
+            className="c0"
+          >
+            <recent-searches__Title>
+              <StyledComponent
+                forwardedComponent={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": Array [],
+                    "componentStyle": ComponentStyle {
+                      "componentId": "c1",
+                      "isStatic": true,
+                      "lastClassName": "c2",
+                      "rules": Array [
+                        "flex-shrink:0;width:70px;margin-right:10px;font-size:15px;line-height:19px;",
+                      ],
+                    },
+                    "displayName": "recent-searches__Title",
+                    "foldedComponentIds": Array [],
+                    "render": [Function],
+                    "styledComponentId": "c1",
+                    "target": "span",
+                    "toString": [Function],
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+              >
+                <span
+                  className="c1 c2"
+                >
+                  Your recent searches
+                </span>
+              </StyledComponent>
+            </recent-searches__Title>
+            <Button
+              key="Oliver Tree"
+              label="Oliver Tree"
+              onClick={[Function]}
+              small={true}
+              weight="secondary"
+            >
+              <EnsureDefaultTheme>
+                <ThemeProvider
+                  theme={[Function]}
+                >
+                  <Button__ButtonWrapper
+                    onClick={[Function]}
+                    small={true}
+                    weight="secondary"
+                  >
+                    <StyledComponent
+                      forwardedComponent={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "attrs": Array [],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "c3",
+                            "isStatic": false,
+                            "lastClassName": "c4",
+                            "rules": Array [
+                              "width:",
+                              [Function],
+                              ";height:",
+                              [Function],
+                              ";padding:",
+                              [Function],
+                              ";border:transparent 1px solid;border-radius:",
+                              [Function],
+                              ";border-color:",
+                              [Function],
+                              ";color:",
+                              [Function],
+                              ";font-size:",
+                              [Function],
+                              ";text-align:",
+                              [Function],
+                              ";line-height:",
+                              [Function],
+                              ";background-color:",
+                              [Function],
+                              ";transition:",
+                              [Function],
+                              ";",
+                              [Function],
+                              ";",
+                              [Function],
+                              ";",
+                              ".c5",
+                              " > svg{margin-bottom:2px;",
+                              [Function],
+                              " ",
+                              [Function],
+                              " ",
+                              [Function],
+                              " ",
+                              [Function],
+                              " ",
+                              [Function],
+                              " ",
+                              [Function],
+                              "}",
+                              ".c9",
+                              "{margin-bottom:2px;}&:hover,&:active,&:focus{color:",
+                              [Function],
+                              ";border-color:",
+                              [Function],
+                              ";background-color:",
+                              [Function],
+                              ";",
+                              [Function],
+                              " ",
+                              [Function],
+                              " ",
+                              ".c5",
+                              " > svg{",
+                              [Function],
+                              " ",
+                              [Function],
+                              " ",
+                              [Function],
+                              " ",
+                              [Function],
+                              "}}",
+                              "@media only screen and (max-width:49.94em){",
+                              "
+		",
+                              [Function],
+                              "
+	",
+                              "}",
+                            ],
+                          },
+                          "displayName": "Button__ButtonWrapper",
+                          "foldedComponentIds": Array [],
+                          "render": [Function],
+                          "styledComponentId": "c3",
+                          "target": "button",
+                          "toString": [Function],
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                      onClick={[Function]}
+                      small={true}
+                      weight="secondary"
+                    >
+                      <button
+                        className="c3 c4"
+                        onClick={[Function]}
+                      >
+                        <Button__ButtonInner>
+                          <StyledComponent
+                            forwardedComponent={
+                              Object {
+                                "$$typeof": Symbol(react.forward_ref),
+                                "attrs": Array [],
+                                "componentStyle": ComponentStyle {
+                                  "componentId": "c5",
+                                  "isStatic": false,
+                                  "lastClassName": "c6",
+                                  "rules": Array [
+                                    "align-items:center;display:flex;justify-content:center;width:100%;white-space:nowrap;pointer-events:none;svg{",
+                                    [Function],
+                                    " + span{margin-left:4px;}}",
+                                    ".c9",
+                                    "{+ span{margin-left:4px;}}",
+                                  ],
+                                },
+                                "displayName": "Button__ButtonInner",
+                                "foldedComponentIds": Array [],
+                                "render": [Function],
+                                "styledComponentId": "c5",
+                                "target": "div",
+                                "toString": [Function],
+                                "warnTooManyClasses": [Function],
+                                "withComponent": [Function],
+                              }
+                            }
+                            forwardedRef={null}
+                          >
+                            <div
+                              className="c5 c6"
+                            >
+                              <Button__Label>
+                                <StyledComponent
+                                  forwardedComponent={
+                                    Object {
+                                      "$$typeof": Symbol(react.forward_ref),
+                                      "attrs": Array [],
+                                      "componentStyle": ComponentStyle {
+                                        "componentId": "Button__Label-j48i5d-0",
+                                        "isStatic": true,
+                                        "lastClassName": "c7",
+                                        "rules": Array [
+                                          "display:flex;+ svg,+ ",
+                                          ".c9",
+                                          "{margin-left:4px;}",
+                                        ],
+                                      },
+                                      "displayName": "Button__Label",
+                                      "foldedComponentIds": Array [],
+                                      "render": [Function],
+                                      "styledComponentId": "Button__Label-j48i5d-0",
+                                      "target": "span",
+                                      "toString": [Function],
+                                      "warnTooManyClasses": [Function],
+                                      "withComponent": [Function],
+                                    }
+                                  }
+                                  forwardedRef={null}
+                                >
+                                  <span
+                                    className="c7"
+                                  >
+                                    Oliver Tree
+                                  </span>
+                                </StyledComponent>
+                              </Button__Label>
+                            </div>
+                          </StyledComponent>
+                        </Button__ButtonInner>
+                      </button>
+                    </StyledComponent>
+                  </Button__ButtonWrapper>
+                </ThemeProvider>
+              </EnsureDefaultTheme>
+            </Button>
+            <Button
+              key="Alex Lahey"
+              label="Alex Lahey"
+              onClick={[Function]}
+              small={true}
+              weight="secondary"
+            >
+              <EnsureDefaultTheme>
+                <ThemeProvider
+                  theme={[Function]}
+                >
+                  <Button__ButtonWrapper
+                    onClick={[Function]}
+                    small={true}
+                    weight="secondary"
+                  >
+                    <StyledComponent
+                      forwardedComponent={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "attrs": Array [],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "c3",
+                            "isStatic": false,
+                            "lastClassName": "c4",
+                            "rules": Array [
+                              "width:",
+                              [Function],
+                              ";height:",
+                              [Function],
+                              ";padding:",
+                              [Function],
+                              ";border:transparent 1px solid;border-radius:",
+                              [Function],
+                              ";border-color:",
+                              [Function],
+                              ";color:",
+                              [Function],
+                              ";font-size:",
+                              [Function],
+                              ";text-align:",
+                              [Function],
+                              ";line-height:",
+                              [Function],
+                              ";background-color:",
+                              [Function],
+                              ";transition:",
+                              [Function],
+                              ";",
+                              [Function],
+                              ";",
+                              [Function],
+                              ";",
+                              ".c5",
+                              " > svg{margin-bottom:2px;",
+                              [Function],
+                              " ",
+                              [Function],
+                              " ",
+                              [Function],
+                              " ",
+                              [Function],
+                              " ",
+                              [Function],
+                              " ",
+                              [Function],
+                              "}",
+                              ".c9",
+                              "{margin-bottom:2px;}&:hover,&:active,&:focus{color:",
+                              [Function],
+                              ";border-color:",
+                              [Function],
+                              ";background-color:",
+                              [Function],
+                              ";",
+                              [Function],
+                              " ",
+                              [Function],
+                              " ",
+                              ".c5",
+                              " > svg{",
+                              [Function],
+                              " ",
+                              [Function],
+                              " ",
+                              [Function],
+                              " ",
+                              [Function],
+                              "}}",
+                              "@media only screen and (max-width:49.94em){",
+                              "
+		",
+                              [Function],
+                              "
+	",
+                              "}",
+                            ],
+                          },
+                          "displayName": "Button__ButtonWrapper",
+                          "foldedComponentIds": Array [],
+                          "render": [Function],
+                          "styledComponentId": "c3",
+                          "target": "button",
+                          "toString": [Function],
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                      onClick={[Function]}
+                      small={true}
+                      weight="secondary"
+                    >
+                      <button
+                        className="c3 c4"
+                        onClick={[Function]}
+                      >
+                        <Button__ButtonInner>
+                          <StyledComponent
+                            forwardedComponent={
+                              Object {
+                                "$$typeof": Symbol(react.forward_ref),
+                                "attrs": Array [],
+                                "componentStyle": ComponentStyle {
+                                  "componentId": "c5",
+                                  "isStatic": false,
+                                  "lastClassName": "c6",
+                                  "rules": Array [
+                                    "align-items:center;display:flex;justify-content:center;width:100%;white-space:nowrap;pointer-events:none;svg{",
+                                    [Function],
+                                    " + span{margin-left:4px;}}",
+                                    ".c9",
+                                    "{+ span{margin-left:4px;}}",
+                                  ],
+                                },
+                                "displayName": "Button__ButtonInner",
+                                "foldedComponentIds": Array [],
+                                "render": [Function],
+                                "styledComponentId": "c5",
+                                "target": "div",
+                                "toString": [Function],
+                                "warnTooManyClasses": [Function],
+                                "withComponent": [Function],
+                              }
+                            }
+                            forwardedRef={null}
+                          >
+                            <div
+                              className="c5 c6"
+                            >
+                              <Button__Label>
+                                <StyledComponent
+                                  forwardedComponent={
+                                    Object {
+                                      "$$typeof": Symbol(react.forward_ref),
+                                      "attrs": Array [],
+                                      "componentStyle": ComponentStyle {
+                                        "componentId": "Button__Label-j48i5d-0",
+                                        "isStatic": true,
+                                        "lastClassName": "c7",
+                                        "rules": Array [
+                                          "display:flex;+ svg,+ ",
+                                          ".c9",
+                                          "{margin-left:4px;}",
+                                        ],
+                                      },
+                                      "displayName": "Button__Label",
+                                      "foldedComponentIds": Array [],
+                                      "render": [Function],
+                                      "styledComponentId": "Button__Label-j48i5d-0",
+                                      "target": "span",
+                                      "toString": [Function],
+                                      "warnTooManyClasses": [Function],
+                                      "withComponent": [Function],
+                                    }
+                                  }
+                                  forwardedRef={null}
+                                >
+                                  <span
+                                    className="c7"
+                                  >
+                                    Alex Lahey
+                                  </span>
+                                </StyledComponent>
+                              </Button__Label>
+                            </div>
+                          </StyledComponent>
+                        </Button__ButtonInner>
+                      </button>
+                    </StyledComponent>
+                  </Button__ButtonWrapper>
+                </ThemeProvider>
+              </EnsureDefaultTheme>
+            </Button>
+            <recent-searches__ClearWrapper
+              onClick={[MockFunction]}
+            >
+              <StyledComponent
+                forwardedComponent={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": Array [],
+                    "componentStyle": ComponentStyle {
+                      "componentId": "recent-searches__ClearWrapper-sc-6hxfvd-2",
+                      "isStatic": false,
+                      "lastClassName": "c8",
+                      "rules": Array [
+                        "display:flex;align-items:center;cursor:pointer;",
+                        ".c9",
+                        ",",
+                        ".c11",
+                        "{color:",
+                        [Function],
+                        ";transition:color 0.2s ease-out;}&:hover{",
+                        ".c9",
+                        ",",
+                        ".c11",
+                        "{color:",
+                        [Function],
+                        ";}}",
+                      ],
+                    },
+                    "displayName": "recent-searches__ClearWrapper",
+                    "foldedComponentIds": Array [],
+                    "render": [Function],
+                    "styledComponentId": "recent-searches__ClearWrapper-sc-6hxfvd-2",
+                    "target": "div",
+                    "toString": [Function],
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+                onClick={[MockFunction]}
+              >
+                <div
+                  className="c8"
+                  onClick={[MockFunction]}
+                >
+                  <RotateIcon>
+                    <Icon19>
+                      <icon19__IconWrapper>
+                        <StyledComponent
+                          forwardedComponent={
+                            Object {
+                              "$$typeof": Symbol(react.forward_ref),
+                              "attrs": Array [],
+                              "componentStyle": ComponentStyle {
+                                "componentId": "c9",
+                                "isStatic": true,
+                                "lastClassName": "c10",
+                                "rules": Array [
+                                  "fill:currentColor;display:flex;",
+                                ],
+                              },
+                              "displayName": "icon19__IconWrapper",
+                              "foldedComponentIds": Array [],
+                              "render": [Function],
+                              "styledComponentId": "c9",
+                              "target": "span",
+                              "toString": [Function],
+                              "warnTooManyClasses": [Function],
+                              "withComponent": [Function],
+                            }
+                          }
+                          forwardedRef={null}
+                        >
+                          <span
+                            className="c9 c10"
+                          >
+                            <Rotate
+                              aria-label="Rotate icon"
+                              height="18"
+                              viewBox="0 0 18 18"
+                              width="18"
+                              xmlns="http://www.w3.org/2000/svg"
+                            >
+                              <svg
+                                aria-label="Rotate icon"
+                                height="18"
+                                viewBox="0 0 18 18"
+                                width="18"
+                                xmlns="http://www.w3.org/2000/svg"
+                              >
+                                <path
+                                  d="M6.7 4l2-2.2a.5.5 0 0 0-.6-.6l-3 3v.6l3 3a.5.5 0 0 0 .7-.7L6.7 5h2.8A5.5 5.5 0 1 1 4 10.5a.5.5 0 1 0-1 0A6.5 6.5 0 1 0 9.5 4H6.7z"
+                                  fillRule="evenodd"
+                                />
+                              </svg>
+                            </Rotate>
+                          </span>
+                        </StyledComponent>
+                      </icon19__IconWrapper>
+                    </Icon19>
+                  </RotateIcon>
+                  <recent-searches__ClearText>
+                    <StyledComponent
+                      forwardedComponent={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "attrs": Array [],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "c11",
+                            "isStatic": true,
+                            "lastClassName": "c12",
+                            "rules": Array [
+                              "margin:0 0 -2px 5px;",
+                            ],
+                          },
+                          "displayName": "recent-searches__ClearText",
+                          "foldedComponentIds": Array [],
+                          "render": [Function],
+                          "styledComponentId": "c11",
+                          "target": "span",
+                          "toString": [Function],
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                    >
+                      <span
+                        className="c11 c12"
+                      >
+                        Clear
+                      </span>
+                    </StyledComponent>
+                  </recent-searches__ClearText>
+                </div>
+              </StyledComponent>
+            </recent-searches__ClearWrapper>
+          </div>
+        </StyledComponent>
+      </recent-searches__Container>
+    </ThemeProvider>
+  </Theme>
+</RecentSearches>
+`;

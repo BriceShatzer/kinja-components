@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<MixcloudFrame /> should render a mixcloud iframe 1`] = `
+<p>
+  <iframe
+    allowFullScreen="allowfullscreen"
+    className="custom"
+    frameBorder={0}
+    height={180}
+    mozallowfullscreen="mozallowfullscreen"
+    scrolling="no"
+    src="//www.mixcloud.com/widget/iframe/?feed=%2Fdj-echo%2Fecho-100%2F&hide_tracklist=1&hide_cover=1&embed_type=widget_standard"
+    webkitallowfullscreen="webkitAllowFullScreen"
+    width="100%"
+  />
+</p>
+`;

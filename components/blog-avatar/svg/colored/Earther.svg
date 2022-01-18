@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" aria-label="Earther avatar" viewBox="0 0 64 64">
+	<g fill="none" fill-rule="evenodd">
+		<path fill="#0075B2" d="M0 0h64v64H0z"/>
+		<path fill="#FFF" d="M32 27h11v10H32V27zm16-17v10H29v24h19v10H17V10h31z"/>
+	</g>
+</svg>

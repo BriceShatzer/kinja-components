@@ -1,0 +1,75 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<CurrentPath/> should render placeholder in place of empty levels 1`] = `"No path selected"`;
+
+exports[`<CurrentPath/> should render with icon 1`] = `
+<current-path__Wrapper>
+  <current-path__IconWrapper
+    nudgeUp={false}
+  >
+    <BlogAvatar
+      name="gizmodo"
+      size={18}
+    />
+  </current-path__IconWrapper>
+  <current-path__CurrentPathPart
+    data-shouldshowtooltip={false}
+    data-tooltipname="Giz"
+    data-tooltipoffset={0}
+  >
+    Giz
+  </current-path__CurrentPathPart>
+  <current-path__ChevronWrapper>
+    <ChevronRightIcon />
+  </current-path__ChevronWrapper>
+  <current-path__CurrentPathPart
+    data-shouldshowtooltip={false}
+    data-tooltipname="Some other story type"
+    data-tooltipoffset={0}
+  >
+    Some other story type
+  </current-path__CurrentPathPart>
+  <current-path__ChevronWrapper>
+    <ChevronRightIcon />
+  </current-path__ChevronWrapper>
+  <current-path__CurrentPathPart
+    data-shouldshowtooltip={false}
+    data-tooltipname="Some category"
+    data-tooltipoffset={0}
+  >
+    Some category
+  </current-path__CurrentPathPart>
+</current-path__Wrapper>
+`;
+
+exports[`<CurrentPath/> should render without icon 1`] = `
+<current-path__Wrapper>
+  <current-path__CurrentPathPart
+    data-shouldshowtooltip={false}
+    data-tooltipname="Giz"
+    data-tooltipoffset={0}
+  >
+    Giz
+  </current-path__CurrentPathPart>
+  <current-path__ChevronWrapper>
+    <ChevronRightIcon />
+  </current-path__ChevronWrapper>
+  <current-path__CurrentPathPart
+    data-shouldshowtooltip={false}
+    data-tooltipname="Some other story type"
+    data-tooltipoffset={0}
+  >
+    Some other story type
+  </current-path__CurrentPathPart>
+  <current-path__ChevronWrapper>
+    <ChevronRightIcon />
+  </current-path__ChevronWrapper>
+  <current-path__CurrentPathPart
+    data-shouldshowtooltip={false}
+    data-tooltipname="Some category"
+    data-tooltipoffset={0}
+  >
+    Some category
+  </current-path__CurrentPathPart>
+</current-path__Wrapper>
+`;

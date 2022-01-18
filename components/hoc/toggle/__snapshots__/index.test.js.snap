@@ -1,0 +1,76 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Toggle /> and closed again 1`] = `
+<Toggle(ExampleComponent)>
+  <ClickOutside(ExampleComponent)
+    close={[Function]}
+    isOpen={false}
+    toggle={[Function]}
+  >
+    <ExampleComponent
+      close={[Function]}
+      insideReference={[Function]}
+      isOpen={false}
+      toggle={[Function]}
+    >
+      <div
+        className="closed"
+      >
+        <button
+          onClick={[Function]}
+        />
+      </div>
+    </ExampleComponent>
+  </ClickOutside(ExampleComponent)>
+</Toggle(ExampleComponent)>
+`;
+
+exports[`<Toggle /> can be opened 1`] = `
+<Toggle(ExampleComponent)>
+  <ClickOutside(ExampleComponent)
+    close={[Function]}
+    isOpen={true}
+    toggle={[Function]}
+  >
+    <ExampleComponent
+      close={[Function]}
+      insideReference={[Function]}
+      isOpen={true}
+      toggle={[Function]}
+    >
+      <div
+        className="open"
+      >
+        <button
+          onClick={[Function]}
+        />
+      </div>
+    </ExampleComponent>
+  </ClickOutside(ExampleComponent)>
+</Toggle(ExampleComponent)>
+`;
+
+exports[`<Toggle /> is closed by default 1`] = `
+<Toggle(ExampleComponent)>
+  <ClickOutside(ExampleComponent)
+    close={[Function]}
+    isOpen={false}
+    toggle={[Function]}
+  >
+    <ExampleComponent
+      close={[Function]}
+      insideReference={[Function]}
+      isOpen={false}
+      toggle={[Function]}
+    >
+      <div
+        className="closed"
+      >
+        <button
+          onClick={[Function]}
+        />
+      </div>
+    </ExampleComponent>
+  </ClickOutside(ExampleComponent)>
+</Toggle(ExampleComponent)>
+`;

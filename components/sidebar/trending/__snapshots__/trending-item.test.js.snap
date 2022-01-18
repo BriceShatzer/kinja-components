@@ -1,0 +1,2343 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TrendingItem should hide author name if blog is not displaying author names 1`] = `
+.c3 {
+  height: 0;
+  width: 100%;
+  padding-bottom: 56.25%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: #F5F5F5;
+  overflow: hidden;
+  position: relative;
+}
+
+.c3:hover .c13 {
+  bottom: 0;
+}
+
+.c3 img,
+.c3 video {
+  width: 100%;
+}
+
+.c1 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c8 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 20px;
+  height: 20px;
+}
+
+.c8 .SVGInline-svg {
+  display: none;
+}
+
+.c8 svg {
+  max-width: 100%;
+  width: inherit;
+  height: inherit;
+}
+
+.c6 .c7 {
+  margin-right: 10px;
+  margin-top: -2px;
+}
+
+.c5 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: #222;
+  font-family: ProximaNovaCond,sans-serif;
+  line-height: 25px;
+}
+
+.c2 {
+  width: 33.333333333333336%;
+  border: 1px solid #FFF;
+  display: block;
+  float: left;
+  position: relative;
+  opacity: 0;
+  z-index: 0;
+  -webkit-transform: translate3d(0%,0,0);
+  -ms-transform: translate3d(0%,0,0);
+  transform: translate3d(0%,0,0);
+  -webkit-transition: opacity 300ms;
+  transition: opacity 300ms;
+}
+
+.c2.active {
+  opacity: 1;
+  z-index: 10;
+}
+
+.c10 {
+  color: #000;
+  margin: 10px 0 1px;
+  font-size: 20px;
+  line-height: 1.2;
+  font-family: ProximaNovaCond,sans-serif;
+  word-break: break-word;
+}
+
+.c11 {
+  font-size: 15px;
+  line-height: 17px;
+  color: #7D7D7D;
+  display: inline;
+  margin-right: 15px;
+}
+
+.c11 strong {
+  color: #000;
+}
+
+.c4 {
+  font-size: 15px;
+  line-height: 17px;
+  color: #7D7D7D;
+  margin: 15px 0 6px;
+}
+
+.c4 strong {
+  color: #000;
+}
+
+.c0:hover {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0:hover .c9 {
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+  -webkit-text-decoration-color: #000;
+  text-decoration-color: #000;
+}
+
+.c12 {
+  font-size: 13px;
+  text-transform: none;
+  color: #7D7D7D;
+  margin-top: 4px;
+}
+
+<TrendingItem
+  active={true}
+  count={3}
+  currentBlog={
+    Blog {
+      "avatar": Object {
+        "format": "png",
+        "frozenFormat": "png",
+        "id": "fdj3buryz5nuzyf2k620",
+        "isAnimated": false,
+      },
+      "canonicalHost": "gizmodo.com",
+      "createTimeMillis": 1354577350531,
+      "description": "We come from the future.",
+      "displayName": "Gizmodo",
+      "hosts": Array [
+        "doctorwho.io9.com",
+        "animals.kinja.com",
+        "education.gizmodo.com",
+        "doctorwho.gizmodo.com",
+        "nl.gizmodo.com",
+        "toybox.io9.com",
+        "animation.gizmodo.com",
+        "education.kinja.com",
+        "animalsx.kinja.com",
+        "toybox.gizmodo.com",
+        "toybox.kinja.com",
+        "au.gizmodo.com",
+        "ca.gizmodo.com",
+        "gizmodo.kinja.com",
+        "old.gizmodo.com",
+        "fetch.gizmodo.com",
+        "truecrimeio9.kinja.com",
+        "animation.io9.com",
+        "truecrime.gizmodo.com",
+        "001.gizmodo.com",
+        "www.gizmodo.com",
+        "gizmodo.in",
+        "gizmodo.co.in",
+        "assets.gizmodo.com",
+        "io9education.kinja.com",
+        "ru.gizmodo.com",
+        "m.gizmodo.com",
+        "education.io9.com",
+        "blog.gizmodo.com",
+        "animals.gizmodo.com",
+        "upgrade.gizmodo.com",
+        "us.gizmodo.com",
+        "animation.kinja.com",
+        "pl.gizmodo.com",
+        "upgrade.io9.com",
+        "truecrime.io9.com",
+        "br.gizmodo.com",
+        "upgrade.kinja.com",
+        "animals.io9.com",
+        "doctorwhoio9.kinja.com",
+      ],
+      "id": "4",
+      "logo": Object {
+        "format": "png",
+        "frozenFormat": "png",
+        "id": "wvhsuflzmeoo0zr9ex55",
+        "isAnimated": false,
+      },
+      "name": "gizmodo",
+      "ownerId": "5876237249236979260",
+      "parentId": undefined,
+      "properties": Object {
+        "GANJA_IGNORE_GEO": Array [
+          "us.gizmodo.com",
+        ],
+        "aboutPostId": 5732042,
+        "adsTxtEnabled": true,
+        "blogGroup": "gizmodo",
+        "campaignMonitorNewsletterName": "Gizmodo_Daily",
+        "facebookPixelId": "852713628239858",
+        "facebookScreenName": "gizmodo",
+        "fbAppId": "44615671688",
+        "googleAnalyticsID": "UA-142218-3",
+        "googleSiteVerification": "Sc6OGUq5heWyOLFpCb_2K6mX7vFrWKGANts4QDUmgOY",
+        "instagramScreenName": "gizmodo",
+        "isGmgBlog": true,
+        "logoLink": "https://x.kinja-static.com/assets/images/logos/newsletter/gizmodo-500px.png",
+        "mainColor": "#18AFED",
+        "metaTitle": "Gizmodo, the Gadget Guide",
+        "navigationGroup": "fmg",
+        "newsletter": true,
+        "noindex": false,
+        "pianoProdAid": "ZpCykEM7YO",
+        "pianoSandboxAid": "VFrbPA6HDf",
+        "recircGroup": "fmgNonSatire",
+        "robotsAllowed": true,
+        "singleOptIn": true,
+        "skimLinkId": "33330X911642",
+        "template": "gizmodo",
+        "twitterScreenName": "@gizmodo",
+        "youtubeUrl": "https://www.youtube.com/channel/UCxFmw3IUMDUC1Hh7qDjtjZQ",
+      },
+      "status": "ENABLED",
+      "timezone": "America/New_York",
+      "timezoneOffset": -14400000,
+    }
+  }
+  index={0}
+  post={
+    SidebarPost {
+      "amazonPrice": undefined,
+      "amazonPromoCode": undefined,
+      "authorId": "5876237249236221114",
+      "authorNameOrByline": "Sam Barsanti",
+      "authorScreenName": "mborlay",
+      "defaultBlogAvatar": Object {
+        "format": "png",
+        "frozenFormat": "png",
+        "id": "no63bw902mddhwxtjtxh",
+        "isAnimated": false,
+      },
+      "defaultBlogDisplayName": "The A.V. Club",
+      "defaultBlogGroup": "avclub",
+      "defaultBlogHost": "www.avclub.com",
+      "defaultBlogId": "1636027099",
+      "defaultBlogLogo": null,
+      "defaultBlogRecircGroup": undefined,
+      "headline": "It turns out that people don&#39;t really want to spend $1,000 on an iPhone<em></em>",
+      "id": "1822570336",
+      "image": Object {
+        "altText": undefined,
+        "format": "jpg",
+        "frozenFormat": "jpg",
+        "height": 0,
+        "id": "tmc86rcc0hqcrztueilp",
+        "originalHeight": undefined,
+        "originalWidth": undefined,
+        "uid": "tmc86rcc0hqcrztueilp",
+        "width": 0,
+      },
+      "isVideo": undefined,
+      "likeCount": 3,
+      "originalProps": Object {
+        "amazonPrice": undefined,
+        "amazonPromoCode": undefined,
+        "authorId": "5876237249236221114",
+        "authorNameOrByline": "Sam Barsanti",
+        "authorScreenName": "mborlay",
+        "defaultBlogAvatar": Object {
+          "format": "png",
+          "frozenFormat": "png",
+          "id": "no63bw902mddhwxtjtxh",
+          "isAnimated": false,
+        },
+        "defaultBlogDisplayName": "The A.V. Club",
+        "defaultBlogGroup": "avclub",
+        "defaultBlogHost": "www.avclub.com",
+        "defaultBlogId": "1636027099",
+        "defaultBlogLogo": null,
+        "defaultBlogRecircGroup": undefined,
+        "headline": "It turns out that people don&#39;t really want to spend $1,000 on an iPhone<em></em>",
+        "id": "1822570336",
+        "image": Object {
+          "altText": undefined,
+          "format": "jpg",
+          "frozenFormat": "jpg",
+          "height": 0,
+          "id": "tmc86rcc0hqcrztueilp",
+          "originalHeight": undefined,
+          "originalWidth": undefined,
+          "uid": "tmc86rcc0hqcrztueilp",
+          "width": 0,
+        },
+        "isVideo": undefined,
+        "likeCount": 3,
+        "permalink": "https://www.avclub.com/it-turns-out-that-people-dont-really-want-to-spend-1-0-1822570336",
+        "plaintext": undefined,
+        "publishTimeMillis": 1512136800667,
+        "replyCount": 99,
+        "score": 0,
+        "viewCount": 200,
+      },
+      "permalink": "https://www.avclub.com/it-turns-out-that-people-dont-really-want-to-spend-1-0-1822570336",
+      "plaintext": undefined,
+      "publishTimeMillis": 1512136800667,
+      "replyCount": 99,
+      "score": 0,
+      "viewCount": 200,
+    }
+  }
+>
+  <EnsureDefaultTheme>
+    <ThemeProvider
+      theme={[Function]}
+    >
+      <trending-item__LinkContainer
+        events={
+          Array [
+            Array [
+              "Trending module click",
+              "position main",
+              "https://www.avclub.com/it-turns-out-that-people-dont-really-want-to-spend-1-0-1822570336",
+              Object {
+                "metric16": 1,
+              },
+            ],
+          ]
+        }
+        href="https://www.avclub.com/it-turns-out-that-people-dont-really-want-to-spend-1-0-1822570336"
+      >
+        <StyledComponent
+          events={
+            Array [
+              Array [
+                "Trending module click",
+                "position main",
+                "https://www.avclub.com/it-turns-out-that-people-dont-really-want-to-spend-1-0-1822570336",
+                Object {
+                  "metric16": 1,
+                },
+              ],
+            ]
+          }
+          forwardedComponent={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": Array [],
+              "componentStyle": ComponentStyle {
+                "componentId": "trending-item__LinkContainer-sc-15qf33u-5",
+                "isStatic": false,
+                "lastClassName": "c0",
+                "rules": Array [
+                  "&:hover{text-decoration:none;}&:hover ",
+                  ".c9",
+                  "{text-decoration:underline;text-decoration-color:",
+                  [Function],
+                  ";}",
+                ],
+              },
+              "displayName": "trending-item__LinkContainer",
+              "foldedComponentIds": Array [],
+              "render": [Function],
+              "styledComponentId": "trending-item__LinkContainer-sc-15qf33u-5",
+              "target": [Function],
+              "toString": [Function],
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+              Symbol(Symbol.hasInstance): [Function],
+            }
+          }
+          forwardedRef={null}
+          href="https://www.avclub.com/it-turns-out-that-people-dont-really-want-to-spend-1-0-1822570336"
+        >
+          <Link
+            className="c0"
+            events={
+              Array [
+                Array [
+                  "Trending module click",
+                  "position main",
+                  "https://www.avclub.com/it-turns-out-that-people-dont-really-want-to-spend-1-0-1822570336",
+                  Object {
+                    "metric16": 1,
+                  },
+                ],
+              ]
+            }
+            href="https://www.avclub.com/it-turns-out-that-people-dont-really-want-to-spend-1-0-1822570336"
+          >
+            <link__Anchor
+              className="c0 js_link"
+              dangerouslySetInnerHTML={null}
+              data-ga="[[\\"Trending module click\\",\\"position main\\",\\"https://www.avclub.com/it-turns-out-that-people-dont-really-want-to-spend-1-0-1822570336\\",{\\"metric16\\":1}]]"
+              href="https://www.avclub.com/it-turns-out-that-people-dont-really-want-to-spend-1-0-1822570336"
+            >
+              <StyledComponent
+                className="c0 js_link"
+                dangerouslySetInnerHTML={null}
+                data-ga="[[\\"Trending module click\\",\\"position main\\",\\"https://www.avclub.com/it-turns-out-that-people-dont-really-want-to-spend-1-0-1822570336\\",{\\"metric16\\":1}]]"
+                forwardedComponent={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": Array [],
+                    "componentStyle": ComponentStyle {
+                      "componentId": "link__Anchor-sc-1out364-0",
+                      "isStatic": true,
+                      "lastClassName": "c1",
+                      "rules": Array [
+                        "text-decoration:none;",
+                      ],
+                    },
+                    "displayName": "link__Anchor",
+                    "foldedComponentIds": Array [],
+                    "render": [Function],
+                    "styledComponentId": "link__Anchor-sc-1out364-0",
+                    "target": "a",
+                    "toString": [Function],
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+                href="https://www.avclub.com/it-turns-out-that-people-dont-really-want-to-spend-1-0-1822570336"
+              >
+                <a
+                  className="c0 js_link c1"
+                  dangerouslySetInnerHTML={null}
+                  data-ga="[[\\"Trending module click\\",\\"position main\\",\\"https://www.avclub.com/it-turns-out-that-people-dont-really-want-to-spend-1-0-1822570336\\",{\\"metric16\\":1}]]"
+                  href="https://www.avclub.com/it-turns-out-that-people-dont-really-want-to-spend-1-0-1822570336"
+                >
+                  <trending-item__ReelFeature
+                    className="reel active"
+                    count={3}
+                    data-index={0}
+                    index={0}
+                  >
+                    <StyledComponent
+                      className="reel active"
+                      count={3}
+                      data-index={0}
+                      forwardedComponent={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "attrs": Array [],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "trending-item__ReelFeature-sc-15qf33u-0",
+                            "isStatic": false,
+                            "lastClassName": "c2",
+                            "rules": Array [
+                              "width:",
+                              [Function],
+                              ";border:1px solid ",
+                              [Function],
+                              ";display:block;float:left;position:relative;opacity:0;z-index:0;transform:",
+                              [Function],
+                              ";transition:opacity 300ms;&.active{opacity:1;z-index:10;}",
+                            ],
+                          },
+                          "displayName": "trending-item__ReelFeature",
+                          "foldedComponentIds": Array [],
+                          "render": [Function],
+                          "styledComponentId": "trending-item__ReelFeature-sc-15qf33u-0",
+                          "target": "div",
+                          "toString": [Function],
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                      index={0}
+                    >
+                      <div
+                        className="reel active c2"
+                        data-index={0}
+                      >
+                        <SidebarImage
+                          blogGroup="gizmodo"
+                          post={
+                            SidebarPost {
+                              "amazonPrice": undefined,
+                              "amazonPromoCode": undefined,
+                              "authorId": "5876237249236221114",
+                              "authorNameOrByline": "Sam Barsanti",
+                              "authorScreenName": "mborlay",
+                              "defaultBlogAvatar": Object {
+                                "format": "png",
+                                "frozenFormat": "png",
+                                "id": "no63bw902mddhwxtjtxh",
+                                "isAnimated": false,
+                              },
+                              "defaultBlogDisplayName": "The A.V. Club",
+                              "defaultBlogGroup": "avclub",
+                              "defaultBlogHost": "www.avclub.com",
+                              "defaultBlogId": "1636027099",
+                              "defaultBlogLogo": null,
+                              "defaultBlogRecircGroup": undefined,
+                              "headline": "It turns out that people don&#39;t really want to spend $1,000 on an iPhone<em></em>",
+                              "id": "1822570336",
+                              "image": Object {
+                                "altText": undefined,
+                                "format": "jpg",
+                                "frozenFormat": "jpg",
+                                "height": 0,
+                                "id": "tmc86rcc0hqcrztueilp",
+                                "originalHeight": undefined,
+                                "originalWidth": undefined,
+                                "uid": "tmc86rcc0hqcrztueilp",
+                                "width": 0,
+                              },
+                              "isVideo": undefined,
+                              "likeCount": 3,
+                              "originalProps": Object {
+                                "amazonPrice": undefined,
+                                "amazonPromoCode": undefined,
+                                "authorId": "5876237249236221114",
+                                "authorNameOrByline": "Sam Barsanti",
+                                "authorScreenName": "mborlay",
+                                "defaultBlogAvatar": Object {
+                                  "format": "png",
+                                  "frozenFormat": "png",
+                                  "id": "no63bw902mddhwxtjtxh",
+                                  "isAnimated": false,
+                                },
+                                "defaultBlogDisplayName": "The A.V. Club",
+                                "defaultBlogGroup": "avclub",
+                                "defaultBlogHost": "www.avclub.com",
+                                "defaultBlogId": "1636027099",
+                                "defaultBlogLogo": null,
+                                "defaultBlogRecircGroup": undefined,
+                                "headline": "It turns out that people don&#39;t really want to spend $1,000 on an iPhone<em></em>",
+                                "id": "1822570336",
+                                "image": Object {
+                                  "altText": undefined,
+                                  "format": "jpg",
+                                  "frozenFormat": "jpg",
+                                  "height": 0,
+                                  "id": "tmc86rcc0hqcrztueilp",
+                                  "originalHeight": undefined,
+                                  "originalWidth": undefined,
+                                  "uid": "tmc86rcc0hqcrztueilp",
+                                  "width": 0,
+                                },
+                                "isVideo": undefined,
+                                "likeCount": 3,
+                                "permalink": "https://www.avclub.com/it-turns-out-that-people-dont-really-want-to-spend-1-0-1822570336",
+                                "plaintext": undefined,
+                                "publishTimeMillis": 1512136800667,
+                                "replyCount": 99,
+                                "score": 0,
+                                "viewCount": 200,
+                              },
+                              "permalink": "https://www.avclub.com/it-turns-out-that-people-dont-really-want-to-spend-1-0-1822570336",
+                              "plaintext": undefined,
+                              "publishTimeMillis": 1512136800667,
+                              "replyCount": 99,
+                              "score": 0,
+                              "viewCount": 200,
+                            }
+                          }
+                        >
+                          <EnsureDefaultTheme>
+                            <ThemeProvider
+                              theme={[Function]}
+                            >
+                              <sidebar-image__Image16by9Container
+                                className="js_lazy-image"
+                              >
+                                <StyledComponent
+                                  className="js_lazy-image"
+                                  forwardedComponent={
+                                    Object {
+                                      "$$typeof": Symbol(react.forward_ref),
+                                      "attrs": Array [],
+                                      "componentStyle": ComponentStyle {
+                                        "componentId": "sidebar-image__Image16by9Container-ejta2c-0",
+                                        "isStatic": false,
+                                        "lastClassName": "c3",
+                                        "rules": Array [
+                                          "height:0;width:100%;padding-bottom:56.25%;background-size:cover;background-repeat:no-repeat;background-position:center;background-color:",
+                                          [Function],
+                                          ";overflow:hidden;position:relative;&:hover ",
+                                          ".c13",
+                                          "{bottom:0;}img,video{width:100%;}",
+                                        ],
+                                      },
+                                      "displayName": "sidebar-image__Image16by9Container",
+                                      "foldedComponentIds": Array [],
+                                      "render": [Function],
+                                      "styledComponentId": "sidebar-image__Image16by9Container-ejta2c-0",
+                                      "target": "div",
+                                      "toString": [Function],
+                                      "warnTooManyClasses": [Function],
+                                      "withComponent": [Function],
+                                    }
+                                  }
+                                  forwardedRef={null}
+                                >
+                                  <div
+                                    className="js_lazy-image c3"
+                                  >
+                                    <WithPlatform
+                                      alt="It turns out that people don&#39;t really want to spend $1,000 on an iPhone<em></em>"
+                                      ariaLabel="It turns out that people don&#39;t really want to spend $1,000 on an iPhone<em></em>"
+                                      croppedImage={true}
+                                      format="jpg"
+                                      id="tmc86rcc0hqcrztueilp"
+                                      transform="KinjaCenteredLargeAuto"
+                                      width={450}
+                                    >
+                                      <WithFeatures
+                                        alt="It turns out that people don&#39;t really want to spend $1,000 on an iPhone<em></em>"
+                                        ariaLabel="It turns out that people don&#39;t really want to spend $1,000 on an iPhone<em></em>"
+                                        croppedImage={true}
+                                        format="jpg"
+                                        id="tmc86rcc0hqcrztueilp"
+                                        platform="web"
+                                        transform="KinjaCenteredLargeAuto"
+                                        width={450}
+                                      >
+                                        <OnScreenHOC
+                                          alt="It turns out that people don&#39;t really want to spend $1,000 on an iPhone<em></em>"
+                                          ariaLabel="It turns out that people don&#39;t really want to spend $1,000 on an iPhone<em></em>"
+                                          croppedImage={true}
+                                          features={Object {}}
+                                          format="jpg"
+                                          id="tmc86rcc0hqcrztueilp"
+                                          platform="web"
+                                          transform="KinjaCenteredLargeAuto"
+                                          width={450}
+                                        >
+                                          <TrackVisibility
+                                            offset={200}
+                                            once={true}
+                                            partialVisibility={true}
+                                            tag="div"
+                                            throttleInterval={150}
+                                          >
+                                            <div>
+                                              <ResponsiveImage
+                                                alt="It turns out that people don&#39;t really want to spend $1,000 on an iPhone<em></em>"
+                                                ariaLabel="It turns out that people don&#39;t really want to spend $1,000 on an iPhone<em></em>"
+                                                croppedImage={true}
+                                                features={Object {}}
+                                                format="jpg"
+                                                id="tmc86rcc0hqcrztueilp"
+                                                isVisible={false}
+                                                key=".0"
+                                                platform="web"
+                                                transform="KinjaCenteredLargeAuto"
+                                                width={450}
+                                              >
+                                                <img
+                                                  alt="It turns out that people don&#39;t really want to spend $1,000 on an iPhone<em></em>"
+                                                  aria-label="It turns out that people don&#39;t really want to spend $1,000 on an iPhone<em></em>"
+                                                  data-alt="It turns out that people don&#39;t really want to spend $1,000 on an iPhone<em></em>"
+                                                  data-anim-src=""
+                                                  data-chomp-id="tmc86rcc0hqcrztueilp"
+                                                  data-format="jpg"
+                                                  data-srcset="https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_180,q_80,w_320/tmc86rcc0hqcrztueilp.jpg 320w, https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_264,q_80,w_470/tmc86rcc0hqcrztueilp.jpg 470w, https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_80,q_80,w_80/tmc86rcc0hqcrztueilp.jpg 80w"
+                                                  draggable="auto"
+                                                  src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                                                />
+                                              </ResponsiveImage>
+                                            </div>
+                                          </TrackVisibility>
+                                        </OnScreenHOC>
+                                      </WithFeatures>
+                                    </WithPlatform>
+                                  </div>
+                                </StyledComponent>
+                              </sidebar-image__Image16by9Container>
+                            </ThemeProvider>
+                          </EnsureDefaultTheme>
+                        </SidebarImage>
+                        <trending-item__BlogLabel>
+                          <StyledComponent
+                            forwardedComponent={
+                              Object {
+                                "$$typeof": Symbol(react.forward_ref),
+                                "attrs": Array [],
+                                "componentStyle": ComponentStyle {
+                                  "componentId": "trending-item__BlogLabel-sc-15qf33u-4",
+                                  "isStatic": false,
+                                  "lastClassName": "c4",
+                                  "rules": Array [
+                                    "font-size:15px;line-height:17px;color:",
+                                    [Function],
+                                    ";strong{color:",
+                                    [Function],
+                                    ";}",
+                                    "margin:15px 0 6px;",
+                                  ],
+                                },
+                                "displayName": "trending-item__BlogLabel",
+                                "foldedComponentIds": Array [
+                                  "trending-item__Meta-sc-15qf33u-2",
+                                ],
+                                "render": [Function],
+                                "styledComponentId": "trending-item__BlogLabel-sc-15qf33u-4",
+                                "target": "div",
+                                "toString": [Function],
+                                "warnTooManyClasses": [Function],
+                                "withComponent": [Function],
+                              }
+                            }
+                            forwardedRef={null}
+                          >
+                            <div
+                              className="c4"
+                            >
+                              <NativeShareLabel
+                                blog={
+                                  Blog {
+                                    "avatar": Object {
+                                      "format": "png",
+                                      "frozenFormat": "png",
+                                      "id": "fdj3buryz5nuzyf2k620",
+                                      "isAnimated": false,
+                                    },
+                                    "canonicalHost": "gizmodo.com",
+                                    "createTimeMillis": 1354577350531,
+                                    "description": "We come from the future.",
+                                    "displayName": "Gizmodo",
+                                    "hosts": Array [
+                                      "doctorwho.io9.com",
+                                      "animals.kinja.com",
+                                      "education.gizmodo.com",
+                                      "doctorwho.gizmodo.com",
+                                      "nl.gizmodo.com",
+                                      "toybox.io9.com",
+                                      "animation.gizmodo.com",
+                                      "education.kinja.com",
+                                      "animalsx.kinja.com",
+                                      "toybox.gizmodo.com",
+                                      "toybox.kinja.com",
+                                      "au.gizmodo.com",
+                                      "ca.gizmodo.com",
+                                      "gizmodo.kinja.com",
+                                      "old.gizmodo.com",
+                                      "fetch.gizmodo.com",
+                                      "truecrimeio9.kinja.com",
+                                      "animation.io9.com",
+                                      "truecrime.gizmodo.com",
+                                      "001.gizmodo.com",
+                                      "www.gizmodo.com",
+                                      "gizmodo.in",
+                                      "gizmodo.co.in",
+                                      "assets.gizmodo.com",
+                                      "io9education.kinja.com",
+                                      "ru.gizmodo.com",
+                                      "m.gizmodo.com",
+                                      "education.io9.com",
+                                      "blog.gizmodo.com",
+                                      "animals.gizmodo.com",
+                                      "upgrade.gizmodo.com",
+                                      "us.gizmodo.com",
+                                      "animation.kinja.com",
+                                      "pl.gizmodo.com",
+                                      "upgrade.io9.com",
+                                      "truecrime.io9.com",
+                                      "br.gizmodo.com",
+                                      "upgrade.kinja.com",
+                                      "animals.io9.com",
+                                      "doctorwhoio9.kinja.com",
+                                    ],
+                                    "id": "4",
+                                    "logo": Object {
+                                      "format": "png",
+                                      "frozenFormat": "png",
+                                      "id": "wvhsuflzmeoo0zr9ex55",
+                                      "isAnimated": false,
+                                    },
+                                    "name": "gizmodo",
+                                    "ownerId": "5876237249236979260",
+                                    "parentId": undefined,
+                                    "properties": Object {
+                                      "GANJA_IGNORE_GEO": Array [
+                                        "us.gizmodo.com",
+                                      ],
+                                      "aboutPostId": 5732042,
+                                      "adsTxtEnabled": true,
+                                      "blogGroup": "gizmodo",
+                                      "campaignMonitorNewsletterName": "Gizmodo_Daily",
+                                      "facebookPixelId": "852713628239858",
+                                      "facebookScreenName": "gizmodo",
+                                      "fbAppId": "44615671688",
+                                      "googleAnalyticsID": "UA-142218-3",
+                                      "googleSiteVerification": "Sc6OGUq5heWyOLFpCb_2K6mX7vFrWKGANts4QDUmgOY",
+                                      "instagramScreenName": "gizmodo",
+                                      "isGmgBlog": true,
+                                      "logoLink": "https://x.kinja-static.com/assets/images/logos/newsletter/gizmodo-500px.png",
+                                      "mainColor": "#18AFED",
+                                      "metaTitle": "Gizmodo, the Gadget Guide",
+                                      "navigationGroup": "fmg",
+                                      "newsletter": true,
+                                      "noindex": false,
+                                      "pianoProdAid": "ZpCykEM7YO",
+                                      "pianoSandboxAid": "VFrbPA6HDf",
+                                      "recircGroup": "fmgNonSatire",
+                                      "robotsAllowed": true,
+                                      "singleOptIn": true,
+                                      "skimLinkId": "33330X911642",
+                                      "template": "gizmodo",
+                                      "twitterScreenName": "@gizmodo",
+                                      "youtubeUrl": "https://www.youtube.com/channel/UCxFmw3IUMDUC1Hh7qDjtjZQ",
+                                    },
+                                    "status": "ENABLED",
+                                    "timezone": "America/New_York",
+                                    "timezoneOffset": -14400000,
+                                  }
+                                }
+                                defaultBlogDisplayName="The A.V. Club"
+                                defaultBlogGroup="avclub"
+                              >
+                                <EnsureDefaultTheme>
+                                  <ThemeProvider
+                                    theme={[Function]}
+                                  >
+                                    <native-share-label__LabelWrapper>
+                                      <StyledComponent
+                                        forwardedComponent={
+                                          Object {
+                                            "$$typeof": Symbol(react.forward_ref),
+                                            "attrs": Array [],
+                                            "componentStyle": ComponentStyle {
+                                              "componentId": "native-share-label__LabelWrapper-c27kfy-6",
+                                              "isStatic": false,
+                                              "lastClassName": "c5",
+                                              "rules": Array [
+                                                "display:flex;align-items:center;color:",
+                                                [Function],
+                                                ";font-family:",
+                                                [Function],
+                                                ";line-height:25px;",
+                                                [Function],
+                                                " ",
+                                                [Function],
+                                              ],
+                                            },
+                                            "displayName": "native-share-label__LabelWrapper",
+                                            "foldedComponentIds": Array [],
+                                            "render": [Function],
+                                            "styledComponentId": "native-share-label__LabelWrapper-c27kfy-6",
+                                            "target": "div",
+                                            "toString": [Function],
+                                            "warnTooManyClasses": [Function],
+                                            "withComponent": [Function],
+                                          }
+                                        }
+                                        forwardedRef={null}
+                                      >
+                                        <div
+                                          className="c5"
+                                        >
+                                          <native-share-label__AvatarWrapper
+                                            id="avatarIcon"
+                                          >
+                                            <StyledComponent
+                                              forwardedComponent={
+                                                Object {
+                                                  "$$typeof": Symbol(react.forward_ref),
+                                                  "attrs": Array [],
+                                                  "componentStyle": ComponentStyle {
+                                                    "componentId": "native-share-label__AvatarWrapper-c27kfy-0",
+                                                    "isStatic": true,
+                                                    "lastClassName": "c6",
+                                                    "rules": Array [
+                                                      ".c7",
+                                                      "{margin-right:10px;margin-top:-2px;}",
+                                                    ],
+                                                  },
+                                                  "displayName": "native-share-label__AvatarWrapper",
+                                                  "foldedComponentIds": Array [],
+                                                  "render": [Function],
+                                                  "styledComponentId": "native-share-label__AvatarWrapper-c27kfy-0",
+                                                  "target": "span",
+                                                  "toString": [Function],
+                                                  "warnTooManyClasses": [Function],
+                                                  "withComponent": [Function],
+                                                }
+                                              }
+                                              forwardedRef={null}
+                                              id="avatarIcon"
+                                            >
+                                              <span
+                                                className="c6"
+                                                id="avatarIcon"
+                                              >
+                                                <BlogAvatar
+                                                  name="avclub"
+                                                  size={20}
+                                                >
+                                                  <blog-avatar__BlogAvatarWrapper
+                                                    pixelSize={20}
+                                                  >
+                                                    <StyledComponent
+                                                      forwardedComponent={
+                                                        Object {
+                                                          "$$typeof": Symbol(react.forward_ref),
+                                                          "attrs": Array [],
+                                                          "componentStyle": ComponentStyle {
+                                                            "componentId": "c7",
+                                                            "isStatic": false,
+                                                            "lastClassName": "c8",
+                                                            "rules": Array [
+                                                              "display:flex;width:",
+                                                              [Function],
+                                                              ";height:",
+                                                              [Function],
+                                                              ";",
+                                                              [Function],
+                                                              " ",
+                                                              [Function],
+                                                              " .SVGInline-svg{display:none;}svg{max-width:100%;width:inherit;height:inherit;",
+                                                              [Function],
+                                                              "}",
+                                                            ],
+                                                          },
+                                                          "displayName": "blog-avatar__BlogAvatarWrapper",
+                                                          "foldedComponentIds": Array [],
+                                                          "render": [Function],
+                                                          "styledComponentId": "c7",
+                                                          "target": "span",
+                                                          "toString": [Function],
+                                                          "warnTooManyClasses": [Function],
+                                                          "withComponent": [Function],
+                                                        }
+                                                      }
+                                                      forwardedRef={null}
+                                                      pixelSize={20}
+                                                    >
+                                                      <span
+                                                        className="c7 c8"
+                                                      >
+                                                        <AVClub
+                                                          aria-label="TheAVClub avatar"
+                                                          height="64"
+                                                          viewBox="0 0 64 64"
+                                                          width="64"
+                                                          xmlns="http://www.w3.org/2000/svg"
+                                                        >
+                                                          <svg
+                                                            aria-label="TheAVClub avatar"
+                                                            height="64"
+                                                            viewBox="0 0 64 64"
+                                                            width="64"
+                                                            xmlns="http://www.w3.org/2000/svg"
+                                                          >
+                                                            <g
+                                                              fill="none"
+                                                              fillRule="evenodd"
+                                                            >
+                                                              <path
+                                                                d="M0 64h64V0H0"
+                                                                fill="#1C263C"
+                                                              />
+                                                              <path
+                                                                d="M42.66 49.29l-14.8-32.24 7.05.05 7.6 17.92 7.73-17.78 6.48.05H57l-14.34 32zM22.38 32.24l3.38 7.62-7.04-.14 3.66-7.48zM7 48.91l6.82.14 1.88-4.07 12.87.26 1.6 3.94 6.78.06L22.68 17 7 48.9z"
+                                                                fill="#FFF"
+                                                              />
+                                                            </g>
+                                                          </svg>
+                                                        </AVClub>
+                                                      </span>
+                                                    </StyledComponent>
+                                                  </blog-avatar__BlogAvatarWrapper>
+                                                </BlogAvatar>
+                                              </span>
+                                            </StyledComponent>
+                                          </native-share-label__AvatarWrapper>
+                                          <native-share-label__Label>
+                                            <StyledComponent
+                                              forwardedComponent={
+                                                Object {
+                                                  "$$typeof": Symbol(react.forward_ref),
+                                                  "attrs": Array [],
+                                                  "componentStyle": ComponentStyle {
+                                                    "componentId": "native-share-label__Label-c27kfy-7",
+                                                    "isStatic": false,
+                                                    "lastClassName": "hsZSLG",
+                                                    "rules": Array [
+                                                      [Function],
+                                                      " ",
+                                                      [Function],
+                                                      ";",
+                                                    ],
+                                                  },
+                                                  "displayName": "native-share-label__Label",
+                                                  "foldedComponentIds": Array [],
+                                                  "render": [Function],
+                                                  "styledComponentId": "native-share-label__Label-c27kfy-7",
+                                                  "target": "span",
+                                                  "toString": [Function],
+                                                  "warnTooManyClasses": [Function],
+                                                  "withComponent": [Function],
+                                                }
+                                              }
+                                              forwardedRef={null}
+                                            >
+                                              <span
+                                                className=""
+                                              >
+                                                View on The A.V. Club
+                                              </span>
+                                            </StyledComponent>
+                                          </native-share-label__Label>
+                                        </div>
+                                      </StyledComponent>
+                                    </native-share-label__LabelWrapper>
+                                  </ThemeProvider>
+                                </EnsureDefaultTheme>
+                              </NativeShareLabel>
+                            </div>
+                          </StyledComponent>
+                        </trending-item__BlogLabel>
+                        <trending-item__Headline
+                          dangerouslySetInnerHTML={
+                            Object {
+                              "__html": "It turns out that people don&#39;t really want to spend $1,000 on an iPhone<em></em>",
+                            }
+                          }
+                        >
+                          <StyledComponent
+                            dangerouslySetInnerHTML={
+                              Object {
+                                "__html": "It turns out that people don&#39;t really want to spend $1,000 on an iPhone<em></em>",
+                              }
+                            }
+                            forwardedComponent={
+                              Object {
+                                "$$typeof": Symbol(react.forward_ref),
+                                "attrs": Array [],
+                                "componentStyle": ComponentStyle {
+                                  "componentId": "c9",
+                                  "isStatic": false,
+                                  "lastClassName": "c10",
+                                  "rules": Array [
+                                    "color:",
+                                    [Function],
+                                    ";margin:10px 0 1px;font-size:20px;line-height:1.2;font-family:",
+                                    [Function],
+                                    ";word-break:break-word;",
+                                  ],
+                                },
+                                "displayName": "trending-item__Headline",
+                                "foldedComponentIds": Array [],
+                                "render": [Function],
+                                "styledComponentId": "c9",
+                                "target": "h4",
+                                "toString": [Function],
+                                "warnTooManyClasses": [Function],
+                                "withComponent": [Function],
+                              }
+                            }
+                            forwardedRef={null}
+                          >
+                            <h4
+                              className="c9 c10"
+                              dangerouslySetInnerHTML={
+                                Object {
+                                  "__html": "It turns out that people don&#39;t really want to spend $1,000 on an iPhone<em></em>",
+                                }
+                              }
+                            />
+                          </StyledComponent>
+                        </trending-item__Headline>
+                        <div>
+                          <trending-item__MetaItem>
+                            <StyledComponent
+                              forwardedComponent={
+                                Object {
+                                  "$$typeof": Symbol(react.forward_ref),
+                                  "attrs": Array [],
+                                  "componentStyle": ComponentStyle {
+                                    "componentId": "trending-item__MetaItem-sc-15qf33u-3",
+                                    "isStatic": false,
+                                    "lastClassName": "c11",
+                                    "rules": Array [
+                                      "font-size:15px;line-height:17px;color:",
+                                      [Function],
+                                      ";strong{color:",
+                                      [Function],
+                                      ";}",
+                                      "display:inline;margin-right:15px;",
+                                    ],
+                                  },
+                                  "displayName": "trending-item__MetaItem",
+                                  "foldedComponentIds": Array [
+                                    "trending-item__Meta-sc-15qf33u-2",
+                                  ],
+                                  "render": [Function],
+                                  "styledComponentId": "trending-item__MetaItem-sc-15qf33u-3",
+                                  "target": "div",
+                                  "toString": [Function],
+                                  "warnTooManyClasses": [Function],
+                                  "withComponent": [Function],
+                                }
+                              }
+                              forwardedRef={null}
+                            >
+                              <div
+                                className="c11"
+                              >
+                                <strong>
+                                  Sam Barsanti
+                                </strong>
+                              </div>
+                            </StyledComponent>
+                          </trending-item__MetaItem>
+                          <trending-item__PublishTime>
+                            <StyledComponent
+                              forwardedComponent={
+                                Object {
+                                  "$$typeof": Symbol(react.forward_ref),
+                                  "attrs": Array [],
+                                  "componentStyle": ComponentStyle {
+                                    "componentId": "trending-item__PublishTime-sc-15qf33u-6",
+                                    "isStatic": false,
+                                    "lastClassName": "c12",
+                                    "rules": Array [
+                                      "font-size:13px;text-transform:none;color:",
+                                      [Function],
+                                      ";margin-top:4px;",
+                                    ],
+                                  },
+                                  "displayName": "trending-item__PublishTime",
+                                  "foldedComponentIds": Array [],
+                                  "render": [Function],
+                                  "styledComponentId": "trending-item__PublishTime-sc-15qf33u-6",
+                                  "target": "time",
+                                  "toString": [Function],
+                                  "warnTooManyClasses": [Function],
+                                  "withComponent": [Function],
+                                }
+                              }
+                              forwardedRef={null}
+                            >
+                              <time
+                                className="c12"
+                              >
+                                Just now
+                              </time>
+                            </StyledComponent>
+                          </trending-item__PublishTime>
+                        </div>
+                      </div>
+                    </StyledComponent>
+                  </trending-item__ReelFeature>
+                </a>
+              </StyledComponent>
+            </link__Anchor>
+          </Link>
+        </StyledComponent>
+      </trending-item__LinkContainer>
+    </ThemeProvider>
+  </EnsureDefaultTheme>
+</TrendingItem>
+`;
+
+exports[`TrendingItem should render 1`] = `
+.c3 {
+  height: 0;
+  width: 100%;
+  padding-bottom: 56.25%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: #F5F5F5;
+  overflow: hidden;
+  position: relative;
+}
+
+.c3:hover .c13 {
+  bottom: 0;
+}
+
+.c3 img,
+.c3 video {
+  width: 100%;
+}
+
+.c1 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c8 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 20px;
+  height: 20px;
+}
+
+.c8 .SVGInline-svg {
+  display: none;
+}
+
+.c8 svg {
+  max-width: 100%;
+  width: inherit;
+  height: inherit;
+}
+
+.c6 .c7 {
+  margin-right: 10px;
+  margin-top: -2px;
+}
+
+.c5 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: #222;
+  font-family: ProximaNovaCond,sans-serif;
+  line-height: 25px;
+}
+
+.c2 {
+  width: 33.333333333333336%;
+  border: 1px solid #FFF;
+  display: block;
+  float: left;
+  position: relative;
+  opacity: 0;
+  z-index: 0;
+  -webkit-transform: translate3d(0%,0,0);
+  -ms-transform: translate3d(0%,0,0);
+  transform: translate3d(0%,0,0);
+  -webkit-transition: opacity 300ms;
+  transition: opacity 300ms;
+}
+
+.c2.active {
+  opacity: 1;
+  z-index: 10;
+}
+
+.c10 {
+  color: #000;
+  margin: 10px 0 1px;
+  font-size: 20px;
+  line-height: 1.2;
+  font-family: ProximaNovaCond,sans-serif;
+  word-break: break-word;
+}
+
+.c11 {
+  font-size: 15px;
+  line-height: 17px;
+  color: #7D7D7D;
+  display: inline;
+  margin-right: 15px;
+}
+
+.c11 strong {
+  color: #000;
+}
+
+.c4 {
+  font-size: 15px;
+  line-height: 17px;
+  color: #7D7D7D;
+  margin: 15px 0 6px;
+}
+
+.c4 strong {
+  color: #000;
+}
+
+.c0:hover {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0:hover .c9 {
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+  -webkit-text-decoration-color: #000;
+  text-decoration-color: #000;
+}
+
+.c12 {
+  font-size: 13px;
+  text-transform: none;
+  color: #7D7D7D;
+  margin-top: 4px;
+}
+
+<TrendingItem
+  active={true}
+  count={3}
+  currentBlog={
+    Blog {
+      "avatar": Object {
+        "format": "png",
+        "frozenFormat": "png",
+        "id": "fdj3buryz5nuzyf2k620",
+        "isAnimated": false,
+      },
+      "canonicalHost": "gizmodo.com",
+      "createTimeMillis": 1354577350531,
+      "description": "We come from the future.",
+      "displayName": "Gizmodo",
+      "hosts": Array [
+        "doctorwho.io9.com",
+        "animals.kinja.com",
+        "education.gizmodo.com",
+        "doctorwho.gizmodo.com",
+        "nl.gizmodo.com",
+        "toybox.io9.com",
+        "animation.gizmodo.com",
+        "education.kinja.com",
+        "animalsx.kinja.com",
+        "toybox.gizmodo.com",
+        "toybox.kinja.com",
+        "au.gizmodo.com",
+        "ca.gizmodo.com",
+        "gizmodo.kinja.com",
+        "old.gizmodo.com",
+        "fetch.gizmodo.com",
+        "truecrimeio9.kinja.com",
+        "animation.io9.com",
+        "truecrime.gizmodo.com",
+        "001.gizmodo.com",
+        "www.gizmodo.com",
+        "gizmodo.in",
+        "gizmodo.co.in",
+        "assets.gizmodo.com",
+        "io9education.kinja.com",
+        "ru.gizmodo.com",
+        "m.gizmodo.com",
+        "education.io9.com",
+        "blog.gizmodo.com",
+        "animals.gizmodo.com",
+        "upgrade.gizmodo.com",
+        "us.gizmodo.com",
+        "animation.kinja.com",
+        "pl.gizmodo.com",
+        "upgrade.io9.com",
+        "truecrime.io9.com",
+        "br.gizmodo.com",
+        "upgrade.kinja.com",
+        "animals.io9.com",
+        "doctorwhoio9.kinja.com",
+      ],
+      "id": "4",
+      "logo": Object {
+        "format": "png",
+        "frozenFormat": "png",
+        "id": "wvhsuflzmeoo0zr9ex55",
+        "isAnimated": false,
+      },
+      "name": "gizmodo",
+      "ownerId": "5876237249236979260",
+      "parentId": undefined,
+      "properties": Object {
+        "GANJA_IGNORE_GEO": Array [
+          "us.gizmodo.com",
+        ],
+        "aboutPostId": 5732042,
+        "adsTxtEnabled": true,
+        "blogGroup": "gizmodo",
+        "campaignMonitorNewsletterName": "Gizmodo_Daily",
+        "facebookPixelId": "852713628239858",
+        "facebookScreenName": "gizmodo",
+        "fbAppId": "44615671688",
+        "googleAnalyticsID": "UA-142218-3",
+        "googleSiteVerification": "Sc6OGUq5heWyOLFpCb_2K6mX7vFrWKGANts4QDUmgOY",
+        "instagramScreenName": "gizmodo",
+        "isGmgBlog": true,
+        "logoLink": "https://x.kinja-static.com/assets/images/logos/newsletter/gizmodo-500px.png",
+        "mainColor": "#18AFED",
+        "metaTitle": "Gizmodo, the Gadget Guide",
+        "navigationGroup": "fmg",
+        "newsletter": true,
+        "noindex": false,
+        "pianoProdAid": "ZpCykEM7YO",
+        "pianoSandboxAid": "VFrbPA6HDf",
+        "recircGroup": "fmgNonSatire",
+        "robotsAllowed": true,
+        "singleOptIn": true,
+        "skimLinkId": "33330X911642",
+        "template": "gizmodo",
+        "twitterScreenName": "@gizmodo",
+        "youtubeUrl": "https://www.youtube.com/channel/UCxFmw3IUMDUC1Hh7qDjtjZQ",
+      },
+      "status": "ENABLED",
+      "timezone": "America/New_York",
+      "timezoneOffset": -14400000,
+    }
+  }
+  index={0}
+  post={
+    SidebarPost {
+      "amazonPrice": undefined,
+      "amazonPromoCode": undefined,
+      "authorId": "5876237249236221114",
+      "authorNameOrByline": "Sam Barsanti",
+      "authorScreenName": "mborlay",
+      "defaultBlogAvatar": Object {
+        "format": "png",
+        "frozenFormat": "png",
+        "id": "no63bw902mddhwxtjtxh",
+        "isAnimated": false,
+      },
+      "defaultBlogDisplayName": "The A.V. Club",
+      "defaultBlogGroup": "avclub",
+      "defaultBlogHost": "www.avclub.com",
+      "defaultBlogId": "1636027099",
+      "defaultBlogLogo": null,
+      "defaultBlogRecircGroup": undefined,
+      "headline": "It turns out that people don&#39;t really want to spend $1,000 on an iPhone<em></em>",
+      "id": "1822570336",
+      "image": Object {
+        "altText": undefined,
+        "format": "jpg",
+        "frozenFormat": "jpg",
+        "height": 0,
+        "id": "tmc86rcc0hqcrztueilp",
+        "originalHeight": undefined,
+        "originalWidth": undefined,
+        "uid": "tmc86rcc0hqcrztueilp",
+        "width": 0,
+      },
+      "isVideo": undefined,
+      "likeCount": 3,
+      "originalProps": Object {
+        "amazonPrice": undefined,
+        "amazonPromoCode": undefined,
+        "authorId": "5876237249236221114",
+        "authorNameOrByline": "Sam Barsanti",
+        "authorScreenName": "mborlay",
+        "defaultBlogAvatar": Object {
+          "format": "png",
+          "frozenFormat": "png",
+          "id": "no63bw902mddhwxtjtxh",
+          "isAnimated": false,
+        },
+        "defaultBlogDisplayName": "The A.V. Club",
+        "defaultBlogGroup": "avclub",
+        "defaultBlogHost": "www.avclub.com",
+        "defaultBlogId": "1636027099",
+        "defaultBlogLogo": null,
+        "defaultBlogRecircGroup": undefined,
+        "headline": "It turns out that people don&#39;t really want to spend $1,000 on an iPhone<em></em>",
+        "id": "1822570336",
+        "image": Object {
+          "altText": undefined,
+          "format": "jpg",
+          "frozenFormat": "jpg",
+          "height": 0,
+          "id": "tmc86rcc0hqcrztueilp",
+          "originalHeight": undefined,
+          "originalWidth": undefined,
+          "uid": "tmc86rcc0hqcrztueilp",
+          "width": 0,
+        },
+        "isVideo": undefined,
+        "likeCount": 3,
+        "permalink": "https://www.avclub.com/it-turns-out-that-people-dont-really-want-to-spend-1-0-1822570336",
+        "plaintext": undefined,
+        "publishTimeMillis": 1512136800667,
+        "replyCount": 99,
+        "score": 0,
+        "viewCount": 200,
+      },
+      "permalink": "https://www.avclub.com/it-turns-out-that-people-dont-really-want-to-spend-1-0-1822570336",
+      "plaintext": undefined,
+      "publishTimeMillis": 1512136800667,
+      "replyCount": 99,
+      "score": 0,
+      "viewCount": 200,
+    }
+  }
+>
+  <EnsureDefaultTheme>
+    <ThemeProvider
+      theme={[Function]}
+    >
+      <trending-item__LinkContainer
+        events={
+          Array [
+            Array [
+              "Trending module click",
+              "position main",
+              "https://www.avclub.com/it-turns-out-that-people-dont-really-want-to-spend-1-0-1822570336",
+              Object {
+                "metric16": 1,
+              },
+            ],
+          ]
+        }
+        href="https://www.avclub.com/it-turns-out-that-people-dont-really-want-to-spend-1-0-1822570336"
+      >
+        <StyledComponent
+          events={
+            Array [
+              Array [
+                "Trending module click",
+                "position main",
+                "https://www.avclub.com/it-turns-out-that-people-dont-really-want-to-spend-1-0-1822570336",
+                Object {
+                  "metric16": 1,
+                },
+              ],
+            ]
+          }
+          forwardedComponent={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": Array [],
+              "componentStyle": ComponentStyle {
+                "componentId": "trending-item__LinkContainer-sc-15qf33u-5",
+                "isStatic": false,
+                "lastClassName": "c0",
+                "rules": Array [
+                  "&:hover{text-decoration:none;}&:hover ",
+                  ".c9",
+                  "{text-decoration:underline;text-decoration-color:",
+                  [Function],
+                  ";}",
+                ],
+              },
+              "displayName": "trending-item__LinkContainer",
+              "foldedComponentIds": Array [],
+              "render": [Function],
+              "styledComponentId": "trending-item__LinkContainer-sc-15qf33u-5",
+              "target": [Function],
+              "toString": [Function],
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+              Symbol(Symbol.hasInstance): [Function],
+            }
+          }
+          forwardedRef={null}
+          href="https://www.avclub.com/it-turns-out-that-people-dont-really-want-to-spend-1-0-1822570336"
+        >
+          <Link
+            className="c0"
+            events={
+              Array [
+                Array [
+                  "Trending module click",
+                  "position main",
+                  "https://www.avclub.com/it-turns-out-that-people-dont-really-want-to-spend-1-0-1822570336",
+                  Object {
+                    "metric16": 1,
+                  },
+                ],
+              ]
+            }
+            href="https://www.avclub.com/it-turns-out-that-people-dont-really-want-to-spend-1-0-1822570336"
+          >
+            <link__Anchor
+              className="c0 js_link"
+              dangerouslySetInnerHTML={null}
+              data-ga="[[\\"Trending module click\\",\\"position main\\",\\"https://www.avclub.com/it-turns-out-that-people-dont-really-want-to-spend-1-0-1822570336\\",{\\"metric16\\":1}]]"
+              href="https://www.avclub.com/it-turns-out-that-people-dont-really-want-to-spend-1-0-1822570336"
+            >
+              <StyledComponent
+                className="c0 js_link"
+                dangerouslySetInnerHTML={null}
+                data-ga="[[\\"Trending module click\\",\\"position main\\",\\"https://www.avclub.com/it-turns-out-that-people-dont-really-want-to-spend-1-0-1822570336\\",{\\"metric16\\":1}]]"
+                forwardedComponent={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": Array [],
+                    "componentStyle": ComponentStyle {
+                      "componentId": "link__Anchor-sc-1out364-0",
+                      "isStatic": true,
+                      "lastClassName": "c1",
+                      "rules": Array [
+                        "text-decoration:none;",
+                      ],
+                    },
+                    "displayName": "link__Anchor",
+                    "foldedComponentIds": Array [],
+                    "render": [Function],
+                    "styledComponentId": "link__Anchor-sc-1out364-0",
+                    "target": "a",
+                    "toString": [Function],
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+                href="https://www.avclub.com/it-turns-out-that-people-dont-really-want-to-spend-1-0-1822570336"
+              >
+                <a
+                  className="c0 js_link c1"
+                  dangerouslySetInnerHTML={null}
+                  data-ga="[[\\"Trending module click\\",\\"position main\\",\\"https://www.avclub.com/it-turns-out-that-people-dont-really-want-to-spend-1-0-1822570336\\",{\\"metric16\\":1}]]"
+                  href="https://www.avclub.com/it-turns-out-that-people-dont-really-want-to-spend-1-0-1822570336"
+                >
+                  <trending-item__ReelFeature
+                    className="reel active"
+                    count={3}
+                    data-index={0}
+                    index={0}
+                  >
+                    <StyledComponent
+                      className="reel active"
+                      count={3}
+                      data-index={0}
+                      forwardedComponent={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "attrs": Array [],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "trending-item__ReelFeature-sc-15qf33u-0",
+                            "isStatic": false,
+                            "lastClassName": "c2",
+                            "rules": Array [
+                              "width:",
+                              [Function],
+                              ";border:1px solid ",
+                              [Function],
+                              ";display:block;float:left;position:relative;opacity:0;z-index:0;transform:",
+                              [Function],
+                              ";transition:opacity 300ms;&.active{opacity:1;z-index:10;}",
+                            ],
+                          },
+                          "displayName": "trending-item__ReelFeature",
+                          "foldedComponentIds": Array [],
+                          "render": [Function],
+                          "styledComponentId": "trending-item__ReelFeature-sc-15qf33u-0",
+                          "target": "div",
+                          "toString": [Function],
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                      index={0}
+                    >
+                      <div
+                        className="reel active c2"
+                        data-index={0}
+                      >
+                        <SidebarImage
+                          blogGroup="gizmodo"
+                          post={
+                            SidebarPost {
+                              "amazonPrice": undefined,
+                              "amazonPromoCode": undefined,
+                              "authorId": "5876237249236221114",
+                              "authorNameOrByline": "Sam Barsanti",
+                              "authorScreenName": "mborlay",
+                              "defaultBlogAvatar": Object {
+                                "format": "png",
+                                "frozenFormat": "png",
+                                "id": "no63bw902mddhwxtjtxh",
+                                "isAnimated": false,
+                              },
+                              "defaultBlogDisplayName": "The A.V. Club",
+                              "defaultBlogGroup": "avclub",
+                              "defaultBlogHost": "www.avclub.com",
+                              "defaultBlogId": "1636027099",
+                              "defaultBlogLogo": null,
+                              "defaultBlogRecircGroup": undefined,
+                              "headline": "It turns out that people don&#39;t really want to spend $1,000 on an iPhone<em></em>",
+                              "id": "1822570336",
+                              "image": Object {
+                                "altText": undefined,
+                                "format": "jpg",
+                                "frozenFormat": "jpg",
+                                "height": 0,
+                                "id": "tmc86rcc0hqcrztueilp",
+                                "originalHeight": undefined,
+                                "originalWidth": undefined,
+                                "uid": "tmc86rcc0hqcrztueilp",
+                                "width": 0,
+                              },
+                              "isVideo": undefined,
+                              "likeCount": 3,
+                              "originalProps": Object {
+                                "amazonPrice": undefined,
+                                "amazonPromoCode": undefined,
+                                "authorId": "5876237249236221114",
+                                "authorNameOrByline": "Sam Barsanti",
+                                "authorScreenName": "mborlay",
+                                "defaultBlogAvatar": Object {
+                                  "format": "png",
+                                  "frozenFormat": "png",
+                                  "id": "no63bw902mddhwxtjtxh",
+                                  "isAnimated": false,
+                                },
+                                "defaultBlogDisplayName": "The A.V. Club",
+                                "defaultBlogGroup": "avclub",
+                                "defaultBlogHost": "www.avclub.com",
+                                "defaultBlogId": "1636027099",
+                                "defaultBlogLogo": null,
+                                "defaultBlogRecircGroup": undefined,
+                                "headline": "It turns out that people don&#39;t really want to spend $1,000 on an iPhone<em></em>",
+                                "id": "1822570336",
+                                "image": Object {
+                                  "altText": undefined,
+                                  "format": "jpg",
+                                  "frozenFormat": "jpg",
+                                  "height": 0,
+                                  "id": "tmc86rcc0hqcrztueilp",
+                                  "originalHeight": undefined,
+                                  "originalWidth": undefined,
+                                  "uid": "tmc86rcc0hqcrztueilp",
+                                  "width": 0,
+                                },
+                                "isVideo": undefined,
+                                "likeCount": 3,
+                                "permalink": "https://www.avclub.com/it-turns-out-that-people-dont-really-want-to-spend-1-0-1822570336",
+                                "plaintext": undefined,
+                                "publishTimeMillis": 1512136800667,
+                                "replyCount": 99,
+                                "score": 0,
+                                "viewCount": 200,
+                              },
+                              "permalink": "https://www.avclub.com/it-turns-out-that-people-dont-really-want-to-spend-1-0-1822570336",
+                              "plaintext": undefined,
+                              "publishTimeMillis": 1512136800667,
+                              "replyCount": 99,
+                              "score": 0,
+                              "viewCount": 200,
+                            }
+                          }
+                        >
+                          <EnsureDefaultTheme>
+                            <ThemeProvider
+                              theme={[Function]}
+                            >
+                              <sidebar-image__Image16by9Container
+                                className="js_lazy-image"
+                              >
+                                <StyledComponent
+                                  className="js_lazy-image"
+                                  forwardedComponent={
+                                    Object {
+                                      "$$typeof": Symbol(react.forward_ref),
+                                      "attrs": Array [],
+                                      "componentStyle": ComponentStyle {
+                                        "componentId": "sidebar-image__Image16by9Container-ejta2c-0",
+                                        "isStatic": false,
+                                        "lastClassName": "c3",
+                                        "rules": Array [
+                                          "height:0;width:100%;padding-bottom:56.25%;background-size:cover;background-repeat:no-repeat;background-position:center;background-color:",
+                                          [Function],
+                                          ";overflow:hidden;position:relative;&:hover ",
+                                          ".c13",
+                                          "{bottom:0;}img,video{width:100%;}",
+                                        ],
+                                      },
+                                      "displayName": "sidebar-image__Image16by9Container",
+                                      "foldedComponentIds": Array [],
+                                      "render": [Function],
+                                      "styledComponentId": "sidebar-image__Image16by9Container-ejta2c-0",
+                                      "target": "div",
+                                      "toString": [Function],
+                                      "warnTooManyClasses": [Function],
+                                      "withComponent": [Function],
+                                    }
+                                  }
+                                  forwardedRef={null}
+                                >
+                                  <div
+                                    className="js_lazy-image c3"
+                                  >
+                                    <WithPlatform
+                                      alt="It turns out that people don&#39;t really want to spend $1,000 on an iPhone<em></em>"
+                                      ariaLabel="It turns out that people don&#39;t really want to spend $1,000 on an iPhone<em></em>"
+                                      croppedImage={true}
+                                      format="jpg"
+                                      id="tmc86rcc0hqcrztueilp"
+                                      transform="KinjaCenteredLargeAuto"
+                                      width={450}
+                                    >
+                                      <WithFeatures
+                                        alt="It turns out that people don&#39;t really want to spend $1,000 on an iPhone<em></em>"
+                                        ariaLabel="It turns out that people don&#39;t really want to spend $1,000 on an iPhone<em></em>"
+                                        croppedImage={true}
+                                        format="jpg"
+                                        id="tmc86rcc0hqcrztueilp"
+                                        platform="web"
+                                        transform="KinjaCenteredLargeAuto"
+                                        width={450}
+                                      >
+                                        <OnScreenHOC
+                                          alt="It turns out that people don&#39;t really want to spend $1,000 on an iPhone<em></em>"
+                                          ariaLabel="It turns out that people don&#39;t really want to spend $1,000 on an iPhone<em></em>"
+                                          croppedImage={true}
+                                          features={Object {}}
+                                          format="jpg"
+                                          id="tmc86rcc0hqcrztueilp"
+                                          platform="web"
+                                          transform="KinjaCenteredLargeAuto"
+                                          width={450}
+                                        >
+                                          <TrackVisibility
+                                            offset={200}
+                                            once={true}
+                                            partialVisibility={true}
+                                            tag="div"
+                                            throttleInterval={150}
+                                          >
+                                            <div>
+                                              <ResponsiveImage
+                                                alt="It turns out that people don&#39;t really want to spend $1,000 on an iPhone<em></em>"
+                                                ariaLabel="It turns out that people don&#39;t really want to spend $1,000 on an iPhone<em></em>"
+                                                croppedImage={true}
+                                                features={Object {}}
+                                                format="jpg"
+                                                id="tmc86rcc0hqcrztueilp"
+                                                isVisible={false}
+                                                key=".0"
+                                                platform="web"
+                                                transform="KinjaCenteredLargeAuto"
+                                                width={450}
+                                              >
+                                                <img
+                                                  alt="It turns out that people don&#39;t really want to spend $1,000 on an iPhone<em></em>"
+                                                  aria-label="It turns out that people don&#39;t really want to spend $1,000 on an iPhone<em></em>"
+                                                  data-alt="It turns out that people don&#39;t really want to spend $1,000 on an iPhone<em></em>"
+                                                  data-anim-src=""
+                                                  data-chomp-id="tmc86rcc0hqcrztueilp"
+                                                  data-format="jpg"
+                                                  data-srcset="https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_180,q_80,w_320/tmc86rcc0hqcrztueilp.jpg 320w, https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_264,q_80,w_470/tmc86rcc0hqcrztueilp.jpg 470w, https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_80,q_80,w_80/tmc86rcc0hqcrztueilp.jpg 80w"
+                                                  draggable="auto"
+                                                  src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                                                />
+                                              </ResponsiveImage>
+                                            </div>
+                                          </TrackVisibility>
+                                        </OnScreenHOC>
+                                      </WithFeatures>
+                                    </WithPlatform>
+                                  </div>
+                                </StyledComponent>
+                              </sidebar-image__Image16by9Container>
+                            </ThemeProvider>
+                          </EnsureDefaultTheme>
+                        </SidebarImage>
+                        <trending-item__BlogLabel>
+                          <StyledComponent
+                            forwardedComponent={
+                              Object {
+                                "$$typeof": Symbol(react.forward_ref),
+                                "attrs": Array [],
+                                "componentStyle": ComponentStyle {
+                                  "componentId": "trending-item__BlogLabel-sc-15qf33u-4",
+                                  "isStatic": false,
+                                  "lastClassName": "c4",
+                                  "rules": Array [
+                                    "font-size:15px;line-height:17px;color:",
+                                    [Function],
+                                    ";strong{color:",
+                                    [Function],
+                                    ";}",
+                                    "margin:15px 0 6px;",
+                                  ],
+                                },
+                                "displayName": "trending-item__BlogLabel",
+                                "foldedComponentIds": Array [
+                                  "trending-item__Meta-sc-15qf33u-2",
+                                ],
+                                "render": [Function],
+                                "styledComponentId": "trending-item__BlogLabel-sc-15qf33u-4",
+                                "target": "div",
+                                "toString": [Function],
+                                "warnTooManyClasses": [Function],
+                                "withComponent": [Function],
+                              }
+                            }
+                            forwardedRef={null}
+                          >
+                            <div
+                              className="c4"
+                            >
+                              <NativeShareLabel
+                                blog={
+                                  Blog {
+                                    "avatar": Object {
+                                      "format": "png",
+                                      "frozenFormat": "png",
+                                      "id": "fdj3buryz5nuzyf2k620",
+                                      "isAnimated": false,
+                                    },
+                                    "canonicalHost": "gizmodo.com",
+                                    "createTimeMillis": 1354577350531,
+                                    "description": "We come from the future.",
+                                    "displayName": "Gizmodo",
+                                    "hosts": Array [
+                                      "doctorwho.io9.com",
+                                      "animals.kinja.com",
+                                      "education.gizmodo.com",
+                                      "doctorwho.gizmodo.com",
+                                      "nl.gizmodo.com",
+                                      "toybox.io9.com",
+                                      "animation.gizmodo.com",
+                                      "education.kinja.com",
+                                      "animalsx.kinja.com",
+                                      "toybox.gizmodo.com",
+                                      "toybox.kinja.com",
+                                      "au.gizmodo.com",
+                                      "ca.gizmodo.com",
+                                      "gizmodo.kinja.com",
+                                      "old.gizmodo.com",
+                                      "fetch.gizmodo.com",
+                                      "truecrimeio9.kinja.com",
+                                      "animation.io9.com",
+                                      "truecrime.gizmodo.com",
+                                      "001.gizmodo.com",
+                                      "www.gizmodo.com",
+                                      "gizmodo.in",
+                                      "gizmodo.co.in",
+                                      "assets.gizmodo.com",
+                                      "io9education.kinja.com",
+                                      "ru.gizmodo.com",
+                                      "m.gizmodo.com",
+                                      "education.io9.com",
+                                      "blog.gizmodo.com",
+                                      "animals.gizmodo.com",
+                                      "upgrade.gizmodo.com",
+                                      "us.gizmodo.com",
+                                      "animation.kinja.com",
+                                      "pl.gizmodo.com",
+                                      "upgrade.io9.com",
+                                      "truecrime.io9.com",
+                                      "br.gizmodo.com",
+                                      "upgrade.kinja.com",
+                                      "animals.io9.com",
+                                      "doctorwhoio9.kinja.com",
+                                    ],
+                                    "id": "4",
+                                    "logo": Object {
+                                      "format": "png",
+                                      "frozenFormat": "png",
+                                      "id": "wvhsuflzmeoo0zr9ex55",
+                                      "isAnimated": false,
+                                    },
+                                    "name": "gizmodo",
+                                    "ownerId": "5876237249236979260",
+                                    "parentId": undefined,
+                                    "properties": Object {
+                                      "GANJA_IGNORE_GEO": Array [
+                                        "us.gizmodo.com",
+                                      ],
+                                      "aboutPostId": 5732042,
+                                      "adsTxtEnabled": true,
+                                      "blogGroup": "gizmodo",
+                                      "campaignMonitorNewsletterName": "Gizmodo_Daily",
+                                      "facebookPixelId": "852713628239858",
+                                      "facebookScreenName": "gizmodo",
+                                      "fbAppId": "44615671688",
+                                      "googleAnalyticsID": "UA-142218-3",
+                                      "googleSiteVerification": "Sc6OGUq5heWyOLFpCb_2K6mX7vFrWKGANts4QDUmgOY",
+                                      "instagramScreenName": "gizmodo",
+                                      "isGmgBlog": true,
+                                      "logoLink": "https://x.kinja-static.com/assets/images/logos/newsletter/gizmodo-500px.png",
+                                      "mainColor": "#18AFED",
+                                      "metaTitle": "Gizmodo, the Gadget Guide",
+                                      "navigationGroup": "fmg",
+                                      "newsletter": true,
+                                      "noindex": false,
+                                      "pianoProdAid": "ZpCykEM7YO",
+                                      "pianoSandboxAid": "VFrbPA6HDf",
+                                      "recircGroup": "fmgNonSatire",
+                                      "robotsAllowed": true,
+                                      "singleOptIn": true,
+                                      "skimLinkId": "33330X911642",
+                                      "template": "gizmodo",
+                                      "twitterScreenName": "@gizmodo",
+                                      "youtubeUrl": "https://www.youtube.com/channel/UCxFmw3IUMDUC1Hh7qDjtjZQ",
+                                    },
+                                    "status": "ENABLED",
+                                    "timezone": "America/New_York",
+                                    "timezoneOffset": -14400000,
+                                  }
+                                }
+                                defaultBlogDisplayName="The A.V. Club"
+                                defaultBlogGroup="avclub"
+                              >
+                                <EnsureDefaultTheme>
+                                  <ThemeProvider
+                                    theme={[Function]}
+                                  >
+                                    <native-share-label__LabelWrapper>
+                                      <StyledComponent
+                                        forwardedComponent={
+                                          Object {
+                                            "$$typeof": Symbol(react.forward_ref),
+                                            "attrs": Array [],
+                                            "componentStyle": ComponentStyle {
+                                              "componentId": "native-share-label__LabelWrapper-c27kfy-6",
+                                              "isStatic": false,
+                                              "lastClassName": "c5",
+                                              "rules": Array [
+                                                "display:flex;align-items:center;color:",
+                                                [Function],
+                                                ";font-family:",
+                                                [Function],
+                                                ";line-height:25px;",
+                                                [Function],
+                                                " ",
+                                                [Function],
+                                              ],
+                                            },
+                                            "displayName": "native-share-label__LabelWrapper",
+                                            "foldedComponentIds": Array [],
+                                            "render": [Function],
+                                            "styledComponentId": "native-share-label__LabelWrapper-c27kfy-6",
+                                            "target": "div",
+                                            "toString": [Function],
+                                            "warnTooManyClasses": [Function],
+                                            "withComponent": [Function],
+                                          }
+                                        }
+                                        forwardedRef={null}
+                                      >
+                                        <div
+                                          className="c5"
+                                        >
+                                          <native-share-label__AvatarWrapper
+                                            id="avatarIcon"
+                                          >
+                                            <StyledComponent
+                                              forwardedComponent={
+                                                Object {
+                                                  "$$typeof": Symbol(react.forward_ref),
+                                                  "attrs": Array [],
+                                                  "componentStyle": ComponentStyle {
+                                                    "componentId": "native-share-label__AvatarWrapper-c27kfy-0",
+                                                    "isStatic": true,
+                                                    "lastClassName": "c6",
+                                                    "rules": Array [
+                                                      ".c7",
+                                                      "{margin-right:10px;margin-top:-2px;}",
+                                                    ],
+                                                  },
+                                                  "displayName": "native-share-label__AvatarWrapper",
+                                                  "foldedComponentIds": Array [],
+                                                  "render": [Function],
+                                                  "styledComponentId": "native-share-label__AvatarWrapper-c27kfy-0",
+                                                  "target": "span",
+                                                  "toString": [Function],
+                                                  "warnTooManyClasses": [Function],
+                                                  "withComponent": [Function],
+                                                }
+                                              }
+                                              forwardedRef={null}
+                                              id="avatarIcon"
+                                            >
+                                              <span
+                                                className="c6"
+                                                id="avatarIcon"
+                                              >
+                                                <BlogAvatar
+                                                  name="avclub"
+                                                  size={20}
+                                                >
+                                                  <blog-avatar__BlogAvatarWrapper
+                                                    pixelSize={20}
+                                                  >
+                                                    <StyledComponent
+                                                      forwardedComponent={
+                                                        Object {
+                                                          "$$typeof": Symbol(react.forward_ref),
+                                                          "attrs": Array [],
+                                                          "componentStyle": ComponentStyle {
+                                                            "componentId": "c7",
+                                                            "isStatic": false,
+                                                            "lastClassName": "c8",
+                                                            "rules": Array [
+                                                              "display:flex;width:",
+                                                              [Function],
+                                                              ";height:",
+                                                              [Function],
+                                                              ";",
+                                                              [Function],
+                                                              " ",
+                                                              [Function],
+                                                              " .SVGInline-svg{display:none;}svg{max-width:100%;width:inherit;height:inherit;",
+                                                              [Function],
+                                                              "}",
+                                                            ],
+                                                          },
+                                                          "displayName": "blog-avatar__BlogAvatarWrapper",
+                                                          "foldedComponentIds": Array [],
+                                                          "render": [Function],
+                                                          "styledComponentId": "c7",
+                                                          "target": "span",
+                                                          "toString": [Function],
+                                                          "warnTooManyClasses": [Function],
+                                                          "withComponent": [Function],
+                                                        }
+                                                      }
+                                                      forwardedRef={null}
+                                                      pixelSize={20}
+                                                    >
+                                                      <span
+                                                        className="c7 c8"
+                                                      >
+                                                        <AVClub
+                                                          aria-label="TheAVClub avatar"
+                                                          height="64"
+                                                          viewBox="0 0 64 64"
+                                                          width="64"
+                                                          xmlns="http://www.w3.org/2000/svg"
+                                                        >
+                                                          <svg
+                                                            aria-label="TheAVClub avatar"
+                                                            height="64"
+                                                            viewBox="0 0 64 64"
+                                                            width="64"
+                                                            xmlns="http://www.w3.org/2000/svg"
+                                                          >
+                                                            <g
+                                                              fill="none"
+                                                              fillRule="evenodd"
+                                                            >
+                                                              <path
+                                                                d="M0 64h64V0H0"
+                                                                fill="#1C263C"
+                                                              />
+                                                              <path
+                                                                d="M42.66 49.29l-14.8-32.24 7.05.05 7.6 17.92 7.73-17.78 6.48.05H57l-14.34 32zM22.38 32.24l3.38 7.62-7.04-.14 3.66-7.48zM7 48.91l6.82.14 1.88-4.07 12.87.26 1.6 3.94 6.78.06L22.68 17 7 48.9z"
+                                                                fill="#FFF"
+                                                              />
+                                                            </g>
+                                                          </svg>
+                                                        </AVClub>
+                                                      </span>
+                                                    </StyledComponent>
+                                                  </blog-avatar__BlogAvatarWrapper>
+                                                </BlogAvatar>
+                                              </span>
+                                            </StyledComponent>
+                                          </native-share-label__AvatarWrapper>
+                                          <native-share-label__Label>
+                                            <StyledComponent
+                                              forwardedComponent={
+                                                Object {
+                                                  "$$typeof": Symbol(react.forward_ref),
+                                                  "attrs": Array [],
+                                                  "componentStyle": ComponentStyle {
+                                                    "componentId": "native-share-label__Label-c27kfy-7",
+                                                    "isStatic": false,
+                                                    "lastClassName": "hsZSLG",
+                                                    "rules": Array [
+                                                      [Function],
+                                                      " ",
+                                                      [Function],
+                                                      ";",
+                                                    ],
+                                                  },
+                                                  "displayName": "native-share-label__Label",
+                                                  "foldedComponentIds": Array [],
+                                                  "render": [Function],
+                                                  "styledComponentId": "native-share-label__Label-c27kfy-7",
+                                                  "target": "span",
+                                                  "toString": [Function],
+                                                  "warnTooManyClasses": [Function],
+                                                  "withComponent": [Function],
+                                                }
+                                              }
+                                              forwardedRef={null}
+                                            >
+                                              <span
+                                                className=""
+                                              >
+                                                View on The A.V. Club
+                                              </span>
+                                            </StyledComponent>
+                                          </native-share-label__Label>
+                                        </div>
+                                      </StyledComponent>
+                                    </native-share-label__LabelWrapper>
+                                  </ThemeProvider>
+                                </EnsureDefaultTheme>
+                              </NativeShareLabel>
+                            </div>
+                          </StyledComponent>
+                        </trending-item__BlogLabel>
+                        <trending-item__Headline
+                          dangerouslySetInnerHTML={
+                            Object {
+                              "__html": "It turns out that people don&#39;t really want to spend $1,000 on an iPhone<em></em>",
+                            }
+                          }
+                        >
+                          <StyledComponent
+                            dangerouslySetInnerHTML={
+                              Object {
+                                "__html": "It turns out that people don&#39;t really want to spend $1,000 on an iPhone<em></em>",
+                              }
+                            }
+                            forwardedComponent={
+                              Object {
+                                "$$typeof": Symbol(react.forward_ref),
+                                "attrs": Array [],
+                                "componentStyle": ComponentStyle {
+                                  "componentId": "c9",
+                                  "isStatic": false,
+                                  "lastClassName": "c10",
+                                  "rules": Array [
+                                    "color:",
+                                    [Function],
+                                    ";margin:10px 0 1px;font-size:20px;line-height:1.2;font-family:",
+                                    [Function],
+                                    ";word-break:break-word;",
+                                  ],
+                                },
+                                "displayName": "trending-item__Headline",
+                                "foldedComponentIds": Array [],
+                                "render": [Function],
+                                "styledComponentId": "c9",
+                                "target": "h4",
+                                "toString": [Function],
+                                "warnTooManyClasses": [Function],
+                                "withComponent": [Function],
+                              }
+                            }
+                            forwardedRef={null}
+                          >
+                            <h4
+                              className="c9 c10"
+                              dangerouslySetInnerHTML={
+                                Object {
+                                  "__html": "It turns out that people don&#39;t really want to spend $1,000 on an iPhone<em></em>",
+                                }
+                              }
+                            />
+                          </StyledComponent>
+                        </trending-item__Headline>
+                        <div>
+                          <trending-item__MetaItem>
+                            <StyledComponent
+                              forwardedComponent={
+                                Object {
+                                  "$$typeof": Symbol(react.forward_ref),
+                                  "attrs": Array [],
+                                  "componentStyle": ComponentStyle {
+                                    "componentId": "trending-item__MetaItem-sc-15qf33u-3",
+                                    "isStatic": false,
+                                    "lastClassName": "c11",
+                                    "rules": Array [
+                                      "font-size:15px;line-height:17px;color:",
+                                      [Function],
+                                      ";strong{color:",
+                                      [Function],
+                                      ";}",
+                                      "display:inline;margin-right:15px;",
+                                    ],
+                                  },
+                                  "displayName": "trending-item__MetaItem",
+                                  "foldedComponentIds": Array [
+                                    "trending-item__Meta-sc-15qf33u-2",
+                                  ],
+                                  "render": [Function],
+                                  "styledComponentId": "trending-item__MetaItem-sc-15qf33u-3",
+                                  "target": "div",
+                                  "toString": [Function],
+                                  "warnTooManyClasses": [Function],
+                                  "withComponent": [Function],
+                                }
+                              }
+                              forwardedRef={null}
+                            >
+                              <div
+                                className="c11"
+                              >
+                                <strong>
+                                  Sam Barsanti
+                                </strong>
+                              </div>
+                            </StyledComponent>
+                          </trending-item__MetaItem>
+                          <trending-item__PublishTime>
+                            <StyledComponent
+                              forwardedComponent={
+                                Object {
+                                  "$$typeof": Symbol(react.forward_ref),
+                                  "attrs": Array [],
+                                  "componentStyle": ComponentStyle {
+                                    "componentId": "trending-item__PublishTime-sc-15qf33u-6",
+                                    "isStatic": false,
+                                    "lastClassName": "c12",
+                                    "rules": Array [
+                                      "font-size:13px;text-transform:none;color:",
+                                      [Function],
+                                      ";margin-top:4px;",
+                                    ],
+                                  },
+                                  "displayName": "trending-item__PublishTime",
+                                  "foldedComponentIds": Array [],
+                                  "render": [Function],
+                                  "styledComponentId": "trending-item__PublishTime-sc-15qf33u-6",
+                                  "target": "time",
+                                  "toString": [Function],
+                                  "warnTooManyClasses": [Function],
+                                  "withComponent": [Function],
+                                }
+                              }
+                              forwardedRef={null}
+                            >
+                              <time
+                                className="c12"
+                              >
+                                Just now
+                              </time>
+                            </StyledComponent>
+                          </trending-item__PublishTime>
+                        </div>
+                      </div>
+                    </StyledComponent>
+                  </trending-item__ReelFeature>
+                </a>
+              </StyledComponent>
+            </link__Anchor>
+          </Link>
+        </StyledComponent>
+      </trending-item__LinkContainer>
+    </ThemeProvider>
+  </EnsureDefaultTheme>
+</TrendingItem>
+`;

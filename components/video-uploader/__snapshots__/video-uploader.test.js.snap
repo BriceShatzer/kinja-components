@@ -1,0 +1,87 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<VideoUploader /> should render with file selected 1`] = `
+<Fragment>
+  <EnsureDefaultTheme>
+    <video-uploader__EditorWrapper>
+      <ProgressIndicator
+        isErrored={false}
+        isFinished={false}
+        isUploaded={false}
+        message="Your video is uploading.
+Add more info about it in the meantime!"
+        onCancelClick={[Function]}
+        onEditClick={[Function]}
+        onRetryClick={[Function]}
+        percent={0}
+      />
+    </video-uploader__EditorWrapper>
+  </EnsureDefaultTheme>
+  <Portal
+    containerInfo={<div />}
+  >
+    <Modal
+      fullscreen={true}
+      isOpen={true}
+      onClose={[Function]}
+      scrollable={true}
+    >
+      <VideoMetadataForm
+        enableCaptionUpload={false}
+        getPrograms={[Function]}
+        initialFormValues={null}
+        isErrored={false}
+        isFinished={false}
+        message="Your video is uploading.
+Add more info about it in the meantime!"
+        onCancel={[Function]}
+        onProgramError={[Function]}
+        onSubmit={[Function]}
+      />
+    </Modal>
+  </Portal>
+</Fragment>
+`;
+
+exports[`<VideoUploader /> should render with file selector 1`] = `
+<Fragment>
+  <EnsureDefaultTheme>
+    <video-uploader__EditorWrapper>
+      <ProgressIndicator
+        isErrored={false}
+        isFinished={false}
+        isUploaded={false}
+        message="Your video is uploading.
+Add more info about it in the meantime!"
+        onCancelClick={[Function]}
+        onEditClick={[Function]}
+        onRetryClick={[Function]}
+        percent={0}
+      />
+    </video-uploader__EditorWrapper>
+  </EnsureDefaultTheme>
+  <Portal
+    containerInfo={<div />}
+  >
+    <Modal
+      fullscreen={true}
+      isOpen={true}
+      onClose={[Function]}
+      scrollable={true}
+    >
+      <VideoMetadataForm
+        enableCaptionUpload={false}
+        getPrograms={[Function]}
+        initialFormValues={null}
+        isErrored={false}
+        isFinished={false}
+        message="Your video is uploading.
+Add more info about it in the meantime!"
+        onCancel={[Function]}
+        onProgramError={[Function]}
+        onSubmit={[Function]}
+      />
+    </Modal>
+  </Portal>
+</Fragment>
+`;

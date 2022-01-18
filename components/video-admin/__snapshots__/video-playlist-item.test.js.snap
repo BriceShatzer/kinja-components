@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<VideoPlaylistItem /> should render by default 1`] = `
+<VideoPlaylistItem
+  count={2}
+  dragEvents={null}
+  index={0}
+  length={260}
+  metaSource="Video"
+  onMoveItemClick={[Function]}
+  onRemoveClick={[Function]}
+  onToggleMetaSourceClick={[Function]}
+  poster={
+    Object {
+      "format": "jpg",
+      "frozenFormat": "jpg",
+      "id": "igfq6s2z5hywc5yp3xrg",
+      "isAnimated": false,
+    }
+  }
+  title="This Video Is Really Good"
+  uploadTime="2019-10-31T13:30:00"
+  videoId="1"
+/>
+`;

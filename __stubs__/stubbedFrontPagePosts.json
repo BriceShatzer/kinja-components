@@ -1,0 +1,5354 @@
+{
+	"items": [
+		{
+			"originalProps": {
+				"id": "1831626330",
+				"headline": "This Robot Doesn&#39;t Care If You Want to Buy It, But Maybe That&#39;s Why It&#39;ll Succeed",
+				"body": [
+					{
+						"id": "ndjpofhdtln5canjv0eh",
+						"format": "jpg",
+						"width": 4680,
+						"height": 2632,
+						"alignment": "Bleed",
+						"lightbox": true,
+						"caption": [],
+						"attribution": [
+							{
+								"label": "Photo",
+								"credit": [
+									{
+										"styles": [],
+										"value": "Victoria Song",
+										"type": "Text"
+									}
+								],
+								"source": [
+									{
+										"styles": [],
+										"value": "Gizmodo",
+										"type": "Text"
+									}
+								]
+							}
+						],
+						"syndicationRights": false,
+						"altText": null,
+						"type": "Image"
+					},
+					{
+						"value": [
+							{
+								"type": "Text",
+								"value": "Home robots had a ",
+								"styles": []
+							},
+							{
+								"reference": "https://gizmodo.com/consumer-robots-had-a-terrible-horrible-no-good-very-1830832094",
+								"value": [
+									{
+										"type": "Text",
+										"value": "bad 2018",
+										"styles": []
+									}
+								],
+								"type": "Link"
+							},
+							{
+								"type": "Text",
+								"value": ", and compared to previous years, they’re not as visible on the ground at CES 2019, too. The robots that haven’t bit the dust tend to be of the “teach kids how to code” variety, or conceptual bots like the laundry folding ",
+								"styles": []
+							},
+							{
+								"reference": "https://gizmodo.com/you-probably-dont-need-a-laundry-folding-machine-1780057188",
+								"value": [
+									{
+										"type": "Text",
+										"value": "FoldiMate",
+										"styles": []
+									}
+								],
+								"type": "Link"
+							},
+							{
+								"type": "Text",
+								"value": " that at this point are more CES perennials than likely consumer products.",
+								"styles": []
+							}
+						],
+						"containers": [],
+						"type": "Paragraph"
+					},
+					{
+						"value": [
+							{
+								"type": "Text",
+								"value": "There are a lot of reasons why consumer bots fail, but it boils down to the fact they’re too expensive for what they can do—even if they’re very cute. Some, like ",
+								"styles": []
+							},
+							{
+								"reference": "https://gizmodo.com/this-japanese-robot-is-as-cute-as-it-is-soulless-1831228466",
+								"value": [
+									{
+										"type": "Text",
+										"value": "Lovot",
+										"styles": []
+									}
+								],
+								"type": "Link"
+							},
+							{
+								"type": "Text",
+								"value": ", lean into their uselessness. (When I saw Lovot at CES, I asked what it does. A spokesperson told me, “Essentially nothing.”) Still, robot companies at CES are generally hoping to generate enough interest for someone to buy their products. So I was curious about Misty Robotics—precisely because it ’s not interested in consumers at all.",
+								"styles": []
+							}
+						],
+						"containers": [],
+						"type": "Paragraph"
+					},
+					{
+						"value": [
+							{
+								"type": "Text",
+								"value": "Whereas most robots at CES are prototypes of a finished product, Misty is a robotics platform. It’s a shell. There’s no set thing that it does and no set personality. I couldn’t tell you what Misty is supposed to do, and honestly, neither can Misty Robotics. That’s because Misty isn’t so much a robot as a robotics platform.",
+								"styles": []
+							}
+						],
+						"containers": [],
+						"type": "Paragraph"
+					},
+					{
+						"id": "aer6ef0ei9ultbcsjcu9",
+						"format": "jpg",
+						"width": 4680,
+						"height": 2632,
+						"alignment": "Bleed",
+						"lightbox": true,
+						"caption": [
+							{
+								"type": "Text",
+								"value": "Ok, it’s pretty cute",
+								"styles": []
+							}
+						],
+						"attribution": [
+							{
+								"label": "Photo",
+								"credit": [
+									{
+										"styles": [],
+										"value": "Victoria Song",
+										"type": "Text"
+									}
+								],
+								"source": [
+									{
+										"styles": [],
+										"value": "Gizmodo",
+										"type": "Text"
+									}
+								]
+							}
+						],
+						"syndicationRights": false,
+						"altText": null,
+						"type": "Image"
+					},
+					{
+						"value": [
+							{
+								"type": "Text",
+								"value": "Misty Robotics is more interested in providing a tool for developers. The idea is to ",
+								"styles": []
+							},
+							{
+								"type": "Text",
+								"value": "take",
+								"styles": []
+							},
+							{
+								"type": "Text",
+								"value": " robots from the hands of the niche community of roboticists, and put them into the ",
+								"styles": []
+							},
+							{
+								"type": "Text",
+								"value": "hands",
+								"styles": []
+							},
+							{
+								"type": "Text",
+								"value": " programmers. That way, by the time you or I can buy one of their robots, there’ll be a built-in database of skills so it can, you know, actually do things.",
+								"styles": []
+							}
+						],
+						"containers": [],
+						"type": "Paragraph"
+					},
+					{
+						"value": [
+							{
+								"type": "Text",
+								"value": "“Right now, we’re about building up our community,” said founder Ian Bernstein, who also co-created Sphero. “It’s about opening up robots to anybody who can program. We decided to crowdfund because we wanted to be very high-touch with our community in the early years.”",
+								"styles": []
+							},
+							{
+								"type": "LineBreak"
+							}
+						],
+						"containers": [],
+						"type": "Paragraph"
+					},
+					{
+						"value": [
+							{
+								"type": "Text",
+								"value": "This rings alarm bells because of the recent collapse of ",
+								"styles": []
+							},
+							{
+								"reference": "https://gizmodo.com/the-worlds-first-family-robot-could-be-like-hal-in-your-1605482309",
+								"value": [
+									{
+										"type": "Text",
+										"value": "Jibo",
+										"styles": []
+									}
+								],
+								"type": "Link"
+							},
+							{
+								"type": "Text",
+								"value": ", another crowdfunded home robot with an enthused community that ultimately fell on its twerking ass. Three years after launching its campaign, delays led to miffed backers. When ",
+								"styles": []
+							},
+							{
+								"type": "Text",
+								"value": "Jibo",
+								"styles": []
+							},
+							{
+								"type": "Text",
+								"value": " finally launched in 2017, it was very cute, about as functional as an Amazon Echo, and way too expensive at $800.",
+								"styles": []
+							}
+						],
+						"containers": [],
+						"type": "Paragraph"
+					},
+					{
+						"value": [
+							{
+								"type": "Text",
+								"value": "So, while it was a clever idea to target developers only, I remained skeptical that Misty Robotics and Bernstein had created something that wasn’t doomed to the same fate as every consumer bot that came before it. That is until I saw it in action.",
+								"styles": []
+							}
+						],
+						"containers": [],
+						"type": "Paragraph"
+					},
+					{
+						"value": [
+							{
+								"type": "Text",
+								"value": "I was told to sit in a chair. The robot was programmed to recognize one user, who was decidedly not me. Once it saw my face, it set off an intruder alert, told me to leave, sent a text alert, took a picture of my face, and then printed a photo with the words “BUSTED” over my face.",
+								"styles": []
+							}
+						],
+						"containers": [],
+						"type": "Paragraph"
+					},
+					{
+						"value": [
+							{
+								"type": "Text",
+								"value": "In the next demo, Misty was set to roam around the hotel room and monitor temperature levels. Bernstein then stuck a space heater next to the robot, which then sent the data to a screen and triggered an alarm that temperatures were too high. I could easily see this being useful in a factory or research lab setting, where controlling temperatures can be vital for safety.",
+								"styles": []
+							}
+						],
+						"containers": [],
+						"type": "Paragraph"
+					},
+					{
+						"id": "xjjocttmtdtzq4jhzriz",
+						"format": "jpg",
+						"width": 4680,
+						"height": 2632,
+						"alignment": "Bleed",
+						"lightbox": true,
+						"caption": [
+							{
+								"type": "Text",
+								"value": "Misty telling me I can eff right the hell off. ",
+								"styles": []
+							}
+						],
+						"attribution": [
+							{
+								"label": "Photo",
+								"credit": [
+									{
+										"styles": [],
+										"value": "Victoria Song",
+										"type": "Text"
+									}
+								],
+								"source": [
+									{
+										"styles": [],
+										"value": "Gizmodo",
+										"type": "Text"
+									}
+								]
+							}
+						],
+						"syndicationRights": false,
+						"altText": null,
+						"type": "Image"
+					},
+					{
+						"value": [
+							{
+								"type": "Text",
+								"value": "Both these demos are substantially more useful, customizable, and practical than I’ve seen in any robot demo thus far. When you add in the fact that Misty is a decently cute, modular robot, I have to say I was cautiously optimistic that perhaps this could be a viable approach toward a future where we actually live with robots.",
+								"styles": []
+							}
+						],
+						"containers": [],
+						"type": "Paragraph"
+					},
+					{
+						"value": [
+							{
+								"type": "Text",
+								"value": "Still, consumer robots have burned me before, and I’m still not 100 percent convinced that Misty is the robot that will end up in everyone’s homes. Crowdfunding is heavily dependent on a community, and communities can be fickle. Plus, on top of delivering a product worth buying, the other challenge that routinely fells robotics firms is securing consistent funding. I’m not convinced relying on developers to provide that cash flow is all that sustainable.",
+								"styles": []
+							}
+						],
+						"containers": [],
+						"type": "Paragraph"
+					},
+					{
+						"value": [
+							{
+								"type": "Text",
+								"value": "In the short term, Misty Robotics is only aiming at shipping a few dozen units to backers. I have questions about scalability and logistics for the long-term, but for now, I’m content to see that maybe the home robot dream isn’t totally dead.",
+								"styles": []
+							}
+						],
+						"containers": [],
+						"type": "Paragraph"
+					},
+					{
+						"value": [
+							{
+								"type": "Text",
+								"value": "Follow along with all of our CES 2019 coverage ",
+								"styles": [
+									"Bold",
+									"Italic"
+								]
+							},
+							{
+								"reference": "https://gizmodo.com/tag/ces-2019",
+								"value": [
+									{
+										"type": "Text",
+										"value": "here",
+										"styles": [
+											"Bold",
+											"Italic"
+										]
+									}
+								],
+								"type": "Link"
+							},
+							{
+								"type": "Text",
+								"value": ".",
+								"styles": [
+									"Bold",
+									"Italic"
+								]
+							}
+						],
+						"icon": null,
+						"alignment": "Left",
+						"level": 3,
+						"containers": [],
+						"type": "Header"
+					}
+				],
+				"mainMedia": null,
+				"largeOnStream": false,
+				"images": [
+					{
+						"uid": "ndjpofhdtln5canjv0eh",
+						"originalWidth": 4680,
+						"originalHeight": 2632,
+						"format": "jpg",
+						"width": 4680,
+						"height": 2632,
+						"id": "ndjpofhdtln5canjv0eh",
+						"frozenFormat": "jpg"
+					},
+					{
+						"uid": "aer6ef0ei9ultbcsjcu9",
+						"originalWidth": 4680,
+						"originalHeight": 2632,
+						"format": "jpg",
+						"width": 4680,
+						"height": 2632,
+						"id": "aer6ef0ei9ultbcsjcu9",
+						"frozenFormat": "jpg"
+					},
+					{
+						"uid": "xjjocttmtdtzq4jhzriz",
+						"originalWidth": 4680,
+						"originalHeight": 2632,
+						"format": "jpg",
+						"width": 4680,
+						"height": 2632,
+						"id": "xjjocttmtdtzq4jhzriz",
+						"frozenFormat": "jpg"
+					}
+				],
+				"videos": [],
+				"publishTimeMillis": 1547129760330,
+				"lastUpdateTimeMillis": 1547129815924,
+				"timezone": "America/New_York",
+				"blogIds": [
+					"4",
+					"1637016442"
+				],
+				"defaultBlogId": "4",
+				"parentId": null,
+				"starterId": "1831626330",
+				"parentAuthorId": null,
+				"salesAvatar": null,
+				"sponsored": false,
+				"sharedUrl": null,
+				"status": "PUBLISHED",
+				"authorId": "5876237249238337793",
+				"authorIds": [
+					"5876237249238337793"
+				],
+				"ownerId": null,
+				"byline": {
+					"byline": "",
+					"show": true
+				},
+				"properties": "{\"headTitleTag\":\"Misty Robotics Thinks Devs, Not Consumers Are What Bots Need\",\"sharingMainImageSetInDistTools\":true,\"socialHeadline\":\"\",\"socialDescription\":\"\",\"dropCapEnabled\":false,\"autoRepostDisabled\":false,\"impactHeader\":{}}",
+				"allowReplies": true,
+				"showAuthorBio": true,
+				"approved": true,
+				"author": null,
+				"authors": [],
+				"tags": [
+					{
+						"canonical": "ces2019",
+						"urlName": "ces-2019",
+						"displayName": "ces 2019"
+					},
+					{
+						"canonical": "ces",
+						"urlName": "ces",
+						"displayName": "ces"
+					},
+					{
+						"canonical": "robots",
+						"urlName": "robots",
+						"displayName": "robots"
+					},
+					{
+						"canonical": "mistyrobotics",
+						"urlName": "misty-robotics",
+						"displayName": "misty robotics"
+					},
+					{
+						"canonical": "robotics",
+						"urlName": "robotics",
+						"displayName": "robotics"
+					}
+				],
+				"replyCount": 0,
+				"likes": 1,
+				"storyTypeId": 1347,
+				"storyType": {
+					"id": 1347,
+					"blogId": 4,
+					"canonical": "robots",
+					"title": "Robots",
+					"content": "Standard",
+					"description": "Robots & Tech, Science, and Culture News, Photos, Videos & More."
+				},
+				"parent": null,
+				"isFeatured": false,
+				"isVideo": false,
+				"featuredMedia": null,
+				"qaParticipants": null,
+				"qaMembers": null,
+				"relatedModule": {
+					"storyTypes": [],
+					"tags": [],
+					"posts": [
+						{
+							"id": 1830832094
+						},
+						{
+							"id": 1831228466
+						},
+						{
+							"id": 1780057188
+						},
+						{
+							"id": 1831474589
+						},
+						{
+							"id": 1831159038
+						},
+						{
+							"id": 1831402088
+						}
+					],
+					"latestByStoryType": null
+				},
+				"relatedPosts": [],
+				"links": null,
+				"category": null,
+				"categoryData": null,
+				"subcategory": null,
+				"subcategoryData": null,
+				"permalinkRedirect": null,
+				"permalinkHost": "https://gizmodo.com",
+				"permalinkPath": "/this-robot-doesnt-care-if-you-want-to-buy-it-but-maybe-1831626330",
+				"plaintext": "Home robots had a bad 2018, and compared to previous years, they’re not as visible on the ground at CES 2019, too. The robots that haven’t bit the dust tend to be of the “teach kids how to code” variety, or conceptual bots like the laundry folding FoldiMate that at this point are more CES perennials than likely consumer products.",
+				"customSharingMainImage": {
+					"src": "UNUSED",
+					"isAnimated": false,
+					"id": "ndjpofhdtln5canjv0eh",
+					"width": 800,
+					"height": 449,
+					"format": "jpg",
+					"frozenFormat": "jpg"
+				}
+			},
+			"id": "1831626330",
+			"headline": "This Robot Doesn&#39;t Care If You Want to Buy It, But Maybe That&#39;s Why It&#39;ll Succeed",
+			"body": [
+				{
+					"id": "ndjpofhdtln5canjv0eh",
+					"format": "jpg",
+					"width": 4680,
+					"height": 2632,
+					"alignment": "Bleed",
+					"lightbox": true,
+					"caption": [],
+					"attribution": [
+						{
+							"label": "Photo",
+							"credit": [
+								{
+									"styles": [],
+									"value": "Victoria Song",
+									"type": "Text"
+								}
+							],
+							"source": [
+								{
+									"styles": [],
+									"value": "Gizmodo",
+									"type": "Text"
+								}
+							]
+						}
+					],
+					"syndicationRights": false,
+					"altText": null,
+					"type": "Image"
+				},
+				{
+					"value": [
+						{
+							"type": "Text",
+							"value": "Home robots had a ",
+							"styles": []
+						},
+						{
+							"reference": "https://gizmodo.com/consumer-robots-had-a-terrible-horrible-no-good-very-1830832094",
+							"value": [
+								{
+									"type": "Text",
+									"value": "bad 2018",
+									"styles": []
+								}
+							],
+							"type": "Link"
+						},
+						{
+							"type": "Text",
+							"value": ", and compared to previous years, they’re not as visible on the ground at CES 2019, too. The robots that haven’t bit the dust tend to be of the “teach kids how to code” variety, or conceptual bots like the laundry folding ",
+							"styles": []
+						},
+						{
+							"reference": "https://gizmodo.com/you-probably-dont-need-a-laundry-folding-machine-1780057188",
+							"value": [
+								{
+									"type": "Text",
+									"value": "FoldiMate",
+									"styles": []
+								}
+							],
+							"type": "Link"
+						},
+						{
+							"type": "Text",
+							"value": " that at this point are more CES perennials than likely consumer products.",
+							"styles": []
+						}
+					],
+					"containers": [],
+					"type": "Paragraph"
+				},
+				{
+					"value": [
+						{
+							"type": "Text",
+							"value": "There are a lot of reasons why consumer bots fail, but it boils down to the fact they’re too expensive for what they can do—even if they’re very cute. Some, like ",
+							"styles": []
+						},
+						{
+							"reference": "https://gizmodo.com/this-japanese-robot-is-as-cute-as-it-is-soulless-1831228466",
+							"value": [
+								{
+									"type": "Text",
+									"value": "Lovot",
+									"styles": []
+								}
+							],
+							"type": "Link"
+						},
+						{
+							"type": "Text",
+							"value": ", lean into their uselessness. (When I saw Lovot at CES, I asked what it does. A spokesperson told me, “Essentially nothing.”) Still, robot companies at CES are generally hoping to generate enough interest for someone to buy their products. So I was curious about Misty Robotics—precisely because it ’s not interested in consumers at all.",
+							"styles": []
+						}
+					],
+					"containers": [],
+					"type": "Paragraph"
+				},
+				{
+					"value": [
+						{
+							"type": "Text",
+							"value": "Whereas most robots at CES are prototypes of a finished product, Misty is a robotics platform. It’s a shell. There’s no set thing that it does and no set personality. I couldn’t tell you what Misty is supposed to do, and honestly, neither can Misty Robotics. That’s because Misty isn’t so much a robot as a robotics platform.",
+							"styles": []
+						}
+					],
+					"containers": [],
+					"type": "Paragraph"
+				},
+				{
+					"id": "aer6ef0ei9ultbcsjcu9",
+					"format": "jpg",
+					"width": 4680,
+					"height": 2632,
+					"alignment": "Bleed",
+					"lightbox": true,
+					"caption": [
+						{
+							"type": "Text",
+							"value": "Ok, it’s pretty cute",
+							"styles": []
+						}
+					],
+					"attribution": [
+						{
+							"label": "Photo",
+							"credit": [
+								{
+									"styles": [],
+									"value": "Victoria Song",
+									"type": "Text"
+								}
+							],
+							"source": [
+								{
+									"styles": [],
+									"value": "Gizmodo",
+									"type": "Text"
+								}
+							]
+						}
+					],
+					"syndicationRights": false,
+					"altText": null,
+					"type": "Image"
+				},
+				{
+					"value": [
+						{
+							"type": "Text",
+							"value": "Misty Robotics is more interested in providing a tool for developers. The idea is to ",
+							"styles": []
+						},
+						{
+							"type": "Text",
+							"value": "take",
+							"styles": []
+						},
+						{
+							"type": "Text",
+							"value": " robots from the hands of the niche community of roboticists, and put them into the ",
+							"styles": []
+						},
+						{
+							"type": "Text",
+							"value": "hands",
+							"styles": []
+						},
+						{
+							"type": "Text",
+							"value": " programmers. That way, by the time you or I can buy one of their robots, there’ll be a built-in database of skills so it can, you know, actually do things.",
+							"styles": []
+						}
+					],
+					"containers": [],
+					"type": "Paragraph"
+				},
+				{
+					"value": [
+						{
+							"type": "Text",
+							"value": "“Right now, we’re about building up our community,” said founder Ian Bernstein, who also co-created Sphero. “It’s about opening up robots to anybody who can program. We decided to crowdfund because we wanted to be very high-touch with our community in the early years.”",
+							"styles": []
+						},
+						{
+							"type": "LineBreak"
+						}
+					],
+					"containers": [],
+					"type": "Paragraph"
+				},
+				{
+					"value": [
+						{
+							"type": "Text",
+							"value": "This rings alarm bells because of the recent collapse of ",
+							"styles": []
+						},
+						{
+							"reference": "https://gizmodo.com/the-worlds-first-family-robot-could-be-like-hal-in-your-1605482309",
+							"value": [
+								{
+									"type": "Text",
+									"value": "Jibo",
+									"styles": []
+								}
+							],
+							"type": "Link"
+						},
+						{
+							"type": "Text",
+							"value": ", another crowdfunded home robot with an enthused community that ultimately fell on its twerking ass. Three years after launching its campaign, delays led to miffed backers. When ",
+							"styles": []
+						},
+						{
+							"type": "Text",
+							"value": "Jibo",
+							"styles": []
+						},
+						{
+							"type": "Text",
+							"value": " finally launched in 2017, it was very cute, about as functional as an Amazon Echo, and way too expensive at $800.",
+							"styles": []
+						}
+					],
+					"containers": [],
+					"type": "Paragraph"
+				},
+				{
+					"value": [
+						{
+							"type": "Text",
+							"value": "So, while it was a clever idea to target developers only, I remained skeptical that Misty Robotics and Bernstein had created something that wasn’t doomed to the same fate as every consumer bot that came before it. That is until I saw it in action.",
+							"styles": []
+						}
+					],
+					"containers": [],
+					"type": "Paragraph"
+				},
+				{
+					"value": [
+						{
+							"type": "Text",
+							"value": "I was told to sit in a chair. The robot was programmed to recognize one user, who was decidedly not me. Once it saw my face, it set off an intruder alert, told me to leave, sent a text alert, took a picture of my face, and then printed a photo with the words “BUSTED” over my face.",
+							"styles": []
+						}
+					],
+					"containers": [],
+					"type": "Paragraph"
+				},
+				{
+					"value": [
+						{
+							"type": "Text",
+							"value": "In the next demo, Misty was set to roam around the hotel room and monitor temperature levels. Bernstein then stuck a space heater next to the robot, which then sent the data to a screen and triggered an alarm that temperatures were too high. I could easily see this being useful in a factory or research lab setting, where controlling temperatures can be vital for safety.",
+							"styles": []
+						}
+					],
+					"containers": [],
+					"type": "Paragraph"
+				},
+				{
+					"id": "xjjocttmtdtzq4jhzriz",
+					"format": "jpg",
+					"width": 4680,
+					"height": 2632,
+					"alignment": "Bleed",
+					"lightbox": true,
+					"caption": [
+						{
+							"type": "Text",
+							"value": "Misty telling me I can eff right the hell off. ",
+							"styles": []
+						}
+					],
+					"attribution": [
+						{
+							"label": "Photo",
+							"credit": [
+								{
+									"styles": [],
+									"value": "Victoria Song",
+									"type": "Text"
+								}
+							],
+							"source": [
+								{
+									"styles": [],
+									"value": "Gizmodo",
+									"type": "Text"
+								}
+							]
+						}
+					],
+					"syndicationRights": false,
+					"altText": null,
+					"type": "Image"
+				},
+				{
+					"value": [
+						{
+							"type": "Text",
+							"value": "Both these demos are substantially more useful, customizable, and practical than I’ve seen in any robot demo thus far. When you add in the fact that Misty is a decently cute, modular robot, I have to say I was cautiously optimistic that perhaps this could be a viable approach toward a future where we actually live with robots.",
+							"styles": []
+						}
+					],
+					"containers": [],
+					"type": "Paragraph"
+				},
+				{
+					"value": [
+						{
+							"type": "Text",
+							"value": "Still, consumer robots have burned me before, and I’m still not 100 percent convinced that Misty is the robot that will end up in everyone’s homes. Crowdfunding is heavily dependent on a community, and communities can be fickle. Plus, on top of delivering a product worth buying, the other challenge that routinely fells robotics firms is securing consistent funding. I’m not convinced relying on developers to provide that cash flow is all that sustainable.",
+							"styles": []
+						}
+					],
+					"containers": [],
+					"type": "Paragraph"
+				},
+				{
+					"value": [
+						{
+							"type": "Text",
+							"value": "In the short term, Misty Robotics is only aiming at shipping a few dozen units to backers. I have questions about scalability and logistics for the long-term, but for now, I’m content to see that maybe the home robot dream isn’t totally dead.",
+							"styles": []
+						}
+					],
+					"containers": [],
+					"type": "Paragraph"
+				},
+				{
+					"value": [
+						{
+							"type": "Text",
+							"value": "Follow along with all of our CES 2019 coverage ",
+							"styles": [
+								"Bold",
+								"Italic"
+							]
+						},
+						{
+							"reference": "https://gizmodo.com/tag/ces-2019",
+							"value": [
+								{
+									"type": "Text",
+									"value": "here",
+									"styles": [
+										"Bold",
+										"Italic"
+									]
+								}
+							],
+							"type": "Link"
+						},
+						{
+							"type": "Text",
+							"value": ".",
+							"styles": [
+								"Bold",
+								"Italic"
+							]
+						}
+					],
+					"icon": null,
+					"alignment": "Left",
+					"level": 3,
+					"containers": [],
+					"type": "Header"
+				}
+			],
+			"mainMedia": null,
+			"largeOnStream": false,
+			"images": [
+				{
+					"uid": "ndjpofhdtln5canjv0eh",
+					"originalWidth": 4680,
+					"originalHeight": 2632,
+					"format": "jpg",
+					"width": 4680,
+					"height": 2632,
+					"id": "ndjpofhdtln5canjv0eh",
+					"frozenFormat": "jpg"
+				},
+				{
+					"uid": "aer6ef0ei9ultbcsjcu9",
+					"originalWidth": 4680,
+					"originalHeight": 2632,
+					"format": "jpg",
+					"width": 4680,
+					"height": 2632,
+					"id": "aer6ef0ei9ultbcsjcu9",
+					"frozenFormat": "jpg"
+				},
+				{
+					"uid": "xjjocttmtdtzq4jhzriz",
+					"originalWidth": 4680,
+					"originalHeight": 2632,
+					"format": "jpg",
+					"width": 4680,
+					"height": 2632,
+					"id": "xjjocttmtdtzq4jhzriz",
+					"frozenFormat": "jpg"
+				}
+			],
+			"videos": [],
+			"lastUpdateTimeMillis": 1547129815924,
+			"timezone": "America/New_York",
+			"blogIds": [
+				"4",
+				"1637016442"
+			],
+			"defaultBlogId": "4",
+			"parentId": null,
+			"starterId": "1831626330",
+			"parentAuthorId": null,
+			"salesAvatar": null,
+			"sponsored": false,
+			"sharedUrl": null,
+			"status": "PUBLISHED",
+			"authorId": "5876237249238337793",
+			"authorIds": [
+				"5876237249238337793"
+			],
+			"ownerId": null,
+			"bylineProperties": {
+				"byline": "",
+				"show": true
+			},
+			"properties": "{\"headTitleTag\":\"Misty Robotics Thinks Devs, Not Consumers Are What Bots Need\",\"sharingMainImageSetInDistTools\":true,\"socialHeadline\":\"\",\"socialDescription\":\"\",\"dropCapEnabled\":false,\"autoRepostDisabled\":false,\"impactHeader\":{}}",
+			"allowReplies": true,
+			"showAuthorBio": true,
+			"approved": true,
+			"author": null,
+			"authors": [],
+			"tags": [
+				{
+					"canonical": "ces2019",
+					"urlName": "ces-2019",
+					"displayName": "ces 2019"
+				},
+				{
+					"canonical": "ces",
+					"urlName": "ces",
+					"displayName": "ces"
+				},
+				{
+					"canonical": "robots",
+					"urlName": "robots",
+					"displayName": "robots"
+				},
+				{
+					"canonical": "mistyrobotics",
+					"urlName": "misty-robotics",
+					"displayName": "misty robotics"
+				},
+				{
+					"canonical": "robotics",
+					"urlName": "robotics",
+					"displayName": "robotics"
+				}
+			],
+			"replyCount": 0,
+			"likes": 1,
+			"storyTypeId": 1347,
+			"storyType": {
+				"id": 1347,
+				"blogId": 4,
+				"canonical": "robots",
+				"title": "Robots",
+				"content": "Standard",
+				"description": "Robots & Tech, Science, and Culture News, Photos, Videos & More."
+			},
+			"parent": null,
+			"isFeatured": false,
+			"isVideo": false,
+			"featuredMedia": null,
+			"qaParticipants": [],
+			"qaMembers": [],
+			"staffIncluded": false,
+			"relatedModule": {
+				"storyTypes": [],
+				"tags": [],
+				"posts": [
+					{
+						"id": 1830832094
+					},
+					{
+						"id": 1831228466
+					},
+					{
+						"id": 1780057188
+					},
+					{
+						"id": 1831474589
+					},
+					{
+						"id": 1831159038
+					},
+					{
+						"id": 1831402088
+					}
+				],
+				"latestByStoryType": null
+			},
+			"relatedPosts": [],
+			"links": null,
+			"category": null,
+			"categoryData": null,
+			"subcategory": null,
+			"subcategoryData": null,
+			"permalinkRedirect": null,
+			"plaintext": "Home robots had a bad 2018, and compared to previous years, they’re not as visible on the ground at CES 2019, too. The robots that haven’t bit the dust tend to be of the “teach kids how to code” variety, or conceptual bots like the laundry folding FoldiMate that at this point are more CES perennials than likely consumer products.",
+			"permalinkHost": "https://gizmodo.com",
+			"permalinkPath": "/this-robot-doesnt-care-if-you-want-to-buy-it-but-maybe-1831626330",
+			"publishTimeMillis": 1547129760330,
+			"customSharingMainImage": {
+				"src": "UNUSED",
+				"isAnimated": false,
+				"id": "ndjpofhdtln5canjv0eh",
+				"width": 800,
+				"height": 449,
+				"format": "jpg",
+				"frozenFormat": "jpg"
+			},
+			"resolvedReviewScore": null
+		},
+		{
+			"originalProps": {
+				"id": "1825103055",
+				"headline": "These $60 Computer Speakers Look Great, and Even Include Bluetooth",
+				"body": [
+					{
+						"id": "R3REGwYsTsw",
+						"thumbnail": {
+							"id": "eoe8ltzbrzdlbjigaf8p",
+							"format": "jpg"
+						},
+						"start": 0,
+						"alignment": "Bleed",
+						"caption": [
+							{
+								"reference": "https://www.amazon.com/Logitech-Speakers-premium-computers-Bluetooth-enabled/dp/B0745JLDR1/",
+								"value": [
+									{
+										"type": "Text",
+										"value": "Logitech MX Sound Computer Speaker System",
+										"styles": []
+									}
+								],
+								"type": "Link"
+							},
+							{
+								"type": "Text",
+								"value": " | $60",
+								"styles": []
+							},
+							{
+								"type": "Text",
+								"value": " | Amazon",
+								"styles": []
+							}
+						],
+						"type": "YoutubeVideo"
+					},
+					{
+						"value": [
+							{
+								"type": "Text",
+								"value": "If you’re still listening to your computer through its built-in speakers, stop torturing yourself and buy ",
+								"styles": []
+							},
+							{
+								"reference": "https://www.amazon.com/Logitech-Speakers-premium-computers-Bluetooth-enabled/dp/B0745JLDR1/",
+								"value": [
+									{
+										"type": "Text",
+										"value": "Logitech’s MX Sound 2.0 audio system",
+										"styles": []
+									}
+								],
+								"type": "Link"
+							},
+							{
+								"type": "Text",
+								"value": " for an all-time low ",
+								"styles": []
+							},
+							{
+								"type": "Text",
+								"value": "$60",
+								"styles": []
+							},
+							{
+								"type": "Text",
+								"value": ", or $40",
+								"styles": []
+							},
+							{
+								"type": "Text",
+								"value": " less than usual.",
+								"styles": []
+							},
+							{
+								"type": "LineBreak"
+							}
+						],
+						"containers": [],
+						"type": "Paragraph"
+					},
+					{
+						"value": [
+							{
+								"type": "Text",
+								"value": "In addition to connecting to your PC with a 3.5mm cable, the ",
+								"styles": []
+							},
+							{
+								"reference": "https://www.amazon.com/Logitech-Speakers-premium-computers-Bluetooth-enabled/dp/B0745JLDR1/",
+								"value": [
+									{
+										"type": "Text",
+										"value": "MX Sound",
+										"styles": []
+									}
+								],
+								"type": "Link"
+							},
+							{
+								"type": "Text",
+								"value": " also includes Bluetooth to pair to your phones and tablets, with one-touch switching between devices. And not for nothing, ",
+								"styles": []
+							},
+							{
+								"reference": "https://gear.lifehacker.com/logitechs-mx-sound-speakers-are-all-most-desktops-need-1822210417",
+								"value": [
+									{
+										"type": "Text",
+										"value": "they happen to ",
+										"styles": []
+									},
+									{
+										"type": "Text",
+										"value": "look",
+										"styles": [
+											"Italic"
+										]
+									},
+									{
+										"type": "Text",
+										"value": " way",
+										"styles": []
+									},
+									{
+										"type": "Text",
+										"value": " ",
+										"styles": [
+											"Italic"
+										]
+									},
+									{
+										"type": "Text",
+										"value": "better than most computer speakers",
+										"styles": []
+									}
+								],
+								"type": "Link"
+							},
+							{
+								"type": "Text",
+								"value": ", which matters for something that sits out on your desk all day.",
+								"styles": []
+							}
+						],
+						"containers": [],
+						"type": "Paragraph"
+					},
+					{
+						"url": "https://www.amazon.com/Logitech-Speakers-premium-computers-Bluetooth-enabled/dp/B0745JLDR1/?kinja_price=60",
+						"style": "CommerceCondensed",
+						"type": "LinkPreview"
+					},
+					{
+						"url": "https://gear.lifehacker.com/logitechs-mx-sound-speakers-are-all-most-desktops-need-1822210417",
+						"style": "Normal",
+						"type": "LinkPreview"
+					},
+					{
+						"style": "Line",
+						"containers": [],
+						"type": "HorizontalRule"
+					},
+					{
+						"id": "943711418183974912",
+						"thumbnail": null,
+						"type": "Twitter"
+					},
+					{
+						"alignment": "Center",
+						"hide": true,
+						"title": "Logitech",
+						"text": [],
+						"type": "ReviewBox"
+					}
+				],
+				"mainMedia": null,
+				"largeOnStream": false,
+				"images": [],
+				"videos": [
+					{
+						"id": null,
+						"type": "youtube",
+						"embedCode": null,
+						"height": null,
+						"width": null,
+						"thumbnails": [
+							{
+								"uid": "eoe8ltzbrzdlbjigaf8p",
+								"format": "jpg",
+								"width": 0,
+								"height": 0,
+								"id": "eoe8ltzbrzdlbjigaf8p",
+								"frozenFormat": "jpg"
+							}
+						]
+					}
+				],
+				"publishTimeMillis": 1547128800055,
+				"lastUpdateTimeMillis": 1547128922083,
+				"timezone": "America/New_York",
+				"blogIds": [
+					"86286",
+					"765"
+				],
+				"defaultBlogId": "86286",
+				"parentId": null,
+				"starterId": "1825103055",
+				"parentAuthorId": null,
+				"salesAvatar": null,
+				"sponsored": false,
+				"sharedUrl": null,
+				"status": "PUBLISHED",
+				"authorId": "5727177402741770316",
+				"authorIds": [
+					"5727177402741770316"
+				],
+				"ownerId": null,
+				"byline": {
+					"byline": "",
+					"show": true
+				},
+				"properties": "{\"headTitleTag\":\"\",\"sharingMainImageSetInDistTools\":true,\"hideFromRss\":false,\"socialHeadline\":\"\",\"socialDescription\":\"\",\"dropCapEnabled\":false,\"autoRepostDisabled\":false,\"impactHeader\":{}}",
+				"allowReplies": true,
+				"showAuthorBio": true,
+				"approved": true,
+				"author": null,
+				"authors": [],
+				"tags": [
+					{
+						"canonical": "kinjadeals",
+						"urlName": "kinja-deals",
+						"displayName": "Kinja Deals"
+					},
+					{
+						"canonical": "deals",
+						"urlName": "deals",
+						"displayName": "Deals"
+					},
+					{
+						"canonical": "amazondeals",
+						"urlName": "amazon-deals",
+						"displayName": "Amazon Deals"
+					},
+					{
+						"canonical": "logitechdeals",
+						"urlName": "logitech-deals",
+						"displayName": "Logitech Deals"
+					}
+				],
+				"replyCount": 3,
+				"likes": 1,
+				"storyTypeId": 852,
+				"storyType": {
+					"id": 852,
+					"blogId": 1458353822,
+					"canonical": "tech-deals",
+					"title": "Best Tech Deals",
+					"content": "Standard",
+					"description": "The best tech deals from around the web, updated daily. ",
+					"boilerplate": "The best tech deals from around the web, updated daily. ",
+					"image": {
+						"id": "rv3o0csw3xnmkhe2i0gu",
+						"format": "png",
+						"isAnimated": false,
+						"frozenFormat": "png"
+					}
+				},
+				"parent": null,
+				"repost": {
+					"id": "1792345557",
+					"postId": "1825103055",
+					"blogId": "4",
+					"authorId": "5876237249238321302",
+					"post": null,
+					"blog": null,
+					"author": null,
+					"createTimeMillis": 1547129643932,
+					"repostTimeMillis": 1547129643932,
+					"originalProps": {
+						"id": "1792345557",
+						"postId": "1825103055",
+						"blogId": "4",
+						"authorId": "5876237249238321302",
+						"createTimeMillis": 1547129643932,
+						"repostTimeMillis": 1547129643932
+					}
+				},
+				"isFeatured": false,
+				"isVideo": false,
+				"featuredMedia": null,
+				"qaParticipants": null,
+				"qaMembers": null,
+				"relatedModule": {
+					"storyTypes": [],
+					"tags": [],
+					"posts": [
+						{
+							"id": 1831636362
+						},
+						{
+							"id": 1831636139
+						},
+						{
+							"id": 1831619315
+						}
+					],
+					"latestByStoryType": null
+				},
+				"relatedPosts": [],
+				"links": null,
+				"category": "Audio",
+				"categoryData": {
+					"id": "5035",
+					"canonicalName": "audio",
+					"valueDisplay": "Audio",
+					"parentId": null,
+					"image": null
+				},
+				"subcategory": null,
+				"subcategoryData": null,
+				"permalinkRedirect": null,
+				"permalinkHost": "https://kinjadeals.theinventory.com",
+				"permalinkPath": "/these-discounted-computer-speakers-look-great-and-even-1825103055",
+				"plaintext": "If you’re still listening to your computer through its built-in speakers, stop torturing yourself and buy Logitech’s MX Sound 2.0 audio system for an all-time low $60, or $40 less than usual.",
+				"customSharingMainImage": {
+					"src": "UNUSED",
+					"isAnimated": false,
+					"id": "nyxyg2f1riqet8yntqrf",
+					"width": 800,
+					"height": 450,
+					"format": "jpg",
+					"frozenFormat": "jpg"
+				}
+			},
+			"id": "1825103055",
+			"headline": "These $60 Computer Speakers Look Great, and Even Include Bluetooth",
+			"body": [
+				{
+					"id": "R3REGwYsTsw",
+					"thumbnail": {
+						"id": "eoe8ltzbrzdlbjigaf8p",
+						"format": "jpg"
+					},
+					"start": 0,
+					"alignment": "Bleed",
+					"caption": [
+						{
+							"reference": "https://www.amazon.com/Logitech-Speakers-premium-computers-Bluetooth-enabled/dp/B0745JLDR1/",
+							"value": [
+								{
+									"type": "Text",
+									"value": "Logitech MX Sound Computer Speaker System",
+									"styles": []
+								}
+							],
+							"type": "Link"
+						},
+						{
+							"type": "Text",
+							"value": " | $60",
+							"styles": []
+						},
+						{
+							"type": "Text",
+							"value": " | Amazon",
+							"styles": []
+						}
+					],
+					"type": "YoutubeVideo"
+				},
+				{
+					"value": [
+						{
+							"type": "Text",
+							"value": "If you’re still listening to your computer through its built-in speakers, stop torturing yourself and buy ",
+							"styles": []
+						},
+						{
+							"reference": "https://www.amazon.com/Logitech-Speakers-premium-computers-Bluetooth-enabled/dp/B0745JLDR1/",
+							"value": [
+								{
+									"type": "Text",
+									"value": "Logitech’s MX Sound 2.0 audio system",
+									"styles": []
+								}
+							],
+							"type": "Link"
+						},
+						{
+							"type": "Text",
+							"value": " for an all-time low ",
+							"styles": []
+						},
+						{
+							"type": "Text",
+							"value": "$60",
+							"styles": []
+						},
+						{
+							"type": "Text",
+							"value": ", or $40",
+							"styles": []
+						},
+						{
+							"type": "Text",
+							"value": " less than usual.",
+							"styles": []
+						},
+						{
+							"type": "LineBreak"
+						}
+					],
+					"containers": [],
+					"type": "Paragraph"
+				},
+				{
+					"value": [
+						{
+							"type": "Text",
+							"value": "In addition to connecting to your PC with a 3.5mm cable, the ",
+							"styles": []
+						},
+						{
+							"reference": "https://www.amazon.com/Logitech-Speakers-premium-computers-Bluetooth-enabled/dp/B0745JLDR1/",
+							"value": [
+								{
+									"type": "Text",
+									"value": "MX Sound",
+									"styles": []
+								}
+							],
+							"type": "Link"
+						},
+						{
+							"type": "Text",
+							"value": " also includes Bluetooth to pair to your phones and tablets, with one-touch switching between devices. And not for nothing, ",
+							"styles": []
+						},
+						{
+							"reference": "https://gear.lifehacker.com/logitechs-mx-sound-speakers-are-all-most-desktops-need-1822210417",
+							"value": [
+								{
+									"type": "Text",
+									"value": "they happen to ",
+									"styles": []
+								},
+								{
+									"type": "Text",
+									"value": "look",
+									"styles": [
+										"Italic"
+									]
+								},
+								{
+									"type": "Text",
+									"value": " way",
+									"styles": []
+								},
+								{
+									"type": "Text",
+									"value": " ",
+									"styles": [
+										"Italic"
+									]
+								},
+								{
+									"type": "Text",
+									"value": "better than most computer speakers",
+									"styles": []
+								}
+							],
+							"type": "Link"
+						},
+						{
+							"type": "Text",
+							"value": ", which matters for something that sits out on your desk all day.",
+							"styles": []
+						}
+					],
+					"containers": [],
+					"type": "Paragraph"
+				},
+				{
+					"url": "https://www.amazon.com/Logitech-Speakers-premium-computers-Bluetooth-enabled/dp/B0745JLDR1/?kinja_price=60",
+					"style": "CommerceCondensed",
+					"type": "LinkPreview"
+				},
+				{
+					"url": "https://gear.lifehacker.com/logitechs-mx-sound-speakers-are-all-most-desktops-need-1822210417",
+					"style": "Normal",
+					"type": "LinkPreview"
+				},
+				{
+					"style": "Line",
+					"containers": [],
+					"type": "HorizontalRule"
+				},
+				{
+					"id": "943711418183974912",
+					"thumbnail": null,
+					"type": "Twitter"
+				},
+				{
+					"alignment": "Center",
+					"hide": true,
+					"title": "Logitech",
+					"text": [],
+					"type": "ReviewBox"
+				}
+			],
+			"mainMedia": null,
+			"largeOnStream": false,
+			"images": [],
+			"videos": [
+				{
+					"id": null,
+					"type": "youtube",
+					"embedCode": null,
+					"height": null,
+					"width": null,
+					"thumbnails": [
+						{
+							"uid": "eoe8ltzbrzdlbjigaf8p",
+							"format": "jpg",
+							"width": 0,
+							"height": 0,
+							"id": "eoe8ltzbrzdlbjigaf8p",
+							"frozenFormat": "jpg"
+						}
+					]
+				}
+			],
+			"lastUpdateTimeMillis": 1547128922083,
+			"timezone": "America/New_York",
+			"blogIds": [
+				"86286",
+				"765"
+			],
+			"defaultBlogId": "86286",
+			"parentId": null,
+			"starterId": "1825103055",
+			"parentAuthorId": null,
+			"salesAvatar": null,
+			"sponsored": false,
+			"sharedUrl": null,
+			"status": "PUBLISHED",
+			"authorId": "5727177402741770316",
+			"authorIds": [
+				"5727177402741770316"
+			],
+			"ownerId": null,
+			"bylineProperties": {
+				"byline": "",
+				"show": true
+			},
+			"properties": "{\"headTitleTag\":\"\",\"sharingMainImageSetInDistTools\":true,\"hideFromRss\":false,\"socialHeadline\":\"\",\"socialDescription\":\"\",\"dropCapEnabled\":false,\"autoRepostDisabled\":false,\"impactHeader\":{}}",
+			"allowReplies": true,
+			"showAuthorBio": true,
+			"approved": true,
+			"author": null,
+			"authors": [],
+			"tags": [
+				{
+					"canonical": "kinjadeals",
+					"urlName": "kinja-deals",
+					"displayName": "Kinja Deals"
+				},
+				{
+					"canonical": "deals",
+					"urlName": "deals",
+					"displayName": "Deals"
+				},
+				{
+					"canonical": "amazondeals",
+					"urlName": "amazon-deals",
+					"displayName": "Amazon Deals"
+				},
+				{
+					"canonical": "logitechdeals",
+					"urlName": "logitech-deals",
+					"displayName": "Logitech Deals"
+				}
+			],
+			"replyCount": 3,
+			"likes": 1,
+			"storyTypeId": 852,
+			"storyType": {
+				"id": 852,
+				"blogId": 1458353822,
+				"canonical": "tech-deals",
+				"title": "Best Tech Deals",
+				"content": "Standard",
+				"description": "The best tech deals from around the web, updated daily. ",
+				"boilerplate": "The best tech deals from around the web, updated daily. ",
+				"image": {
+					"id": "rv3o0csw3xnmkhe2i0gu",
+					"format": "png",
+					"isAnimated": false,
+					"frozenFormat": "png"
+				}
+			},
+			"parent": null,
+			"repost": {
+				"id": "1792345557",
+				"postId": "1825103055",
+				"blogId": "4",
+				"authorId": "5876237249238321302",
+				"post": null,
+				"blog": null,
+				"author": null,
+				"createTimeMillis": 1547129643932,
+				"repostTimeMillis": 1547129643932,
+				"originalProps": {
+					"id": "1792345557",
+					"postId": "1825103055",
+					"blogId": "4",
+					"authorId": "5876237249238321302",
+					"createTimeMillis": 1547129643932,
+					"repostTimeMillis": 1547129643932
+				}
+			},
+			"isFeatured": false,
+			"isVideo": false,
+			"featuredMedia": null,
+			"qaParticipants": [],
+			"qaMembers": [],
+			"staffIncluded": false,
+			"relatedModule": {
+				"storyTypes": [],
+				"tags": [],
+				"posts": [
+					{
+						"id": 1831636362
+					},
+					{
+						"id": 1831636139
+					},
+					{
+						"id": 1831619315
+					}
+				],
+				"latestByStoryType": null
+			},
+			"relatedPosts": [],
+			"links": null,
+			"category": "Audio",
+			"categoryData": {
+				"id": "5035",
+				"canonicalName": "audio",
+				"valueDisplay": "Audio",
+				"parentId": null,
+				"image": null
+			},
+			"subcategory": null,
+			"subcategoryData": null,
+			"permalinkRedirect": null,
+			"plaintext": "If you’re still listening to your computer through its built-in speakers, stop torturing yourself and buy Logitech’s MX Sound 2.0 audio system for an all-time low $60, or $40 less than usual.",
+			"permalinkHost": "https://kinjadeals.theinventory.com",
+			"permalinkPath": "/these-discounted-computer-speakers-look-great-and-even-1825103055",
+			"publishTimeMillis": 1547128800055,
+			"customSharingMainImage": {
+				"src": "UNUSED",
+				"isAnimated": false,
+				"id": "nyxyg2f1riqet8yntqrf",
+				"width": 800,
+				"height": 450,
+				"format": "jpg",
+				"frozenFormat": "jpg"
+			},
+			"resolvedReviewScore": null
+		},
+		{
+			"originalProps": {
+				"id": "1831529510",
+				"headline": "Updates From the World of <i>Alien</i>, Marvel&#39;s Plans for <i>Silver Surfer</i>, and More",
+				"body": [
+					{
+						"id": "v9jldlkvyfezt7wcoqrk",
+						"format": "png",
+						"width": 970,
+						"height": 546,
+						"alignment": "Bleed",
+						"lightbox": true,
+						"caption": [
+							{
+								"type": "Text",
+								"value": "Don’t get your hopes up about those recent Alien teasers.",
+								"styles": []
+							}
+						],
+						"attribution": [
+							{
+								"label": "Photo",
+								"credit": [
+									{
+										"styles": [],
+										"value": "20th Century Fox",
+										"type": "Text"
+									}
+								],
+								"source": []
+							}
+						],
+						"syndicationRights": false,
+						"altText": null,
+						"type": "Image"
+					},
+					{
+						"value": [
+							{
+								"type": "Text",
+								"value": "Karen Gillan could be leading her own assassin movie universe. Adam McKay says he’s talked to Marvel about bringing the Silver Surfer to the big screen. A few more Toho classics could appear in a potential ",
+								"styles": []
+							},
+							{
+								"type": "Text",
+								"value": "Godzilla 3",
+								"styles": [
+									"Italic"
+								]
+							},
+							{
+								"type": "Text",
+								"value": ". Plus. Chris Pine teases ",
+								"styles": []
+							},
+							{
+								"reference": "https://io9.gizmodo.com/the-many-lives-of-wonder-womans-steve-trevor-explained-1826838676",
+								"value": [
+									{
+										"type": "Text",
+										"value": "Steve Trevor’s",
+										"styles": []
+									}
+								],
+								"type": "Link"
+							},
+							{
+								"type": "Text",
+								"value": " demeanor in ",
+								"styles": []
+							},
+							{
+								"type": "Text",
+								"value": "Wonder Woman 1984",
+								"styles": [
+									"Italic"
+								]
+							},
+							{
+								"type": "Text",
+								"value": " and what’s to come on ",
+								"styles": []
+							},
+							{
+								"type": "Text",
+								"value": "The Flash",
+								"styles": [
+									"Italic"
+								]
+							},
+							{
+								"type": "Text",
+								"value": ". Spoilers now!",
+								"styles": []
+							}
+						],
+						"containers": [],
+						"type": "Paragraph"
+					},
+					{
+						"id": "q5dc9wfx2bgykf6nokfx",
+						"format": "png",
+						"width": 800,
+						"height": 88,
+						"alignment": "Bleed",
+						"lightbox": true,
+						"caption": [],
+						"attribution": [],
+						"syndicationRights": false,
+						"altText": null,
+						"type": "Image"
+					},
+					{
+						"value": [
+							{
+								"type": "Text",
+								"value": "Alien",
+								"styles": [
+									"Bold"
+								]
+							}
+						],
+						"icon": null,
+						"alignment": "Left",
+						"level": 3,
+						"containers": [],
+						"type": "Header"
+					},
+					{
+						"value": [
+							{
+								"type": "Text",
+								"value": "After some social media teasing, 20th Century Fox has clarified no new ",
+								"styles": []
+							},
+							{
+								"type": "Text",
+								"value": "Alien",
+								"styles": [
+									"Italic"
+								]
+							},
+							{
+								"type": "Text",
+								"value": " films or television projects are currently in the works, and that at least for now, the recent viral campaign for ",
+								"styles": []
+							},
+							{
+								"type": "Text",
+								"value": "Alien",
+								"styles": [
+									"Italic"
+								]
+							},
+							{
+								"type": "Text",
+								"value": "’s 40th anniversary was merely in the promotion of ",
+								"styles": []
+							},
+							{
+								"reference": "https://kotaku.com/alien-isolation-sequel-announced-for-phones-1831543323",
+								"value": [
+									{
+										"type": "Text",
+										"value": "a new mobile game",
+										"styles": []
+									}
+								],
+								"type": "Link"
+							},
+							{
+								"type": "Text",
+								"value": ", ",
+								"styles": []
+							},
+							{
+								"type": "Text",
+								"value": "Alien: Blackout, ",
+								"styles": [
+									"Italic"
+								]
+							},
+							{
+								"type": "Text",
+								"value": "starring Amanda Ripley",
+								"styles": []
+							},
+							{
+								"type": "Text",
+								"value": ". ",
+								"styles": [
+									"Italic"
+								]
+							},
+							{
+								"type": "Text",
+								"value": "Womp ",
+								"styles": []
+							},
+							{
+								"type": "Text",
+								"value": "womp",
+								"styles": []
+							},
+							{
+								"type": "Text",
+								"value": ".",
+								"styles": []
+							},
+							{
+								"type": "Text",
+								"value": " ",
+								"styles": [
+									"Italic"
+								]
+							},
+							{
+								"type": "Text",
+								"value": "[",
+								"styles": []
+							},
+							{
+								"reference": "https://variety.com/2019/gaming/news/alien-blackout-interview-1203103736/",
+								"value": [
+									{
+										"type": "Text",
+										"value": "Variety",
+										"styles": []
+									}
+								],
+								"type": "Link"
+							},
+							{
+								"type": "Text",
+								"value": "]",
+								"styles": []
+							}
+						],
+						"containers": [],
+						"type": "Paragraph"
+					},
+					{
+						"style": "Line",
+						"containers": [],
+						"type": "HorizontalRule"
+					},
+					{
+						"value": [
+							{
+								"type": "Text",
+								"value": "Gunpowder Milkshake",
+								"styles": [
+									"Bold"
+								]
+							}
+						],
+						"icon": null,
+						"alignment": "Left",
+						"level": 3,
+						"containers": [],
+						"type": "Header"
+					},
+					{
+						"value": [
+							{
+								"reference": "https://www.hollywoodreporter.com/heat-vision/karen-gillan-star-assassin-movie-gunpowder-milkshake-1174577",
+								"value": [
+									{
+										"type": "Text",
+										"value": "THR",
+										"styles": []
+									}
+								],
+								"type": "Link"
+							},
+							{
+								"type": "Text",
+								"value": " reports Karen Gillan will star in an “all-female” action thriller “in the assassin genre” from ",
+								"styles": []
+							},
+							{
+								"type": "Text",
+								"value": "Big Bad Wolves ",
+								"styles": [
+									"Italic"
+								]
+							},
+							{
+								"type": "Text",
+								"value": "directors Aharon Keshales and Navot Papushado. Though plot details are currently under wraps, the story is said to span “multiple generations” with Gillan as its “cornerstone.”",
+								"styles": []
+							}
+						],
+						"containers": [],
+						"type": "Paragraph"
+					},
+					{
+						"style": "Line",
+						"containers": [],
+						"type": "HorizontalRule"
+					},
+					{
+						"value": [
+							{
+								"type": "Text",
+								"value": "The Hunt",
+								"styles": [
+									"Bold"
+								]
+							}
+						],
+						"icon": null,
+						"alignment": "Left",
+						"level": 3,
+						"containers": [],
+						"type": "Header"
+					},
+					{
+						"value": [
+							{
+								"reference": "http://www.thathashtagshow.com/2019/01/09/exclusive-betty-gilpin-offered-the-lead-role-in-blumhouse-film-the-hunt/",
+								"value": [
+									{
+										"type": "Text",
+										"value": "That Hashtag Show",
+										"styles": []
+									}
+								],
+								"type": "Link"
+							},
+							{
+								"type": "Text",
+								"value": " reports Betty Gilpin has been offered the lead role in ",
+								"styles": []
+							},
+							{
+								"type": "Text",
+								"value": "The Hunt",
+								"styles": [
+									"Italic"
+								]
+							},
+							{
+								"type": "Text",
+								"value": ", Blumhouse’s upcoming take on ",
+								"styles": []
+							},
+							{
+								"type": "Text",
+								"value": "The Most Dangerous Game ",
+								"styles": [
+									"Italic"
+								]
+							},
+							{
+								"type": "Text",
+								"value": "from",
+								"styles": []
+							},
+							{
+								"type": "Text",
+								"value": " ",
+								"styles": [
+									"Italic"
+								]
+							},
+							{
+								"type": "Text",
+								"value": "screenwriters Damon Lindelof, Nick Cuse, and director Craig Zobel. According to the outlet, Gilpin will play a character named Crystal,",
+								"styles": []
+							},
+							{
+								"type": "Text",
+								"value": " ",
+								"styles": [
+									"Italic"
+								]
+							},
+							{
+								"type": "Text",
+								"value": "a “veteran who is trying to keep her life together with her part-time job and after the death of her parents. She mysteriously is a part of the hunted. All she cares about is her will to survive”",
+								"styles": []
+							}
+						],
+						"containers": [],
+						"type": "Paragraph"
+					},
+					{
+						"style": "Line",
+						"containers": [],
+						"type": "HorizontalRule"
+					},
+					{
+						"value": [
+							{
+								"type": "Text",
+								"value": "Silver Surfer",
+								"styles": [
+									"Bold"
+								]
+							}
+						],
+						"icon": null,
+						"alignment": "Left",
+						"level": 3,
+						"containers": [],
+						"type": "Header"
+					},
+					{
+						"value": [
+							{
+								"type": "Text",
+								"value": "Adam McKay revealed he’s been talking with Marvel to direct a ",
+								"styles": []
+							},
+							{
+								"type": "Text",
+								"value": "Silver Surfer",
+								"styles": [
+									"Italic"
+								]
+							},
+							{
+								"type": "Text",
+								"value": " movie to MTV News at the Golden Globes.",
+								"styles": []
+							}
+						],
+						"containers": [],
+						"type": "Paragraph"
+					},
+					{
+						"value": [
+							{
+								"type": "Text",
+								"value": "There actually has been some discussion about ",
+								"styles": []
+							},
+							{
+								"type": "Text",
+								"value": "Silver Surfer",
+								"styles": [
+									"Italic"
+								]
+							},
+							{
+								"type": "Text",
+								"value": ". My agent certainly woke up. They were excited. We’re in the middle of, you know, backing ",
+								"styles": []
+							},
+							{
+								"type": "Text",
+								"value": "Vice",
+								"styles": [
+									"Italic"
+								]
+							},
+							{
+								"type": "Text",
+								"value": " right now, but, who knows, maybe in a couple months it could pop up. I really am excited about that idea. So, we’ll see what happens.",
+								"styles": []
+							}
+						],
+						"containers": [
+							{
+								"type": "BlockQuote"
+							}
+						],
+						"type": "Paragraph"
+					},
+					{
+						"id": "1082698370056114177",
+						"thumbnail": null,
+						"type": "Twitter"
+					},
+					{
+						"style": "Line",
+						"containers": [],
+						"type": "HorizontalRule"
+					},
+					{
+						"value": [
+							{
+								"type": "Text",
+								"value": "Godzilla 3",
+								"styles": [
+									"Bold"
+								]
+							}
+						],
+						"icon": null,
+						"alignment": "Left",
+						"level": 3,
+						"containers": [],
+						"type": "Header"
+					},
+					{
+						"value": [
+							{
+								"type": "Text",
+								"value": "In a recent interview with ",
+								"styles": []
+							},
+							{
+								"reference": "https://www.cinematoday.jp/news/N0105905.amp.html",
+								"value": [
+									{
+										"type": "Text",
+										"value": "CinemaTodayJapan",
+										"styles": []
+									}
+								],
+								"type": "Link"
+							},
+							{
+								"type": "Text",
+								"value": ", ",
+								"styles": []
+							},
+							{
+								"type": "Text",
+								"value": "Godzilla: King of the Monsters",
+								"styles": [
+									"Italic"
+								]
+							},
+							{
+								"type": "Text",
+								"value": " director Chris Dougherty revealed he hopes to introduce Biollante and Gigan in a potential sequel. Dougherty also cited Anguirus and Mechagodzilla as two of his favorite Toho monsters",
+								"styles": []
+							},
+							{
+								"type": "Text",
+								"value": ".",
+								"styles": []
+							}
+						],
+						"containers": [],
+						"type": "Paragraph"
+					},
+					{
+						"style": "Line",
+						"containers": [],
+						"type": "HorizontalRule"
+					},
+					{
+						"value": [
+							{
+								"type": "Text",
+								"value": "Wonder",
+								"styles": [
+									"Bold"
+								]
+							},
+							{
+								"type": "Text",
+								"value": " Woman 1984",
+								"styles": [
+									"Bold"
+								]
+							}
+						],
+						"icon": null,
+						"alignment": "Left",
+						"level": 3,
+						"containers": [],
+						"type": "Header"
+					},
+					{
+						"value": [
+							{
+								"type": "Text",
+								"value": "Speaking with ",
+								"styles": []
+							},
+							{
+								"reference": "https://variety.com/2019/film/news/wonder-woman-1984-chris-pine-patty-jenkins-1203102673/",
+								"value": [
+									{
+										"type": "Text",
+										"value": "Variety",
+										"styles": []
+									}
+								],
+								"type": "Link"
+							},
+							{
+								"type": "Text",
+								"value": ", Chris Pine described the sequel’s miraculously reborn incarnation of Steve Trevor as a “deer in headlights.”",
+								"styles": []
+							}
+						],
+						"containers": [],
+						"type": "Paragraph"
+					},
+					{
+						"value": [
+							{
+								"type": "Text",
+								"value": "This one is a little different for me tonally. The tables are turned, and I’m more of the deer in the headlights.",
+								"styles": []
+							}
+						],
+						"containers": [
+							{
+								"type": "BlockQuote"
+							}
+						],
+						"type": "Paragraph"
+					},
+					{
+						"style": "Line",
+						"containers": [],
+						"type": "HorizontalRule"
+					},
+					{
+						"value": [
+							{
+								"type": "Text",
+								"value": "Avengers: Endgame",
+								"styles": [
+									"Bold"
+								]
+							}
+						],
+						"icon": null,
+						"alignment": "Left",
+						"level": 3,
+						"containers": [],
+						"type": "Header"
+					},
+					{
+						"value": [
+							{
+								"type": "Text",
+								"value": "At the 3:40 mark in the video below, Robert Downey, Jr. reveals Tony Stark drives an Audi e-",
+								"styles": []
+							},
+							{
+								"type": "Text",
+								"value": "tron",
+								"styles": []
+							},
+							{
+								"type": "Text",
+								"value": " GT in ",
+								"styles": []
+							},
+							{
+								"type": "Text",
+								"value": "Avengers 4, ",
+								"styles": [
+									"Italic"
+								]
+							},
+							{
+								"type": "Text",
+								"value": "presumably confirming the character survives his trip to outer space. Unless it’s a Space Audi, who knows.",
+								"styles": []
+							}
+						],
+						"containers": [],
+						"type": "Paragraph"
+					},
+					{
+						"id": "YXz4rnqsBCM",
+						"thumbnail": {
+							"id": "c9ajwuovzhphsseqjbcy",
+							"format": "jpg"
+						},
+						"start": 0,
+						"alignment": "Bleed",
+						"caption": [],
+						"type": "YoutubeVideo"
+					},
+					{
+						"value": [
+							{
+								"type": "LineBreak"
+							}
+						],
+						"icon": null,
+						"alignment": "Left",
+						"level": 3,
+						"containers": [],
+						"type": "Header"
+					},
+					{
+						"style": "Line",
+						"containers": [],
+						"type": "HorizontalRule"
+					},
+					{
+						"value": [
+							{
+								"type": "Text",
+								"value": "The LEGO Movie 2: The Second Part",
+								"styles": [
+									"Bold"
+								]
+							}
+						],
+						"icon": null,
+						"alignment": "Left",
+						"level": 3,
+						"containers": [],
+						"type": "Header"
+					},
+					{
+						"value": [
+							{
+								"reference": "http://collider.com/the-lego-movie-2-poster/#images",
+								"value": [
+									{
+										"type": "Text",
+										"value": "Collider",
+										"styles": []
+									}
+								],
+								"type": "Link"
+							},
+							{
+								"type": "Text",
+								"value": " has a new “blacklight” poster, rendered in neon pinks and blues.",
+								"styles": []
+							}
+						],
+						"containers": [],
+						"type": "Paragraph"
+					},
+					{
+						"id": "hbhtdg4prke9pgnvkq2x",
+						"format": "jpg",
+						"width": 1200,
+						"height": 1778,
+						"alignment": "Bleed",
+						"lightbox": true,
+						"caption": [],
+						"attribution": [],
+						"syndicationRights": false,
+						"altText": null,
+						"type": "Image"
+					},
+					{
+						"style": "Line",
+						"containers": [],
+						"type": "HorizontalRule"
+					},
+					{
+						"value": [
+							{
+								"type": "Text",
+								"value": "Glass",
+								"styles": [
+									"Bold"
+								]
+							}
+						],
+						"icon": null,
+						"alignment": "Left",
+						"level": 3,
+						"containers": [],
+						"type": "Header"
+					},
+					{
+						"value": [
+							{
+								"type": "Text",
+								"value": "Elijah meets The Horde in a new clip from ",
+								"styles": []
+							},
+							{
+								"type": "Text",
+								"value": "Glass",
+								"styles": [
+									"Italic"
+								]
+							},
+							{
+								"type": "Text",
+								"value": ". ",
+								"styles": []
+							},
+							{
+								"reference": "https://io9.gizmodo.com/glass-is-a-frustrating-unsatisfying-conclusion-to-the-1831611105",
+								"value": [
+									{
+										"type": "Text",
+										"value": "Our review just went up",
+										"styles": []
+									}
+								],
+								"type": "Link"
+							},
+							{
+								"type": "Text",
+								"value": " yesterday, in case you missed it.",
+								"styles": []
+							}
+						],
+						"containers": [],
+						"type": "Paragraph"
+					},
+					{
+						"id": "Yabr9pBUO6Y",
+						"thumbnail": {
+							"id": "fqekapd8g0bgqf2ezzx4",
+							"format": "jpg"
+						},
+						"start": 0,
+						"alignment": "Bleed",
+						"caption": [],
+						"type": "YoutubeVideo"
+					},
+					{
+						"value": [
+							{
+								"type": "LineBreak"
+							}
+						],
+						"icon": null,
+						"alignment": "Left",
+						"level": 3,
+						"containers": [],
+						"type": "Header"
+					},
+					{
+						"style": "Line",
+						"containers": [],
+						"type": "HorizontalRule"
+					},
+					{
+						"value": [
+							{
+								"type": "Text",
+								"value": "Legion",
+								"styles": [
+									"Bold"
+								]
+							}
+						],
+						"icon": null,
+						"alignment": "Left",
+						"level": 3,
+						"containers": [],
+						"type": "Header"
+					},
+					{
+						"value": [
+							{
+								"type": "Text",
+								"value": "According to ",
+								"styles": []
+							},
+							{
+								"reference": "https://variety.com/2019/tv/news/legion-season-3-lauren-tsai-1203103398/",
+								"value": [
+									{
+										"type": "Text",
+										"value": "Variety",
+										"styles": []
+									}
+								],
+								"type": "Link"
+							},
+							{
+								"type": "Text",
+								"value": ", Lauren Tsai has joined the cast of ",
+								"styles": []
+							},
+							{
+								"type": "Text",
+								"value": "Legion",
+								"styles": [
+									"Italic"
+								]
+							},
+							{
+								"type": "Text",
+								"value": "’s third season as Switch, “a young mutant whose secret ability serves as the key to executing David Haller’s plan.”",
+								"styles": []
+							}
+						],
+						"containers": [],
+						"type": "Paragraph"
+					},
+					{
+						"style": "Line",
+						"containers": [],
+						"type": "HorizontalRule"
+					},
+					{
+						"value": [
+							{
+								"type": "Text",
+								"value": "Evil",
+								"styles": [
+									"Bold"
+								]
+							}
+						],
+						"icon": null,
+						"alignment": "Left",
+						"level": 3,
+						"containers": [],
+						"type": "Header"
+					},
+					{
+						"value": [
+							{
+								"type": "Text",
+								"value": "CBS has ordered a pilot for an ",
+								"styles": []
+							},
+							{
+								"type": "Text",
+								"value": "X-Files-",
+								"styles": [
+									"Italic"
+								]
+							},
+							{
+								"type": "Text",
+								"value": "inspired drama from ",
+								"styles": []
+							},
+							{
+								"type": "Text",
+								"value": "The Good Fight",
+								"styles": [
+									"Italic"
+								]
+							},
+							{
+								"type": "Text",
+								"value": " creators, Robert ",
+								"styles": []
+							},
+							{
+								"type": "Text",
+								"value": "and",
+								"styles": []
+							},
+							{
+								"type": "Text",
+								"value": " Michelle King. According to ",
+								"styles": []
+							},
+							{
+								"reference": "https://www.hollywoodreporter.com/live-feed/good-fight-creators-supernatural-drama-scores-cbs-pilot-order-1175061",
+								"value": [
+									{
+										"type": "Text",
+										"value": "THR",
+										"styles": []
+									}
+								],
+								"type": "Link"
+							},
+							{
+								"type": "Text",
+								"value": ", ",
+								"styles": []
+							},
+							{
+								"type": "Text",
+								"value": "Evil",
+								"styles": [
+									"Italic"
+								]
+							},
+							{
+								"type": "Text",
+								"value": " “centers on a skeptical female clinical psychologist who joins a priest-in-training and a blue-collar contractor as they investigate supposed miracles, demonic possessions, and other extraordinary occurrences. Together they try to determine if there’s a scientific explanation or if something truly supernatural is at work.”",
+								"styles": []
+							}
+						],
+						"containers": [],
+						"type": "Paragraph"
+					},
+					{
+						"style": "Line",
+						"containers": [],
+						"type": "HorizontalRule"
+					},
+					{
+						"value": [
+							{
+								"type": "Text",
+								"value": "Star Trek: Discovery",
+								"styles": [
+									"Bold"
+								]
+							}
+						],
+						"icon": null,
+						"alignment": "Left",
+						"level": 3,
+						"containers": [],
+						"type": "Header"
+					},
+					{
+						"value": [
+							{
+								"type": "Text",
+								"value": "Speaking with ",
+								"styles": []
+							},
+							{
+								"reference": "https://www.hollywoodreporter.com/live-feed/star-trek-second-animated-series-more-short-treks-coming-cbs-all-access-1174218",
+								"value": [
+									{
+										"type": "Text",
+										"value": "THR",
+										"styles": []
+									}
+								],
+								"type": "Link"
+							},
+							{
+								"type": "Text",
+								"value": ", Alex Kurtzman confirmed there are currently no plans to introduce Captain Kirk in ",
+								"styles": []
+							},
+							{
+								"reference": "https://io9.gizmodo.com/star-trek-discoverys-second-season-is-being-helped-by-1831576827",
+								"value": [
+									{
+										"type": "Text",
+										"value": "Star Trek: Discovery",
+										"styles": [
+											"Italic"
+										]
+									}
+								],
+								"type": "Link"
+							},
+							{
+								"type": "Text",
+								"value": ", thanks to the show’s 10-year buffer between its events and Kirk’s arrival in the ",
+								"styles": []
+							},
+							{
+								"type": "Text",
+								"value": "Enterprise",
+								"styles": [
+									"Italic"
+								]
+							},
+							{
+								"type": "Text",
+								"value": " captain’s chair.",
+								"styles": []
+							}
+						],
+						"containers": [],
+						"type": "Paragraph"
+					},
+					{
+						"value": [
+							{
+								"type": "Text",
+								"value": "There’s a 10-year gap between where we are in Discovery and Kirk’s arrival on the Enterprise. There would [have to] be a major time jump if we were going to do something like that. What Kirk was doing at this particular time is another question, but we don’t have any immediate plans [for the character]. I have not spoken to Shatner about it.",
+								"styles": []
+							}
+						],
+						"containers": [
+							{
+								"type": "BlockQuote"
+							}
+						],
+						"type": "Paragraph"
+					},
+					{
+						"style": "Line",
+						"containers": [],
+						"type": "HorizontalRule"
+					},
+					{
+						"value": [
+							{
+								"type": "Text",
+								"value": "What We Do in the Shadows",
+								"styles": [
+									"Bold"
+								]
+							}
+						],
+						"icon": null,
+						"alignment": "Left",
+						"level": 3,
+						"containers": [],
+						"type": "Header"
+					},
+					{
+						"value": [
+							{
+								"type": "Text",
+								"value": "A new trailer reveals the ",
+								"styles": []
+							},
+							{
+								"type": "Text",
+								"value": "What We Do in the Shadows",
+								"styles": [
+									"Italic"
+								]
+							},
+							{
+								"type": "Text",
+								"value": " television series premieres this March on FX",
+								"styles": []
+							},
+							{
+								"type": "Text",
+								"value": ".",
+								"styles": []
+							}
+						],
+						"containers": [],
+						"type": "Paragraph"
+					},
+					{
+						"id": "okxXf9OcBRI",
+						"thumbnail": {
+							"id": "v8fqea6lrzbfv6yg8gct",
+							"format": "jpg"
+						},
+						"start": 0,
+						"alignment": "Bleed",
+						"caption": [],
+						"type": "YoutubeVideo"
+					},
+					{
+						"style": "Line",
+						"containers": [],
+						"type": "HorizontalRule"
+					},
+					{
+						"value": [
+							{
+								"type": "Text",
+								"value": "The",
+								"styles": [
+									"Bold"
+								]
+							},
+							{
+								"type": "Text",
+								"value": " Punisher",
+								"styles": [
+									"Bold"
+								]
+							}
+						],
+						"icon": null,
+						"alignment": "Left",
+						"level": 3,
+						"containers": [],
+						"type": "Header"
+					},
+					{
+						"value": [
+							{
+								"type": "Text",
+								"value": "Frank’s got some red on him in a new poster, via ",
+								"styles": []
+							},
+							{
+								"reference": "https://www.comingsoon.net/tv/news/1026089-the-punisher-season-2-poster-trouble-is-coming",
+								"value": [
+									{
+										"type": "Text",
+										"value": "Coming Soon",
+										"styles": []
+									}
+								],
+								"type": "Link"
+							},
+							{
+								"type": "Text",
+								"value": ".",
+								"styles": []
+							}
+						],
+						"containers": [],
+						"type": "Paragraph"
+					},
+					{
+						"id": "evfutunjt691faqry3x3",
+						"format": "jpg",
+						"width": 810,
+						"height": 1200,
+						"alignment": "Bleed",
+						"lightbox": true,
+						"caption": [],
+						"attribution": [],
+						"syndicationRights": false,
+						"altText": null,
+						"type": "Image"
+					},
+					{
+						"style": "Line",
+						"containers": [],
+						"type": "HorizontalRule"
+					},
+					{
+						"value": [
+							{
+								"type": "Text",
+								"value": "Arrow",
+								"styles": [
+									"Bold"
+								]
+							}
+						],
+						"icon": null,
+						"alignment": "Left",
+						"level": 3,
+						"containers": [],
+						"type": "Header"
+					},
+					{
+						"value": [
+							{
+								"reference": "https://www.comingsoon.net/movies/news/1025945-new-photos-from-arrows-midseason-premiere-shattered-lives",
+								"value": [
+									{
+										"type": "Text",
+										"value": "Coming Soon",
+										"styles": []
+									}
+								],
+								"type": "Link"
+							},
+							{
+								"type": "Text",
+								"value": " also has photos from ",
+								"styles": []
+							},
+							{
+								"type": "Text",
+								"value": "Arrow",
+								"styles": [
+									"Italic"
+								]
+							},
+							{
+								"type": "Text",
+								"value": "’s midseason premiere, “Shattered Lives.” More at the link.",
+								"styles": []
+							}
+						],
+						"containers": [],
+						"type": "Paragraph"
+					},
+					{
+						"id": "oeid3qmg7mal6qozhq8n",
+						"format": "jpg",
+						"width": 1200,
+						"height": 675,
+						"alignment": "Bleed",
+						"lightbox": true,
+						"caption": [],
+						"attribution": [],
+						"syndicationRights": false,
+						"altText": null,
+						"type": "Image"
+					},
+					{
+						"style": "Line",
+						"containers": [],
+						"type": "HorizontalRule"
+					},
+					{
+						"value": [
+							{
+								"type": "Text",
+								"value": "Black Lightning",
+								"styles": [
+									"Bold"
+								]
+							}
+						],
+						"icon": null,
+						"alignment": "Left",
+						"level": 3,
+						"containers": [],
+						"type": "Header"
+					},
+					{
+						"value": [
+							{
+								"type": "Text",
+								"value": "Jennifer’s ready to take down Tobias Whale in the trailer for “The Book of Rebellion Chapter Three: Angelitos Negros.”",
+								"styles": []
+							}
+						],
+						"containers": [],
+						"type": "Paragraph"
+					},
+					{
+						"id": "flYN4KVd-5Q",
+						"thumbnail": {
+							"id": "vx3xagnjgvsld5euptkg",
+							"format": "jpg"
+						},
+						"start": 0,
+						"alignment": "Bleed",
+						"caption": [],
+						"type": "YoutubeVideo"
+					},
+					{
+						"style": "Line",
+						"containers": [],
+						"type": "HorizontalRule"
+					},
+					{
+						"value": [
+							{
+								"type": "Text",
+								"value": "The Flash",
+								"styles": []
+							}
+						],
+						"icon": null,
+						"alignment": "Left",
+						"level": 3,
+						"containers": [],
+						"type": "Header"
+					},
+					{
+						"value": [
+							{
+								"type": "Text",
+								"value": "Cicada strikes, Reverse-Flash schemes, and Barry goes ice skating with Nora in the extended trailer for “The Flash and The Furious.”",
+								"styles": []
+							}
+						],
+						"containers": [],
+						"type": "Paragraph"
+					},
+					{
+						"id": "lzqSdyVMq9Y",
+						"thumbnail": {
+							"id": "tuzdpmipj08c6awdvgsc",
+							"format": "jpg"
+						},
+						"start": 0,
+						"alignment": "Bleed",
+						"caption": [],
+						"type": "YoutubeVideo"
+					},
+					{
+						"style": "Line",
+						"containers": [],
+						"type": "HorizontalRule"
+					},
+					{
+						"value": [
+							{
+								"type": "Text",
+								"value": "Gotham",
+								"styles": [
+									"Bold"
+								]
+							}
+						],
+						"icon": null,
+						"alignment": "Left",
+						"level": 3,
+						"containers": [],
+						"type": "Header"
+					},
+					{
+						"value": [
+							{
+								"type": "Text",
+								"value": "Finally, Barbara spars with Gordon in a clip from tonight’s episode of ",
+								"styles": []
+							},
+							{
+								"type": "Text",
+								"value": "Gotham",
+								"styles": [
+									"Italic"
+								]
+							},
+							{
+								"type": "Text",
+								"value": ", “Trespassers.”",
+								"styles": []
+							}
+						],
+						"containers": [],
+						"type": "Paragraph"
+					},
+					{
+						"id": "9q0C0RB_jPY",
+						"thumbnail": {
+							"id": "ytevuxzfd3cmofxkjisn",
+							"format": "jpg"
+						},
+						"start": 0,
+						"alignment": "Bleed",
+						"caption": [],
+						"type": "YoutubeVideo"
+					},
+					{
+						"style": "Line",
+						"containers": [],
+						"type": "HorizontalRule"
+					},
+					{
+						"value": [
+							{
+								"type": "Text",
+								"value": "Banner art by Jim Cooke",
+								"styles": [
+									"Subscript",
+									"Italic"
+								]
+							},
+							{
+								"type": "Text",
+								"value": ".",
+								"styles": [
+									"Subscript"
+								]
+							}
+						],
+						"containers": [],
+						"type": "Paragraph"
+					}
+				],
+				"mainMedia": {
+					"id": "v9jldlkvyfezt7wcoqrk",
+					"format": "png",
+					"width": 970,
+					"height": 546,
+					"alignment": "Bleed",
+					"lightbox": true,
+					"caption": [
+						{
+							"type": "Text",
+							"value": "Don’t get your hopes up about those recent Alien teasers.",
+							"styles": []
+						}
+					],
+					"attribution": [
+						{
+							"label": "Photo",
+							"credit": [
+								{
+									"styles": [],
+									"value": "20th Century Fox",
+									"type": "Text"
+								}
+							],
+							"source": []
+						}
+					],
+					"syndicationRights": false,
+					"altText": null,
+					"type": "Image"
+				},
+				"largeOnStream": true,
+				"images": [
+					{
+						"uid": "v9jldlkvyfezt7wcoqrk",
+						"originalWidth": 970,
+						"originalHeight": 546,
+						"format": "png",
+						"width": 970,
+						"height": 546,
+						"id": "v9jldlkvyfezt7wcoqrk",
+						"frozenFormat": "png"
+					},
+					{
+						"uid": "q5dc9wfx2bgykf6nokfx",
+						"originalWidth": 800,
+						"originalHeight": 88,
+						"format": "png",
+						"width": 800,
+						"height": 88,
+						"id": "q5dc9wfx2bgykf6nokfx",
+						"frozenFormat": "png"
+					},
+					{
+						"uid": "hbhtdg4prke9pgnvkq2x",
+						"originalWidth": 1200,
+						"originalHeight": 1778,
+						"format": "jpg",
+						"width": 1200,
+						"height": 1778,
+						"id": "hbhtdg4prke9pgnvkq2x",
+						"frozenFormat": "jpg"
+					},
+					{
+						"uid": "evfutunjt691faqry3x3",
+						"originalWidth": 810,
+						"originalHeight": 1200,
+						"format": "jpg",
+						"width": 810,
+						"height": 1200,
+						"id": "evfutunjt691faqry3x3",
+						"frozenFormat": "jpg"
+					},
+					{
+						"uid": "oeid3qmg7mal6qozhq8n",
+						"originalWidth": 1200,
+						"originalHeight": 675,
+						"format": "jpg",
+						"width": 1200,
+						"height": 675,
+						"id": "oeid3qmg7mal6qozhq8n",
+						"frozenFormat": "jpg"
+					}
+				],
+				"videos": [
+					{
+						"id": null,
+						"type": "youtube",
+						"embedCode": null,
+						"height": null,
+						"width": null,
+						"thumbnails": [
+							{
+								"uid": "c9ajwuovzhphsseqjbcy",
+								"format": "jpg",
+								"width": 0,
+								"height": 0,
+								"id": "c9ajwuovzhphsseqjbcy",
+								"frozenFormat": "jpg"
+							}
+						]
+					},
+					{
+						"id": null,
+						"type": "youtube",
+						"embedCode": null,
+						"height": null,
+						"width": null,
+						"thumbnails": [
+							{
+								"uid": "fqekapd8g0bgqf2ezzx4",
+								"format": "jpg",
+								"width": 0,
+								"height": 0,
+								"id": "fqekapd8g0bgqf2ezzx4",
+								"frozenFormat": "jpg"
+							}
+						]
+					},
+					{
+						"id": null,
+						"type": "youtube",
+						"embedCode": null,
+						"height": null,
+						"width": null,
+						"thumbnails": [
+							{
+								"uid": "v8fqea6lrzbfv6yg8gct",
+								"format": "jpg",
+								"width": 0,
+								"height": 0,
+								"id": "v8fqea6lrzbfv6yg8gct",
+								"frozenFormat": "jpg"
+							}
+						]
+					},
+					{
+						"id": null,
+						"type": "youtube",
+						"embedCode": null,
+						"height": null,
+						"width": null,
+						"thumbnails": [
+							{
+								"uid": "vx3xagnjgvsld5euptkg",
+								"format": "jpg",
+								"width": 0,
+								"height": 0,
+								"id": "vx3xagnjgvsld5euptkg",
+								"frozenFormat": "jpg"
+							}
+						]
+					},
+					{
+						"id": null,
+						"type": "youtube",
+						"embedCode": null,
+						"height": null,
+						"width": null,
+						"thumbnails": [
+							{
+								"uid": "tuzdpmipj08c6awdvgsc",
+								"format": "jpg",
+								"width": 0,
+								"height": 0,
+								"id": "tuzdpmipj08c6awdvgsc",
+								"frozenFormat": "jpg"
+							}
+						]
+					},
+					{
+						"id": null,
+						"type": "youtube",
+						"embedCode": null,
+						"height": null,
+						"width": null,
+						"thumbnails": [
+							{
+								"uid": "ytevuxzfd3cmofxkjisn",
+								"format": "jpg",
+								"width": 0,
+								"height": 0,
+								"id": "ytevuxzfd3cmofxkjisn",
+								"frozenFormat": "jpg"
+							}
+						]
+					}
+				],
+				"publishTimeMillis": 1547129100510,
+				"lastUpdateTimeMillis": 1547129295557,
+				"timezone": "America/New_York",
+				"blogIds": [
+					"8",
+					"156147",
+					"87750681"
+				],
+				"defaultBlogId": "8",
+				"parentId": null,
+				"starterId": "1831529510",
+				"parentAuthorId": null,
+				"salesAvatar": null,
+				"sponsored": false,
+				"sharedUrl": null,
+				"status": "PUBLISHED",
+				"authorId": "5724542002230561815",
+				"authorIds": [
+					"5724542002230561815",
+					"5799958939291581341"
+				],
+				"ownerId": null,
+				"byline": {
+					"byline": "",
+					"show": true
+				},
+				"properties": "{\"headTitleTag\":\"Don't Expect a New Alien Movie or TV Show Just Yet\",\"socialHeadline\":\"\",\"socialDescription\":\"\",\"dropCapEnabled\":false,\"autoRepostDisabled\":false,\"impactHeader\":{}}",
+				"allowReplies": true,
+				"showAuthorBio": true,
+				"approved": true,
+				"author": null,
+				"authors": [],
+				"tags": [
+					{
+						"canonical": "alien",
+						"urlName": "alien",
+						"displayName": "Alien"
+					},
+					{
+						"canonical": "avengersendgame",
+						"urlName": "avengers-endgame",
+						"displayName": "Avengers: Endgame"
+					},
+					{
+						"canonical": "thepunisher",
+						"urlName": "the-punisher",
+						"displayName": "The Punisher"
+					},
+					{
+						"canonical": "silversurfer",
+						"urlName": "silver-surfer",
+						"displayName": "Silver Surfer"
+					},
+					{
+						"canonical": "wonderwoman1984",
+						"urlName": "wonder-woman-1984",
+						"displayName": "Wonder Woman 1984"
+					},
+					{
+						"canonical": "gunpowdermilkshake",
+						"urlName": "gunpowder-milkshake",
+						"displayName": "Gunpowder Milkshake"
+					},
+					{
+						"canonical": "evil",
+						"urlName": "evil",
+						"displayName": "Evil"
+					},
+					{
+						"canonical": "legion",
+						"urlName": "legion",
+						"displayName": "Legion"
+					},
+					{
+						"canonical": "thelegomovie2thesecondpart",
+						"urlName": "the-lego-movie-2-the-second-part",
+						"displayName": "The LEGO Movie 2: The Second Part"
+					},
+					{
+						"canonical": "godzilla3",
+						"urlName": "godzilla-3",
+						"displayName": "Godzilla 3"
+					},
+					{
+						"canonical": "thehunt",
+						"urlName": "the-hunt",
+						"displayName": "The Hunt"
+					},
+					{
+						"canonical": "startrekdiscovery",
+						"urlName": "star-trek-discovery",
+						"displayName": "Star Trek: Discovery"
+					},
+					{
+						"canonical": "gotham",
+						"urlName": "gotham",
+						"displayName": "Gotham"
+					},
+					{
+						"canonical": "blacklightning",
+						"urlName": "black-lightning",
+						"displayName": "Black Lightning"
+					},
+					{
+						"canonical": "theflash",
+						"urlName": "the-flash",
+						"displayName": "The Flash"
+					},
+					{
+						"canonical": "arrow",
+						"urlName": "arrow",
+						"displayName": "Arrow"
+					},
+					{
+						"canonical": "whatwedointheshadows",
+						"urlName": "what-we-do-in-the-shadows",
+						"displayName": "what we do in the shadows"
+					}
+				],
+				"replyCount": 25,
+				"storyTypeId": 137,
+				"storyType": {
+					"id": 137,
+					"blogId": 4,
+					"canonical": "morning-spoilers",
+					"title": "Morning Spoilers",
+					"content": "Standard",
+					"description": "If there’s news about upcoming movies and television you’re not supposed to know, you’ll find it in here.",
+					"boilerplate": "If there’s news about upcoming movies and television you’re not supposed to know, you’ll find it in here."
+				},
+				"parent": null,
+				"repost": {
+					"id": "1792345553",
+					"postId": "1831529510",
+					"blogId": "4",
+					"authorId": "5724542002230561815",
+					"post": null,
+					"blog": null,
+					"author": null,
+					"createTimeMillis": 1547129354901,
+					"repostTimeMillis": 1547129354901,
+					"originalProps": {
+						"id": "1792345553",
+						"postId": "1831529510",
+						"blogId": "4",
+						"authorId": "5724542002230561815",
+						"createTimeMillis": 1547129354901,
+						"repostTimeMillis": 1547129354901
+					}
+				},
+				"isFeatured": false,
+				"isVideo": false,
+				"featuredMedia": null,
+				"qaParticipants": null,
+				"qaMembers": null,
+				"relatedModule": null,
+				"relatedPosts": [],
+				"links": null,
+				"category": null,
+				"categoryData": null,
+				"subcategory": null,
+				"subcategoryData": null,
+				"permalinkRedirect": null,
+				"permalinkHost": "https://io9.gizmodo.com",
+				"permalinkPath": "/updates-from-the-world-of-alien-marvels-plans-for-silv-1831529510",
+				"plaintext": "Karen Gillan could be leading her own assassin movie universe. Adam McKay says he’s talked to Marvel about bringing the Silver Surfer to the big screen. A few more Toho classics could appear in a potential Godzilla 3. Plus. Chris Pine teases Steve Trevor’s demeanor in Wonder Woman 1984 and what’s to come on The Flash. Spoilers now!",
+				"customSharingMainImage": {
+					"src": "UNUSED",
+					"isAnimated": false,
+					"id": "v9jldlkvyfezt7wcoqrk",
+					"width": 800,
+					"height": 450,
+					"format": "png",
+					"frozenFormat": "png",
+					"type": "image"
+				}
+			},
+			"id": "1831529510",
+			"headline": "Updates From the World of <i>Alien</i>, Marvel&#39;s Plans for <i>Silver Surfer</i>, and More",
+			"body": [
+				{
+					"id": "v9jldlkvyfezt7wcoqrk",
+					"format": "png",
+					"width": 970,
+					"height": 546,
+					"alignment": "Bleed",
+					"lightbox": true,
+					"caption": [
+						{
+							"type": "Text",
+							"value": "Don’t get your hopes up about those recent Alien teasers.",
+							"styles": []
+						}
+					],
+					"attribution": [
+						{
+							"label": "Photo",
+							"credit": [
+								{
+									"styles": [],
+									"value": "20th Century Fox",
+									"type": "Text"
+								}
+							],
+							"source": []
+						}
+					],
+					"syndicationRights": false,
+					"altText": null,
+					"type": "Image"
+				},
+				{
+					"value": [
+						{
+							"type": "Text",
+							"value": "Karen Gillan could be leading her own assassin movie universe. Adam McKay says he’s talked to Marvel about bringing the Silver Surfer to the big screen. A few more Toho classics could appear in a potential ",
+							"styles": []
+						},
+						{
+							"type": "Text",
+							"value": "Godzilla 3",
+							"styles": [
+								"Italic"
+							]
+						},
+						{
+							"type": "Text",
+							"value": ". Plus. Chris Pine teases ",
+							"styles": []
+						},
+						{
+							"reference": "https://io9.gizmodo.com/the-many-lives-of-wonder-womans-steve-trevor-explained-1826838676",
+							"value": [
+								{
+									"type": "Text",
+									"value": "Steve Trevor’s",
+									"styles": []
+								}
+							],
+							"type": "Link"
+						},
+						{
+							"type": "Text",
+							"value": " demeanor in ",
+							"styles": []
+						},
+						{
+							"type": "Text",
+							"value": "Wonder Woman 1984",
+							"styles": [
+								"Italic"
+							]
+						},
+						{
+							"type": "Text",
+							"value": " and what’s to come on ",
+							"styles": []
+						},
+						{
+							"type": "Text",
+							"value": "The Flash",
+							"styles": [
+								"Italic"
+							]
+						},
+						{
+							"type": "Text",
+							"value": ". Spoilers now!",
+							"styles": []
+						}
+					],
+					"containers": [],
+					"type": "Paragraph"
+				},
+				{
+					"id": "q5dc9wfx2bgykf6nokfx",
+					"format": "png",
+					"width": 800,
+					"height": 88,
+					"alignment": "Bleed",
+					"lightbox": true,
+					"caption": [],
+					"attribution": [],
+					"syndicationRights": false,
+					"altText": null,
+					"type": "Image"
+				},
+				{
+					"value": [
+						{
+							"type": "Text",
+							"value": "Alien",
+							"styles": [
+								"Bold"
+							]
+						}
+					],
+					"icon": null,
+					"alignment": "Left",
+					"level": 3,
+					"containers": [],
+					"type": "Header"
+				},
+				{
+					"value": [
+						{
+							"type": "Text",
+							"value": "After some social media teasing, 20th Century Fox has clarified no new ",
+							"styles": []
+						},
+						{
+							"type": "Text",
+							"value": "Alien",
+							"styles": [
+								"Italic"
+							]
+						},
+						{
+							"type": "Text",
+							"value": " films or television projects are currently in the works, and that at least for now, the recent viral campaign for ",
+							"styles": []
+						},
+						{
+							"type": "Text",
+							"value": "Alien",
+							"styles": [
+								"Italic"
+							]
+						},
+						{
+							"type": "Text",
+							"value": "’s 40th anniversary was merely in the promotion of ",
+							"styles": []
+						},
+						{
+							"reference": "https://kotaku.com/alien-isolation-sequel-announced-for-phones-1831543323",
+							"value": [
+								{
+									"type": "Text",
+									"value": "a new mobile game",
+									"styles": []
+								}
+							],
+							"type": "Link"
+						},
+						{
+							"type": "Text",
+							"value": ", ",
+							"styles": []
+						},
+						{
+							"type": "Text",
+							"value": "Alien: Blackout, ",
+							"styles": [
+								"Italic"
+							]
+						},
+						{
+							"type": "Text",
+							"value": "starring Amanda Ripley",
+							"styles": []
+						},
+						{
+							"type": "Text",
+							"value": ". ",
+							"styles": [
+								"Italic"
+							]
+						},
+						{
+							"type": "Text",
+							"value": "Womp ",
+							"styles": []
+						},
+						{
+							"type": "Text",
+							"value": "womp",
+							"styles": []
+						},
+						{
+							"type": "Text",
+							"value": ".",
+							"styles": []
+						},
+						{
+							"type": "Text",
+							"value": " ",
+							"styles": [
+								"Italic"
+							]
+						},
+						{
+							"type": "Text",
+							"value": "[",
+							"styles": []
+						},
+						{
+							"reference": "https://variety.com/2019/gaming/news/alien-blackout-interview-1203103736/",
+							"value": [
+								{
+									"type": "Text",
+									"value": "Variety",
+									"styles": []
+								}
+							],
+							"type": "Link"
+						},
+						{
+							"type": "Text",
+							"value": "]",
+							"styles": []
+						}
+					],
+					"containers": [],
+					"type": "Paragraph"
+				},
+				{
+					"style": "Line",
+					"containers": [],
+					"type": "HorizontalRule"
+				},
+				{
+					"value": [
+						{
+							"type": "Text",
+							"value": "Gunpowder Milkshake",
+							"styles": [
+								"Bold"
+							]
+						}
+					],
+					"icon": null,
+					"alignment": "Left",
+					"level": 3,
+					"containers": [],
+					"type": "Header"
+				},
+				{
+					"value": [
+						{
+							"reference": "https://www.hollywoodreporter.com/heat-vision/karen-gillan-star-assassin-movie-gunpowder-milkshake-1174577",
+							"value": [
+								{
+									"type": "Text",
+									"value": "THR",
+									"styles": []
+								}
+							],
+							"type": "Link"
+						},
+						{
+							"type": "Text",
+							"value": " reports Karen Gillan will star in an “all-female” action thriller “in the assassin genre” from ",
+							"styles": []
+						},
+						{
+							"type": "Text",
+							"value": "Big Bad Wolves ",
+							"styles": [
+								"Italic"
+							]
+						},
+						{
+							"type": "Text",
+							"value": "directors Aharon Keshales and Navot Papushado. Though plot details are currently under wraps, the story is said to span “multiple generations” with Gillan as its “cornerstone.”",
+							"styles": []
+						}
+					],
+					"containers": [],
+					"type": "Paragraph"
+				},
+				{
+					"style": "Line",
+					"containers": [],
+					"type": "HorizontalRule"
+				},
+				{
+					"value": [
+						{
+							"type": "Text",
+							"value": "The Hunt",
+							"styles": [
+								"Bold"
+							]
+						}
+					],
+					"icon": null,
+					"alignment": "Left",
+					"level": 3,
+					"containers": [],
+					"type": "Header"
+				},
+				{
+					"value": [
+						{
+							"reference": "http://www.thathashtagshow.com/2019/01/09/exclusive-betty-gilpin-offered-the-lead-role-in-blumhouse-film-the-hunt/",
+							"value": [
+								{
+									"type": "Text",
+									"value": "That Hashtag Show",
+									"styles": []
+								}
+							],
+							"type": "Link"
+						},
+						{
+							"type": "Text",
+							"value": " reports Betty Gilpin has been offered the lead role in ",
+							"styles": []
+						},
+						{
+							"type": "Text",
+							"value": "The Hunt",
+							"styles": [
+								"Italic"
+							]
+						},
+						{
+							"type": "Text",
+							"value": ", Blumhouse’s upcoming take on ",
+							"styles": []
+						},
+						{
+							"type": "Text",
+							"value": "The Most Dangerous Game ",
+							"styles": [
+								"Italic"
+							]
+						},
+						{
+							"type": "Text",
+							"value": "from",
+							"styles": []
+						},
+						{
+							"type": "Text",
+							"value": " ",
+							"styles": [
+								"Italic"
+							]
+						},
+						{
+							"type": "Text",
+							"value": "screenwriters Damon Lindelof, Nick Cuse, and director Craig Zobel. According to the outlet, Gilpin will play a character named Crystal,",
+							"styles": []
+						},
+						{
+							"type": "Text",
+							"value": " ",
+							"styles": [
+								"Italic"
+							]
+						},
+						{
+							"type": "Text",
+							"value": "a “veteran who is trying to keep her life together with her part-time job and after the death of her parents. She mysteriously is a part of the hunted. All she cares about is her will to survive”",
+							"styles": []
+						}
+					],
+					"containers": [],
+					"type": "Paragraph"
+				},
+				{
+					"style": "Line",
+					"containers": [],
+					"type": "HorizontalRule"
+				},
+				{
+					"value": [
+						{
+							"type": "Text",
+							"value": "Silver Surfer",
+							"styles": [
+								"Bold"
+							]
+						}
+					],
+					"icon": null,
+					"alignment": "Left",
+					"level": 3,
+					"containers": [],
+					"type": "Header"
+				},
+				{
+					"value": [
+						{
+							"type": "Text",
+							"value": "Adam McKay revealed he’s been talking with Marvel to direct a ",
+							"styles": []
+						},
+						{
+							"type": "Text",
+							"value": "Silver Surfer",
+							"styles": [
+								"Italic"
+							]
+						},
+						{
+							"type": "Text",
+							"value": " movie to MTV News at the Golden Globes.",
+							"styles": []
+						}
+					],
+					"containers": [],
+					"type": "Paragraph"
+				},
+				{
+					"value": [
+						{
+							"type": "Text",
+							"value": "There actually has been some discussion about ",
+							"styles": []
+						},
+						{
+							"type": "Text",
+							"value": "Silver Surfer",
+							"styles": [
+								"Italic"
+							]
+						},
+						{
+							"type": "Text",
+							"value": ". My agent certainly woke up. They were excited. We’re in the middle of, you know, backing ",
+							"styles": []
+						},
+						{
+							"type": "Text",
+							"value": "Vice",
+							"styles": [
+								"Italic"
+							]
+						},
+						{
+							"type": "Text",
+							"value": " right now, but, who knows, maybe in a couple months it could pop up. I really am excited about that idea. So, we’ll see what happens.",
+							"styles": []
+						}
+					],
+					"containers": [
+						{
+							"type": "BlockQuote"
+						}
+					],
+					"type": "Paragraph"
+				},
+				{
+					"id": "1082698370056114177",
+					"thumbnail": null,
+					"type": "Twitter"
+				},
+				{
+					"style": "Line",
+					"containers": [],
+					"type": "HorizontalRule"
+				},
+				{
+					"value": [
+						{
+							"type": "Text",
+							"value": "Godzilla 3",
+							"styles": [
+								"Bold"
+							]
+						}
+					],
+					"icon": null,
+					"alignment": "Left",
+					"level": 3,
+					"containers": [],
+					"type": "Header"
+				},
+				{
+					"value": [
+						{
+							"type": "Text",
+							"value": "In a recent interview with ",
+							"styles": []
+						},
+						{
+							"reference": "https://www.cinematoday.jp/news/N0105905.amp.html",
+							"value": [
+								{
+									"type": "Text",
+									"value": "CinemaTodayJapan",
+									"styles": []
+								}
+							],
+							"type": "Link"
+						},
+						{
+							"type": "Text",
+							"value": ", ",
+							"styles": []
+						},
+						{
+							"type": "Text",
+							"value": "Godzilla: King of the Monsters",
+							"styles": [
+								"Italic"
+							]
+						},
+						{
+							"type": "Text",
+							"value": " director Chris Dougherty revealed he hopes to introduce Biollante and Gigan in a potential sequel. Dougherty also cited Anguirus and Mechagodzilla as two of his favorite Toho monsters",
+							"styles": []
+						},
+						{
+							"type": "Text",
+							"value": ".",
+							"styles": []
+						}
+					],
+					"containers": [],
+					"type": "Paragraph"
+				},
+				{
+					"style": "Line",
+					"containers": [],
+					"type": "HorizontalRule"
+				},
+				{
+					"value": [
+						{
+							"type": "Text",
+							"value": "Wonder",
+							"styles": [
+								"Bold"
+							]
+						},
+						{
+							"type": "Text",
+							"value": " Woman 1984",
+							"styles": [
+								"Bold"
+							]
+						}
+					],
+					"icon": null,
+					"alignment": "Left",
+					"level": 3,
+					"containers": [],
+					"type": "Header"
+				},
+				{
+					"value": [
+						{
+							"type": "Text",
+							"value": "Speaking with ",
+							"styles": []
+						},
+						{
+							"reference": "https://variety.com/2019/film/news/wonder-woman-1984-chris-pine-patty-jenkins-1203102673/",
+							"value": [
+								{
+									"type": "Text",
+									"value": "Variety",
+									"styles": []
+								}
+							],
+							"type": "Link"
+						},
+						{
+							"type": "Text",
+							"value": ", Chris Pine described the sequel’s miraculously reborn incarnation of Steve Trevor as a “deer in headlights.”",
+							"styles": []
+						}
+					],
+					"containers": [],
+					"type": "Paragraph"
+				},
+				{
+					"value": [
+						{
+							"type": "Text",
+							"value": "This one is a little different for me tonally. The tables are turned, and I’m more of the deer in the headlights.",
+							"styles": []
+						}
+					],
+					"containers": [
+						{
+							"type": "BlockQuote"
+						}
+					],
+					"type": "Paragraph"
+				},
+				{
+					"style": "Line",
+					"containers": [],
+					"type": "HorizontalRule"
+				},
+				{
+					"value": [
+						{
+							"type": "Text",
+							"value": "Avengers: Endgame",
+							"styles": [
+								"Bold"
+							]
+						}
+					],
+					"icon": null,
+					"alignment": "Left",
+					"level": 3,
+					"containers": [],
+					"type": "Header"
+				},
+				{
+					"value": [
+						{
+							"type": "Text",
+							"value": "At the 3:40 mark in the video below, Robert Downey, Jr. reveals Tony Stark drives an Audi e-",
+							"styles": []
+						},
+						{
+							"type": "Text",
+							"value": "tron",
+							"styles": []
+						},
+						{
+							"type": "Text",
+							"value": " GT in ",
+							"styles": []
+						},
+						{
+							"type": "Text",
+							"value": "Avengers 4, ",
+							"styles": [
+								"Italic"
+							]
+						},
+						{
+							"type": "Text",
+							"value": "presumably confirming the character survives his trip to outer space. Unless it’s a Space Audi, who knows.",
+							"styles": []
+						}
+					],
+					"containers": [],
+					"type": "Paragraph"
+				},
+				{
+					"id": "YXz4rnqsBCM",
+					"thumbnail": {
+						"id": "c9ajwuovzhphsseqjbcy",
+						"format": "jpg"
+					},
+					"start": 0,
+					"alignment": "Bleed",
+					"caption": [],
+					"type": "YoutubeVideo"
+				},
+				{
+					"value": [
+						{
+							"type": "LineBreak"
+						}
+					],
+					"icon": null,
+					"alignment": "Left",
+					"level": 3,
+					"containers": [],
+					"type": "Header"
+				},
+				{
+					"style": "Line",
+					"containers": [],
+					"type": "HorizontalRule"
+				},
+				{
+					"value": [
+						{
+							"type": "Text",
+							"value": "The LEGO Movie 2: The Second Part",
+							"styles": [
+								"Bold"
+							]
+						}
+					],
+					"icon": null,
+					"alignment": "Left",
+					"level": 3,
+					"containers": [],
+					"type": "Header"
+				},
+				{
+					"value": [
+						{
+							"reference": "http://collider.com/the-lego-movie-2-poster/#images",
+							"value": [
+								{
+									"type": "Text",
+									"value": "Collider",
+									"styles": []
+								}
+							],
+							"type": "Link"
+						},
+						{
+							"type": "Text",
+							"value": " has a new “blacklight” poster, rendered in neon pinks and blues.",
+							"styles": []
+						}
+					],
+					"containers": [],
+					"type": "Paragraph"
+				},
+				{
+					"id": "hbhtdg4prke9pgnvkq2x",
+					"format": "jpg",
+					"width": 1200,
+					"height": 1778,
+					"alignment": "Bleed",
+					"lightbox": true,
+					"caption": [],
+					"attribution": [],
+					"syndicationRights": false,
+					"altText": null,
+					"type": "Image"
+				},
+				{
+					"style": "Line",
+					"containers": [],
+					"type": "HorizontalRule"
+				},
+				{
+					"value": [
+						{
+							"type": "Text",
+							"value": "Glass",
+							"styles": [
+								"Bold"
+							]
+						}
+					],
+					"icon": null,
+					"alignment": "Left",
+					"level": 3,
+					"containers": [],
+					"type": "Header"
+				},
+				{
+					"value": [
+						{
+							"type": "Text",
+							"value": "Elijah meets The Horde in a new clip from ",
+							"styles": []
+						},
+						{
+							"type": "Text",
+							"value": "Glass",
+							"styles": [
+								"Italic"
+							]
+						},
+						{
+							"type": "Text",
+							"value": ". ",
+							"styles": []
+						},
+						{
+							"reference": "https://io9.gizmodo.com/glass-is-a-frustrating-unsatisfying-conclusion-to-the-1831611105",
+							"value": [
+								{
+									"type": "Text",
+									"value": "Our review just went up",
+									"styles": []
+								}
+							],
+							"type": "Link"
+						},
+						{
+							"type": "Text",
+							"value": " yesterday, in case you missed it.",
+							"styles": []
+						}
+					],
+					"containers": [],
+					"type": "Paragraph"
+				},
+				{
+					"id": "Yabr9pBUO6Y",
+					"thumbnail": {
+						"id": "fqekapd8g0bgqf2ezzx4",
+						"format": "jpg"
+					},
+					"start": 0,
+					"alignment": "Bleed",
+					"caption": [],
+					"type": "YoutubeVideo"
+				},
+				{
+					"value": [
+						{
+							"type": "LineBreak"
+						}
+					],
+					"icon": null,
+					"alignment": "Left",
+					"level": 3,
+					"containers": [],
+					"type": "Header"
+				},
+				{
+					"style": "Line",
+					"containers": [],
+					"type": "HorizontalRule"
+				},
+				{
+					"value": [
+						{
+							"type": "Text",
+							"value": "Legion",
+							"styles": [
+								"Bold"
+							]
+						}
+					],
+					"icon": null,
+					"alignment": "Left",
+					"level": 3,
+					"containers": [],
+					"type": "Header"
+				},
+				{
+					"value": [
+						{
+							"type": "Text",
+							"value": "According to ",
+							"styles": []
+						},
+						{
+							"reference": "https://variety.com/2019/tv/news/legion-season-3-lauren-tsai-1203103398/",
+							"value": [
+								{
+									"type": "Text",
+									"value": "Variety",
+									"styles": []
+								}
+							],
+							"type": "Link"
+						},
+						{
+							"type": "Text",
+							"value": ", Lauren Tsai has joined the cast of ",
+							"styles": []
+						},
+						{
+							"type": "Text",
+							"value": "Legion",
+							"styles": [
+								"Italic"
+							]
+						},
+						{
+							"type": "Text",
+							"value": "’s third season as Switch, “a young mutant whose secret ability serves as the key to executing David Haller’s plan.”",
+							"styles": []
+						}
+					],
+					"containers": [],
+					"type": "Paragraph"
+				},
+				{
+					"style": "Line",
+					"containers": [],
+					"type": "HorizontalRule"
+				},
+				{
+					"value": [
+						{
+							"type": "Text",
+							"value": "Evil",
+							"styles": [
+								"Bold"
+							]
+						}
+					],
+					"icon": null,
+					"alignment": "Left",
+					"level": 3,
+					"containers": [],
+					"type": "Header"
+				},
+				{
+					"value": [
+						{
+							"type": "Text",
+							"value": "CBS has ordered a pilot for an ",
+							"styles": []
+						},
+						{
+							"type": "Text",
+							"value": "X-Files-",
+							"styles": [
+								"Italic"
+							]
+						},
+						{
+							"type": "Text",
+							"value": "inspired drama from ",
+							"styles": []
+						},
+						{
+							"type": "Text",
+							"value": "The Good Fight",
+							"styles": [
+								"Italic"
+							]
+						},
+						{
+							"type": "Text",
+							"value": " creators, Robert ",
+							"styles": []
+						},
+						{
+							"type": "Text",
+							"value": "and",
+							"styles": []
+						},
+						{
+							"type": "Text",
+							"value": " Michelle King. According to ",
+							"styles": []
+						},
+						{
+							"reference": "https://www.hollywoodreporter.com/live-feed/good-fight-creators-supernatural-drama-scores-cbs-pilot-order-1175061",
+							"value": [
+								{
+									"type": "Text",
+									"value": "THR",
+									"styles": []
+								}
+							],
+							"type": "Link"
+						},
+						{
+							"type": "Text",
+							"value": ", ",
+							"styles": []
+						},
+						{
+							"type": "Text",
+							"value": "Evil",
+							"styles": [
+								"Italic"
+							]
+						},
+						{
+							"type": "Text",
+							"value": " “centers on a skeptical female clinical psychologist who joins a priest-in-training and a blue-collar contractor as they investigate supposed miracles, demonic possessions, and other extraordinary occurrences. Together they try to determine if there’s a scientific explanation or if something truly supernatural is at work.”",
+							"styles": []
+						}
+					],
+					"containers": [],
+					"type": "Paragraph"
+				},
+				{
+					"style": "Line",
+					"containers": [],
+					"type": "HorizontalRule"
+				},
+				{
+					"value": [
+						{
+							"type": "Text",
+							"value": "Star Trek: Discovery",
+							"styles": [
+								"Bold"
+							]
+						}
+					],
+					"icon": null,
+					"alignment": "Left",
+					"level": 3,
+					"containers": [],
+					"type": "Header"
+				},
+				{
+					"value": [
+						{
+							"type": "Text",
+							"value": "Speaking with ",
+							"styles": []
+						},
+						{
+							"reference": "https://www.hollywoodreporter.com/live-feed/star-trek-second-animated-series-more-short-treks-coming-cbs-all-access-1174218",
+							"value": [
+								{
+									"type": "Text",
+									"value": "THR",
+									"styles": []
+								}
+							],
+							"type": "Link"
+						},
+						{
+							"type": "Text",
+							"value": ", Alex Kurtzman confirmed there are currently no plans to introduce Captain Kirk in ",
+							"styles": []
+						},
+						{
+							"reference": "https://io9.gizmodo.com/star-trek-discoverys-second-season-is-being-helped-by-1831576827",
+							"value": [
+								{
+									"type": "Text",
+									"value": "Star Trek: Discovery",
+									"styles": [
+										"Italic"
+									]
+								}
+							],
+							"type": "Link"
+						},
+						{
+							"type": "Text",
+							"value": ", thanks to the show’s 10-year buffer between its events and Kirk’s arrival in the ",
+							"styles": []
+						},
+						{
+							"type": "Text",
+							"value": "Enterprise",
+							"styles": [
+								"Italic"
+							]
+						},
+						{
+							"type": "Text",
+							"value": " captain’s chair.",
+							"styles": []
+						}
+					],
+					"containers": [],
+					"type": "Paragraph"
+				},
+				{
+					"value": [
+						{
+							"type": "Text",
+							"value": "There’s a 10-year gap between where we are in Discovery and Kirk’s arrival on the Enterprise. There would [have to] be a major time jump if we were going to do something like that. What Kirk was doing at this particular time is another question, but we don’t have any immediate plans [for the character]. I have not spoken to Shatner about it.",
+							"styles": []
+						}
+					],
+					"containers": [
+						{
+							"type": "BlockQuote"
+						}
+					],
+					"type": "Paragraph"
+				},
+				{
+					"style": "Line",
+					"containers": [],
+					"type": "HorizontalRule"
+				},
+				{
+					"value": [
+						{
+							"type": "Text",
+							"value": "What We Do in the Shadows",
+							"styles": [
+								"Bold"
+							]
+						}
+					],
+					"icon": null,
+					"alignment": "Left",
+					"level": 3,
+					"containers": [],
+					"type": "Header"
+				},
+				{
+					"value": [
+						{
+							"type": "Text",
+							"value": "A new trailer reveals the ",
+							"styles": []
+						},
+						{
+							"type": "Text",
+							"value": "What We Do in the Shadows",
+							"styles": [
+								"Italic"
+							]
+						},
+						{
+							"type": "Text",
+							"value": " television series premieres this March on FX",
+							"styles": []
+						},
+						{
+							"type": "Text",
+							"value": ".",
+							"styles": []
+						}
+					],
+					"containers": [],
+					"type": "Paragraph"
+				},
+				{
+					"id": "okxXf9OcBRI",
+					"thumbnail": {
+						"id": "v8fqea6lrzbfv6yg8gct",
+						"format": "jpg"
+					},
+					"start": 0,
+					"alignment": "Bleed",
+					"caption": [],
+					"type": "YoutubeVideo"
+				},
+				{
+					"style": "Line",
+					"containers": [],
+					"type": "HorizontalRule"
+				},
+				{
+					"value": [
+						{
+							"type": "Text",
+							"value": "The",
+							"styles": [
+								"Bold"
+							]
+						},
+						{
+							"type": "Text",
+							"value": " Punisher",
+							"styles": [
+								"Bold"
+							]
+						}
+					],
+					"icon": null,
+					"alignment": "Left",
+					"level": 3,
+					"containers": [],
+					"type": "Header"
+				},
+				{
+					"value": [
+						{
+							"type": "Text",
+							"value": "Frank’s got some red on him in a new poster, via ",
+							"styles": []
+						},
+						{
+							"reference": "https://www.comingsoon.net/tv/news/1026089-the-punisher-season-2-poster-trouble-is-coming",
+							"value": [
+								{
+									"type": "Text",
+									"value": "Coming Soon",
+									"styles": []
+								}
+							],
+							"type": "Link"
+						},
+						{
+							"type": "Text",
+							"value": ".",
+							"styles": []
+						}
+					],
+					"containers": [],
+					"type": "Paragraph"
+				},
+				{
+					"id": "evfutunjt691faqry3x3",
+					"format": "jpg",
+					"width": 810,
+					"height": 1200,
+					"alignment": "Bleed",
+					"lightbox": true,
+					"caption": [],
+					"attribution": [],
+					"syndicationRights": false,
+					"altText": null,
+					"type": "Image"
+				},
+				{
+					"style": "Line",
+					"containers": [],
+					"type": "HorizontalRule"
+				},
+				{
+					"value": [
+						{
+							"type": "Text",
+							"value": "Arrow",
+							"styles": [
+								"Bold"
+							]
+						}
+					],
+					"icon": null,
+					"alignment": "Left",
+					"level": 3,
+					"containers": [],
+					"type": "Header"
+				},
+				{
+					"value": [
+						{
+							"reference": "https://www.comingsoon.net/movies/news/1025945-new-photos-from-arrows-midseason-premiere-shattered-lives",
+							"value": [
+								{
+									"type": "Text",
+									"value": "Coming Soon",
+									"styles": []
+								}
+							],
+							"type": "Link"
+						},
+						{
+							"type": "Text",
+							"value": " also has photos from ",
+							"styles": []
+						},
+						{
+							"type": "Text",
+							"value": "Arrow",
+							"styles": [
+								"Italic"
+							]
+						},
+						{
+							"type": "Text",
+							"value": "’s midseason premiere, “Shattered Lives.” More at the link.",
+							"styles": []
+						}
+					],
+					"containers": [],
+					"type": "Paragraph"
+				},
+				{
+					"id": "oeid3qmg7mal6qozhq8n",
+					"format": "jpg",
+					"width": 1200,
+					"height": 675,
+					"alignment": "Bleed",
+					"lightbox": true,
+					"caption": [],
+					"attribution": [],
+					"syndicationRights": false,
+					"altText": null,
+					"type": "Image"
+				},
+				{
+					"style": "Line",
+					"containers": [],
+					"type": "HorizontalRule"
+				},
+				{
+					"value": [
+						{
+							"type": "Text",
+							"value": "Black Lightning",
+							"styles": [
+								"Bold"
+							]
+						}
+					],
+					"icon": null,
+					"alignment": "Left",
+					"level": 3,
+					"containers": [],
+					"type": "Header"
+				},
+				{
+					"value": [
+						{
+							"type": "Text",
+							"value": "Jennifer’s ready to take down Tobias Whale in the trailer for “The Book of Rebellion Chapter Three: Angelitos Negros.”",
+							"styles": []
+						}
+					],
+					"containers": [],
+					"type": "Paragraph"
+				},
+				{
+					"id": "flYN4KVd-5Q",
+					"thumbnail": {
+						"id": "vx3xagnjgvsld5euptkg",
+						"format": "jpg"
+					},
+					"start": 0,
+					"alignment": "Bleed",
+					"caption": [],
+					"type": "YoutubeVideo"
+				},
+				{
+					"style": "Line",
+					"containers": [],
+					"type": "HorizontalRule"
+				},
+				{
+					"value": [
+						{
+							"type": "Text",
+							"value": "The Flash",
+							"styles": []
+						}
+					],
+					"icon": null,
+					"alignment": "Left",
+					"level": 3,
+					"containers": [],
+					"type": "Header"
+				},
+				{
+					"value": [
+						{
+							"type": "Text",
+							"value": "Cicada strikes, Reverse-Flash schemes, and Barry goes ice skating with Nora in the extended trailer for “The Flash and The Furious.”",
+							"styles": []
+						}
+					],
+					"containers": [],
+					"type": "Paragraph"
+				},
+				{
+					"id": "lzqSdyVMq9Y",
+					"thumbnail": {
+						"id": "tuzdpmipj08c6awdvgsc",
+						"format": "jpg"
+					},
+					"start": 0,
+					"alignment": "Bleed",
+					"caption": [],
+					"type": "YoutubeVideo"
+				},
+				{
+					"style": "Line",
+					"containers": [],
+					"type": "HorizontalRule"
+				},
+				{
+					"value": [
+						{
+							"type": "Text",
+							"value": "Gotham",
+							"styles": [
+								"Bold"
+							]
+						}
+					],
+					"icon": null,
+					"alignment": "Left",
+					"level": 3,
+					"containers": [],
+					"type": "Header"
+				},
+				{
+					"value": [
+						{
+							"type": "Text",
+							"value": "Finally, Barbara spars with Gordon in a clip from tonight’s episode of ",
+							"styles": []
+						},
+						{
+							"type": "Text",
+							"value": "Gotham",
+							"styles": [
+								"Italic"
+							]
+						},
+						{
+							"type": "Text",
+							"value": ", “Trespassers.”",
+							"styles": []
+						}
+					],
+					"containers": [],
+					"type": "Paragraph"
+				},
+				{
+					"id": "9q0C0RB_jPY",
+					"thumbnail": {
+						"id": "ytevuxzfd3cmofxkjisn",
+						"format": "jpg"
+					},
+					"start": 0,
+					"alignment": "Bleed",
+					"caption": [],
+					"type": "YoutubeVideo"
+				},
+				{
+					"style": "Line",
+					"containers": [],
+					"type": "HorizontalRule"
+				},
+				{
+					"value": [
+						{
+							"type": "Text",
+							"value": "Banner art by Jim Cooke",
+							"styles": [
+								"Subscript",
+								"Italic"
+							]
+						},
+						{
+							"type": "Text",
+							"value": ".",
+							"styles": [
+								"Subscript"
+							]
+						}
+					],
+					"containers": [],
+					"type": "Paragraph"
+				}
+			],
+			"mainMedia": {
+				"id": "v9jldlkvyfezt7wcoqrk",
+				"format": "png",
+				"width": 970,
+				"height": 546,
+				"alignment": "Bleed",
+				"lightbox": true,
+				"caption": [
+					{
+						"type": "Text",
+						"value": "Don’t get your hopes up about those recent Alien teasers.",
+						"styles": []
+					}
+				],
+				"attribution": [
+					{
+						"label": "Photo",
+						"credit": [
+							{
+								"styles": [],
+								"value": "20th Century Fox",
+								"type": "Text"
+							}
+						],
+						"source": []
+					}
+				],
+				"syndicationRights": false,
+				"altText": null,
+				"type": "Image"
+			},
+			"largeOnStream": true,
+			"images": [
+				{
+					"uid": "v9jldlkvyfezt7wcoqrk",
+					"originalWidth": 970,
+					"originalHeight": 546,
+					"format": "png",
+					"width": 970,
+					"height": 546,
+					"id": "v9jldlkvyfezt7wcoqrk",
+					"frozenFormat": "png"
+				},
+				{
+					"uid": "q5dc9wfx2bgykf6nokfx",
+					"originalWidth": 800,
+					"originalHeight": 88,
+					"format": "png",
+					"width": 800,
+					"height": 88,
+					"id": "q5dc9wfx2bgykf6nokfx",
+					"frozenFormat": "png"
+				},
+				{
+					"uid": "hbhtdg4prke9pgnvkq2x",
+					"originalWidth": 1200,
+					"originalHeight": 1778,
+					"format": "jpg",
+					"width": 1200,
+					"height": 1778,
+					"id": "hbhtdg4prke9pgnvkq2x",
+					"frozenFormat": "jpg"
+				},
+				{
+					"uid": "evfutunjt691faqry3x3",
+					"originalWidth": 810,
+					"originalHeight": 1200,
+					"format": "jpg",
+					"width": 810,
+					"height": 1200,
+					"id": "evfutunjt691faqry3x3",
+					"frozenFormat": "jpg"
+				},
+				{
+					"uid": "oeid3qmg7mal6qozhq8n",
+					"originalWidth": 1200,
+					"originalHeight": 675,
+					"format": "jpg",
+					"width": 1200,
+					"height": 675,
+					"id": "oeid3qmg7mal6qozhq8n",
+					"frozenFormat": "jpg"
+				}
+			],
+			"videos": [
+				{
+					"id": null,
+					"type": "youtube",
+					"embedCode": null,
+					"height": null,
+					"width": null,
+					"thumbnails": [
+						{
+							"uid": "c9ajwuovzhphsseqjbcy",
+							"format": "jpg",
+							"width": 0,
+							"height": 0,
+							"id": "c9ajwuovzhphsseqjbcy",
+							"frozenFormat": "jpg"
+						}
+					]
+				},
+				{
+					"id": null,
+					"type": "youtube",
+					"embedCode": null,
+					"height": null,
+					"width": null,
+					"thumbnails": [
+						{
+							"uid": "fqekapd8g0bgqf2ezzx4",
+							"format": "jpg",
+							"width": 0,
+							"height": 0,
+							"id": "fqekapd8g0bgqf2ezzx4",
+							"frozenFormat": "jpg"
+						}
+					]
+				},
+				{
+					"id": null,
+					"type": "youtube",
+					"embedCode": null,
+					"height": null,
+					"width": null,
+					"thumbnails": [
+						{
+							"uid": "v8fqea6lrzbfv6yg8gct",
+							"format": "jpg",
+							"width": 0,
+							"height": 0,
+							"id": "v8fqea6lrzbfv6yg8gct",
+							"frozenFormat": "jpg"
+						}
+					]
+				},
+				{
+					"id": null,
+					"type": "youtube",
+					"embedCode": null,
+					"height": null,
+					"width": null,
+					"thumbnails": [
+						{
+							"uid": "vx3xagnjgvsld5euptkg",
+							"format": "jpg",
+							"width": 0,
+							"height": 0,
+							"id": "vx3xagnjgvsld5euptkg",
+							"frozenFormat": "jpg"
+						}
+					]
+				},
+				{
+					"id": null,
+					"type": "youtube",
+					"embedCode": null,
+					"height": null,
+					"width": null,
+					"thumbnails": [
+						{
+							"uid": "tuzdpmipj08c6awdvgsc",
+							"format": "jpg",
+							"width": 0,
+							"height": 0,
+							"id": "tuzdpmipj08c6awdvgsc",
+							"frozenFormat": "jpg"
+						}
+					]
+				},
+				{
+					"id": null,
+					"type": "youtube",
+					"embedCode": null,
+					"height": null,
+					"width": null,
+					"thumbnails": [
+						{
+							"uid": "ytevuxzfd3cmofxkjisn",
+							"format": "jpg",
+							"width": 0,
+							"height": 0,
+							"id": "ytevuxzfd3cmofxkjisn",
+							"frozenFormat": "jpg"
+						}
+					]
+				}
+			],
+			"lastUpdateTimeMillis": 1547129295557,
+			"timezone": "America/New_York",
+			"blogIds": [
+				"8",
+				"156147",
+				"87750681"
+			],
+			"defaultBlogId": "8",
+			"parentId": null,
+			"starterId": "1831529510",
+			"parentAuthorId": null,
+			"salesAvatar": null,
+			"sponsored": false,
+			"sharedUrl": null,
+			"status": "PUBLISHED",
+			"authorId": "5724542002230561815",
+			"authorIds": [
+				"5724542002230561815",
+				"5799958939291581341"
+			],
+			"ownerId": null,
+			"bylineProperties": {
+				"byline": "",
+				"show": true
+			},
+			"properties": "{\"headTitleTag\":\"Don't Expect a New Alien Movie or TV Show Just Yet\",\"socialHeadline\":\"\",\"socialDescription\":\"\",\"dropCapEnabled\":false,\"autoRepostDisabled\":false,\"impactHeader\":{}}",
+			"allowReplies": true,
+			"showAuthorBio": true,
+			"approved": true,
+			"author": null,
+			"authors": [],
+			"tags": [
+				{
+					"canonical": "alien",
+					"urlName": "alien",
+					"displayName": "Alien"
+				},
+				{
+					"canonical": "avengersendgame",
+					"urlName": "avengers-endgame",
+					"displayName": "Avengers: Endgame"
+				},
+				{
+					"canonical": "thepunisher",
+					"urlName": "the-punisher",
+					"displayName": "The Punisher"
+				},
+				{
+					"canonical": "silversurfer",
+					"urlName": "silver-surfer",
+					"displayName": "Silver Surfer"
+				},
+				{
+					"canonical": "wonderwoman1984",
+					"urlName": "wonder-woman-1984",
+					"displayName": "Wonder Woman 1984"
+				},
+				{
+					"canonical": "gunpowdermilkshake",
+					"urlName": "gunpowder-milkshake",
+					"displayName": "Gunpowder Milkshake"
+				},
+				{
+					"canonical": "evil",
+					"urlName": "evil",
+					"displayName": "Evil"
+				},
+				{
+					"canonical": "legion",
+					"urlName": "legion",
+					"displayName": "Legion"
+				},
+				{
+					"canonical": "thelegomovie2thesecondpart",
+					"urlName": "the-lego-movie-2-the-second-part",
+					"displayName": "The LEGO Movie 2: The Second Part"
+				},
+				{
+					"canonical": "godzilla3",
+					"urlName": "godzilla-3",
+					"displayName": "Godzilla 3"
+				},
+				{
+					"canonical": "thehunt",
+					"urlName": "the-hunt",
+					"displayName": "The Hunt"
+				},
+				{
+					"canonical": "startrekdiscovery",
+					"urlName": "star-trek-discovery",
+					"displayName": "Star Trek: Discovery"
+				},
+				{
+					"canonical": "gotham",
+					"urlName": "gotham",
+					"displayName": "Gotham"
+				},
+				{
+					"canonical": "blacklightning",
+					"urlName": "black-lightning",
+					"displayName": "Black Lightning"
+				},
+				{
+					"canonical": "theflash",
+					"urlName": "the-flash",
+					"displayName": "The Flash"
+				},
+				{
+					"canonical": "arrow",
+					"urlName": "arrow",
+					"displayName": "Arrow"
+				},
+				{
+					"canonical": "whatwedointheshadows",
+					"urlName": "what-we-do-in-the-shadows",
+					"displayName": "what we do in the shadows"
+				}
+			],
+			"replyCount": 25,
+			"storyTypeId": 137,
+			"storyType": {
+				"id": 137,
+				"blogId": 4,
+				"canonical": "morning-spoilers",
+				"title": "Morning Spoilers",
+				"content": "Standard",
+				"description": "If there’s news about upcoming movies and television you’re not supposed to know, you’ll find it in here.",
+				"boilerplate": "If there’s news about upcoming movies and television you’re not supposed to know, you’ll find it in here."
+			},
+			"parent": null,
+			"repost": {
+				"id": "1792345553",
+				"postId": "1831529510",
+				"blogId": "4",
+				"authorId": "5724542002230561815",
+				"post": null,
+				"blog": null,
+				"author": null,
+				"createTimeMillis": 1547129354901,
+				"repostTimeMillis": 1547129354901,
+				"originalProps": {
+					"id": "1792345553",
+					"postId": "1831529510",
+					"blogId": "4",
+					"authorId": "5724542002230561815",
+					"createTimeMillis": 1547129354901,
+					"repostTimeMillis": 1547129354901
+				}
+			},
+			"isFeatured": false,
+			"isVideo": false,
+			"featuredMedia": null,
+			"qaParticipants": [],
+			"qaMembers": [],
+			"staffIncluded": false,
+			"relatedModule": null,
+			"relatedPosts": [],
+			"links": null,
+			"category": null,
+			"categoryData": null,
+			"subcategory": null,
+			"subcategoryData": null,
+			"permalinkRedirect": null,
+			"plaintext": "Karen Gillan could be leading her own assassin movie universe. Adam McKay says he’s talked to Marvel about bringing the Silver Surfer to the big screen. A few more Toho classics could appear in a potential Godzilla 3. Plus. Chris Pine teases Steve Trevor’s demeanor in Wonder Woman 1984 and what’s to come on The Flash. Spoilers now!",
+			"permalinkHost": "https://io9.gizmodo.com",
+			"permalinkPath": "/updates-from-the-world-of-alien-marvels-plans-for-silv-1831529510",
+			"publishTimeMillis": 1547129100510,
+			"customSharingMainImage": {
+				"src": "UNUSED",
+				"isAnimated": false,
+				"id": "v9jldlkvyfezt7wcoqrk",
+				"width": 800,
+				"height": 450,
+				"format": "png",
+				"frozenFormat": "png",
+				"type": "image"
+			},
+			"resolvedReviewScore": null
+		}
+	],
+	"pagination": {
+		"curr": {
+			"maxReturned": 3
+		},
+		"next": {
+			"startTime": 1547129354900,
+			"maxReturned": 3
+		},
+		"prev": null
+	}
+}

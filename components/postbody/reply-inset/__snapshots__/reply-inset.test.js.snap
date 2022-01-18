@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ReviewInset /> should render when a link is provided 1`] = `
+<p>
+  <iframe
+    height="350"
+    scrolling="no"
+    src="https://api.kinja.com/embed/thread/5"
+    width="640"
+  />
+</p>
+`;
+
+exports[`<ReviewInset /> should render when postId is not available 1`] = `
+<p>
+  <a
+    href="https://google.com"
+  >
+    https://google.com
+  </a>
+</p>
+`;

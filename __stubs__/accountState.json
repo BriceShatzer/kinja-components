@@ -1,0 +1,79 @@
+{
+	"accountState": {
+		"id": "5876237249236221114",
+		"displayName": "Marton Borlay",
+		"screenName": "mborlay",
+		"followedBlogIds": [17, 9, 1635215649, 511286529],
+		"followedAuthorIds": ["511286528", "5876237249237204015", "5876237249236221114"],
+		"avatar": {
+			"id": "pv1podcwmykqxqxnsug1",
+			"format": "jpg"
+		},
+		"authorId": "5876237249236221114",
+		"authType": 3,
+		"authName": "google",
+		"createdMillis": 1572890400001,
+		"updatedMillis": 1561994112398,
+		"status": "enabled",
+		"defaultBlogId": 1635167137,
+		"isSuperuser": true,
+		"isSales": false,
+		"isGmgMember": true,
+		"membership": [{
+			"authorId": "5876237249236221114",
+			"userId": "5876237249236221114",
+			"blogId": 1635167137,
+			"role": "OWNER",
+			"blog": {
+				"id": 1635167137,
+				"name": "mborlay",
+				"displayName": "The Marciverse",
+				"blogGroup": null,
+				"parentId": null,
+				"canonicalHost": "mborlay.kinja.com",
+				"hosts": [],
+				"status": "ENABLED",
+				"timezone": "America/New_York",
+				"timezoneOffset": -14400000,
+				"avatar": {
+					"id": "s1qmgufsysj2y33ui8di",
+					"format": "png"
+				},
+				"isGmgBlog": false
+			}
+		}, {
+			"authorId": "5876237249236221114",
+			"userId": "5876237249236221114",
+			"blogId": 4,
+			"role": "ADMIN",
+			"blog": {
+				"id": 4,
+				"name": "gizmodo",
+				"displayName": "Gizmodo",
+				"blogGroup": "gizmodo",
+				"parentId": null,
+				"canonicalHost": "gizmodo.com",
+				"hosts": ["hoptech431.gizmodo.com", "reframe.gizmodo.com", "doctorwho.io9.com", "indefinitelywild.gizmodo.com", "live.gizmodo.com", "animals.kinja.com", "education.gizmodo.com", "doctorwho.gizmodo.com", "nl.gizmodo.com", "homeofthefuture.gizmodo.com", "southland.gizmodo.com", "toybox.io9.com", "20khz.gizmodo.com", "animation.gizmodo.com", "education.kinja.com", "foodlab.gizmodo.com", "animalsx.kinja.com", "backalley.gizmodo.com", "lego.gizmodo.com", "toybox.gizmodo.com", "toybox.kinja.com", "throb.gizmodo.com", "au.gizmodo.com", "space.io9.com", "ca.gizmodo.com", "gizmodo.kinja.com", "offworld.gizmodo.com", "old.gizmodo.com", "fetch.gizmodo.com", "truecrimeio9.kinja.com", "animation.io9.com", "truecrime.gizmodo.com", "001.gizmodo.com", "disquiet.gizmodo.com", "www.gizmodo.com", "gizmodo.in", "gizmodo.co.in", "space.gizmodo.com", "assets.gizmodo.com", "io9education.kinja.com", "ru.gizmodo.com", "m.gizmodo.com", "education.io9.com", "blog.gizmodo.com", "gifmodo.gizmodo.com", "animals.gizmodo.com", "wearables.gizmodo.com", "upgrade.gizmodo.com", "reviews.gizmodo.com", "us.gizmodo.com", "ces.gizmodo.com", "animation.kinja.com", "toyland.gizmodo.com", "pl.gizmodo.com", "upgrade.io9.com", "truecrime.io9.com", "bite.gizmodo.com", "factually.gizmodo.com", "br.gizmodo.com", "upgrade.kinja.com", "animals.io9.com", "doctorwhoio9.kinja.com"],
+				"status": "ENABLED",
+				"timezone": "America/New_York",
+				"timezoneOffset": -14400000,
+				"avatar": {
+					"id": "fdj3buryz5nuzyf2k620",
+					"format": "png"
+				},
+				"isGmgBlog": true
+			}
+		}],
+		"remotes": {
+			"google": {
+				"enabled": true
+			}
+		},
+		"confirmedEmail": "marton.borlay@kinja.com"
+	},
+	"token": {
+		"token": "0f3d05b4-8e52-48b9-b746-d4dc7c59ee77-0-0ab6a6ffe43355ae194c4017e3d33c7d5fe03a78",
+		"secure": false,
+		"createdMillis": 1572890400001
+	}
+}

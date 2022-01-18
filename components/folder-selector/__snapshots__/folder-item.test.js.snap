@@ -1,0 +1,92 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<FolderItem/> should render chevron for items with children 1`] = `
+<folder-item__Wrapper
+  data-shouldshowtooltip={false}
+  data-tooltipname="Barf Bag"
+  data-tooltipoffset={5}
+  onClick={[Function]}
+>
+  <folder-item__Inner>
+    <folder-item__IconWrapper>
+      <FolderIcon />
+    </folder-item__IconWrapper>
+    <folder-item__Name>
+      Barf Bag
+    </folder-item__Name>
+    <ChevronRightIcon />
+  </folder-item__Inner>
+</folder-item__Wrapper>
+`;
+
+exports[`<FolderItem/> should render with default icon 1`] = `
+<folder-item__Wrapper
+  data-shouldshowtooltip={false}
+  data-tooltipname="Barf Bag"
+  data-tooltipoffset={5}
+  onClick={[Function]}
+>
+  <folder-item__Inner>
+    <folder-item__IconWrapper>
+      <FolderIcon />
+    </folder-item__IconWrapper>
+    <folder-item__Name>
+      Barf Bag
+    </folder-item__Name>
+  </folder-item__Inner>
+</folder-item__Wrapper>
+`;
+
+exports[`<FolderItem/> should render with default icon 2`] = `
+<folder-item__Wrapper
+  data-shouldshowtooltip={false}
+  data-tooltipname="Barf Bag"
+  data-tooltipoffset={5}
+  onClick={[Function]}
+>
+  <folder-item__Inner>
+    <folder-item__IconWrapper>
+      <FolderIcon />
+    </folder-item__IconWrapper>
+    <folder-item__Name>
+      Barf Bag
+    </folder-item__Name>
+  </folder-item__Inner>
+</folder-item__Wrapper>
+`;
+
+exports[`<FolderItem/> should render with default icon for video 1`] = `
+<folder-item__Wrapper
+  data-shouldshowtooltip={false}
+  data-tooltipname="Barf Bag"
+  data-tooltipoffset={5}
+  onClick={[Function]}
+>
+  <folder-item__Inner>
+    <folder-item__IconWrapper>
+      <FolderVideoIcon />
+    </folder-item__IconWrapper>
+    <folder-item__Name>
+      Barf Bag
+    </folder-item__Name>
+  </folder-item__Inner>
+</folder-item__Wrapper>
+`;
+
+exports[`<FolderItem/> should render with icon passed in 1`] = `
+<folder-item__Wrapper
+  data-shouldshowtooltip={false}
+  data-tooltipname="Barf Bag"
+  data-tooltipoffset={5}
+  onClick={[Function]}
+>
+  <folder-item__Inner>
+    <folder-item__IconWrapper>
+      <MomJeansIcon />
+    </folder-item__IconWrapper>
+    <folder-item__Name>
+      Barf Bag
+    </folder-item__Name>
+  </folder-item__Inner>
+</folder-item__Wrapper>
+`;

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" aria-label="Jalopnik avatar" viewBox="0 0 64 64">
+	<g fill="none" fill-rule="evenodd">
+		<path fill="#FF4D00" d="M0 0h64v64H0z"/>
+		<path fill="#FFF" d="M24.2 53H15l1.8-18h9.3c.95 0 1.8-.57 1.9-1.51L30.24 11h17.13l-2.4 24.22a24.27 24.27 0 0 1-.63 3.38s-1.91 14.23-16.7 14.32c-.7.08-2.5.08-3.45.08z"/>
+	</g>
+</svg>

@@ -1,0 +1,64 @@
+#!/usr/bin/env node
+const fs = require('fs');
+const exec = require('child_process').exec;
+const fileName = 'humans.txt';
+
+function addMeIfNeeded () {
+    getGitData('user.email', 'Email', (email) => {
+        readFromBuffer(email, (email, data) => {
+            if (data.replace(/\W/g,'').search(email.replace(/\W/g,'')) < 0) {
+                addMeToHumans();
+            };
+        });
+    });
+}
+
+function readFromBuffer (input, callback) {
+    fs.readFile(fileName, 'utf8', (error, data) => {
+        if (error) throw error;
+        callback(input, data);
+    });
+}
+
+function writeToBuffer (text, callback) {
+    fs.appendFile(fileName, text, 'utf8', (error) => {
+        if (error) throw error;
+    }); 
+}
+
+// async
+function getLocationData (label, callback) {
+	require('http').get({
+        host: 'freegeoip.net',
+        path: '/json/'
+    }, (response) => {
+        let body = '', ret;
+        response.on('data', (data) => {
+            body += data;
+        });
+        response.on('end', () => {
+            let parsed = JSON.parse(body);
+            callback([label, [parsed.city, parsed.country_name].join(', ')].join(': '));
+        });
+    });
+};
+
+// async
+function getGitData (param, label, callback) {
+    exec('git config ' + param, (error, stdout, stderr) => {
+        if (error) throw error;
+        callback([label, stdout].join(': '));
+    });
+};
+
+function addMeToHumans () {
+    writeToBuffer('\n\n');
+
+    getGitData('user.email', 'Email', writeToBuffer,
+        getGitData('user.name', 'Name', writeToBuffer,
+            getLocationData('Location', writeToBuffer)
+        )
+    );
+}
+
+addMeIfNeeded();

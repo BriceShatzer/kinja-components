@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ShowBrowser should render 1`] = `
+<ShowBrowser
+  blogGroup="avclub"
+  ga={[Function]}
+  gaNamespaced={[Function]}
+  getInitialState={[Function]}
+  loadVideosForTab={[Function]}
+  showMoreButton={false}
+/>
+`;

@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<InlineNode /> should render text should ignore links, linebreaks and other styles 1`] = `"<em>Kinja</em>This is link"`;
+
+exports[`<InlineNode /> should render text should render italic 1`] = `"<em>Kinja</em>"`;

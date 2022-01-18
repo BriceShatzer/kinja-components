@@ -1,0 +1,558 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CuratedHomepageEditor - undo stack swapCards should correctly swap cards from different blocks 1`] = `
+Object {
+  "editStack": Array [
+    Array [
+      CurationStandardBlock {
+        "autofill": undefined,
+        "cards": Array [
+          Object {
+            "customExcerpt": undefined,
+            "customHeadline": undefined,
+            "customThumbnail": undefined,
+            "postId": "312",
+          },
+          Object {
+            "customExcerpt": undefined,
+            "customHeadline": undefined,
+            "customThumbnail": undefined,
+            "postId": "61241",
+          },
+          Object {
+            "customExcerpt": undefined,
+            "customHeadline": undefined,
+            "customThumbnail": undefined,
+            "postId": "119",
+          },
+        ],
+        "id": "0",
+        "layout": Object {
+          "type": "CompactHorizontalList",
+        },
+        "type": "Standard",
+        "unbranded": false,
+      },
+      CurationStandardBlock {
+        "autofill": undefined,
+        "cards": Array [
+          Object {
+            "customExcerpt": undefined,
+            "customHeadline": undefined,
+            "customThumbnail": undefined,
+            "postId": "9920",
+          },
+          Object {
+            "customExcerpt": undefined,
+            "customHeadline": undefined,
+            "customThumbnail": undefined,
+            "postId": "122",
+          },
+          Object {
+            "customExcerpt": undefined,
+            "customHeadline": undefined,
+            "customThumbnail": undefined,
+            "postId": "434",
+          },
+          Object {
+            "customExcerpt": undefined,
+            "customHeadline": undefined,
+            "customThumbnail": undefined,
+            "postId": "254",
+          },
+        ],
+        "id": "1",
+        "layout": Object {
+          "type": "FourCardModular",
+        },
+        "type": "Standard",
+        "unbranded": false,
+      },
+    ],
+    Array [
+      CurationStandardBlock {
+        "autofill": undefined,
+        "cards": Array [
+          Object {
+            "customExcerpt": undefined,
+            "customHeadline": undefined,
+            "customThumbnail": undefined,
+            "postId": "312",
+          },
+          Object {
+            "customExcerpt": undefined,
+            "customHeadline": undefined,
+            "customThumbnail": undefined,
+            "postId": "61241",
+          },
+          Object {
+            "customExcerpt": undefined,
+            "customHeadline": undefined,
+            "customThumbnail": undefined,
+            "postId": "9920",
+          },
+        ],
+        "id": "0",
+        "layout": Object {
+          "type": "CompactHorizontalList",
+        },
+        "type": "Standard",
+        "unbranded": false,
+      },
+      CurationStandardBlock {
+        "autofill": undefined,
+        "cards": Array [
+          Object {
+            "customExcerpt": undefined,
+            "customHeadline": undefined,
+            "customThumbnail": undefined,
+            "postId": "119",
+          },
+          Object {
+            "customExcerpt": undefined,
+            "customHeadline": undefined,
+            "customThumbnail": undefined,
+            "postId": "122",
+          },
+          Object {
+            "customExcerpt": undefined,
+            "customHeadline": undefined,
+            "customThumbnail": undefined,
+            "postId": "434",
+          },
+          Object {
+            "customExcerpt": undefined,
+            "customHeadline": undefined,
+            "customThumbnail": undefined,
+            "postId": "254",
+          },
+        ],
+        "id": "1",
+        "layout": Object {
+          "type": "FourCardModular",
+        },
+        "type": "Standard",
+        "unbranded": false,
+      },
+    ],
+  ],
+  "undoPointer": null,
+}
+`;
+
+exports[`CuratedHomepageEditor - undo stack swapCards should correctly swap cards inside the same block 1`] = `
+Object {
+  "editStack": Array [
+    Array [
+      CurationStandardBlock {
+        "autofill": undefined,
+        "cards": Array [
+          Object {
+            "customExcerpt": undefined,
+            "customHeadline": undefined,
+            "customThumbnail": undefined,
+            "postId": "9920",
+          },
+          Object {
+            "customExcerpt": undefined,
+            "customHeadline": undefined,
+            "customThumbnail": undefined,
+            "postId": "61241",
+          },
+          Object {
+            "customExcerpt": undefined,
+            "customHeadline": undefined,
+            "customThumbnail": undefined,
+            "postId": "312",
+          },
+        ],
+        "id": "0",
+        "layout": Object {
+          "type": "CompactHorizontalList",
+        },
+        "type": "Standard",
+        "unbranded": false,
+      },
+      CurationStandardBlock {
+        "autofill": undefined,
+        "cards": Array [
+          Object {
+            "customExcerpt": undefined,
+            "customHeadline": undefined,
+            "customThumbnail": undefined,
+            "postId": "119",
+          },
+          Object {
+            "customExcerpt": undefined,
+            "customHeadline": undefined,
+            "customThumbnail": undefined,
+            "postId": "122",
+          },
+          Object {
+            "customExcerpt": undefined,
+            "customHeadline": undefined,
+            "customThumbnail": undefined,
+            "postId": "434",
+          },
+          Object {
+            "customExcerpt": undefined,
+            "customHeadline": undefined,
+            "customThumbnail": undefined,
+            "postId": "254",
+          },
+        ],
+        "id": "1",
+        "layout": Object {
+          "type": "FourCardModular",
+        },
+        "type": "Standard",
+        "unbranded": false,
+      },
+    ],
+    Array [
+      CurationStandardBlock {
+        "autofill": undefined,
+        "cards": Array [
+          Object {
+            "customExcerpt": undefined,
+            "customHeadline": undefined,
+            "customThumbnail": undefined,
+            "postId": "312",
+          },
+          Object {
+            "customExcerpt": undefined,
+            "customHeadline": undefined,
+            "customThumbnail": undefined,
+            "postId": "61241",
+          },
+          Object {
+            "customExcerpt": undefined,
+            "customHeadline": undefined,
+            "customThumbnail": undefined,
+            "postId": "9920",
+          },
+        ],
+        "id": "0",
+        "layout": Object {
+          "type": "CompactHorizontalList",
+        },
+        "type": "Standard",
+        "unbranded": false,
+      },
+      CurationStandardBlock {
+        "autofill": undefined,
+        "cards": Array [
+          Object {
+            "customExcerpt": undefined,
+            "customHeadline": undefined,
+            "customThumbnail": undefined,
+            "postId": "119",
+          },
+          Object {
+            "customExcerpt": undefined,
+            "customHeadline": undefined,
+            "customThumbnail": undefined,
+            "postId": "122",
+          },
+          Object {
+            "customExcerpt": undefined,
+            "customHeadline": undefined,
+            "customThumbnail": undefined,
+            "postId": "434",
+          },
+          Object {
+            "customExcerpt": undefined,
+            "customHeadline": undefined,
+            "customThumbnail": undefined,
+            "postId": "254",
+          },
+        ],
+        "id": "1",
+        "layout": Object {
+          "type": "FourCardModular",
+        },
+        "type": "Standard",
+        "unbranded": false,
+      },
+    ],
+  ],
+  "undoPointer": null,
+}
+`;
+
+exports[`CuratedHomepageEditor - undo stack swapCards should remove the unused part of the undo stack on update 1`] = `
+Object {
+  "editStack": Array [
+    Array [
+      CurationStandardBlock {
+        "autofill": undefined,
+        "cards": Array [
+          Object {
+            "customExcerpt": undefined,
+            "customHeadline": undefined,
+            "customThumbnail": undefined,
+            "postId": "9920",
+          },
+          Object {
+            "customExcerpt": undefined,
+            "customHeadline": undefined,
+            "customThumbnail": undefined,
+            "postId": "61241",
+          },
+          Object {
+            "customExcerpt": undefined,
+            "customHeadline": undefined,
+            "customThumbnail": undefined,
+            "postId": "312",
+          },
+        ],
+        "id": "0",
+        "layout": Object {
+          "type": "CompactHorizontalList",
+        },
+        "type": "Standard",
+        "unbranded": false,
+      },
+      CurationStandardBlock {
+        "autofill": undefined,
+        "cards": Array [
+          Object {
+            "customExcerpt": undefined,
+            "customHeadline": undefined,
+            "customThumbnail": undefined,
+            "postId": "119",
+          },
+          Object {
+            "customExcerpt": undefined,
+            "customHeadline": undefined,
+            "customThumbnail": undefined,
+            "postId": "122",
+          },
+          Object {
+            "customExcerpt": undefined,
+            "customHeadline": undefined,
+            "customThumbnail": undefined,
+            "postId": "434",
+          },
+          Object {
+            "customExcerpt": undefined,
+            "customHeadline": undefined,
+            "customThumbnail": undefined,
+            "postId": "254",
+          },
+        ],
+        "id": "1",
+        "layout": Object {
+          "type": "FourCardModular",
+        },
+        "type": "Standard",
+        "unbranded": false,
+      },
+    ],
+    Array [
+      CurationStandardBlock {
+        "autofill": undefined,
+        "cards": Array [
+          Object {
+            "customExcerpt": undefined,
+            "customHeadline": undefined,
+            "customThumbnail": undefined,
+            "postId": "312",
+          },
+          Object {
+            "customExcerpt": undefined,
+            "customHeadline": undefined,
+            "customThumbnail": undefined,
+            "postId": "61241",
+          },
+          Object {
+            "customExcerpt": undefined,
+            "customHeadline": undefined,
+            "customThumbnail": undefined,
+            "postId": "9920",
+          },
+        ],
+        "id": "0",
+        "layout": Object {
+          "type": "CompactHorizontalList",
+        },
+        "type": "Standard",
+        "unbranded": false,
+      },
+      CurationStandardBlock {
+        "autofill": undefined,
+        "cards": Array [
+          Object {
+            "customExcerpt": undefined,
+            "customHeadline": undefined,
+            "customThumbnail": undefined,
+            "postId": "119",
+          },
+          Object {
+            "customExcerpt": undefined,
+            "customHeadline": undefined,
+            "customThumbnail": undefined,
+            "postId": "122",
+          },
+          Object {
+            "customExcerpt": undefined,
+            "customHeadline": undefined,
+            "customThumbnail": undefined,
+            "postId": "434",
+          },
+          Object {
+            "customExcerpt": undefined,
+            "customHeadline": undefined,
+            "customThumbnail": undefined,
+            "postId": "254",
+          },
+        ],
+        "id": "1",
+        "layout": Object {
+          "type": "FourCardModular",
+        },
+        "type": "Standard",
+        "unbranded": false,
+      },
+    ],
+  ],
+  "undoPointer": null,
+}
+`;
+
+exports[`CuratedHomepageEditor - undo stack updateCard should correctly change a card, implementing undo stack 1`] = `
+Object {
+  "editStack": Array [
+    Array [
+      CurationStandardBlock {
+        "autofill": undefined,
+        "cards": Array [
+          Object {
+            "customExcerpt": undefined,
+            "customHeadline": undefined,
+            "customThumbnail": undefined,
+            "postId": "312",
+          },
+          Object {
+            "postId": "6",
+          },
+          Object {
+            "customExcerpt": undefined,
+            "customHeadline": undefined,
+            "customThumbnail": undefined,
+            "postId": "9920",
+          },
+        ],
+        "id": "0",
+        "layout": Object {
+          "type": "CompactHorizontalList",
+        },
+        "type": "Standard",
+        "unbranded": false,
+      },
+      CurationStandardBlock {
+        "autofill": undefined,
+        "cards": Array [
+          Object {
+            "customExcerpt": undefined,
+            "customHeadline": undefined,
+            "customThumbnail": undefined,
+            "postId": "119",
+          },
+          Object {
+            "customExcerpt": undefined,
+            "customHeadline": undefined,
+            "customThumbnail": undefined,
+            "postId": "122",
+          },
+          Object {
+            "customExcerpt": undefined,
+            "customHeadline": undefined,
+            "customThumbnail": undefined,
+            "postId": "434",
+          },
+          Object {
+            "customExcerpt": undefined,
+            "customHeadline": undefined,
+            "customThumbnail": undefined,
+            "postId": "254",
+          },
+        ],
+        "id": "1",
+        "layout": Object {
+          "type": "FourCardModular",
+        },
+        "type": "Standard",
+        "unbranded": false,
+      },
+    ],
+    Array [
+      CurationStandardBlock {
+        "autofill": undefined,
+        "cards": Array [
+          Object {
+            "customExcerpt": undefined,
+            "customHeadline": undefined,
+            "customThumbnail": undefined,
+            "postId": "312",
+          },
+          Object {
+            "customExcerpt": undefined,
+            "customHeadline": undefined,
+            "customThumbnail": undefined,
+            "postId": "61241",
+          },
+          Object {
+            "customExcerpt": undefined,
+            "customHeadline": undefined,
+            "customThumbnail": undefined,
+            "postId": "9920",
+          },
+        ],
+        "id": "0",
+        "layout": Object {
+          "type": "CompactHorizontalList",
+        },
+        "type": "Standard",
+        "unbranded": false,
+      },
+      CurationStandardBlock {
+        "autofill": undefined,
+        "cards": Array [
+          Object {
+            "customExcerpt": undefined,
+            "customHeadline": undefined,
+            "customThumbnail": undefined,
+            "postId": "119",
+          },
+          Object {
+            "customExcerpt": undefined,
+            "customHeadline": undefined,
+            "customThumbnail": undefined,
+            "postId": "122",
+          },
+          Object {
+            "customExcerpt": undefined,
+            "customHeadline": undefined,
+            "customThumbnail": undefined,
+            "postId": "434",
+          },
+          Object {
+            "customExcerpt": undefined,
+            "customHeadline": undefined,
+            "customThumbnail": undefined,
+            "postId": "254",
+          },
+        ],
+        "id": "1",
+        "layout": Object {
+          "type": "FourCardModular",
+        },
+        "type": "Standard",
+        "unbranded": false,
+      },
+    ],
+  ],
+  "undoPointer": null,
+}
+`;

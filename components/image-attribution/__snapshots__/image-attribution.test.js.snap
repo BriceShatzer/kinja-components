@@ -1,0 +1,465 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ImageAttributionComponent /> should not render anything if there is no attribution 1`] = `<Fragment />`;
+
+exports[`<ImageAttributionComponent /> should render and not tokenize by defult 1`] = `
+Array [
+  "Illustration: credit (source), ",
+  .c1 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0 {
+  color: #222;
+  -webkit-transition: color 0.1s ease-out;
+  transition: color 0.1s ease-out;
+  box-shadow: inset 0 -2px 0 #0A7BC2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0:hover {
+  color: #0A7BC2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+<span>
+    <a
+      class="c0 js_link c1"
+      data-ga="[[\\"Embedded Url\\",\\"Internal link\\",\\"\\",{\\"metric25\\":1}]]"
+      href=""
+    >
+      I am a link
+    </a>
+  </span>,
+  " (source), credit (",
+  .c1 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0 {
+  color: #222;
+  -webkit-transition: color 0.1s ease-out;
+  transition: color 0.1s ease-out;
+  box-shadow: inset 0 -2px 0 #0A7BC2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0:hover {
+  color: #0A7BC2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+<span>
+    <a
+      class="c0 js_link c1"
+      data-ga="[[\\"Embedded Url\\",\\"Internal link\\",\\"\\",{\\"metric25\\":1}]]"
+      href=""
+    >
+      I am a link
+    </a>
+  </span>,
+  ")",
+]
+`;
+
+exports[`<ImageAttributionComponent /> should render every licensor once 1`] = `
+<WithKinjaMeta
+  key="0"
+  nodes={
+    Array [
+      TextNode {
+        "styles": Array [],
+        "type": "Text",
+        "value": "source",
+      },
+    ]
+  }
+/>
+`;
+
+exports[`<ImageAttributionComponent /> should render for the editor and tokenize 1`] = `
+.c1 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0 {
+  color: #222;
+  -webkit-transition: color 0.1s ease-out;
+  transition: color 0.1s ease-out;
+  box-shadow: inset 0 -2px 0 #0A7BC2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0:hover {
+  color: #0A7BC2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+<span
+  data-label="Illustration"
+>
+  Illustration: 
+  <span
+    class="item"
+  >
+    <span
+      class="credit"
+    >
+      credit
+    </span>
+    <span
+      class="source"
+    >
+       (source)
+    </span>
+  </span>
+  , 
+  <span
+    class="item"
+  >
+    <span
+      class="credit"
+    >
+      <a
+        class="c0 js_link c1"
+        href=""
+      >
+        I am a link
+      </a>
+    </span>
+    <span
+      class="source"
+    >
+       (source)
+    </span>
+  </span>
+  , 
+  <span
+    class="item"
+  >
+    <span
+      class="credit"
+    >
+      credit
+    </span>
+    <span
+      class="source"
+    >
+       (
+      <a
+        class="c0 js_link c1"
+        href=""
+      >
+        I am a link
+      </a>
+      )
+    </span>
+  </span>
+</span>
+`;
+
+exports[`<ImageAttributionComponent /> should render image attributions with credit and source 1`] = `
+<Fragment>
+  <Token
+    data-label="Illustration"
+    tokenize={false}
+  >
+    Illustration
+    : 
+    <Token
+      className="item"
+      key="0"
+      tokenize={false}
+    >
+      <AttributionItem
+        credit={
+          Array [
+            TextNode {
+              "styles": Array [],
+              "type": "Text",
+              "value": "credit 1",
+            },
+          ]
+        }
+        key="0"
+        source={
+          Array [
+            TextNode {
+              "styles": Array [],
+              "type": "Text",
+              "value": "source 1",
+            },
+          ]
+        }
+        tokenize={false}
+      />
+    </Token>
+    , 
+    <Token
+      className="item"
+      key="1"
+      tokenize={false}
+    >
+      <AttributionItem
+        credit={
+          Array [
+            TextNode {
+              "styles": Array [],
+              "type": "Text",
+              "value": "credit 3",
+            },
+          ]
+        }
+        key="1"
+        source={
+          Array [
+            TextNode {
+              "styles": Array [],
+              "type": "Text",
+              "value": "source 3",
+            },
+          ]
+        }
+        tokenize={false}
+      />
+    </Token>
+  </Token>
+  , 
+  <Token
+    data-label="Graphic"
+    tokenize={false}
+  >
+    Graphic
+    : 
+    <Token
+      className="item"
+      key="0"
+      tokenize={false}
+    >
+      <AttributionItem
+        credit={
+          Array [
+            TextNode {
+              "styles": Array [],
+              "type": "Text",
+              "value": "credit 2",
+            },
+          ]
+        }
+        key="0"
+        source={
+          Array [
+            TextNode {
+              "styles": Array [],
+              "type": "Text",
+              "value": "source 2",
+            },
+          ]
+        }
+        tokenize={false}
+      />
+    </Token>
+  </Token>
+</Fragment>
+`;
+
+exports[`<ImageAttributionComponent /> should render image attributions with credit only 1`] = `
+<Fragment>
+  <Token
+    data-label="Illustration"
+    tokenize={false}
+  >
+    Illustration
+    : 
+    <Token
+      className="item"
+      key="0"
+      tokenize={false}
+    >
+      <AttributionItem
+        credit={
+          Array [
+            TextNode {
+              "styles": Array [],
+              "type": "Text",
+              "value": "credit 1",
+            },
+          ]
+        }
+        key="0"
+        source={Array []}
+        tokenize={false}
+      />
+    </Token>
+    , 
+    <Token
+      className="item"
+      key="1"
+      tokenize={false}
+    >
+      <AttributionItem
+        credit={
+          Array [
+            TextNode {
+              "styles": Array [],
+              "type": "Text",
+              "value": "credit 3",
+            },
+          ]
+        }
+        key="1"
+        source={Array []}
+        tokenize={false}
+      />
+    </Token>
+  </Token>
+  , 
+  <Token
+    data-label="Graphic"
+    tokenize={false}
+  >
+    Graphic
+    : 
+    <Token
+      className="item"
+      key="0"
+      tokenize={false}
+    >
+      <AttributionItem
+        credit={
+          Array [
+            TextNode {
+              "styles": Array [],
+              "type": "Text",
+              "value": "credit 2",
+            },
+          ]
+        }
+        key="0"
+        source={Array []}
+        tokenize={false}
+      />
+    </Token>
+  </Token>
+</Fragment>
+`;
+
+exports[`<ImageAttributionComponent /> should render image attributions with source only 1`] = `
+<Fragment>
+  <Token
+    data-label="Illustration"
+    tokenize={false}
+  >
+    Illustration
+    : 
+    <Token
+      className="item"
+      key="0"
+      tokenize={false}
+    >
+      <AttributionItem
+        credit={Array []}
+        key="0"
+        source={
+          Array [
+            TextNode {
+              "styles": Array [],
+              "type": "Text",
+              "value": "source 1",
+            },
+          ]
+        }
+        tokenize={false}
+      />
+    </Token>
+    , 
+    <Token
+      className="item"
+      key="1"
+      tokenize={false}
+    >
+      <AttributionItem
+        credit={Array []}
+        key="1"
+        source={
+          Array [
+            TextNode {
+              "styles": Array [],
+              "type": "Text",
+              "value": "source 3",
+            },
+          ]
+        }
+        tokenize={false}
+      />
+    </Token>
+  </Token>
+  , 
+  <Token
+    data-label="Graphic"
+    tokenize={false}
+  >
+    Graphic
+    : 
+    <Token
+      className="item"
+      key="0"
+      tokenize={false}
+    >
+      <AttributionItem
+        credit={Array []}
+        key="0"
+        source={
+          Array [
+            TextNode {
+              "styles": Array [],
+              "type": "Text",
+              "value": "source 2",
+            },
+          ]
+        }
+        tokenize={false}
+      />
+    </Token>
+  </Token>
+</Fragment>
+`;
+
+exports[`<ImageAttributionComponent /> should render licensors 1`] = `
+Array [
+  <WithKinjaMeta
+    key="0"
+    nodes={
+      Array [
+        TextNode {
+          "styles": Array [],
+          "type": "Text",
+          "value": "source",
+        },
+      ]
+    }
+  />,
+  ", ",
+  <WithKinjaMeta
+    key="1"
+    nodes={
+      Array [
+        TextNode {
+          "styles": Array [],
+          "type": "Text",
+          "value": "source 1",
+        },
+      ]
+    }
+  />,
+]
+`;

@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<CurationToolbar /> should render one button in closed mode 1`] = `
+<curation-toolbar__CurationToolbarWrapper
+  className="curation_control"
+>
+  <OpenButton
+    onClick={[Function]}
+  />
+</curation-toolbar__CurationToolbarWrapper>
+`;
+
+exports[`<CurationToolbar /> should render one button in edit mode 1`] = `
+<curation-toolbar__CurationToolbarWrapper
+  className="curation_control"
+>
+  <SaveButton
+    onClick={[Function]}
+  />
+  <CloseButton
+    onClick={[Function]}
+  />
+</curation-toolbar__CurationToolbarWrapper>
+`;

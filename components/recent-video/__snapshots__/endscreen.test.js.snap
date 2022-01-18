@@ -1,0 +1,1262 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Endscreen /> should render by default 1`] = `
+.c7 {
+  overflow: visible;
+  width: 48px;
+  height: 60px;
+  display: inline-block;
+  vertical-align: middle;
+  cursor: pointer;
+}
+
+.c8 {
+  stroke: white;
+  stroke-width: 2px;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  fill: none;
+}
+
+.c9 {
+  -webkit-animation-name: cWUrdZ;
+  animation-name: cWUrdZ;
+  -webkit-animation-duration: 6s;
+  animation-duration: 6s;
+  -webkit-animation-timing-function: linear;
+  animation-timing-function: linear;
+  fill: white;
+  -webkit-animation-play-state: running;
+  animation-play-state: running;
+}
+
+.c10 {
+  border: 1px solid white;
+  color: white;
+  height: 41px;
+  line-height: 41px;
+  border-radius: 21px;
+  font-size: 18px;
+  padding: 0 2rem;
+  -webkit-letter-spacing: 0.5px;
+  -moz-letter-spacing: 0.5px;
+  -ms-letter-spacing: 0.5px;
+  letter-spacing: 0.5px;
+  cursor: pointer;
+  display: inline-block;
+  margin-top: 34px;
+}
+
+.c0 {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: #fff;
+  overflow: hidden;
+  z-index: 1;
+}
+
+.c1 {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  -webkit-filter: blur(6px);
+  filter: blur(6px);
+  background-image: url(https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_180,q_80,w_320/qa/3690005.jpg);
+  background-size: cover;
+}
+
+.c2 {
+  position: absolute;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: rgba(0,0,0,0.7);
+  color: white;
+  text-align: left;
+  text-align: center;
+}
+
+.c3 {
+  text-transform: uppercase;
+  font-size: 20px;
+  line-height: 26px;
+  font-weight: bold;
+  margin: 0 31px;
+}
+
+.c3 span {
+  color: #9408A3;
+}
+
+.c4 {
+  margin-top: 15px;
+  font-size: 19px;
+  line-height: 24px;
+}
+
+.c5 {
+  margin-top: 34px;
+}
+
+@media only screen and (max-width:37.31em) {
+  .c6 {
+    display: inline-block;
+    background: #9408A3;
+    border-radius: 50%;
+    width: 32px;
+    height: 32px;
+    margin: 0 5px;
+    line-height: 32px;
+  }
+}
+
+@media only screen and (max-width:37.31em) {
+  .c7 {
+    width: 12px;
+    height: 16px;
+    margin-left: 1px;
+  }
+}
+
+@media only screen and (max-width:37.31em) {
+  .c8 {
+    stroke-width: 4px;
+  }
+}
+
+@media only screen and (max-width:37.31em) {
+  .c10 {
+    height: 32px;
+    line-height: 32px;
+    font-size: 14px;
+    margin: 0 5px;
+  }
+}
+
+@media only screen and (max-width:37.31em) {
+  .c3 {
+    font-size: 15px;
+    line-height: 21px;
+    -webkit-flex-shrink: 0;
+    -ms-flex-negative: 0;
+    flex-shrink: 0;
+    margin: 0;
+  }
+}
+
+@media only screen and (max-width:37.31em) {
+  .c4 {
+    margin-top: 6px;
+    font-size: 16px;
+    line-height: 21px;
+    -webkit-flex-shrink: 0;
+    -ms-flex-negative: 0;
+    flex-shrink: 0;
+  }
+}
+
+@media only screen and (max-width:37.31em) {
+  .c5 {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    margin-top: 12px;
+    -webkit-flex-shrink: 0;
+    -ms-flex-negative: 0;
+    flex-shrink: 0;
+  }
+}
+
+<Theme
+  blog="avclub"
+  theme={
+    Object {
+      "breakpointBanner": "969px",
+      "breakpointMedium": "53.125em",
+      "color": Object {
+        "alert": "#EEB544",
+        "amazon": "#F5C056",
+        "backgroundLayer": "rgba(0,0,0,0.45)",
+        "backgroundLight": "#E6F2F8",
+        "black": "#000",
+        "blackOverlay": "rgba(0,0,0,0.7)",
+        "bodytext": "#222",
+        "commerce": "#72AD75",
+        "darkBlackOverlay": "rgba(0,0,0,0.9)",
+        "darkgray": "#666",
+        "darksmoke": "#222",
+        "error": "#D24A1D",
+        "facebook": "#1877F2",
+        "foregroundLayer": "rgba(0,0,0,0.4)",
+        "google": "#DB4437",
+        "gray": "#7D7D7D",
+        "instagram": "#C32AA3",
+        "lightgray": "#E5E5E5",
+        "linkedin": "#0077B5",
+        "logo": "#000",
+        "midgray": "#CCC",
+        "primary": "#0A7BC2",
+        "primaryLight": "#0C91E4",
+        "rss": "#7D7D7D",
+        "secondarytext": "#7D7D7D",
+        "success": "#23891F",
+        "twitter": "#1DA1F2",
+        "white": "#FFF",
+        "whiteOverlay": "rgba(255,255,255,0.7)",
+        "whitesmoke": "#F5F5F5",
+        "youtube": "#FF0000",
+      },
+      "columnGutter": "2.25rem",
+      "columnGutter19": Object {
+        "largeUp": "1.5rem",
+        "small19": "1rem",
+        "xlargeUp": "2rem",
+      },
+      "columnPadding": "1.125rem",
+      "columnPadding19": Object {
+        "largeUp": "0.75rem",
+        "small19": "0.5rem",
+        "xlargeUp": "1rem",
+      },
+      "featuredContentWidth": "1024px",
+      "globalNavHeight": "80px",
+      "linkTransition": "0.1s ease-out",
+      "mainContainerWidth": "66.5%",
+      "mainContentMaxWidth": "800px",
+      "pageWidth": "1336px",
+      "postContentMaxWidth": "636px",
+      "scrollbackNavHeight": "60px",
+      "sidebarContainerWidth": "33.5%",
+      "sidebarContentMaxWidth": "360px",
+      "sidebarContentMinWidth": "300px",
+      "slideshowTransitionDuration": "0.2s",
+      "typography": Object {
+        "body": Object {
+          "fontFamily": "ElizabethSerif, Georgia, serif",
+          "fontSizes": Object {
+            "large": "27px",
+            "medium": "19px",
+            "small": "15px",
+            "xlarge": "30px",
+            "xsmall": "14px",
+          },
+          "lineHeights": Object {
+            "large": "40px",
+            "medium": "32px",
+            "small": "24px",
+            "xlarge": "44px",
+            "xsmall": "24px",
+          },
+        },
+        "embiggenedHeadlineSize": "34px",
+        "headline": Object {
+          "fontFamily": "ProximaNovaCond, sans-serif",
+          "fontSizes": Object {
+            "large": "32px",
+            "medium": "24px",
+            "small": "19px",
+            "xlarge": "37px",
+            "xsmall": "16px",
+          },
+          "lineHeights": Object {
+            "large": "40px",
+            "medium": "32px",
+            "small": "24px",
+            "xlarge": "44px",
+            "xsmall": "24px",
+          },
+        },
+        "headlineLineHeight": "1.3",
+        "headlineSize": "24px",
+        "permalinkHeadlineLineHeight": "1.2",
+        "permalinkHeadlineSize": Object {
+          "mediumUp": "2.5rem",
+          "small": "2rem",
+          "xxxlargeUp": "3rem",
+        },
+        "primary": Object {
+          "fontFamily": "ProximaNovaCond, sans-serif",
+          "fontSizes": Object {
+            "large": "32px",
+            "medium": "24px",
+            "small": "19px",
+            "xlarge": "37px",
+            "xsmall": "16px",
+          },
+          "lineHeights": Object {
+            "large": "40px",
+            "medium": "32px",
+            "small": "24px",
+            "xlarge": "44px",
+            "xsmall": "24px",
+          },
+        },
+        "serif": Object {
+          "fontFamily": "ElizabethSerif, Georgia, serif",
+          "fontSizes": Object {
+            "large": "27px",
+            "medium": "19px",
+            "small": "15px",
+            "xlarge": "30px",
+            "xsmall": "14px",
+          },
+          "lineHeights": Object {
+            "large": "40px",
+            "medium": "32px",
+            "small": "24px",
+            "xlarge": "44px",
+            "xsmall": "24px",
+          },
+        },
+        "tertiary": Object {
+          "fontFamily": "FiraSans, sans-serif",
+          "fontSizes": Object {
+            "large": "29px",
+            "medium": "21px",
+            "small": "17px",
+            "xlarge": "35px",
+            "xsmall": "15px",
+          },
+          "lineHeights": Object {
+            "large": "40px",
+            "medium": "32px",
+            "small": "24px",
+            "xlarge": "44px",
+            "xsmall": "24px",
+          },
+        },
+        "utility": Object {
+          "fontFamily": "ProximaNovaCond, sans-serif",
+          "fontSizes": Object {
+            "large": "32px",
+            "medium": "24px",
+            "small": "19px",
+            "xlarge": "37px",
+            "xsmall": "16px",
+          },
+          "lineHeights": Object {
+            "large": "40px",
+            "medium": "32px",
+            "small": "24px",
+            "xlarge": "44px",
+            "xsmall": "24px",
+          },
+        },
+      },
+    }
+  }
+>
+  <ThemeProvider
+    theme={
+      Object {
+        "blog": "avclub",
+        "breakpointBanner": "969px",
+        "breakpointMedium": "53.125em",
+        "color": Object {
+          "alert": "#EEB544",
+          "amazon": "#F5C056",
+          "backgroundLayer": "rgba(0,0,0,0.45)",
+          "backgroundLight": "#E5F7F9",
+          "black": "#000",
+          "blackOverlay": "rgba(0,0,0,0.7)",
+          "bodytext": "#222",
+          "commerce": "#72AD75",
+          "darkBlackOverlay": "rgba(0,0,0,0.9)",
+          "darkgray": "#666",
+          "darksmoke": "#222",
+          "error": "#D24A1D",
+          "facebook": "#1877F2",
+          "foregroundLayer": "rgba(0,0,0,0.4)",
+          "google": "#DB4437",
+          "gray": "#7D7D7D",
+          "instagram": "#C32AA3",
+          "lightgray": "#E5E5E5",
+          "linkedin": "#0077B5",
+          "logo": "#1C263C",
+          "midgray": "#CCC",
+          "primary": "#9408A3",
+          "primaryLight": "#91DBD9",
+          "rss": "#7D7D7D",
+          "secondarytext": "#7D7D7D",
+          "success": "#23891F",
+          "twitter": "#1DA1F2",
+          "white": "#FFF",
+          "whiteOverlay": "rgba(255,255,255,0.7)",
+          "whitesmoke": "#F5F5F5",
+          "youtube": "#FF0000",
+        },
+        "columnGutter": "2.25rem",
+        "columnGutter19": Object {
+          "largeUp": "1.5rem",
+          "small19": "1rem",
+          "xlargeUp": "2rem",
+        },
+        "columnPadding": "1.125rem",
+        "columnPadding19": Object {
+          "largeUp": "0.75rem",
+          "small19": "0.5rem",
+          "xlargeUp": "1rem",
+        },
+        "featuredContentWidth": "1024px",
+        "globalNavHeight": "80px",
+        "linkTransition": "0.1s ease-out",
+        "mainContainerWidth": "66.5%",
+        "mainContentMaxWidth": "800px",
+        "pageWidth": "1336px",
+        "postContentMaxWidth": "636px",
+        "scrollbackNavHeight": "60px",
+        "sidebarContainerWidth": "33.5%",
+        "sidebarContentMaxWidth": "360px",
+        "sidebarContentMinWidth": "300px",
+        "slideshowTransitionDuration": "0.2s",
+        "typography": Object {
+          "body": Object {
+            "fontFamily": "ElizabethSerif, Georgia, serif",
+            "fontSizes": Object {
+              "large": "27px",
+              "medium": "19px",
+              "small": "15px",
+              "xlarge": "30px",
+              "xsmall": "14px",
+            },
+            "lineHeights": Object {
+              "large": "40px",
+              "medium": "32px",
+              "small": "24px",
+              "xlarge": "44px",
+              "xsmall": "24px",
+            },
+          },
+          "embiggenedHeadlineSize": "34px",
+          "headline": Object {
+            "fontFamily": "ProximaNovaCond, sans-serif",
+            "fontSizes": Object {
+              "large": "32px",
+              "medium": "24px",
+              "small": "19px",
+              "xlarge": "37px",
+              "xsmall": "16px",
+            },
+            "lineHeights": Object {
+              "large": "40px",
+              "medium": "32px",
+              "small": "24px",
+              "xlarge": "44px",
+              "xsmall": "24px",
+            },
+          },
+          "headlineLineHeight": "1.3",
+          "headlineSize": "24px",
+          "permalinkHeadlineLineHeight": "1.2",
+          "permalinkHeadlineSize": Object {
+            "mediumUp": "2.5rem",
+            "small": "2rem",
+            "xxxlargeUp": "3rem",
+          },
+          "primary": Object {
+            "fontFamily": "ProximaNovaCond, sans-serif",
+            "fontSizes": Object {
+              "large": "32px",
+              "medium": "24px",
+              "small": "19px",
+              "xlarge": "37px",
+              "xsmall": "16px",
+            },
+            "lineHeights": Object {
+              "large": "40px",
+              "medium": "32px",
+              "small": "24px",
+              "xlarge": "44px",
+              "xsmall": "24px",
+            },
+          },
+          "serif": Object {
+            "fontFamily": "ElizabethSerif, Georgia, serif",
+            "fontSizes": Object {
+              "large": "27px",
+              "medium": "19px",
+              "small": "15px",
+              "xlarge": "30px",
+              "xsmall": "14px",
+            },
+            "lineHeights": Object {
+              "large": "40px",
+              "medium": "32px",
+              "small": "24px",
+              "xlarge": "44px",
+              "xsmall": "24px",
+            },
+          },
+          "tertiary": Object {
+            "fontFamily": "FiraSans, sans-serif",
+            "fontSizes": Object {
+              "large": "29px",
+              "medium": "21px",
+              "small": "17px",
+              "xlarge": "35px",
+              "xsmall": "15px",
+            },
+            "lineHeights": Object {
+              "large": "40px",
+              "medium": "32px",
+              "small": "24px",
+              "xlarge": "44px",
+              "xsmall": "24px",
+            },
+          },
+          "utility": Object {
+            "fontFamily": "ProximaNovaCond, sans-serif",
+            "fontSizes": Object {
+              "large": "32px",
+              "medium": "24px",
+              "small": "19px",
+              "xlarge": "37px",
+              "xsmall": "16px",
+            },
+            "lineHeights": Object {
+              "large": "40px",
+              "medium": "32px",
+              "small": "24px",
+              "xlarge": "44px",
+              "xsmall": "24px",
+            },
+          },
+        },
+      }
+    }
+  >
+    <Analytics(Endscreen)
+      blogName="The A.V. Club"
+      nowPlayingIndex={0}
+      playNextVideo={[Function]}
+      playVideo={[Function]}
+      videoPageUrl="https://www.avclub.com/video"
+      videos={
+        Array [
+          Object {
+            "id": "105201",
+            "postInfo": Object {
+              "headline": "The First Order Watched Over Our Interview in <i>Star Wars: Galaxy&#39;s Edge</i>",
+              "id": 1835238447,
+              "isVideo": true,
+              "permalink": "https://io9.gizmodo.com/the-first-order-watched-over-our-interview-in-star-wars-1835238447",
+              "publishTimeMillis": 1559676600447,
+              "thumbnailId": "qa/3691511",
+            },
+            "poster": Object {
+              "id": "qa/3691511",
+            },
+            "streamingUrl": "https://kinja-vh.akamaihd.net/i/prod/105201/105201_,180p,270p,406p,720p,1080p,.mp4.csmil/master.m3u8",
+            "type": "kinjavideo",
+            "videoPage": true,
+          },
+          Object {
+            "id": "101688",
+            "postInfo": Object {
+              "headline": "Arya Stark Understood Death, But Chose Life",
+              "id": 1835091510,
+              "isVideo": true,
+              "permalink": "https://io9.gizmodo.com/arya-stark-understood-death-but-chose-life-1835091510",
+              "publishTimeMillis": 1559318400510,
+              "thumbnailId": "qa/3690005",
+            },
+            "streamingUrl": "https://kinja-vh.akamaihd.net/i/prod/101688/101688_,180p,270p,406p,720p,1080p,.mp4.csmil/master.m3u8",
+            "type": "kinjavideo",
+            "videoPage": true,
+          },
+          Object {
+            "id": "114183",
+            "postInfo": Object {
+              "headline": "We Found the Very Best Truly Wireless Earbuds",
+              "id": 1835118531,
+              "isVideo": true,
+              "permalink": "https://gizmodo.com/these-are-the-very-best-truly-wireless-earbuds-1835118531",
+              "publishTimeMillis": 1559311200531,
+              "thumbnailId": "xkb24d6jdoqbzy0f2b3h",
+            },
+            "streamingUrl": "https://kinja-vh.akamaihd.net/i/prod/114183/114183_,180p,270p,406p,720p,1080p,.mp4.csmil/master.m3u8",
+            "type": "kinjavideo",
+            "videoPage": true,
+          },
+          Object {
+            "id": "105096",
+            "postInfo": Object {
+              "headline": "Cersei Lannister Rose to the Top of a Crumbling Kingdom",
+              "id": 1835090598,
+              "isVideo": true,
+              "permalink": "https://io9.gizmodo.com/cersei-lannister-rose-to-the-top-of-a-crumbling-kingdom-1835090598",
+              "publishTimeMillis": 1559150100598,
+              "thumbnailId": "qa/3688840",
+            },
+            "streamingUrl": "https://kinja-vh.akamaihd.net/i/prod/105096/105096_,180p,270p,406p,720p,1080p,.mp4.csmil/master.m3u8",
+            "type": "kinjavideo",
+            "videoPage": true,
+          },
+          Object {
+            "id": "109322",
+            "postInfo": Object {
+              "headline": "Google&#39;s Quest to Build the Perfect One-Tap Smartphone Camera",
+              "id": 1835123686,
+              "isVideo": true,
+              "permalink": "https://gizmodo.com/googles-quest-to-build-the-perfect-one-tap-smartphone-c-1835123686",
+              "publishTimeMillis": 1559744700686,
+              "thumbnailId": "qa/3689149",
+            },
+            "streamingUrl": "https://kinja-vh.akamaihd.net/i/prod/109322/109322_,180p,270p,406p,720p,1080p,.mp4.csmil/master.m3u8",
+            "type": "kinjavideo",
+            "videoPage": true,
+          },
+        ]
+      }
+    >
+      <Endscreen
+        blogName="The A.V. Club"
+        ga={[Function]}
+        gaNamespaced={[Function]}
+        nowPlayingIndex={0}
+        playNextVideo={[Function]}
+        playVideo={[Function]}
+        videoPageUrl="https://www.avclub.com/video"
+        videos={
+          Array [
+            Object {
+              "id": "105201",
+              "postInfo": Object {
+                "headline": "The First Order Watched Over Our Interview in <i>Star Wars: Galaxy&#39;s Edge</i>",
+                "id": 1835238447,
+                "isVideo": true,
+                "permalink": "https://io9.gizmodo.com/the-first-order-watched-over-our-interview-in-star-wars-1835238447",
+                "publishTimeMillis": 1559676600447,
+                "thumbnailId": "qa/3691511",
+              },
+              "poster": Object {
+                "id": "qa/3691511",
+              },
+              "streamingUrl": "https://kinja-vh.akamaihd.net/i/prod/105201/105201_,180p,270p,406p,720p,1080p,.mp4.csmil/master.m3u8",
+              "type": "kinjavideo",
+              "videoPage": true,
+            },
+            Object {
+              "id": "101688",
+              "postInfo": Object {
+                "headline": "Arya Stark Understood Death, But Chose Life",
+                "id": 1835091510,
+                "isVideo": true,
+                "permalink": "https://io9.gizmodo.com/arya-stark-understood-death-but-chose-life-1835091510",
+                "publishTimeMillis": 1559318400510,
+                "thumbnailId": "qa/3690005",
+              },
+              "streamingUrl": "https://kinja-vh.akamaihd.net/i/prod/101688/101688_,180p,270p,406p,720p,1080p,.mp4.csmil/master.m3u8",
+              "type": "kinjavideo",
+              "videoPage": true,
+            },
+            Object {
+              "id": "114183",
+              "postInfo": Object {
+                "headline": "We Found the Very Best Truly Wireless Earbuds",
+                "id": 1835118531,
+                "isVideo": true,
+                "permalink": "https://gizmodo.com/these-are-the-very-best-truly-wireless-earbuds-1835118531",
+                "publishTimeMillis": 1559311200531,
+                "thumbnailId": "xkb24d6jdoqbzy0f2b3h",
+              },
+              "streamingUrl": "https://kinja-vh.akamaihd.net/i/prod/114183/114183_,180p,270p,406p,720p,1080p,.mp4.csmil/master.m3u8",
+              "type": "kinjavideo",
+              "videoPage": true,
+            },
+            Object {
+              "id": "105096",
+              "postInfo": Object {
+                "headline": "Cersei Lannister Rose to the Top of a Crumbling Kingdom",
+                "id": 1835090598,
+                "isVideo": true,
+                "permalink": "https://io9.gizmodo.com/cersei-lannister-rose-to-the-top-of-a-crumbling-kingdom-1835090598",
+                "publishTimeMillis": 1559150100598,
+                "thumbnailId": "qa/3688840",
+              },
+              "streamingUrl": "https://kinja-vh.akamaihd.net/i/prod/105096/105096_,180p,270p,406p,720p,1080p,.mp4.csmil/master.m3u8",
+              "type": "kinjavideo",
+              "videoPage": true,
+            },
+            Object {
+              "id": "109322",
+              "postInfo": Object {
+                "headline": "Google&#39;s Quest to Build the Perfect One-Tap Smartphone Camera",
+                "id": 1835123686,
+                "isVideo": true,
+                "permalink": "https://gizmodo.com/googles-quest-to-build-the-perfect-one-tap-smartphone-c-1835123686",
+                "publishTimeMillis": 1559744700686,
+                "thumbnailId": "qa/3689149",
+              },
+              "streamingUrl": "https://kinja-vh.akamaihd.net/i/prod/109322/109322_,180p,270p,406p,720p,1080p,.mp4.csmil/master.m3u8",
+              "type": "kinjavideo",
+              "videoPage": true,
+            },
+          ]
+        }
+      >
+        <endscreen__Container>
+          <StyledComponent
+            forwardedComponent={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": Array [],
+                "componentStyle": ComponentStyle {
+                  "componentId": "endscreen__Container-sc-88altf-0",
+                  "isStatic": false,
+                  "lastClassName": "c0",
+                  "rules": Array [
+                    "position:absolute;top:0;right:0;bottom:0;left:0;background:",
+                    [Function],
+                    ";overflow:hidden;z-index:1;",
+                    [Function],
+                  ],
+                },
+                "displayName": "endscreen__Container",
+                "foldedComponentIds": Array [],
+                "render": [Function],
+                "styledComponentId": "endscreen__Container-sc-88altf-0",
+                "target": "div",
+                "toString": [Function],
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={null}
+          >
+            <div
+              className="c0"
+            >
+              <endscreen__Cover
+                backgroundImage="https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_180,q_80,w_320/qa/3690005.jpg"
+              >
+                <StyledComponent
+                  backgroundImage="https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_180,q_80,w_320/qa/3690005.jpg"
+                  forwardedComponent={
+                    Object {
+                      "$$typeof": Symbol(react.forward_ref),
+                      "attrs": Array [],
+                      "componentStyle": ComponentStyle {
+                        "componentId": "endscreen__Cover-sc-88altf-1",
+                        "isStatic": false,
+                        "lastClassName": "c1",
+                        "rules": Array [
+                          "position:absolute;top:0;right:0;bottom:0;left:0;filter:blur(6px);background-image:url(",
+                          [Function],
+                          ");background-size:cover;",
+                        ],
+                      },
+                      "displayName": "endscreen__Cover",
+                      "foldedComponentIds": Array [],
+                      "render": [Function],
+                      "styledComponentId": "endscreen__Cover-sc-88altf-1",
+                      "target": "div",
+                      "toString": [Function],
+                      "warnTooManyClasses": [Function],
+                      "withComponent": [Function],
+                    }
+                  }
+                  forwardedRef={null}
+                >
+                  <div
+                    className="c1"
+                  />
+                </StyledComponent>
+              </endscreen__Cover>
+              <endscreen__Content
+                countdown={true}
+              >
+                <StyledComponent
+                  countdown={true}
+                  forwardedComponent={
+                    Object {
+                      "$$typeof": Symbol(react.forward_ref),
+                      "attrs": Array [],
+                      "componentStyle": ComponentStyle {
+                        "componentId": "endscreen__Content-sc-88altf-2",
+                        "isStatic": false,
+                        "lastClassName": "c2",
+                        "rules": Array [
+                          "position:absolute;display:flex;flex-direction:column;justify-content:center;align-items:center;top:0;right:0;bottom:0;left:0;background-color:rgba(0,0,0,0.7);color:white;text-align:left;",
+                          [Function],
+                        ],
+                      },
+                      "displayName": "endscreen__Content",
+                      "foldedComponentIds": Array [],
+                      "render": [Function],
+                      "styledComponentId": "endscreen__Content-sc-88altf-2",
+                      "target": "div",
+                      "toString": [Function],
+                      "warnTooManyClasses": [Function],
+                      "withComponent": [Function],
+                    }
+                  }
+                  forwardedRef={null}
+                >
+                  <div
+                    className="c2"
+                  >
+                    <endscreen__Header>
+                      <StyledComponent
+                        forwardedComponent={
+                          Object {
+                            "$$typeof": Symbol(react.forward_ref),
+                            "attrs": Array [],
+                            "componentStyle": ComponentStyle {
+                              "componentId": "endscreen__Header-sc-88altf-3",
+                              "isStatic": false,
+                              "lastClassName": "c3",
+                              "rules": Array [
+                                "text-transform:uppercase;font-size:20px;line-height:26px;font-weight:bold;margin:0 31px;",
+                                "@media only screen and ",
+                                "(max-width: 37.31em)",
+                                "{",
+                                "
+		font-size: 15px;
+		line-height: 21px;
+		flex-shrink: 0;
+		margin: 0;
+	",
+                                "}",
+                                " ",
+                                [Function],
+                                " & span{color:",
+                                [Function],
+                                ";}",
+                              ],
+                            },
+                            "displayName": "endscreen__Header",
+                            "foldedComponentIds": Array [],
+                            "render": [Function],
+                            "styledComponentId": "endscreen__Header-sc-88altf-3",
+                            "target": "div",
+                            "toString": [Function],
+                            "warnTooManyClasses": [Function],
+                            "withComponent": [Function],
+                          }
+                        }
+                        forwardedRef={null}
+                      >
+                        <div
+                          className="c3"
+                        >
+                          Up next
+                        </div>
+                      </StyledComponent>
+                    </endscreen__Header>
+                    <endscreen__Title
+                      dangerouslySetInnerHTML={
+                        Object {
+                          "__html": "Arya Stark Understood Death, But Chose Life",
+                        }
+                      }
+                    >
+                      <StyledComponent
+                        dangerouslySetInnerHTML={
+                          Object {
+                            "__html": "Arya Stark Understood Death, But Chose Life",
+                          }
+                        }
+                        forwardedComponent={
+                          Object {
+                            "$$typeof": Symbol(react.forward_ref),
+                            "attrs": Array [],
+                            "componentStyle": ComponentStyle {
+                              "componentId": "endscreen__Title-sc-88altf-4",
+                              "isStatic": false,
+                              "lastClassName": "c4",
+                              "rules": Array [
+                                "margin-top:15px;font-size:19px;line-height:24px;",
+                                "@media only screen and ",
+                                "(max-width: 37.31em)",
+                                "{",
+                                "
+		margin-top: 6px;
+		font-size: 16px;
+		line-height: 21px;
+		flex-shrink: 0;
+	",
+                                "}",
+                                " ",
+                                [Function],
+                              ],
+                            },
+                            "displayName": "endscreen__Title",
+                            "foldedComponentIds": Array [],
+                            "render": [Function],
+                            "styledComponentId": "endscreen__Title-sc-88altf-4",
+                            "target": "div",
+                            "toString": [Function],
+                            "warnTooManyClasses": [Function],
+                            "withComponent": [Function],
+                          }
+                        }
+                        forwardedRef={null}
+                      >
+                        <div
+                          className="c4"
+                          dangerouslySetInnerHTML={
+                            Object {
+                              "__html": "Arya Stark Understood Death, But Chose Life",
+                            }
+                          }
+                        />
+                      </StyledComponent>
+                    </endscreen__Title>
+                    <Media
+                      defaultMatches={true}
+                      query="(max-width: 37.4375em)"
+                    />
+                    <endscreen__Actions>
+                      <StyledComponent
+                        forwardedComponent={
+                          Object {
+                            "$$typeof": Symbol(react.forward_ref),
+                            "attrs": Array [],
+                            "componentStyle": ComponentStyle {
+                              "componentId": "endscreen__Actions-sc-88altf-6",
+                              "isStatic": false,
+                              "lastClassName": "c5",
+                              "rules": Array [
+                                "margin-top:34px;",
+                                "@media only screen and ",
+                                "(max-width: 37.31em)",
+                                "{",
+                                "
+		display: flex;
+		justify-content: center;
+		margin-top: 12px;
+		flex-shrink: 0;
+	",
+                                "}",
+                                " ",
+                                [Function],
+                              ],
+                            },
+                            "displayName": "endscreen__Actions",
+                            "foldedComponentIds": Array [],
+                            "render": [Function],
+                            "styledComponentId": "endscreen__Actions-sc-88altf-6",
+                            "target": "div",
+                            "toString": [Function],
+                            "warnTooManyClasses": [Function],
+                            "withComponent": [Function],
+                          }
+                        }
+                        forwardedRef={null}
+                      >
+                        <div
+                          className="c5"
+                        >
+                          <PlayButton
+                            duration="6s"
+                            onAnimationEnd={[Function]}
+                            onClick={[Function]}
+                          >
+                            <EnsureDefaultTheme>
+                              <ThemeProvider
+                                theme={[Function]}
+                              >
+                                <play-button__Container>
+                                  <StyledComponent
+                                    forwardedComponent={
+                                      Object {
+                                        "$$typeof": Symbol(react.forward_ref),
+                                        "attrs": Array [],
+                                        "componentStyle": ComponentStyle {
+                                          "componentId": "play-button__Container-ggv8ru-0",
+                                          "isStatic": false,
+                                          "lastClassName": "c6",
+                                          "rules": Array [
+                                            "@media only screen and ",
+                                            "(max-width: 37.31em)",
+                                            "{",
+                                            "
+		display: inline-block;
+		background: ",
+                                            [Function],
+                                            ";
+		border-radius: 50%;
+		width: 32px;
+		height: 32px;
+		margin: 0 5px;
+		line-height: 32px;
+	",
+                                            "}",
+                                            " ",
+                                            [Function],
+                                          ],
+                                        },
+                                        "displayName": "play-button__Container",
+                                        "foldedComponentIds": Array [],
+                                        "render": [Function],
+                                        "styledComponentId": "play-button__Container-ggv8ru-0",
+                                        "target": "div",
+                                        "toString": [Function],
+                                        "warnTooManyClasses": [Function],
+                                        "withComponent": [Function],
+                                      }
+                                    }
+                                    forwardedRef={null}
+                                  >
+                                    <div
+                                      className="c6"
+                                    >
+                                      <PlayButtonSVG
+                                        onClick={[Function]}
+                                      >
+                                        <StyledComponent
+                                          forwardedComponent={
+                                            Object {
+                                              "$$typeof": Symbol(react.forward_ref),
+                                              "attrs": Array [
+                                                Object {
+                                                  "viewBox": "0 0 48 60",
+                                                },
+                                              ],
+                                              "componentStyle": ComponentStyle {
+                                                "componentId": "play-button__SVG-ggv8ru-1",
+                                                "isStatic": false,
+                                                "lastClassName": "c7",
+                                                "rules": Array [
+                                                  "overflow:visible;width:48px;height:60px;display:inline-block;vertical-align:middle;cursor:pointer;",
+                                                  "@media only screen and ",
+                                                  "(max-width: 37.31em)",
+                                                  "{",
+                                                  "
+		width: 12px;
+		height: 16px;
+		margin-left: 1px;
+	",
+                                                  "}",
+                                                  " ",
+                                                  [Function],
+                                                ],
+                                              },
+                                              "displayName": "PlayButtonSVG",
+                                              "foldedComponentIds": Array [],
+                                              "render": [Function],
+                                              "styledComponentId": "play-button__SVG-ggv8ru-1",
+                                              "target": "svg",
+                                              "toString": [Function],
+                                              "warnTooManyClasses": [Function],
+                                              "withComponent": [Function],
+                                            }
+                                          }
+                                          forwardedRef={null}
+                                          onClick={[Function]}
+                                        >
+                                          <svg
+                                            className="c7"
+                                            onClick={[Function]}
+                                            viewBox="0 0 48 60"
+                                          >
+                                            <defs>
+                                              <clipPath
+                                                id="play-button__clip"
+                                              >
+                                                <polygon
+                                                  points="0,0 48,30 0,60"
+                                                />
+                                              </clipPath>
+                                            </defs>
+                                            <play-button__Border>
+                                              <StyledComponent
+                                                forwardedComponent={
+                                                  Object {
+                                                    "$$typeof": Symbol(react.forward_ref),
+                                                    "attrs": Array [
+                                                      Object {
+                                                        "points": "0,0 48,30 0,60",
+                                                      },
+                                                    ],
+                                                    "componentStyle": ComponentStyle {
+                                                      "componentId": "play-button__Border-ggv8ru-2",
+                                                      "isStatic": false,
+                                                      "lastClassName": "c8",
+                                                      "rules": Array [
+                                                        "stroke:white;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;fill:none;",
+                                                        "@media only screen and ",
+                                                        "(max-width: 37.31em)",
+                                                        "{",
+                                                        "
+		stroke-width: 4px;
+	",
+                                                        "}",
+                                                        " ",
+                                                        [Function],
+                                                      ],
+                                                    },
+                                                    "displayName": "play-button__Border",
+                                                    "foldedComponentIds": Array [],
+                                                    "render": [Function],
+                                                    "styledComponentId": "play-button__Border-ggv8ru-2",
+                                                    "target": "polygon",
+                                                    "toString": [Function],
+                                                    "warnTooManyClasses": [Function],
+                                                    "withComponent": [Function],
+                                                  }
+                                                }
+                                                forwardedRef={null}
+                                              >
+                                                <polygon
+                                                  className="c8"
+                                                  points="0,0 48,30 0,60"
+                                                />
+                                              </StyledComponent>
+                                            </play-button__Border>
+                                            <g
+                                              clipPath="url(#play-button__clip)"
+                                            >
+                                              <PlayButtonFill
+                                                duration="6s"
+                                                isVisible={true}
+                                                onAnimationEnd={[Function]}
+                                              >
+                                                <StyledComponent
+                                                  duration="6s"
+                                                  forwardedComponent={
+                                                    Object {
+                                                      "$$typeof": Symbol(react.forward_ref),
+                                                      "attrs": Array [
+                                                        Object {
+                                                          "height": "100%",
+                                                          "width": "100%",
+                                                          "x": "0",
+                                                          "y": "0",
+                                                        },
+                                                      ],
+                                                      "componentStyle": ComponentStyle {
+                                                        "componentId": "play-button__Fill-ggv8ru-3",
+                                                        "isStatic": false,
+                                                        "lastClassName": "c9",
+                                                        "rules": Array [
+                                                          [Function],
+                                                          ";fill:white;animation-play-state:",
+                                                          [Function],
+                                                          ";",
+                                                        ],
+                                                      },
+                                                      "displayName": "PlayButtonFill",
+                                                      "foldedComponentIds": Array [],
+                                                      "render": [Function],
+                                                      "styledComponentId": "play-button__Fill-ggv8ru-3",
+                                                      "target": "rect",
+                                                      "toString": [Function],
+                                                      "warnTooManyClasses": [Function],
+                                                      "withComponent": [Function],
+                                                    }
+                                                  }
+                                                  forwardedRef={null}
+                                                  isVisible={true}
+                                                  onAnimationEnd={[Function]}
+                                                >
+                                                  <rect
+                                                    className="c9"
+                                                    height="100%"
+                                                    onAnimationEnd={[Function]}
+                                                    width="100%"
+                                                    x="0"
+                                                    y="0"
+                                                  />
+                                                </StyledComponent>
+                                              </PlayButtonFill>
+                                            </g>
+                                          </svg>
+                                        </StyledComponent>
+                                      </PlayButtonSVG>
+                                    </div>
+                                  </StyledComponent>
+                                </play-button__Container>
+                              </ThemeProvider>
+                            </EnsureDefaultTheme>
+                          </PlayButton>
+                          <CancelButton
+                            onClick={[Function]}
+                          >
+                            <StyledComponent
+                              forwardedComponent={
+                                Object {
+                                  "$$typeof": Symbol(react.forward_ref),
+                                  "attrs": Array [],
+                                  "componentStyle": ComponentStyle {
+                                    "componentId": "cancel-button__CancelButton-b5n8g5-0",
+                                    "isStatic": false,
+                                    "lastClassName": "c10",
+                                    "rules": Array [
+                                      "border:1px solid white;color:white;height:41px;line-height:41px;border-radius:21px;font-size:18px;padding:0 2rem;letter-spacing:0.5px;cursor:pointer;display:inline-block;margin-top:34px;",
+                                      "@media only screen and ",
+                                      "(max-width: 37.31em)",
+                                      "{",
+                                      "
+		height: 32px;
+		line-height: 32px;
+		font-size: 14px;
+		margin: 0 5px;
+	",
+                                      "}",
+                                      " ",
+                                      [Function],
+                                    ],
+                                  },
+                                  "displayName": "CancelButton",
+                                  "foldedComponentIds": Array [],
+                                  "render": [Function],
+                                  "styledComponentId": "cancel-button__CancelButton-b5n8g5-0",
+                                  "target": "div",
+                                  "toString": [Function],
+                                  "warnTooManyClasses": [Function],
+                                  "withComponent": [Function],
+                                }
+                              }
+                              forwardedRef={null}
+                              onClick={[Function]}
+                            >
+                              <div
+                                className="c10"
+                                onClick={[Function]}
+                              >
+                                Cancel
+                              </div>
+                            </StyledComponent>
+                          </CancelButton>
+                        </div>
+                      </StyledComponent>
+                    </endscreen__Actions>
+                  </div>
+                </StyledComponent>
+              </endscreen__Content>
+            </div>
+          </StyledComponent>
+        </endscreen__Container>
+      </Endscreen>
+    </Analytics(Endscreen)>
+  </ThemeProvider>
+</Theme>
+`;

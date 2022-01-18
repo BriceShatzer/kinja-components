@@ -1,0 +1,192 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<FilterTypeList /> should render a list of filters 1`] = `
+<EnsureDefaultTheme>
+  <filterList__Container>
+    <filterList__StoryTypeListWrapper>
+      <filterList__StoryTypeItem
+        icon={<CloseIcon />}
+        key="filter-1521"
+        label="Car"
+        onClick={[Function]}
+        small={true}
+        weight="secondary"
+      />
+      <filterList__StoryTypeItem
+        icon={<CloseIcon />}
+        key="filter-234"
+        label="Crash"
+        onClick={[Function]}
+        small={true}
+        weight="secondary"
+      />
+      <filterList__StoryTypeItem
+        icon={<CloseIcon />}
+        key="filter-456"
+        label="Bikes"
+        onClick={[Function]}
+        small={true}
+        weight="secondary"
+      />
+      <filterList__StoryTypeItem
+        icon={<CloseIcon />}
+        key="filter-1239"
+        label="People"
+        onClick={[Function]}
+        small={true}
+        weight="secondary"
+      />
+    </filterList__StoryTypeListWrapper>
+  </filterList__Container>
+</EnsureDefaultTheme>
+`;
+
+exports[`<StoryTypeList /> should render a list of filters 1`] = `
+<EnsureDefaultTheme>
+  <storyTypeList__Container>
+    <storyTypeList__IconElem />
+    <storyTypeList__StoryTypeListWrapper>
+      <storyTypeList__StoryTypeItem
+        key="story-1521"
+        label={
+          <ForwardRef(storyTypeList__LabelInner)>
+            Car
+             
+            <ForwardRef(storyTypeList__LabelCount)>
+              • 
+              1
+            </ForwardRef(storyTypeList__LabelCount)>
+          </ForwardRef(storyTypeList__LabelInner)>
+        }
+        onClick={[Function]}
+        small={true}
+        weight="tertiary"
+      />
+      <storyTypeList__StoryTypeItem
+        key="story-234"
+        label={
+          <ForwardRef(storyTypeList__LabelInner)>
+            Crash
+             
+            <ForwardRef(storyTypeList__LabelCount)>
+              • 
+              1
+            </ForwardRef(storyTypeList__LabelCount)>
+          </ForwardRef(storyTypeList__LabelInner)>
+        }
+        onClick={[Function]}
+        small={true}
+        weight="tertiary"
+      />
+      <storyTypeList__StoryTypeItem
+        key="story-456"
+        label={
+          <ForwardRef(storyTypeList__LabelInner)>
+            Bikes
+             
+            <ForwardRef(storyTypeList__LabelCount)>
+              • 
+              1
+            </ForwardRef(storyTypeList__LabelCount)>
+          </ForwardRef(storyTypeList__LabelInner)>
+        }
+        onClick={[Function]}
+        small={true}
+        weight="tertiary"
+      />
+      <storyTypeList__StoryTypeItem
+        key="story-1239"
+        label={
+          <ForwardRef(storyTypeList__LabelInner)>
+            People
+             
+            <ForwardRef(storyTypeList__LabelCount)>
+              • 
+              1
+            </ForwardRef(storyTypeList__LabelCount)>
+          </ForwardRef(storyTypeList__LabelInner)>
+        }
+        onClick={[Function]}
+        small={true}
+        weight="tertiary"
+      />
+    </storyTypeList__StoryTypeListWrapper>
+  </storyTypeList__Container>
+</EnsureDefaultTheme>
+`;
+
+exports[`<TagList /> should render a list of filters 1`] = `
+<EnsureDefaultTheme>
+  <tagList__Container>
+    <tagList__IconElem />
+    <tagList__TagListWrapper>
+      <tagList__TagItem
+        key="tag-1521"
+        label={
+          <ForwardRef(tagList__LabelInner)>
+            Car
+             
+            <ForwardRef(tagList__LabelCount)
+              featured={true}
+            >
+              • 
+              1
+            </ForwardRef(tagList__LabelCount)>
+          </ForwardRef(tagList__LabelInner)>
+        }
+        onClick={[Function]}
+        small={true}
+        weight="primary"
+      />
+      <tagList__TagItem
+        key="tag-234"
+        label={
+          <ForwardRef(tagList__LabelInner)>
+            Crash
+             
+            <ForwardRef(tagList__LabelCount)>
+              • 
+              1
+            </ForwardRef(tagList__LabelCount)>
+          </ForwardRef(tagList__LabelInner)>
+        }
+        onClick={[Function]}
+        small={true}
+        weight="secondary"
+      />
+      <tagList__TagItem
+        key="tag-456"
+        label={
+          <ForwardRef(tagList__LabelInner)>
+            Bikes
+             
+            <ForwardRef(tagList__LabelCount)>
+              • 
+              1
+            </ForwardRef(tagList__LabelCount)>
+          </ForwardRef(tagList__LabelInner)>
+        }
+        onClick={[Function]}
+        small={true}
+        weight="secondary"
+      />
+      <tagList__TagItem
+        key="tag-1239"
+        label={
+          <ForwardRef(tagList__LabelInner)>
+            People
+             
+            <ForwardRef(tagList__LabelCount)>
+              • 
+              1
+            </ForwardRef(tagList__LabelCount)>
+          </ForwardRef(tagList__LabelInner)>
+        }
+        onClick={[Function]}
+        small={true}
+        weight="secondary"
+      />
+    </tagList__TagListWrapper>
+  </tagList__Container>
+</EnsureDefaultTheme>
+`;

@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<KinjaMetaProvider /> passes kinja metadata and preserves component props 1`] = `
+<div>
+  <span>
+    Don't mind me I'm just here doing nothing
+  </span>
+  <div>
+    <h1>
+      Hello
+    </h1>
+    <p>
+      World!
+    </p>
+  </div>
+</div>
+`;

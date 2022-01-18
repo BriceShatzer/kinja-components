@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<VideoListItem /> should have link href if it's clickOutToVideos 1`] = `"https://io9.gizmodo.com/the-first-order-watched-over-our-interview-in-star-wars-1835238447"`;
+
+exports[`<VideoListItem /> should render by default 1`] = `
+<EnsureDefaultTheme>
+  <CSSTransition
+    addEndListener={[Function]}
+    appear={false}
+    classNames="transition"
+  >
+    <Item
+      href={null}
+      index={0}
+      onClick={[Function]}
+      type="carousel"
+    >
+      <VideoThumbnail
+        noLazy={true}
+        thumbnailId="qa/3691511"
+        width={320}
+      />
+      <video-list-item__Metadata>
+        <video-list-item__Title
+          dangerouslySetInnerHTML={
+            Object {
+              "__html": "The First Order Watched Over Our Interview in <i>Star Wars: Galaxy&#39;s Edge</i>",
+            }
+          }
+        />
+        <video-list-item__PublishDate
+          type="carousel"
+        >
+          6/04/19 3:30PM
+        </video-list-item__PublishDate>
+      </video-list-item__Metadata>
+    </Item>
+  </CSSTransition>
+</EnsureDefaultTheme>
+`;

@@ -1,0 +1,418 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TrendingThumbnails should render 1`] = `
+.c3 {
+  height: 0;
+  width: 100%;
+  padding-bottom: 56.25%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: #F5F5F5;
+  overflow: hidden;
+  position: relative;
+}
+
+.c3:hover .c4 {
+  bottom: 0;
+}
+
+.c3 img,
+.c3 video {
+  width: 100%;
+}
+
+.c2 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-flow: row nowrap;
+  -ms-flex-flow: row nowrap;
+  flex-flow: row nowrap;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  margin-bottom: 2px;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  border: 1px solid #FFF;
+  position: relative;
+}
+
+.c1:last-child {
+  margin-right: 0;
+}
+
+.c1::after {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  font-size: 35px;
+  font-weight: bold;
+  color: #FFF;
+  content: '1';
+  z-index: 1;
+  opacity: 0;
+  background-color: rgba(0,0,0,0.8);
+  -webkit-transition: opacity 300ms ease-in-out;
+  transition: opacity 300ms ease-in-out;
+}
+
+.c1.active {
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
+}
+
+.c1.active::after {
+  opacity: 0.7;
+}
+
+.c1:hover {
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
+}
+
+.c1:hover::after {
+  opacity: 0.7;
+}
+
+<TrendingThumbnails
+  ga={[Function]}
+  onMouseEnter={[Function]}
+  posts={
+    Array [
+      Object {
+        "id": 0,
+        "image": Object {
+          "format": "jpg",
+          "id": 0,
+        },
+      },
+    ]
+  }
+  selectedItem={0}
+>
+  <EnsureDefaultTheme>
+    <ThemeProvider
+      theme={[Function]}
+    >
+      <trending-thumbnails__IndexWrapper>
+        <StyledComponent
+          forwardedComponent={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": Array [],
+              "componentStyle": ComponentStyle {
+                "componentId": "trending-thumbnails__IndexWrapper-sc-1m3f1n9-0",
+                "isStatic": true,
+                "lastClassName": "c0",
+                "rules": Array [
+                  "display:flex;flex-flow:row nowrap;justify-content:space-between;margin-bottom:2px;",
+                ],
+              },
+              "displayName": "trending-thumbnails__IndexWrapper",
+              "foldedComponentIds": Array [],
+              "render": [Function],
+              "styledComponentId": "trending-thumbnails__IndexWrapper-sc-1m3f1n9-0",
+              "target": "div",
+              "toString": [Function],
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+        >
+          <div
+            className="c0"
+          >
+            <trending-thumbnails__ReelItem
+              className="thumbnail active"
+              data-index={0}
+              events={
+                Array [
+                  Array [
+                    "Trending module click",
+                    "position 1",
+                    undefined,
+                    Object {
+                      "metric16": 1,
+                    },
+                  ],
+                ]
+              }
+              index={1}
+              key="0"
+              onMouseEnter={[Function]}
+            >
+              <StyledComponent
+                className="thumbnail active"
+                data-index={0}
+                events={
+                  Array [
+                    Array [
+                      "Trending module click",
+                      "position 1",
+                      undefined,
+                      Object {
+                        "metric16": 1,
+                      },
+                    ],
+                  ]
+                }
+                forwardedComponent={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": Array [],
+                    "componentStyle": ComponentStyle {
+                      "componentId": "trending-thumbnails__ReelItem-sc-1m3f1n9-1",
+                      "isStatic": false,
+                      "lastClassName": "c1",
+                      "rules": Array [
+                        "display:flex;flex:1;border:1px solid ",
+                        [Function],
+                        ";position:relative;&:last-child{margin-right:0;}&::after{display:flex;justify-content:center;align-items:center;position:absolute;left:0;right:0;top:0;bottom:0;font-size:35px;font-weight:bold;color:",
+                        [Function],
+                        ";content:",
+                        [Function],
+                        ";z-index:1;opacity:0;background-color:rgba(0,0,0,0.8);transition:opacity 300ms ease-in-out;}&.active{",
+                        "filter:grayscale(100%);&::after{opacity:0.7;}",
+                        "}&:hover{",
+                        "filter:grayscale(100%);&::after{opacity:0.7;}",
+                        "}",
+                      ],
+                    },
+                    "displayName": "trending-thumbnails__ReelItem",
+                    "foldedComponentIds": Array [],
+                    "render": [Function],
+                    "styledComponentId": "trending-thumbnails__ReelItem-sc-1m3f1n9-1",
+                    "target": [Function],
+                    "toString": [Function],
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                    Symbol(Symbol.hasInstance): [Function],
+                  }
+                }
+                forwardedRef={null}
+                index={1}
+                onMouseEnter={[Function]}
+              >
+                <Link
+                  className="thumbnail active c1"
+                  data-index={0}
+                  events={
+                    Array [
+                      Array [
+                        "Trending module click",
+                        "position 1",
+                        undefined,
+                        Object {
+                          "metric16": 1,
+                        },
+                      ],
+                    ]
+                  }
+                  index={1}
+                  onMouseEnter={[Function]}
+                >
+                  <link__Anchor
+                    className="thumbnail active c1 js_link"
+                    dangerouslySetInnerHTML={null}
+                    data-ga="[[\\"Trending module click\\",\\"position 1\\",null,{\\"metric16\\":1}]]"
+                    data-index={0}
+                    index={1}
+                    onMouseEnter={[Function]}
+                  >
+                    <StyledComponent
+                      className="thumbnail active c1 js_link"
+                      dangerouslySetInnerHTML={null}
+                      data-ga="[[\\"Trending module click\\",\\"position 1\\",null,{\\"metric16\\":1}]]"
+                      data-index={0}
+                      forwardedComponent={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "attrs": Array [],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "link__Anchor-sc-1out364-0",
+                            "isStatic": true,
+                            "lastClassName": "c2",
+                            "rules": Array [
+                              "text-decoration:none;",
+                            ],
+                          },
+                          "displayName": "link__Anchor",
+                          "foldedComponentIds": Array [],
+                          "render": [Function],
+                          "styledComponentId": "link__Anchor-sc-1out364-0",
+                          "target": "a",
+                          "toString": [Function],
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                      index={1}
+                      onMouseEnter={[Function]}
+                    >
+                      <a
+                        className="thumbnail active c1 js_link c2"
+                        dangerouslySetInnerHTML={null}
+                        data-ga="[[\\"Trending module click\\",\\"position 1\\",null,{\\"metric16\\":1}]]"
+                        data-index={0}
+                        onMouseEnter={[Function]}
+                      >
+                        <SidebarImage
+                          post={
+                            Object {
+                              "id": 0,
+                              "image": Object {
+                                "format": "jpg",
+                                "id": 0,
+                              },
+                            }
+                          }
+                        >
+                          <EnsureDefaultTheme>
+                            <ThemeProvider
+                              theme={[Function]}
+                            >
+                              <sidebar-image__Image16by9Container
+                                className="js_lazy-image"
+                              >
+                                <StyledComponent
+                                  className="js_lazy-image"
+                                  forwardedComponent={
+                                    Object {
+                                      "$$typeof": Symbol(react.forward_ref),
+                                      "attrs": Array [],
+                                      "componentStyle": ComponentStyle {
+                                        "componentId": "sidebar-image__Image16by9Container-ejta2c-0",
+                                        "isStatic": false,
+                                        "lastClassName": "c3",
+                                        "rules": Array [
+                                          "height:0;width:100%;padding-bottom:56.25%;background-size:cover;background-repeat:no-repeat;background-position:center;background-color:",
+                                          [Function],
+                                          ";overflow:hidden;position:relative;&:hover ",
+                                          ".c4",
+                                          "{bottom:0;}img,video{width:100%;}",
+                                        ],
+                                      },
+                                      "displayName": "sidebar-image__Image16by9Container",
+                                      "foldedComponentIds": Array [],
+                                      "render": [Function],
+                                      "styledComponentId": "sidebar-image__Image16by9Container-ejta2c-0",
+                                      "target": "div",
+                                      "toString": [Function],
+                                      "warnTooManyClasses": [Function],
+                                      "withComponent": [Function],
+                                    }
+                                  }
+                                  forwardedRef={null}
+                                >
+                                  <div
+                                    className="js_lazy-image c3"
+                                  >
+                                    <WithPlatform
+                                      croppedImage={true}
+                                      format="jpg"
+                                      id={0}
+                                      transform="KinjaCenteredLargeAuto"
+                                      width={450}
+                                    >
+                                      <WithFeatures
+                                        croppedImage={true}
+                                        format="jpg"
+                                        id={0}
+                                        platform="web"
+                                        transform="KinjaCenteredLargeAuto"
+                                        width={450}
+                                      >
+                                        <OnScreenHOC
+                                          croppedImage={true}
+                                          features={Object {}}
+                                          format="jpg"
+                                          id={0}
+                                          platform="web"
+                                          transform="KinjaCenteredLargeAuto"
+                                          width={450}
+                                        >
+                                          <TrackVisibility
+                                            offset={200}
+                                            once={true}
+                                            partialVisibility={true}
+                                            tag="div"
+                                            throttleInterval={150}
+                                          >
+                                            <div>
+                                              <ResponsiveImage
+                                                croppedImage={true}
+                                                features={Object {}}
+                                                format="jpg"
+                                                id={0}
+                                                isVisible={false}
+                                                key=".0"
+                                                platform="web"
+                                                transform="KinjaCenteredLargeAuto"
+                                                width={450}
+                                              >
+                                                <img
+                                                  data-anim-src=""
+                                                  data-chomp-id={0}
+                                                  data-format="jpg"
+                                                  data-srcset=" 320w,  470w,  80w"
+                                                  draggable="auto"
+                                                  src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                                                />
+                                              </ResponsiveImage>
+                                            </div>
+                                          </TrackVisibility>
+                                        </OnScreenHOC>
+                                      </WithFeatures>
+                                    </WithPlatform>
+                                  </div>
+                                </StyledComponent>
+                              </sidebar-image__Image16by9Container>
+                            </ThemeProvider>
+                          </EnsureDefaultTheme>
+                        </SidebarImage>
+                      </a>
+                    </StyledComponent>
+                  </link__Anchor>
+                </Link>
+              </StyledComponent>
+            </trending-thumbnails__ReelItem>
+          </div>
+        </StyledComponent>
+      </trending-thumbnails__IndexWrapper>
+    </ThemeProvider>
+  </EnsureDefaultTheme>
+</TrendingThumbnails>
+`;

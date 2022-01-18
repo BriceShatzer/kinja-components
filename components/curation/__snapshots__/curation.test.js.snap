@@ -1,0 +1,3281 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Curation /> renders the curation module 1`] = `
+.c0 {
+  position: relative;
+}
+
+.c0 .c2 {
+  display: -webkit-inline-box !important;
+  display: -webkit-inline-flex !important;
+  display: -ms-inline-flexbox !important;
+  display: inline-flex !important;
+}
+
+.c0 .c2:hover .c1 {
+  display: -webkit-box !important;
+  display: -webkit-flex !important;
+  display: -ms-flexbox !important;
+  display: flex !important;
+}
+
+.c0 .c1 {
+  display: none !important;
+}
+
+@media all and (-ms-high-contrast:none),(-ms-high-contrast:active) {
+  .c0 {
+    display: none;
+  }
+}
+
+<Curation
+  curationCustomOptions={
+    Object {
+      "hideAuthorInfo": false,
+      "isOnion": false,
+      "kinjaEqualsNewDesign": false,
+    }
+  }
+  curationToolbarProps={
+    Object {
+      "saveHandler": [Function],
+    }
+  }
+  hasFetched={false}
+  layoutProps={
+    Object {
+      "defaultLayouts": Array [
+        Object {
+          "cardinality": 1,
+          "group": "Headline",
+          "zones": Array [
+            Object {
+              "dimension": "1fr",
+              "numberOfItems": 1,
+            },
+          ],
+        },
+        Object {
+          "cardinality": 3,
+          "group": "Modular",
+          "zones": Array [
+            Object {
+              "dimension": "2fr",
+              "numberOfItems": 1,
+            },
+            Object {
+              "dimension": "1fr",
+              "numberOfItems": 2,
+            },
+          ],
+        },
+        Object {
+          "cardinality": 4,
+          "group": "Modular",
+          "zones": Array [
+            Object {
+              "dimension": "2fr",
+              "numberOfItems": 1,
+            },
+            Object {
+              "dimension": "1fr",
+              "numberOfItems": 2,
+            },
+            Object {
+              "dimension": "1fr",
+              "numberOfItems": 1,
+            },
+          ],
+        },
+        Object {
+          "cardinality": 3,
+          "group": "Equal",
+          "zones": Array [
+            Object {
+              "dimension": "1fr",
+              "numberOfItems": 1,
+            },
+            Object {
+              "dimension": "1fr",
+              "numberOfItems": 1,
+            },
+            Object {
+              "dimension": "1fr",
+              "numberOfItems": 1,
+            },
+          ],
+        },
+        Object {
+          "cardinality": 4,
+          "group": "Equal",
+          "zones": Array [
+            Object {
+              "dimension": "1fr",
+              "numberOfItems": 1,
+            },
+            Object {
+              "dimension": "1fr",
+              "numberOfItems": 1,
+            },
+            Object {
+              "dimension": "1fr",
+              "numberOfItems": 1,
+            },
+            Object {
+              "dimension": "1fr",
+              "numberOfItems": 1,
+            },
+          ],
+        },
+        Object {
+          "cardinality": 6,
+          "group": "Equal",
+          "zones": Array [
+            Object {
+              "dimension": "1fr",
+              "numberOfItems": 2,
+            },
+            Object {
+              "dimension": "1fr",
+              "numberOfItems": 2,
+            },
+            Object {
+              "dimension": "1fr",
+              "numberOfItems": 2,
+            },
+          ],
+        },
+      ],
+      "externalAPI": Object {
+        "imageUploader": [Function],
+        "resolveItem": [Function],
+      },
+      "gridConfig": Object {
+        "items": Array [
+          Object {
+            "adSenseDisabled": false,
+            "adZone": "",
+            "allowReplies": true,
+            "author": Object {
+              "avatar": Object {
+                "format": "jpg",
+                "id": "ql1l79ncdygfqwckzobr",
+              },
+              "displayName": "Chris Kohler",
+              "id": "5876237249237015770",
+              "screenName": "chriskohler",
+            },
+            "authorScreenName": "chriskohler",
+            "authors": Array [
+              Object {
+                "avatar": Object {
+                  "format": "jpg",
+                  "id": "ql1l79ncdygfqwckzobr",
+                },
+                "displayName": "Chris Kohler",
+                "id": "5876237249237015770",
+                "screenName": "chriskohler",
+              },
+              Object {
+                "avatar": Object {
+                  "format": "jpg",
+                  "id": "udtnp2grvcczvcr1ajsc",
+                },
+                "displayName": "Gordon Jackson",
+                "id": "5799958939291581341",
+                "screenName": "gordonmjackson",
+              },
+              Object {
+                "avatar": Object {
+                  "format": "jpg",
+                  "id": "pi7epaqjwbe9gotsjvs2",
+                },
+                "displayName": "Victoria Song",
+                "id": "5876237249238337793",
+                "screenName": "vsong",
+              },
+            ],
+            "byline": "",
+            "defaultBlogId": "9",
+            "discussionSettings": null,
+            "doNotCrawl": false,
+            "facebookImage": Object {
+              "format": "jpg",
+              "height": 357,
+              "id": "cjnv04lsotvdabk32tyt",
+              "src": "https://i.kinja-img.com/gawker-media/image/upload/s--0QXBj7yU--/c_fit,fl_progressive,q_80,w_636/cjnv04lsotvdabk32tyt.jpg",
+              "width": 636,
+            },
+            "first100Characters": "For Mario, 3D used to mean freedom. In 1996, Super Mario 64 broke Nintendo’s mascot from the shackle",
+            "firstSentence": "For Mario, 3D used to mean freedom. ",
+            "gaDimensions": Object {
+              "gaVideoIds": "kinjavideo-3384608",
+              "wordCount": 1757,
+              "wordCountBucket": "1600 - 1800",
+            },
+            "hasFeaturedVideo": false,
+            "headline": "<i>Super Mario Odyssey</i>: The Kotaku Review",
+            "id": 1819856086,
+            "images": Array [
+              Object {
+                "format": "jpg",
+                "height": 357,
+                "id": "w5tdejxht9bd9azy1tdl",
+                "src": "https://i.kinja-img.com/gawker-media/image/upload/s--RQQBbVuY--/c_fit,fl_progressive,q_80,w_636/w5tdejxht9bd9azy1tdl.jpg",
+                "width": 636,
+              },
+              Object {
+                "format": "jpg",
+                "height": 357,
+                "id": "gu6pddl55kstu2wvysjr",
+                "src": "https://i.kinja-img.com/gawker-media/image/upload/s--l9JaggL4--/c_fit,fl_progressive,q_80,w_636/gu6pddl55kstu2wvysjr.jpg",
+                "width": 636,
+              },
+              Object {
+                "format": "jpg",
+                "height": 357,
+                "id": "rl8v2eeugbmgxyrqttlm",
+                "src": "https://i.kinja-img.com/gawker-media/image/upload/s--m0HXlpAU--/c_fit,fl_progressive,q_80,w_636/rl8v2eeugbmgxyrqttlm.jpg",
+                "width": 636,
+              },
+              Object {
+                "format": "jpg",
+                "height": 357,
+                "id": "bdxxiezrhvq6ogx1an0j",
+                "src": "https://i.kinja-img.com/gawker-media/image/upload/s--XS4zIJDG--/c_fit,fl_progressive,q_80,w_636/bdxxiezrhvq6ogx1an0j.jpg",
+                "width": 636,
+              },
+              Object {
+                "format": "jpg",
+                "height": 357,
+                "id": "xs8w3sqz25mkk69g3qgg",
+                "src": "https://i.kinja-img.com/gawker-media/image/upload/s--j1goHN8N--/c_fit,fl_progressive,q_80,w_636/xs8w3sqz25mkk69g3qgg.jpg",
+                "width": 636,
+              },
+            ],
+            "isFeatured": true,
+            "isStarter": true,
+            "isVideo": false,
+            "mainMedia": null,
+            "permalink": "https://kotaku.com/super-mario-odyssey-the-kotaku-review-1819856086",
+            "plaintext": "For Mario, 3D used to mean freedom. In 1996, Super Mario 64 broke Nintendo’s mascot from the shackles of having to run in a straight line, letting the player choose their own path. But for quite some time now—no matter how 3D the graphics may have been—Mario’s adventures have reverted back to running on a straight line. With Super Mario Odyssey, that changes once more, and it’s a glorious thing.",
+            "publishTimeMillis": 1509022800086,
+            "qaMembers": Array [],
+            "qaParticipants": Array [],
+            "qaStatus": null,
+            "replyCount": 405,
+            "securePermalink": "https://kotaku.com/super-mario-odyssey-the-kotaku-review-1819856086",
+            "sharingMainImage": Object {
+              "src": "https://i.kinja-img.com/gawker-media/image/upload/s--RQQBbVuY--/c_fit,fl_progressive,q_80,w_636/w5tdejxht9bd9azy1tdl.jpg",
+            },
+            "showByline": true,
+            "socialHeadline": "Super Mario Odyssey: The Kotaku Review",
+            "sponsored": false,
+            "staffIncluded": false,
+            "status": "PUBLISHED",
+            "storyType": Object {
+              "blogId": 9,
+              "canonical": "review",
+              "content": "Standard",
+              "id": 69,
+              "title": "Review",
+            },
+            "tags": Array [
+              Object {
+                "canonical": "supermarioodyssey",
+                "displayName": "Super Mario Odyssey",
+                "urlName": "super-mario-odyssey",
+              },
+              Object {
+                "canonical": "review",
+                "displayName": "Review",
+                "urlName": "review",
+              },
+              Object {
+                "canonical": "nintendoswitch",
+                "displayName": "Nintendo Switch",
+                "urlName": "nintendo-switch",
+              },
+              Object {
+                "canonical": "nintendo",
+                "displayName": "Nintendo",
+                "urlName": "nintendo",
+              },
+              Object {
+                "canonical": "mario",
+                "displayName": "Mario",
+                "urlName": "mario",
+              },
+              Object {
+                "canonical": "kotakucore",
+                "displayName": "kotakucore",
+                "urlName": "kotakucore",
+              },
+            ],
+            "timezone": "America/New_York",
+            "twitterCardType": "summary_large_image",
+            "videos": Array [
+              Object {
+                "embedCode": null,
+                "height": null,
+                "id": null,
+                "src": "kinjavideo://3384608",
+                "thumbnails": Array [
+                  Object {
+                    "format": "jpg",
+                    "id": "d7decixzdvsos96keany",
+                  },
+                ],
+                "type": "kinjavideo",
+                "width": null,
+              },
+            ],
+          },
+          Object {
+            "adSenseDisabled": false,
+            "adZone": "",
+            "allowReplies": true,
+            "author": Object {
+              "avatar": Object {
+                "format": "jpg",
+                "id": "otfjmlt44b0eftwcbbcb",
+              },
+              "displayName": "Laura Adamczyk",
+              "id": "5876237249237148574",
+              "screenName": "ladamczyk",
+            },
+            "authorScreenName": "ladamczyk",
+            "authors": Array [
+              Object {
+                "avatar": Object {
+                  "format": "jpg",
+                  "id": "otfjmlt44b0eftwcbbcb",
+                },
+                "displayName": "Laura Adamczyk",
+                "id": "5876237249237148574",
+                "screenName": "ladamczyk",
+              },
+              Object {
+                "avatar": Object {
+                  "format": "jpg",
+                  "id": "q6o2wazc8hxqddte7u2u",
+                },
+                "displayName": "Danette Chavez",
+                "id": "5876237249237148570",
+                "screenName": "danettechavez",
+              },
+              Object {
+                "avatar": Object {
+                  "format": "jpg",
+                  "id": "qsi3wfbwhocrnzrxdz7c",
+                },
+                "displayName": "Caitlin PenzeyMoog",
+                "id": "5876237249237148584",
+                "screenName": "penzeymoog",
+              },
+            ],
+            "byline": "",
+            "defaultBlogId": "1636027099",
+            "discussionSettings": null,
+            "doNotCrawl": false,
+            "facebookImage": Object {
+              "format": "jpg",
+              "height": 357,
+              "id": "axcasxoipjqgs7s2xog1",
+              "src": "https://i.kinja-img.com/gawker-media/image/upload/s--4hUVDq0C--/c_fit,fl_progressive,q_80,w_636/axcasxoipjqgs7s2xog1.jpg",
+              "width": 636,
+            },
+            "featuredMedia": null,
+            "first100Characters": "Three staffers, three unabashed recommendations.",
+            "firstSentence": "Three staffers, three unabashed recommendations.",
+            "gaDimensions": Object {
+              "gaVideoIds": "",
+              "wordCount": 629,
+              "wordCountBucket": "600 - 800",
+            },
+            "hasFeaturedVideo": false,
+            "headline": "From the garden of culinary delights: Candy, cider, and a sneaky dessert",
+            "id": 1822977960,
+            "images": Array [
+              Object {
+                "$el": Object {
+                  "0": Object {
+                    "_lazysizesWidth": 800,
+                  },
+                  "context": Object {},
+                  "length": 1,
+                  "prevObject": Object {
+                    "0": Object {},
+                    "context": Object {},
+                    "length": 1,
+                  },
+                  "selector": "[data-chomp-id=\\"axcasxoipjqgs7s2xog1\\"]",
+                },
+                "format": "jpg",
+                "height": 357,
+                "id": "axcasxoipjqgs7s2xog1",
+                "src": "https://i.kinja-img.com/gawker-media/image/upload/s--4hUVDq0C--/c_fit,fl_progressive,q_80,w_636/axcasxoipjqgs7s2xog1.jpg",
+                "type": "image",
+                "width": 636,
+              },
+              Object {
+                "$el": Object {
+                  "0": Object {},
+                  "context": Object {},
+                  "length": 1,
+                  "prevObject": Object {
+                    "0": Object {},
+                    "context": Object {},
+                    "length": 1,
+                  },
+                  "selector": "[data-chomp-id=\\"bvkbznq0vajled6zvduv\\"]",
+                },
+                "format": "jpg",
+                "height": 77,
+                "id": "bvkbznq0vajled6zvduv",
+                "src": "https://i.kinja-img.com/gawker-media/image/upload/s--bTYqjUOR--/c_fill,fl_progressive,g_north,h_77,q_80,w_137/bvkbznq0vajled6zvduv.jpg",
+                "type": "image",
+                "width": 137,
+              },
+            ],
+            "isFeatured": false,
+            "isStarter": true,
+            "isVideo": false,
+            "mainMedia": Object {
+              "alignment": "Bleed",
+              "attribution": Array [],
+              "caption": Array [
+                Object {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "Photo: Chaloner Woods/Getty Images",
+                },
+              ],
+              "format": "jpg",
+              "height": 2699,
+              "id": "axcasxoipjqgs7s2xog1",
+              "lightbox": true,
+              "syndicationRights": false,
+              "type": "Image",
+              "width": 4798,
+            },
+            "permalink": "https://www.avclub.com/from-the-garden-of-culinary-delights-candy-cider-and-1822977960",
+            "plaintext": "Three staffers, three unabashed recommendations.",
+            "publishTimeISO": "2018-02-17T19:00:00.960Z",
+            "publishTimeMillis": 1518894000960,
+            "qaMembers": Array [],
+            "qaParticipants": Array [],
+            "qaStatus": null,
+            "replyCount": 2,
+            "securePermalink": "https://www.avclub.com/from-the-garden-of-culinary-delights-candy-cider-and-1822977960",
+            "socialHeadline": "From the garden of culinary delights: Candy, cider, and a sneaky dessert",
+            "sponsored": false,
+            "staffIncluded": false,
+            "status": "PUBLISHED",
+            "storyType": Object {
+              "blogId": 1636027099,
+              "canonical": "recommends",
+              "content": "Standard",
+              "id": 239,
+              "title": "Recommends",
+            },
+            "tags": Array [
+              Object {
+                "canonical": "staffpicks",
+                "displayName": "Staff Picks",
+                "urlName": "staff-picks",
+              },
+              Object {
+                "canonical": "ginger",
+                "displayName": "Ginger",
+                "urlName": "ginger",
+              },
+              Object {
+                "canonical": "rhinegeist",
+                "displayName": "Rhinegeist",
+                "urlName": "rhinegeist",
+              },
+            ],
+            "twitterCardType": "summary_large_image",
+            "videos": Array [],
+          },
+          Object {
+            "adSenseDisabled": false,
+            "adZone": "",
+            "allowReplies": true,
+            "author": Object {
+              "avatar": Object {
+                "format": "jpg",
+                "id": "diallxazgqjni6poizwa",
+              },
+              "displayName": "Brian Kahn",
+              "id": "5876237249237753946",
+              "screenName": "briankahn",
+            },
+            "authorScreenName": "briankahn",
+            "byline": "",
+            "defaultBlogId": "1636390014",
+            "discussionSettings": null,
+            "doNotCrawl": false,
+            "facebookImage": Object {
+              "format": "gif",
+              "height": 354,
+              "id": "f0dlk1tldtnxyezysljl",
+              "src": "https://i.kinja-img.com/gawker-media/image/upload/s--ijvJD6Cb--/c_fit,fl_progressive,q_80,w_636/f0dlk1tldtnxyezysljl.gif",
+              "width": 636,
+            },
+            "first100Characters": "Scientists aboard the ocean-exploring ship the E/V Nautilus have been prowling the ocean for wonders",
+            "firstSentence": "Scientists aboard the ocean-exploring ship the E/V Nautilus have been prowling the ocean for wonders",
+            "gaDimensions": Object {
+              "gaVideoIds": "youtube-video-s8LuZD4Klbg,youtube-video-UgR6yAffsZg",
+              "wordCount": 449,
+              "wordCountBucket": "400 - 600",
+            },
+            "hasFeaturedVideo": false,
+            "headline": "Even Scientists Were Blown Away by These Weird Sea Creatures They Found",
+            "id": 1820641267,
+            "images": Array [
+              Object {
+                "format": "gif",
+                "height": 354,
+                "id": "f0dlk1tldtnxyezysljl",
+                "src": "https://i.kinja-img.com/gawker-media/image/upload/s--ijvJD6Cb--/c_fit,fl_progressive,q_80,w_636/f0dlk1tldtnxyezysljl.gif",
+                "width": 636,
+              },
+              Object {
+                "format": "gif",
+                "height": 354,
+                "id": "b8oklgcpdux0vxegpsyd",
+                "src": "https://i.kinja-img.com/gawker-media/image/upload/s--iVUVKDGg--/c_fit,fl_progressive,q_80,w_636/b8oklgcpdux0vxegpsyd.gif",
+                "width": 636,
+              },
+              Object {
+                "format": "gif",
+                "height": 337,
+                "id": "r1m2nxrtzyo7z8kz4xrx",
+                "src": "https://i.kinja-img.com/gawker-media/image/upload/s--q7YwAeAd--/c_fit,fl_progressive,q_80,w_636/r1m2nxrtzyo7z8kz4xrx.gif",
+                "width": 636,
+              },
+              Object {
+                "format": "gif",
+                "height": 337,
+                "id": "czjappqwxkuuzgfwk66t",
+                "src": "https://i.kinja-img.com/gawker-media/image/upload/s--wGHtk7ju--/c_fit,fl_progressive,q_80,w_636/czjappqwxkuuzgfwk66t.gif",
+                "width": 636,
+              },
+            ],
+            "isFeatured": false,
+            "isStarter": true,
+            "isVideo": false,
+            "mainMedia": Object {
+              "alignment": "Center",
+              "caption": Array [
+                Object {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "Image: E/V Nautilus",
+                },
+              ],
+              "format": "gif",
+              "height": 428,
+              "id": "f0dlk1tldtnxyezysljl",
+              "type": "Image",
+              "width": 768,
+            },
+            "permalink": "https://earther.com/even-scientists-were-blown-away-by-these-weird-sea-crea-1820641267",
+            "plaintext": "Scientists aboard the ocean-exploring ship the E/V Nautilus have been prowling the ocean for wonders since 2008, literally just exploring the seas. 
+",
+            "publishTimeMillis": 1511294400267,
+            "qaMembers": Array [],
+            "qaParticipants": Array [],
+            "qaStatus": null,
+            "replyCount": 22,
+            "securePermalink": "https://earther.com/even-scientists-were-blown-away-by-these-weird-sea-crea-1820641267",
+            "socialHeadline": "Even Scientists Were Blown Away by These Weird Sea Creatures They Found",
+            "sponsored": false,
+            "staffIncluded": false,
+            "status": "PUBLISHED",
+            "storyType": Object {
+              "blogId": 1636390014,
+              "canonical": "science",
+              "content": "Standard",
+              "id": 439,
+              "title": "Science",
+            },
+            "tags": Array [
+              Object {
+                "canonical": "deepseacreatures",
+                "displayName": "deep sea creatures",
+                "urlName": "deep-sea-creatures",
+              },
+              Object {
+                "canonical": "ocean",
+                "displayName": "Ocean",
+                "urlName": "ocean",
+              },
+              Object {
+                "canonical": "conservation",
+                "displayName": "Conservation",
+                "urlName": "conservation",
+              },
+              Object {
+                "canonical": "exploration",
+                "displayName": "exploration",
+                "urlName": "exploration",
+              },
+            ],
+            "twitterCardType": "summary_large_image",
+            "videos": Array [
+              Object {
+                "embedCode": null,
+                "height": null,
+                "id": null,
+                "src": "youtube://s8LuZD4Klbg",
+                "thumbnails": Array [
+                  Object {
+                    "format": "jpg",
+                    "id": "alimxbbmbwjxh1aozyuv",
+                  },
+                ],
+                "type": "youtube",
+                "width": null,
+              },
+              Object {
+                "embedCode": null,
+                "height": null,
+                "id": null,
+                "src": "youtube://UgR6yAffsZg",
+                "thumbnails": Array [
+                  Object {
+                    "format": "jpg",
+                    "id": "fhpai7hlliovre64n3hp",
+                  },
+                ],
+                "type": "youtube",
+                "width": null,
+              },
+            ],
+          },
+          null,
+          null,
+          null,
+        ],
+        "layout": Object {
+          "zones": Array [
+            Object {
+              "dimension": "1fr",
+              "numberOfItems": 1,
+            },
+          ],
+        },
+      },
+    }
+  }
+>
+  <curation__CurationWrapper
+    className="curation-mountain js_curation-editor-container"
+  >
+    <StyledComponent
+      className="curation-mountain js_curation-editor-container"
+      forwardedComponent={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": Array [],
+          "componentStyle": ComponentStyle {
+            "componentId": "curation__CurationWrapper-sc-1fcw7cu-1",
+            "isStatic": false,
+            "lastClassName": "c0",
+            "rules": Array [
+              [Function],
+              " @media all and (-ms-high-contrast:none),(-ms-high-contrast:active){display:none;}position:relative;",
+              ".c2",
+              "{display:inline-flex !important;&:hover{",
+              ".c1",
+              "{display:flex !important;}}}",
+              ".c1",
+              "{display:none !important;}",
+            ],
+          },
+          "displayName": "curation__CurationWrapper",
+          "foldedComponentIds": Array [],
+          "render": [Function],
+          "styledComponentId": "curation__CurationWrapper-sc-1fcw7cu-1",
+          "target": "div",
+          "toString": [Function],
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        }
+      }
+      forwardedRef={null}
+    >
+      <div
+        className="curation-mountain js_curation-editor-container c0"
+      >
+        <div
+          className="curation-mountain__toolbar"
+        >
+          <ClickOutside(CurationModule)
+            activeCard={null}
+            activeItem={null}
+            activeTertiary={null}
+            cardOnBlur={[Function]}
+            cardOnClick={[Function]}
+            clearCuration={false}
+            curationCustomOptions={
+              Object {
+                "hideAuthorInfo": false,
+                "isOnion": false,
+                "kinjaEqualsNewDesign": false,
+              }
+            }
+            handleClickOutside={[Function]}
+            isCloseButton={false}
+            isEditMode={false}
+            isEditing={[Function]}
+            isOpenButton={false}
+            isSaving={false}
+            layoutProps={
+              Object {
+                "defaultLayouts": Array [
+                  Object {
+                    "cardinality": 1,
+                    "group": "Headline",
+                    "zones": Array [
+                      Object {
+                        "dimension": "1fr",
+                        "numberOfItems": 1,
+                      },
+                    ],
+                  },
+                  Object {
+                    "cardinality": 3,
+                    "group": "Modular",
+                    "zones": Array [
+                      Object {
+                        "dimension": "2fr",
+                        "numberOfItems": 1,
+                      },
+                      Object {
+                        "dimension": "1fr",
+                        "numberOfItems": 2,
+                      },
+                    ],
+                  },
+                  Object {
+                    "cardinality": 4,
+                    "group": "Modular",
+                    "zones": Array [
+                      Object {
+                        "dimension": "2fr",
+                        "numberOfItems": 1,
+                      },
+                      Object {
+                        "dimension": "1fr",
+                        "numberOfItems": 2,
+                      },
+                      Object {
+                        "dimension": "1fr",
+                        "numberOfItems": 1,
+                      },
+                    ],
+                  },
+                  Object {
+                    "cardinality": 3,
+                    "group": "Equal",
+                    "zones": Array [
+                      Object {
+                        "dimension": "1fr",
+                        "numberOfItems": 1,
+                      },
+                      Object {
+                        "dimension": "1fr",
+                        "numberOfItems": 1,
+                      },
+                      Object {
+                        "dimension": "1fr",
+                        "numberOfItems": 1,
+                      },
+                    ],
+                  },
+                  Object {
+                    "cardinality": 4,
+                    "group": "Equal",
+                    "zones": Array [
+                      Object {
+                        "dimension": "1fr",
+                        "numberOfItems": 1,
+                      },
+                      Object {
+                        "dimension": "1fr",
+                        "numberOfItems": 1,
+                      },
+                      Object {
+                        "dimension": "1fr",
+                        "numberOfItems": 1,
+                      },
+                      Object {
+                        "dimension": "1fr",
+                        "numberOfItems": 1,
+                      },
+                    ],
+                  },
+                  Object {
+                    "cardinality": 6,
+                    "group": "Equal",
+                    "zones": Array [
+                      Object {
+                        "dimension": "1fr",
+                        "numberOfItems": 2,
+                      },
+                      Object {
+                        "dimension": "1fr",
+                        "numberOfItems": 2,
+                      },
+                      Object {
+                        "dimension": "1fr",
+                        "numberOfItems": 2,
+                      },
+                    ],
+                  },
+                ],
+                "externalAPI": Object {
+                  "imageUploader": [Function],
+                  "resolveItem": [Function],
+                },
+                "gridConfig": Object {
+                  "items": Array [
+                    Object {
+                      "adSenseDisabled": false,
+                      "adZone": "",
+                      "allowReplies": true,
+                      "author": Object {
+                        "avatar": Object {
+                          "format": "jpg",
+                          "id": "ql1l79ncdygfqwckzobr",
+                        },
+                        "displayName": "Chris Kohler",
+                        "id": "5876237249237015770",
+                        "screenName": "chriskohler",
+                      },
+                      "authorScreenName": "chriskohler",
+                      "authors": Array [
+                        Object {
+                          "avatar": Object {
+                            "format": "jpg",
+                            "id": "ql1l79ncdygfqwckzobr",
+                          },
+                          "displayName": "Chris Kohler",
+                          "id": "5876237249237015770",
+                          "screenName": "chriskohler",
+                        },
+                        Object {
+                          "avatar": Object {
+                            "format": "jpg",
+                            "id": "udtnp2grvcczvcr1ajsc",
+                          },
+                          "displayName": "Gordon Jackson",
+                          "id": "5799958939291581341",
+                          "screenName": "gordonmjackson",
+                        },
+                        Object {
+                          "avatar": Object {
+                            "format": "jpg",
+                            "id": "pi7epaqjwbe9gotsjvs2",
+                          },
+                          "displayName": "Victoria Song",
+                          "id": "5876237249238337793",
+                          "screenName": "vsong",
+                        },
+                      ],
+                      "byline": "",
+                      "defaultBlogId": "9",
+                      "discussionSettings": null,
+                      "doNotCrawl": false,
+                      "facebookImage": Object {
+                        "format": "jpg",
+                        "height": 357,
+                        "id": "cjnv04lsotvdabk32tyt",
+                        "src": "https://i.kinja-img.com/gawker-media/image/upload/s--0QXBj7yU--/c_fit,fl_progressive,q_80,w_636/cjnv04lsotvdabk32tyt.jpg",
+                        "width": 636,
+                      },
+                      "first100Characters": "For Mario, 3D used to mean freedom. In 1996, Super Mario 64 broke Nintendo’s mascot from the shackle",
+                      "firstSentence": "For Mario, 3D used to mean freedom. ",
+                      "gaDimensions": Object {
+                        "gaVideoIds": "kinjavideo-3384608",
+                        "wordCount": 1757,
+                        "wordCountBucket": "1600 - 1800",
+                      },
+                      "hasFeaturedVideo": false,
+                      "headline": "<i>Super Mario Odyssey</i>: The Kotaku Review",
+                      "id": 1819856086,
+                      "images": Array [
+                        Object {
+                          "format": "jpg",
+                          "height": 357,
+                          "id": "w5tdejxht9bd9azy1tdl",
+                          "src": "https://i.kinja-img.com/gawker-media/image/upload/s--RQQBbVuY--/c_fit,fl_progressive,q_80,w_636/w5tdejxht9bd9azy1tdl.jpg",
+                          "width": 636,
+                        },
+                        Object {
+                          "format": "jpg",
+                          "height": 357,
+                          "id": "gu6pddl55kstu2wvysjr",
+                          "src": "https://i.kinja-img.com/gawker-media/image/upload/s--l9JaggL4--/c_fit,fl_progressive,q_80,w_636/gu6pddl55kstu2wvysjr.jpg",
+                          "width": 636,
+                        },
+                        Object {
+                          "format": "jpg",
+                          "height": 357,
+                          "id": "rl8v2eeugbmgxyrqttlm",
+                          "src": "https://i.kinja-img.com/gawker-media/image/upload/s--m0HXlpAU--/c_fit,fl_progressive,q_80,w_636/rl8v2eeugbmgxyrqttlm.jpg",
+                          "width": 636,
+                        },
+                        Object {
+                          "format": "jpg",
+                          "height": 357,
+                          "id": "bdxxiezrhvq6ogx1an0j",
+                          "src": "https://i.kinja-img.com/gawker-media/image/upload/s--XS4zIJDG--/c_fit,fl_progressive,q_80,w_636/bdxxiezrhvq6ogx1an0j.jpg",
+                          "width": 636,
+                        },
+                        Object {
+                          "format": "jpg",
+                          "height": 357,
+                          "id": "xs8w3sqz25mkk69g3qgg",
+                          "src": "https://i.kinja-img.com/gawker-media/image/upload/s--j1goHN8N--/c_fit,fl_progressive,q_80,w_636/xs8w3sqz25mkk69g3qgg.jpg",
+                          "width": 636,
+                        },
+                      ],
+                      "isFeatured": true,
+                      "isStarter": true,
+                      "isVideo": false,
+                      "mainMedia": null,
+                      "permalink": "https://kotaku.com/super-mario-odyssey-the-kotaku-review-1819856086",
+                      "plaintext": "For Mario, 3D used to mean freedom. In 1996, Super Mario 64 broke Nintendo’s mascot from the shackles of having to run in a straight line, letting the player choose their own path. But for quite some time now—no matter how 3D the graphics may have been—Mario’s adventures have reverted back to running on a straight line. With Super Mario Odyssey, that changes once more, and it’s a glorious thing.",
+                      "publishTimeMillis": 1509022800086,
+                      "qaMembers": Array [],
+                      "qaParticipants": Array [],
+                      "qaStatus": null,
+                      "replyCount": 405,
+                      "securePermalink": "https://kotaku.com/super-mario-odyssey-the-kotaku-review-1819856086",
+                      "sharingMainImage": Object {
+                        "src": "https://i.kinja-img.com/gawker-media/image/upload/s--RQQBbVuY--/c_fit,fl_progressive,q_80,w_636/w5tdejxht9bd9azy1tdl.jpg",
+                      },
+                      "showByline": true,
+                      "socialHeadline": "Super Mario Odyssey: The Kotaku Review",
+                      "sponsored": false,
+                      "staffIncluded": false,
+                      "status": "PUBLISHED",
+                      "storyType": Object {
+                        "blogId": 9,
+                        "canonical": "review",
+                        "content": "Standard",
+                        "id": 69,
+                        "title": "Review",
+                      },
+                      "tags": Array [
+                        Object {
+                          "canonical": "supermarioodyssey",
+                          "displayName": "Super Mario Odyssey",
+                          "urlName": "super-mario-odyssey",
+                        },
+                        Object {
+                          "canonical": "review",
+                          "displayName": "Review",
+                          "urlName": "review",
+                        },
+                        Object {
+                          "canonical": "nintendoswitch",
+                          "displayName": "Nintendo Switch",
+                          "urlName": "nintendo-switch",
+                        },
+                        Object {
+                          "canonical": "nintendo",
+                          "displayName": "Nintendo",
+                          "urlName": "nintendo",
+                        },
+                        Object {
+                          "canonical": "mario",
+                          "displayName": "Mario",
+                          "urlName": "mario",
+                        },
+                        Object {
+                          "canonical": "kotakucore",
+                          "displayName": "kotakucore",
+                          "urlName": "kotakucore",
+                        },
+                      ],
+                      "timezone": "America/New_York",
+                      "twitterCardType": "summary_large_image",
+                      "videos": Array [
+                        Object {
+                          "embedCode": null,
+                          "height": null,
+                          "id": null,
+                          "src": "kinjavideo://3384608",
+                          "thumbnails": Array [
+                            Object {
+                              "format": "jpg",
+                              "id": "d7decixzdvsos96keany",
+                            },
+                          ],
+                          "type": "kinjavideo",
+                          "width": null,
+                        },
+                      ],
+                    },
+                    Object {
+                      "adSenseDisabled": false,
+                      "adZone": "",
+                      "allowReplies": true,
+                      "author": Object {
+                        "avatar": Object {
+                          "format": "jpg",
+                          "id": "otfjmlt44b0eftwcbbcb",
+                        },
+                        "displayName": "Laura Adamczyk",
+                        "id": "5876237249237148574",
+                        "screenName": "ladamczyk",
+                      },
+                      "authorScreenName": "ladamczyk",
+                      "authors": Array [
+                        Object {
+                          "avatar": Object {
+                            "format": "jpg",
+                            "id": "otfjmlt44b0eftwcbbcb",
+                          },
+                          "displayName": "Laura Adamczyk",
+                          "id": "5876237249237148574",
+                          "screenName": "ladamczyk",
+                        },
+                        Object {
+                          "avatar": Object {
+                            "format": "jpg",
+                            "id": "q6o2wazc8hxqddte7u2u",
+                          },
+                          "displayName": "Danette Chavez",
+                          "id": "5876237249237148570",
+                          "screenName": "danettechavez",
+                        },
+                        Object {
+                          "avatar": Object {
+                            "format": "jpg",
+                            "id": "qsi3wfbwhocrnzrxdz7c",
+                          },
+                          "displayName": "Caitlin PenzeyMoog",
+                          "id": "5876237249237148584",
+                          "screenName": "penzeymoog",
+                        },
+                      ],
+                      "byline": "",
+                      "defaultBlogId": "1636027099",
+                      "discussionSettings": null,
+                      "doNotCrawl": false,
+                      "facebookImage": Object {
+                        "format": "jpg",
+                        "height": 357,
+                        "id": "axcasxoipjqgs7s2xog1",
+                        "src": "https://i.kinja-img.com/gawker-media/image/upload/s--4hUVDq0C--/c_fit,fl_progressive,q_80,w_636/axcasxoipjqgs7s2xog1.jpg",
+                        "width": 636,
+                      },
+                      "featuredMedia": null,
+                      "first100Characters": "Three staffers, three unabashed recommendations.",
+                      "firstSentence": "Three staffers, three unabashed recommendations.",
+                      "gaDimensions": Object {
+                        "gaVideoIds": "",
+                        "wordCount": 629,
+                        "wordCountBucket": "600 - 800",
+                      },
+                      "hasFeaturedVideo": false,
+                      "headline": "From the garden of culinary delights: Candy, cider, and a sneaky dessert",
+                      "id": 1822977960,
+                      "images": Array [
+                        Object {
+                          "$el": Object {
+                            "0": Object {
+                              "_lazysizesWidth": 800,
+                            },
+                            "context": Object {},
+                            "length": 1,
+                            "prevObject": Object {
+                              "0": Object {},
+                              "context": Object {},
+                              "length": 1,
+                            },
+                            "selector": "[data-chomp-id=\\"axcasxoipjqgs7s2xog1\\"]",
+                          },
+                          "format": "jpg",
+                          "height": 357,
+                          "id": "axcasxoipjqgs7s2xog1",
+                          "src": "https://i.kinja-img.com/gawker-media/image/upload/s--4hUVDq0C--/c_fit,fl_progressive,q_80,w_636/axcasxoipjqgs7s2xog1.jpg",
+                          "type": "image",
+                          "width": 636,
+                        },
+                        Object {
+                          "$el": Object {
+                            "0": Object {},
+                            "context": Object {},
+                            "length": 1,
+                            "prevObject": Object {
+                              "0": Object {},
+                              "context": Object {},
+                              "length": 1,
+                            },
+                            "selector": "[data-chomp-id=\\"bvkbznq0vajled6zvduv\\"]",
+                          },
+                          "format": "jpg",
+                          "height": 77,
+                          "id": "bvkbznq0vajled6zvduv",
+                          "src": "https://i.kinja-img.com/gawker-media/image/upload/s--bTYqjUOR--/c_fill,fl_progressive,g_north,h_77,q_80,w_137/bvkbznq0vajled6zvduv.jpg",
+                          "type": "image",
+                          "width": 137,
+                        },
+                      ],
+                      "isFeatured": false,
+                      "isStarter": true,
+                      "isVideo": false,
+                      "mainMedia": Object {
+                        "alignment": "Bleed",
+                        "attribution": Array [],
+                        "caption": Array [
+                          Object {
+                            "styles": Array [],
+                            "type": "Text",
+                            "value": "Photo: Chaloner Woods/Getty Images",
+                          },
+                        ],
+                        "format": "jpg",
+                        "height": 2699,
+                        "id": "axcasxoipjqgs7s2xog1",
+                        "lightbox": true,
+                        "syndicationRights": false,
+                        "type": "Image",
+                        "width": 4798,
+                      },
+                      "permalink": "https://www.avclub.com/from-the-garden-of-culinary-delights-candy-cider-and-1822977960",
+                      "plaintext": "Three staffers, three unabashed recommendations.",
+                      "publishTimeISO": "2018-02-17T19:00:00.960Z",
+                      "publishTimeMillis": 1518894000960,
+                      "qaMembers": Array [],
+                      "qaParticipants": Array [],
+                      "qaStatus": null,
+                      "replyCount": 2,
+                      "securePermalink": "https://www.avclub.com/from-the-garden-of-culinary-delights-candy-cider-and-1822977960",
+                      "socialHeadline": "From the garden of culinary delights: Candy, cider, and a sneaky dessert",
+                      "sponsored": false,
+                      "staffIncluded": false,
+                      "status": "PUBLISHED",
+                      "storyType": Object {
+                        "blogId": 1636027099,
+                        "canonical": "recommends",
+                        "content": "Standard",
+                        "id": 239,
+                        "title": "Recommends",
+                      },
+                      "tags": Array [
+                        Object {
+                          "canonical": "staffpicks",
+                          "displayName": "Staff Picks",
+                          "urlName": "staff-picks",
+                        },
+                        Object {
+                          "canonical": "ginger",
+                          "displayName": "Ginger",
+                          "urlName": "ginger",
+                        },
+                        Object {
+                          "canonical": "rhinegeist",
+                          "displayName": "Rhinegeist",
+                          "urlName": "rhinegeist",
+                        },
+                      ],
+                      "twitterCardType": "summary_large_image",
+                      "videos": Array [],
+                    },
+                    Object {
+                      "adSenseDisabled": false,
+                      "adZone": "",
+                      "allowReplies": true,
+                      "author": Object {
+                        "avatar": Object {
+                          "format": "jpg",
+                          "id": "diallxazgqjni6poizwa",
+                        },
+                        "displayName": "Brian Kahn",
+                        "id": "5876237249237753946",
+                        "screenName": "briankahn",
+                      },
+                      "authorScreenName": "briankahn",
+                      "byline": "",
+                      "defaultBlogId": "1636390014",
+                      "discussionSettings": null,
+                      "doNotCrawl": false,
+                      "facebookImage": Object {
+                        "format": "gif",
+                        "height": 354,
+                        "id": "f0dlk1tldtnxyezysljl",
+                        "src": "https://i.kinja-img.com/gawker-media/image/upload/s--ijvJD6Cb--/c_fit,fl_progressive,q_80,w_636/f0dlk1tldtnxyezysljl.gif",
+                        "width": 636,
+                      },
+                      "first100Characters": "Scientists aboard the ocean-exploring ship the E/V Nautilus have been prowling the ocean for wonders",
+                      "firstSentence": "Scientists aboard the ocean-exploring ship the E/V Nautilus have been prowling the ocean for wonders",
+                      "gaDimensions": Object {
+                        "gaVideoIds": "youtube-video-s8LuZD4Klbg,youtube-video-UgR6yAffsZg",
+                        "wordCount": 449,
+                        "wordCountBucket": "400 - 600",
+                      },
+                      "hasFeaturedVideo": false,
+                      "headline": "Even Scientists Were Blown Away by These Weird Sea Creatures They Found",
+                      "id": 1820641267,
+                      "images": Array [
+                        Object {
+                          "format": "gif",
+                          "height": 354,
+                          "id": "f0dlk1tldtnxyezysljl",
+                          "src": "https://i.kinja-img.com/gawker-media/image/upload/s--ijvJD6Cb--/c_fit,fl_progressive,q_80,w_636/f0dlk1tldtnxyezysljl.gif",
+                          "width": 636,
+                        },
+                        Object {
+                          "format": "gif",
+                          "height": 354,
+                          "id": "b8oklgcpdux0vxegpsyd",
+                          "src": "https://i.kinja-img.com/gawker-media/image/upload/s--iVUVKDGg--/c_fit,fl_progressive,q_80,w_636/b8oklgcpdux0vxegpsyd.gif",
+                          "width": 636,
+                        },
+                        Object {
+                          "format": "gif",
+                          "height": 337,
+                          "id": "r1m2nxrtzyo7z8kz4xrx",
+                          "src": "https://i.kinja-img.com/gawker-media/image/upload/s--q7YwAeAd--/c_fit,fl_progressive,q_80,w_636/r1m2nxrtzyo7z8kz4xrx.gif",
+                          "width": 636,
+                        },
+                        Object {
+                          "format": "gif",
+                          "height": 337,
+                          "id": "czjappqwxkuuzgfwk66t",
+                          "src": "https://i.kinja-img.com/gawker-media/image/upload/s--wGHtk7ju--/c_fit,fl_progressive,q_80,w_636/czjappqwxkuuzgfwk66t.gif",
+                          "width": 636,
+                        },
+                      ],
+                      "isFeatured": false,
+                      "isStarter": true,
+                      "isVideo": false,
+                      "mainMedia": Object {
+                        "alignment": "Center",
+                        "caption": Array [
+                          Object {
+                            "styles": Array [],
+                            "type": "Text",
+                            "value": "Image: E/V Nautilus",
+                          },
+                        ],
+                        "format": "gif",
+                        "height": 428,
+                        "id": "f0dlk1tldtnxyezysljl",
+                        "type": "Image",
+                        "width": 768,
+                      },
+                      "permalink": "https://earther.com/even-scientists-were-blown-away-by-these-weird-sea-crea-1820641267",
+                      "plaintext": "Scientists aboard the ocean-exploring ship the E/V Nautilus have been prowling the ocean for wonders since 2008, literally just exploring the seas. 
+",
+                      "publishTimeMillis": 1511294400267,
+                      "qaMembers": Array [],
+                      "qaParticipants": Array [],
+                      "qaStatus": null,
+                      "replyCount": 22,
+                      "securePermalink": "https://earther.com/even-scientists-were-blown-away-by-these-weird-sea-crea-1820641267",
+                      "socialHeadline": "Even Scientists Were Blown Away by These Weird Sea Creatures They Found",
+                      "sponsored": false,
+                      "staffIncluded": false,
+                      "status": "PUBLISHED",
+                      "storyType": Object {
+                        "blogId": 1636390014,
+                        "canonical": "science",
+                        "content": "Standard",
+                        "id": 439,
+                        "title": "Science",
+                      },
+                      "tags": Array [
+                        Object {
+                          "canonical": "deepseacreatures",
+                          "displayName": "deep sea creatures",
+                          "urlName": "deep-sea-creatures",
+                        },
+                        Object {
+                          "canonical": "ocean",
+                          "displayName": "Ocean",
+                          "urlName": "ocean",
+                        },
+                        Object {
+                          "canonical": "conservation",
+                          "displayName": "Conservation",
+                          "urlName": "conservation",
+                        },
+                        Object {
+                          "canonical": "exploration",
+                          "displayName": "exploration",
+                          "urlName": "exploration",
+                        },
+                      ],
+                      "twitterCardType": "summary_large_image",
+                      "videos": Array [
+                        Object {
+                          "embedCode": null,
+                          "height": null,
+                          "id": null,
+                          "src": "youtube://s8LuZD4Klbg",
+                          "thumbnails": Array [
+                            Object {
+                              "format": "jpg",
+                              "id": "alimxbbmbwjxh1aozyuv",
+                            },
+                          ],
+                          "type": "youtube",
+                          "width": null,
+                        },
+                        Object {
+                          "embedCode": null,
+                          "height": null,
+                          "id": null,
+                          "src": "youtube://UgR6yAffsZg",
+                          "thumbnails": Array [
+                            Object {
+                              "format": "jpg",
+                              "id": "fhpai7hlliovre64n3hp",
+                            },
+                          ],
+                          "type": "youtube",
+                          "width": null,
+                        },
+                      ],
+                    },
+                    null,
+                    null,
+                    null,
+                  ],
+                  "layout": Object {
+                    "zones": Array [
+                      Object {
+                        "dimension": "1fr",
+                        "numberOfItems": 1,
+                      },
+                    ],
+                  },
+                },
+              }
+            }
+            resetToggleState={[Function]}
+            setActiveCard={[Function]}
+          >
+            <CurationModule
+              activeCard={null}
+              activeItem={null}
+              activeTertiary={null}
+              cardOnBlur={[Function]}
+              cardOnClick={[Function]}
+              clearCuration={false}
+              curationCustomOptions={
+                Object {
+                  "hideAuthorInfo": false,
+                  "isOnion": false,
+                  "kinjaEqualsNewDesign": false,
+                }
+              }
+              insideReference={[Function]}
+              isCloseButton={false}
+              isEditMode={false}
+              isEditing={[Function]}
+              isOpenButton={false}
+              isSaving={false}
+              layoutProps={
+                Object {
+                  "defaultLayouts": Array [
+                    Object {
+                      "cardinality": 1,
+                      "group": "Headline",
+                      "zones": Array [
+                        Object {
+                          "dimension": "1fr",
+                          "numberOfItems": 1,
+                        },
+                      ],
+                    },
+                    Object {
+                      "cardinality": 3,
+                      "group": "Modular",
+                      "zones": Array [
+                        Object {
+                          "dimension": "2fr",
+                          "numberOfItems": 1,
+                        },
+                        Object {
+                          "dimension": "1fr",
+                          "numberOfItems": 2,
+                        },
+                      ],
+                    },
+                    Object {
+                      "cardinality": 4,
+                      "group": "Modular",
+                      "zones": Array [
+                        Object {
+                          "dimension": "2fr",
+                          "numberOfItems": 1,
+                        },
+                        Object {
+                          "dimension": "1fr",
+                          "numberOfItems": 2,
+                        },
+                        Object {
+                          "dimension": "1fr",
+                          "numberOfItems": 1,
+                        },
+                      ],
+                    },
+                    Object {
+                      "cardinality": 3,
+                      "group": "Equal",
+                      "zones": Array [
+                        Object {
+                          "dimension": "1fr",
+                          "numberOfItems": 1,
+                        },
+                        Object {
+                          "dimension": "1fr",
+                          "numberOfItems": 1,
+                        },
+                        Object {
+                          "dimension": "1fr",
+                          "numberOfItems": 1,
+                        },
+                      ],
+                    },
+                    Object {
+                      "cardinality": 4,
+                      "group": "Equal",
+                      "zones": Array [
+                        Object {
+                          "dimension": "1fr",
+                          "numberOfItems": 1,
+                        },
+                        Object {
+                          "dimension": "1fr",
+                          "numberOfItems": 1,
+                        },
+                        Object {
+                          "dimension": "1fr",
+                          "numberOfItems": 1,
+                        },
+                        Object {
+                          "dimension": "1fr",
+                          "numberOfItems": 1,
+                        },
+                      ],
+                    },
+                    Object {
+                      "cardinality": 6,
+                      "group": "Equal",
+                      "zones": Array [
+                        Object {
+                          "dimension": "1fr",
+                          "numberOfItems": 2,
+                        },
+                        Object {
+                          "dimension": "1fr",
+                          "numberOfItems": 2,
+                        },
+                        Object {
+                          "dimension": "1fr",
+                          "numberOfItems": 2,
+                        },
+                      ],
+                    },
+                  ],
+                  "externalAPI": Object {
+                    "imageUploader": [Function],
+                    "resolveItem": [Function],
+                  },
+                  "gridConfig": Object {
+                    "items": Array [
+                      Object {
+                        "adSenseDisabled": false,
+                        "adZone": "",
+                        "allowReplies": true,
+                        "author": Object {
+                          "avatar": Object {
+                            "format": "jpg",
+                            "id": "ql1l79ncdygfqwckzobr",
+                          },
+                          "displayName": "Chris Kohler",
+                          "id": "5876237249237015770",
+                          "screenName": "chriskohler",
+                        },
+                        "authorScreenName": "chriskohler",
+                        "authors": Array [
+                          Object {
+                            "avatar": Object {
+                              "format": "jpg",
+                              "id": "ql1l79ncdygfqwckzobr",
+                            },
+                            "displayName": "Chris Kohler",
+                            "id": "5876237249237015770",
+                            "screenName": "chriskohler",
+                          },
+                          Object {
+                            "avatar": Object {
+                              "format": "jpg",
+                              "id": "udtnp2grvcczvcr1ajsc",
+                            },
+                            "displayName": "Gordon Jackson",
+                            "id": "5799958939291581341",
+                            "screenName": "gordonmjackson",
+                          },
+                          Object {
+                            "avatar": Object {
+                              "format": "jpg",
+                              "id": "pi7epaqjwbe9gotsjvs2",
+                            },
+                            "displayName": "Victoria Song",
+                            "id": "5876237249238337793",
+                            "screenName": "vsong",
+                          },
+                        ],
+                        "byline": "",
+                        "defaultBlogId": "9",
+                        "discussionSettings": null,
+                        "doNotCrawl": false,
+                        "facebookImage": Object {
+                          "format": "jpg",
+                          "height": 357,
+                          "id": "cjnv04lsotvdabk32tyt",
+                          "src": "https://i.kinja-img.com/gawker-media/image/upload/s--0QXBj7yU--/c_fit,fl_progressive,q_80,w_636/cjnv04lsotvdabk32tyt.jpg",
+                          "width": 636,
+                        },
+                        "first100Characters": "For Mario, 3D used to mean freedom. In 1996, Super Mario 64 broke Nintendo’s mascot from the shackle",
+                        "firstSentence": "For Mario, 3D used to mean freedom. ",
+                        "gaDimensions": Object {
+                          "gaVideoIds": "kinjavideo-3384608",
+                          "wordCount": 1757,
+                          "wordCountBucket": "1600 - 1800",
+                        },
+                        "hasFeaturedVideo": false,
+                        "headline": "<i>Super Mario Odyssey</i>: The Kotaku Review",
+                        "id": 1819856086,
+                        "images": Array [
+                          Object {
+                            "format": "jpg",
+                            "height": 357,
+                            "id": "w5tdejxht9bd9azy1tdl",
+                            "src": "https://i.kinja-img.com/gawker-media/image/upload/s--RQQBbVuY--/c_fit,fl_progressive,q_80,w_636/w5tdejxht9bd9azy1tdl.jpg",
+                            "width": 636,
+                          },
+                          Object {
+                            "format": "jpg",
+                            "height": 357,
+                            "id": "gu6pddl55kstu2wvysjr",
+                            "src": "https://i.kinja-img.com/gawker-media/image/upload/s--l9JaggL4--/c_fit,fl_progressive,q_80,w_636/gu6pddl55kstu2wvysjr.jpg",
+                            "width": 636,
+                          },
+                          Object {
+                            "format": "jpg",
+                            "height": 357,
+                            "id": "rl8v2eeugbmgxyrqttlm",
+                            "src": "https://i.kinja-img.com/gawker-media/image/upload/s--m0HXlpAU--/c_fit,fl_progressive,q_80,w_636/rl8v2eeugbmgxyrqttlm.jpg",
+                            "width": 636,
+                          },
+                          Object {
+                            "format": "jpg",
+                            "height": 357,
+                            "id": "bdxxiezrhvq6ogx1an0j",
+                            "src": "https://i.kinja-img.com/gawker-media/image/upload/s--XS4zIJDG--/c_fit,fl_progressive,q_80,w_636/bdxxiezrhvq6ogx1an0j.jpg",
+                            "width": 636,
+                          },
+                          Object {
+                            "format": "jpg",
+                            "height": 357,
+                            "id": "xs8w3sqz25mkk69g3qgg",
+                            "src": "https://i.kinja-img.com/gawker-media/image/upload/s--j1goHN8N--/c_fit,fl_progressive,q_80,w_636/xs8w3sqz25mkk69g3qgg.jpg",
+                            "width": 636,
+                          },
+                        ],
+                        "isFeatured": true,
+                        "isStarter": true,
+                        "isVideo": false,
+                        "mainMedia": null,
+                        "permalink": "https://kotaku.com/super-mario-odyssey-the-kotaku-review-1819856086",
+                        "plaintext": "For Mario, 3D used to mean freedom. In 1996, Super Mario 64 broke Nintendo’s mascot from the shackles of having to run in a straight line, letting the player choose their own path. But for quite some time now—no matter how 3D the graphics may have been—Mario’s adventures have reverted back to running on a straight line. With Super Mario Odyssey, that changes once more, and it’s a glorious thing.",
+                        "publishTimeMillis": 1509022800086,
+                        "qaMembers": Array [],
+                        "qaParticipants": Array [],
+                        "qaStatus": null,
+                        "replyCount": 405,
+                        "securePermalink": "https://kotaku.com/super-mario-odyssey-the-kotaku-review-1819856086",
+                        "sharingMainImage": Object {
+                          "src": "https://i.kinja-img.com/gawker-media/image/upload/s--RQQBbVuY--/c_fit,fl_progressive,q_80,w_636/w5tdejxht9bd9azy1tdl.jpg",
+                        },
+                        "showByline": true,
+                        "socialHeadline": "Super Mario Odyssey: The Kotaku Review",
+                        "sponsored": false,
+                        "staffIncluded": false,
+                        "status": "PUBLISHED",
+                        "storyType": Object {
+                          "blogId": 9,
+                          "canonical": "review",
+                          "content": "Standard",
+                          "id": 69,
+                          "title": "Review",
+                        },
+                        "tags": Array [
+                          Object {
+                            "canonical": "supermarioodyssey",
+                            "displayName": "Super Mario Odyssey",
+                            "urlName": "super-mario-odyssey",
+                          },
+                          Object {
+                            "canonical": "review",
+                            "displayName": "Review",
+                            "urlName": "review",
+                          },
+                          Object {
+                            "canonical": "nintendoswitch",
+                            "displayName": "Nintendo Switch",
+                            "urlName": "nintendo-switch",
+                          },
+                          Object {
+                            "canonical": "nintendo",
+                            "displayName": "Nintendo",
+                            "urlName": "nintendo",
+                          },
+                          Object {
+                            "canonical": "mario",
+                            "displayName": "Mario",
+                            "urlName": "mario",
+                          },
+                          Object {
+                            "canonical": "kotakucore",
+                            "displayName": "kotakucore",
+                            "urlName": "kotakucore",
+                          },
+                        ],
+                        "timezone": "America/New_York",
+                        "twitterCardType": "summary_large_image",
+                        "videos": Array [
+                          Object {
+                            "embedCode": null,
+                            "height": null,
+                            "id": null,
+                            "src": "kinjavideo://3384608",
+                            "thumbnails": Array [
+                              Object {
+                                "format": "jpg",
+                                "id": "d7decixzdvsos96keany",
+                              },
+                            ],
+                            "type": "kinjavideo",
+                            "width": null,
+                          },
+                        ],
+                      },
+                      Object {
+                        "adSenseDisabled": false,
+                        "adZone": "",
+                        "allowReplies": true,
+                        "author": Object {
+                          "avatar": Object {
+                            "format": "jpg",
+                            "id": "otfjmlt44b0eftwcbbcb",
+                          },
+                          "displayName": "Laura Adamczyk",
+                          "id": "5876237249237148574",
+                          "screenName": "ladamczyk",
+                        },
+                        "authorScreenName": "ladamczyk",
+                        "authors": Array [
+                          Object {
+                            "avatar": Object {
+                              "format": "jpg",
+                              "id": "otfjmlt44b0eftwcbbcb",
+                            },
+                            "displayName": "Laura Adamczyk",
+                            "id": "5876237249237148574",
+                            "screenName": "ladamczyk",
+                          },
+                          Object {
+                            "avatar": Object {
+                              "format": "jpg",
+                              "id": "q6o2wazc8hxqddte7u2u",
+                            },
+                            "displayName": "Danette Chavez",
+                            "id": "5876237249237148570",
+                            "screenName": "danettechavez",
+                          },
+                          Object {
+                            "avatar": Object {
+                              "format": "jpg",
+                              "id": "qsi3wfbwhocrnzrxdz7c",
+                            },
+                            "displayName": "Caitlin PenzeyMoog",
+                            "id": "5876237249237148584",
+                            "screenName": "penzeymoog",
+                          },
+                        ],
+                        "byline": "",
+                        "defaultBlogId": "1636027099",
+                        "discussionSettings": null,
+                        "doNotCrawl": false,
+                        "facebookImage": Object {
+                          "format": "jpg",
+                          "height": 357,
+                          "id": "axcasxoipjqgs7s2xog1",
+                          "src": "https://i.kinja-img.com/gawker-media/image/upload/s--4hUVDq0C--/c_fit,fl_progressive,q_80,w_636/axcasxoipjqgs7s2xog1.jpg",
+                          "width": 636,
+                        },
+                        "featuredMedia": null,
+                        "first100Characters": "Three staffers, three unabashed recommendations.",
+                        "firstSentence": "Three staffers, three unabashed recommendations.",
+                        "gaDimensions": Object {
+                          "gaVideoIds": "",
+                          "wordCount": 629,
+                          "wordCountBucket": "600 - 800",
+                        },
+                        "hasFeaturedVideo": false,
+                        "headline": "From the garden of culinary delights: Candy, cider, and a sneaky dessert",
+                        "id": 1822977960,
+                        "images": Array [
+                          Object {
+                            "$el": Object {
+                              "0": Object {
+                                "_lazysizesWidth": 800,
+                              },
+                              "context": Object {},
+                              "length": 1,
+                              "prevObject": Object {
+                                "0": Object {},
+                                "context": Object {},
+                                "length": 1,
+                              },
+                              "selector": "[data-chomp-id=\\"axcasxoipjqgs7s2xog1\\"]",
+                            },
+                            "format": "jpg",
+                            "height": 357,
+                            "id": "axcasxoipjqgs7s2xog1",
+                            "src": "https://i.kinja-img.com/gawker-media/image/upload/s--4hUVDq0C--/c_fit,fl_progressive,q_80,w_636/axcasxoipjqgs7s2xog1.jpg",
+                            "type": "image",
+                            "width": 636,
+                          },
+                          Object {
+                            "$el": Object {
+                              "0": Object {},
+                              "context": Object {},
+                              "length": 1,
+                              "prevObject": Object {
+                                "0": Object {},
+                                "context": Object {},
+                                "length": 1,
+                              },
+                              "selector": "[data-chomp-id=\\"bvkbznq0vajled6zvduv\\"]",
+                            },
+                            "format": "jpg",
+                            "height": 77,
+                            "id": "bvkbznq0vajled6zvduv",
+                            "src": "https://i.kinja-img.com/gawker-media/image/upload/s--bTYqjUOR--/c_fill,fl_progressive,g_north,h_77,q_80,w_137/bvkbznq0vajled6zvduv.jpg",
+                            "type": "image",
+                            "width": 137,
+                          },
+                        ],
+                        "isFeatured": false,
+                        "isStarter": true,
+                        "isVideo": false,
+                        "mainMedia": Object {
+                          "alignment": "Bleed",
+                          "attribution": Array [],
+                          "caption": Array [
+                            Object {
+                              "styles": Array [],
+                              "type": "Text",
+                              "value": "Photo: Chaloner Woods/Getty Images",
+                            },
+                          ],
+                          "format": "jpg",
+                          "height": 2699,
+                          "id": "axcasxoipjqgs7s2xog1",
+                          "lightbox": true,
+                          "syndicationRights": false,
+                          "type": "Image",
+                          "width": 4798,
+                        },
+                        "permalink": "https://www.avclub.com/from-the-garden-of-culinary-delights-candy-cider-and-1822977960",
+                        "plaintext": "Three staffers, three unabashed recommendations.",
+                        "publishTimeISO": "2018-02-17T19:00:00.960Z",
+                        "publishTimeMillis": 1518894000960,
+                        "qaMembers": Array [],
+                        "qaParticipants": Array [],
+                        "qaStatus": null,
+                        "replyCount": 2,
+                        "securePermalink": "https://www.avclub.com/from-the-garden-of-culinary-delights-candy-cider-and-1822977960",
+                        "socialHeadline": "From the garden of culinary delights: Candy, cider, and a sneaky dessert",
+                        "sponsored": false,
+                        "staffIncluded": false,
+                        "status": "PUBLISHED",
+                        "storyType": Object {
+                          "blogId": 1636027099,
+                          "canonical": "recommends",
+                          "content": "Standard",
+                          "id": 239,
+                          "title": "Recommends",
+                        },
+                        "tags": Array [
+                          Object {
+                            "canonical": "staffpicks",
+                            "displayName": "Staff Picks",
+                            "urlName": "staff-picks",
+                          },
+                          Object {
+                            "canonical": "ginger",
+                            "displayName": "Ginger",
+                            "urlName": "ginger",
+                          },
+                          Object {
+                            "canonical": "rhinegeist",
+                            "displayName": "Rhinegeist",
+                            "urlName": "rhinegeist",
+                          },
+                        ],
+                        "twitterCardType": "summary_large_image",
+                        "videos": Array [],
+                      },
+                      Object {
+                        "adSenseDisabled": false,
+                        "adZone": "",
+                        "allowReplies": true,
+                        "author": Object {
+                          "avatar": Object {
+                            "format": "jpg",
+                            "id": "diallxazgqjni6poizwa",
+                          },
+                          "displayName": "Brian Kahn",
+                          "id": "5876237249237753946",
+                          "screenName": "briankahn",
+                        },
+                        "authorScreenName": "briankahn",
+                        "byline": "",
+                        "defaultBlogId": "1636390014",
+                        "discussionSettings": null,
+                        "doNotCrawl": false,
+                        "facebookImage": Object {
+                          "format": "gif",
+                          "height": 354,
+                          "id": "f0dlk1tldtnxyezysljl",
+                          "src": "https://i.kinja-img.com/gawker-media/image/upload/s--ijvJD6Cb--/c_fit,fl_progressive,q_80,w_636/f0dlk1tldtnxyezysljl.gif",
+                          "width": 636,
+                        },
+                        "first100Characters": "Scientists aboard the ocean-exploring ship the E/V Nautilus have been prowling the ocean for wonders",
+                        "firstSentence": "Scientists aboard the ocean-exploring ship the E/V Nautilus have been prowling the ocean for wonders",
+                        "gaDimensions": Object {
+                          "gaVideoIds": "youtube-video-s8LuZD4Klbg,youtube-video-UgR6yAffsZg",
+                          "wordCount": 449,
+                          "wordCountBucket": "400 - 600",
+                        },
+                        "hasFeaturedVideo": false,
+                        "headline": "Even Scientists Were Blown Away by These Weird Sea Creatures They Found",
+                        "id": 1820641267,
+                        "images": Array [
+                          Object {
+                            "format": "gif",
+                            "height": 354,
+                            "id": "f0dlk1tldtnxyezysljl",
+                            "src": "https://i.kinja-img.com/gawker-media/image/upload/s--ijvJD6Cb--/c_fit,fl_progressive,q_80,w_636/f0dlk1tldtnxyezysljl.gif",
+                            "width": 636,
+                          },
+                          Object {
+                            "format": "gif",
+                            "height": 354,
+                            "id": "b8oklgcpdux0vxegpsyd",
+                            "src": "https://i.kinja-img.com/gawker-media/image/upload/s--iVUVKDGg--/c_fit,fl_progressive,q_80,w_636/b8oklgcpdux0vxegpsyd.gif",
+                            "width": 636,
+                          },
+                          Object {
+                            "format": "gif",
+                            "height": 337,
+                            "id": "r1m2nxrtzyo7z8kz4xrx",
+                            "src": "https://i.kinja-img.com/gawker-media/image/upload/s--q7YwAeAd--/c_fit,fl_progressive,q_80,w_636/r1m2nxrtzyo7z8kz4xrx.gif",
+                            "width": 636,
+                          },
+                          Object {
+                            "format": "gif",
+                            "height": 337,
+                            "id": "czjappqwxkuuzgfwk66t",
+                            "src": "https://i.kinja-img.com/gawker-media/image/upload/s--wGHtk7ju--/c_fit,fl_progressive,q_80,w_636/czjappqwxkuuzgfwk66t.gif",
+                            "width": 636,
+                          },
+                        ],
+                        "isFeatured": false,
+                        "isStarter": true,
+                        "isVideo": false,
+                        "mainMedia": Object {
+                          "alignment": "Center",
+                          "caption": Array [
+                            Object {
+                              "styles": Array [],
+                              "type": "Text",
+                              "value": "Image: E/V Nautilus",
+                            },
+                          ],
+                          "format": "gif",
+                          "height": 428,
+                          "id": "f0dlk1tldtnxyezysljl",
+                          "type": "Image",
+                          "width": 768,
+                        },
+                        "permalink": "https://earther.com/even-scientists-were-blown-away-by-these-weird-sea-crea-1820641267",
+                        "plaintext": "Scientists aboard the ocean-exploring ship the E/V Nautilus have been prowling the ocean for wonders since 2008, literally just exploring the seas. 
+",
+                        "publishTimeMillis": 1511294400267,
+                        "qaMembers": Array [],
+                        "qaParticipants": Array [],
+                        "qaStatus": null,
+                        "replyCount": 22,
+                        "securePermalink": "https://earther.com/even-scientists-were-blown-away-by-these-weird-sea-crea-1820641267",
+                        "socialHeadline": "Even Scientists Were Blown Away by These Weird Sea Creatures They Found",
+                        "sponsored": false,
+                        "staffIncluded": false,
+                        "status": "PUBLISHED",
+                        "storyType": Object {
+                          "blogId": 1636390014,
+                          "canonical": "science",
+                          "content": "Standard",
+                          "id": 439,
+                          "title": "Science",
+                        },
+                        "tags": Array [
+                          Object {
+                            "canonical": "deepseacreatures",
+                            "displayName": "deep sea creatures",
+                            "urlName": "deep-sea-creatures",
+                          },
+                          Object {
+                            "canonical": "ocean",
+                            "displayName": "Ocean",
+                            "urlName": "ocean",
+                          },
+                          Object {
+                            "canonical": "conservation",
+                            "displayName": "Conservation",
+                            "urlName": "conservation",
+                          },
+                          Object {
+                            "canonical": "exploration",
+                            "displayName": "exploration",
+                            "urlName": "exploration",
+                          },
+                        ],
+                        "twitterCardType": "summary_large_image",
+                        "videos": Array [
+                          Object {
+                            "embedCode": null,
+                            "height": null,
+                            "id": null,
+                            "src": "youtube://s8LuZD4Klbg",
+                            "thumbnails": Array [
+                              Object {
+                                "format": "jpg",
+                                "id": "alimxbbmbwjxh1aozyuv",
+                              },
+                            ],
+                            "type": "youtube",
+                            "width": null,
+                          },
+                          Object {
+                            "embedCode": null,
+                            "height": null,
+                            "id": null,
+                            "src": "youtube://UgR6yAffsZg",
+                            "thumbnails": Array [
+                              Object {
+                                "format": "jpg",
+                                "id": "fhpai7hlliovre64n3hp",
+                              },
+                            ],
+                            "type": "youtube",
+                            "width": null,
+                          },
+                        ],
+                      },
+                      null,
+                      null,
+                      null,
+                    ],
+                    "layout": Object {
+                      "zones": Array [
+                        Object {
+                          "dimension": "1fr",
+                          "numberOfItems": 1,
+                        },
+                      ],
+                    },
+                  },
+                }
+              }
+              resetToggleState={[Function]}
+              setActiveCard={[Function]}
+            >
+              <Layout
+                clearCuration={false}
+                defaultLayouts={
+                  Array [
+                    Object {
+                      "cardinality": 1,
+                      "group": "Headline",
+                      "zones": Array [
+                        Object {
+                          "dimension": "1fr",
+                          "numberOfItems": 1,
+                        },
+                      ],
+                    },
+                    Object {
+                      "cardinality": 3,
+                      "group": "Modular",
+                      "zones": Array [
+                        Object {
+                          "dimension": "2fr",
+                          "numberOfItems": 1,
+                        },
+                        Object {
+                          "dimension": "1fr",
+                          "numberOfItems": 2,
+                        },
+                      ],
+                    },
+                    Object {
+                      "cardinality": 4,
+                      "group": "Modular",
+                      "zones": Array [
+                        Object {
+                          "dimension": "2fr",
+                          "numberOfItems": 1,
+                        },
+                        Object {
+                          "dimension": "1fr",
+                          "numberOfItems": 2,
+                        },
+                        Object {
+                          "dimension": "1fr",
+                          "numberOfItems": 1,
+                        },
+                      ],
+                    },
+                    Object {
+                      "cardinality": 3,
+                      "group": "Equal",
+                      "zones": Array [
+                        Object {
+                          "dimension": "1fr",
+                          "numberOfItems": 1,
+                        },
+                        Object {
+                          "dimension": "1fr",
+                          "numberOfItems": 1,
+                        },
+                        Object {
+                          "dimension": "1fr",
+                          "numberOfItems": 1,
+                        },
+                      ],
+                    },
+                    Object {
+                      "cardinality": 4,
+                      "group": "Equal",
+                      "zones": Array [
+                        Object {
+                          "dimension": "1fr",
+                          "numberOfItems": 1,
+                        },
+                        Object {
+                          "dimension": "1fr",
+                          "numberOfItems": 1,
+                        },
+                        Object {
+                          "dimension": "1fr",
+                          "numberOfItems": 1,
+                        },
+                        Object {
+                          "dimension": "1fr",
+                          "numberOfItems": 1,
+                        },
+                      ],
+                    },
+                    Object {
+                      "cardinality": 6,
+                      "group": "Equal",
+                      "zones": Array [
+                        Object {
+                          "dimension": "1fr",
+                          "numberOfItems": 2,
+                        },
+                        Object {
+                          "dimension": "1fr",
+                          "numberOfItems": 2,
+                        },
+                        Object {
+                          "dimension": "1fr",
+                          "numberOfItems": 2,
+                        },
+                      ],
+                    },
+                  ]
+                }
+                externalAPI={
+                  Object {
+                    "imageUploader": [Function],
+                    "resolveItem": [Function],
+                  }
+                }
+                gridConfig={
+                  Object {
+                    "items": Array [
+                      Object {
+                        "adSenseDisabled": false,
+                        "adZone": "",
+                        "allowReplies": true,
+                        "author": Object {
+                          "avatar": Object {
+                            "format": "jpg",
+                            "id": "ql1l79ncdygfqwckzobr",
+                          },
+                          "displayName": "Chris Kohler",
+                          "id": "5876237249237015770",
+                          "screenName": "chriskohler",
+                        },
+                        "authorScreenName": "chriskohler",
+                        "authors": Array [
+                          Object {
+                            "avatar": Object {
+                              "format": "jpg",
+                              "id": "ql1l79ncdygfqwckzobr",
+                            },
+                            "displayName": "Chris Kohler",
+                            "id": "5876237249237015770",
+                            "screenName": "chriskohler",
+                          },
+                          Object {
+                            "avatar": Object {
+                              "format": "jpg",
+                              "id": "udtnp2grvcczvcr1ajsc",
+                            },
+                            "displayName": "Gordon Jackson",
+                            "id": "5799958939291581341",
+                            "screenName": "gordonmjackson",
+                          },
+                          Object {
+                            "avatar": Object {
+                              "format": "jpg",
+                              "id": "pi7epaqjwbe9gotsjvs2",
+                            },
+                            "displayName": "Victoria Song",
+                            "id": "5876237249238337793",
+                            "screenName": "vsong",
+                          },
+                        ],
+                        "byline": "",
+                        "defaultBlogId": "9",
+                        "discussionSettings": null,
+                        "doNotCrawl": false,
+                        "facebookImage": Object {
+                          "format": "jpg",
+                          "height": 357,
+                          "id": "cjnv04lsotvdabk32tyt",
+                          "src": "https://i.kinja-img.com/gawker-media/image/upload/s--0QXBj7yU--/c_fit,fl_progressive,q_80,w_636/cjnv04lsotvdabk32tyt.jpg",
+                          "width": 636,
+                        },
+                        "first100Characters": "For Mario, 3D used to mean freedom. In 1996, Super Mario 64 broke Nintendo’s mascot from the shackle",
+                        "firstSentence": "For Mario, 3D used to mean freedom. ",
+                        "gaDimensions": Object {
+                          "gaVideoIds": "kinjavideo-3384608",
+                          "wordCount": 1757,
+                          "wordCountBucket": "1600 - 1800",
+                        },
+                        "hasFeaturedVideo": false,
+                        "headline": "<i>Super Mario Odyssey</i>: The Kotaku Review",
+                        "id": 1819856086,
+                        "images": Array [
+                          Object {
+                            "format": "jpg",
+                            "height": 357,
+                            "id": "w5tdejxht9bd9azy1tdl",
+                            "src": "https://i.kinja-img.com/gawker-media/image/upload/s--RQQBbVuY--/c_fit,fl_progressive,q_80,w_636/w5tdejxht9bd9azy1tdl.jpg",
+                            "width": 636,
+                          },
+                          Object {
+                            "format": "jpg",
+                            "height": 357,
+                            "id": "gu6pddl55kstu2wvysjr",
+                            "src": "https://i.kinja-img.com/gawker-media/image/upload/s--l9JaggL4--/c_fit,fl_progressive,q_80,w_636/gu6pddl55kstu2wvysjr.jpg",
+                            "width": 636,
+                          },
+                          Object {
+                            "format": "jpg",
+                            "height": 357,
+                            "id": "rl8v2eeugbmgxyrqttlm",
+                            "src": "https://i.kinja-img.com/gawker-media/image/upload/s--m0HXlpAU--/c_fit,fl_progressive,q_80,w_636/rl8v2eeugbmgxyrqttlm.jpg",
+                            "width": 636,
+                          },
+                          Object {
+                            "format": "jpg",
+                            "height": 357,
+                            "id": "bdxxiezrhvq6ogx1an0j",
+                            "src": "https://i.kinja-img.com/gawker-media/image/upload/s--XS4zIJDG--/c_fit,fl_progressive,q_80,w_636/bdxxiezrhvq6ogx1an0j.jpg",
+                            "width": 636,
+                          },
+                          Object {
+                            "format": "jpg",
+                            "height": 357,
+                            "id": "xs8w3sqz25mkk69g3qgg",
+                            "src": "https://i.kinja-img.com/gawker-media/image/upload/s--j1goHN8N--/c_fit,fl_progressive,q_80,w_636/xs8w3sqz25mkk69g3qgg.jpg",
+                            "width": 636,
+                          },
+                        ],
+                        "isFeatured": true,
+                        "isStarter": true,
+                        "isVideo": false,
+                        "mainMedia": null,
+                        "permalink": "https://kotaku.com/super-mario-odyssey-the-kotaku-review-1819856086",
+                        "plaintext": "For Mario, 3D used to mean freedom. In 1996, Super Mario 64 broke Nintendo’s mascot from the shackles of having to run in a straight line, letting the player choose their own path. But for quite some time now—no matter how 3D the graphics may have been—Mario’s adventures have reverted back to running on a straight line. With Super Mario Odyssey, that changes once more, and it’s a glorious thing.",
+                        "publishTimeMillis": 1509022800086,
+                        "qaMembers": Array [],
+                        "qaParticipants": Array [],
+                        "qaStatus": null,
+                        "replyCount": 405,
+                        "securePermalink": "https://kotaku.com/super-mario-odyssey-the-kotaku-review-1819856086",
+                        "sharingMainImage": Object {
+                          "src": "https://i.kinja-img.com/gawker-media/image/upload/s--RQQBbVuY--/c_fit,fl_progressive,q_80,w_636/w5tdejxht9bd9azy1tdl.jpg",
+                        },
+                        "showByline": true,
+                        "socialHeadline": "Super Mario Odyssey: The Kotaku Review",
+                        "sponsored": false,
+                        "staffIncluded": false,
+                        "status": "PUBLISHED",
+                        "storyType": Object {
+                          "blogId": 9,
+                          "canonical": "review",
+                          "content": "Standard",
+                          "id": 69,
+                          "title": "Review",
+                        },
+                        "tags": Array [
+                          Object {
+                            "canonical": "supermarioodyssey",
+                            "displayName": "Super Mario Odyssey",
+                            "urlName": "super-mario-odyssey",
+                          },
+                          Object {
+                            "canonical": "review",
+                            "displayName": "Review",
+                            "urlName": "review",
+                          },
+                          Object {
+                            "canonical": "nintendoswitch",
+                            "displayName": "Nintendo Switch",
+                            "urlName": "nintendo-switch",
+                          },
+                          Object {
+                            "canonical": "nintendo",
+                            "displayName": "Nintendo",
+                            "urlName": "nintendo",
+                          },
+                          Object {
+                            "canonical": "mario",
+                            "displayName": "Mario",
+                            "urlName": "mario",
+                          },
+                          Object {
+                            "canonical": "kotakucore",
+                            "displayName": "kotakucore",
+                            "urlName": "kotakucore",
+                          },
+                        ],
+                        "timezone": "America/New_York",
+                        "twitterCardType": "summary_large_image",
+                        "videos": Array [
+                          Object {
+                            "embedCode": null,
+                            "height": null,
+                            "id": null,
+                            "src": "kinjavideo://3384608",
+                            "thumbnails": Array [
+                              Object {
+                                "format": "jpg",
+                                "id": "d7decixzdvsos96keany",
+                              },
+                            ],
+                            "type": "kinjavideo",
+                            "width": null,
+                          },
+                        ],
+                      },
+                      Object {
+                        "adSenseDisabled": false,
+                        "adZone": "",
+                        "allowReplies": true,
+                        "author": Object {
+                          "avatar": Object {
+                            "format": "jpg",
+                            "id": "otfjmlt44b0eftwcbbcb",
+                          },
+                          "displayName": "Laura Adamczyk",
+                          "id": "5876237249237148574",
+                          "screenName": "ladamczyk",
+                        },
+                        "authorScreenName": "ladamczyk",
+                        "authors": Array [
+                          Object {
+                            "avatar": Object {
+                              "format": "jpg",
+                              "id": "otfjmlt44b0eftwcbbcb",
+                            },
+                            "displayName": "Laura Adamczyk",
+                            "id": "5876237249237148574",
+                            "screenName": "ladamczyk",
+                          },
+                          Object {
+                            "avatar": Object {
+                              "format": "jpg",
+                              "id": "q6o2wazc8hxqddte7u2u",
+                            },
+                            "displayName": "Danette Chavez",
+                            "id": "5876237249237148570",
+                            "screenName": "danettechavez",
+                          },
+                          Object {
+                            "avatar": Object {
+                              "format": "jpg",
+                              "id": "qsi3wfbwhocrnzrxdz7c",
+                            },
+                            "displayName": "Caitlin PenzeyMoog",
+                            "id": "5876237249237148584",
+                            "screenName": "penzeymoog",
+                          },
+                        ],
+                        "byline": "",
+                        "defaultBlogId": "1636027099",
+                        "discussionSettings": null,
+                        "doNotCrawl": false,
+                        "facebookImage": Object {
+                          "format": "jpg",
+                          "height": 357,
+                          "id": "axcasxoipjqgs7s2xog1",
+                          "src": "https://i.kinja-img.com/gawker-media/image/upload/s--4hUVDq0C--/c_fit,fl_progressive,q_80,w_636/axcasxoipjqgs7s2xog1.jpg",
+                          "width": 636,
+                        },
+                        "featuredMedia": null,
+                        "first100Characters": "Three staffers, three unabashed recommendations.",
+                        "firstSentence": "Three staffers, three unabashed recommendations.",
+                        "gaDimensions": Object {
+                          "gaVideoIds": "",
+                          "wordCount": 629,
+                          "wordCountBucket": "600 - 800",
+                        },
+                        "hasFeaturedVideo": false,
+                        "headline": "From the garden of culinary delights: Candy, cider, and a sneaky dessert",
+                        "id": 1822977960,
+                        "images": Array [
+                          Object {
+                            "$el": Object {
+                              "0": Object {
+                                "_lazysizesWidth": 800,
+                              },
+                              "context": Object {},
+                              "length": 1,
+                              "prevObject": Object {
+                                "0": Object {},
+                                "context": Object {},
+                                "length": 1,
+                              },
+                              "selector": "[data-chomp-id=\\"axcasxoipjqgs7s2xog1\\"]",
+                            },
+                            "format": "jpg",
+                            "height": 357,
+                            "id": "axcasxoipjqgs7s2xog1",
+                            "src": "https://i.kinja-img.com/gawker-media/image/upload/s--4hUVDq0C--/c_fit,fl_progressive,q_80,w_636/axcasxoipjqgs7s2xog1.jpg",
+                            "type": "image",
+                            "width": 636,
+                          },
+                          Object {
+                            "$el": Object {
+                              "0": Object {},
+                              "context": Object {},
+                              "length": 1,
+                              "prevObject": Object {
+                                "0": Object {},
+                                "context": Object {},
+                                "length": 1,
+                              },
+                              "selector": "[data-chomp-id=\\"bvkbznq0vajled6zvduv\\"]",
+                            },
+                            "format": "jpg",
+                            "height": 77,
+                            "id": "bvkbznq0vajled6zvduv",
+                            "src": "https://i.kinja-img.com/gawker-media/image/upload/s--bTYqjUOR--/c_fill,fl_progressive,g_north,h_77,q_80,w_137/bvkbznq0vajled6zvduv.jpg",
+                            "type": "image",
+                            "width": 137,
+                          },
+                        ],
+                        "isFeatured": false,
+                        "isStarter": true,
+                        "isVideo": false,
+                        "mainMedia": Object {
+                          "alignment": "Bleed",
+                          "attribution": Array [],
+                          "caption": Array [
+                            Object {
+                              "styles": Array [],
+                              "type": "Text",
+                              "value": "Photo: Chaloner Woods/Getty Images",
+                            },
+                          ],
+                          "format": "jpg",
+                          "height": 2699,
+                          "id": "axcasxoipjqgs7s2xog1",
+                          "lightbox": true,
+                          "syndicationRights": false,
+                          "type": "Image",
+                          "width": 4798,
+                        },
+                        "permalink": "https://www.avclub.com/from-the-garden-of-culinary-delights-candy-cider-and-1822977960",
+                        "plaintext": "Three staffers, three unabashed recommendations.",
+                        "publishTimeISO": "2018-02-17T19:00:00.960Z",
+                        "publishTimeMillis": 1518894000960,
+                        "qaMembers": Array [],
+                        "qaParticipants": Array [],
+                        "qaStatus": null,
+                        "replyCount": 2,
+                        "securePermalink": "https://www.avclub.com/from-the-garden-of-culinary-delights-candy-cider-and-1822977960",
+                        "socialHeadline": "From the garden of culinary delights: Candy, cider, and a sneaky dessert",
+                        "sponsored": false,
+                        "staffIncluded": false,
+                        "status": "PUBLISHED",
+                        "storyType": Object {
+                          "blogId": 1636027099,
+                          "canonical": "recommends",
+                          "content": "Standard",
+                          "id": 239,
+                          "title": "Recommends",
+                        },
+                        "tags": Array [
+                          Object {
+                            "canonical": "staffpicks",
+                            "displayName": "Staff Picks",
+                            "urlName": "staff-picks",
+                          },
+                          Object {
+                            "canonical": "ginger",
+                            "displayName": "Ginger",
+                            "urlName": "ginger",
+                          },
+                          Object {
+                            "canonical": "rhinegeist",
+                            "displayName": "Rhinegeist",
+                            "urlName": "rhinegeist",
+                          },
+                        ],
+                        "twitterCardType": "summary_large_image",
+                        "videos": Array [],
+                      },
+                      Object {
+                        "adSenseDisabled": false,
+                        "adZone": "",
+                        "allowReplies": true,
+                        "author": Object {
+                          "avatar": Object {
+                            "format": "jpg",
+                            "id": "diallxazgqjni6poizwa",
+                          },
+                          "displayName": "Brian Kahn",
+                          "id": "5876237249237753946",
+                          "screenName": "briankahn",
+                        },
+                        "authorScreenName": "briankahn",
+                        "byline": "",
+                        "defaultBlogId": "1636390014",
+                        "discussionSettings": null,
+                        "doNotCrawl": false,
+                        "facebookImage": Object {
+                          "format": "gif",
+                          "height": 354,
+                          "id": "f0dlk1tldtnxyezysljl",
+                          "src": "https://i.kinja-img.com/gawker-media/image/upload/s--ijvJD6Cb--/c_fit,fl_progressive,q_80,w_636/f0dlk1tldtnxyezysljl.gif",
+                          "width": 636,
+                        },
+                        "first100Characters": "Scientists aboard the ocean-exploring ship the E/V Nautilus have been prowling the ocean for wonders",
+                        "firstSentence": "Scientists aboard the ocean-exploring ship the E/V Nautilus have been prowling the ocean for wonders",
+                        "gaDimensions": Object {
+                          "gaVideoIds": "youtube-video-s8LuZD4Klbg,youtube-video-UgR6yAffsZg",
+                          "wordCount": 449,
+                          "wordCountBucket": "400 - 600",
+                        },
+                        "hasFeaturedVideo": false,
+                        "headline": "Even Scientists Were Blown Away by These Weird Sea Creatures They Found",
+                        "id": 1820641267,
+                        "images": Array [
+                          Object {
+                            "format": "gif",
+                            "height": 354,
+                            "id": "f0dlk1tldtnxyezysljl",
+                            "src": "https://i.kinja-img.com/gawker-media/image/upload/s--ijvJD6Cb--/c_fit,fl_progressive,q_80,w_636/f0dlk1tldtnxyezysljl.gif",
+                            "width": 636,
+                          },
+                          Object {
+                            "format": "gif",
+                            "height": 354,
+                            "id": "b8oklgcpdux0vxegpsyd",
+                            "src": "https://i.kinja-img.com/gawker-media/image/upload/s--iVUVKDGg--/c_fit,fl_progressive,q_80,w_636/b8oklgcpdux0vxegpsyd.gif",
+                            "width": 636,
+                          },
+                          Object {
+                            "format": "gif",
+                            "height": 337,
+                            "id": "r1m2nxrtzyo7z8kz4xrx",
+                            "src": "https://i.kinja-img.com/gawker-media/image/upload/s--q7YwAeAd--/c_fit,fl_progressive,q_80,w_636/r1m2nxrtzyo7z8kz4xrx.gif",
+                            "width": 636,
+                          },
+                          Object {
+                            "format": "gif",
+                            "height": 337,
+                            "id": "czjappqwxkuuzgfwk66t",
+                            "src": "https://i.kinja-img.com/gawker-media/image/upload/s--wGHtk7ju--/c_fit,fl_progressive,q_80,w_636/czjappqwxkuuzgfwk66t.gif",
+                            "width": 636,
+                          },
+                        ],
+                        "isFeatured": false,
+                        "isStarter": true,
+                        "isVideo": false,
+                        "mainMedia": Object {
+                          "alignment": "Center",
+                          "caption": Array [
+                            Object {
+                              "styles": Array [],
+                              "type": "Text",
+                              "value": "Image: E/V Nautilus",
+                            },
+                          ],
+                          "format": "gif",
+                          "height": 428,
+                          "id": "f0dlk1tldtnxyezysljl",
+                          "type": "Image",
+                          "width": 768,
+                        },
+                        "permalink": "https://earther.com/even-scientists-were-blown-away-by-these-weird-sea-crea-1820641267",
+                        "plaintext": "Scientists aboard the ocean-exploring ship the E/V Nautilus have been prowling the ocean for wonders since 2008, literally just exploring the seas. 
+",
+                        "publishTimeMillis": 1511294400267,
+                        "qaMembers": Array [],
+                        "qaParticipants": Array [],
+                        "qaStatus": null,
+                        "replyCount": 22,
+                        "securePermalink": "https://earther.com/even-scientists-were-blown-away-by-these-weird-sea-crea-1820641267",
+                        "socialHeadline": "Even Scientists Were Blown Away by These Weird Sea Creatures They Found",
+                        "sponsored": false,
+                        "staffIncluded": false,
+                        "status": "PUBLISHED",
+                        "storyType": Object {
+                          "blogId": 1636390014,
+                          "canonical": "science",
+                          "content": "Standard",
+                          "id": 439,
+                          "title": "Science",
+                        },
+                        "tags": Array [
+                          Object {
+                            "canonical": "deepseacreatures",
+                            "displayName": "deep sea creatures",
+                            "urlName": "deep-sea-creatures",
+                          },
+                          Object {
+                            "canonical": "ocean",
+                            "displayName": "Ocean",
+                            "urlName": "ocean",
+                          },
+                          Object {
+                            "canonical": "conservation",
+                            "displayName": "Conservation",
+                            "urlName": "conservation",
+                          },
+                          Object {
+                            "canonical": "exploration",
+                            "displayName": "exploration",
+                            "urlName": "exploration",
+                          },
+                        ],
+                        "twitterCardType": "summary_large_image",
+                        "videos": Array [
+                          Object {
+                            "embedCode": null,
+                            "height": null,
+                            "id": null,
+                            "src": "youtube://s8LuZD4Klbg",
+                            "thumbnails": Array [
+                              Object {
+                                "format": "jpg",
+                                "id": "alimxbbmbwjxh1aozyuv",
+                              },
+                            ],
+                            "type": "youtube",
+                            "width": null,
+                          },
+                          Object {
+                            "embedCode": null,
+                            "height": null,
+                            "id": null,
+                            "src": "youtube://UgR6yAffsZg",
+                            "thumbnails": Array [
+                              Object {
+                                "format": "jpg",
+                                "id": "fhpai7hlliovre64n3hp",
+                              },
+                            ],
+                            "type": "youtube",
+                            "width": null,
+                          },
+                        ],
+                      },
+                      null,
+                      null,
+                      null,
+                    ],
+                    "layout": Object {
+                      "zones": Array [
+                        Object {
+                          "dimension": "1fr",
+                          "numberOfItems": 1,
+                        },
+                      ],
+                    },
+                  }
+                }
+                isCloseButton={false}
+                isEditMode={false}
+                isOpenButton={false}
+                isSaving={false}
+                resetToggleState={[Function]}
+                setActiveCard={[Function]}
+              >
+                <div
+                  className="layout"
+                >
+                  <div
+                    className="layout__module"
+                    key="module"
+                  />
+                </div>
+              </Layout>
+            </CurationModule>
+          </ClickOutside(CurationModule)>
+        </div>
+      </div>
+    </StyledComponent>
+  </curation__CurationWrapper>
+</Curation>
+`;
+
+exports[`<Curation /> renders the empty curation module 1`] = `
+.c0 {
+  position: relative;
+}
+
+.c0 .c2 {
+  display: -webkit-inline-box !important;
+  display: -webkit-inline-flex !important;
+  display: -ms-inline-flexbox !important;
+  display: inline-flex !important;
+}
+
+.c0 .c2:hover .c1 {
+  display: -webkit-box !important;
+  display: -webkit-flex !important;
+  display: -ms-flexbox !important;
+  display: flex !important;
+}
+
+.c0 .c1 {
+  display: none !important;
+}
+
+@media all and (-ms-high-contrast:none),(-ms-high-contrast:active) {
+  .c0 {
+    display: none;
+  }
+}
+
+<Curation
+  curationCustomOptions={
+    Object {
+      "hideAuthorInfo": false,
+      "isOnion": false,
+      "kinjaEqualsNewDesign": false,
+    }
+  }
+  curationToolbarProps={
+    Object {
+      "saveHandler": [Function],
+    }
+  }
+  hasFetched={false}
+  layoutProps={
+    Object {
+      "defaultLayouts": Array [
+        Object {
+          "cardinality": 1,
+          "group": "Headline",
+          "zones": Array [
+            Object {
+              "dimension": "1fr",
+              "numberOfItems": 1,
+            },
+          ],
+        },
+        Object {
+          "cardinality": 3,
+          "group": "Modular",
+          "zones": Array [
+            Object {
+              "dimension": "2fr",
+              "numberOfItems": 1,
+            },
+            Object {
+              "dimension": "1fr",
+              "numberOfItems": 2,
+            },
+          ],
+        },
+        Object {
+          "cardinality": 4,
+          "group": "Modular",
+          "zones": Array [
+            Object {
+              "dimension": "2fr",
+              "numberOfItems": 1,
+            },
+            Object {
+              "dimension": "1fr",
+              "numberOfItems": 2,
+            },
+            Object {
+              "dimension": "1fr",
+              "numberOfItems": 1,
+            },
+          ],
+        },
+        Object {
+          "cardinality": 3,
+          "group": "Equal",
+          "zones": Array [
+            Object {
+              "dimension": "1fr",
+              "numberOfItems": 1,
+            },
+            Object {
+              "dimension": "1fr",
+              "numberOfItems": 1,
+            },
+            Object {
+              "dimension": "1fr",
+              "numberOfItems": 1,
+            },
+          ],
+        },
+        Object {
+          "cardinality": 4,
+          "group": "Equal",
+          "zones": Array [
+            Object {
+              "dimension": "1fr",
+              "numberOfItems": 1,
+            },
+            Object {
+              "dimension": "1fr",
+              "numberOfItems": 1,
+            },
+            Object {
+              "dimension": "1fr",
+              "numberOfItems": 1,
+            },
+            Object {
+              "dimension": "1fr",
+              "numberOfItems": 1,
+            },
+          ],
+        },
+        Object {
+          "cardinality": 6,
+          "group": "Equal",
+          "zones": Array [
+            Object {
+              "dimension": "1fr",
+              "numberOfItems": 2,
+            },
+            Object {
+              "dimension": "1fr",
+              "numberOfItems": 2,
+            },
+            Object {
+              "dimension": "1fr",
+              "numberOfItems": 2,
+            },
+          ],
+        },
+      ],
+      "externalAPI": Object {
+        "imageUploader": [Function],
+        "resolveItem": [Function],
+      },
+      "gridConfig": Object {},
+    }
+  }
+>
+  <curation__CurationWrapper
+    className="curation-mountain js_curation-editor-container"
+  >
+    <StyledComponent
+      className="curation-mountain js_curation-editor-container"
+      forwardedComponent={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": Array [],
+          "componentStyle": ComponentStyle {
+            "componentId": "curation__CurationWrapper-sc-1fcw7cu-1",
+            "isStatic": false,
+            "lastClassName": "c0",
+            "rules": Array [
+              [Function],
+              " @media all and (-ms-high-contrast:none),(-ms-high-contrast:active){display:none;}position:relative;",
+              ".c2",
+              "{display:inline-flex !important;&:hover{",
+              ".c1",
+              "{display:flex !important;}}}",
+              ".c1",
+              "{display:none !important;}",
+            ],
+          },
+          "displayName": "curation__CurationWrapper",
+          "foldedComponentIds": Array [],
+          "render": [Function],
+          "styledComponentId": "curation__CurationWrapper-sc-1fcw7cu-1",
+          "target": "div",
+          "toString": [Function],
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        }
+      }
+      forwardedRef={null}
+    >
+      <div
+        className="curation-mountain js_curation-editor-container c0"
+      >
+        <div
+          className="curation-mountain__toolbar"
+        >
+          <ClickOutside(CurationModule)
+            activeCard={null}
+            activeItem={null}
+            activeTertiary={null}
+            cardOnBlur={[Function]}
+            cardOnClick={[Function]}
+            clearCuration={false}
+            curationCustomOptions={
+              Object {
+                "hideAuthorInfo": false,
+                "isOnion": false,
+                "kinjaEqualsNewDesign": false,
+              }
+            }
+            handleClickOutside={[Function]}
+            isCloseButton={false}
+            isEditMode={false}
+            isEditing={[Function]}
+            isOpenButton={false}
+            isSaving={false}
+            layoutProps={
+              Object {
+                "defaultLayouts": Array [
+                  Object {
+                    "cardinality": 1,
+                    "group": "Headline",
+                    "zones": Array [
+                      Object {
+                        "dimension": "1fr",
+                        "numberOfItems": 1,
+                      },
+                    ],
+                  },
+                  Object {
+                    "cardinality": 3,
+                    "group": "Modular",
+                    "zones": Array [
+                      Object {
+                        "dimension": "2fr",
+                        "numberOfItems": 1,
+                      },
+                      Object {
+                        "dimension": "1fr",
+                        "numberOfItems": 2,
+                      },
+                    ],
+                  },
+                  Object {
+                    "cardinality": 4,
+                    "group": "Modular",
+                    "zones": Array [
+                      Object {
+                        "dimension": "2fr",
+                        "numberOfItems": 1,
+                      },
+                      Object {
+                        "dimension": "1fr",
+                        "numberOfItems": 2,
+                      },
+                      Object {
+                        "dimension": "1fr",
+                        "numberOfItems": 1,
+                      },
+                    ],
+                  },
+                  Object {
+                    "cardinality": 3,
+                    "group": "Equal",
+                    "zones": Array [
+                      Object {
+                        "dimension": "1fr",
+                        "numberOfItems": 1,
+                      },
+                      Object {
+                        "dimension": "1fr",
+                        "numberOfItems": 1,
+                      },
+                      Object {
+                        "dimension": "1fr",
+                        "numberOfItems": 1,
+                      },
+                    ],
+                  },
+                  Object {
+                    "cardinality": 4,
+                    "group": "Equal",
+                    "zones": Array [
+                      Object {
+                        "dimension": "1fr",
+                        "numberOfItems": 1,
+                      },
+                      Object {
+                        "dimension": "1fr",
+                        "numberOfItems": 1,
+                      },
+                      Object {
+                        "dimension": "1fr",
+                        "numberOfItems": 1,
+                      },
+                      Object {
+                        "dimension": "1fr",
+                        "numberOfItems": 1,
+                      },
+                    ],
+                  },
+                  Object {
+                    "cardinality": 6,
+                    "group": "Equal",
+                    "zones": Array [
+                      Object {
+                        "dimension": "1fr",
+                        "numberOfItems": 2,
+                      },
+                      Object {
+                        "dimension": "1fr",
+                        "numberOfItems": 2,
+                      },
+                      Object {
+                        "dimension": "1fr",
+                        "numberOfItems": 2,
+                      },
+                    ],
+                  },
+                ],
+                "externalAPI": Object {
+                  "imageUploader": [Function],
+                  "resolveItem": [Function],
+                },
+                "gridConfig": Object {},
+              }
+            }
+            resetToggleState={[Function]}
+            setActiveCard={[Function]}
+          >
+            <CurationModule
+              activeCard={null}
+              activeItem={null}
+              activeTertiary={null}
+              cardOnBlur={[Function]}
+              cardOnClick={[Function]}
+              clearCuration={false}
+              curationCustomOptions={
+                Object {
+                  "hideAuthorInfo": false,
+                  "isOnion": false,
+                  "kinjaEqualsNewDesign": false,
+                }
+              }
+              insideReference={[Function]}
+              isCloseButton={false}
+              isEditMode={false}
+              isEditing={[Function]}
+              isOpenButton={false}
+              isSaving={false}
+              layoutProps={
+                Object {
+                  "defaultLayouts": Array [
+                    Object {
+                      "cardinality": 1,
+                      "group": "Headline",
+                      "zones": Array [
+                        Object {
+                          "dimension": "1fr",
+                          "numberOfItems": 1,
+                        },
+                      ],
+                    },
+                    Object {
+                      "cardinality": 3,
+                      "group": "Modular",
+                      "zones": Array [
+                        Object {
+                          "dimension": "2fr",
+                          "numberOfItems": 1,
+                        },
+                        Object {
+                          "dimension": "1fr",
+                          "numberOfItems": 2,
+                        },
+                      ],
+                    },
+                    Object {
+                      "cardinality": 4,
+                      "group": "Modular",
+                      "zones": Array [
+                        Object {
+                          "dimension": "2fr",
+                          "numberOfItems": 1,
+                        },
+                        Object {
+                          "dimension": "1fr",
+                          "numberOfItems": 2,
+                        },
+                        Object {
+                          "dimension": "1fr",
+                          "numberOfItems": 1,
+                        },
+                      ],
+                    },
+                    Object {
+                      "cardinality": 3,
+                      "group": "Equal",
+                      "zones": Array [
+                        Object {
+                          "dimension": "1fr",
+                          "numberOfItems": 1,
+                        },
+                        Object {
+                          "dimension": "1fr",
+                          "numberOfItems": 1,
+                        },
+                        Object {
+                          "dimension": "1fr",
+                          "numberOfItems": 1,
+                        },
+                      ],
+                    },
+                    Object {
+                      "cardinality": 4,
+                      "group": "Equal",
+                      "zones": Array [
+                        Object {
+                          "dimension": "1fr",
+                          "numberOfItems": 1,
+                        },
+                        Object {
+                          "dimension": "1fr",
+                          "numberOfItems": 1,
+                        },
+                        Object {
+                          "dimension": "1fr",
+                          "numberOfItems": 1,
+                        },
+                        Object {
+                          "dimension": "1fr",
+                          "numberOfItems": 1,
+                        },
+                      ],
+                    },
+                    Object {
+                      "cardinality": 6,
+                      "group": "Equal",
+                      "zones": Array [
+                        Object {
+                          "dimension": "1fr",
+                          "numberOfItems": 2,
+                        },
+                        Object {
+                          "dimension": "1fr",
+                          "numberOfItems": 2,
+                        },
+                        Object {
+                          "dimension": "1fr",
+                          "numberOfItems": 2,
+                        },
+                      ],
+                    },
+                  ],
+                  "externalAPI": Object {
+                    "imageUploader": [Function],
+                    "resolveItem": [Function],
+                  },
+                  "gridConfig": Object {},
+                }
+              }
+              resetToggleState={[Function]}
+              setActiveCard={[Function]}
+            >
+              <Layout
+                clearCuration={false}
+                defaultLayouts={
+                  Array [
+                    Object {
+                      "cardinality": 1,
+                      "group": "Headline",
+                      "zones": Array [
+                        Object {
+                          "dimension": "1fr",
+                          "numberOfItems": 1,
+                        },
+                      ],
+                    },
+                    Object {
+                      "cardinality": 3,
+                      "group": "Modular",
+                      "zones": Array [
+                        Object {
+                          "dimension": "2fr",
+                          "numberOfItems": 1,
+                        },
+                        Object {
+                          "dimension": "1fr",
+                          "numberOfItems": 2,
+                        },
+                      ],
+                    },
+                    Object {
+                      "cardinality": 4,
+                      "group": "Modular",
+                      "zones": Array [
+                        Object {
+                          "dimension": "2fr",
+                          "numberOfItems": 1,
+                        },
+                        Object {
+                          "dimension": "1fr",
+                          "numberOfItems": 2,
+                        },
+                        Object {
+                          "dimension": "1fr",
+                          "numberOfItems": 1,
+                        },
+                      ],
+                    },
+                    Object {
+                      "cardinality": 3,
+                      "group": "Equal",
+                      "zones": Array [
+                        Object {
+                          "dimension": "1fr",
+                          "numberOfItems": 1,
+                        },
+                        Object {
+                          "dimension": "1fr",
+                          "numberOfItems": 1,
+                        },
+                        Object {
+                          "dimension": "1fr",
+                          "numberOfItems": 1,
+                        },
+                      ],
+                    },
+                    Object {
+                      "cardinality": 4,
+                      "group": "Equal",
+                      "zones": Array [
+                        Object {
+                          "dimension": "1fr",
+                          "numberOfItems": 1,
+                        },
+                        Object {
+                          "dimension": "1fr",
+                          "numberOfItems": 1,
+                        },
+                        Object {
+                          "dimension": "1fr",
+                          "numberOfItems": 1,
+                        },
+                        Object {
+                          "dimension": "1fr",
+                          "numberOfItems": 1,
+                        },
+                      ],
+                    },
+                    Object {
+                      "cardinality": 6,
+                      "group": "Equal",
+                      "zones": Array [
+                        Object {
+                          "dimension": "1fr",
+                          "numberOfItems": 2,
+                        },
+                        Object {
+                          "dimension": "1fr",
+                          "numberOfItems": 2,
+                        },
+                        Object {
+                          "dimension": "1fr",
+                          "numberOfItems": 2,
+                        },
+                      ],
+                    },
+                  ]
+                }
+                externalAPI={
+                  Object {
+                    "imageUploader": [Function],
+                    "resolveItem": [Function],
+                  }
+                }
+                gridConfig={Object {}}
+                isCloseButton={false}
+                isEditMode={false}
+                isOpenButton={false}
+                isSaving={false}
+                resetToggleState={[Function]}
+                setActiveCard={[Function]}
+              >
+                <div
+                  className="layout layout--Headline1"
+                >
+                  <div
+                    className="layout__module"
+                    key="module"
+                  />
+                </div>
+              </Layout>
+            </CurationModule>
+          </ClickOutside(CurationModule)>
+        </div>
+      </div>
+    </StyledComponent>
+  </curation__CurationWrapper>
+</Curation>
+`;

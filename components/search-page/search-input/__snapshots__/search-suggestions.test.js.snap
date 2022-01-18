@@ -1,0 +1,224 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Suggestions /> should render and match snapshot 1`] = `
+.c1 {
+  position: absolute;
+  display: none;
+  top: 100%;
+  left: 0;
+  right: 0;
+}
+
+.c1.open {
+  display: block;
+}
+
+.c0 {
+  display: inline-block;
+  position: relative;
+}
+
+.c2 {
+  background: #FFF;
+  border: 1px solid #CCC;
+}
+
+<Suggestions
+  clearSuggestions={[MockFunction]}
+  handleSelectedSuggestion={[MockFunction]}
+  trigger={<a />}
+>
+  <EnsureDefaultTheme>
+    <ThemeProvider
+      theme={[Function]}
+    >
+      <Dropdown
+        dropdownContainer={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "search-suggestions__DropdownContainer-kitjbg-2",
+              "isStatic": false,
+              "lastClassName": "c2",
+              "rules": Array [
+                "background:",
+                [Function],
+                ";border:1px solid ",
+                [Function],
+                ";",
+              ],
+            },
+            "displayName": "search-suggestions__DropdownContainer",
+            "foldedComponentIds": Array [],
+            "render": [Function],
+            "styledComponentId": "search-suggestions__DropdownContainer-kitjbg-2",
+            "target": "div",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        isOpen={false}
+        onClickOutside={[Function]}
+        onClose={[Function]}
+        options={
+          Object {
+            "align": "fullwidth",
+            "useClick": false,
+          }
+        }
+        trigger={<a />}
+      >
+        <ClickOutside(Component)
+          handleClickOutside={[Function]}
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+          onMouseLeave={[Function]}
+        >
+          <Component
+            insideReference={[Function]}
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+            onMouseLeave={[Function]}
+          >
+            <dropdown__TriggerContainer
+              insideReference={[Function]}
+              onClick={[Function]}
+              onMouseEnter={[Function]}
+              onMouseLeave={[Function]}
+            >
+              <StyledComponent
+                forwardedComponent={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": Array [],
+                    "componentStyle": ComponentStyle {
+                      "componentId": "dropdown__TriggerContainer-sc-1dvfjie-2",
+                      "isStatic": true,
+                      "lastClassName": "c0",
+                      "rules": Array [
+                        "display:inline-block;position:relative;",
+                      ],
+                    },
+                    "displayName": "dropdown__TriggerContainer",
+                    "foldedComponentIds": Array [],
+                    "render": [Function],
+                    "styledComponentId": "dropdown__TriggerContainer-sc-1dvfjie-2",
+                    "target": "div",
+                    "toString": [Function],
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={[Function]}
+                insideReference={[Function]}
+                onClick={[Function]}
+                onMouseEnter={[Function]}
+                onMouseLeave={[Function]}
+              >
+                <div
+                  className="c0"
+                  onClick={[Function]}
+                  onMouseEnter={[Function]}
+                  onMouseLeave={[Function]}
+                >
+                  <a />
+                  <dropdown__DropdownWrapper
+                    className="js_dropdown"
+                    options={
+                      Object {
+                        "align": "fullwidth",
+                        "useClick": false,
+                      }
+                    }
+                  >
+                    <StyledComponent
+                      className="js_dropdown"
+                      forwardedComponent={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "attrs": Array [],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "dropdown__DropdownWrapper-sc-1dvfjie-0",
+                            "isStatic": false,
+                            "lastClassName": "c1",
+                            "rules": Array [
+                              "position:absolute;display:none;&.open{display:block;}",
+                              [Function],
+                              " ",
+                              [Function],
+                            ],
+                          },
+                          "displayName": "dropdown__DropdownWrapper",
+                          "foldedComponentIds": Array [],
+                          "render": [Function],
+                          "styledComponentId": "dropdown__DropdownWrapper-sc-1dvfjie-0",
+                          "target": "div",
+                          "toString": [Function],
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                      options={
+                        Object {
+                          "align": "fullwidth",
+                          "useClick": false,
+                        }
+                      }
+                    >
+                      <div
+                        className="js_dropdown c1"
+                      >
+                        <search-suggestions__DropdownContainer
+                          upwards={false}
+                        >
+                          <StyledComponent
+                            forwardedComponent={
+                              Object {
+                                "$$typeof": Symbol(react.forward_ref),
+                                "attrs": Array [],
+                                "componentStyle": ComponentStyle {
+                                  "componentId": "search-suggestions__DropdownContainer-kitjbg-2",
+                                  "isStatic": false,
+                                  "lastClassName": "c2",
+                                  "rules": Array [
+                                    "background:",
+                                    [Function],
+                                    ";border:1px solid ",
+                                    [Function],
+                                    ";",
+                                  ],
+                                },
+                                "displayName": "search-suggestions__DropdownContainer",
+                                "foldedComponentIds": Array [],
+                                "render": [Function],
+                                "styledComponentId": "search-suggestions__DropdownContainer-kitjbg-2",
+                                "target": "div",
+                                "toString": [Function],
+                                "warnTooManyClasses": [Function],
+                                "withComponent": [Function],
+                              }
+                            }
+                            forwardedRef={null}
+                            upwards={false}
+                          >
+                            <div
+                              className="c2"
+                            />
+                          </StyledComponent>
+                        </search-suggestions__DropdownContainer>
+                      </div>
+                    </StyledComponent>
+                  </dropdown__DropdownWrapper>
+                </div>
+              </StyledComponent>
+            </dropdown__TriggerContainer>
+          </Component>
+        </ClickOutside(Component)>
+      </Dropdown>
+    </ThemeProvider>
+  </EnsureDefaultTheme>
+</Suggestions>
+`;

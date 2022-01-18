@@ -1,0 +1,174 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ManualStoryItem /> should render properly 1`] = `
+.c2[data-emptycardactive="true"] {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  min-height: 100px;
+  margin-bottom: 25px;
+  border: 1px solid;
+  border-color: #E5E5E5;
+  padding: 25px;
+  background-color: #FFF;
+}
+
+.c2[data-emptycardactive="true"] input[type=text] {
+  border-bottom: 1px solid;
+  border-bottom-color: #E5E5E5;
+  min-width: 75%;
+}
+
+.c2[data-emptycardactive="true"].c1[data-emptycardactive="true"] {
+  min-height: 112px;
+  margin-bottom: 25px;
+}
+
+.c0 {
+  -webkit-flex: 0 1 31.5%;
+  -ms-flex: 0 1 31.5%;
+  flex: 0 1 31.5%;
+  text-align: left;
+  position: relative;
+  width: 31.5%;
+}
+
+.c0:hover .c3 {
+  visibility: visible;
+}
+
+<ManualStoryItem
+  isEditMode={true}
+  onChange={[MockFunction]}
+>
+  <EnsureDefaultTheme>
+    <ThemeProvider
+      theme={[Function]}
+    >
+      <manualStoryItem__StoryItem>
+        <StyledComponent
+          forwardedComponent={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": Array [],
+              "componentStyle": ComponentStyle {
+                "componentId": "manualStoryItem__StoryItem-sc-1ufg64c-2",
+                "isStatic": true,
+                "lastClassName": "c0",
+                "rules": Array [
+                  "flex:0 1 31.5%;text-align:left;position:relative;width:31.5%;&:hover{",
+                  ".c3",
+                  "{visibility:visible;}}",
+                ],
+              },
+              "displayName": "manualStoryItem__StoryItem",
+              "foldedComponentIds": Array [],
+              "render": [Function],
+              "styledComponentId": "manualStoryItem__StoryItem-sc-1ufg64c-2",
+              "target": "div",
+              "toString": [Function],
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+        >
+          <div
+            className="c0"
+          >
+            <EmptyCard
+              customError={[Function]}
+              customHeight={true}
+              isEditMode={true}
+              setItemsOnPaste={[Function]}
+              setItemsOnSubmit={[Function]}
+              url=""
+            >
+              <EnsureDefaultTheme>
+                <ThemeProvider
+                  theme={[Function]}
+                >
+                  <empty-card__EmptyCardWrapper
+                    customError={[Function]}
+                    customHeight={true}
+                    data-emptycard={true}
+                    data-emptycardactive={true}
+                  >
+                    <StyledComponent
+                      customError={[Function]}
+                      customHeight={true}
+                      data-emptycard={true}
+                      data-emptycardactive={true}
+                      forwardedComponent={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "attrs": Array [],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "c1",
+                            "isStatic": false,
+                            "lastClassName": "c2",
+                            "rules": Array [
+                              "&[data-emptycardactive=\\"true\\"]{display:flex;flex-direction:column;justify-content:center;align-items:center;min-height:",
+                              [Function],
+                              ";margin-bottom:",
+                              [Function],
+                              ";border:1px solid;border-color:",
+                              [Function],
+                              ";padding:25px;background-color:",
+                              [Function],
+                              ";input[type=text]{border-bottom:1px solid;border-bottom-color:",
+                              [Function],
+                              ";min-width:75%;}",
+                              [Function],
+                              "}",
+                            ],
+                          },
+                          "displayName": "empty-card__EmptyCardWrapper",
+                          "foldedComponentIds": Array [],
+                          "render": [Function],
+                          "styledComponentId": "c1",
+                          "target": "div",
+                          "toString": [Function],
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                    >
+                      <div
+                        className="c1 c2"
+                        data-emptycard={true}
+                        data-emptycardactive={true}
+                      >
+                        <input
+                          defaultValue=""
+                          onKeyDown={[Function]}
+                          onPaste={[Function]}
+                          placeholder="ADD URL"
+                          type="text"
+                        />
+                      </div>
+                    </StyledComponent>
+                  </empty-card__EmptyCardWrapper>
+                </ThemeProvider>
+              </EnsureDefaultTheme>
+            </EmptyCard>
+          </div>
+        </StyledComponent>
+      </manualStoryItem__StoryItem>
+    </ThemeProvider>
+  </EnsureDefaultTheme>
+</ManualStoryItem>
+`;

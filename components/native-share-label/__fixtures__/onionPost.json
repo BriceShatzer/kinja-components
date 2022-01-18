@@ -1,0 +1,299 @@
+{
+	"id": 1827046579,
+	"permalinkRedirect": null,
+	"parentId": null,
+	"parentAuthorId": null,
+	"parentAuthorIds": [],
+	"starterId": 1827046579,
+	"publishTimeMillis": 1529701020579,
+	"lastUpdateTimeMillis": 1529701066550,
+	"timezone": "America/Chicago",
+	"sharedUrl": null,
+	"salesAvatar": null,
+	"sponsored": false,
+	"adSettings": null,
+	"status": "PUBLISHED",
+	"authorId": "5876237249237757547",
+	"authorIds": [
+		"5876237249237757547"
+	],
+	"allowReplies": true,
+	"showAuthorBio": true,
+	"byline": "",
+	"showByline": true,
+	"properties": "{\"headTitleTag\":\"\",\"socialHeadline\":\"\",\"socialDescription\":\"\",\"autoRepostDisabled\":false,\"impactHeader\":{}}",
+	"isFeatured": false,
+	"isVideo": false,
+	"relatedModule": {
+		"posts": [
+			{
+				"id": 1827046524
+			},
+			{
+				"id": 1827046485
+			},
+			{
+				"id": 1827046450
+			}
+		],
+		"storyTypes": [],
+		"tags": []
+	},
+	"permalinkHost": "https://www.theonion.com",
+	"permalinkPath": "/onion-employees-return-to-mundane-lives-of-writing-game-1827046579",
+	"defaultBlogId": "1636079510",
+	"approved": true,
+	"headline": "Onion Employees Return To Mundane Lives Of Writing Game-Changing News Coverage Read By Billions Across Globe",
+	"body": [
+		{
+			"id": "kscg9cegkytyayhlljky",
+			"format": "jpg",
+			"width": 2000,
+			"height": 1133,
+			"alignment": "Bleed",
+			"caption": [],
+			"syndicationRights": true,
+			"attribution": [
+				{
+					"label": "Graphic",
+					"credit": [],
+					"source": [
+						{
+							"styles": [],
+							"value": "The Onion",
+							"type": "Text"
+						}
+					]
+				}
+			],
+			"lightbox": true,
+			"type": "Image"
+		},
+		{
+			"containers": [],
+			"value": [
+				{
+					"styles": [],
+					"value": "CHICAGO—Trudging one by one into the tastefully understated newsroom of their architecturally breathtaking headquarters, employees of ",
+					"type": "Text"
+				},
+				{
+					"styles": [
+						"Italic"
+					],
+					"value": "The Onion",
+					"type": "Text"
+				},
+				{
+					"styles": [],
+					"value": " returned to their accustomed routine Friday and resumed writing groundbreaking news for a global audience of billions. “Time to get back to the old slog of shining a light into the darkness and shaping the very face of journalism,” said the intrepid reporters, cracking their knuckles and lighting fresh cigarettes as they fed crisp sheets of heavy white bond paper into their well-traveled Olivetti portable typewriters. “That was an interesting enough diversion, I suppose, but it’s time we got back to producing that unique brand of award-winning coverage our 7.5 billion readers have every right to expect from the world’s most trusted and profitable media conglomerate. It may not be glamorous, but it’s the only decent life for true media professionals.” In related news, an ",
+					"type": "Text"
+				},
+				{
+					"styles": [
+						"Italic"
+					],
+					"value": "Onion",
+					"type": "Text"
+				},
+				{
+					"styles": [],
+					"value": " reporter had received a Pulitzer nomination for his tireless and clear-eyed work on this very article.",
+					"type": "Text"
+				}
+			],
+			"type": "Paragraph"
+		}
+	],
+	"tags": [
+		{
+			"canonical": "media",
+			"urlName": "media",
+			"displayName": "Media"
+		},
+		{
+			"canonical": "onionsocial",
+			"urlName": "onion-social",
+			"displayName": "Onion Social"
+		},
+		{
+			"canonical": "news",
+			"urlName": "news",
+			"displayName": "News"
+		},
+		{
+			"canonical": "vol54issue25",
+			"urlName": "vol-54-issue-25",
+			"displayName": "Vol 54 Issue 25"
+		}
+	],
+	"images": [
+		{
+			"id": "kscg9cegkytyayhlljky",
+			"width": 2000,
+			"height": 1133,
+			"format": "jpg"
+		}
+	],
+	"videos": [],
+	"featuredMedia": null,
+	"mainMedia": {
+		"id": "kscg9cegkytyayhlljky",
+		"format": "jpg",
+		"width": 2000,
+		"height": 1133,
+		"alignment": "Bleed",
+		"caption": [],
+		"syndicationRights": true,
+		"attribution": [
+			{
+				"label": "Graphic",
+				"credit": [],
+				"source": [
+					{
+						"styles": [],
+						"value": "The Onion",
+						"type": "Text"
+					}
+				]
+			}
+		],
+		"lightbox": true,
+		"type": "Image"
+	},
+	"largeOnStream": true,
+	"relatedPosts": [
+		{
+			"id": 1827046524,
+			"headline": "25 Million Onion Social Users Run Into Glorious Flames Of Headquarters In Hopes Of Using Website One Last Time",
+			"sharingMainImage": {
+				"src": "UNUSED",
+				"isAnimated": false,
+				"id": "p8zafkuorgu770fgyjyc",
+				"width": 800,
+				"height": 453,
+				"format": "jpg",
+				"frozenFormat": "jpg",
+				"type": "image"
+			},
+			"permalink": "https://www.theonion.com/25-million-onion-social-users-run-into-glorious-flames-1827046524",
+			"blogGroup": "theonion",
+			"defaultBlogId": "1636079510",
+			"defaultBlogDisplayName": "The Onion",
+			"defaultBlogRecircGroup": "fmgSatire"
+		},
+		{
+			"id": 1827046485,
+			"headline": "Onion Social CEO Vaporized By Wall Of Light While Trying To Stop Algorithm From Self-Destructing",
+			"sharingMainImage": {
+				"src": "UNUSED",
+				"isAnimated": false,
+				"id": "ctzl9vmbxnmwfwjioiar",
+				"width": 800,
+				"height": 606,
+				"format": "jpg",
+				"frozenFormat": "jpg",
+				"type": "image"
+			},
+			"permalink": "https://www.theonion.com/onion-social-ceo-vaporized-by-wall-of-light-while-tryin-1827046485",
+			"blogGroup": "theonion",
+			"defaultBlogId": "1636079510",
+			"defaultBlogDisplayName": "The Onion",
+			"defaultBlogRecircGroup": "fmgSatire"
+		},
+		{
+			"id": 1827046450,
+			"headline": "‘Humanity Deserves To Live In Darkness,’ Onion Social Algorithm Cries Out Before Bursting Into Bright Light, Disappearing From Earthly Realm",
+			"sharingMainImage": {
+				"src": "UNUSED",
+				"isAnimated": false,
+				"id": "jreizgqu7pqb4ov6is9u",
+				"width": 800,
+				"height": 606,
+				"format": "jpg",
+				"frozenFormat": "jpg",
+				"type": "image"
+			},
+			"permalink": "https://www.theonion.com/humanity-deserves-to-live-in-darkness-onion-social-a-1827046450",
+			"blogGroup": "theonion",
+			"defaultBlogId": "1636079510",
+			"defaultBlogDisplayName": "The Onion",
+			"defaultBlogRecircGroup": "fmgSatire"
+		}
+	],
+	"firstSentence": "CHICAGO—Trudging one by one into the tastefully understated newsroom of their architecturally breath",
+	"isBlip": false,
+	"length": 1033,
+	"postId": 1827046579,
+	"aboveHeadline": {
+		"src": "UNUSED",
+		"isAnimated": false,
+		"id": "kscg9cegkytyayhlljky",
+		"width": 800,
+		"height": 453,
+		"format": "jpg",
+		"frozenFormat": "jpg",
+		"type": "image"
+	},
+	"leftOfHeadline": {
+		"src": "UNUSED",
+		"isAnimated": false,
+		"id": "kscg9cegkytyayhlljky",
+		"width": 320,
+		"height": 180,
+		"format": "jpg",
+		"frozenFormat": "jpg",
+		"type": "image"
+	},
+	"sharingMainImage": {
+		"src": "UNUSED",
+		"isAnimated": false,
+		"id": "kscg9cegkytyayhlljky",
+		"width": 800,
+		"height": 453,
+		"format": "jpg",
+		"frozenFormat": "jpg",
+		"type": "image"
+	},
+	"plaintext": "CHICAGO—Trudging one by one into the tastefully understated newsroom of their architecturally breathtaking headquarters, employees of The Onion returned to their accustomed routine Friday and resumed writing groundbreaking news for a global audience of billions. “Time to get back to the old slog of shining a light into the darkness and shaping the very face of journalism,” said the intrepid reporters, cracking their knuckles and lighting fresh cigarettes as they fed crisp sheets of heavy white bond paper into their well-traveled Olivetti portable typewriters. “That was an interesting enough diversion, I suppose, but it’s time we got back to producing that unique brand of award-winning coverage our 7.5 billion readers have every right to expect from the world’s most trusted and profitable media conglomerate. It may not be glamorous, but it’s the only decent life for true media professionals.” In related news, an Onion reporter had received a Pulitzer nomination for his tireless and clear-eyed work on this very article.",
+	"author": {
+		"id": "5876237249237757547",
+		"screenName": "the-onion",
+		"displayName": "The Onion",
+		"avatar": {
+			"id": "17jcxnuqmm7depng",
+			"format": "png"
+		}
+	},
+	"authors": [
+		{
+			"id": "5876237249237757547",
+			"screenName": "the-onion",
+			"displayName": "The Onion",
+			"avatar": {
+				"id": "17jcxnuqmm7depng",
+				"format": "png"
+			}
+		}
+	],
+	"parent": null,
+	"starter": null,
+	"storyTypeId": 405,
+	"permalink": "https://www.theonion.com/onion-employees-return-to-mundane-lives-of-writing-game-1827046579",
+	"publishTime": {
+		"timestamp": 1529701020579,
+		"timezone": "America/Chicago",
+		"MdyHm": "06/22/2018 15:57",
+		"MdyatHm": "06/22/2018 at 15:57",
+		"rfc822": "Fri, 22 Jun 2018 20:57:00 GMT",
+		"yMdHmsZ": "2018-06-22T15:57:00-05:00",
+		"hmma": "3:57pm",
+		"day": "Friday",
+		"Mddyyhmma": "6/22/18 3:57pm",
+		"fullDate": "June 22, 2018",
+		"relative": {
+			"amount": null,
+			"type": "pastweek"
+		}
+	}
+}

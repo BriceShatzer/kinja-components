@@ -1,0 +1,695 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ButtonGroup /> should have children 1`] = `
+.c5 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c5 + svg,
+.c5 + .c6 {
+  margin-left: 4px;
+}
+
+.c4 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  width: 100%;
+  white-space: nowrap;
+  pointer-events: none;
+}
+
+.c4 svg + span {
+  margin-left: 4px;
+}
+
+.c4 .c6 + span {
+  margin-left: 4px;
+}
+
+.c2 {
+  width: auto;
+  height: 34px;
+  padding: 0 2rem;
+  border: transparent 1px solid;
+  border-radius: 34px;
+  border-color: transparent;
+  color: #FFF;
+  font-size: 14px;
+  text-align: center;
+  line-height: 34px;
+  background-color: #0A7BC2;
+  -webkit-transition: background-color 0.2s ease-out,border-color 0.2s ease-out,color 0.2s ease-out;
+  transition: background-color 0.2s ease-out,border-color 0.2s ease-out,color 0.2s ease-out;
+}
+
+.c2 .c3 > svg {
+  margin-bottom: 2px;
+}
+
+.c2 .c6 {
+  margin-bottom: 2px;
+}
+
+.c2:hover,
+.c2:active,
+.c2:focus {
+  color: #fff;
+  border-color: transparent;
+  background-color: #085c91;
+}
+
+.c2:hover .c3 > svg,
+.c2:active .c3 > svg,
+.c2:focus .c3 > svg {
+  stroke: #fff;
+}
+
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  white-space: nowrap;
+}
+
+.c0 .c1 {
+  border-radius: 0;
+}
+
+.c0 .c1:not(:last-child) {
+  margin-right: -1px;
+}
+
+.c0 .c1:first-child {
+  border-radius: 21px 0 0 21px;
+}
+
+.c0 .c1:last-child {
+  border-radius: 0 21px 21px 0;
+}
+
+.c0 .c1:hover {
+  z-index: 1;
+}
+
+.c0 .c1:hover + .c1 {
+  border-left: 1px solid #053d61;
+}
+
+<ButtonGroup
+  small={true}
+>
+  <ItemGroup
+    childrenProps={
+      Object {
+        "small": true,
+      }
+    }
+    htmlElement={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": Array [],
+        "componentStyle": ComponentStyle {
+          "componentId": "ButtonGroup__ButtonGroupWrapper-s6qwc-0",
+          "isStatic": false,
+          "rules": Array [
+            "display:flex;white-space:nowrap;",
+            ".c1",
+            "{border-radius:0;&:not(:last-child){margin-right:-1px;}&:first-child{border-radius:",
+            [Function],
+            ";}&:last-child{border-radius:",
+            [Function],
+            ";}&:hover{z-index:1;+ ",
+            ".c1",
+            "{border-left:1px solid ",
+            [Function],
+            ";}}}",
+          ],
+        },
+        "displayName": "ButtonGroup__ButtonGroupWrapper",
+        "foldedComponentIds": Array [],
+        "render": [Function],
+        "styledComponentId": "ButtonGroup__ButtonGroupWrapper-s6qwc-0",
+        "target": "div",
+        "toString": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
+    small={true}
+  >
+    <EnsureDefaultTheme>
+      <ThemeProvider
+        theme={[Function]}
+      >
+        <item-group__ItemGroupWrapper
+          childrenProps={
+            Object {
+              "small": true,
+            }
+          }
+          htmlElement={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": Array [],
+              "componentStyle": ComponentStyle {
+                "componentId": "ButtonGroup__ButtonGroupWrapper-s6qwc-0",
+                "isStatic": false,
+                "rules": Array [
+                  "display:flex;white-space:nowrap;",
+                  ".c1",
+                  "{border-radius:0;&:not(:last-child){margin-right:-1px;}&:first-child{border-radius:",
+                  [Function],
+                  ";}&:last-child{border-radius:",
+                  [Function],
+                  ";}&:hover{z-index:1;+ ",
+                  ".c1",
+                  "{border-left:1px solid ",
+                  [Function],
+                  ";}}}",
+                ],
+              },
+              "displayName": "ButtonGroup__ButtonGroupWrapper",
+              "foldedComponentIds": Array [],
+              "render": [Function],
+              "styledComponentId": "ButtonGroup__ButtonGroupWrapper-s6qwc-0",
+              "target": "div",
+              "toString": [Function],
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          small={true}
+        >
+          <StyledComponent
+            childrenProps={
+              Object {
+                "small": true,
+              }
+            }
+            forwardedComponent={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": Array [],
+                "componentStyle": ComponentStyle {
+                  "componentId": "item-group__ItemGroupWrapper-j27ql3-0-ButtonGroup__ButtonGroupWrapper",
+                  "isStatic": false,
+                  "lastClassName": "c0",
+                  "rules": Array [
+                    "display:flex;white-space:nowrap;",
+                    ".c1",
+                    "{border-radius:0;&:not(:last-child){margin-right:-1px;}&:first-child{border-radius:",
+                    [Function],
+                    ";}&:last-child{border-radius:",
+                    [Function],
+                    ";}&:hover{z-index:1;+ ",
+                    ".c1",
+                    "{border-left:1px solid ",
+                    [Function],
+                    ";}}}",
+                  ],
+                },
+                "displayName": "item-group__ItemGroupWrapper",
+                "foldedComponentIds": Array [
+                  "ButtonGroup__ButtonGroupWrapper-s6qwc-0",
+                ],
+                "render": [Function],
+                "styledComponentId": "item-group__ItemGroupWrapper-j27ql3-0-ButtonGroup__ButtonGroupWrapper",
+                "target": "div",
+                "toString": [Function],
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={null}
+            htmlElement={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": Array [],
+                "componentStyle": ComponentStyle {
+                  "componentId": "ButtonGroup__ButtonGroupWrapper-s6qwc-0",
+                  "isStatic": false,
+                  "rules": Array [
+                    "display:flex;white-space:nowrap;",
+                    ".c1",
+                    "{border-radius:0;&:not(:last-child){margin-right:-1px;}&:first-child{border-radius:",
+                    [Function],
+                    ";}&:last-child{border-radius:",
+                    [Function],
+                    ";}&:hover{z-index:1;+ ",
+                    ".c1",
+                    "{border-left:1px solid ",
+                    [Function],
+                    ";}}}",
+                  ],
+                },
+                "displayName": "ButtonGroup__ButtonGroupWrapper",
+                "foldedComponentIds": Array [],
+                "render": [Function],
+                "styledComponentId": "ButtonGroup__ButtonGroupWrapper-s6qwc-0",
+                "target": "div",
+                "toString": [Function],
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            small={true}
+          >
+            <div
+              className="-ButtonGroup__ButtonGroupWrapper c0"
+            >
+              <ButtonGroupItem
+                key=".0"
+                label="Big Red Button"
+                onClick={[Function]}
+                selected={true}
+                small={true}
+              >
+                <Button
+                  label="Big Red Button"
+                  onClick={[Function]}
+                  selected={true}
+                  small={true}
+                  weight="primary"
+                >
+                  <EnsureDefaultTheme>
+                    <ThemeProvider
+                      theme={[Function]}
+                    >
+                      <Button__ButtonWrapper
+                        onClick={[Function]}
+                        selected={true}
+                        small={true}
+                        weight="primary"
+                      >
+                        <StyledComponent
+                          forwardedComponent={
+                            Object {
+                              "$$typeof": Symbol(react.forward_ref),
+                              "attrs": Array [],
+                              "componentStyle": ComponentStyle {
+                                "componentId": "c1",
+                                "isStatic": false,
+                                "lastClassName": "c2",
+                                "rules": Array [
+                                  "width:",
+                                  [Function],
+                                  ";height:",
+                                  [Function],
+                                  ";padding:",
+                                  [Function],
+                                  ";border:transparent 1px solid;border-radius:",
+                                  [Function],
+                                  ";border-color:",
+                                  [Function],
+                                  ";color:",
+                                  [Function],
+                                  ";font-size:",
+                                  [Function],
+                                  ";text-align:",
+                                  [Function],
+                                  ";line-height:",
+                                  [Function],
+                                  ";background-color:",
+                                  [Function],
+                                  ";transition:",
+                                  [Function],
+                                  ";",
+                                  [Function],
+                                  ";",
+                                  [Function],
+                                  ";",
+                                  ".c3",
+                                  " > svg{margin-bottom:2px;",
+                                  [Function],
+                                  " ",
+                                  [Function],
+                                  " ",
+                                  [Function],
+                                  " ",
+                                  [Function],
+                                  " ",
+                                  [Function],
+                                  " ",
+                                  [Function],
+                                  "}",
+                                  ".c6",
+                                  "{margin-bottom:2px;}&:hover,&:active,&:focus{color:",
+                                  [Function],
+                                  ";border-color:",
+                                  [Function],
+                                  ";background-color:",
+                                  [Function],
+                                  ";",
+                                  [Function],
+                                  " ",
+                                  [Function],
+                                  " ",
+                                  ".c3",
+                                  " > svg{",
+                                  [Function],
+                                  " ",
+                                  [Function],
+                                  " ",
+                                  [Function],
+                                  " ",
+                                  [Function],
+                                  "}}",
+                                  "@media only screen and ",
+                                  "(max-width: 49.94em)",
+                                  "{",
+                                  "
+		",
+                                  [Function],
+                                  "
+	",
+                                  "}",
+                                ],
+                              },
+                              "displayName": "Button__ButtonWrapper",
+                              "foldedComponentIds": Array [],
+                              "render": [Function],
+                              "styledComponentId": "c1",
+                              "target": "button",
+                              "toString": [Function],
+                              "warnTooManyClasses": [Function],
+                              "withComponent": [Function],
+                            }
+                          }
+                          forwardedRef={null}
+                          onClick={[Function]}
+                          selected={true}
+                          small={true}
+                          weight="primary"
+                        >
+                          <button
+                            className="c1 c2"
+                            onClick={[Function]}
+                            selected={true}
+                          >
+                            <Button__ButtonInner>
+                              <StyledComponent
+                                forwardedComponent={
+                                  Object {
+                                    "$$typeof": Symbol(react.forward_ref),
+                                    "attrs": Array [],
+                                    "componentStyle": ComponentStyle {
+                                      "componentId": "c3",
+                                      "isStatic": false,
+                                      "lastClassName": "c4",
+                                      "rules": Array [
+                                        "align-items:center;display:flex;justify-content:center;width:100%;white-space:nowrap;pointer-events:none;svg{",
+                                        [Function],
+                                        " + span{margin-left:4px;}}",
+                                        ".c6",
+                                        "{+ span{margin-left:4px;}}",
+                                      ],
+                                    },
+                                    "displayName": "Button__ButtonInner",
+                                    "foldedComponentIds": Array [],
+                                    "render": [Function],
+                                    "styledComponentId": "c3",
+                                    "target": "div",
+                                    "toString": [Function],
+                                    "warnTooManyClasses": [Function],
+                                    "withComponent": [Function],
+                                  }
+                                }
+                                forwardedRef={null}
+                              >
+                                <div
+                                  className="c3 c4"
+                                >
+                                  <Button__Label>
+                                    <StyledComponent
+                                      forwardedComponent={
+                                        Object {
+                                          "$$typeof": Symbol(react.forward_ref),
+                                          "attrs": Array [],
+                                          "componentStyle": ComponentStyle {
+                                            "componentId": "Button__Label-j48i5d-0",
+                                            "isStatic": true,
+                                            "lastClassName": "c5",
+                                            "rules": Array [
+                                              "display:flex;+ svg,+ ",
+                                              ".c6",
+                                              "{margin-left:4px;}",
+                                            ],
+                                          },
+                                          "displayName": "Button__Label",
+                                          "foldedComponentIds": Array [],
+                                          "render": [Function],
+                                          "styledComponentId": "Button__Label-j48i5d-0",
+                                          "target": "span",
+                                          "toString": [Function],
+                                          "warnTooManyClasses": [Function],
+                                          "withComponent": [Function],
+                                        }
+                                      }
+                                      forwardedRef={null}
+                                    >
+                                      <span
+                                        className="c5"
+                                      >
+                                        Big Red Button
+                                      </span>
+                                    </StyledComponent>
+                                  </Button__Label>
+                                </div>
+                              </StyledComponent>
+                            </Button__ButtonInner>
+                          </button>
+                        </StyledComponent>
+                      </Button__ButtonWrapper>
+                    </ThemeProvider>
+                  </EnsureDefaultTheme>
+                </Button>
+              </ButtonGroupItem>
+              <ButtonGroupItem
+                key=".1"
+                label="Yellow Button"
+                onClick={[Function]}
+                selected={true}
+                small={true}
+              >
+                <Button
+                  label="Yellow Button"
+                  onClick={[Function]}
+                  selected={true}
+                  small={true}
+                  weight="primary"
+                >
+                  <EnsureDefaultTheme>
+                    <ThemeProvider
+                      theme={[Function]}
+                    >
+                      <Button__ButtonWrapper
+                        onClick={[Function]}
+                        selected={true}
+                        small={true}
+                        weight="primary"
+                      >
+                        <StyledComponent
+                          forwardedComponent={
+                            Object {
+                              "$$typeof": Symbol(react.forward_ref),
+                              "attrs": Array [],
+                              "componentStyle": ComponentStyle {
+                                "componentId": "c1",
+                                "isStatic": false,
+                                "lastClassName": "c2",
+                                "rules": Array [
+                                  "width:",
+                                  [Function],
+                                  ";height:",
+                                  [Function],
+                                  ";padding:",
+                                  [Function],
+                                  ";border:transparent 1px solid;border-radius:",
+                                  [Function],
+                                  ";border-color:",
+                                  [Function],
+                                  ";color:",
+                                  [Function],
+                                  ";font-size:",
+                                  [Function],
+                                  ";text-align:",
+                                  [Function],
+                                  ";line-height:",
+                                  [Function],
+                                  ";background-color:",
+                                  [Function],
+                                  ";transition:",
+                                  [Function],
+                                  ";",
+                                  [Function],
+                                  ";",
+                                  [Function],
+                                  ";",
+                                  ".c3",
+                                  " > svg{margin-bottom:2px;",
+                                  [Function],
+                                  " ",
+                                  [Function],
+                                  " ",
+                                  [Function],
+                                  " ",
+                                  [Function],
+                                  " ",
+                                  [Function],
+                                  " ",
+                                  [Function],
+                                  "}",
+                                  ".c6",
+                                  "{margin-bottom:2px;}&:hover,&:active,&:focus{color:",
+                                  [Function],
+                                  ";border-color:",
+                                  [Function],
+                                  ";background-color:",
+                                  [Function],
+                                  ";",
+                                  [Function],
+                                  " ",
+                                  [Function],
+                                  " ",
+                                  ".c3",
+                                  " > svg{",
+                                  [Function],
+                                  " ",
+                                  [Function],
+                                  " ",
+                                  [Function],
+                                  " ",
+                                  [Function],
+                                  "}}",
+                                  "@media only screen and ",
+                                  "(max-width: 49.94em)",
+                                  "{",
+                                  "
+		",
+                                  [Function],
+                                  "
+	",
+                                  "}",
+                                ],
+                              },
+                              "displayName": "Button__ButtonWrapper",
+                              "foldedComponentIds": Array [],
+                              "render": [Function],
+                              "styledComponentId": "c1",
+                              "target": "button",
+                              "toString": [Function],
+                              "warnTooManyClasses": [Function],
+                              "withComponent": [Function],
+                            }
+                          }
+                          forwardedRef={null}
+                          onClick={[Function]}
+                          selected={true}
+                          small={true}
+                          weight="primary"
+                        >
+                          <button
+                            className="c1 c2"
+                            onClick={[Function]}
+                            selected={true}
+                          >
+                            <Button__ButtonInner>
+                              <StyledComponent
+                                forwardedComponent={
+                                  Object {
+                                    "$$typeof": Symbol(react.forward_ref),
+                                    "attrs": Array [],
+                                    "componentStyle": ComponentStyle {
+                                      "componentId": "c3",
+                                      "isStatic": false,
+                                      "lastClassName": "c4",
+                                      "rules": Array [
+                                        "align-items:center;display:flex;justify-content:center;width:100%;white-space:nowrap;pointer-events:none;svg{",
+                                        [Function],
+                                        " + span{margin-left:4px;}}",
+                                        ".c6",
+                                        "{+ span{margin-left:4px;}}",
+                                      ],
+                                    },
+                                    "displayName": "Button__ButtonInner",
+                                    "foldedComponentIds": Array [],
+                                    "render": [Function],
+                                    "styledComponentId": "c3",
+                                    "target": "div",
+                                    "toString": [Function],
+                                    "warnTooManyClasses": [Function],
+                                    "withComponent": [Function],
+                                  }
+                                }
+                                forwardedRef={null}
+                              >
+                                <div
+                                  className="c3 c4"
+                                >
+                                  <Button__Label>
+                                    <StyledComponent
+                                      forwardedComponent={
+                                        Object {
+                                          "$$typeof": Symbol(react.forward_ref),
+                                          "attrs": Array [],
+                                          "componentStyle": ComponentStyle {
+                                            "componentId": "Button__Label-j48i5d-0",
+                                            "isStatic": true,
+                                            "lastClassName": "c5",
+                                            "rules": Array [
+                                              "display:flex;+ svg,+ ",
+                                              ".c6",
+                                              "{margin-left:4px;}",
+                                            ],
+                                          },
+                                          "displayName": "Button__Label",
+                                          "foldedComponentIds": Array [],
+                                          "render": [Function],
+                                          "styledComponentId": "Button__Label-j48i5d-0",
+                                          "target": "span",
+                                          "toString": [Function],
+                                          "warnTooManyClasses": [Function],
+                                          "withComponent": [Function],
+                                        }
+                                      }
+                                      forwardedRef={null}
+                                    >
+                                      <span
+                                        className="c5"
+                                      >
+                                        Yellow Button
+                                      </span>
+                                    </StyledComponent>
+                                  </Button__Label>
+                                </div>
+                              </StyledComponent>
+                            </Button__ButtonInner>
+                          </button>
+                        </StyledComponent>
+                      </Button__ButtonWrapper>
+                    </ThemeProvider>
+                  </EnsureDefaultTheme>
+                </Button>
+              </ButtonGroupItem>
+            </div>
+          </StyledComponent>
+        </item-group__ItemGroupWrapper>
+      </ThemeProvider>
+    </EnsureDefaultTheme>
+  </ItemGroup>
+</ButtonGroup>
+`;

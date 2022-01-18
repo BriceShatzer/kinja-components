@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ImpactHeader /> should render by default 1`] = `
+<EnsureDefaultTheme>
+  <impact-header-container__ImpactHeaderContainer>
+    <ImpactHeaderImage
+      featuredMedia={
+        Object {
+          "alignment": "Bleed",
+          "attribution": Array [],
+          "caption": Array [],
+          "format": "png",
+          "height": 1080,
+          "id": "tscqkiavefq37idpvl5g",
+          "syndicationRights": false,
+          "type": "Image",
+          "width": 1920,
+        }
+      }
+      inline={false}
+    />
+    <ImpactHeaderOverlay
+      overlay="Black"
+      titleAlignment="BottomCenter"
+    >
+      <ImpactHeaderTitle
+        isPromoted={false}
+        isSponsored={false}
+        overlay="Black"
+        permalink="http://www.kinja.com"
+        title="Special Section"
+        titleAlignment="BottomCenter"
+      />
+    </ImpactHeaderOverlay>
+  </impact-header-container__ImpactHeaderContainer>
+</EnsureDefaultTheme>
+`;

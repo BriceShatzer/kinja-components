@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<VideoPlaylist /> should render by default 1`] = `
+<video-list__ListRow>
+  <video-list__ListColumn>
+    <video-list-item__CutoffText>
+      Evergreen vids
+    </video-list-item__CutoffText>
+  </video-list__ListColumn>
+  <video-list__ListColumn>
+    2 h 2 m
+     (
+    8
+     videos)
+  </video-list__ListColumn>
+  <video-list__ListColumn>
+    11/20/19 11:08AM
+  </video-list__ListColumn>
+  <video-list__ListColumn>
+    11/20/19 11:08AM
+  </video-list__ListColumn>
+  <video-list__ListColumn>
+    <a
+      href="/video/playlist/1"
+    >
+      <Button19
+        icon={<PencilIcon />}
+        isSmall={true}
+        label="Edit Playlist"
+        labelPosition="after"
+        variant="primary"
+      />
+    </a>
+  </video-list__ListColumn>
+</video-list__ListRow>
+`;

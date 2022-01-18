@@ -1,0 +1,45 @@
+
+{
+	"id": 19292,
+	"name": "esgizmodo",
+	"displayName": "Gizmodo en Español",
+	"canonicalHost": "es.gizmodo.com",
+	"hosts": ["esgizmodo.kinja.com", "es.kinja.com", "gizmodo.es"],
+	"status": "ENABLED",
+	"createTimeMillis": 1354575471019,
+	"lastUpdateTimeMillis": 1530628979254,
+	"createdById": "5768386639003540038",
+	"ownerId": "486197285",
+	"description": "Las ultimas noticias en tecnología, ciencia y cultura digital.",
+	"timezone": "America/New_York",
+	"timezoneOffset": -14400000,
+	"avatar": {
+		"id": "192oytk94dk4cpng",
+		"format": "png"
+	},
+	"logo": {
+		"id": "fnblgav2qpgrvyoagjaw",
+		"format": "png"
+	},
+	"navBackground": null,
+	"properties": {
+		"logoLink": "https://i.kinja-img.com/gawker-media/image/upload/s--fEDDhYkK--/c_fit,fl_progressive,h_100,q_80/fnblgav2qpgrvyoagjaw.png",
+		"aboutPostId": 1690916369,
+		"navigationGroup": "univision",
+		"robotsAllowed": true,
+		"isGmgBlog": true,
+		"twitterScreenName": "@Gizmodo_ES",
+		"blogGroup": "gizmodo",
+		"singleOptIn": true,
+		"googleAnalyticsID": "UA-142218-35",
+		"template": "esgizmodo",
+		"googleSiteVerification": "Y4KzRYvFDIszZROrGQfpcKGpEMqT5ncYtgHhRW8D7P0",
+		"fbPagesId": "133444886539",
+		"locale": "es-ES",
+		"noindex": false,
+		"campaignMonitorNewsletterName": "Gizmodo_Daily_ES",
+		"newsletter": true,
+		"fbAppId": 44615671688,
+		"adsTxtEnabled": true
+	}
+}

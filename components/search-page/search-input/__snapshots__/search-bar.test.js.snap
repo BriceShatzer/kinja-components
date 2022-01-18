@@ -1,0 +1,1160 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<SearchInput /> should render and match snapshot 1`] = `
+.c12 {
+  display: inline-block;
+  vertical-align: middle;
+  fill: none;
+  stroke-width: 1.01px;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke: #000;
+  opacity: 0.3;
+  height: 18px;
+  width: 18px;
+}
+
+.c14 {
+  display: inline-block;
+  vertical-align: middle;
+  fill: none;
+  stroke-width: 1.01px;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke: #000;
+  opacity: 1.0;
+  height: 24px;
+  width: 24px;
+}
+
+.c6.c6 {
+  color: #666;
+  font-size: 16px;
+  line-height: 21px;
+}
+
+.c4 {
+  margin-bottom: 30px;
+  -webkit-flex-basis: 100%;
+  -ms-flex-preferred-size: 100%;
+  flex-basis: 100%;
+}
+
+.c4:hover .c5 {
+  color: #222;
+}
+
+.c4:focus-within .c5 {
+  color: #0A7BC2;
+}
+
+.c10.c10 {
+  border-bottom: 1px solid #7D7D7D;
+  color: #222 !important;
+  font-size: 18px;
+  line-height: 23px;
+  padding: 6px 0;
+  width: 100%;
+}
+
+.c10.c10.c10:hover,
+.c10.c10.c10:active,
+.c10.c10.c10:focus {
+  color: #222;
+}
+
+.c10:hover {
+  border-bottom-color: #666;
+}
+
+.c10.c10.c10:focus,
+.c10.c10.c10:active {
+  border-bottom-color: #0A7BC2;
+}
+
+.c10:disabled {
+  border-bottom-color: #CCC;
+  cursor: not-allowed;
+}
+
+.c8 {
+  position: relative;
+}
+
+.c8:hover {
+  border-bottom-color: #666;
+}
+
+.c8:hover .c7:focus,
+.c8:hover .c8:active {
+  border-bottom-color: #0A7BC2;
+}
+
+.c8:hover .c7:disabled {
+  border-bottom-color: #CCC;
+  cursor: not-allowed;
+}
+
+.c8 .c17 {
+  padding: 0;
+}
+
+.c11 {
+  display: none;
+  position: absolute;
+  bottom: 10px;
+  right: 0;
+}
+
+.c11.c11 {
+  opacity: 1;
+  stroke: #D24A1D;
+}
+
+.c16 {
+  fill: currentColor;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: end;
+  -webkit-justify-content: flex-end;
+  -ms-flex-pack: end;
+  justify-content: flex-end;
+  margin-bottom: 24px;
+  width: 100%;
+}
+
+.c2 .c3 {
+  width: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c2 .c7 {
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+}
+
+.c2 .c18 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0 15px 0 0;
+}
+
+.c2 .c9 {
+  -webkit-align-self: flex-end;
+  -ms-flex-item-align: end;
+  align-self: flex-end;
+  padding-right: 0;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.c1 .c3 {
+  margin: 0;
+}
+
+.c1 .c9 {
+  font-size: 30px;
+}
+
+.c1 > .c15 {
+  display: block;
+  margin-left: 8px;
+  cursor: pointer;
+}
+
+.c0 {
+  font-weight: normal;
+  margin: 0;
+  color: #0A7BC2;
+}
+
+.c13 {
+  display: inline-block;
+  position: absolute;
+  right: 0;
+  top: 12px;
+  cursor: pointer;
+  z-index: 2;
+  background: #fff;
+}
+
+@media only screen and (min-width:37.37em) {
+  .c1 {
+    display: block;
+    margin-bottom: 31px;
+  }
+
+  .c1 > .c15 {
+    display: none;
+  }
+}
+
+@media only screen and (max-width:37.31em) {
+  .c13 {
+    display: none;
+  }
+}
+
+<SearchInput
+  clearSuggestions={[MockFunction]}
+  isEmptySearchField={true}
+  locale="en-US"
+  onActionableSearch={[MockFunction]}
+  onFilterIconClick={[MockFunction]}
+  onManualSearch={[MockFunction]}
+  onResetSearchBar={[MockFunction]}
+  onSearch={[MockFunction]}
+  placeholder=""
+  typeahead={true}
+>
+  <EnsureDefaultTheme>
+    <ThemeProvider
+      theme={[Function]}
+    >
+      <search-bar__Headline>
+        <StyledComponent
+          forwardedComponent={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": Array [],
+              "componentStyle": ComponentStyle {
+                "componentId": "search-bar__Headline-sc-109c13d-1",
+                "isStatic": false,
+                "lastClassName": "c0",
+                "rules": Array [
+                  "font-weight:normal;margin:0;color:",
+                  [Function],
+                  ";",
+                ],
+              },
+              "displayName": "search-bar__Headline",
+              "foldedComponentIds": Array [],
+              "render": [Function],
+              "styledComponentId": "search-bar__Headline-sc-109c13d-1",
+              "target": "h3",
+              "toString": [Function],
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+        >
+          <h3
+            className="c0"
+          >
+            Search for
+          </h3>
+        </StyledComponent>
+      </search-bar__Headline>
+      <search-bar__InputContainer>
+        <StyledComponent
+          forwardedComponent={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": Array [],
+              "componentStyle": ComponentStyle {
+                "componentId": "search-bar__InputContainer-sc-109c13d-5",
+                "isStatic": true,
+                "lastClassName": "iHdKKF",
+                "rules": Array [],
+              },
+              "displayName": "search-bar__InputContainer",
+              "foldedComponentIds": Array [],
+              "render": [Function],
+              "styledComponentId": "search-bar__InputContainer-sc-109c13d-5",
+              "target": "div",
+              "toString": [Function],
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+        >
+          <div
+            className=""
+          >
+            <search-bar__StyledSearchBar
+              clearSuggestions={[MockFunction]}
+              icon={
+                <React.Fragment>
+                  <ForwardRef
+                    name="search"
+                    onClick={[Function]}
+                    opacity="complete"
+                    size="giant"
+                  />
+                </React.Fragment>
+              }
+              isEmptySearchField={true}
+              locale="en-US"
+              onActionableSearch={[MockFunction]}
+              onFilterIconClick={[MockFunction]}
+              onManualSearch={[MockFunction]}
+              onResetSearchBar={[MockFunction]}
+              onSearch={[MockFunction]}
+              placeholder=""
+              typeahead={true}
+            >
+              <StyledComponent
+                clearSuggestions={[MockFunction]}
+                forwardedComponent={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": Array [],
+                    "componentStyle": ComponentStyle {
+                      "componentId": "search-bar__StyledSearchBar-sc-109c13d-0",
+                      "isStatic": true,
+                      "lastClassName": "c1",
+                      "rules": Array [
+                        "display:flex;align-items:center;",
+                        ".c3",
+                        "{margin:0;}",
+                        ".c9",
+                        "{font-size:30px;}> ",
+                        ".c15",
+                        "{display:block;margin-left:8px;cursor:pointer;}",
+                        "@media only screen and (min-width:37.37em){",
+                        "
+		display: block;
+		margin-bottom: 31px;
+
+		> ",
+                        ".c15",
+                        " {
+			display: none;
+		}
+	",
+                        "}",
+                      ],
+                    },
+                    "displayName": "search-bar__StyledSearchBar",
+                    "foldedComponentIds": Array [],
+                    "render": [Function],
+                    "styledComponentId": "search-bar__StyledSearchBar-sc-109c13d-0",
+                    "target": [Function],
+                    "toString": [Function],
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                    Symbol(Symbol.hasInstance): [Function],
+                  }
+                }
+                forwardedRef={null}
+                icon={
+                  <React.Fragment>
+                    <ForwardRef
+                      name="search"
+                      onClick={[Function]}
+                      opacity="complete"
+                      size="giant"
+                    />
+                  </React.Fragment>
+                }
+                isEmptySearchField={true}
+                locale="en-US"
+                onActionableSearch={[MockFunction]}
+                onFilterIconClick={[MockFunction]}
+                onManualSearch={[MockFunction]}
+                onResetSearchBar={[MockFunction]}
+                onSearch={[MockFunction]}
+                placeholder=""
+                typeahead={true}
+              >
+                <SearchBar
+                  className="c1"
+                  clearSuggestions={[MockFunction]}
+                  icon={
+                    <React.Fragment>
+                      <ForwardRef
+                        name="search"
+                        onClick={[Function]}
+                        opacity="complete"
+                        size="giant"
+                      />
+                    </React.Fragment>
+                  }
+                  isEmptySearchField={true}
+                  locale="en-US"
+                  onActionableSearch={[MockFunction]}
+                  onFilterIconClick={[MockFunction]}
+                  onManualSearch={[MockFunction]}
+                  onResetSearchBar={[MockFunction]}
+                  onSearch={[MockFunction]}
+                  placeholder=""
+                  typeahead={true}
+                >
+                  <EnsureDefaultTheme>
+                    <ThemeProvider
+                      theme={[Function]}
+                    >
+                      <SearchBar__SearchBarWrapper
+                        className="js_searchbar c1"
+                      >
+                        <StyledComponent
+                          className="js_searchbar c1"
+                          forwardedComponent={
+                            Object {
+                              "$$typeof": Symbol(react.forward_ref),
+                              "attrs": Array [],
+                              "componentStyle": ComponentStyle {
+                                "componentId": "SearchBar__SearchBarWrapper-sc-1vrprhi-0",
+                                "isStatic": true,
+                                "lastClassName": "c2",
+                                "rules": Array [
+                                  "display:flex;justify-content:flex-end;margin-bottom:24px;width:100%;",
+                                  ".c3",
+                                  "{width:100%;display:flex;}",
+                                  ".c7",
+                                  "{flex:1;}",
+                                  ".c18",
+                                  "{display:flex;margin:0 15px 0 0;}",
+                                  ".c9",
+                                  "{align-self:flex-end;padding-right:0;}",
+                                ],
+                              },
+                              "displayName": "SearchBar__SearchBarWrapper",
+                              "foldedComponentIds": Array [],
+                              "render": [Function],
+                              "styledComponentId": "SearchBar__SearchBarWrapper-sc-1vrprhi-0",
+                              "target": "div",
+                              "toString": [Function],
+                              "warnTooManyClasses": [Function],
+                              "withComponent": [Function],
+                            }
+                          }
+                          forwardedRef={null}
+                        >
+                          <div
+                            className="js_searchbar c1 c2"
+                          >
+                            <Textfield18
+                              blogTheme="default"
+                              customIcon={
+                                <React.Fragment>
+                                  <ForwardRef
+                                    name="search"
+                                    onClick={[Function]}
+                                    opacity="complete"
+                                    size="giant"
+                                  />
+                                </React.Fragment>
+                              }
+                              fullWidth={true}
+                              name="search-bar"
+                              onChange={[Function]}
+                              onKeyDown={[Function]}
+                              placeholder=""
+                              value=""
+                            >
+                              <Theme
+                                blog="default"
+                                theme={
+                                  Object {
+                                    "breakpointBanner": "969px",
+                                    "breakpointMedium": "53.125em",
+                                    "color": Object {
+                                      "alert": "#EEB544",
+                                      "amazon": "#F5C056",
+                                      "backgroundLayer": "rgba(0,0,0,0.45)",
+                                      "backgroundLight": "#F5F5F5",
+                                      "black": "#000",
+                                      "blackOverlay": "rgba(0,0,0,0.7)",
+                                      "bodytext": "#222",
+                                      "commerce": "#72AD75",
+                                      "darkBlackOverlay": "rgba(0,0,0,0.9)",
+                                      "darkgray": "#666",
+                                      "darksmoke": "#222",
+                                      "error": "#D24A1D",
+                                      "facebook": "#3B5998",
+                                      "foregroundLayer": "rgba(0,0,0,0.4)",
+                                      "google": "#DB4437",
+                                      "gray": "#7D7D7D",
+                                      "instagram": "#C32AA3",
+                                      "lightgray": "#E5E5E5",
+                                      "linkedin": "#0077B5",
+                                      "logo": "#000",
+                                      "midgray": "#CCC",
+                                      "primary": "#0A7BC2",
+                                      "primaryLight": "#0C91E4",
+                                      "rss": "#7D7D7D",
+                                      "secondarytext": "#7D7D7D",
+                                      "success": "#23891F",
+                                      "twitter": "#1DA1F2",
+                                      "white": "#FFF",
+                                      "whiteOverlay": "rgba(255,255,255,0.7)",
+                                      "whitesmoke": "#F5F5F5",
+                                      "youtube": "#FF0000",
+                                    },
+                                    "columnGutter": "2.25rem",
+                                    "columnGutter19": Object {
+                                      "largeUp": "1.5rem",
+                                      "small19": "1rem",
+                                      "xlargeUp": "2rem",
+                                    },
+                                    "columnPadding": "1.125rem",
+                                    "columnPadding19": Object {
+                                      "largeUp": "0.75rem",
+                                      "small19": "0.5rem",
+                                      "xlargeUp": "1rem",
+                                    },
+                                    "featuredContentWidth": "1024px",
+                                    "font": Object {
+                                      "body": "ElizabethSerif, Georgia, serif",
+                                      "embiggenedHeadlineSize": "34px",
+                                      "headline": "ProximaNovaCond, sans-serif",
+                                      "headlineLineHeight": "1.3",
+                                      "headlineSize": "24px",
+                                      "primary": "ProximaNovaCond, sans-serif",
+                                      "serif": "ElizabethSerif, Georgia, serif",
+                                      "tertiary": "FiraSans, sans-serif",
+                                      "utility": "ProximaNovaCond, sans-serif",
+                                    },
+                                    "globalNavHeight": "80px",
+                                    "linkTransition": "0.1s ease-out",
+                                    "mainContainerWidth": "66.5%",
+                                    "mainContentMaxWidth": "800px",
+                                    "pageWidth": "1336px",
+                                    "postContentMaxWidth": "636px",
+                                    "scrollbackNavHeight": "60px",
+                                    "sidebarContainerWidth": "33.5%",
+                                    "sidebarContentMaxWidth": "360px",
+                                    "sidebarContentMinWidth": "300px",
+                                    "slideshowTransitionDuration": "0.2s",
+                                  }
+                                }
+                              >
+                                <ThemeProvider
+                                  theme={
+                                    Object {
+                                      "blog": "default",
+                                      "breakpointBanner": "969px",
+                                      "breakpointMedium": "53.125em",
+                                      "color": Object {
+                                        "alert": "#EEB544",
+                                        "amazon": "#F5C056",
+                                        "backgroundLayer": "rgba(0,0,0,0.45)",
+                                        "backgroundLight": "#F5F5F5",
+                                        "black": "#000",
+                                        "blackOverlay": "rgba(0,0,0,0.7)",
+                                        "bodytext": "#222",
+                                        "commerce": "#72AD75",
+                                        "darkBlackOverlay": "rgba(0,0,0,0.9)",
+                                        "darkgray": "#666",
+                                        "darksmoke": "#222",
+                                        "error": "#D24A1D",
+                                        "facebook": "#3B5998",
+                                        "foregroundLayer": "rgba(0,0,0,0.4)",
+                                        "google": "#DB4437",
+                                        "gray": "#7D7D7D",
+                                        "instagram": "#C32AA3",
+                                        "lightgray": "#E5E5E5",
+                                        "linkedin": "#0077B5",
+                                        "logo": "#000",
+                                        "midgray": "#CCC",
+                                        "primary": "#0A7BC2",
+                                        "primaryLight": "#0C91E4",
+                                        "rss": "#7D7D7D",
+                                        "secondarytext": "#7D7D7D",
+                                        "success": "#23891F",
+                                        "twitter": "#1DA1F2",
+                                        "white": "#FFF",
+                                        "whiteOverlay": "rgba(255,255,255,0.7)",
+                                        "whitesmoke": "#F5F5F5",
+                                        "youtube": "#FF0000",
+                                      },
+                                      "columnGutter": "2.25rem",
+                                      "columnGutter19": Object {
+                                        "largeUp": "1.5rem",
+                                        "small19": "1rem",
+                                        "xlargeUp": "2rem",
+                                      },
+                                      "columnPadding": "1.125rem",
+                                      "columnPadding19": Object {
+                                        "largeUp": "0.75rem",
+                                        "small19": "0.5rem",
+                                        "xlargeUp": "1rem",
+                                      },
+                                      "featuredContentWidth": "1024px",
+                                      "font": Object {
+                                        "body": "ElizabethSerif, Georgia, serif",
+                                        "embiggenedHeadlineSize": "34px",
+                                        "headline": "ProximaNovaCond, sans-serif",
+                                        "headlineLineHeight": "1.3",
+                                        "headlineSize": "24px",
+                                        "primary": "ProximaNovaCond, sans-serif",
+                                        "serif": "ElizabethSerif, Georgia, serif",
+                                        "tertiary": "FiraSans, sans-serif",
+                                        "utility": "ProximaNovaCond, sans-serif",
+                                      },
+                                      "globalNavHeight": "80px",
+                                      "linkTransition": "0.1s ease-out",
+                                      "mainContainerWidth": "66.5%",
+                                      "mainContentMaxWidth": "800px",
+                                      "pageWidth": "1336px",
+                                      "postContentMaxWidth": "636px",
+                                      "scrollbackNavHeight": "60px",
+                                      "sidebarContainerWidth": "33.5%",
+                                      "sidebarContentMaxWidth": "360px",
+                                      "sidebarContentMinWidth": "300px",
+                                      "slideshowTransitionDuration": "0.2s",
+                                    }
+                                  }
+                                >
+                                  <textfield__KinjaFormFieldWrapper>
+                                    <StyledComponent
+                                      forwardedComponent={
+                                        Object {
+                                          "$$typeof": Symbol(react.forward_ref),
+                                          "attrs": Array [],
+                                          "componentStyle": ComponentStyle {
+                                            "componentId": "c3",
+                                            "isStatic": false,
+                                            "lastClassName": "c4",
+                                            "rules": Array [
+                                              "margin-bottom:30px;flex-basis:100%;&:hover{",
+                                              ".c5",
+                                              "{color:",
+                                              [Function],
+                                              ";}}&:focus-within{",
+                                              ".c5",
+                                              "{color:",
+                                              [Function],
+                                              ";}}",
+                                              [Function],
+                                            ],
+                                          },
+                                          "displayName": "textfield__KinjaFormFieldWrapper",
+                                          "foldedComponentIds": Array [],
+                                          "render": [Function],
+                                          "styledComponentId": "c3",
+                                          "target": "div",
+                                          "toString": [Function],
+                                          "warnTooManyClasses": [Function],
+                                          "withComponent": [Function],
+                                        }
+                                      }
+                                      forwardedRef={null}
+                                    >
+                                      <div
+                                        className="c3 c4"
+                                      >
+                                        <textfield__KinjaLabel
+                                          htmlFor="search-bar"
+                                        >
+                                          <StyledComponent
+                                            forwardedComponent={
+                                              Object {
+                                                "$$typeof": Symbol(react.forward_ref),
+                                                "attrs": Array [],
+                                                "componentStyle": ComponentStyle {
+                                                  "componentId": "c5",
+                                                  "isStatic": false,
+                                                  "lastClassName": "c6",
+                                                  "rules": Array [
+                                                    "&&{color:",
+                                                    [Function],
+                                                    ";font-size:16px;line-height:21px;}",
+                                                  ],
+                                                },
+                                                "displayName": "textfield__KinjaLabel",
+                                                "foldedComponentIds": Array [],
+                                                "render": [Function],
+                                                "styledComponentId": "c5",
+                                                "target": "label",
+                                                "toString": [Function],
+                                                "warnTooManyClasses": [Function],
+                                                "withComponent": [Function],
+                                              }
+                                            }
+                                            forwardedRef={null}
+                                            htmlFor="search-bar"
+                                          >
+                                            <label
+                                              className="c5 c6"
+                                              htmlFor="search-bar"
+                                            />
+                                          </StyledComponent>
+                                        </textfield__KinjaLabel>
+                                        <textfield__KinjaTextFieldWrapper>
+                                          <StyledComponent
+                                            forwardedComponent={
+                                              Object {
+                                                "$$typeof": Symbol(react.forward_ref),
+                                                "attrs": Array [],
+                                                "componentStyle": ComponentStyle {
+                                                  "componentId": "c7",
+                                                  "isStatic": false,
+                                                  "lastClassName": "c8",
+                                                  "rules": Array [
+                                                    "position:relative;&:hover{border-bottom-color:",
+                                                    [Function],
+                                                    ";}&:hover &:focus,&:hover &:active{border-bottom-color:",
+                                                    [Function],
+                                                    ";}&:hover &:disabled{border-bottom-color:",
+                                                    [Function],
+                                                    ";cursor:not-allowed;}",
+                                                    ".c17",
+                                                    "{padding:0;}",
+                                                    ".c17",
+                                                    "{",
+                                                    [Function],
+                                                    "}",
+                                                  ],
+                                                },
+                                                "displayName": "textfield__KinjaTextFieldWrapper",
+                                                "foldedComponentIds": Array [],
+                                                "render": [Function],
+                                                "styledComponentId": "c7",
+                                                "target": "div",
+                                                "toString": [Function],
+                                                "warnTooManyClasses": [Function],
+                                                "withComponent": [Function],
+                                              }
+                                            }
+                                            forwardedRef={null}
+                                          >
+                                            <div
+                                              className="c7 c8"
+                                            >
+                                              <textfield__KinjaTextField
+                                                fullWidth={true}
+                                                id="search-bar"
+                                                name="search-bar"
+                                                onChange={[Function]}
+                                                onKeyDown={[Function]}
+                                                placeholder=""
+                                                type="text"
+                                                value=""
+                                              >
+                                                <StyledComponent
+                                                  forwardedComponent={
+                                                    Object {
+                                                      "$$typeof": Symbol(react.forward_ref),
+                                                      "attrs": Array [],
+                                                      "componentStyle": ComponentStyle {
+                                                        "componentId": "c9",
+                                                        "isStatic": false,
+                                                        "lastClassName": "c10",
+                                                        "rules": Array [
+                                                          "&&{border-bottom:1px solid ",
+                                                          [Function],
+                                                          ";color:",
+                                                          [Function],
+                                                          " !important;font-size:18px;line-height:23px;padding:6px ",
+                                                          [Function],
+                                                          ";width:100%;}&&&:hover,&&&:active,&&&:focus{color:",
+                                                          [Function],
+                                                          ";}&:hover{border-bottom-color:",
+                                                          [Function],
+                                                          ";}&&&:focus,&&&:active{border-bottom-color:",
+                                                          [Function],
+                                                          ";}&:disabled{border-bottom-color:",
+                                                          [Function],
+                                                          ";cursor:not-allowed;}",
+                                                          ";",
+                                                        ],
+                                                      },
+                                                      "displayName": "textfield__KinjaTextField",
+                                                      "foldedComponentIds": Array [],
+                                                      "render": [Function],
+                                                      "styledComponentId": "c9",
+                                                      "target": "input",
+                                                      "toString": [Function],
+                                                      "warnTooManyClasses": [Function],
+                                                      "withComponent": [Function],
+                                                    }
+                                                  }
+                                                  forwardedRef={null}
+                                                  fullWidth={true}
+                                                  id="search-bar"
+                                                  name="search-bar"
+                                                  onChange={[Function]}
+                                                  onKeyDown={[Function]}
+                                                  placeholder=""
+                                                  type="text"
+                                                  value=""
+                                                >
+                                                  <input
+                                                    className="c9 c10"
+                                                    id="search-bar"
+                                                    name="search-bar"
+                                                    onChange={[Function]}
+                                                    onKeyDown={[Function]}
+                                                    placeholder=""
+                                                    type="text"
+                                                    value=""
+                                                  />
+                                                </StyledComponent>
+                                              </textfield__KinjaTextField>
+                                              <textfield__KinjaTextFieldIcon
+                                                name="error"
+                                              >
+                                                <StyledComponent
+                                                  forwardedComponent={
+                                                    Object {
+                                                      "$$typeof": Symbol(react.forward_ref),
+                                                      "attrs": Array [],
+                                                      "componentStyle": ComponentStyle {
+                                                        "componentId": "textfield__KinjaTextFieldIcon-sc-1a9gghc-5",
+                                                        "isStatic": false,
+                                                        "lastClassName": "c11",
+                                                        "rules": Array [
+                                                          "display:",
+                                                          [Function],
+                                                          ";position:absolute;bottom:10px;right:0;&&{opacity:1;stroke:",
+                                                          [Function],
+                                                          ";}",
+                                                        ],
+                                                      },
+                                                      "displayName": "textfield__KinjaTextFieldIcon",
+                                                      "foldedComponentIds": Array [],
+                                                      "render": [Function],
+                                                      "styledComponentId": "textfield__KinjaTextFieldIcon-sc-1a9gghc-5",
+                                                      "target": [Function],
+                                                      "toString": [Function],
+                                                      "warnTooManyClasses": [Function],
+                                                      "withComponent": [Function],
+                                                      Symbol(Symbol.hasInstance): [Function],
+                                                    }
+                                                  }
+                                                  forwardedRef={null}
+                                                  name="error"
+                                                >
+                                                  <Icon
+                                                    className="c11"
+                                                    name="error"
+                                                  >
+                                                    <EnsureDefaultTheme>
+                                                      <ThemeProvider
+                                                        theme={[Function]}
+                                                      >
+                                                        <icon__IconSVG
+                                                          aria-label="error icon"
+                                                          className="c11"
+                                                          name="error"
+                                                        >
+                                                          <StyledComponent
+                                                            aria-label="error icon"
+                                                            className="c11"
+                                                            forwardedComponent={
+                                                              Object {
+                                                                "$$typeof": Symbol(react.forward_ref),
+                                                                "attrs": Array [],
+                                                                "componentStyle": ComponentStyle {
+                                                                  "componentId": "icon__IconSVG-sc-1rlybe8-0",
+                                                                  "isStatic": false,
+                                                                  "lastClassName": "c14",
+                                                                  "rules": Array [
+                                                                    "display:inline-block;vertical-align:middle;fill:none;stroke-width:",
+                                                                    [Function],
+                                                                    ";stroke-linecap:",
+                                                                    [Function],
+                                                                    ";stroke-linejoin:",
+                                                                    [Function],
+                                                                    ";stroke:",
+                                                                    [Function],
+                                                                    ";opacity:",
+                                                                    [Function],
+                                                                    ";height:",
+                                                                    [Function],
+                                                                    ";width:",
+                                                                    [Function],
+                                                                    ";transform:",
+                                                                    [Function],
+                                                                    " ",
+                                                                    [Function],
+                                                                    ";",
+                                                                    [Function],
+                                                                    " ",
+                                                                    [Function],
+                                                                    " ",
+                                                                    [Function],
+                                                                    " ",
+                                                                    [Function],
+                                                                    " ",
+                                                                    [Function],
+                                                                    " ",
+                                                                    [Function],
+                                                                  ],
+                                                                },
+                                                                "displayName": "icon__IconSVG",
+                                                                "foldedComponentIds": Array [],
+                                                                "render": [Function],
+                                                                "styledComponentId": "icon__IconSVG-sc-1rlybe8-0",
+                                                                "target": "svg",
+                                                                "toString": [Function],
+                                                                "warnTooManyClasses": [Function],
+                                                                "withComponent": [Function],
+                                                              }
+                                                            }
+                                                            forwardedRef={null}
+                                                            name="error"
+                                                          >
+                                                            <svg
+                                                              aria-label="error icon"
+                                                              className="c11 c12"
+                                                              name="error"
+                                                            >
+                                                              <use
+                                                                xlinkHref="#iconset-error"
+                                                              />
+                                                            </svg>
+                                                          </StyledComponent>
+                                                        </icon__IconSVG>
+                                                      </ThemeProvider>
+                                                    </EnsureDefaultTheme>
+                                                  </Icon>
+                                                </StyledComponent>
+                                              </textfield__KinjaTextFieldIcon>
+                                              <search-bar__SearchIconElem
+                                                name="search"
+                                                onClick={[Function]}
+                                                opacity="complete"
+                                                size="giant"
+                                              >
+                                                <StyledComponent
+                                                  forwardedComponent={
+                                                    Object {
+                                                      "$$typeof": Symbol(react.forward_ref),
+                                                      "attrs": Array [],
+                                                      "componentStyle": ComponentStyle {
+                                                        "componentId": "search-bar__SearchIconElem-sc-109c13d-3",
+                                                        "isStatic": true,
+                                                        "lastClassName": "c13",
+                                                        "rules": Array [
+                                                          "display:inline-block;position:absolute;right:0;top:12px;cursor:pointer;z-index:2;background:#fff;",
+                                                          "@media only screen and (max-width:37.31em){",
+                                                          "
+		display: none;
+	",
+                                                          "}",
+                                                        ],
+                                                      },
+                                                      "displayName": "search-bar__SearchIconElem",
+                                                      "foldedComponentIds": Array [
+                                                        "search-bar__IconElem-sc-109c13d-2",
+                                                      ],
+                                                      "render": [Function],
+                                                      "styledComponentId": "search-bar__SearchIconElem-sc-109c13d-3",
+                                                      "target": [Function],
+                                                      "toString": [Function],
+                                                      "warnTooManyClasses": [Function],
+                                                      "withComponent": [Function],
+                                                      Symbol(Symbol.hasInstance): [Function],
+                                                    }
+                                                  }
+                                                  forwardedRef={null}
+                                                  name="search"
+                                                  onClick={[Function]}
+                                                  opacity="complete"
+                                                  size="giant"
+                                                >
+                                                  <Icon
+                                                    className="c13"
+                                                    name="search"
+                                                    onClick={[Function]}
+                                                    opacity="complete"
+                                                    size="giant"
+                                                  >
+                                                    <EnsureDefaultTheme>
+                                                      <ThemeProvider
+                                                        theme={[Function]}
+                                                      >
+                                                        <icon__IconSVG
+                                                          aria-label="search icon"
+                                                          className="c13"
+                                                          name="search"
+                                                          onClick={[Function]}
+                                                          opacity="complete"
+                                                          size="giant"
+                                                        >
+                                                          <StyledComponent
+                                                            aria-label="search icon"
+                                                            className="c13"
+                                                            forwardedComponent={
+                                                              Object {
+                                                                "$$typeof": Symbol(react.forward_ref),
+                                                                "attrs": Array [],
+                                                                "componentStyle": ComponentStyle {
+                                                                  "componentId": "icon__IconSVG-sc-1rlybe8-0",
+                                                                  "isStatic": false,
+                                                                  "lastClassName": "c14",
+                                                                  "rules": Array [
+                                                                    "display:inline-block;vertical-align:middle;fill:none;stroke-width:",
+                                                                    [Function],
+                                                                    ";stroke-linecap:",
+                                                                    [Function],
+                                                                    ";stroke-linejoin:",
+                                                                    [Function],
+                                                                    ";stroke:",
+                                                                    [Function],
+                                                                    ";opacity:",
+                                                                    [Function],
+                                                                    ";height:",
+                                                                    [Function],
+                                                                    ";width:",
+                                                                    [Function],
+                                                                    ";transform:",
+                                                                    [Function],
+                                                                    " ",
+                                                                    [Function],
+                                                                    ";",
+                                                                    [Function],
+                                                                    " ",
+                                                                    [Function],
+                                                                    " ",
+                                                                    [Function],
+                                                                    " ",
+                                                                    [Function],
+                                                                    " ",
+                                                                    [Function],
+                                                                    " ",
+                                                                    [Function],
+                                                                  ],
+                                                                },
+                                                                "displayName": "icon__IconSVG",
+                                                                "foldedComponentIds": Array [],
+                                                                "render": [Function],
+                                                                "styledComponentId": "icon__IconSVG-sc-1rlybe8-0",
+                                                                "target": "svg",
+                                                                "toString": [Function],
+                                                                "warnTooManyClasses": [Function],
+                                                                "withComponent": [Function],
+                                                              }
+                                                            }
+                                                            forwardedRef={null}
+                                                            name="search"
+                                                            onClick={[Function]}
+                                                            opacity="complete"
+                                                            size="giant"
+                                                          >
+                                                            <svg
+                                                              aria-label="search icon"
+                                                              className="c13 c14"
+                                                              name="search"
+                                                              onClick={[Function]}
+                                                              opacity="complete"
+                                                              size="giant"
+                                                            >
+                                                              <use
+                                                                xlinkHref="#iconset-search"
+                                                              />
+                                                            </svg>
+                                                          </StyledComponent>
+                                                        </icon__IconSVG>
+                                                      </ThemeProvider>
+                                                    </EnsureDefaultTheme>
+                                                  </Icon>
+                                                </StyledComponent>
+                                              </search-bar__SearchIconElem>
+                                            </div>
+                                          </StyledComponent>
+                                        </textfield__KinjaTextFieldWrapper>
+                                      </div>
+                                    </StyledComponent>
+                                  </textfield__KinjaFormFieldWrapper>
+                                </ThemeProvider>
+                              </Theme>
+                            </Textfield18>
+                          </div>
+                        </StyledComponent>
+                      </SearchBar__SearchBarWrapper>
+                    </ThemeProvider>
+                  </EnsureDefaultTheme>
+                </SearchBar>
+              </StyledComponent>
+            </search-bar__StyledSearchBar>
+            <SettingsIcon
+              onClick={[MockFunction]}
+            >
+              <Icon19
+                onClick={[MockFunction]}
+              >
+                <icon19__IconWrapper
+                  onClick={[MockFunction]}
+                >
+                  <StyledComponent
+                    forwardedComponent={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": Array [],
+                        "componentStyle": ComponentStyle {
+                          "componentId": "c15",
+                          "isStatic": true,
+                          "lastClassName": "c16",
+                          "rules": Array [
+                            "fill:currentColor;display:flex;",
+                          ],
+                        },
+                        "displayName": "icon19__IconWrapper",
+                        "foldedComponentIds": Array [],
+                        "render": [Function],
+                        "styledComponentId": "c15",
+                        "target": "span",
+                        "toString": [Function],
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                    onClick={[MockFunction]}
+                  >
+                    <span
+                      className="c15 c16"
+                      onClick={[MockFunction]}
+                    >
+                      <Settings
+                        aria-label="Settings icon"
+                        height="18"
+                        viewBox="0 0 18 18"
+                        width="18"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <svg
+                          aria-label="Settings icon"
+                          height="18"
+                          viewBox="0 0 18 18"
+                          width="18"
+                          xmlns="http://www.w3.org/2000/svg"
+                        >
+                          <path
+                            d="M14 8v8.5a.5.5 0 1 1-1 0V7.9a2.5 2.5 0 0 1 0-4.8V1.5a.5.5 0 1 1 1 0v1.6a2.5 2.5 0 0 1 0 4.8zm-5 6v2.5a.5.5 0 1 1-1 0v-2.6a2.5 2.5 0 0 1 0-4.8V1.5a.5.5 0 0 1 1 0v7.6a2.5 2.5 0 0 1 0 4.8zM4 8v8.5a.5.5 0 1 1-1 0V7.9a2.5 2.5 0 0 1 0-4.8V1.5a.5.5 0 0 1 1 0v1.6a2.5 2.5 0 0 1 0 4.8zm-.5-1a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3zm5 6a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3zm5-6a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3z"
+                            fillRule="evenodd"
+                          />
+                        </svg>
+                      </Settings>
+                    </span>
+                  </StyledComponent>
+                </icon19__IconWrapper>
+              </Icon19>
+            </SettingsIcon>
+          </div>
+        </StyledComponent>
+      </search-bar__InputContainer>
+    </ThemeProvider>
+  </EnsureDefaultTheme>
+</SearchInput>
+`;

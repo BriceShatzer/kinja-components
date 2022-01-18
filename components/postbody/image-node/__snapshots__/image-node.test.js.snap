@@ -1,0 +1,328 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ImageNode /> should render a default image 1`] = `
+.c5 {
+  fill: currentColor;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c4 {
+  position: absolute;
+  top: 8px;
+  z-index: 1;
+  opacity: 0;
+  width: 32px;
+  height: 32px;
+  border-radius: 5px;
+  cursor: pointer;
+  -webkit-transition: 0.4s opacity;
+  transition: 0.4s opacity;
+  background: rgba(0,0,0,0.7);
+  pointer-events: none;
+  left: 8px;
+}
+
+.c4:hover {
+  opacity: 1;
+}
+
+.c4 svg {
+  position: relative;
+  display: block;
+  margin: auto;
+  color: #FFF;
+  opacity: 0.5;
+  top: 7px;
+}
+
+.c2 {
+  clear: both;
+  display: block;
+  cursor: pointer;
+}
+
+.c2:hover .lightbox {
+  opacity: 1;
+}
+
+.c0 {
+  position: relative;
+  margin: 0 0 1.5rem;
+}
+
+.c0:hover .c3 {
+  opacity: 1;
+}
+
+.c1 {
+  position: relative;
+  overflow: hidden;
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.c6 {
+  position: relative;
+  background-color: #f5f5f5;
+}
+
+.c6 video {
+  position: absolute;
+  width: 100%;
+  height: auto;
+}
+
+.c6 img {
+  position: absolute;
+  width: 100%;
+}
+
+@media only screen and (max-width:37.31em) {
+  .c0 {
+    max-width: 100% !important;
+    margin: 0 auto 1.5rem !important;
+  }
+}
+
+@media only screen and (min-width:37.37em) {
+  .c0 {
+    max-width: 636px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+<figure
+  class="align--center js_marquee-assetfigure c0"
+  contenteditable="false"
+  data-format="jpg"
+  data-height="443"
+  data-id="test_image_id"
+  data-lightbox="true"
+  data-recommend-id="image://test_image_id"
+  data-recommended="false"
+  data-width="800"
+  draggable="false"
+>
+  <div
+    class="img-wrapper c1"
+    contenteditable="false"
+    data-syndicationrights="false"
+    style="max-width: 800px;"
+  >
+    <span
+      class="js_lightbox-wrapper c2"
+    >
+      <div
+        class="magnifier js_lightbox lightbox hide c3 c4"
+      >
+        <span
+          class="c5"
+        >
+          <svg
+            aria-label="ZoomIn icon"
+            height="18"
+            viewBox="0 0 18 18"
+            width="18"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M10.5 1a6.5 6.5 0 1 1-4.23 11.44l-4.42 4.41a.5.5 0 0 1-.7-.7l4.41-4.42A6.5 6.5 0 0 1 10.5 1zm0 1a5.5 5.5 0 1 0 0 11 5.5 5.5 0 0 0 0-11zm0 2c.28 0 .5.22.5.5V7h2.5a.5.5 0 0 1 .5.41v.09a.5.5 0 0 1-.5.5H11v2.5a.5.5 0 0 1-.41.5h-.09a.5.5 0 0 1-.5-.5V8H7.5a.5.5 0 0 1-.5-.41V7.5c0-.28.22-.5.5-.5H10V4.5a.5.5 0 0 1 .41-.5z"
+              fill-rule="evenodd"
+            />
+          </svg>
+        </span>
+      </div>
+      <div
+        class="image-hydration-wrapper c6"
+        style="padding-bottom: 55.4%;"
+      >
+        <div>
+          <img
+            data-anim-src=""
+            data-chomp-id="test_image_id"
+            data-format="jpg"
+            draggable="auto"
+            src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            srcset="https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_80,q_80,w_80/test_image_id.jpg 80w, https://i.kinja-img.com/gawker-media/image/upload/c_fit,fl_progressive,q_80,w_320/test_image_id.jpg 320w, https://i.kinja-img.com/gawker-media/image/upload/c_fit,f_auto,fl_progressive,q_80,w_470/test_image_id.jpg 470w, https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,q_80,w_800/test_image_id.jpg 800w"
+          />
+        </div>
+      </div>
+    </span>
+  </div>
+  <span
+    class="js_recommend"
+    data-format="jpg"
+    data-height="443"
+    data-id="test_image_id"
+    data-lightbox="true"
+    data-recommend-id="image://test_image_id"
+    data-recommended="false"
+    data-width="800"
+  />
+</figure>
+`;
+
+exports[`<ImageNode /> should render in the editor 1`] = `
+.c0 {
+  position: relative;
+  margin: 0 0 1.5rem;
+  position: relative;
+  width: auto;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 1.5rem;
+}
+
+.c0:hover .c2 {
+  opacity: 1;
+}
+
+.c0 img:hover {
+  outline: 1px solid #FFF;
+  outline-offset: -1px;
+}
+
+.c1 {
+  display: inline-block;
+  max-width: 100%;
+}
+
+@media only screen and (max-width:37.31em) {
+  .c0 {
+    max-width: 100% !important;
+    margin: 0 auto 1.5rem !important;
+  }
+}
+
+@media only screen and (min-width:37.37em) {
+  .c0 {
+    max-width: 636px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+@media only screen and (min-width:50em) {
+  .c0 {
+    max-width: 800px;
+  }
+}
+
+<figure
+  class="align--center has-image c0"
+  contenteditable="false"
+  data-format="jpg"
+  data-height="443"
+  data-id="test_image_id"
+  data-lightbox="true"
+  data-recommend-id="image://test_image_id"
+  data-recommended="false"
+  data-width="800"
+  draggable="false"
+>
+  <div
+    class="c1"
+    contenteditable="false"
+    data-syndicationrights="false"
+    style="max-width: 800px;"
+  >
+    <img
+      data-format="jpg"
+      data-height="443"
+      data-id="test_image_id"
+      data-lightbox="true"
+      data-recommend-id="image://test_image_id"
+      data-recommended="false"
+      data-width="800"
+      draggable="false"
+      src="https://i.kinja-img.com/gawker-media/image/upload/f_auto/test_image_id.jpg"
+    />
+  </div>
+</figure>
+`;
+
+exports[`<ImageNode /> with caption should exists with correct props 1`] = `null`;
+
+exports[`<ImageNode /> with caption should render the correct figcaption 1`] = `
+.c0 {
+  margin-top: 0.5rem;
+  font-family: ProximaNovaCond,sans-serif;
+  font-size: 15px;
+  line-height: 21px;
+  color: #7D7D7D;
+  text-align: left;
+}
+
+figcaption + .c0 {
+  margin-top: 0;
+}
+
+<figcaption
+  class="caption c0"
+>
+  Kinja
+</figcaption>
+`;
+
+exports[`<ImageNode /> with image attribution should exists with correct props 1`] = `null`;
+
+exports[`<ImageNode /> with image attribution should render the correct figcaption 1`] = `
+.c0 {
+  margin-top: 0.5rem;
+  font-family: ProximaNovaCond,sans-serif;
+  font-size: 15px;
+  line-height: 21px;
+  color: #7D7D7D;
+}
+
+figcaption + .c0 {
+  margin-top: 0;
+}
+
+<figcaption
+  class="no-caption c0"
+>
+  Photo
+  : 
+  John Doe
+</figcaption>
+`;
+
+exports[`<ImageNode /> with image attribution should render the correct wrapper in the editor 1`] = `
+.c0 {
+  margin-top: 0.5rem;
+  font-family: ProximaNovaCond,sans-serif;
+  font-size: 15px;
+  line-height: 21px;
+  color: #7D7D7D;
+}
+
+figcaption + .c0 {
+  margin-top: 0;
+}
+
+<div
+  class="no-caption popup-attribution updated c0"
+>
+  <span
+    data-label="Photo"
+  >
+    Photo
+    : 
+    <span
+      class="item"
+    >
+      <span
+        class="credit"
+      >
+        John Doe
+      </span>
+    </span>
+  </span>
+</div>
+`;

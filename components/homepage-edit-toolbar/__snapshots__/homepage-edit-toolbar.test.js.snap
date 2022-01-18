@@ -1,0 +1,70 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CurationBlock - HomepageEditToolbar can switch to block editing mode 1`] = `
+Array [
+  "Edit stories",
+  "Edit layout",
+  "Add block",
+  "Undo",
+  "Redo",
+  "Cancel",
+  "Save",
+]
+`;
+
+exports[`CurationBlock - HomepageEditToolbar displays the correct buttons in block editing mode when a STANDARD block is selected 1`] = `
+Array [
+  "Edit stories",
+  "Edit layout",
+  "Add block",
+  "Layout",
+  "Settings",
+  "ArrowTopIcon",
+  "ArrowBottomIcon",
+  "TrashcanIcon",
+  "Undo",
+  "Redo",
+  "Cancel",
+  "Save",
+]
+`;
+
+exports[`CurationBlock - HomepageEditToolbar displays the correct buttons in block editing mode when a block is selected 1`] = `
+Array [
+  "Edit stories",
+  "Edit layout",
+  "Add block",
+  "Layout",
+  "ArrowTopIcon",
+  "ArrowBottomIcon",
+  "TrashcanIcon",
+  "Undo",
+  "Redo",
+  "Cancel",
+  "Save",
+]
+`;
+
+exports[`CurationBlock - HomepageEditToolbar displays the correct buttons in card editing mode when a card is selected 1`] = `
+Array [
+  "Edit stories",
+  "Edit layout",
+  "Change thumbnail",
+  "Remove article",
+  "Undo",
+  "Redo",
+  "Cancel",
+  "Save",
+]
+`;
+
+exports[`CurationBlock - HomepageEditToolbar renders in card edit mode without a card selected 1`] = `
+Array [
+  "Edit stories",
+  "Edit layout",
+  "Undo",
+  "Redo",
+  "Cancel",
+  "Save",
+]
+`;

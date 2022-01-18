@@ -1,0 +1,1186 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Confirmation /> should render properly 1`] = `
+.c5 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 18px;
+  height: 18px;
+}
+
+.c5 .SVGInline-svg {
+  display: none;
+}
+
+.c5 svg {
+  max-width: 100%;
+  width: inherit;
+  height: inherit;
+}
+
+.c1 {
+  text-align: center;
+  font-size: 18px;
+  line-height: 22px;
+  color: #000;
+}
+
+.c2 {
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-align-items: left;
+  -webkit-box-align: left;
+  -ms-flex-align: left;
+  align-items: left;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  padding-top: 48px;
+  margin: 0 auto;
+  max-width: 500px;
+}
+
+.c3 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.c3:not(:last-child) {
+  margin-bottom: 18px;
+}
+
+.c3 .c4 {
+  -webkit-align-self: flex-start;
+  -ms-flex-item-align: start;
+  align-self: flex-start;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  margin-top: 1px;
+}
+
+.c7 {
+  max-width: 230px;
+  margin-left: 5px;
+  font-size: 20px;
+}
+
+.c9 {
+  position: relative;
+  -webkit-align-self: flex-start;
+  -ms-flex-item-align: start;
+  align-self: flex-start;
+  margin-left: auto;
+  padding-left: 41px;
+  font-size: 18px;
+  white-space: nowrap;
+}
+
+.c9::before {
+  content: '';
+  position: absolute;
+  left: 10px;
+  top: calc(50% - 1px);
+  width: 21px;
+  border-bottom: solid 1px #CCC;
+}
+
+.c10 {
+  font-size: 14px;
+  line-height: 18px;
+  -webkit-align-self: flex-end;
+  -ms-flex-item-align: end;
+  align-self: flex-end;
+}
+
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  width: 400px;
+}
+
+@media only screen and (min-width:37.37em) {
+  .c0 {
+    width: auto;
+  }
+
+  .c0 .c8 {
+    padding-left: 80px;
+  }
+
+  .c0 .c8::before {
+    width: 60px;
+  }
+
+  .c0 .c6 {
+    margin-left: 11px;
+  }
+}
+
+<Confirmation
+  locale="en-US"
+  selectedBlogs={
+    Array [
+      Object {
+        "icon": <BlogAvatar
+          name="gizmodo"
+          size={18}
+        />,
+        "id": 12,
+        "name": "io9",
+        "parentId": "1",
+      },
+      Object {
+        "icon": <BlogAvatar
+          name="gizmodo"
+          size={18}
+        />,
+        "id": 13,
+        "name": "Paleofuture",
+        "parentId": "1",
+      },
+      Object {
+        "icon": <BlogAvatar
+          name="thetakeout"
+          size={18}
+        />,
+        "id": 3,
+        "name": "The Takeout",
+      },
+      Object {
+        "icon": <BlogAvatar
+          name="splinter"
+          size={18}
+        />,
+        "id": 2,
+        "name": "Splinter",
+      },
+    ]
+  }
+  timemillis={1551871107757}
+  timezone="America/New_York"
+>
+  <EnsureDefaultTheme>
+    <ThemeProvider
+      theme={[Function]}
+    >
+      <Confirmation__Container>
+        <StyledComponent
+          forwardedComponent={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": Array [],
+              "componentStyle": ComponentStyle {
+                "componentId": "Confirmation__Container-sc-1ivigy3-6",
+                "isStatic": true,
+                "lastClassName": "c0",
+                "rules": Array [
+                  "display:flex;flex-direction:column;width:400px;",
+                  "@media only screen and ",
+                  "(min-width: 37.37em)",
+                  "{",
+                  "
+		width: auto;
+
+		",
+                  ".c8",
+                  " {
+			padding-left: 80px;
+
+			&::before {
+				width: 60px;
+			}
+		}
+
+		",
+                  ".c6",
+                  " {
+			margin-left: 11px;
+		}
+	",
+                  "}",
+                ],
+              },
+              "displayName": "Confirmation__Container",
+              "foldedComponentIds": Array [],
+              "render": [Function],
+              "styledComponentId": "Confirmation__Container-sc-1ivigy3-6",
+              "target": "div",
+              "toString": [Function],
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+        >
+          <div
+            className="c0"
+          >
+            <Confirmation__Title>
+              <StyledComponent
+                forwardedComponent={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": Array [],
+                    "componentStyle": ComponentStyle {
+                      "componentId": "Confirmation__Title-sc-1ivigy3-0",
+                      "isStatic": false,
+                      "lastClassName": "c1",
+                      "rules": Array [
+                        "text-align:center;font-size:18px;line-height:22px;color:",
+                        [Function],
+                        ";",
+                      ],
+                    },
+                    "displayName": "Confirmation__Title",
+                    "foldedComponentIds": Array [],
+                    "render": [Function],
+                    "styledComponentId": "Confirmation__Title-sc-1ivigy3-0",
+                    "target": "p",
+                    "toString": [Function],
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+              >
+                <p
+                  className="c1"
+                >
+                  Are you sure you want to share to these sites?
+                </p>
+              </StyledComponent>
+            </Confirmation__Title>
+            <Confirmation__BlogContainer>
+              <StyledComponent
+                forwardedComponent={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": Array [],
+                    "componentStyle": ComponentStyle {
+                      "componentId": "Confirmation__BlogContainer-sc-1ivigy3-1",
+                      "isStatic": true,
+                      "lastClassName": "c2",
+                      "rules": Array [
+                        "display:inline-flex;align-items:left;flex-direction:column;padding-top:48px;margin:0 auto;max-width:500px;",
+                      ],
+                    },
+                    "displayName": "Confirmation__BlogContainer",
+                    "foldedComponentIds": Array [],
+                    "render": [Function],
+                    "styledComponentId": "Confirmation__BlogContainer-sc-1ivigy3-1",
+                    "target": "div",
+                    "toString": [Function],
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+              >
+                <div
+                  className="c2"
+                >
+                  <Confirmation__BlogItem
+                    key="12"
+                  >
+                    <StyledComponent
+                      forwardedComponent={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "attrs": Array [],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "Confirmation__BlogItem-sc-1ivigy3-2",
+                            "isStatic": true,
+                            "lastClassName": "c3",
+                            "rules": Array [
+                              "display:flex;align-items:center;&:not(:last-child){margin-bottom:18px;}",
+                              ".c4",
+                              "{align-self:flex-start;flex-shrink:0;width:20px;height:20px;margin-top:1px;}",
+                            ],
+                          },
+                          "displayName": "Confirmation__BlogItem",
+                          "foldedComponentIds": Array [],
+                          "render": [Function],
+                          "styledComponentId": "Confirmation__BlogItem-sc-1ivigy3-2",
+                          "target": "div",
+                          "toString": [Function],
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                    >
+                      <div
+                        className="c3"
+                      >
+                        <BlogAvatar
+                          name="gizmodo"
+                          size={18}
+                        >
+                          <blog-avatar__BlogAvatarWrapper
+                            pixelSize={18}
+                          >
+                            <StyledComponent
+                              forwardedComponent={
+                                Object {
+                                  "$$typeof": Symbol(react.forward_ref),
+                                  "attrs": Array [],
+                                  "componentStyle": ComponentStyle {
+                                    "componentId": "c4",
+                                    "isStatic": false,
+                                    "lastClassName": "c5",
+                                    "rules": Array [
+                                      "display:flex;width:",
+                                      [Function],
+                                      ";height:",
+                                      [Function],
+                                      ";",
+                                      [Function],
+                                      " ",
+                                      [Function],
+                                      " .SVGInline-svg{display:none;}svg{max-width:100%;width:inherit;height:inherit;",
+                                      [Function],
+                                      "}",
+                                    ],
+                                  },
+                                  "displayName": "blog-avatar__BlogAvatarWrapper",
+                                  "foldedComponentIds": Array [],
+                                  "render": [Function],
+                                  "styledComponentId": "c4",
+                                  "target": "span",
+                                  "toString": [Function],
+                                  "warnTooManyClasses": [Function],
+                                  "withComponent": [Function],
+                                }
+                              }
+                              forwardedRef={null}
+                              pixelSize={18}
+                            >
+                              <span
+                                className="c4 c5"
+                              >
+                                <Gizmodo
+                                  aria-label="Gizmodo avatar"
+                                  height="64"
+                                  viewBox="0 0 64 64"
+                                  width="64"
+                                  xmlns="http://www.w3.org/2000/svg"
+                                >
+                                  <svg
+                                    aria-label="Gizmodo avatar"
+                                    height="64"
+                                    viewBox="0 0 64 64"
+                                    width="64"
+                                    xmlns="http://www.w3.org/2000/svg"
+                                  >
+                                    <g
+                                      fill="none"
+                                      fillRule="evenodd"
+                                    >
+                                      <path
+                                        d="M0 0h64v64H0z"
+                                        fill="#18AFED"
+                                      />
+                                      <path
+                                        d="M16.67 46.94A22.04 22.04 0 0 1 11 32.43C11 16.09 24.58 10 33.15 10c8.41 0 14.6 4.13 14.85 4.3a4.22 4.22 0 0 1-1.48 7.58 4.1 4.1 0 0 1-3.1-.61c-.11-.07-4.5-2.9-10.27-2.9-5.37 0-12.77 3.54-12.77 14.06 0 5.98 4.45 13.04 12.6 13.04 4.6 0 7.83-1.23 9.7-2.42v-6.22h-6.36a4.16 4.16 0 0 1-4.13-4.18 4.16 4.16 0 0 1 4.13-4.19h10.5A4.2 4.2 0 0 1 51 32.64V45.1c0 1.13-.5 2.21-1.3 3-2.79 2.73-8.87 5.9-16.88 5.9a21.4 21.4 0 0 1-16.16-7.06z"
+                                        fill="#FFF"
+                                      />
+                                    </g>
+                                  </svg>
+                                </Gizmodo>
+                              </span>
+                            </StyledComponent>
+                          </blog-avatar__BlogAvatarWrapper>
+                        </BlogAvatar>
+                        <Confirmation__BlogName>
+                          <StyledComponent
+                            forwardedComponent={
+                              Object {
+                                "$$typeof": Symbol(react.forward_ref),
+                                "attrs": Array [],
+                                "componentStyle": ComponentStyle {
+                                  "componentId": "c6",
+                                  "isStatic": true,
+                                  "lastClassName": "c7",
+                                  "rules": Array [
+                                    "max-width:230px;margin-left:5px;font-size:20px;",
+                                  ],
+                                },
+                                "displayName": "Confirmation__BlogName",
+                                "foldedComponentIds": Array [],
+                                "render": [Function],
+                                "styledComponentId": "c6",
+                                "target": "span",
+                                "toString": [Function],
+                                "warnTooManyClasses": [Function],
+                                "withComponent": [Function],
+                              }
+                            }
+                            forwardedRef={null}
+                          >
+                            <span
+                              className="c6 c7"
+                            >
+                              io9
+                            </span>
+                          </StyledComponent>
+                        </Confirmation__BlogName>
+                        <Confirmation__ShareAt>
+                          <StyledComponent
+                            forwardedComponent={
+                              Object {
+                                "$$typeof": Symbol(react.forward_ref),
+                                "attrs": Array [],
+                                "componentStyle": ComponentStyle {
+                                  "componentId": "c8",
+                                  "isStatic": false,
+                                  "lastClassName": "c9",
+                                  "rules": Array [
+                                    "position:relative;align-self:flex-start;margin-left:auto;padding-left:41px;font-size:18px;white-space:nowrap;&::before{content:'';position:absolute;left:10px;top:calc(50% - 1px);width:21px;border-bottom:solid 1px ",
+                                    [Function],
+                                    ";}",
+                                  ],
+                                },
+                                "displayName": "Confirmation__ShareAt",
+                                "foldedComponentIds": Array [],
+                                "render": [Function],
+                                "styledComponentId": "c8",
+                                "target": "div",
+                                "toString": [Function],
+                                "warnTooManyClasses": [Function],
+                                "withComponent": [Function],
+                              }
+                            }
+                            forwardedRef={null}
+                          >
+                            <div
+                              className="c8 c9"
+                            >
+                              3/6/2019 6:18am 
+                              <Confirmation__Offset>
+                                <StyledComponent
+                                  forwardedComponent={
+                                    Object {
+                                      "$$typeof": Symbol(react.forward_ref),
+                                      "attrs": Array [],
+                                      "componentStyle": ComponentStyle {
+                                        "componentId": "Confirmation__Offset-sc-1ivigy3-5",
+                                        "isStatic": true,
+                                        "lastClassName": "c10",
+                                        "rules": Array [
+                                          "font-size:14px;line-height:18px;align-self:flex-end;",
+                                        ],
+                                      },
+                                      "displayName": "Confirmation__Offset",
+                                      "foldedComponentIds": Array [],
+                                      "render": [Function],
+                                      "styledComponentId": "Confirmation__Offset-sc-1ivigy3-5",
+                                      "target": "span",
+                                      "toString": [Function],
+                                      "warnTooManyClasses": [Function],
+                                      "withComponent": [Function],
+                                    }
+                                  }
+                                  forwardedRef={null}
+                                >
+                                  <span
+                                    className="c10"
+                                  >
+                                    EST
+                                  </span>
+                                </StyledComponent>
+                              </Confirmation__Offset>
+                            </div>
+                          </StyledComponent>
+                        </Confirmation__ShareAt>
+                      </div>
+                    </StyledComponent>
+                  </Confirmation__BlogItem>
+                  <Confirmation__BlogItem
+                    key="13"
+                  >
+                    <StyledComponent
+                      forwardedComponent={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "attrs": Array [],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "Confirmation__BlogItem-sc-1ivigy3-2",
+                            "isStatic": true,
+                            "lastClassName": "c3",
+                            "rules": Array [
+                              "display:flex;align-items:center;&:not(:last-child){margin-bottom:18px;}",
+                              ".c4",
+                              "{align-self:flex-start;flex-shrink:0;width:20px;height:20px;margin-top:1px;}",
+                            ],
+                          },
+                          "displayName": "Confirmation__BlogItem",
+                          "foldedComponentIds": Array [],
+                          "render": [Function],
+                          "styledComponentId": "Confirmation__BlogItem-sc-1ivigy3-2",
+                          "target": "div",
+                          "toString": [Function],
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                    >
+                      <div
+                        className="c3"
+                      >
+                        <BlogAvatar
+                          name="gizmodo"
+                          size={18}
+                        >
+                          <blog-avatar__BlogAvatarWrapper
+                            pixelSize={18}
+                          >
+                            <StyledComponent
+                              forwardedComponent={
+                                Object {
+                                  "$$typeof": Symbol(react.forward_ref),
+                                  "attrs": Array [],
+                                  "componentStyle": ComponentStyle {
+                                    "componentId": "c4",
+                                    "isStatic": false,
+                                    "lastClassName": "c5",
+                                    "rules": Array [
+                                      "display:flex;width:",
+                                      [Function],
+                                      ";height:",
+                                      [Function],
+                                      ";",
+                                      [Function],
+                                      " ",
+                                      [Function],
+                                      " .SVGInline-svg{display:none;}svg{max-width:100%;width:inherit;height:inherit;",
+                                      [Function],
+                                      "}",
+                                    ],
+                                  },
+                                  "displayName": "blog-avatar__BlogAvatarWrapper",
+                                  "foldedComponentIds": Array [],
+                                  "render": [Function],
+                                  "styledComponentId": "c4",
+                                  "target": "span",
+                                  "toString": [Function],
+                                  "warnTooManyClasses": [Function],
+                                  "withComponent": [Function],
+                                }
+                              }
+                              forwardedRef={null}
+                              pixelSize={18}
+                            >
+                              <span
+                                className="c4 c5"
+                              >
+                                <Gizmodo
+                                  aria-label="Gizmodo avatar"
+                                  height="64"
+                                  viewBox="0 0 64 64"
+                                  width="64"
+                                  xmlns="http://www.w3.org/2000/svg"
+                                >
+                                  <svg
+                                    aria-label="Gizmodo avatar"
+                                    height="64"
+                                    viewBox="0 0 64 64"
+                                    width="64"
+                                    xmlns="http://www.w3.org/2000/svg"
+                                  >
+                                    <g
+                                      fill="none"
+                                      fillRule="evenodd"
+                                    >
+                                      <path
+                                        d="M0 0h64v64H0z"
+                                        fill="#18AFED"
+                                      />
+                                      <path
+                                        d="M16.67 46.94A22.04 22.04 0 0 1 11 32.43C11 16.09 24.58 10 33.15 10c8.41 0 14.6 4.13 14.85 4.3a4.22 4.22 0 0 1-1.48 7.58 4.1 4.1 0 0 1-3.1-.61c-.11-.07-4.5-2.9-10.27-2.9-5.37 0-12.77 3.54-12.77 14.06 0 5.98 4.45 13.04 12.6 13.04 4.6 0 7.83-1.23 9.7-2.42v-6.22h-6.36a4.16 4.16 0 0 1-4.13-4.18 4.16 4.16 0 0 1 4.13-4.19h10.5A4.2 4.2 0 0 1 51 32.64V45.1c0 1.13-.5 2.21-1.3 3-2.79 2.73-8.87 5.9-16.88 5.9a21.4 21.4 0 0 1-16.16-7.06z"
+                                        fill="#FFF"
+                                      />
+                                    </g>
+                                  </svg>
+                                </Gizmodo>
+                              </span>
+                            </StyledComponent>
+                          </blog-avatar__BlogAvatarWrapper>
+                        </BlogAvatar>
+                        <Confirmation__BlogName>
+                          <StyledComponent
+                            forwardedComponent={
+                              Object {
+                                "$$typeof": Symbol(react.forward_ref),
+                                "attrs": Array [],
+                                "componentStyle": ComponentStyle {
+                                  "componentId": "c6",
+                                  "isStatic": true,
+                                  "lastClassName": "c7",
+                                  "rules": Array [
+                                    "max-width:230px;margin-left:5px;font-size:20px;",
+                                  ],
+                                },
+                                "displayName": "Confirmation__BlogName",
+                                "foldedComponentIds": Array [],
+                                "render": [Function],
+                                "styledComponentId": "c6",
+                                "target": "span",
+                                "toString": [Function],
+                                "warnTooManyClasses": [Function],
+                                "withComponent": [Function],
+                              }
+                            }
+                            forwardedRef={null}
+                          >
+                            <span
+                              className="c6 c7"
+                            >
+                              Paleofuture
+                            </span>
+                          </StyledComponent>
+                        </Confirmation__BlogName>
+                        <Confirmation__ShareAt>
+                          <StyledComponent
+                            forwardedComponent={
+                              Object {
+                                "$$typeof": Symbol(react.forward_ref),
+                                "attrs": Array [],
+                                "componentStyle": ComponentStyle {
+                                  "componentId": "c8",
+                                  "isStatic": false,
+                                  "lastClassName": "c9",
+                                  "rules": Array [
+                                    "position:relative;align-self:flex-start;margin-left:auto;padding-left:41px;font-size:18px;white-space:nowrap;&::before{content:'';position:absolute;left:10px;top:calc(50% - 1px);width:21px;border-bottom:solid 1px ",
+                                    [Function],
+                                    ";}",
+                                  ],
+                                },
+                                "displayName": "Confirmation__ShareAt",
+                                "foldedComponentIds": Array [],
+                                "render": [Function],
+                                "styledComponentId": "c8",
+                                "target": "div",
+                                "toString": [Function],
+                                "warnTooManyClasses": [Function],
+                                "withComponent": [Function],
+                              }
+                            }
+                            forwardedRef={null}
+                          >
+                            <div
+                              className="c8 c9"
+                            >
+                              3/6/2019 6:18am 
+                              <Confirmation__Offset>
+                                <StyledComponent
+                                  forwardedComponent={
+                                    Object {
+                                      "$$typeof": Symbol(react.forward_ref),
+                                      "attrs": Array [],
+                                      "componentStyle": ComponentStyle {
+                                        "componentId": "Confirmation__Offset-sc-1ivigy3-5",
+                                        "isStatic": true,
+                                        "lastClassName": "c10",
+                                        "rules": Array [
+                                          "font-size:14px;line-height:18px;align-self:flex-end;",
+                                        ],
+                                      },
+                                      "displayName": "Confirmation__Offset",
+                                      "foldedComponentIds": Array [],
+                                      "render": [Function],
+                                      "styledComponentId": "Confirmation__Offset-sc-1ivigy3-5",
+                                      "target": "span",
+                                      "toString": [Function],
+                                      "warnTooManyClasses": [Function],
+                                      "withComponent": [Function],
+                                    }
+                                  }
+                                  forwardedRef={null}
+                                >
+                                  <span
+                                    className="c10"
+                                  >
+                                    EST
+                                  </span>
+                                </StyledComponent>
+                              </Confirmation__Offset>
+                            </div>
+                          </StyledComponent>
+                        </Confirmation__ShareAt>
+                      </div>
+                    </StyledComponent>
+                  </Confirmation__BlogItem>
+                  <Confirmation__BlogItem
+                    key="3"
+                  >
+                    <StyledComponent
+                      forwardedComponent={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "attrs": Array [],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "Confirmation__BlogItem-sc-1ivigy3-2",
+                            "isStatic": true,
+                            "lastClassName": "c3",
+                            "rules": Array [
+                              "display:flex;align-items:center;&:not(:last-child){margin-bottom:18px;}",
+                              ".c4",
+                              "{align-self:flex-start;flex-shrink:0;width:20px;height:20px;margin-top:1px;}",
+                            ],
+                          },
+                          "displayName": "Confirmation__BlogItem",
+                          "foldedComponentIds": Array [],
+                          "render": [Function],
+                          "styledComponentId": "Confirmation__BlogItem-sc-1ivigy3-2",
+                          "target": "div",
+                          "toString": [Function],
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                    >
+                      <div
+                        className="c3"
+                      >
+                        <BlogAvatar
+                          name="thetakeout"
+                          size={18}
+                        >
+                          <blog-avatar__BlogAvatarWrapper
+                            pixelSize={18}
+                          >
+                            <StyledComponent
+                              forwardedComponent={
+                                Object {
+                                  "$$typeof": Symbol(react.forward_ref),
+                                  "attrs": Array [],
+                                  "componentStyle": ComponentStyle {
+                                    "componentId": "c4",
+                                    "isStatic": false,
+                                    "lastClassName": "c5",
+                                    "rules": Array [
+                                      "display:flex;width:",
+                                      [Function],
+                                      ";height:",
+                                      [Function],
+                                      ";",
+                                      [Function],
+                                      " ",
+                                      [Function],
+                                      " .SVGInline-svg{display:none;}svg{max-width:100%;width:inherit;height:inherit;",
+                                      [Function],
+                                      "}",
+                                    ],
+                                  },
+                                  "displayName": "blog-avatar__BlogAvatarWrapper",
+                                  "foldedComponentIds": Array [],
+                                  "render": [Function],
+                                  "styledComponentId": "c4",
+                                  "target": "span",
+                                  "toString": [Function],
+                                  "warnTooManyClasses": [Function],
+                                  "withComponent": [Function],
+                                }
+                              }
+                              forwardedRef={null}
+                              pixelSize={18}
+                            >
+                              <span
+                                className="c4 c5"
+                              >
+                                <TheTakeout
+                                  aria-label="TheTakeout avatar"
+                                  height="64"
+                                  viewBox="0 0 64 64"
+                                  width="64"
+                                  xmlns="http://www.w3.org/2000/svg"
+                                >
+                                  <svg
+                                    aria-label="TheTakeout avatar"
+                                    height="64"
+                                    viewBox="0 0 64 64"
+                                    width="64"
+                                    xmlns="http://www.w3.org/2000/svg"
+                                  >
+                                    <g
+                                      fill="none"
+                                      fillRule="evenodd"
+                                    >
+                                      <path
+                                        d="M0 64h64V0H0"
+                                        fill="#E5371A"
+                                      />
+                                      <g
+                                        fillRule="nonzero"
+                                        transform="translate(18 8)"
+                                      >
+                                        <path
+                                          d="M27.27 9.1V2.72c0-.55-.3-.91-.9-.91h-1.82v5.45c-.03.43-.33.8-.91.91h-7.28v39.1c.1.71-.2 1.01-.9.9H10.9v.91c0 .6.36.91.9.91h6.37c.72 0 1.03-.3.91-.9V10h7.27c.6-.23.9-.6.91-.9zM2.73 8.17v.91c0 .53.37.91.9.91h4.55V8.18H2.73z"
+                                          fill="#174066"
+                                        />
+                                        <path
+                                          d="M23.64 0H.9C.37 0 0 .36 0 .9v6.37c0 .32.37.68.9.91h7.28v39.1c-.08.6.29.9.91.9h6.36c.69 0 1-.3.91-.9V8.17h7.28c.6-.23.9-.59.9-.9V.9c0-.55-.3-.91-.9-.91"
+                                          fill="#F9DB5D"
+                                        />
+                                        <path
+                                          d="M10 46.36c.1 0 0-.12 0 0V10c0 .13.1 0 0 0 .35 0 .45.13.9 0v36.36c-.45-.12-.55 0-.9 0m-7.27-40c.1 0 0-.12 0 0V2.73c0 .12.1 0 0 0 .35 0 .45.12.9 0v3.63c-.45-.11-.55 0-.9 0"
+                                          fill="#FFF"
+                                        />
+                                      </g>
+                                    </g>
+                                  </svg>
+                                </TheTakeout>
+                              </span>
+                            </StyledComponent>
+                          </blog-avatar__BlogAvatarWrapper>
+                        </BlogAvatar>
+                        <Confirmation__BlogName>
+                          <StyledComponent
+                            forwardedComponent={
+                              Object {
+                                "$$typeof": Symbol(react.forward_ref),
+                                "attrs": Array [],
+                                "componentStyle": ComponentStyle {
+                                  "componentId": "c6",
+                                  "isStatic": true,
+                                  "lastClassName": "c7",
+                                  "rules": Array [
+                                    "max-width:230px;margin-left:5px;font-size:20px;",
+                                  ],
+                                },
+                                "displayName": "Confirmation__BlogName",
+                                "foldedComponentIds": Array [],
+                                "render": [Function],
+                                "styledComponentId": "c6",
+                                "target": "span",
+                                "toString": [Function],
+                                "warnTooManyClasses": [Function],
+                                "withComponent": [Function],
+                              }
+                            }
+                            forwardedRef={null}
+                          >
+                            <span
+                              className="c6 c7"
+                            >
+                              The Takeout
+                            </span>
+                          </StyledComponent>
+                        </Confirmation__BlogName>
+                        <Confirmation__ShareAt>
+                          <StyledComponent
+                            forwardedComponent={
+                              Object {
+                                "$$typeof": Symbol(react.forward_ref),
+                                "attrs": Array [],
+                                "componentStyle": ComponentStyle {
+                                  "componentId": "c8",
+                                  "isStatic": false,
+                                  "lastClassName": "c9",
+                                  "rules": Array [
+                                    "position:relative;align-self:flex-start;margin-left:auto;padding-left:41px;font-size:18px;white-space:nowrap;&::before{content:'';position:absolute;left:10px;top:calc(50% - 1px);width:21px;border-bottom:solid 1px ",
+                                    [Function],
+                                    ";}",
+                                  ],
+                                },
+                                "displayName": "Confirmation__ShareAt",
+                                "foldedComponentIds": Array [],
+                                "render": [Function],
+                                "styledComponentId": "c8",
+                                "target": "div",
+                                "toString": [Function],
+                                "warnTooManyClasses": [Function],
+                                "withComponent": [Function],
+                              }
+                            }
+                            forwardedRef={null}
+                          >
+                            <div
+                              className="c8 c9"
+                            >
+                              3/6/2019 6:18am 
+                              <Confirmation__Offset>
+                                <StyledComponent
+                                  forwardedComponent={
+                                    Object {
+                                      "$$typeof": Symbol(react.forward_ref),
+                                      "attrs": Array [],
+                                      "componentStyle": ComponentStyle {
+                                        "componentId": "Confirmation__Offset-sc-1ivigy3-5",
+                                        "isStatic": true,
+                                        "lastClassName": "c10",
+                                        "rules": Array [
+                                          "font-size:14px;line-height:18px;align-self:flex-end;",
+                                        ],
+                                      },
+                                      "displayName": "Confirmation__Offset",
+                                      "foldedComponentIds": Array [],
+                                      "render": [Function],
+                                      "styledComponentId": "Confirmation__Offset-sc-1ivigy3-5",
+                                      "target": "span",
+                                      "toString": [Function],
+                                      "warnTooManyClasses": [Function],
+                                      "withComponent": [Function],
+                                    }
+                                  }
+                                  forwardedRef={null}
+                                >
+                                  <span
+                                    className="c10"
+                                  >
+                                    EST
+                                  </span>
+                                </StyledComponent>
+                              </Confirmation__Offset>
+                            </div>
+                          </StyledComponent>
+                        </Confirmation__ShareAt>
+                      </div>
+                    </StyledComponent>
+                  </Confirmation__BlogItem>
+                  <Confirmation__BlogItem
+                    key="2"
+                  >
+                    <StyledComponent
+                      forwardedComponent={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "attrs": Array [],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "Confirmation__BlogItem-sc-1ivigy3-2",
+                            "isStatic": true,
+                            "lastClassName": "c3",
+                            "rules": Array [
+                              "display:flex;align-items:center;&:not(:last-child){margin-bottom:18px;}",
+                              ".c4",
+                              "{align-self:flex-start;flex-shrink:0;width:20px;height:20px;margin-top:1px;}",
+                            ],
+                          },
+                          "displayName": "Confirmation__BlogItem",
+                          "foldedComponentIds": Array [],
+                          "render": [Function],
+                          "styledComponentId": "Confirmation__BlogItem-sc-1ivigy3-2",
+                          "target": "div",
+                          "toString": [Function],
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                    >
+                      <div
+                        className="c3"
+                      >
+                        <BlogAvatar
+                          name="splinter"
+                          size={18}
+                        >
+                          <blog-avatar__BlogAvatarWrapper
+                            pixelSize={18}
+                          >
+                            <StyledComponent
+                              forwardedComponent={
+                                Object {
+                                  "$$typeof": Symbol(react.forward_ref),
+                                  "attrs": Array [],
+                                  "componentStyle": ComponentStyle {
+                                    "componentId": "c4",
+                                    "isStatic": false,
+                                    "lastClassName": "c5",
+                                    "rules": Array [
+                                      "display:flex;width:",
+                                      [Function],
+                                      ";height:",
+                                      [Function],
+                                      ";",
+                                      [Function],
+                                      " ",
+                                      [Function],
+                                      " .SVGInline-svg{display:none;}svg{max-width:100%;width:inherit;height:inherit;",
+                                      [Function],
+                                      "}",
+                                    ],
+                                  },
+                                  "displayName": "blog-avatar__BlogAvatarWrapper",
+                                  "foldedComponentIds": Array [],
+                                  "render": [Function],
+                                  "styledComponentId": "c4",
+                                  "target": "span",
+                                  "toString": [Function],
+                                  "warnTooManyClasses": [Function],
+                                  "withComponent": [Function],
+                                }
+                              }
+                              forwardedRef={null}
+                              pixelSize={18}
+                            >
+                              <span
+                                className="c4 c5"
+                              >
+                                <Splinter
+                                  aria-label="Splinter avatar"
+                                  height="64"
+                                  viewBox="0 0 64 64"
+                                  width="64"
+                                  xmlns="http://www.w3.org/2000/svg"
+                                >
+                                  <svg
+                                    aria-label="Splinter avatar"
+                                    height="64"
+                                    viewBox="0 0 64 64"
+                                    width="64"
+                                    xmlns="http://www.w3.org/2000/svg"
+                                  >
+                                    <g
+                                      fill="none"
+                                      fillRule="evenodd"
+                                    >
+                                      <path
+                                        d="M0 0h64v64H0z"
+                                        fill="#F85637"
+                                      />
+                                      <path
+                                        d="M18.6 49.4c-.48-.48-.66-1.02-.24-1.8l2.75-4.83c.47-.78 1.43-.78 2.03-.36 1.67 1.14 4.71 3.29 8.48 3.29 2.38 0 4.12-1.5 4.12-3.59 0-2.5-2.21-4.12-6.16-6.03C23.8 33.28 18 30.05 18 22.88 18 16.97 22.6 11 31.8 11c6.2 0 10.98 3.17 12.78 4.48.71.42.6 1.5.35 1.91l-3.05 4.6c-.41.66-1.43 1.13-2.62.41-1.38-.95-4.9-3.22-8.06-3.22-2.5 0-3.64 1.55-3.64 3.29 0 1.97 2.33 3.52 6.51 5.55 5.25 2.57 12.06 5.5 12.06 13.62 0 6.15-5.32 12.36-14.1 12.36-7.76 0-12.06-3.23-13.43-4.6"
+                                        fill="#FFF"
+                                      />
+                                    </g>
+                                  </svg>
+                                </Splinter>
+                              </span>
+                            </StyledComponent>
+                          </blog-avatar__BlogAvatarWrapper>
+                        </BlogAvatar>
+                        <Confirmation__BlogName>
+                          <StyledComponent
+                            forwardedComponent={
+                              Object {
+                                "$$typeof": Symbol(react.forward_ref),
+                                "attrs": Array [],
+                                "componentStyle": ComponentStyle {
+                                  "componentId": "c6",
+                                  "isStatic": true,
+                                  "lastClassName": "c7",
+                                  "rules": Array [
+                                    "max-width:230px;margin-left:5px;font-size:20px;",
+                                  ],
+                                },
+                                "displayName": "Confirmation__BlogName",
+                                "foldedComponentIds": Array [],
+                                "render": [Function],
+                                "styledComponentId": "c6",
+                                "target": "span",
+                                "toString": [Function],
+                                "warnTooManyClasses": [Function],
+                                "withComponent": [Function],
+                              }
+                            }
+                            forwardedRef={null}
+                          >
+                            <span
+                              className="c6 c7"
+                            >
+                              Splinter
+                            </span>
+                          </StyledComponent>
+                        </Confirmation__BlogName>
+                        <Confirmation__ShareAt>
+                          <StyledComponent
+                            forwardedComponent={
+                              Object {
+                                "$$typeof": Symbol(react.forward_ref),
+                                "attrs": Array [],
+                                "componentStyle": ComponentStyle {
+                                  "componentId": "c8",
+                                  "isStatic": false,
+                                  "lastClassName": "c9",
+                                  "rules": Array [
+                                    "position:relative;align-self:flex-start;margin-left:auto;padding-left:41px;font-size:18px;white-space:nowrap;&::before{content:'';position:absolute;left:10px;top:calc(50% - 1px);width:21px;border-bottom:solid 1px ",
+                                    [Function],
+                                    ";}",
+                                  ],
+                                },
+                                "displayName": "Confirmation__ShareAt",
+                                "foldedComponentIds": Array [],
+                                "render": [Function],
+                                "styledComponentId": "c8",
+                                "target": "div",
+                                "toString": [Function],
+                                "warnTooManyClasses": [Function],
+                                "withComponent": [Function],
+                              }
+                            }
+                            forwardedRef={null}
+                          >
+                            <div
+                              className="c8 c9"
+                            >
+                              3/6/2019 6:18am 
+                              <Confirmation__Offset>
+                                <StyledComponent
+                                  forwardedComponent={
+                                    Object {
+                                      "$$typeof": Symbol(react.forward_ref),
+                                      "attrs": Array [],
+                                      "componentStyle": ComponentStyle {
+                                        "componentId": "Confirmation__Offset-sc-1ivigy3-5",
+                                        "isStatic": true,
+                                        "lastClassName": "c10",
+                                        "rules": Array [
+                                          "font-size:14px;line-height:18px;align-self:flex-end;",
+                                        ],
+                                      },
+                                      "displayName": "Confirmation__Offset",
+                                      "foldedComponentIds": Array [],
+                                      "render": [Function],
+                                      "styledComponentId": "Confirmation__Offset-sc-1ivigy3-5",
+                                      "target": "span",
+                                      "toString": [Function],
+                                      "warnTooManyClasses": [Function],
+                                      "withComponent": [Function],
+                                    }
+                                  }
+                                  forwardedRef={null}
+                                >
+                                  <span
+                                    className="c10"
+                                  >
+                                    EST
+                                  </span>
+                                </StyledComponent>
+                              </Confirmation__Offset>
+                            </div>
+                          </StyledComponent>
+                        </Confirmation__ShareAt>
+                      </div>
+                    </StyledComponent>
+                  </Confirmation__BlogItem>
+                </div>
+              </StyledComponent>
+            </Confirmation__BlogContainer>
+          </div>
+        </StyledComponent>
+      </Confirmation__Container>
+    </ThemeProvider>
+  </EnsureDefaultTheme>
+</Confirmation>
+`;

@@ -1,0 +1,398 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Checkbox /> should render inlineHelp propery 1`] = `
+<Theme
+  blog="default"
+  theme={
+    Object {
+      "breakpointBanner": "969px",
+      "breakpointMedium": "53.125em",
+      "color": Object {
+        "alert": "#EEB544",
+        "amazon": "#F5C056",
+        "backgroundLayer": "rgba(0,0,0,0.45)",
+        "backgroundLight": "#E6F2F8",
+        "black": "#000",
+        "blackOverlay": "rgba(0,0,0,0.7)",
+        "bodytext": "#222",
+        "commerce": "#72AD75",
+        "darkBlackOverlay": "rgba(0,0,0,0.9)",
+        "darkgray": "#666",
+        "darksmoke": "#222",
+        "error": "#D24A1D",
+        "facebook": "#1877F2",
+        "foregroundLayer": "rgba(0,0,0,0.4)",
+        "google": "#DB4437",
+        "gray": "#7D7D7D",
+        "instagram": "#C32AA3",
+        "lightgray": "#E5E5E5",
+        "linkedin": "#0077B5",
+        "logo": "#000",
+        "midgray": "#CCC",
+        "primary": "#0A7BC2",
+        "primaryLight": "#0C91E4",
+        "rss": "#7D7D7D",
+        "secondarytext": "#7D7D7D",
+        "success": "#23891F",
+        "twitter": "#1DA1F2",
+        "white": "#FFF",
+        "whiteOverlay": "rgba(255,255,255,0.7)",
+        "whitesmoke": "#F5F5F5",
+        "youtube": "#FF0000",
+      },
+      "columnGutter": "2.25rem",
+      "columnGutter19": Object {
+        "largeUp": "1.5rem",
+        "small19": "1rem",
+        "xlargeUp": "2rem",
+      },
+      "columnPadding": "1.125rem",
+      "columnPadding19": Object {
+        "largeUp": "0.75rem",
+        "small19": "0.5rem",
+        "xlargeUp": "1rem",
+      },
+      "featuredContentWidth": "1024px",
+      "globalNavHeight": "80px",
+      "linkTransition": "0.1s ease-out",
+      "mainContainerWidth": "66.5%",
+      "mainContentMaxWidth": "800px",
+      "pageWidth": "1336px",
+      "postContentMaxWidth": "636px",
+      "scrollbackNavHeight": "60px",
+      "sidebarContainerWidth": "33.5%",
+      "sidebarContentMaxWidth": "360px",
+      "sidebarContentMinWidth": "300px",
+      "slideshowTransitionDuration": "0.2s",
+      "typography": Object {
+        "body": Object {
+          "fontFamily": "ElizabethSerif, Georgia, serif",
+          "fontSizes": Object {
+            "large": "27px",
+            "medium": "19px",
+            "small": "15px",
+            "xlarge": "30px",
+            "xsmall": "14px",
+          },
+          "lineHeights": Object {
+            "large": "40px",
+            "medium": "32px",
+            "small": "24px",
+            "xlarge": "44px",
+            "xsmall": "24px",
+          },
+        },
+        "embiggenedHeadlineSize": "34px",
+        "headline": Object {
+          "fontFamily": "ProximaNovaCond, sans-serif",
+          "fontSizes": Object {
+            "large": "32px",
+            "medium": "24px",
+            "small": "19px",
+            "xlarge": "37px",
+            "xsmall": "16px",
+          },
+          "lineHeights": Object {
+            "large": "40px",
+            "medium": "32px",
+            "small": "24px",
+            "xlarge": "44px",
+            "xsmall": "24px",
+          },
+        },
+        "headlineLineHeight": "1.3",
+        "headlineSize": "24px",
+        "permalinkHeadlineLineHeight": "1.2",
+        "permalinkHeadlineSize": Object {
+          "mediumUp": "2.5rem",
+          "small": "2rem",
+          "xxxlargeUp": "3rem",
+        },
+        "primary": Object {
+          "fontFamily": "ProximaNovaCond, sans-serif",
+          "fontSizes": Object {
+            "large": "32px",
+            "medium": "24px",
+            "small": "19px",
+            "xlarge": "37px",
+            "xsmall": "16px",
+          },
+          "lineHeights": Object {
+            "large": "40px",
+            "medium": "32px",
+            "small": "24px",
+            "xlarge": "44px",
+            "xsmall": "24px",
+          },
+        },
+        "serif": Object {
+          "fontFamily": "ElizabethSerif, Georgia, serif",
+          "fontSizes": Object {
+            "large": "27px",
+            "medium": "19px",
+            "small": "15px",
+            "xlarge": "30px",
+            "xsmall": "14px",
+          },
+          "lineHeights": Object {
+            "large": "40px",
+            "medium": "32px",
+            "small": "24px",
+            "xlarge": "44px",
+            "xsmall": "24px",
+          },
+        },
+        "tertiary": Object {
+          "fontFamily": "FiraSans, sans-serif",
+          "fontSizes": Object {
+            "large": "29px",
+            "medium": "21px",
+            "small": "17px",
+            "xlarge": "35px",
+            "xsmall": "15px",
+          },
+          "lineHeights": Object {
+            "large": "40px",
+            "medium": "32px",
+            "small": "24px",
+            "xlarge": "44px",
+            "xsmall": "24px",
+          },
+        },
+        "utility": Object {
+          "fontFamily": "ProximaNovaCond, sans-serif",
+          "fontSizes": Object {
+            "large": "32px",
+            "medium": "24px",
+            "small": "19px",
+            "xlarge": "37px",
+            "xsmall": "16px",
+          },
+          "lineHeights": Object {
+            "large": "40px",
+            "medium": "32px",
+            "small": "24px",
+            "xlarge": "44px",
+            "xsmall": "24px",
+          },
+        },
+      },
+    }
+  }
+>
+  <checkbox__Wrapper>
+    <checkbox__Input
+      checked={true}
+      name="name"
+      onChange={[MockFunction]}
+      value="value"
+    />
+    <checkbox__Checkmark>
+      <CheckmarkIcon />
+    </checkbox__Checkmark>
+    <checkbox__Label>
+      label
+    </checkbox__Label>
+    <checkbox__InlineHelp>
+      St-Nicolas Parc Chaudiere
+    </checkbox__InlineHelp>
+  </checkbox__Wrapper>
+</Theme>
+`;
+
+exports[`<Checkbox /> should render properly 1`] = `
+<Theme
+  blog="default"
+  theme={
+    Object {
+      "breakpointBanner": "969px",
+      "breakpointMedium": "53.125em",
+      "color": Object {
+        "alert": "#EEB544",
+        "amazon": "#F5C056",
+        "backgroundLayer": "rgba(0,0,0,0.45)",
+        "backgroundLight": "#E6F2F8",
+        "black": "#000",
+        "blackOverlay": "rgba(0,0,0,0.7)",
+        "bodytext": "#222",
+        "commerce": "#72AD75",
+        "darkBlackOverlay": "rgba(0,0,0,0.9)",
+        "darkgray": "#666",
+        "darksmoke": "#222",
+        "error": "#D24A1D",
+        "facebook": "#1877F2",
+        "foregroundLayer": "rgba(0,0,0,0.4)",
+        "google": "#DB4437",
+        "gray": "#7D7D7D",
+        "instagram": "#C32AA3",
+        "lightgray": "#E5E5E5",
+        "linkedin": "#0077B5",
+        "logo": "#000",
+        "midgray": "#CCC",
+        "primary": "#0A7BC2",
+        "primaryLight": "#0C91E4",
+        "rss": "#7D7D7D",
+        "secondarytext": "#7D7D7D",
+        "success": "#23891F",
+        "twitter": "#1DA1F2",
+        "white": "#FFF",
+        "whiteOverlay": "rgba(255,255,255,0.7)",
+        "whitesmoke": "#F5F5F5",
+        "youtube": "#FF0000",
+      },
+      "columnGutter": "2.25rem",
+      "columnGutter19": Object {
+        "largeUp": "1.5rem",
+        "small19": "1rem",
+        "xlargeUp": "2rem",
+      },
+      "columnPadding": "1.125rem",
+      "columnPadding19": Object {
+        "largeUp": "0.75rem",
+        "small19": "0.5rem",
+        "xlargeUp": "1rem",
+      },
+      "featuredContentWidth": "1024px",
+      "globalNavHeight": "80px",
+      "linkTransition": "0.1s ease-out",
+      "mainContainerWidth": "66.5%",
+      "mainContentMaxWidth": "800px",
+      "pageWidth": "1336px",
+      "postContentMaxWidth": "636px",
+      "scrollbackNavHeight": "60px",
+      "sidebarContainerWidth": "33.5%",
+      "sidebarContentMaxWidth": "360px",
+      "sidebarContentMinWidth": "300px",
+      "slideshowTransitionDuration": "0.2s",
+      "typography": Object {
+        "body": Object {
+          "fontFamily": "ElizabethSerif, Georgia, serif",
+          "fontSizes": Object {
+            "large": "27px",
+            "medium": "19px",
+            "small": "15px",
+            "xlarge": "30px",
+            "xsmall": "14px",
+          },
+          "lineHeights": Object {
+            "large": "40px",
+            "medium": "32px",
+            "small": "24px",
+            "xlarge": "44px",
+            "xsmall": "24px",
+          },
+        },
+        "embiggenedHeadlineSize": "34px",
+        "headline": Object {
+          "fontFamily": "ProximaNovaCond, sans-serif",
+          "fontSizes": Object {
+            "large": "32px",
+            "medium": "24px",
+            "small": "19px",
+            "xlarge": "37px",
+            "xsmall": "16px",
+          },
+          "lineHeights": Object {
+            "large": "40px",
+            "medium": "32px",
+            "small": "24px",
+            "xlarge": "44px",
+            "xsmall": "24px",
+          },
+        },
+        "headlineLineHeight": "1.3",
+        "headlineSize": "24px",
+        "permalinkHeadlineLineHeight": "1.2",
+        "permalinkHeadlineSize": Object {
+          "mediumUp": "2.5rem",
+          "small": "2rem",
+          "xxxlargeUp": "3rem",
+        },
+        "primary": Object {
+          "fontFamily": "ProximaNovaCond, sans-serif",
+          "fontSizes": Object {
+            "large": "32px",
+            "medium": "24px",
+            "small": "19px",
+            "xlarge": "37px",
+            "xsmall": "16px",
+          },
+          "lineHeights": Object {
+            "large": "40px",
+            "medium": "32px",
+            "small": "24px",
+            "xlarge": "44px",
+            "xsmall": "24px",
+          },
+        },
+        "serif": Object {
+          "fontFamily": "ElizabethSerif, Georgia, serif",
+          "fontSizes": Object {
+            "large": "27px",
+            "medium": "19px",
+            "small": "15px",
+            "xlarge": "30px",
+            "xsmall": "14px",
+          },
+          "lineHeights": Object {
+            "large": "40px",
+            "medium": "32px",
+            "small": "24px",
+            "xlarge": "44px",
+            "xsmall": "24px",
+          },
+        },
+        "tertiary": Object {
+          "fontFamily": "FiraSans, sans-serif",
+          "fontSizes": Object {
+            "large": "29px",
+            "medium": "21px",
+            "small": "17px",
+            "xlarge": "35px",
+            "xsmall": "15px",
+          },
+          "lineHeights": Object {
+            "large": "40px",
+            "medium": "32px",
+            "small": "24px",
+            "xlarge": "44px",
+            "xsmall": "24px",
+          },
+        },
+        "utility": Object {
+          "fontFamily": "ProximaNovaCond, sans-serif",
+          "fontSizes": Object {
+            "large": "32px",
+            "medium": "24px",
+            "small": "19px",
+            "xlarge": "37px",
+            "xsmall": "16px",
+          },
+          "lineHeights": Object {
+            "large": "40px",
+            "medium": "32px",
+            "small": "24px",
+            "xlarge": "44px",
+            "xsmall": "24px",
+          },
+        },
+      },
+    }
+  }
+>
+  <checkbox__Wrapper>
+    <checkbox__Input
+      checked={true}
+      name="name"
+      onChange={[MockFunction]}
+      value="value"
+    />
+    <checkbox__Checkmark>
+      <CheckmarkIcon />
+    </checkbox__Checkmark>
+    <checkbox__Label>
+      label
+    </checkbox__Label>
+  </checkbox__Wrapper>
+</Theme>
+`;

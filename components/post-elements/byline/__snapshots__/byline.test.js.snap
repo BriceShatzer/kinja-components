@@ -1,0 +1,1171 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Byline /> should render multiple authors and meta time 1`] = `
+.c4 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  font-size: 14px;
+  line-height: 19px;
+  text-align: left;
+}
+
+.c2:focus {
+  outline: none;
+}
+
+.c2 a {
+  color: #7D7D7D;
+}
+
+.c2 a:hover,
+.c2 a:focus {
+  color: #0A7BC2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  outline: none;
+}
+
+.c2 a:active {
+  color: #085c91;
+}
+
+.c5 {
+  color: #7D7D7D;
+}
+
+.c6 {
+  display: inline-block;
+  font-size: 14px;
+  line-height: 19px;
+}
+
+.c6 .c3 {
+  color: #7D7D7D;
+}
+
+.c6 .c3:hover {
+  color: #7D7D7D;
+}
+
+.c0 {
+  font-family: ProximaNovaCond,sans-serif;
+  line-height: 20px;
+  text-align: left;
+}
+
+@media only screen and (max-width:37.31em) {
+  .c0 {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+  }
+}
+
+@media only screen and (min-width:37.37em) {
+  .c1:not(:empty)::after {
+    content: '|';
+    font-size: 20px;
+    line-height: 20px;
+    padding: 0 8px;
+    color: #7D7D7D;
+    vertical-align: middle;
+  }
+}
+
+<Byline
+  authors={
+    Array [
+      User {
+        "authName": null,
+        "avatar": Object {
+          "format": "jpg",
+          "frozenFormat": "jpg",
+          "id": "qqrex4g4qmpkf67wwrcu",
+          "isAnimated": false,
+        },
+        "confirmedEmail": null,
+        "createdMillis": 0,
+        "displayName": "Looking Glass",
+        "id": "1",
+        "isEditStaff": false,
+        "isGmgMember": false,
+        "isSales": false,
+        "isSuperuser": false,
+        "membership": Array [],
+        "remotes": Object {},
+        "screenName": "speculum",
+        "status": "enabled",
+        "token": null,
+      },
+      User {
+        "authName": null,
+        "avatar": Object {
+          "format": "jpg",
+          "frozenFormat": "jpg",
+          "id": "qqrex4g4qmpkf67wwrcu",
+          "isAnimated": false,
+        },
+        "confirmedEmail": null,
+        "createdMillis": 0,
+        "displayName": "Baba Yaga",
+        "id": "2",
+        "isEditStaff": false,
+        "isGmgMember": false,
+        "isSales": false,
+        "isSuperuser": false,
+        "membership": Array [],
+        "remotes": Object {},
+        "screenName": "necdivinos",
+        "status": "enabled",
+        "token": null,
+      },
+    ]
+  }
+  index={1}
+  pageType="frontpage"
+  post={
+    Post {
+      "adSettings": null,
+      "allowReplies": true,
+      "approved": undefined,
+      "author": User {
+        "authName": null,
+        "avatar": Object {
+          "format": "jpg",
+          "frozenFormat": "jpg",
+          "id": "ql1l79ncdygfqwckzobr",
+          "isAnimated": false,
+        },
+        "confirmedEmail": null,
+        "createdMillis": undefined,
+        "displayName": "Chris Kohler",
+        "id": "5876237249237015770",
+        "isEditStaff": false,
+        "isGmgMember": false,
+        "isSales": false,
+        "isSuperuser": false,
+        "membership": Array [],
+        "remotes": Object {},
+        "screenName": "chriskohler",
+        "status": undefined,
+        "token": null,
+      },
+      "authorId": null,
+      "authorIds": Array [],
+      "authors": Array [
+        User {
+          "authName": null,
+          "avatar": Object {
+            "format": "jpg",
+            "frozenFormat": "jpg",
+            "id": "ql1l79ncdygfqwckzobr",
+            "isAnimated": false,
+          },
+          "confirmedEmail": null,
+          "createdMillis": undefined,
+          "displayName": "Chris Kohler",
+          "id": "5876237249237015770",
+          "isEditStaff": false,
+          "isGmgMember": false,
+          "isSales": false,
+          "isSuperuser": false,
+          "membership": Array [],
+          "remotes": Object {},
+          "screenName": "chriskohler",
+          "status": undefined,
+          "token": null,
+        },
+        User {
+          "authName": null,
+          "avatar": Object {
+            "format": "jpg",
+            "frozenFormat": "jpg",
+            "id": "udtnp2grvcczvcr1ajsc",
+            "isAnimated": false,
+          },
+          "confirmedEmail": null,
+          "createdMillis": undefined,
+          "displayName": "Gordon Jackson",
+          "id": "5799958939291581341",
+          "isEditStaff": false,
+          "isGmgMember": false,
+          "isSales": false,
+          "isSuperuser": false,
+          "membership": Array [],
+          "remotes": Object {},
+          "screenName": "gordonmjackson",
+          "status": undefined,
+          "token": null,
+        },
+        User {
+          "authName": null,
+          "avatar": Object {
+            "format": "jpg",
+            "frozenFormat": "jpg",
+            "id": "pi7epaqjwbe9gotsjvs2",
+            "isAnimated": false,
+          },
+          "confirmedEmail": null,
+          "createdMillis": undefined,
+          "displayName": "Victoria Song",
+          "id": "5876237249238337793",
+          "isEditStaff": false,
+          "isGmgMember": false,
+          "isSales": false,
+          "isSuperuser": false,
+          "membership": Array [],
+          "remotes": Object {},
+          "screenName": "vsong",
+          "status": undefined,
+          "token": null,
+        },
+      ],
+      "body": Array [],
+      "bylineProperties": Object {
+        "byline": "",
+        "show": true,
+      },
+      "category": null,
+      "categoryData": null,
+      "customKinjaId": null,
+      "customSharingMainImage": Object {
+        "src": "https://i.kinja-img.com/gawker-media/image/upload/s--RQQBbVuY--/c_fit,fl_progressive,q_80,w_636/w5tdejxht9bd9azy1tdl.jpg",
+      },
+      "defaultBlog": null,
+      "defaultBlogId": "9",
+      "discussionSettings": undefined,
+      "editorial": false,
+      "featuredMedia": undefined,
+      "headline": "&lt;i&gt;Super Mario Odyssey&lt;/i&gt;: The Kotaku Review",
+      "id": "1819856086",
+      "images": Array [
+        Object {
+          "altText": undefined,
+          "format": "jpg",
+          "frozenFormat": "jpg",
+          "height": 357,
+          "id": "w5tdejxht9bd9azy1tdl",
+          "originalHeight": 357,
+          "originalWidth": 636,
+          "uid": "w5tdejxht9bd9azy1tdl",
+          "width": 636,
+        },
+        Object {
+          "altText": undefined,
+          "format": "jpg",
+          "frozenFormat": "jpg",
+          "height": 357,
+          "id": "gu6pddl55kstu2wvysjr",
+          "originalHeight": 357,
+          "originalWidth": 636,
+          "uid": "gu6pddl55kstu2wvysjr",
+          "width": 636,
+        },
+        Object {
+          "altText": undefined,
+          "format": "jpg",
+          "frozenFormat": "jpg",
+          "height": 357,
+          "id": "rl8v2eeugbmgxyrqttlm",
+          "originalHeight": 357,
+          "originalWidth": 636,
+          "uid": "rl8v2eeugbmgxyrqttlm",
+          "width": 636,
+        },
+        Object {
+          "altText": undefined,
+          "format": "jpg",
+          "frozenFormat": "jpg",
+          "height": 357,
+          "id": "bdxxiezrhvq6ogx1an0j",
+          "originalHeight": 357,
+          "originalWidth": 636,
+          "uid": "bdxxiezrhvq6ogx1an0j",
+          "width": 636,
+        },
+        Object {
+          "altText": undefined,
+          "format": "jpg",
+          "frozenFormat": "jpg",
+          "height": 357,
+          "id": "xs8w3sqz25mkk69g3qgg",
+          "originalHeight": 357,
+          "originalWidth": 636,
+          "uid": "xs8w3sqz25mkk69g3qgg",
+          "width": 636,
+        },
+      ],
+      "isFeatured": true,
+      "isRoundup": false,
+      "isVideo": false,
+      "largeOnStream": false,
+      "lastUpdateTimeMillis": undefined,
+      "likes": undefined,
+      "links": undefined,
+      "mainMedia": null,
+      "noindex": undefined,
+      "original": undefined,
+      "originalProps": Object {
+        "adSettings": null,
+        "allowReplies": true,
+        "approved": undefined,
+        "author": User {
+          "authName": null,
+          "avatar": Object {
+            "format": "jpg",
+            "frozenFormat": "jpg",
+            "id": "ql1l79ncdygfqwckzobr",
+            "isAnimated": false,
+          },
+          "confirmedEmail": null,
+          "createdMillis": undefined,
+          "displayName": "Chris Kohler",
+          "id": "5876237249237015770",
+          "isEditStaff": false,
+          "isGmgMember": false,
+          "isSales": false,
+          "isSuperuser": false,
+          "membership": Array [],
+          "remotes": Object {},
+          "screenName": "chriskohler",
+          "status": undefined,
+          "token": null,
+        },
+        "authorId": null,
+        "authorIds": null,
+        "authors": Array [
+          User {
+            "authName": null,
+            "avatar": Object {
+              "format": "jpg",
+              "frozenFormat": "jpg",
+              "id": "ql1l79ncdygfqwckzobr",
+              "isAnimated": false,
+            },
+            "confirmedEmail": null,
+            "createdMillis": undefined,
+            "displayName": "Chris Kohler",
+            "id": "5876237249237015770",
+            "isEditStaff": false,
+            "isGmgMember": false,
+            "isSales": false,
+            "isSuperuser": false,
+            "membership": Array [],
+            "remotes": Object {},
+            "screenName": "chriskohler",
+            "status": undefined,
+            "token": null,
+          },
+          User {
+            "authName": null,
+            "avatar": Object {
+              "format": "jpg",
+              "frozenFormat": "jpg",
+              "id": "udtnp2grvcczvcr1ajsc",
+              "isAnimated": false,
+            },
+            "confirmedEmail": null,
+            "createdMillis": undefined,
+            "displayName": "Gordon Jackson",
+            "id": "5799958939291581341",
+            "isEditStaff": false,
+            "isGmgMember": false,
+            "isSales": false,
+            "isSuperuser": false,
+            "membership": Array [],
+            "remotes": Object {},
+            "screenName": "gordonmjackson",
+            "status": undefined,
+            "token": null,
+          },
+          User {
+            "authName": null,
+            "avatar": Object {
+              "format": "jpg",
+              "frozenFormat": "jpg",
+              "id": "pi7epaqjwbe9gotsjvs2",
+              "isAnimated": false,
+            },
+            "confirmedEmail": null,
+            "createdMillis": undefined,
+            "displayName": "Victoria Song",
+            "id": "5876237249238337793",
+            "isEditStaff": false,
+            "isGmgMember": false,
+            "isSales": false,
+            "isSuperuser": false,
+            "membership": Array [],
+            "remotes": Object {},
+            "screenName": "vsong",
+            "status": undefined,
+            "token": null,
+          },
+        ],
+        "body": undefined,
+        "byline": Object {
+          "byline": "",
+          "show": true,
+        },
+        "category": null,
+        "categoryData": null,
+        "customSharingMainImage": Object {
+          "src": "https://i.kinja-img.com/gawker-media/image/upload/s--RQQBbVuY--/c_fit,fl_progressive,q_80,w_636/w5tdejxht9bd9azy1tdl.jpg",
+        },
+        "defaultBlog": null,
+        "defaultBlogId": "9",
+        "editorial": undefined,
+        "featuredMedia": undefined,
+        "headline": "<i>Super Mario Odyssey</i>: The Kotaku Review",
+        "id": "1819856086",
+        "images": Array [
+          Object {
+            "altText": undefined,
+            "format": "jpg",
+            "frozenFormat": "jpg",
+            "height": 357,
+            "id": "w5tdejxht9bd9azy1tdl",
+            "originalHeight": 357,
+            "originalWidth": 636,
+            "uid": "w5tdejxht9bd9azy1tdl",
+            "width": 636,
+          },
+          Object {
+            "altText": undefined,
+            "format": "jpg",
+            "frozenFormat": "jpg",
+            "height": 357,
+            "id": "gu6pddl55kstu2wvysjr",
+            "originalHeight": 357,
+            "originalWidth": 636,
+            "uid": "gu6pddl55kstu2wvysjr",
+            "width": 636,
+          },
+          Object {
+            "altText": undefined,
+            "format": "jpg",
+            "frozenFormat": "jpg",
+            "height": 357,
+            "id": "rl8v2eeugbmgxyrqttlm",
+            "originalHeight": 357,
+            "originalWidth": 636,
+            "uid": "rl8v2eeugbmgxyrqttlm",
+            "width": 636,
+          },
+          Object {
+            "altText": undefined,
+            "format": "jpg",
+            "frozenFormat": "jpg",
+            "height": 357,
+            "id": "bdxxiezrhvq6ogx1an0j",
+            "originalHeight": 357,
+            "originalWidth": 636,
+            "uid": "bdxxiezrhvq6ogx1an0j",
+            "width": 636,
+          },
+          Object {
+            "altText": undefined,
+            "format": "jpg",
+            "frozenFormat": "jpg",
+            "height": 357,
+            "id": "xs8w3sqz25mkk69g3qgg",
+            "originalHeight": 357,
+            "originalWidth": 636,
+            "uid": "xs8w3sqz25mkk69g3qgg",
+            "width": 636,
+          },
+        ],
+        "isFeatured": true,
+        "isRoundup": undefined,
+        "isVideo": false,
+        "largeOnStream": undefined,
+        "lastUpdateTimeMillis": undefined,
+        "likes": undefined,
+        "links": undefined,
+        "mainMedia": null,
+        "noindex": undefined,
+        "original": undefined,
+        "parent": undefined,
+        "parentAuthorId": null,
+        "parentId": null,
+        "permalinkHost": undefined,
+        "permalinkPath": undefined,
+        "permalinkRedirect": undefined,
+        "properties": undefined,
+        "publishTimeMillis": 1509022800086,
+        "qaMembers": Array [],
+        "qaParticipants": Array [],
+        "relatedModule": undefined,
+        "relatedPosts": undefined,
+        "replyCount": 405,
+        "repost": undefined,
+        "resolvedReviewScore": undefined,
+        "salesAvatar": null,
+        "sharedUrl": undefined,
+        "showAuthorBio": undefined,
+        "sponsored": false,
+        "staffIncluded": false,
+        "starterId": null,
+        "status": "PUBLISHED",
+        "storyType": StoryType {
+          "blogId": 9,
+          "boilerplate": undefined,
+          "canonical": "review",
+          "content": "Standard",
+          "description": undefined,
+          "id": 69,
+          "image": undefined,
+          "title": "Review",
+        },
+        "storyTypeId": undefined,
+        "subcategory": null,
+        "subcategoryData": null,
+        "tags": Array [
+          Tag {
+            "canonical": "supermarioodyssey",
+            "displayName": "Super Mario Odyssey",
+            "urlName": "super-mario-odyssey",
+          },
+          Tag {
+            "canonical": "review",
+            "displayName": "Review",
+            "urlName": "review",
+          },
+          Tag {
+            "canonical": "nintendoswitch",
+            "displayName": "Nintendo Switch",
+            "urlName": "nintendo-switch",
+          },
+          Tag {
+            "canonical": "nintendo",
+            "displayName": "Nintendo",
+            "urlName": "nintendo",
+          },
+          Tag {
+            "canonical": "mario",
+            "displayName": "Mario",
+            "urlName": "mario",
+          },
+          Tag {
+            "canonical": "kotakucore",
+            "displayName": "kotakucore",
+            "urlName": "kotakucore",
+          },
+        ],
+        "template": undefined,
+        "timezone": "America/New_York",
+        "uniqueViewCount": undefined,
+        "viewCount": undefined,
+      },
+      "parent": undefined,
+      "parentAuthorId": null,
+      "parentId": null,
+      "permalinkHost": "",
+      "permalinkPath": "",
+      "permalinkRedirect": undefined,
+      "properties": undefined,
+      "publishTimeMillis": 1509022800086,
+      "qaMembers": Array [],
+      "qaParticipants": Array [],
+      "relatedModule": undefined,
+      "relatedPosts": Array [],
+      "replyCount": 405,
+      "repost": undefined,
+      "resolvedReviewScore": null,
+      "salesAvatar": null,
+      "sharedUrl": undefined,
+      "showAuthorBio": false,
+      "sponsored": false,
+      "staffIncluded": false,
+      "starterId": null,
+      "status": "PUBLISHED",
+      "storyType": StoryType {
+        "blogId": 9,
+        "boilerplate": undefined,
+        "canonical": "review",
+        "content": "Standard",
+        "description": undefined,
+        "id": 69,
+        "image": undefined,
+        "title": "Review",
+      },
+      "storyTypeId": undefined,
+      "subcategory": null,
+      "subcategoryData": null,
+      "tags": Array [
+        Tag {
+          "canonical": "supermarioodyssey",
+          "displayName": "Super Mario Odyssey",
+          "urlName": "super-mario-odyssey",
+        },
+        Tag {
+          "canonical": "review",
+          "displayName": "Review",
+          "urlName": "review",
+        },
+        Tag {
+          "canonical": "nintendoswitch",
+          "displayName": "Nintendo Switch",
+          "urlName": "nintendo-switch",
+        },
+        Tag {
+          "canonical": "nintendo",
+          "displayName": "Nintendo",
+          "urlName": "nintendo",
+        },
+        Tag {
+          "canonical": "mario",
+          "displayName": "Mario",
+          "urlName": "mario",
+        },
+        Tag {
+          "canonical": "kotakucore",
+          "displayName": "kotakucore",
+          "urlName": "kotakucore",
+        },
+      ],
+      "template": null,
+      "timezone": "America/New_York",
+      "uniqueViewCount": undefined,
+      "viewCount": undefined,
+    }
+  }
+>
+  <EnsureDefaultTheme>
+    <ThemeProvider
+      theme={[Function]}
+    >
+      <byline__BylineContainer>
+        <StyledComponent
+          forwardedComponent={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": Array [],
+              "componentStyle": ComponentStyle {
+                "componentId": "byline__BylineContainer-sc-6peqjo-0",
+                "isStatic": false,
+                "lastClassName": "c0",
+                "rules": Array [
+                  "font-family:",
+                  [Function],
+                  ";line-height:20px;text-align:left;",
+                  "@media only screen and ",
+                  "(max-width: 37.31em)",
+                  "{",
+                  "
+		display: flex;
+		flex-direction: column;
+	",
+                  "}",
+                ],
+              },
+              "displayName": "byline__BylineContainer",
+              "foldedComponentIds": Array [],
+              "render": [Function],
+              "styledComponentId": "byline__BylineContainer-sc-6peqjo-0",
+              "target": "div",
+              "toString": [Function],
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+        >
+          <div
+            className="c0"
+          >
+            <byline__MultipleAuthorsContainer>
+              <StyledComponent
+                forwardedComponent={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": Array [],
+                    "componentStyle": ComponentStyle {
+                      "componentId": "byline__MultipleAuthorsContainer-sc-6peqjo-1",
+                      "isStatic": false,
+                      "lastClassName": "c1",
+                      "rules": Array [
+                        "@media only screen and ",
+                        "(min-width: 37.37em)",
+                        "{",
+                        "
+
+		",
+                        [Function],
+                        "
+	",
+                        "}",
+                      ],
+                    },
+                    "displayName": "byline__MultipleAuthorsContainer",
+                    "foldedComponentIds": Array [],
+                    "render": [Function],
+                    "styledComponentId": "byline__MultipleAuthorsContainer-sc-6peqjo-1",
+                    "target": "span",
+                    "toString": [Function],
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+              >
+                <span
+                  className="c1"
+                >
+                  <MultipleAuthorsStatic
+                    authors={
+                      Array [
+                        User {
+                          "authName": null,
+                          "avatar": Object {
+                            "format": "jpg",
+                            "frozenFormat": "jpg",
+                            "id": "qqrex4g4qmpkf67wwrcu",
+                            "isAnimated": false,
+                          },
+                          "confirmedEmail": null,
+                          "createdMillis": 0,
+                          "displayName": "Looking Glass",
+                          "id": "1",
+                          "isEditStaff": false,
+                          "isGmgMember": false,
+                          "isSales": false,
+                          "isSuperuser": false,
+                          "membership": Array [],
+                          "remotes": Object {},
+                          "screenName": "speculum",
+                          "status": "enabled",
+                          "token": null,
+                        },
+                        User {
+                          "authName": null,
+                          "avatar": Object {
+                            "format": "jpg",
+                            "frozenFormat": "jpg",
+                            "id": "qqrex4g4qmpkf67wwrcu",
+                            "isAnimated": false,
+                          },
+                          "confirmedEmail": null,
+                          "createdMillis": 0,
+                          "displayName": "Baba Yaga",
+                          "id": "2",
+                          "isEditStaff": false,
+                          "isGmgMember": false,
+                          "isSales": false,
+                          "isSuperuser": false,
+                          "membership": Array [],
+                          "remotes": Object {},
+                          "screenName": "necdivinos",
+                          "status": "enabled",
+                          "token": null,
+                        },
+                      ]
+                    }
+                    index={1}
+                    pageType="frontpage"
+                    postIsDeals={false}
+                  >
+                    <EnsureDefaultTheme>
+                      <ThemeProvider
+                        theme={[Function]}
+                      >
+                        <multiple-authors-static__MultipleAuthorsStaticElement
+                          key="1"
+                        >
+                          <StyledComponent
+                            forwardedComponent={
+                              Object {
+                                "$$typeof": Symbol(react.forward_ref),
+                                "attrs": Array [],
+                                "componentStyle": ComponentStyle {
+                                  "componentId": "multiple-authors-static__MultipleAuthorsStaticElement-sc-1ixdk2y-0",
+                                  "isStatic": false,
+                                  "lastClassName": "c2",
+                                  "rules": Array [
+                                    "display:flex;&:focus{outline:none;}",
+                                    "display:inline-flex;font-size:14px;line-height:19px;text-align:left;a{color:",
+                                    [Function],
+                                    ";:hover,:focus{color:",
+                                    [Function],
+                                    ";text-decoration:none;outline:none;}:active{color:",
+                                    [Function],
+                                    ";}}",
+                                  ],
+                                },
+                                "displayName": "multiple-authors-static__MultipleAuthorsStaticElement",
+                                "foldedComponentIds": Array [
+                                  "styledElements__MultipleAuthorsElement-sc-1mep9y1-0",
+                                ],
+                                "render": [Function],
+                                "styledComponentId": "multiple-authors-static__MultipleAuthorsStaticElement-sc-1ixdk2y-0",
+                                "target": "div",
+                                "toString": [Function],
+                                "warnTooManyClasses": [Function],
+                                "withComponent": [Function],
+                              }
+                            }
+                            forwardedRef={null}
+                          >
+                            <div
+                              className="c2"
+                            >
+                              <Link
+                                events={
+                                  Array [
+                                    Array [
+                                      "Front page click",
+                                      "stream author click - 1",
+                                      "https://kinja.com/speculum",
+                                      Object {
+                                        "metric19": 1,
+                                      },
+                                    ],
+                                  ]
+                                }
+                                href="https://kinja.com/speculum"
+                              >
+                                <link__Anchor
+                                  className="js_link"
+                                  dangerouslySetInnerHTML={null}
+                                  data-ga="[[\\"Front page click\\",\\"stream author click - 1\\",\\"https://kinja.com/speculum\\",{\\"metric19\\":1}]]"
+                                  href="https://kinja.com/speculum"
+                                >
+                                  <StyledComponent
+                                    className="js_link"
+                                    dangerouslySetInnerHTML={null}
+                                    data-ga="[[\\"Front page click\\",\\"stream author click - 1\\",\\"https://kinja.com/speculum\\",{\\"metric19\\":1}]]"
+                                    forwardedComponent={
+                                      Object {
+                                        "$$typeof": Symbol(react.forward_ref),
+                                        "attrs": Array [],
+                                        "componentStyle": ComponentStyle {
+                                          "componentId": "c3",
+                                          "isStatic": true,
+                                          "lastClassName": "c4",
+                                          "rules": Array [
+                                            "text-decoration:none;",
+                                          ],
+                                        },
+                                        "displayName": "link__Anchor",
+                                        "foldedComponentIds": Array [],
+                                        "render": [Function],
+                                        "styledComponentId": "c3",
+                                        "target": "a",
+                                        "toString": [Function],
+                                        "warnTooManyClasses": [Function],
+                                        "withComponent": [Function],
+                                      }
+                                    }
+                                    forwardedRef={null}
+                                    href="https://kinja.com/speculum"
+                                  >
+                                    <a
+                                      className="js_link c3 c4"
+                                      dangerouslySetInnerHTML={null}
+                                      data-ga="[[\\"Front page click\\",\\"stream author click - 1\\",\\"https://kinja.com/speculum\\",{\\"metric19\\":1}]]"
+                                      href="https://kinja.com/speculum"
+                                    >
+                                      Looking Glass
+                                    </a>
+                                  </StyledComponent>
+                                </link__Anchor>
+                              </Link>
+                            </div>
+                          </StyledComponent>
+                        </multiple-authors-static__MultipleAuthorsStaticElement>
+                        <multiple-authors-static__MultipleAuthorsStaticElement
+                          key="2"
+                        >
+                          <StyledComponent
+                            forwardedComponent={
+                              Object {
+                                "$$typeof": Symbol(react.forward_ref),
+                                "attrs": Array [],
+                                "componentStyle": ComponentStyle {
+                                  "componentId": "multiple-authors-static__MultipleAuthorsStaticElement-sc-1ixdk2y-0",
+                                  "isStatic": false,
+                                  "lastClassName": "c2",
+                                  "rules": Array [
+                                    "display:flex;&:focus{outline:none;}",
+                                    "display:inline-flex;font-size:14px;line-height:19px;text-align:left;a{color:",
+                                    [Function],
+                                    ";:hover,:focus{color:",
+                                    [Function],
+                                    ";text-decoration:none;outline:none;}:active{color:",
+                                    [Function],
+                                    ";}}",
+                                  ],
+                                },
+                                "displayName": "multiple-authors-static__MultipleAuthorsStaticElement",
+                                "foldedComponentIds": Array [
+                                  "styledElements__MultipleAuthorsElement-sc-1mep9y1-0",
+                                ],
+                                "render": [Function],
+                                "styledComponentId": "multiple-authors-static__MultipleAuthorsStaticElement-sc-1ixdk2y-0",
+                                "target": "div",
+                                "toString": [Function],
+                                "warnTooManyClasses": [Function],
+                                "withComponent": [Function],
+                              }
+                            }
+                            forwardedRef={null}
+                          >
+                            <div
+                              className="c2"
+                            >
+                              <multiple-authors-static__Divider>
+                                <StyledComponent
+                                  forwardedComponent={
+                                    Object {
+                                      "$$typeof": Symbol(react.forward_ref),
+                                      "attrs": Array [],
+                                      "componentStyle": ComponentStyle {
+                                        "componentId": "multiple-authors-static__Divider-sc-1ixdk2y-1",
+                                        "isStatic": false,
+                                        "lastClassName": "c5",
+                                        "rules": Array [
+                                          "color:",
+                                          [Function],
+                                          ";",
+                                        ],
+                                      },
+                                      "displayName": "multiple-authors-static__Divider",
+                                      "foldedComponentIds": Array [],
+                                      "render": [Function],
+                                      "styledComponentId": "multiple-authors-static__Divider-sc-1ixdk2y-1",
+                                      "target": "span",
+                                      "toString": [Function],
+                                      "warnTooManyClasses": [Function],
+                                      "withComponent": [Function],
+                                    }
+                                  }
+                                  forwardedRef={null}
+                                >
+                                  <span
+                                    className="c5"
+                                  >
+                                     
+                                    and 
+                                  </span>
+                                </StyledComponent>
+                              </multiple-authors-static__Divider>
+                              <Link
+                                events={
+                                  Array [
+                                    Array [
+                                      "Front page click",
+                                      "stream author click - 1",
+                                      "https://kinja.com/necdivinos",
+                                      Object {
+                                        "metric19": 1,
+                                      },
+                                    ],
+                                  ]
+                                }
+                                href="https://kinja.com/necdivinos"
+                              >
+                                <link__Anchor
+                                  className="js_link"
+                                  dangerouslySetInnerHTML={null}
+                                  data-ga="[[\\"Front page click\\",\\"stream author click - 1\\",\\"https://kinja.com/necdivinos\\",{\\"metric19\\":1}]]"
+                                  href="https://kinja.com/necdivinos"
+                                >
+                                  <StyledComponent
+                                    className="js_link"
+                                    dangerouslySetInnerHTML={null}
+                                    data-ga="[[\\"Front page click\\",\\"stream author click - 1\\",\\"https://kinja.com/necdivinos\\",{\\"metric19\\":1}]]"
+                                    forwardedComponent={
+                                      Object {
+                                        "$$typeof": Symbol(react.forward_ref),
+                                        "attrs": Array [],
+                                        "componentStyle": ComponentStyle {
+                                          "componentId": "c3",
+                                          "isStatic": true,
+                                          "lastClassName": "c4",
+                                          "rules": Array [
+                                            "text-decoration:none;",
+                                          ],
+                                        },
+                                        "displayName": "link__Anchor",
+                                        "foldedComponentIds": Array [],
+                                        "render": [Function],
+                                        "styledComponentId": "c3",
+                                        "target": "a",
+                                        "toString": [Function],
+                                        "warnTooManyClasses": [Function],
+                                        "withComponent": [Function],
+                                      }
+                                    }
+                                    forwardedRef={null}
+                                    href="https://kinja.com/necdivinos"
+                                  >
+                                    <a
+                                      className="js_link c3 c4"
+                                      dangerouslySetInnerHTML={null}
+                                      data-ga="[[\\"Front page click\\",\\"stream author click - 1\\",\\"https://kinja.com/necdivinos\\",{\\"metric19\\":1}]]"
+                                      href="https://kinja.com/necdivinos"
+                                    >
+                                      Baba Yaga
+                                    </a>
+                                  </StyledComponent>
+                                </link__Anchor>
+                              </Link>
+                            </div>
+                          </StyledComponent>
+                        </multiple-authors-static__MultipleAuthorsStaticElement>
+                      </ThemeProvider>
+                    </EnsureDefaultTheme>
+                  </MultipleAuthorsStatic>
+                </span>
+              </StyledComponent>
+            </byline__MultipleAuthorsContainer>
+            <MetaTime
+              index={1}
+              language="en-US"
+              millis={1509022800086}
+              pageType="frontpage"
+              permalink=""
+              postId="1819856086"
+            >
+              <EnsureDefaultTheme>
+                <ThemeProvider
+                  theme={[Function]}
+                >
+                  <meta-time__TimeContainer
+                    dateTime="Fake Date"
+                  >
+                    <StyledComponent
+                      dateTime="Fake Date"
+                      forwardedComponent={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "attrs": Array [],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "meta-time__TimeContainer-uhd9ir-0",
+                            "isStatic": false,
+                            "lastClassName": "c6",
+                            "rules": Array [
+                              "display:inline-block;font-size:14px;line-height:19px;",
+                              ".c3",
+                              "{color:",
+                              [Function],
+                              ";:hover{color:",
+                              [Function],
+                              ";}}",
+                            ],
+                          },
+                          "displayName": "meta-time__TimeContainer",
+                          "foldedComponentIds": Array [],
+                          "render": [Function],
+                          "styledComponentId": "meta-time__TimeContainer-uhd9ir-0",
+                          "target": "time",
+                          "toString": [Function],
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                    >
+                      <time
+                        className="c6"
+                        dateTime="Fake Date"
+                      >
+                        <Link
+                          className="js_meta-time"
+                          events={
+                            Array [
+                              Array [
+                                "Front page click",
+                                "stream post click - 1",
+                                "",
+                                Object {
+                                  "metric19": 1,
+                                },
+                              ],
+                            ]
+                          }
+                          href=""
+                          kalaEvent={
+                            Array [
+                              "STREAM_CLICK",
+                              "POST",
+                              "1819856086",
+                            ]
+                          }
+                        >
+                          <link__Anchor
+                            className="js_meta-time js_link"
+                            dangerouslySetInnerHTML={null}
+                            data-ga="[[\\"Front page click\\",\\"stream post click - 1\\",\\"\\",{\\"metric19\\":1}]]"
+                            data-kala="[\\"STREAM_CLICK\\",\\"POST\\",\\"1819856086\\"]"
+                            href=""
+                          >
+                            <StyledComponent
+                              className="js_meta-time js_link"
+                              dangerouslySetInnerHTML={null}
+                              data-ga="[[\\"Front page click\\",\\"stream post click - 1\\",\\"\\",{\\"metric19\\":1}]]"
+                              data-kala="[\\"STREAM_CLICK\\",\\"POST\\",\\"1819856086\\"]"
+                              forwardedComponent={
+                                Object {
+                                  "$$typeof": Symbol(react.forward_ref),
+                                  "attrs": Array [],
+                                  "componentStyle": ComponentStyle {
+                                    "componentId": "c3",
+                                    "isStatic": true,
+                                    "lastClassName": "c4",
+                                    "rules": Array [
+                                      "text-decoration:none;",
+                                    ],
+                                  },
+                                  "displayName": "link__Anchor",
+                                  "foldedComponentIds": Array [],
+                                  "render": [Function],
+                                  "styledComponentId": "c3",
+                                  "target": "a",
+                                  "toString": [Function],
+                                  "warnTooManyClasses": [Function],
+                                  "withComponent": [Function],
+                                }
+                              }
+                              forwardedRef={null}
+                              href=""
+                            >
+                              <a
+                                className="js_meta-time js_link c3 c4"
+                                dangerouslySetInnerHTML={null}
+                                data-ga="[[\\"Front page click\\",\\"stream post click - 1\\",\\"\\",{\\"metric19\\":1}]]"
+                                data-kala="[\\"STREAM_CLICK\\",\\"POST\\",\\"1819856086\\"]"
+                                href=""
+                              >
+                                Fake Time
+                              </a>
+                            </StyledComponent>
+                          </link__Anchor>
+                        </Link>
+                      </time>
+                    </StyledComponent>
+                  </meta-time__TimeContainer>
+                </ThemeProvider>
+              </EnsureDefaultTheme>
+            </MetaTime>
+          </div>
+        </StyledComponent>
+      </byline__BylineContainer>
+    </ThemeProvider>
+  </EnsureDefaultTheme>
+</Byline>
+`;

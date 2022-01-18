@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="99" height="20" viewBox="0 0 99 20">
+  <defs>
+    <rect id="under_review-a" width="99" height="20" rx="4"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <mask id="under_review-b" fill="#fff">
+      <use xlink:href="#under_review-a"/>
+    </mask>
+    <use fill="#FFF" xlink:href="#under_review-a"/>
+    <g fill="#EEB544" mask="url(#under_review-b)">
+      <rect width="99" height="20"/>
+    </g>
+    <g transform="translate(4 1)">
+      <text fill="#222" font-family="ProximaNovaCond-Regular, Proxima Nova Condensed" font-size="14" font-style="condensed" transform="translate(18)">
+        <tspan x="0" y="14">Under review</tspan>
+      </text>
+      <g stroke="#000" transform="translate(.889 2.667)">
+        <path d="M6.66666667,0.755555556 C6.90666667,0.337777778 7.31555556,0.337777778 7.55555556,0.755555556 L13.2266667,10.3555556 C13.4755556,10.7733333 13.2888889,11.1111111 12.8,11.1111111 L1.42222222,11.1111111 C0.942222222,11.1111111 0.746666667,10.7644444 0.995555556,10.3466667 L6.66666667,0.755555556 Z"/>
+        <path d="M7.55555556,8.88888889 C7.55555556,8.643429 7.356571,8.44444444 7.11111111,8.44444444 C6.87111111,8.44444444 6.66666667,8.64888889 6.66666667,8.88888889 C6.66666667,9.12888889 6.87111111,9.33333333 7.11111111,9.33333333 C7.356571,9.33333333 7.55555556,9.13434878 7.55555556,8.88888889 Z M7.55555556,5.32444444 C7.55555556,4.62222222 7.36,4 7.11111111,4 C6.87111111,4 6.66666667,4.62222222 6.66666667,5.32444444 C6.66666667,6.03555556 6.87111111,6.66666667 7.11111111,6.66666667 C7.36,6.66666667 7.55555556,6.04444444 7.55555556,5.32444444 Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

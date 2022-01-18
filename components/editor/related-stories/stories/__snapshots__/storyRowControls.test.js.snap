@@ -1,0 +1,412 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<StoryRowControls /> should render properly 1`] = `
+.c6 {
+  fill: currentColor;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c4 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  width: 100%;
+  white-space: nowrap;
+  pointer-events: none;
+}
+
+.c4 svg + span {
+  margin-left: 4px;
+}
+
+.c4 .c5 + span {
+  margin-left: 4px;
+}
+
+.c2 {
+  width: auto;
+  height: 34px;
+  padding: 0 2rem;
+  border: transparent 1px solid;
+  border-radius: 34px;
+  border-color: transparent;
+  color: #FFF;
+  font-size: 14px;
+  text-align: center;
+  line-height: 34px;
+  background-color: #0A7BC2;
+  -webkit-transition: background-color 0.2s ease-out,border-color 0.2s ease-out,color 0.2s ease-out;
+  transition: background-color 0.2s ease-out,border-color 0.2s ease-out,color 0.2s ease-out;
+}
+
+.c2 .c3 > svg {
+  margin-bottom: 2px;
+}
+
+.c2 .c5 {
+  margin-bottom: 2px;
+}
+
+.c2:hover,
+.c2:active,
+.c2:focus {
+  color: #fff;
+  border-color: transparent;
+  background-color: #085c91;
+}
+
+.c2:hover .c3 > svg,
+.c2:active .c3 > svg,
+.c2:focus .c3 > svg {
+  stroke: #fff;
+}
+
+.c0 {
+  position: absolute;
+  right: 0;
+  height: 113px;
+  width: 30px;
+  z-index: 1;
+}
+
+.c1 {
+  left: 50%;
+  position: absolute;
+}
+
+.c1:first-child {
+  top: 18%;
+}
+
+.c1:nth-child(2) {
+  bottom: 18%;
+}
+
+.c1:only-child {
+  top: 32%;
+}
+
+<StoryRowControls
+  currentCount={1}
+  index={1}
+  maxRows={1}
+>
+  <EnsureDefaultTheme>
+    <ThemeProvider
+      theme={[Function]}
+    >
+      <storyRowControls__StoryRowControlWrapper>
+        <StyledComponent
+          forwardedComponent={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": Array [],
+              "componentStyle": ComponentStyle {
+                "componentId": "storyRowControls__StoryRowControlWrapper-kn21xx-0",
+                "isStatic": true,
+                "lastClassName": "c0",
+                "rules": Array [
+                  "position:absolute;right:0;height:113px;width:30px;z-index:1;",
+                ],
+              },
+              "displayName": "storyRowControls__StoryRowControlWrapper",
+              "foldedComponentIds": Array [],
+              "render": [Function],
+              "styledComponentId": "storyRowControls__StoryRowControlWrapper-kn21xx-0",
+              "target": "div",
+              "toString": [Function],
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+        >
+          <div
+            className="c0"
+          >
+            <storyRowControls__ButtonItem
+              icon={<PlusIcon />}
+              key="add"
+              kind="circle"
+              onClick={[Function]}
+              small={true}
+              type="primary"
+            >
+              <StyledComponent
+                forwardedComponent={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": Array [],
+                    "componentStyle": ComponentStyle {
+                      "componentId": "storyRowControls__ButtonItem-kn21xx-1",
+                      "isStatic": true,
+                      "lastClassName": "c1",
+                      "rules": Array [
+                        "left:50%;position:absolute;&:first-child{top:18%;}&:nth-child(2){bottom:18%;}&:only-child{top:32%;}",
+                      ],
+                    },
+                    "displayName": "storyRowControls__ButtonItem",
+                    "foldedComponentIds": Array [],
+                    "render": [Function],
+                    "styledComponentId": "storyRowControls__ButtonItem-kn21xx-1",
+                    "target": [Function],
+                    "toString": [Function],
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                    Symbol(Symbol.hasInstance): [Function],
+                  }
+                }
+                forwardedRef={null}
+                icon={<PlusIcon />}
+                kind="circle"
+                onClick={[Function]}
+                small={true}
+                type="primary"
+              >
+                <Button
+                  className="c1"
+                  icon={<PlusIcon />}
+                  kind="circle"
+                  onClick={[Function]}
+                  small={true}
+                  type="primary"
+                >
+                  <EnsureDefaultTheme>
+                    <ThemeProvider
+                      theme={[Function]}
+                    >
+                      <Button__ButtonWrapper
+                        className="c1"
+                        kind="circle"
+                        onClick={[Function]}
+                        small={true}
+                        type="primary"
+                        weight="primary"
+                      >
+                        <StyledComponent
+                          className="c1"
+                          forwardedComponent={
+                            Object {
+                              "$$typeof": Symbol(react.forward_ref),
+                              "attrs": Array [],
+                              "componentStyle": ComponentStyle {
+                                "componentId": "Button__ButtonWrapper-j48i5d-2",
+                                "isStatic": false,
+                                "lastClassName": "c2",
+                                "rules": Array [
+                                  "width:",
+                                  [Function],
+                                  ";height:",
+                                  [Function],
+                                  ";padding:",
+                                  [Function],
+                                  ";border:transparent 1px solid;border-radius:",
+                                  [Function],
+                                  ";border-color:",
+                                  [Function],
+                                  ";color:",
+                                  [Function],
+                                  ";font-size:",
+                                  [Function],
+                                  ";text-align:",
+                                  [Function],
+                                  ";line-height:",
+                                  [Function],
+                                  ";background-color:",
+                                  [Function],
+                                  ";transition:",
+                                  [Function],
+                                  ";",
+                                  [Function],
+                                  ";",
+                                  [Function],
+                                  ";",
+                                  ".c3",
+                                  " > svg{margin-bottom:2px;",
+                                  [Function],
+                                  " ",
+                                  [Function],
+                                  " ",
+                                  [Function],
+                                  " ",
+                                  [Function],
+                                  " ",
+                                  [Function],
+                                  " ",
+                                  [Function],
+                                  "}",
+                                  ".c5",
+                                  "{margin-bottom:2px;}&:hover,&:active,&:focus{color:",
+                                  [Function],
+                                  ";border-color:",
+                                  [Function],
+                                  ";background-color:",
+                                  [Function],
+                                  ";",
+                                  [Function],
+                                  " ",
+                                  [Function],
+                                  " ",
+                                  ".c3",
+                                  " > svg{",
+                                  [Function],
+                                  " ",
+                                  [Function],
+                                  " ",
+                                  [Function],
+                                  " ",
+                                  [Function],
+                                  "}}",
+                                  "@media only screen and ",
+                                  "(max-width: 49.94em)",
+                                  "{",
+                                  "
+		",
+                                  [Function],
+                                  "
+	",
+                                  "}",
+                                ],
+                              },
+                              "displayName": "Button__ButtonWrapper",
+                              "foldedComponentIds": Array [],
+                              "render": [Function],
+                              "styledComponentId": "Button__ButtonWrapper-j48i5d-2",
+                              "target": "button",
+                              "toString": [Function],
+                              "warnTooManyClasses": [Function],
+                              "withComponent": [Function],
+                            }
+                          }
+                          forwardedRef={null}
+                          kind="circle"
+                          onClick={[Function]}
+                          small={true}
+                          type="primary"
+                          weight="primary"
+                        >
+                          <button
+                            className="c1 c2"
+                            kind="circle"
+                            onClick={[Function]}
+                            type="primary"
+                          >
+                            <Button__ButtonInner>
+                              <StyledComponent
+                                forwardedComponent={
+                                  Object {
+                                    "$$typeof": Symbol(react.forward_ref),
+                                    "attrs": Array [],
+                                    "componentStyle": ComponentStyle {
+                                      "componentId": "c3",
+                                      "isStatic": false,
+                                      "lastClassName": "c4",
+                                      "rules": Array [
+                                        "align-items:center;display:flex;justify-content:center;width:100%;white-space:nowrap;pointer-events:none;svg{",
+                                        [Function],
+                                        " + span{margin-left:4px;}}",
+                                        ".c5",
+                                        "{+ span{margin-left:4px;}}",
+                                      ],
+                                    },
+                                    "displayName": "Button__ButtonInner",
+                                    "foldedComponentIds": Array [],
+                                    "render": [Function],
+                                    "styledComponentId": "c3",
+                                    "target": "div",
+                                    "toString": [Function],
+                                    "warnTooManyClasses": [Function],
+                                    "withComponent": [Function],
+                                  }
+                                }
+                                forwardedRef={null}
+                              >
+                                <div
+                                  className="c3 c4"
+                                >
+                                  <PlusIcon>
+                                    <Icon19>
+                                      <icon19__IconWrapper>
+                                        <StyledComponent
+                                          forwardedComponent={
+                                            Object {
+                                              "$$typeof": Symbol(react.forward_ref),
+                                              "attrs": Array [],
+                                              "componentStyle": ComponentStyle {
+                                                "componentId": "c5",
+                                                "isStatic": true,
+                                                "lastClassName": "c6",
+                                                "rules": Array [
+                                                  "fill:currentColor;display:flex;",
+                                                ],
+                                              },
+                                              "displayName": "icon19__IconWrapper",
+                                              "foldedComponentIds": Array [],
+                                              "render": [Function],
+                                              "styledComponentId": "c5",
+                                              "target": "span",
+                                              "toString": [Function],
+                                              "warnTooManyClasses": [Function],
+                                              "withComponent": [Function],
+                                            }
+                                          }
+                                          forwardedRef={null}
+                                        >
+                                          <span
+                                            className="c5 c6"
+                                          >
+                                            <Plus
+                                              aria-label="Plus icon"
+                                              height="18"
+                                              viewBox="0 0 18 18"
+                                              width="18"
+                                              xmlns="http://www.w3.org/2000/svg"
+                                            >
+                                              <svg
+                                                aria-label="Plus icon"
+                                                height="18"
+                                                viewBox="0 0 18 18"
+                                                width="18"
+                                                xmlns="http://www.w3.org/2000/svg"
+                                              >
+                                                <path
+                                                  d="M9 2c.28 0 .5.22.5.5v6h6a.5.5 0 0 1 .5.41V9a.5.5 0 0 1-.5.5h-6v6a.5.5 0 0 1-.41.5H9a.5.5 0 0 1-.5-.5v-6h-6a.5.5 0 0 1-.5-.41V9c0-.28.22-.5.5-.5h6v-6a.5.5 0 0 1 .41-.5z"
+                                                  fillRule="evenodd"
+                                                />
+                                              </svg>
+                                            </Plus>
+                                          </span>
+                                        </StyledComponent>
+                                      </icon19__IconWrapper>
+                                    </Icon19>
+                                  </PlusIcon>
+                                </div>
+                              </StyledComponent>
+                            </Button__ButtonInner>
+                          </button>
+                        </StyledComponent>
+                      </Button__ButtonWrapper>
+                    </ThemeProvider>
+                  </EnsureDefaultTheme>
+                </Button>
+              </StyledComponent>
+            </storyRowControls__ButtonItem>
+          </div>
+        </StyledComponent>
+      </storyRowControls__StoryRowControlWrapper>
+    </ThemeProvider>
+  </EnsureDefaultTheme>
+</StoryRowControls>
+`;

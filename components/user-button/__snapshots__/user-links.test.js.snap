@@ -1,0 +1,383 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<UserButton /> user links GMG members should return links for editors 1`] = `
+Array [
+  Object {
+    "href": "//kinja.com/mborlay",
+    "icon": <UserIcon />,
+    "label": "Your Profile",
+    "onClick": [Function],
+  },
+  Object {
+    "href": "//kinja.com/dashboard/notifications",
+    "icon": <BellIcon />,
+    "label": <ForwardRef(user-links__NotificationsContainer)>
+      <span>
+        Notifications
+      </span>
+    </ForwardRef(user-links__NotificationsContainer)>,
+    "onClick": [Function],
+  },
+  Object {
+    "href": "//kinja.com/write?blogid=",
+    "icon": <PencilIcon />,
+    "label": "Compose a Post",
+    "onClick": [Function],
+    "shouldRender": true,
+  },
+  Object {
+    "href": "//kinja.com/mborlay/saved",
+    "icon": <BookmarkIcon />,
+    "label": "Saved Articles",
+    "onClick": [Function],
+  },
+  Object {
+    "href": "//kinja.com/manage/your/drafts",
+    "icon": <SettingsIcon />,
+    "label": "Manage Your Drafts",
+    "onClick": [Function],
+    "shouldRender": true,
+  },
+  Object {
+    "href": "//kinja.com/dashboard",
+    "icon": <HomeIcon />,
+    "label": "Dashboard",
+    "onClick": [Function],
+  },
+  Object {
+    "icon": <IssueIcon />,
+    "label": "Report an Issue",
+    "onClick": [Function],
+    "shouldRender": true,
+  },
+  Object {
+    "href": "//kinja.com/superuser/specialsection/add",
+    "icon": <AddBlogIcon />,
+    "label": "New Special Section blog",
+    "onClick": [Function],
+    "shouldRender": true,
+  },
+  Object {
+    "icon": <LogoutIcon />,
+    "label": "Logout",
+    "onClick": [Function],
+  },
+]
+`;
+
+exports[`<UserButton /> user links Sales people should return links for sales people 1`] = `
+Array [
+  Object {
+    "href": "//kinja.com/mborlay",
+    "icon": <UserIcon />,
+    "label": "Your Profile",
+    "onClick": [Function],
+  },
+  Object {
+    "href": "//kinja.com/dashboard/notifications",
+    "icon": <BellIcon />,
+    "label": <ForwardRef(user-links__NotificationsContainer)>
+      <span>
+        Notifications
+      </span>
+    </ForwardRef(user-links__NotificationsContainer)>,
+    "onClick": [Function],
+  },
+  Object {
+    "href": "//kinja.com/write?blogid=",
+    "icon": <PencilIcon />,
+    "label": "Compose a Post",
+    "onClick": [Function],
+    "shouldRender": true,
+  },
+  Object {
+    "href": "//kinja.com/mborlay/saved",
+    "icon": <BookmarkIcon />,
+    "label": "Saved Articles",
+    "onClick": [Function],
+  },
+  Object {
+    "href": "//kinja.com/manage/your/drafts",
+    "icon": <SettingsIcon />,
+    "label": "Manage Your Drafts",
+    "onClick": [Function],
+    "shouldRender": true,
+  },
+  Object {
+    "href": "//kinja.com/dashboard",
+    "icon": <HomeIcon />,
+    "label": "Dashboard",
+    "onClick": [Function],
+  },
+  Object {
+    "href": "//kinja.com/superuser/specialsection/add",
+    "icon": <AddBlogIcon />,
+    "label": "New Special Section blog",
+    "onClick": [Function],
+    "shouldRender": true,
+  },
+  Object {
+    "href": "//kinja.com/dfp/promote",
+    "icon": <StarCircleIcon />,
+    "label": "Promote",
+    "onClick": [Function],
+    "shouldRender": true,
+  },
+  Object {
+    "href": "//kinja.com/dfp/promotions",
+    "icon": <StarIcon />,
+    "label": "Active Promotions",
+    "onClick": [Function],
+    "shouldRender": true,
+  },
+  Object {
+    "icon": <LogoutIcon />,
+    "label": "Logout",
+    "onClick": [Function],
+  },
+]
+`;
+
+exports[`<UserButton /> user links Sales people should show biz tools on a blog 1`] = `
+Object {
+  "href": "//kinja.com/biztools/gizmodo",
+  "icon": <BubbleIcon />,
+  "label": "Biz Tools for {blogName}",
+  "onClick": [Function],
+  "shouldRender": true,
+}
+`;
+
+exports[`<UserButton /> user links Sales people should show biz tools on a post 1`] = `
+Object {
+  "href": "//kinja.com/biztools/gizmodo/1836019407",
+  "icon": <BubbleIcon />,
+  "label": "Biz Tools for Post",
+  "onClick": [Function],
+  "shouldRender": true,
+}
+`;
+
+exports[`<UserButton /> user links Superusers should return links for superusers 1`] = `
+Array [
+  Object {
+    "href": "//kinja.com/mborlay",
+    "icon": <UserIcon />,
+    "label": "Your Profile",
+    "onClick": [Function],
+  },
+  Object {
+    "href": "//kinja.com/dashboard/notifications",
+    "icon": <BellIcon />,
+    "label": <ForwardRef(user-links__NotificationsContainer)>
+      <span>
+        Notifications
+      </span>
+    </ForwardRef(user-links__NotificationsContainer)>,
+    "onClick": [Function],
+  },
+  Object {
+    "href": "//kinja.com/write?blogid=",
+    "icon": <PencilIcon />,
+    "label": "Compose a Post",
+    "onClick": [Function],
+    "shouldRender": true,
+  },
+  Object {
+    "href": "//kinja.com/mborlay/saved",
+    "icon": <BookmarkIcon />,
+    "label": "Saved Articles",
+    "onClick": [Function],
+  },
+  Object {
+    "href": "//kinja.com/manage/your/drafts",
+    "icon": <SettingsIcon />,
+    "label": "Manage Your Drafts",
+    "onClick": [Function],
+    "shouldRender": true,
+  },
+  Object {
+    "href": "//kinja.com/dashboard",
+    "icon": <HomeIcon />,
+    "label": "Dashboard",
+    "onClick": [Function],
+  },
+  Object {
+    "icon": <IssueIcon />,
+    "label": "Report an Issue",
+    "onClick": [Function],
+    "shouldRender": true,
+  },
+  Object {
+    "href": "//kinja.com/superuser/specialsection/add",
+    "icon": <AddBlogIcon />,
+    "label": "New Special Section blog",
+    "onClick": [Function],
+    "shouldRender": true,
+  },
+  Object {
+    "href": "//kinja.com/dfp/promote",
+    "icon": <StarCircleIcon />,
+    "label": "Promote",
+    "onClick": [Function],
+    "shouldRender": true,
+  },
+  Object {
+    "href": "//kinja.com/dfp/promotions",
+    "icon": <StarIcon />,
+    "label": "Active Promotions",
+    "onClick": [Function],
+    "shouldRender": true,
+  },
+  Object {
+    "href": "//kinja.com/superuser/blog/add",
+    "icon": <AddBlogIcon />,
+    "label": "Create blog",
+    "onClick": [Function],
+    "shouldRender": true,
+  },
+  Object {
+    "href": "?superuser=on",
+    "icon": <MomJeansIcon />,
+    "label": "Show Mom Jeans",
+    "onClick": [Function],
+    "shouldRender": true,
+  },
+  Object {
+    "icon": <LogoutIcon />,
+    "label": "Logout",
+    "onClick": [Function],
+  },
+]
+`;
+
+exports[`<UserButton /> user links User is not allowed to post shouldn't render compose a post and manage blog/manage your drafts 1`] = `
+Array [
+  Object {
+    "href": "//kinja.com/mborlay",
+    "icon": <UserIcon />,
+    "label": "Your Profile",
+    "onClick": [Function],
+  },
+  Object {
+    "href": "//kinja.com/dashboard/notifications",
+    "icon": <BellIcon />,
+    "label": <ForwardRef(user-links__NotificationsContainer)>
+      <span>
+        Notifications
+      </span>
+    </ForwardRef(user-links__NotificationsContainer)>,
+    "onClick": [Function],
+  },
+  Object {
+    "href": "//kinja.com/mborlay/saved",
+    "icon": <BookmarkIcon />,
+    "label": "Saved Articles",
+    "onClick": [Function],
+  },
+  Object {
+    "href": "//kinja.com/dashboard",
+    "icon": <HomeIcon />,
+    "label": "Dashboard",
+    "onClick": [Function],
+  },
+  Object {
+    "icon": <LogoutIcon />,
+    "label": "Logout",
+    "onClick": [Function],
+  },
+]
+`;
+
+exports[`<UserButton /> user links normal user should display manage blogname when user is member of blog 1`] = `
+Object {
+  "href": "//kinja.com/manage/gizmodo/drafts",
+  "icon": <SettingsIcon />,
+  "label": "Manage {blogName}",
+  "onClick": [Function],
+  "shouldRender": true,
+}
+`;
+
+exports[`<UserButton /> user links normal user should have a different url for managing special sections 1`] = `
+Object {
+  "href": "//kinja.com/manage/gizmodo/settings",
+  "icon": <SettingsIcon />,
+  "label": "Manage {blogName}",
+  "onClick": [Function],
+  "shouldRender": true,
+}
+`;
+
+exports[`<UserButton /> user links normal user should include notification count 1`] = `
+<ForwardRef(user-links__NotificationsContainer)>
+  <span>
+    Notifications
+  </span>
+  <ForwardRef(user-links__NotificationCountWrapper)>
+    5
+  </ForwardRef(user-links__NotificationCountWrapper)>
+</ForwardRef(user-links__NotificationsContainer)>
+`;
+
+exports[`<UserButton /> user links normal user should return links for normal user 1`] = `
+Array [
+  Object {
+    "href": "//kinja.com/mborlay",
+    "icon": <UserIcon />,
+    "label": "Your Profile",
+    "onClick": [Function],
+  },
+  Object {
+    "href": "//kinja.com/dashboard/notifications",
+    "icon": <BellIcon />,
+    "label": <ForwardRef(user-links__NotificationsContainer)>
+      <span>
+        Notifications
+      </span>
+    </ForwardRef(user-links__NotificationsContainer)>,
+    "onClick": [Function],
+  },
+  Object {
+    "href": "//kinja.com/write?blogid=",
+    "icon": <PencilIcon />,
+    "label": "Compose a Post",
+    "onClick": [Function],
+    "shouldRender": true,
+  },
+  Object {
+    "href": "//kinja.com/mborlay/saved",
+    "icon": <BookmarkIcon />,
+    "label": "Saved Articles",
+    "onClick": [Function],
+  },
+  Object {
+    "href": "//kinja.com/manage/your/drafts",
+    "icon": <SettingsIcon />,
+    "label": "Manage Your Drafts",
+    "onClick": [Function],
+    "shouldRender": true,
+  },
+  Object {
+    "href": "//kinja.com/dashboard",
+    "icon": <HomeIcon />,
+    "label": "Dashboard",
+    "onClick": [Function],
+  },
+  Object {
+    "icon": <LogoutIcon />,
+    "label": "Logout",
+    "onClick": [Function],
+  },
+]
+`;
+
+exports[`<UserButton /> user links normal user should show manage your drafts when you are not a member of blog 1`] = `
+Object {
+  "href": "//kinja.com/manage/your/drafts",
+  "icon": <SettingsIcon />,
+  "label": "Manage Your Drafts",
+  "onClick": [Function],
+  "shouldRender": true,
+}
+`;

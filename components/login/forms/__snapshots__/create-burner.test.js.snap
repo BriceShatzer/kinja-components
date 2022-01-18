@@ -1,0 +1,137 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Create Burner form should display username taken error and reset captcha 1`] = `
+<EnsureDefaultTheme>
+  <common__Form
+    onSubmit={[Function]}
+  >
+    <common__MobileBackButton>
+      <a
+        role="button"
+        tabIndex="0"
+      >
+        <ArrowLeftIcon />
+         
+        Back
+      </a>
+    </common__MobileBackButton>
+    <common__MobileH1>
+      Create a burner account
+    </common__MobileH1>
+    <common__CloseButton>
+      <a
+        role="button"
+        tabIndex="0"
+      >
+        <CloseIcon />
+      </a>
+    </common__CloseButton>
+    <div>
+      <ScreenNameInput
+        inlineHelp="You can change this later in Account Settings"
+        label="Set your User Name"
+        onChange={[Function]}
+        placeholder="Set your User Name here"
+        translate={[Function]}
+        userNameTaken={true}
+      />
+      <create-burner__Captcha
+        className="g-recaptcha"
+        id="g-recaptcha"
+      />
+    </div>
+    <common__Footer>
+      <Button
+        disabled={true}
+        icon={<ArrowRightIcon />}
+        label="Create Account"
+        labelPosition="before"
+        onClick={[Function]}
+        weight="primary"
+      />
+      <div
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "
+			By creating an account, you’re agreeing to our
+			 <a href=\\"https://g-omedia.com/terms-of-service/\\">
+				 Terms of Use
+			</a> and
+			<a href=\\"https://g-omedia.com/privacy-policy/\\">
+				Privacy Policy
+			</a>.",
+          }
+        }
+      />
+    </common__Footer>
+  </common__Form>
+</EnsureDefaultTheme>
+`;
+
+exports[`Create Burner form should render by default and render captcha 1`] = `
+<EnsureDefaultTheme>
+  <common__Form
+    onSubmit={[Function]}
+  >
+    <common__MobileBackButton>
+      <a
+        role="button"
+        tabIndex="0"
+      >
+        <ArrowLeftIcon />
+         
+        Back
+      </a>
+    </common__MobileBackButton>
+    <common__MobileH1>
+      Create a burner account
+    </common__MobileH1>
+    <common__CloseButton>
+      <a
+        role="button"
+        tabIndex="0"
+      >
+        <CloseIcon />
+      </a>
+    </common__CloseButton>
+    <div>
+      <ScreenNameInput
+        inlineHelp="You can change this later in Account Settings"
+        label="Set your User Name"
+        onChange={[Function]}
+        placeholder="Set your User Name here"
+        translate={[Function]}
+        userNameTaken={false}
+      />
+      <create-burner__Captcha
+        className="g-recaptcha"
+        id="g-recaptcha"
+      />
+    </div>
+    <common__Footer>
+      <Button
+        disabled={true}
+        icon={<ArrowRightIcon />}
+        label="Create Account"
+        labelPosition="before"
+        onClick={[Function]}
+        weight="primary"
+      />
+      <div
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "
+			By creating an account, you’re agreeing to our
+			 <a href=\\"https://g-omedia.com/terms-of-service/\\">
+				 Terms of Use
+			</a> and
+			<a href=\\"https://g-omedia.com/privacy-policy/\\">
+				Privacy Policy
+			</a>.",
+          }
+        }
+      />
+    </common__Footer>
+  </common__Form>
+</EnsureDefaultTheme>
+`;

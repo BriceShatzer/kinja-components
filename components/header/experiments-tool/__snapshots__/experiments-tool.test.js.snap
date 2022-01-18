@@ -1,0 +1,208 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ExperimentsTool /> should not render disclaimer in footer if there are no ab tests 1`] = `
+<experiments-tool__Container>
+  <experiments-tool__IconContainer
+    featuresCount={1}
+  >
+    <IconCircle
+      icon={[Function]}
+    />
+    <experiments-tool__IconDescription>
+      1 active experiment
+    </experiments-tool__IconDescription>
+  </experiments-tool__IconContainer>
+  <experiments-tool__Dropdown>
+    <experiments-tool__DropdownMobileHeader>
+      <experiments-tool__IconContainer>
+        <IconCircle
+          icon={[Function]}
+        />
+        1 active experiment
+      </experiments-tool__IconContainer>
+      <Close24Icon />
+    </experiments-tool__DropdownMobileHeader>
+    <experiments-tool__SectionHeader>
+      <experiments-tool__SectionHeaderName>
+        1 manually enabled FS
+      </experiments-tool__SectionHeaderName>
+      <experiments-tool__DeleteButton
+        onClick={[Function]}
+      >
+        <ReloadIcon />
+         Reset FS-es to default
+      </experiments-tool__DeleteButton>
+    </experiments-tool__SectionHeader>
+    <experiments-tool__List>
+      <experiments-tool__Item
+        key="feature1"
+      >
+        <experiments-tool__ItemHeader>
+          feature1
+          =
+          off
+        </experiments-tool__ItemHeader>
+        description for feature1
+      </experiments-tool__Item>
+    </experiments-tool__List>
+  </experiments-tool__Dropdown>
+</experiments-tool__Container>
+`;
+
+exports[`<ExperimentsTool /> should only render the section that has fs-es, and render superuser link 1`] = `
+<experiments-tool__Container>
+  <experiments-tool__IconContainer
+    featuresCount={1}
+  >
+    <IconCircle
+      icon={[Function]}
+    />
+    <experiments-tool__IconDescription>
+      1 active experiment
+    </experiments-tool__IconDescription>
+  </experiments-tool__IconContainer>
+  <experiments-tool__Dropdown>
+    <experiments-tool__DropdownMobileHeader>
+      <experiments-tool__IconContainer>
+        <IconCircle
+          icon={[Function]}
+        />
+        1 active experiment
+      </experiments-tool__IconContainer>
+      <Close24Icon />
+    </experiments-tool__DropdownMobileHeader>
+    <experiments-tool__SectionHeader>
+      <experiments-tool__SectionHeaderName>
+        1 running A/B test
+      </experiments-tool__SectionHeaderName>
+      <experiments-tool__DeleteButton
+        onClick={[Function]}
+      >
+        <ReloadIcon />
+         Disable A/B tests
+      </experiments-tool__DeleteButton>
+    </experiments-tool__SectionHeader>
+    <experiments-tool__List>
+      <experiments-tool__Item
+        key="feature2"
+      >
+        <experiments-tool__ItemHeader>
+          feature2
+          =
+          on
+        </experiments-tool__ItemHeader>
+        description for feature2
+      </experiments-tool__Item>
+    </experiments-tool__List>
+    <experiments-tool__Footer>
+      <experiments-tool__DashboardLink
+        href="https://kinja.com/features"
+        key="features-link"
+        target="_blank"
+      >
+        <ExternalLinkIcon />
+         All available feature switches
+      </experiments-tool__DashboardLink>
+      <span
+        key="goonly"
+      >
+        Only G/O Media staff sees this
+      </span>
+    </experiments-tool__Footer>
+  </experiments-tool__Dropdown>
+</experiments-tool__Container>
+`;
+
+exports[`<ExperimentsTool /> should show both types of fs-es when it is opened 1`] = `
+<experiments-tool__Container>
+  <experiments-tool__IconContainer
+    featuresCount={2}
+  >
+    <IconCircle
+      icon={[Function]}
+    />
+    <experiments-tool__IconDescription>
+      2 active experiments
+    </experiments-tool__IconDescription>
+  </experiments-tool__IconContainer>
+  <experiments-tool__Dropdown>
+    <experiments-tool__DropdownMobileHeader>
+      <experiments-tool__IconContainer>
+        <IconCircle
+          icon={[Function]}
+        />
+        2 active experiments
+      </experiments-tool__IconContainer>
+      <Close24Icon />
+    </experiments-tool__DropdownMobileHeader>
+    <experiments-tool__SectionHeader>
+      <experiments-tool__SectionHeaderName>
+        1 running A/B test
+      </experiments-tool__SectionHeaderName>
+      <experiments-tool__DeleteButton
+        onClick={[Function]}
+      >
+        <ReloadIcon />
+         Disable A/B tests
+      </experiments-tool__DeleteButton>
+    </experiments-tool__SectionHeader>
+    <experiments-tool__List>
+      <experiments-tool__Item
+        key="feature2"
+      >
+        <experiments-tool__ItemHeader>
+          feature2
+          =
+          on
+        </experiments-tool__ItemHeader>
+        description for feature2
+      </experiments-tool__Item>
+    </experiments-tool__List>
+    <experiments-tool__SectionHeader>
+      <experiments-tool__SectionHeaderName>
+        1 manually enabled FS
+      </experiments-tool__SectionHeaderName>
+      <experiments-tool__DeleteButton
+        onClick={[Function]}
+      >
+        <ReloadIcon />
+         Reset FS-es to default
+      </experiments-tool__DeleteButton>
+    </experiments-tool__SectionHeader>
+    <experiments-tool__List>
+      <experiments-tool__Item
+        key="feature1"
+      >
+        <experiments-tool__ItemHeader>
+          feature1
+          =
+          off
+        </experiments-tool__ItemHeader>
+        description for feature1
+      </experiments-tool__Item>
+    </experiments-tool__List>
+    <experiments-tool__Footer>
+      <span
+        key="goonly"
+      >
+        Only G/O Media staff sees this
+      </span>
+    </experiments-tool__Footer>
+  </experiments-tool__Dropdown>
+</experiments-tool__Container>
+`;
+
+exports[`<ExperimentsTool /> should show the total number of fs-es 1`] = `
+<experiments-tool__Container>
+  <experiments-tool__IconContainer
+    featuresCount={2}
+  >
+    <IconCircle
+      icon={[Function]}
+    />
+    <experiments-tool__IconDescription>
+      2 active experiments
+    </experiments-tool__IconDescription>
+  </experiments-tool__IconContainer>
+</experiments-tool__Container>
+`;

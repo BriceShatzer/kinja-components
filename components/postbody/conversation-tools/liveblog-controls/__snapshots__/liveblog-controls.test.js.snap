@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<LiveblogControls /> should render properly 1`] = `
+<ConversationTools
+  activeStatus="Live"
+  footerContent={
+    <React.Fragment>
+      <span>
+        Reverse Chron
+      </span>
+      <Toggle
+        checked={true}
+        label="Chron"
+        name="Chron Toggle"
+        onChange={[Function]}
+        small={true}
+      />
+    </React.Fragment>
+  }
+  hasStatusChanged={false}
+  locale="en-US"
+  onChange={[Function]}
+  onReloadClick={[Function]}
+  statuses={
+    Array [
+      "Queued",
+      "Live",
+      "Ended",
+    ]
+  }
+  subtitle="Move status to \\"Ended\\" when the liveblog is over"
+  title="The liveblog status is now"
+  translatedStatuses={
+    Array [
+      "Queued",
+      "Live",
+      "Ended",
+    ]
+  }
+/>
+`;

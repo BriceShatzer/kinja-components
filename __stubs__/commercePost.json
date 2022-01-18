@@ -1,0 +1,301 @@
+{
+	"parent": null,
+	"largeOnStream": false,
+	"videos": [],
+	"adSettings": null,
+	"parentAuthorId": null,
+	"body": [
+	  {
+		"lightbox": true,
+		"syndicationRights": false,
+		"format": "jpg",
+		"attribution": [
+		  {
+			"label": "Graphic",
+			"credit": [
+			  {
+				"styles": [],
+				"type": "Text",
+				"value": "Shep McAllister"
+			  }
+			],
+			"source": []
+		  }
+		],
+		"width": 1280,
+		"caption": [
+		  {
+			"reference": "https://www.amazon.com/Nintendo-Switch-Gray-Joy%E2%80%91-HAC-001-Amazon-com/dp/B07Y9ZCWL9",
+			"type": "Link",
+			"value": [
+			  {
+				"styles": [],
+				"type": "Text",
+				"value": "Nintendo Switch (New Model) + $25 Amazon Gift Card"
+			  }
+			]
+		  },
+		  {
+			"styles": [],
+			"type": "Text",
+			"value": " | $300 | Amazon"
+		  }
+		],
+		"id": "s0eviow28a62lsjitr0t",
+		"type": "Image",
+		"alignment": "Bleed",
+		"height": 720
+	  },
+	  {
+		"containers": [],
+		"type": "Paragraph",
+		"value": [
+		  {
+			"styles": [],
+			"type": "Text",
+			"value": "We haven’t seen many big deals on the "
+		  },
+		  {
+			"reference": "https://kotaku.com/how-to-spot-the-new-nintendo-switch-with-better-battery-1837209189",
+			"type": "Link",
+			"value": [
+			  {
+				"styles": [],
+				"type": "Text",
+				"value": "new Nintendo Switch with drastically improved battery life"
+			  }
+			]
+		  },
+		  {
+			"styles": [],
+			"type": "Text",
+			"value": ", but right now, "
+		  },
+		  {
+			"reference": "https://www.amazon.com/Nintendo-Switch-Gray-Joy%E2%80%91-HAC-001-Amazon-com/dp/B07Y9ZCWL9",
+			"type": "Link",
+			"value": [
+			  {
+				"styles": [],
+				"type": "Text",
+				"value": "Amazon will throw in a $25 gift card when you buy one"
+			  }
+			]
+		  },
+		  {
+			"styles": [],
+			"type": "Text",
+			"value": ". That’s pretty solid as far as Nintendo Switch discounts go, and about as good a deal as we’ve seen on this new model."
+		  },
+		  {
+			"type": "LineBreak"
+		  }
+		]
+	  },
+	  {
+		"style": "Normal",
+		"type": "LinkPreview",
+		"url": "https://kotaku.com/how-to-spot-the-new-nintendo-switch-with-better-battery-1837209189"
+	  },
+	  {
+		"containers": [],
+		"type": "Paragraph",
+		"value": [
+		  {
+			"styles": [
+			  "Bold"
+			],
+			"type": "Text",
+			"value": "Hint"
+		  },
+		  {
+			"styles": [],
+			"type": "Text",
+			"value": ": Spend your $25 gift card on a "
+		  },
+		  {
+			"reference": "https://www.amazon.com/Nintendo-Switch-Pro-Controller/dp/B01NAWKYZ0",
+			"type": "Link",
+			"value": [
+			  {
+				"styles": [],
+				"type": "Text",
+				"value": "Pro controller"
+			  }
+			]
+		  },
+		  {
+			"styles": [],
+			"type": "Text",
+			"value": ". You won’t regret it."
+		  }
+		]
+	  },
+	  {
+		"style": "CommerceCondensed",
+		"type": "LinkPreview",
+		"url": "https://www.amazon.com/Nintendo-Switch-Gray-Joy%E2%80%91-HAC-001-Amazon-com/dp/B07Y9ZCWL9"
+	  },
+	  {
+		"style": "Line",
+		"containers": [],
+		"type": "HorizontalRule"
+	  },
+	  {
+		"thumbnail": {
+		  "id": "hvki4ykn9hfcba6rtloh",
+		  "format": "jpg"
+		},
+		"id": "1177695802598285314",
+		"type": "Twitter"
+	  }
+	],
+	"approved": true,
+	"starterId": 1838849649,
+	"isBlip": false,
+	"isRoundup": false,
+	"id": 1838849649,
+	"isFeatured": false,
+	"aboveHeadline": null,
+	"images": [
+	  {
+		"id": "s0eviow28a62lsjitr0t",
+		"width": 1280,
+		"height": 720,
+		"format": "jpg"
+	  }
+	],
+	"author": null,
+	"postId": 1838849649,
+	"mainMedia": null,
+	"tags": [
+	  {
+		"canonical": "kinjadeals",
+		"urlName": "kinja-deals",
+		"displayName": "Kinja Deals"
+	  },
+	  {
+		"canonical": "deals",
+		"urlName": "deals",
+		"displayName": "Deals"
+	  },
+	  {
+		"canonical": "amazondeals",
+		"urlName": "amazon-deals",
+		"displayName": "Amazon Deals"
+	  }
+	],
+	"permalinkHost": "https://kinjadeals.theinventory.com",
+	"permalinkPath": "/buy-a-new-nintendo-switch-with-improved-battery-life-1838849649",
+	"firstSentence": "We haven’t seen many big deals on the new Nintendo Switch with drastically improved battery life, bu",
+	"relatedPosts": [
+	  {
+		"id": 1838843443,
+		"headline": "Monday&#39;s Best Deals: Tile, Cole Haan, Hershey&#39;s Candy, and More",
+		"sharingMainImage": {
+		  "src": "UNUSED",
+		  "isAnimated": false,
+		  "id": "gexzqwleqt7bpdwsct4r",
+		  "width": 800,
+		  "height": 450,
+		  "format": "jpg",
+		  "frozenFormat": "jpg"
+		},
+		"permalink": "https://kinjadeals.theinventory.com/mondays-best-deals-tile-cole-haan-hersheys-candy-an-1838843443",
+		"defaultBlogId": 86286
+	  },
+	  {
+		"id": 1838142301,
+		"headline": "Amazon&#39;s Taking $50 Off Apple&#39;s Powerbeats Pros, Which Are Like AirPods, But Better",
+		"sharingMainImage": {
+		  "src": "UNUSED",
+		  "isAnimated": false,
+		  "id": "dnn2aif6xfhxfqdyqane",
+		  "width": 800,
+		  "height": 450,
+		  "format": "jpg",
+		  "frozenFormat": "jpg"
+		},
+		"permalink": "https://kinjadeals.theinventory.com/save-50-on-apples-truly-wireless-power-beats-pro-1838142301",
+		"defaultBlogId": 86286
+	  },
+	  {
+		"id": 1838845264,
+		"headline": "Instant Pot Makes a Blender. A Blender That Cooks. It&#39;s On Sale Today Only.",
+		"sharingMainImage": {
+		  "src": "UNUSED",
+		  "isAnimated": false,
+		  "id": "rx4efswcdfhysspuzo7v",
+		  "width": 800,
+		  "height": 449,
+		  "format": "jpg",
+		  "frozenFormat": "jpg"
+		},
+		"permalink": "https://kinjadeals.theinventory.com/instant-pot-makes-a-blender-a-blender-that-cooks-its-1838845264",
+		"defaultBlogId": 86286
+	  }
+	],
+	"showAuthorBio": true,
+	"permalink": "https://kinjadeals.theinventory.com/buy-a-new-nintendo-switch-with-improved-battery-life-1838849649",
+	"status": "PUBLISHED",
+	"authors": [],
+	"relatedModule": {
+	  "headline": "Recommended Stories",
+	  "posts": [
+		{
+		  "id": 1838843443
+		},
+		{
+		  "id": 1838142301
+		},
+		{
+		  "id": 1838845264
+		}
+	  ],
+	  "storyTypes": [],
+	  "tags": []
+	},
+	"permalinkRedirect": null,
+	"timezone": "America/New_York",
+	"showByline": true,
+	"parentAuthorIds": [],
+	"salesAvatar": null,
+	"leftOfHeadline": {
+	  "src": "UNUSED",
+	  "isAnimated": false,
+	  "id": "s0eviow28a62lsjitr0t",
+	  "width": 320,
+	  "height": 180,
+	  "format": "jpg",
+	  "frozenFormat": "jpg",
+	  "type": "image"
+	},
+	"lastUpdateTimeMillis": 1570482616829,
+	"sharingMainImage": {
+	  "src": "UNUSED",
+	  "isAnimated": false,
+	  "id": "s0eviow28a62lsjitr0t",
+	  "width": 800,
+	  "height": 450,
+	  "format": "jpg",
+	  "frozenFormat": "jpg"
+	},
+	"publishTimeMillis": 1570468380649,
+	"byline": "",
+	"headline": "Buy a New Nintendo Switch (With Improved Battery Life), Get a Bonus $25 Amazon Gift Card",
+	"authorIds": [
+	  "5727177402741770316"
+	],
+	"starter": null,
+	"length": 357,
+	"defaultBlogId": 86286,
+	"isVideo": false,
+	"sponsored": false,
+	"plaintext": "We haven’t seen many big deals on the new Nintendo Switch with drastically improved battery life, but right now, Amazon will throw in a $25 gift card when you buy one. That’s pretty solid as far as Nintendo Switch discounts go, and about as good a deal as we’ve seen on this new model.",
+	"allowReplies": true,
+	"authorId": "5727177402741770316",
+	"parentId": null,
+	"sharedUrl": null,
+	"featuredMedia": null,
+	"properties": "{\"sharingMainImageSetInDistTools\":true,\"dropCapEnabled\":false,\"isEmbiggened\":false,\"autoRepostDisabled\":false,\"impactHeader\":{}}"
+  }

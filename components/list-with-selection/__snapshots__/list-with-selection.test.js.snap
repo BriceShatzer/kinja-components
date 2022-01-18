@@ -1,0 +1,2307 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ListWithSelection /> ArrowDown key doesn't work when allowNavigation is false 1`] = `
+.c0 {
+  background: white;
+  border: 1px solid #e5e5e5;
+  width: 100%;
+  overflow-y: scroll;
+  z-index: 501;
+  position: relative;
+  margin: 0;
+  max-height: 400px;
+}
+
+.c1 {
+  padding: 5px 10px;
+  color: #222;
+  cursor: pointer;
+  outline: none;
+  background: #e5e5e5;
+}
+
+.c1:hover {
+  background: #e5e5e5;
+}
+
+.c2 {
+  padding: 5px 10px;
+  color: #222;
+  cursor: pointer;
+  outline: none;
+}
+
+.c2:hover {
+  background: #e5e5e5;
+}
+
+<ListWithSelection
+  allowNavigation={false}
+  height={400}
+  onSelect={[Function]}
+>
+  <list-with-selection__List
+    height={400}
+  >
+    <StyledComponent
+      forwardedComponent={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": Array [],
+          "componentStyle": ComponentStyle {
+            "componentId": "list-with-selection__List-otg3vd-0",
+            "isStatic": false,
+            "lastClassName": "c0",
+            "rules": Array [
+              "background:white;border:1px solid #e5e5e5;width:100%;overflow-y:scroll;z-index:501;position:relative;margin:0;",
+              [Function],
+            ],
+          },
+          "displayName": "list-with-selection__List",
+          "foldedComponentIds": Array [],
+          "render": [Function],
+          "styledComponentId": "list-with-selection__List-otg3vd-0",
+          "target": "ul",
+          "toString": [Function],
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        }
+      }
+      forwardedRef={[Function]}
+      height={400}
+    >
+      <ul
+        className="c0"
+        height={400}
+      >
+        <list-with-selection__ListItem
+          aria-selected={true}
+          isSelected={true}
+          key=".$0"
+          onClick={[Function]}
+          role="option"
+          tabIndex="-1"
+        >
+          <StyledComponent
+            aria-selected={true}
+            forwardedComponent={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": Array [],
+                "componentStyle": ComponentStyle {
+                  "componentId": "list-with-selection__ListItem-otg3vd-1",
+                  "isStatic": false,
+                  "lastClassName": "c1",
+                  "rules": Array [
+                    "padding:5px 10px;color:#222;cursor:pointer;outline:none;&:hover{background:#e5e5e5;}",
+                    [Function],
+                  ],
+                },
+                "displayName": "list-with-selection__ListItem",
+                "foldedComponentIds": Array [],
+                "render": [Function],
+                "styledComponentId": "list-with-selection__ListItem-otg3vd-1",
+                "target": "li",
+                "toString": [Function],
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={[Function]}
+            isSelected={true}
+            onClick={[Function]}
+            role="option"
+            tabIndex="-1"
+          >
+            <li
+              aria-selected={true}
+              className="c1"
+              onClick={[Function]}
+              role="option"
+              tabIndex="-1"
+            >
+              <div
+                className="item"
+                key="0"
+                style={
+                  Object {
+                    "height": 20,
+                  }
+                }
+              >
+                0
+              </div>
+            </li>
+          </StyledComponent>
+        </list-with-selection__ListItem>
+        <list-with-selection__ListItem
+          aria-selected={false}
+          isSelected={false}
+          key=".$1"
+          onClick={[Function]}
+          role="option"
+          tabIndex="-1"
+        >
+          <StyledComponent
+            aria-selected={false}
+            forwardedComponent={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": Array [],
+                "componentStyle": ComponentStyle {
+                  "componentId": "list-with-selection__ListItem-otg3vd-1",
+                  "isStatic": false,
+                  "lastClassName": "c1",
+                  "rules": Array [
+                    "padding:5px 10px;color:#222;cursor:pointer;outline:none;&:hover{background:#e5e5e5;}",
+                    [Function],
+                  ],
+                },
+                "displayName": "list-with-selection__ListItem",
+                "foldedComponentIds": Array [],
+                "render": [Function],
+                "styledComponentId": "list-with-selection__ListItem-otg3vd-1",
+                "target": "li",
+                "toString": [Function],
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={[Function]}
+            isSelected={false}
+            onClick={[Function]}
+            role="option"
+            tabIndex="-1"
+          >
+            <li
+              aria-selected={false}
+              className="c2"
+              onClick={[Function]}
+              role="option"
+              tabIndex="-1"
+            >
+              <div
+                className="item"
+                key="1"
+                style={
+                  Object {
+                    "height": 20,
+                  }
+                }
+              >
+                1
+              </div>
+            </li>
+          </StyledComponent>
+        </list-with-selection__ListItem>
+        <list-with-selection__ListItem
+          aria-selected={false}
+          isSelected={false}
+          key=".$2"
+          onClick={[Function]}
+          role="option"
+          tabIndex="-1"
+        >
+          <StyledComponent
+            aria-selected={false}
+            forwardedComponent={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": Array [],
+                "componentStyle": ComponentStyle {
+                  "componentId": "list-with-selection__ListItem-otg3vd-1",
+                  "isStatic": false,
+                  "lastClassName": "c1",
+                  "rules": Array [
+                    "padding:5px 10px;color:#222;cursor:pointer;outline:none;&:hover{background:#e5e5e5;}",
+                    [Function],
+                  ],
+                },
+                "displayName": "list-with-selection__ListItem",
+                "foldedComponentIds": Array [],
+                "render": [Function],
+                "styledComponentId": "list-with-selection__ListItem-otg3vd-1",
+                "target": "li",
+                "toString": [Function],
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={[Function]}
+            isSelected={false}
+            onClick={[Function]}
+            role="option"
+            tabIndex="-1"
+          >
+            <li
+              aria-selected={false}
+              className="c2"
+              onClick={[Function]}
+              role="option"
+              tabIndex="-1"
+            >
+              <div
+                className="item"
+                key="2"
+                style={
+                  Object {
+                    "height": 20,
+                  }
+                }
+              >
+                2
+              </div>
+            </li>
+          </StyledComponent>
+        </list-with-selection__ListItem>
+      </ul>
+    </StyledComponent>
+  </list-with-selection__List>
+</ListWithSelection>
+`;
+
+exports[`<ListWithSelection /> ArrowDown key moves the selection down by one 1`] = `
+.c0 {
+  background: white;
+  border: 1px solid #e5e5e5;
+  width: 100%;
+  overflow-y: scroll;
+  z-index: 501;
+  position: relative;
+  margin: 0;
+  max-height: 400px;
+}
+
+.c1 {
+  padding: 5px 10px;
+  color: #222;
+  cursor: pointer;
+  outline: none;
+  background: #e5e5e5;
+}
+
+.c1:hover {
+  background: #e5e5e5;
+}
+
+.c2 {
+  padding: 5px 10px;
+  color: #222;
+  cursor: pointer;
+  outline: none;
+}
+
+.c2:hover {
+  background: #e5e5e5;
+}
+
+<ListWithSelection
+  allowNavigation={true}
+  height={400}
+  onSelect={[Function]}
+>
+  <list-with-selection__List
+    height={400}
+  >
+    <StyledComponent
+      forwardedComponent={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": Array [],
+          "componentStyle": ComponentStyle {
+            "componentId": "list-with-selection__List-otg3vd-0",
+            "isStatic": false,
+            "lastClassName": "c0",
+            "rules": Array [
+              "background:white;border:1px solid #e5e5e5;width:100%;overflow-y:scroll;z-index:501;position:relative;margin:0;",
+              [Function],
+            ],
+          },
+          "displayName": "list-with-selection__List",
+          "foldedComponentIds": Array [],
+          "render": [Function],
+          "styledComponentId": "list-with-selection__List-otg3vd-0",
+          "target": "ul",
+          "toString": [Function],
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        }
+      }
+      forwardedRef={[Function]}
+      height={400}
+    >
+      <ul
+        className="c0"
+        height={400}
+      >
+        <list-with-selection__ListItem
+          aria-selected={true}
+          isSelected={true}
+          key=".$0"
+          onClick={[Function]}
+          role="option"
+          tabIndex="-1"
+        >
+          <StyledComponent
+            aria-selected={true}
+            forwardedComponent={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": Array [],
+                "componentStyle": ComponentStyle {
+                  "componentId": "list-with-selection__ListItem-otg3vd-1",
+                  "isStatic": false,
+                  "lastClassName": "c2",
+                  "rules": Array [
+                    "padding:5px 10px;color:#222;cursor:pointer;outline:none;&:hover{background:#e5e5e5;}",
+                    [Function],
+                  ],
+                },
+                "displayName": "list-with-selection__ListItem",
+                "foldedComponentIds": Array [],
+                "render": [Function],
+                "styledComponentId": "list-with-selection__ListItem-otg3vd-1",
+                "target": "li",
+                "toString": [Function],
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={[Function]}
+            isSelected={true}
+            onClick={[Function]}
+            role="option"
+            tabIndex="-1"
+          >
+            <li
+              aria-selected={true}
+              className="c1"
+              onClick={[Function]}
+              role="option"
+              tabIndex="-1"
+            >
+              <div
+                className="item"
+                key="0"
+                style={
+                  Object {
+                    "height": 20,
+                  }
+                }
+              >
+                0
+              </div>
+            </li>
+          </StyledComponent>
+        </list-with-selection__ListItem>
+        <list-with-selection__ListItem
+          aria-selected={false}
+          isSelected={false}
+          key=".$1"
+          onClick={[Function]}
+          role="option"
+          tabIndex="-1"
+        >
+          <StyledComponent
+            aria-selected={false}
+            forwardedComponent={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": Array [],
+                "componentStyle": ComponentStyle {
+                  "componentId": "list-with-selection__ListItem-otg3vd-1",
+                  "isStatic": false,
+                  "lastClassName": "c2",
+                  "rules": Array [
+                    "padding:5px 10px;color:#222;cursor:pointer;outline:none;&:hover{background:#e5e5e5;}",
+                    [Function],
+                  ],
+                },
+                "displayName": "list-with-selection__ListItem",
+                "foldedComponentIds": Array [],
+                "render": [Function],
+                "styledComponentId": "list-with-selection__ListItem-otg3vd-1",
+                "target": "li",
+                "toString": [Function],
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={[Function]}
+            isSelected={false}
+            onClick={[Function]}
+            role="option"
+            tabIndex="-1"
+          >
+            <li
+              aria-selected={false}
+              className="c2"
+              onClick={[Function]}
+              role="option"
+              tabIndex="-1"
+            >
+              <div
+                className="item"
+                key="1"
+                style={
+                  Object {
+                    "height": 20,
+                  }
+                }
+              >
+                1
+              </div>
+            </li>
+          </StyledComponent>
+        </list-with-selection__ListItem>
+        <list-with-selection__ListItem
+          aria-selected={false}
+          isSelected={false}
+          key=".$2"
+          onClick={[Function]}
+          role="option"
+          tabIndex="-1"
+        >
+          <StyledComponent
+            aria-selected={false}
+            forwardedComponent={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": Array [],
+                "componentStyle": ComponentStyle {
+                  "componentId": "list-with-selection__ListItem-otg3vd-1",
+                  "isStatic": false,
+                  "lastClassName": "c2",
+                  "rules": Array [
+                    "padding:5px 10px;color:#222;cursor:pointer;outline:none;&:hover{background:#e5e5e5;}",
+                    [Function],
+                  ],
+                },
+                "displayName": "list-with-selection__ListItem",
+                "foldedComponentIds": Array [],
+                "render": [Function],
+                "styledComponentId": "list-with-selection__ListItem-otg3vd-1",
+                "target": "li",
+                "toString": [Function],
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={[Function]}
+            isSelected={false}
+            onClick={[Function]}
+            role="option"
+            tabIndex="-1"
+          >
+            <li
+              aria-selected={false}
+              className="c2"
+              onClick={[Function]}
+              role="option"
+              tabIndex="-1"
+            >
+              <div
+                className="item"
+                key="2"
+                style={
+                  Object {
+                    "height": 20,
+                  }
+                }
+              >
+                2
+              </div>
+            </li>
+          </StyledComponent>
+        </list-with-selection__ListItem>
+      </ul>
+    </StyledComponent>
+  </list-with-selection__List>
+</ListWithSelection>
+`;
+
+exports[`<ListWithSelection /> ArrowDown key stops if the selected element is the last one 1`] = `
+.c0 {
+  background: white;
+  border: 1px solid #e5e5e5;
+  width: 100%;
+  overflow-y: scroll;
+  z-index: 501;
+  position: relative;
+  margin: 0;
+  max-height: 400px;
+}
+
+.c2 {
+  padding: 5px 10px;
+  color: #222;
+  cursor: pointer;
+  outline: none;
+  background: #e5e5e5;
+}
+
+.c2:hover {
+  background: #e5e5e5;
+}
+
+.c1 {
+  padding: 5px 10px;
+  color: #222;
+  cursor: pointer;
+  outline: none;
+}
+
+.c1:hover {
+  background: #e5e5e5;
+}
+
+<ListWithSelection
+  allowNavigation={true}
+  height={400}
+  onSelect={[Function]}
+>
+  <list-with-selection__List
+    height={400}
+  >
+    <StyledComponent
+      forwardedComponent={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": Array [],
+          "componentStyle": ComponentStyle {
+            "componentId": "list-with-selection__List-otg3vd-0",
+            "isStatic": false,
+            "lastClassName": "c0",
+            "rules": Array [
+              "background:white;border:1px solid #e5e5e5;width:100%;overflow-y:scroll;z-index:501;position:relative;margin:0;",
+              [Function],
+            ],
+          },
+          "displayName": "list-with-selection__List",
+          "foldedComponentIds": Array [],
+          "render": [Function],
+          "styledComponentId": "list-with-selection__List-otg3vd-0",
+          "target": "ul",
+          "toString": [Function],
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        }
+      }
+      forwardedRef={[Function]}
+      height={400}
+    >
+      <ul
+        className="c0"
+        height={400}
+      >
+        <list-with-selection__ListItem
+          aria-selected={false}
+          isSelected={false}
+          key=".$0"
+          onClick={[Function]}
+          role="option"
+          tabIndex="-1"
+        >
+          <StyledComponent
+            aria-selected={false}
+            forwardedComponent={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": Array [],
+                "componentStyle": ComponentStyle {
+                  "componentId": "list-with-selection__ListItem-otg3vd-1",
+                  "isStatic": false,
+                  "lastClassName": "c2",
+                  "rules": Array [
+                    "padding:5px 10px;color:#222;cursor:pointer;outline:none;&:hover{background:#e5e5e5;}",
+                    [Function],
+                  ],
+                },
+                "displayName": "list-with-selection__ListItem",
+                "foldedComponentIds": Array [],
+                "render": [Function],
+                "styledComponentId": "list-with-selection__ListItem-otg3vd-1",
+                "target": "li",
+                "toString": [Function],
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={[Function]}
+            isSelected={false}
+            onClick={[Function]}
+            role="option"
+            tabIndex="-1"
+          >
+            <li
+              aria-selected={false}
+              className="c1"
+              onClick={[Function]}
+              role="option"
+              tabIndex="-1"
+            >
+              <div
+                className="item"
+                key="0"
+                style={
+                  Object {
+                    "height": 20,
+                  }
+                }
+              >
+                0
+              </div>
+            </li>
+          </StyledComponent>
+        </list-with-selection__ListItem>
+        <list-with-selection__ListItem
+          aria-selected={false}
+          isSelected={false}
+          key=".$1"
+          onClick={[Function]}
+          role="option"
+          tabIndex="-1"
+        >
+          <StyledComponent
+            aria-selected={false}
+            forwardedComponent={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": Array [],
+                "componentStyle": ComponentStyle {
+                  "componentId": "list-with-selection__ListItem-otg3vd-1",
+                  "isStatic": false,
+                  "lastClassName": "c2",
+                  "rules": Array [
+                    "padding:5px 10px;color:#222;cursor:pointer;outline:none;&:hover{background:#e5e5e5;}",
+                    [Function],
+                  ],
+                },
+                "displayName": "list-with-selection__ListItem",
+                "foldedComponentIds": Array [],
+                "render": [Function],
+                "styledComponentId": "list-with-selection__ListItem-otg3vd-1",
+                "target": "li",
+                "toString": [Function],
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={[Function]}
+            isSelected={false}
+            onClick={[Function]}
+            role="option"
+            tabIndex="-1"
+          >
+            <li
+              aria-selected={false}
+              className="c1"
+              onClick={[Function]}
+              role="option"
+              tabIndex="-1"
+            >
+              <div
+                className="item"
+                key="1"
+                style={
+                  Object {
+                    "height": 20,
+                  }
+                }
+              >
+                1
+              </div>
+            </li>
+          </StyledComponent>
+        </list-with-selection__ListItem>
+        <list-with-selection__ListItem
+          aria-selected={true}
+          isSelected={true}
+          key=".$2"
+          onClick={[Function]}
+          role="option"
+          tabIndex="-1"
+        >
+          <StyledComponent
+            aria-selected={true}
+            forwardedComponent={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": Array [],
+                "componentStyle": ComponentStyle {
+                  "componentId": "list-with-selection__ListItem-otg3vd-1",
+                  "isStatic": false,
+                  "lastClassName": "c2",
+                  "rules": Array [
+                    "padding:5px 10px;color:#222;cursor:pointer;outline:none;&:hover{background:#e5e5e5;}",
+                    [Function],
+                  ],
+                },
+                "displayName": "list-with-selection__ListItem",
+                "foldedComponentIds": Array [],
+                "render": [Function],
+                "styledComponentId": "list-with-selection__ListItem-otg3vd-1",
+                "target": "li",
+                "toString": [Function],
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={[Function]}
+            isSelected={true}
+            onClick={[Function]}
+            role="option"
+            tabIndex="-1"
+          >
+            <li
+              aria-selected={true}
+              className="c2"
+              onClick={[Function]}
+              role="option"
+              tabIndex="-1"
+            >
+              <div
+                className="item"
+                key="2"
+                style={
+                  Object {
+                    "height": 20,
+                  }
+                }
+              >
+                2
+              </div>
+            </li>
+          </StyledComponent>
+        </list-with-selection__ListItem>
+      </ul>
+    </StyledComponent>
+  </list-with-selection__List>
+</ListWithSelection>
+`;
+
+exports[`<ListWithSelection /> ArrowUp key doesn't work when allowNavigation is false 1`] = `
+.c0 {
+  background: white;
+  border: 1px solid #e5e5e5;
+  width: 100%;
+  overflow-y: scroll;
+  z-index: 501;
+  position: relative;
+  margin: 0;
+  max-height: 400px;
+}
+
+.c2 {
+  padding: 5px 10px;
+  color: #222;
+  cursor: pointer;
+  outline: none;
+  background: #e5e5e5;
+}
+
+.c2:hover {
+  background: #e5e5e5;
+}
+
+.c1 {
+  padding: 5px 10px;
+  color: #222;
+  cursor: pointer;
+  outline: none;
+}
+
+.c1:hover {
+  background: #e5e5e5;
+}
+
+<ListWithSelection
+  allowNavigation={false}
+  height={400}
+  onSelect={[Function]}
+>
+  <list-with-selection__List
+    height={400}
+  >
+    <StyledComponent
+      forwardedComponent={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": Array [],
+          "componentStyle": ComponentStyle {
+            "componentId": "list-with-selection__List-otg3vd-0",
+            "isStatic": false,
+            "lastClassName": "c0",
+            "rules": Array [
+              "background:white;border:1px solid #e5e5e5;width:100%;overflow-y:scroll;z-index:501;position:relative;margin:0;",
+              [Function],
+            ],
+          },
+          "displayName": "list-with-selection__List",
+          "foldedComponentIds": Array [],
+          "render": [Function],
+          "styledComponentId": "list-with-selection__List-otg3vd-0",
+          "target": "ul",
+          "toString": [Function],
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        }
+      }
+      forwardedRef={[Function]}
+      height={400}
+    >
+      <ul
+        className="c0"
+        height={400}
+      >
+        <list-with-selection__ListItem
+          aria-selected={false}
+          isSelected={false}
+          key=".$0"
+          onClick={[Function]}
+          role="option"
+          tabIndex="-1"
+        >
+          <StyledComponent
+            aria-selected={false}
+            forwardedComponent={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": Array [],
+                "componentStyle": ComponentStyle {
+                  "componentId": "list-with-selection__ListItem-otg3vd-1",
+                  "isStatic": false,
+                  "lastClassName": "c1",
+                  "rules": Array [
+                    "padding:5px 10px;color:#222;cursor:pointer;outline:none;&:hover{background:#e5e5e5;}",
+                    [Function],
+                  ],
+                },
+                "displayName": "list-with-selection__ListItem",
+                "foldedComponentIds": Array [],
+                "render": [Function],
+                "styledComponentId": "list-with-selection__ListItem-otg3vd-1",
+                "target": "li",
+                "toString": [Function],
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={[Function]}
+            isSelected={false}
+            onClick={[Function]}
+            role="option"
+            tabIndex="-1"
+          >
+            <li
+              aria-selected={false}
+              className="c1"
+              onClick={[Function]}
+              role="option"
+              tabIndex="-1"
+            >
+              <div
+                className="item"
+                key="0"
+                style={
+                  Object {
+                    "height": 20,
+                  }
+                }
+              >
+                0
+              </div>
+            </li>
+          </StyledComponent>
+        </list-with-selection__ListItem>
+        <list-with-selection__ListItem
+          aria-selected={false}
+          isSelected={false}
+          key=".$1"
+          onClick={[Function]}
+          role="option"
+          tabIndex="-1"
+        >
+          <StyledComponent
+            aria-selected={false}
+            forwardedComponent={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": Array [],
+                "componentStyle": ComponentStyle {
+                  "componentId": "list-with-selection__ListItem-otg3vd-1",
+                  "isStatic": false,
+                  "lastClassName": "c1",
+                  "rules": Array [
+                    "padding:5px 10px;color:#222;cursor:pointer;outline:none;&:hover{background:#e5e5e5;}",
+                    [Function],
+                  ],
+                },
+                "displayName": "list-with-selection__ListItem",
+                "foldedComponentIds": Array [],
+                "render": [Function],
+                "styledComponentId": "list-with-selection__ListItem-otg3vd-1",
+                "target": "li",
+                "toString": [Function],
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={[Function]}
+            isSelected={false}
+            onClick={[Function]}
+            role="option"
+            tabIndex="-1"
+          >
+            <li
+              aria-selected={false}
+              className="c1"
+              onClick={[Function]}
+              role="option"
+              tabIndex="-1"
+            >
+              <div
+                className="item"
+                key="1"
+                style={
+                  Object {
+                    "height": 20,
+                  }
+                }
+              >
+                1
+              </div>
+            </li>
+          </StyledComponent>
+        </list-with-selection__ListItem>
+        <list-with-selection__ListItem
+          aria-selected={true}
+          isSelected={true}
+          key=".$2"
+          onClick={[Function]}
+          role="option"
+          tabIndex="-1"
+        >
+          <StyledComponent
+            aria-selected={true}
+            forwardedComponent={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": Array [],
+                "componentStyle": ComponentStyle {
+                  "componentId": "list-with-selection__ListItem-otg3vd-1",
+                  "isStatic": false,
+                  "lastClassName": "c1",
+                  "rules": Array [
+                    "padding:5px 10px;color:#222;cursor:pointer;outline:none;&:hover{background:#e5e5e5;}",
+                    [Function],
+                  ],
+                },
+                "displayName": "list-with-selection__ListItem",
+                "foldedComponentIds": Array [],
+                "render": [Function],
+                "styledComponentId": "list-with-selection__ListItem-otg3vd-1",
+                "target": "li",
+                "toString": [Function],
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={[Function]}
+            isSelected={true}
+            onClick={[Function]}
+            role="option"
+            tabIndex="-1"
+          >
+            <li
+              aria-selected={true}
+              className="c2"
+              onClick={[Function]}
+              role="option"
+              tabIndex="-1"
+            >
+              <div
+                className="item"
+                key="2"
+                style={
+                  Object {
+                    "height": 20,
+                  }
+                }
+              >
+                2
+              </div>
+            </li>
+          </StyledComponent>
+        </list-with-selection__ListItem>
+      </ul>
+    </StyledComponent>
+  </list-with-selection__List>
+</ListWithSelection>
+`;
+
+exports[`<ListWithSelection /> ArrowUp key moves the selection up by one 1`] = `
+.c0 {
+  background: white;
+  border: 1px solid #e5e5e5;
+  width: 100%;
+  overflow-y: scroll;
+  z-index: 501;
+  position: relative;
+  margin: 0;
+  max-height: 400px;
+}
+
+.c2 {
+  padding: 5px 10px;
+  color: #222;
+  cursor: pointer;
+  outline: none;
+  background: #e5e5e5;
+}
+
+.c2:hover {
+  background: #e5e5e5;
+}
+
+.c1 {
+  padding: 5px 10px;
+  color: #222;
+  cursor: pointer;
+  outline: none;
+}
+
+.c1:hover {
+  background: #e5e5e5;
+}
+
+<ListWithSelection
+  allowNavigation={true}
+  height={400}
+  onSelect={[Function]}
+>
+  <list-with-selection__List
+    height={400}
+  >
+    <StyledComponent
+      forwardedComponent={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": Array [],
+          "componentStyle": ComponentStyle {
+            "componentId": "list-with-selection__List-otg3vd-0",
+            "isStatic": false,
+            "lastClassName": "c0",
+            "rules": Array [
+              "background:white;border:1px solid #e5e5e5;width:100%;overflow-y:scroll;z-index:501;position:relative;margin:0;",
+              [Function],
+            ],
+          },
+          "displayName": "list-with-selection__List",
+          "foldedComponentIds": Array [],
+          "render": [Function],
+          "styledComponentId": "list-with-selection__List-otg3vd-0",
+          "target": "ul",
+          "toString": [Function],
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        }
+      }
+      forwardedRef={[Function]}
+      height={400}
+    >
+      <ul
+        className="c0"
+        height={400}
+      >
+        <list-with-selection__ListItem
+          aria-selected={false}
+          isSelected={false}
+          key=".$0"
+          onClick={[Function]}
+          role="option"
+          tabIndex="-1"
+        >
+          <StyledComponent
+            aria-selected={false}
+            forwardedComponent={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": Array [],
+                "componentStyle": ComponentStyle {
+                  "componentId": "list-with-selection__ListItem-otg3vd-1",
+                  "isStatic": false,
+                  "lastClassName": "c1",
+                  "rules": Array [
+                    "padding:5px 10px;color:#222;cursor:pointer;outline:none;&:hover{background:#e5e5e5;}",
+                    [Function],
+                  ],
+                },
+                "displayName": "list-with-selection__ListItem",
+                "foldedComponentIds": Array [],
+                "render": [Function],
+                "styledComponentId": "list-with-selection__ListItem-otg3vd-1",
+                "target": "li",
+                "toString": [Function],
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={[Function]}
+            isSelected={false}
+            onClick={[Function]}
+            role="option"
+            tabIndex="-1"
+          >
+            <li
+              aria-selected={false}
+              className="c1"
+              onClick={[Function]}
+              role="option"
+              tabIndex="-1"
+            >
+              <div
+                className="item"
+                key="0"
+                style={
+                  Object {
+                    "height": 20,
+                  }
+                }
+              >
+                0
+              </div>
+            </li>
+          </StyledComponent>
+        </list-with-selection__ListItem>
+        <list-with-selection__ListItem
+          aria-selected={false}
+          isSelected={false}
+          key=".$1"
+          onClick={[Function]}
+          role="option"
+          tabIndex="-1"
+        >
+          <StyledComponent
+            aria-selected={false}
+            forwardedComponent={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": Array [],
+                "componentStyle": ComponentStyle {
+                  "componentId": "list-with-selection__ListItem-otg3vd-1",
+                  "isStatic": false,
+                  "lastClassName": "c1",
+                  "rules": Array [
+                    "padding:5px 10px;color:#222;cursor:pointer;outline:none;&:hover{background:#e5e5e5;}",
+                    [Function],
+                  ],
+                },
+                "displayName": "list-with-selection__ListItem",
+                "foldedComponentIds": Array [],
+                "render": [Function],
+                "styledComponentId": "list-with-selection__ListItem-otg3vd-1",
+                "target": "li",
+                "toString": [Function],
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={[Function]}
+            isSelected={false}
+            onClick={[Function]}
+            role="option"
+            tabIndex="-1"
+          >
+            <li
+              aria-selected={false}
+              className="c1"
+              onClick={[Function]}
+              role="option"
+              tabIndex="-1"
+            >
+              <div
+                className="item"
+                key="1"
+                style={
+                  Object {
+                    "height": 20,
+                  }
+                }
+              >
+                1
+              </div>
+            </li>
+          </StyledComponent>
+        </list-with-selection__ListItem>
+        <list-with-selection__ListItem
+          aria-selected={true}
+          isSelected={true}
+          key=".$2"
+          onClick={[Function]}
+          role="option"
+          tabIndex="-1"
+        >
+          <StyledComponent
+            aria-selected={true}
+            forwardedComponent={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": Array [],
+                "componentStyle": ComponentStyle {
+                  "componentId": "list-with-selection__ListItem-otg3vd-1",
+                  "isStatic": false,
+                  "lastClassName": "c1",
+                  "rules": Array [
+                    "padding:5px 10px;color:#222;cursor:pointer;outline:none;&:hover{background:#e5e5e5;}",
+                    [Function],
+                  ],
+                },
+                "displayName": "list-with-selection__ListItem",
+                "foldedComponentIds": Array [],
+                "render": [Function],
+                "styledComponentId": "list-with-selection__ListItem-otg3vd-1",
+                "target": "li",
+                "toString": [Function],
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={[Function]}
+            isSelected={true}
+            onClick={[Function]}
+            role="option"
+            tabIndex="-1"
+          >
+            <li
+              aria-selected={true}
+              className="c2"
+              onClick={[Function]}
+              role="option"
+              tabIndex="-1"
+            >
+              <div
+                className="item"
+                key="2"
+                style={
+                  Object {
+                    "height": 20,
+                  }
+                }
+              >
+                2
+              </div>
+            </li>
+          </StyledComponent>
+        </list-with-selection__ListItem>
+      </ul>
+    </StyledComponent>
+  </list-with-selection__List>
+</ListWithSelection>
+`;
+
+exports[`<ListWithSelection /> ArrowUp key stops if the selected element is the first one 1`] = `
+.c0 {
+  background: white;
+  border: 1px solid #e5e5e5;
+  width: 100%;
+  overflow-y: scroll;
+  z-index: 501;
+  position: relative;
+  margin: 0;
+  max-height: 400px;
+}
+
+.c1 {
+  padding: 5px 10px;
+  color: #222;
+  cursor: pointer;
+  outline: none;
+  background: #e5e5e5;
+}
+
+.c1:hover {
+  background: #e5e5e5;
+}
+
+.c2 {
+  padding: 5px 10px;
+  color: #222;
+  cursor: pointer;
+  outline: none;
+}
+
+.c2:hover {
+  background: #e5e5e5;
+}
+
+<ListWithSelection
+  allowNavigation={true}
+  height={400}
+  onSelect={[Function]}
+>
+  <list-with-selection__List
+    height={400}
+  >
+    <StyledComponent
+      forwardedComponent={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": Array [],
+          "componentStyle": ComponentStyle {
+            "componentId": "list-with-selection__List-otg3vd-0",
+            "isStatic": false,
+            "lastClassName": "c0",
+            "rules": Array [
+              "background:white;border:1px solid #e5e5e5;width:100%;overflow-y:scroll;z-index:501;position:relative;margin:0;",
+              [Function],
+            ],
+          },
+          "displayName": "list-with-selection__List",
+          "foldedComponentIds": Array [],
+          "render": [Function],
+          "styledComponentId": "list-with-selection__List-otg3vd-0",
+          "target": "ul",
+          "toString": [Function],
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        }
+      }
+      forwardedRef={[Function]}
+      height={400}
+    >
+      <ul
+        className="c0"
+        height={400}
+      >
+        <list-with-selection__ListItem
+          aria-selected={true}
+          isSelected={true}
+          key=".$0"
+          onClick={[Function]}
+          role="option"
+          tabIndex="-1"
+        >
+          <StyledComponent
+            aria-selected={true}
+            forwardedComponent={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": Array [],
+                "componentStyle": ComponentStyle {
+                  "componentId": "list-with-selection__ListItem-otg3vd-1",
+                  "isStatic": false,
+                  "lastClassName": "c2",
+                  "rules": Array [
+                    "padding:5px 10px;color:#222;cursor:pointer;outline:none;&:hover{background:#e5e5e5;}",
+                    [Function],
+                  ],
+                },
+                "displayName": "list-with-selection__ListItem",
+                "foldedComponentIds": Array [],
+                "render": [Function],
+                "styledComponentId": "list-with-selection__ListItem-otg3vd-1",
+                "target": "li",
+                "toString": [Function],
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={[Function]}
+            isSelected={true}
+            onClick={[Function]}
+            role="option"
+            tabIndex="-1"
+          >
+            <li
+              aria-selected={true}
+              className="c1"
+              onClick={[Function]}
+              role="option"
+              tabIndex="-1"
+            >
+              <div
+                className="item"
+                key="0"
+                style={
+                  Object {
+                    "height": 20,
+                  }
+                }
+              >
+                0
+              </div>
+            </li>
+          </StyledComponent>
+        </list-with-selection__ListItem>
+        <list-with-selection__ListItem
+          aria-selected={false}
+          isSelected={false}
+          key=".$1"
+          onClick={[Function]}
+          role="option"
+          tabIndex="-1"
+        >
+          <StyledComponent
+            aria-selected={false}
+            forwardedComponent={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": Array [],
+                "componentStyle": ComponentStyle {
+                  "componentId": "list-with-selection__ListItem-otg3vd-1",
+                  "isStatic": false,
+                  "lastClassName": "c2",
+                  "rules": Array [
+                    "padding:5px 10px;color:#222;cursor:pointer;outline:none;&:hover{background:#e5e5e5;}",
+                    [Function],
+                  ],
+                },
+                "displayName": "list-with-selection__ListItem",
+                "foldedComponentIds": Array [],
+                "render": [Function],
+                "styledComponentId": "list-with-selection__ListItem-otg3vd-1",
+                "target": "li",
+                "toString": [Function],
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={[Function]}
+            isSelected={false}
+            onClick={[Function]}
+            role="option"
+            tabIndex="-1"
+          >
+            <li
+              aria-selected={false}
+              className="c2"
+              onClick={[Function]}
+              role="option"
+              tabIndex="-1"
+            >
+              <div
+                className="item"
+                key="1"
+                style={
+                  Object {
+                    "height": 20,
+                  }
+                }
+              >
+                1
+              </div>
+            </li>
+          </StyledComponent>
+        </list-with-selection__ListItem>
+        <list-with-selection__ListItem
+          aria-selected={false}
+          isSelected={false}
+          key=".$2"
+          onClick={[Function]}
+          role="option"
+          tabIndex="-1"
+        >
+          <StyledComponent
+            aria-selected={false}
+            forwardedComponent={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": Array [],
+                "componentStyle": ComponentStyle {
+                  "componentId": "list-with-selection__ListItem-otg3vd-1",
+                  "isStatic": false,
+                  "lastClassName": "c2",
+                  "rules": Array [
+                    "padding:5px 10px;color:#222;cursor:pointer;outline:none;&:hover{background:#e5e5e5;}",
+                    [Function],
+                  ],
+                },
+                "displayName": "list-with-selection__ListItem",
+                "foldedComponentIds": Array [],
+                "render": [Function],
+                "styledComponentId": "list-with-selection__ListItem-otg3vd-1",
+                "target": "li",
+                "toString": [Function],
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={[Function]}
+            isSelected={false}
+            onClick={[Function]}
+            role="option"
+            tabIndex="-1"
+          >
+            <li
+              aria-selected={false}
+              className="c2"
+              onClick={[Function]}
+              role="option"
+              tabIndex="-1"
+            >
+              <div
+                className="item"
+                key="2"
+                style={
+                  Object {
+                    "height": 20,
+                  }
+                }
+              >
+                2
+              </div>
+            </li>
+          </StyledComponent>
+        </list-with-selection__ListItem>
+      </ul>
+    </StyledComponent>
+  </list-with-selection__List>
+</ListWithSelection>
+`;
+
+exports[`<ListWithSelection /> Enter key selects currently selected item 1`] = `
+<div
+  className="item"
+  style={
+    Object {
+      "height": 20,
+    }
+  }
+>
+  0
+</div>
+`;
+
+exports[`<ListWithSelection /> clicking also selects 1`] = `
+<div
+  className="item"
+  style={
+    Object {
+      "height": 20,
+    }
+  }
+>
+  1
+</div>
+`;
+
+exports[`<ListWithSelection /> first item is selected by default 1`] = `
+.c0 {
+  background: white;
+  border: 1px solid #e5e5e5;
+  width: 100%;
+  overflow-y: scroll;
+  z-index: 501;
+  position: relative;
+  margin: 0;
+  max-height: 400px;
+}
+
+.c1 {
+  padding: 5px 10px;
+  color: #222;
+  cursor: pointer;
+  outline: none;
+  background: #e5e5e5;
+}
+
+.c1:hover {
+  background: #e5e5e5;
+}
+
+.c2 {
+  padding: 5px 10px;
+  color: #222;
+  cursor: pointer;
+  outline: none;
+}
+
+.c2:hover {
+  background: #e5e5e5;
+}
+
+<ListWithSelection
+  allowNavigation={true}
+  height={400}
+  onSelect={[Function]}
+>
+  <list-with-selection__List
+    height={400}
+  >
+    <StyledComponent
+      forwardedComponent={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": Array [],
+          "componentStyle": ComponentStyle {
+            "componentId": "list-with-selection__List-otg3vd-0",
+            "isStatic": false,
+            "lastClassName": "c0",
+            "rules": Array [
+              "background:white;border:1px solid #e5e5e5;width:100%;overflow-y:scroll;z-index:501;position:relative;margin:0;",
+              [Function],
+            ],
+          },
+          "displayName": "list-with-selection__List",
+          "foldedComponentIds": Array [],
+          "render": [Function],
+          "styledComponentId": "list-with-selection__List-otg3vd-0",
+          "target": "ul",
+          "toString": [Function],
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        }
+      }
+      forwardedRef={[Function]}
+      height={400}
+    >
+      <ul
+        className="c0"
+        height={400}
+      >
+        <list-with-selection__ListItem
+          aria-selected={true}
+          isSelected={true}
+          key=".$0"
+          onClick={[Function]}
+          role="option"
+          tabIndex="-1"
+        >
+          <StyledComponent
+            aria-selected={true}
+            forwardedComponent={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": Array [],
+                "componentStyle": ComponentStyle {
+                  "componentId": "list-with-selection__ListItem-otg3vd-1",
+                  "isStatic": false,
+                  "lastClassName": "c2",
+                  "rules": Array [
+                    "padding:5px 10px;color:#222;cursor:pointer;outline:none;&:hover{background:#e5e5e5;}",
+                    [Function],
+                  ],
+                },
+                "displayName": "list-with-selection__ListItem",
+                "foldedComponentIds": Array [],
+                "render": [Function],
+                "styledComponentId": "list-with-selection__ListItem-otg3vd-1",
+                "target": "li",
+                "toString": [Function],
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={[Function]}
+            isSelected={true}
+            onClick={[Function]}
+            role="option"
+            tabIndex="-1"
+          >
+            <li
+              aria-selected={true}
+              className="c1"
+              onClick={[Function]}
+              role="option"
+              tabIndex="-1"
+            >
+              <div
+                className="item"
+                key="0"
+                style={
+                  Object {
+                    "height": 20,
+                  }
+                }
+              >
+                0
+              </div>
+            </li>
+          </StyledComponent>
+        </list-with-selection__ListItem>
+        <list-with-selection__ListItem
+          aria-selected={false}
+          isSelected={false}
+          key=".$1"
+          onClick={[Function]}
+          role="option"
+          tabIndex="-1"
+        >
+          <StyledComponent
+            aria-selected={false}
+            forwardedComponent={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": Array [],
+                "componentStyle": ComponentStyle {
+                  "componentId": "list-with-selection__ListItem-otg3vd-1",
+                  "isStatic": false,
+                  "lastClassName": "c2",
+                  "rules": Array [
+                    "padding:5px 10px;color:#222;cursor:pointer;outline:none;&:hover{background:#e5e5e5;}",
+                    [Function],
+                  ],
+                },
+                "displayName": "list-with-selection__ListItem",
+                "foldedComponentIds": Array [],
+                "render": [Function],
+                "styledComponentId": "list-with-selection__ListItem-otg3vd-1",
+                "target": "li",
+                "toString": [Function],
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={[Function]}
+            isSelected={false}
+            onClick={[Function]}
+            role="option"
+            tabIndex="-1"
+          >
+            <li
+              aria-selected={false}
+              className="c2"
+              onClick={[Function]}
+              role="option"
+              tabIndex="-1"
+            >
+              <div
+                className="item"
+                key="1"
+                style={
+                  Object {
+                    "height": 20,
+                  }
+                }
+              >
+                1
+              </div>
+            </li>
+          </StyledComponent>
+        </list-with-selection__ListItem>
+      </ul>
+    </StyledComponent>
+  </list-with-selection__List>
+</ListWithSelection>
+`;
+
+exports[`<ListWithSelection /> has specified max height 1`] = `
+.c0 {
+  background: white;
+  border: 1px solid #e5e5e5;
+  width: 100%;
+  overflow-y: scroll;
+  z-index: 501;
+  position: relative;
+  margin: 0;
+  max-height: 20px;
+}
+
+.c1 {
+  padding: 5px 10px;
+  color: #222;
+  cursor: pointer;
+  outline: none;
+  background: #e5e5e5;
+}
+
+.c1:hover {
+  background: #e5e5e5;
+}
+
+.c2 {
+  padding: 5px 10px;
+  color: #222;
+  cursor: pointer;
+  outline: none;
+}
+
+.c2:hover {
+  background: #e5e5e5;
+}
+
+<ListWithSelection
+  allowNavigation={true}
+  height={20}
+  onSelect={[Function]}
+>
+  <list-with-selection__List
+    height={20}
+  >
+    <StyledComponent
+      forwardedComponent={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": Array [],
+          "componentStyle": ComponentStyle {
+            "componentId": "list-with-selection__List-otg3vd-0",
+            "isStatic": false,
+            "lastClassName": "c0",
+            "rules": Array [
+              "background:white;border:1px solid #e5e5e5;width:100%;overflow-y:scroll;z-index:501;position:relative;margin:0;",
+              [Function],
+            ],
+          },
+          "displayName": "list-with-selection__List",
+          "foldedComponentIds": Array [],
+          "render": [Function],
+          "styledComponentId": "list-with-selection__List-otg3vd-0",
+          "target": "ul",
+          "toString": [Function],
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        }
+      }
+      forwardedRef={[Function]}
+      height={20}
+    >
+      <ul
+        className="c0"
+        height={20}
+      >
+        <list-with-selection__ListItem
+          aria-selected={true}
+          isSelected={true}
+          key=".$0"
+          onClick={[Function]}
+          role="option"
+          tabIndex="-1"
+        >
+          <StyledComponent
+            aria-selected={true}
+            forwardedComponent={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": Array [],
+                "componentStyle": ComponentStyle {
+                  "componentId": "list-with-selection__ListItem-otg3vd-1",
+                  "isStatic": false,
+                  "lastClassName": "c2",
+                  "rules": Array [
+                    "padding:5px 10px;color:#222;cursor:pointer;outline:none;&:hover{background:#e5e5e5;}",
+                    [Function],
+                  ],
+                },
+                "displayName": "list-with-selection__ListItem",
+                "foldedComponentIds": Array [],
+                "render": [Function],
+                "styledComponentId": "list-with-selection__ListItem-otg3vd-1",
+                "target": "li",
+                "toString": [Function],
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={[Function]}
+            isSelected={true}
+            onClick={[Function]}
+            role="option"
+            tabIndex="-1"
+          >
+            <li
+              aria-selected={true}
+              className="c1"
+              onClick={[Function]}
+              role="option"
+              tabIndex="-1"
+            >
+              <div
+                className="item"
+                key="0"
+                style={
+                  Object {
+                    "height": 20,
+                  }
+                }
+              >
+                0
+              </div>
+            </li>
+          </StyledComponent>
+        </list-with-selection__ListItem>
+        <list-with-selection__ListItem
+          aria-selected={false}
+          isSelected={false}
+          key=".$1"
+          onClick={[Function]}
+          role="option"
+          tabIndex="-1"
+        >
+          <StyledComponent
+            aria-selected={false}
+            forwardedComponent={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": Array [],
+                "componentStyle": ComponentStyle {
+                  "componentId": "list-with-selection__ListItem-otg3vd-1",
+                  "isStatic": false,
+                  "lastClassName": "c2",
+                  "rules": Array [
+                    "padding:5px 10px;color:#222;cursor:pointer;outline:none;&:hover{background:#e5e5e5;}",
+                    [Function],
+                  ],
+                },
+                "displayName": "list-with-selection__ListItem",
+                "foldedComponentIds": Array [],
+                "render": [Function],
+                "styledComponentId": "list-with-selection__ListItem-otg3vd-1",
+                "target": "li",
+                "toString": [Function],
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={[Function]}
+            isSelected={false}
+            onClick={[Function]}
+            role="option"
+            tabIndex="-1"
+          >
+            <li
+              aria-selected={false}
+              className="c2"
+              onClick={[Function]}
+              role="option"
+              tabIndex="-1"
+            >
+              <div
+                className="item"
+                key="1"
+                style={
+                  Object {
+                    "height": 20,
+                  }
+                }
+              >
+                1
+              </div>
+            </li>
+          </StyledComponent>
+        </list-with-selection__ListItem>
+        <list-with-selection__ListItem
+          aria-selected={false}
+          isSelected={false}
+          key=".$2"
+          onClick={[Function]}
+          role="option"
+          tabIndex="-1"
+        >
+          <StyledComponent
+            aria-selected={false}
+            forwardedComponent={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": Array [],
+                "componentStyle": ComponentStyle {
+                  "componentId": "list-with-selection__ListItem-otg3vd-1",
+                  "isStatic": false,
+                  "lastClassName": "c2",
+                  "rules": Array [
+                    "padding:5px 10px;color:#222;cursor:pointer;outline:none;&:hover{background:#e5e5e5;}",
+                    [Function],
+                  ],
+                },
+                "displayName": "list-with-selection__ListItem",
+                "foldedComponentIds": Array [],
+                "render": [Function],
+                "styledComponentId": "list-with-selection__ListItem-otg3vd-1",
+                "target": "li",
+                "toString": [Function],
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={[Function]}
+            isSelected={false}
+            onClick={[Function]}
+            role="option"
+            tabIndex="-1"
+          >
+            <li
+              aria-selected={false}
+              className="c2"
+              onClick={[Function]}
+              role="option"
+              tabIndex="-1"
+            >
+              <div
+                className="item"
+                key="2"
+                style={
+                  Object {
+                    "height": 20,
+                  }
+                }
+              >
+                2
+              </div>
+            </li>
+          </StyledComponent>
+        </list-with-selection__ListItem>
+      </ul>
+    </StyledComponent>
+  </list-with-selection__List>
+</ListWithSelection>
+`;
+
+exports[`<ListWithSelection /> renders children 1`] = `
+.c0 {
+  background: white;
+  border: 1px solid #e5e5e5;
+  width: 100%;
+  overflow-y: scroll;
+  z-index: 501;
+  position: relative;
+  margin: 0;
+  max-height: 400px;
+}
+
+.c1 {
+  padding: 5px 10px;
+  color: #222;
+  cursor: pointer;
+  outline: none;
+  background: #e5e5e5;
+}
+
+.c1:hover {
+  background: #e5e5e5;
+}
+
+.c2 {
+  padding: 5px 10px;
+  color: #222;
+  cursor: pointer;
+  outline: none;
+}
+
+.c2:hover {
+  background: #e5e5e5;
+}
+
+<ListWithSelection
+  allowNavigation={true}
+  height={400}
+  onSelect={[Function]}
+>
+  <list-with-selection__List
+    height={400}
+  >
+    <StyledComponent
+      forwardedComponent={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": Array [],
+          "componentStyle": ComponentStyle {
+            "componentId": "list-with-selection__List-otg3vd-0",
+            "isStatic": false,
+            "lastClassName": "c0",
+            "rules": Array [
+              "background:white;border:1px solid #e5e5e5;width:100%;overflow-y:scroll;z-index:501;position:relative;margin:0;",
+              [Function],
+            ],
+          },
+          "displayName": "list-with-selection__List",
+          "foldedComponentIds": Array [],
+          "render": [Function],
+          "styledComponentId": "list-with-selection__List-otg3vd-0",
+          "target": "ul",
+          "toString": [Function],
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        }
+      }
+      forwardedRef={[Function]}
+      height={400}
+    >
+      <ul
+        className="c0"
+        height={400}
+      >
+        <list-with-selection__ListItem
+          aria-selected={true}
+          isSelected={true}
+          key=".$0"
+          onClick={[Function]}
+          role="option"
+          tabIndex="-1"
+        >
+          <StyledComponent
+            aria-selected={true}
+            forwardedComponent={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": Array [],
+                "componentStyle": ComponentStyle {
+                  "componentId": "list-with-selection__ListItem-otg3vd-1",
+                  "isStatic": false,
+                  "lastClassName": "c2",
+                  "rules": Array [
+                    "padding:5px 10px;color:#222;cursor:pointer;outline:none;&:hover{background:#e5e5e5;}",
+                    [Function],
+                  ],
+                },
+                "displayName": "list-with-selection__ListItem",
+                "foldedComponentIds": Array [],
+                "render": [Function],
+                "styledComponentId": "list-with-selection__ListItem-otg3vd-1",
+                "target": "li",
+                "toString": [Function],
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={[Function]}
+            isSelected={true}
+            onClick={[Function]}
+            role="option"
+            tabIndex="-1"
+          >
+            <li
+              aria-selected={true}
+              className="c1"
+              onClick={[Function]}
+              role="option"
+              tabIndex="-1"
+            >
+              <div
+                className="item"
+                key="0"
+                style={
+                  Object {
+                    "height": 20,
+                  }
+                }
+              >
+                0
+              </div>
+            </li>
+          </StyledComponent>
+        </list-with-selection__ListItem>
+        <list-with-selection__ListItem
+          aria-selected={false}
+          isSelected={false}
+          key=".$1"
+          onClick={[Function]}
+          role="option"
+          tabIndex="-1"
+        >
+          <StyledComponent
+            aria-selected={false}
+            forwardedComponent={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": Array [],
+                "componentStyle": ComponentStyle {
+                  "componentId": "list-with-selection__ListItem-otg3vd-1",
+                  "isStatic": false,
+                  "lastClassName": "c2",
+                  "rules": Array [
+                    "padding:5px 10px;color:#222;cursor:pointer;outline:none;&:hover{background:#e5e5e5;}",
+                    [Function],
+                  ],
+                },
+                "displayName": "list-with-selection__ListItem",
+                "foldedComponentIds": Array [],
+                "render": [Function],
+                "styledComponentId": "list-with-selection__ListItem-otg3vd-1",
+                "target": "li",
+                "toString": [Function],
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={[Function]}
+            isSelected={false}
+            onClick={[Function]}
+            role="option"
+            tabIndex="-1"
+          >
+            <li
+              aria-selected={false}
+              className="c2"
+              onClick={[Function]}
+              role="option"
+              tabIndex="-1"
+            >
+              <div
+                className="item"
+                key="1"
+                style={
+                  Object {
+                    "height": 20,
+                  }
+                }
+              >
+                1
+              </div>
+            </li>
+          </StyledComponent>
+        </list-with-selection__ListItem>
+        <list-with-selection__ListItem
+          aria-selected={false}
+          isSelected={false}
+          key=".$2"
+          onClick={[Function]}
+          role="option"
+          tabIndex="-1"
+        >
+          <StyledComponent
+            aria-selected={false}
+            forwardedComponent={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": Array [],
+                "componentStyle": ComponentStyle {
+                  "componentId": "list-with-selection__ListItem-otg3vd-1",
+                  "isStatic": false,
+                  "lastClassName": "c2",
+                  "rules": Array [
+                    "padding:5px 10px;color:#222;cursor:pointer;outline:none;&:hover{background:#e5e5e5;}",
+                    [Function],
+                  ],
+                },
+                "displayName": "list-with-selection__ListItem",
+                "foldedComponentIds": Array [],
+                "render": [Function],
+                "styledComponentId": "list-with-selection__ListItem-otg3vd-1",
+                "target": "li",
+                "toString": [Function],
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={[Function]}
+            isSelected={false}
+            onClick={[Function]}
+            role="option"
+            tabIndex="-1"
+          >
+            <li
+              aria-selected={false}
+              className="c2"
+              onClick={[Function]}
+              role="option"
+              tabIndex="-1"
+            >
+              <div
+                className="item"
+                key="2"
+                style={
+                  Object {
+                    "height": 20,
+                  }
+                }
+              >
+                2
+              </div>
+            </li>
+          </StyledComponent>
+        </list-with-selection__ListItem>
+      </ul>
+    </StyledComponent>
+  </list-with-selection__List>
+</ListWithSelection>
+`;

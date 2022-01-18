@@ -1,0 +1,33 @@
+{
+	"id": "56860586",
+	"url": "https://www.theverge.com/2018/2/28/17055108/overwatch-new-hero-reveal-brigitte-trailer",
+	"provider": "opengraph",
+	"headline": "Overwatch’s newest hero is an armor-clad engineer named Brigitte",
+	"description": "Blizzard’s shooter gets its much anticipated new character.",
+	"thumbnails": [
+		"https://cdn.vox-cdn.com/thumbor/DuEH5N4PG18fgVFIoj9j5OVXJEc=/0x491:2560x1831/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/10316089/brigitte_concept.jpg"
+	],
+	"images": [{
+		"id": "w3dnkgvgt2owjbwku8pk",
+		"format": "jpg",
+		"width": 1200,
+		"height": 628,
+		"originalWidth": 1200,
+		"originalHeight": 628
+	}],
+	"meta": {
+		"canonicalHost": "www.theverge.com",
+		"canonicalUrl": "https://www.theverge.com/2018/2/28/17055108/overwatch-new-hero-reveal-brigitte-trailer"
+	},
+	"type": "none",
+	"height": null,
+	"width": null,
+	"sizeClass": null,
+	"autoResize": false,
+	"isSecure": true,
+	"insetId": null,
+	"originalUrl": "https://www.theverge.com/2018/2/28/17055108/overwatch-new-hero-reveal-brigitte-trailer",
+	"shortDescription": "Blizzard’s shooter gets its much anticipated new character.",
+	"startTime": null,
+	"relatedLinks": []
+}

@@ -1,0 +1,157 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<RevcontentWidget /> should NOT render a BS widget and match snapshot 1`] = `
+<RevcontentWidget
+  blogGroup="very-intelligent-blog-name"
+/>
+`;
+
+exports[`<RevcontentWidget /> should render the AVCLub widget and match snapshot 1`] = `
+<RevcontentWidget
+  blogGroup="avclub"
+>
+  <div
+    className="js_revcontent-widget"
+    data-endpoint="//trends.revcontent.com"
+    data-rc-widget={true}
+    data-widget-host="habitat"
+    data-widget-id={118019}
+    id="rc-widget-1000"
+  />
+</RevcontentWidget>
+`;
+
+exports[`<RevcontentWidget /> should render the Deadspin widget and match snapshot 1`] = `
+<RevcontentWidget
+  blogGroup="deadspin"
+>
+  <div
+    className="js_revcontent-widget"
+    data-endpoint="//trends.revcontent.com"
+    data-rc-widget={true}
+    data-widget-host="habitat"
+    data-widget-id={118025}
+    id="rc-widget-1000"
+  />
+</RevcontentWidget>
+`;
+
+exports[`<RevcontentWidget /> should render the Gizmodo widget and match snapshot 1`] = `
+<RevcontentWidget
+  blogGroup="gizmodo"
+>
+  <div
+    className="js_revcontent-widget"
+    data-endpoint="//trends.revcontent.com"
+    data-rc-widget={true}
+    data-widget-host="habitat"
+    data-widget-id={118017}
+    id="rc-widget-1000"
+  />
+</RevcontentWidget>
+`;
+
+exports[`<RevcontentWidget /> should render the Jalopnik widget and match snapshot 1`] = `
+<RevcontentWidget
+  blogGroup="jalopnik"
+>
+  <div
+    className="js_revcontent-widget"
+    data-endpoint="//trends.revcontent.com"
+    data-rc-widget={true}
+    data-widget-host="habitat"
+    data-widget-id={118021}
+    id="rc-widget-1000"
+  />
+</RevcontentWidget>
+`;
+
+exports[`<RevcontentWidget /> should render the Jezebel widget and match snapshot 1`] = `
+<RevcontentWidget
+  blogGroup="jezebel"
+>
+  <div
+    className="js_revcontent-widget"
+    data-endpoint="//trends.revcontent.com"
+    data-rc-widget={true}
+    data-widget-host="habitat"
+    data-widget-id={118024}
+    id="rc-widget-1000"
+  />
+</RevcontentWidget>
+`;
+
+exports[`<RevcontentWidget /> should render the Kotaku widget and match snapshot 1`] = `
+<RevcontentWidget
+  blogGroup="kotaku"
+>
+  <div
+    className="js_revcontent-widget"
+    data-endpoint="//trends.revcontent.com"
+    data-rc-widget={true}
+    data-widget-host="habitat"
+    data-widget-id={118026}
+    id="rc-widget-1000"
+  />
+</RevcontentWidget>
+`;
+
+exports[`<RevcontentWidget /> should render the Lifehacker widget and match snapshot 1`] = `
+<RevcontentWidget
+  blogGroup="lifehacker"
+>
+  <div
+    className="js_revcontent-widget"
+    data-endpoint="//trends.revcontent.com"
+    data-rc-widget={true}
+    data-widget-host="habitat"
+    data-widget-id={118020}
+    id="rc-widget-1000"
+  />
+</RevcontentWidget>
+`;
+
+exports[`<RevcontentWidget /> should render the Onion widget and match snapshot 1`] = `
+<RevcontentWidget
+  blogGroup="theonion"
+>
+  <div
+    className="js_revcontent-widget"
+    data-endpoint="//trends.revcontent.com"
+    data-rc-widget={true}
+    data-widget-host="habitat"
+    data-widget-id={118018}
+    id="rc-widget-1000"
+  />
+</RevcontentWidget>
+`;
+
+exports[`<RevcontentWidget /> should render the Root widget and match snapshot 1`] = `
+<RevcontentWidget
+  blogGroup="theroot"
+>
+  <div
+    className="js_revcontent-widget"
+    data-endpoint="//trends.revcontent.com"
+    data-rc-widget={true}
+    data-widget-host="habitat"
+    data-widget-id={118022}
+    id="rc-widget-1000"
+  />
+</RevcontentWidget>
+`;
+
+exports[`<RevcontentWidget /> should render the Takeout widget and match snapshot 1`] = `
+<RevcontentWidget
+  blogGroup="thetakeout"
+>
+  <div
+    className="js_revcontent-widget"
+    data-endpoint="//trends.revcontent.com"
+    data-rc-widget={true}
+    data-widget-host="habitat"
+    data-widget-id={118027}
+    id="rc-widget-1000"
+  />
+</RevcontentWidget>
+`;

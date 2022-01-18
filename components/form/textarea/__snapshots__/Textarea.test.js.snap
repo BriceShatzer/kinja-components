@@ -1,0 +1,155 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Textarea /> should have proper classNames when type is autogrow 1`] = `
+.c0 {
+  position: relative;
+  margin-bottom: 1.5rem;
+  display: block;
+  width: 100%;
+  max-width: 400px;
+}
+
+.c1 {
+  font-size: 0.875rem;
+  -webkit-transition: color 0.2s ease-in-out;
+  transition: color 0.2s ease-in-out;
+  color: #7D7D7D;
+  line-height: 23px;
+  margin-bottom: -5px;
+}
+
+<Textarea
+  autogrow={true}
+  error=""
+  label="High Rollers"
+  name="test"
+  onChange={[Function]}
+  rows={5}
+  value="Ice T net worth"
+>
+  <Field
+    error=""
+    label="High Rollers"
+    value="Ice T net worth"
+  >
+    <EnsureDefaultTheme>
+      <ThemeProvider
+        theme={[Function]}
+      >
+        <field__Wrapper
+          className="field"
+        >
+          <StyledComponent
+            className="field"
+            forwardedComponent={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": Array [],
+                "componentStyle": ComponentStyle {
+                  "componentId": "field__Wrapper-sc-1k7q01z-0",
+                  "isStatic": false,
+                  "lastClassName": "c0",
+                  "rules": Array [
+                    "position:relative;margin-bottom:1.5rem;display:block;width:100%;",
+                    [Function],
+                  ],
+                },
+                "displayName": "field__Wrapper",
+                "foldedComponentIds": Array [],
+                "render": [Function],
+                "styledComponentId": "field__Wrapper-sc-1k7q01z-0",
+                "target": "label",
+                "toString": [Function],
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={null}
+          >
+            <label
+              className="field c0"
+            >
+              <TextareaAutosize
+                className="autogrow-short textarea--multiline"
+                id="test"
+                name="test"
+                onChange={[Function]}
+                onHeightChange={[Function]}
+                rows={5}
+                useCacheForDOMMeasurements={true}
+                value="Ice T net worth"
+              >
+                <textarea
+                  className="autogrow-short textarea--multiline"
+                  id="test"
+                  name="test"
+                  onChange={[Function]}
+                  rows={5}
+                  style={
+                    Object {
+                      "height": 0,
+                    }
+                  }
+                  value="Ice T net worth"
+                />
+              </TextareaAutosize>
+              <field__Label>
+                <StyledComponent
+                  forwardedComponent={
+                    Object {
+                      "$$typeof": Symbol(react.forward_ref),
+                      "attrs": Array [],
+                      "componentStyle": ComponentStyle {
+                        "componentId": "field__Label-sc-1k7q01z-1",
+                        "isStatic": false,
+                        "lastClassName": "c1",
+                        "rules": Array [
+                          "font-size:0.875rem;transition:color 0.2s ease-in-out;color:",
+                          [Function],
+                          ";line-height:23px;margin-bottom:-5px;",
+                        ],
+                      },
+                      "displayName": "field__Label",
+                      "foldedComponentIds": Array [],
+                      "render": [Function],
+                      "styledComponentId": "field__Label-sc-1k7q01z-1",
+                      "target": "div",
+                      "toString": [Function],
+                      "warnTooManyClasses": [Function],
+                      "withComponent": [Function],
+                    }
+                  }
+                  forwardedRef={null}
+                >
+                  <div
+                    className="c1"
+                  >
+                    High Rollers
+                  </div>
+                </StyledComponent>
+              </field__Label>
+            </label>
+          </StyledComponent>
+        </field__Wrapper>
+      </ThemeProvider>
+    </EnsureDefaultTheme>
+  </Field>
+</Textarea>
+`;
+
+exports[`<Textarea /> should render correctly 1`] = `
+<Field
+  error=""
+  label="High Rollers"
+  value="Ice T net worth"
+>
+  <textarea
+    className="textarea--box"
+    id="test"
+    name="test"
+    onChange={[Function]}
+    rows={5}
+    value="Ice T net worth"
+  />
+</Field>
+`;

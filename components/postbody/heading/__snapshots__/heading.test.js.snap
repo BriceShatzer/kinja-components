@@ -1,0 +1,287 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Heading /> Alignment should apply center alignment 1`] = `
+<EnsureDefaultTheme>
+  <heading__HeadingWrapper
+    as="h4"
+    hasIcon={false}
+    id="h5"
+    textAlign="center"
+  >
+    <a
+      className="js_header-anchor"
+    />
+    <WithKinjaMeta
+      nodes={
+        Array [
+          TextNode {
+            "styles": Array [],
+            "type": "Text",
+            "value": "This is a sample text.",
+          },
+        ]
+      }
+    />
+  </heading__HeadingWrapper>
+</EnsureDefaultTheme>
+`;
+
+exports[`<Heading /> Alignment should apply right alignment 1`] = `
+<EnsureDefaultTheme>
+  <heading__HeadingWrapper
+    as="h4"
+    hasIcon={false}
+    id="h6"
+    textAlign="right"
+  >
+    <a
+      className="js_header-anchor"
+    />
+    <WithKinjaMeta
+      nodes={
+        Array [
+          TextNode {
+            "styles": Array [],
+            "type": "Text",
+            "value": "This is a sample text.",
+          },
+        ]
+      }
+    />
+  </heading__HeadingWrapper>
+</EnsureDefaultTheme>
+`;
+
+exports[`<Heading /> Alignment should not have class when aligned left 1`] = `
+<EnsureDefaultTheme>
+  <heading__HeadingWrapper
+    as="h4"
+    hasIcon={false}
+    id="h7"
+    textAlign="left"
+  >
+    <a
+      className="js_header-anchor"
+    />
+    <WithKinjaMeta
+      nodes={
+        Array [
+          TextNode {
+            "styles": Array [],
+            "type": "Text",
+            "value": "This is a sample text.",
+          },
+        ]
+      }
+    />
+  </heading__HeadingWrapper>
+</EnsureDefaultTheme>
+`;
+
+exports[`<Heading /> Levels should not render h1 1`] = `
+<EnsureDefaultTheme>
+  <heading__HeadingWrapper
+    as="h4"
+    hasIcon={false}
+    id="h3"
+    textAlign="left"
+  >
+    <a
+      className="js_header-anchor"
+    />
+    <WithKinjaMeta
+      nodes={
+        Array [
+          TextNode {
+            "styles": Array [],
+            "type": "Text",
+            "value": "This is a sample text.",
+          },
+        ]
+      }
+    />
+  </heading__HeadingWrapper>
+</EnsureDefaultTheme>
+`;
+
+exports[`<Heading /> Levels should render h2 1`] = `
+<EnsureDefaultTheme>
+  <heading__HeadingWrapper
+    as="h2"
+    hasIcon={false}
+    id="h1"
+    textAlign="left"
+  >
+    <a
+      className="js_header-anchor"
+    />
+    <WithKinjaMeta
+      nodes={
+        Array [
+          TextNode {
+            "styles": Array [],
+            "type": "Text",
+            "value": "This is a sample text.",
+          },
+        ]
+      }
+    />
+  </heading__HeadingWrapper>
+</EnsureDefaultTheme>
+`;
+
+exports[`<Heading /> Levels should render h3 1`] = `
+<EnsureDefaultTheme>
+  <heading__HeadingWrapper
+    as="h3"
+    hasIcon={false}
+    id="h2"
+    textAlign="left"
+  >
+    <a
+      className="js_header-anchor"
+    />
+    <WithKinjaMeta
+      nodes={
+        Array [
+          TextNode {
+            "styles": Array [],
+            "type": "Text",
+            "value": "This is a sample text.",
+          },
+        ]
+      }
+    />
+  </heading__HeadingWrapper>
+</EnsureDefaultTheme>
+`;
+
+exports[`<Heading /> Levels should render h4 by default 1`] = `
+<EnsureDefaultTheme>
+  <heading__HeadingWrapper
+    as="h4"
+    hasIcon={false}
+    id="h0"
+    textAlign="left"
+  >
+    <a
+      className="js_header-anchor"
+    />
+    <WithKinjaMeta
+      nodes={
+        Array [
+          TextNode {
+            "styles": Array [],
+            "type": "Text",
+            "value": "This is a sample text.",
+          },
+        ]
+      }
+    />
+  </heading__HeadingWrapper>
+</EnsureDefaultTheme>
+`;
+
+exports[`<Heading /> Levels should render h4 when providing invalid level 1`] = `
+<EnsureDefaultTheme>
+  <heading__HeadingWrapper
+    as="h4"
+    hasIcon={false}
+    id="h4"
+    textAlign="left"
+  >
+    <a
+      className="js_header-anchor"
+    />
+    <WithKinjaMeta
+      nodes={
+        Array [
+          TextNode {
+            "styles": Array [],
+            "type": "Text",
+            "value": "This is a sample text.",
+          },
+        ]
+      }
+    />
+  </heading__HeadingWrapper>
+</EnsureDefaultTheme>
+`;
+
+exports[`<Heading /> should apply both icon and alignment 1`] = `
+<EnsureDefaultTheme>
+  <heading__HeadingWrapper
+    as="h2"
+    className="js_commerce-header js_commerce-icon--gaming"
+    hasIcon={true}
+    id="h9"
+    textAlign="center"
+  >
+    <a
+      className="js_header-anchor"
+    />
+    <heading__IconContainer>
+      <DealsGamingIcon
+        aria-labelledby="h9"
+      />
+    </heading__IconContainer>
+    <span
+      id="h9"
+    >
+      <WithKinjaMeta
+        nodes={
+          Array [
+            TextNode {
+              "styles": Array [],
+              "type": "Text",
+              "value": "This is a sample text.",
+            },
+          ]
+        }
+      />
+    </span>
+  </heading__HeadingWrapper>
+</EnsureDefaultTheme>
+`;
+
+exports[`<Heading /> should apply icon 1`] = `
+<EnsureDefaultTheme>
+  <heading__HeadingWrapper
+    as="h4"
+    className="js_commerce-header js_commerce-icon--home"
+    hasIcon={true}
+    id="h8"
+    textAlign="left"
+  >
+    <a
+      className="js_header-anchor"
+    />
+    <heading__IconContainer>
+      <DealsHomeIcon
+        aria-labelledby="h8"
+      />
+    </heading__IconContainer>
+    <span
+      id="h8"
+    >
+      <WithKinjaMeta
+        nodes={
+          Array [
+            TextNode {
+              "styles": Array [],
+              "type": "Text",
+              "value": "This is a sample text.",
+            },
+          ]
+        }
+      />
+    </span>
+  </heading__HeadingWrapper>
+</EnsureDefaultTheme>
+`;
+
+exports[`<Heading /> should be wrapped in containers when used with BlockNodeList 1`] = `
+<ContextConsumer>
+  <Component />
+</ContextConsumer>
+`;

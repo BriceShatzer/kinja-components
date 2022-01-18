@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ImpactHeader /> should render by default 1`] = `
+<EnsureDefaultTheme>
+  <header-wrapper__HeaderWrapper>
+    <featured-header__FeaturedMediaWrapper>
+      <featured-header__FeaturedMediaImageWrapper>
+        <featured-header__GenericImageWrapper>
+          <WithPlatform
+            format="png"
+            id="tscqkiavefq37idpvl5g"
+            noLazy={true}
+            relative={true}
+            transform={null}
+          />
+        </featured-header__GenericImageWrapper>
+      </featured-header__FeaturedMediaImageWrapper>
+    </featured-header__FeaturedMediaWrapper>
+    <featured-header__FeaturedTitleWrapper>
+      <featured-header__TitleTag>
+        <Link
+          dangerouslySetInnerHTML={
+            Object {
+              "__html": "Featured Header",
+            }
+          }
+          events={
+            Array [
+              Array [
+                "Permalink page click",
+                "Permalink page click - post header",
+                "standard",
+              ],
+            ]
+          }
+        />
+      </featured-header__TitleTag>
+    </featured-header__FeaturedTitleWrapper>
+  </header-wrapper__HeaderWrapper>
+</EnsureDefaultTheme>
+`;

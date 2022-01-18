@@ -1,0 +1,1475 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Page layout/Static topbar can open more dropdown 1`] = `
+.c3 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c6 {
+  fill: currentColor;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  background: #000;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-flex-wrap: nowrap;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+  margin: 0;
+}
+
+.c1 > li:first-child {
+  margin-left: -8px;
+}
+
+.c2 {
+  text-transform: uppercase;
+  line-height: 24px;
+  font-size: 15px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  padding: 0 8px;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  -webkit-box-flex: 0;
+  -webkit-flex-grow: 0;
+  -ms-flex-positive: 0;
+  flex-grow: 0;
+  color: #7D7D7D;
+}
+
+.c2:hover {
+  background: #222;
+  color: #F5F5F5;
+}
+
+.c2:hover > a,
+.c2:hover > a:hover,
+.c2:hover > a:active,
+.c2:hover > a:focus,
+.c2:hover > a.focus {
+  color: #F5F5F5;
+}
+
+.c2 > a {
+  position: relative;
+  top: 1px;
+}
+
+.c2 > a,
+.c2 > a:hover,
+.c2 > a:active,
+.c2 > a:focus,
+.c2 > a.focus {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #CCC;
+}
+
+.c4 {
+  text-transform: uppercase;
+  line-height: 24px;
+  font-size: 15px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  padding: 0 8px;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  -webkit-box-flex: 0;
+  -webkit-flex-grow: 0;
+  -ms-flex-positive: 0;
+  flex-grow: 0;
+  color: #7D7D7D;
+  position: relative;
+}
+
+.c4:hover {
+  background: #222;
+  color: #F5F5F5;
+}
+
+.c4:hover > a,
+.c4:hover > a:hover,
+.c4:hover > a:active,
+.c4:hover > a:focus,
+.c4:hover > a.focus {
+  color: #F5F5F5;
+}
+
+.c4 > a {
+  position: relative;
+  top: 1px;
+}
+
+.c4 > a,
+.c4 > a:hover,
+.c4 > a:active,
+.c4 > a:focus,
+.c4 > a.focus {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #CCC;
+}
+
+.c4 > a {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.c4 .c5 {
+  margin-top: -3px;
+}
+
+.c7 {
+  position: absolute;
+  top: 24px;
+  right: 0;
+  background: #000;
+  z-index: 1;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  margin: 0;
+  width: -webkit-max-content;
+  width: -moz-max-content;
+  width: max-content;
+}
+
+@media only screen and (max-width:49.94em) {
+  .c1 {
+    width: calc((100vw - 16px) * 1 - 16px);
+  }
+}
+
+@media only screen and (min-width:50em) and (max-width:63.69em) {
+  .c1 {
+    width: calc((100vw - 24px) * 1 - 24px);
+  }
+}
+
+@media only screen and (min-width:63.75em) and (max-width:85.19em) {
+  .c1 {
+    width: calc((100vw - 24px) * 1 - 24px);
+  }
+}
+
+@media only screen and (min-width:85.25em) {
+  .c1 {
+    width: calc((1364px - 32px) * 1 - 32px);
+  }
+}
+
+<div
+  class="c0"
+>
+  <ul
+    class="c1"
+  >
+    <li
+      class="c2"
+    >
+      <a
+        class="js_link c3"
+        data-ga="[[\\"Network navigation\\",\\"Network Blog Click\\",\\"avclub.com\\",{\\"metric20\\":1}]]"
+        href="//avclub.com"
+      >
+        The A.V. Club
+      </a>
+    </li>
+    <li
+      class="c2"
+    >
+      <a
+        class="js_link c3"
+        data-ga="[[\\"Network navigation\\",\\"Network Blog Click\\",\\"deadspin.com\\",{\\"metric20\\":1}]]"
+        href="//deadspin.com"
+      >
+        Deadspin
+      </a>
+    </li>
+    <li
+      class="c2"
+    >
+      <a
+        class="js_link c3"
+        data-ga="[[\\"Network navigation\\",\\"Network Blog Click\\",\\"gizmodo.com\\",{\\"metric20\\":1}]]"
+        href="//gizmodo.com"
+      >
+        Gizmodo
+      </a>
+    </li>
+    <li
+      class="c2"
+    >
+      <a
+        class="js_link c3"
+        data-ga="[[\\"Network navigation\\",\\"Network Blog Click\\",\\"jalopnik.com\\",{\\"metric20\\":1}]]"
+        href="//jalopnik.com"
+      >
+        Jalopnik
+      </a>
+    </li>
+    <li
+      class="c2"
+    >
+      <a
+        class="js_link c3"
+        data-ga="[[\\"Network navigation\\",\\"Network Blog Click\\",\\"jezebel.com\\",{\\"metric20\\":1}]]"
+        href="//jezebel.com"
+      >
+        Jezebel
+      </a>
+    </li>
+    <li
+      class="c2"
+    >
+      <a
+        class="js_link c3"
+        data-ga="[[\\"Network navigation\\",\\"Network Blog Click\\",\\"kotaku.com\\",{\\"metric20\\":1}]]"
+        href="//kotaku.com"
+      >
+        Kotaku
+      </a>
+    </li>
+    <li
+      class="c2"
+    >
+      <a
+        class="js_link c3"
+        data-ga="[[\\"Network navigation\\",\\"Network Blog Click\\",\\"lifehacker.com\\",{\\"metric20\\":1}]]"
+        href="//lifehacker.com"
+      >
+        Lifehacker
+      </a>
+    </li>
+    <li
+      class="c2"
+    >
+      <a
+        class="js_link c3"
+        data-ga="[[\\"Network navigation\\",\\"Network Blog Click\\",\\"theroot.com\\",{\\"metric20\\":1}]]"
+        href="//theroot.com"
+      >
+        The Root
+      </a>
+    </li>
+    <li
+      class="c2"
+    >
+      <a
+        class="js_link c3"
+        data-ga="[[\\"Network navigation\\",\\"Network Blog Click\\",\\"thetakeout.com\\",{\\"metric20\\":1}]]"
+        href="//thetakeout.com"
+      >
+        The Takeout
+      </a>
+    </li>
+    <li
+      class="c4"
+    >
+      <a>
+        More 
+        <span
+          class="c5 c6"
+        >
+          <svg
+            aria-label="ChevronUp icon"
+            height="18"
+            viewBox="0 0 18 18"
+            width="18"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M3.87 11.84a.5.5 0 0 1-.74-.68l5.5-6a.5.5 0 0 1 .74 0l5.5 6a.5.5 0 1 1-.74.68L9 6.24l-5.13 5.6z"
+              fill-rule="evenodd"
+            />
+          </svg>
+        </span>
+      </a>
+      <ul
+        class="c7"
+      >
+        <li
+          class="c2"
+        >
+          <a
+            class="js_link c3"
+            data-ga="[[\\"Network navigation\\",\\"Network Blog Click\\",\\"theonion.com\\",{\\"metric20\\":1}]]"
+            href="//theonion.com"
+          >
+            The Onion
+          </a>
+        </li>
+        <li
+          class="c2"
+        >
+          <a
+            class="js_link c3"
+            data-ga="[[\\"Network navigation\\",\\"Network Blog Click\\",\\"theinventory.com\\",{\\"metric20\\":1}]]"
+            href="//theinventory.com"
+          >
+            The Inventory
+          </a>
+        </li>
+      </ul>
+    </li>
+  </ul>
+</div>
+`;
+
+exports[`Page layout/Static topbar doesn't render separator if the cutoff is after one 1`] = `
+.c3 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  background: #000;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-flex-wrap: nowrap;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+  margin: 0;
+}
+
+.c1 > li:first-child {
+  margin-left: -8px;
+}
+
+.c2 {
+  text-transform: uppercase;
+  line-height: 24px;
+  font-size: 15px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  padding: 0 8px;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  -webkit-box-flex: 0;
+  -webkit-flex-grow: 0;
+  -ms-flex-positive: 0;
+  flex-grow: 0;
+  color: #7D7D7D;
+}
+
+.c2:hover {
+  background: #222;
+  color: #F5F5F5;
+}
+
+.c2:hover > a,
+.c2:hover > a:hover,
+.c2:hover > a:active,
+.c2:hover > a:focus,
+.c2:hover > a.focus {
+  color: #F5F5F5;
+}
+
+.c2 > a {
+  position: relative;
+  top: 1px;
+}
+
+.c2 > a,
+.c2 > a:hover,
+.c2 > a:active,
+.c2 > a:focus,
+.c2 > a.focus {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #CCC;
+}
+
+.c4 {
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  padding: 0 8px;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  -webkit-box-flex: 0;
+  -webkit-flex-grow: 0;
+  -ms-flex-positive: 0;
+  flex-grow: 0;
+}
+
+.c4::after {
+  width: 1px;
+  height: 14px;
+  background-color: #666;
+  content: '';
+}
+
+@media only screen and (max-width:49.94em) {
+  .c1 {
+    width: calc((100vw - 16px) * 1 - 16px);
+  }
+}
+
+@media only screen and (min-width:50em) and (max-width:63.69em) {
+  .c1 {
+    width: calc((100vw - 24px) * 1 - 24px);
+  }
+}
+
+@media only screen and (min-width:63.75em) and (max-width:85.19em) {
+  .c1 {
+    width: calc((100vw - 24px) * 1 - 24px);
+  }
+}
+
+@media only screen and (min-width:85.25em) {
+  .c1 {
+    width: calc((1364px - 32px) * 1 - 32px);
+  }
+}
+
+<div
+  class="c0"
+>
+  <ul
+    class="c1"
+  >
+    <li
+      class="c2"
+    >
+      <a
+        class="js_link c3"
+        data-ga="[[\\"Network navigation\\",\\"Network Blog Click\\",\\"avclub.com\\",{\\"metric20\\":1}]]"
+        href="//avclub.com"
+      >
+        The A.V. Club
+      </a>
+    </li>
+    <li
+      class="c2"
+    >
+      <a
+        class="js_link c3"
+        data-ga="[[\\"Network navigation\\",\\"Network Blog Click\\",\\"deadspin.com\\",{\\"metric20\\":1}]]"
+        href="//deadspin.com"
+      >
+        Deadspin
+      </a>
+    </li>
+    <li
+      class="c2"
+    >
+      <a
+        class="js_link c3"
+        data-ga="[[\\"Network navigation\\",\\"Network Blog Click\\",\\"gizmodo.com\\",{\\"metric20\\":1}]]"
+        href="//gizmodo.com"
+      >
+        Gizmodo
+      </a>
+    </li>
+    <li
+      class="c2"
+    >
+      <a
+        class="js_link c3"
+        data-ga="[[\\"Network navigation\\",\\"Network Blog Click\\",\\"jalopnik.com\\",{\\"metric20\\":1}]]"
+        href="//jalopnik.com"
+      >
+        Jalopnik
+      </a>
+    </li>
+    <li
+      class="c2"
+    >
+      <a
+        class="js_link c3"
+        data-ga="[[\\"Network navigation\\",\\"Network Blog Click\\",\\"jezebel.com\\",{\\"metric20\\":1}]]"
+        href="//jezebel.com"
+      >
+        Jezebel
+      </a>
+    </li>
+    <li
+      class="c2"
+    >
+      <a
+        class="js_link c3"
+        data-ga="[[\\"Network navigation\\",\\"Network Blog Click\\",\\"kotaku.com\\",{\\"metric20\\":1}]]"
+        href="//kotaku.com"
+      >
+        Kotaku
+      </a>
+    </li>
+    <li
+      class="c2"
+    >
+      <a
+        class="js_link c3"
+        data-ga="[[\\"Network navigation\\",\\"Network Blog Click\\",\\"lifehacker.com\\",{\\"metric20\\":1}]]"
+        href="//lifehacker.com"
+      >
+        Lifehacker
+      </a>
+    </li>
+    <li
+      class="c2"
+    >
+      <a
+        class="js_link c3"
+        data-ga="[[\\"Network navigation\\",\\"Network Blog Click\\",\\"theroot.com\\",{\\"metric20\\":1}]]"
+        href="//theroot.com"
+      >
+        The Root
+      </a>
+    </li>
+    <li
+      class="c2"
+    >
+      <a
+        class="js_link c3"
+        data-ga="[[\\"Network navigation\\",\\"Network Blog Click\\",\\"thetakeout.com\\",{\\"metric20\\":1}]]"
+        href="//thetakeout.com"
+      >
+        The Takeout
+      </a>
+    </li>
+    <li
+      class="c4"
+    />
+    <li
+      class="c2"
+    >
+      <a
+        class="js_link c3"
+        data-ga="[[\\"Network navigation\\",\\"Network Blog Click\\",\\"theonion.com\\",{\\"metric20\\":1}]]"
+        href="//theonion.com"
+      >
+        The Onion
+      </a>
+    </li>
+    <li
+      class="c4"
+    />
+    <li
+      class="c2"
+    >
+      <a
+        class="js_link c3"
+        data-ga="[[\\"Network navigation\\",\\"Network Blog Click\\",\\"theinventory.com\\",{\\"metric20\\":1}]]"
+        href="//theinventory.com"
+      >
+        The Inventory
+      </a>
+    </li>
+  </ul>
+</div>
+`;
+
+exports[`Page layout/Static topbar renders different order of blogs based on blogGroup type 1`] = `
+.c3 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  background: #000;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-flex-wrap: nowrap;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+  margin: 0;
+}
+
+.c1 > li:first-child {
+  margin-left: -8px;
+}
+
+.c2 {
+  text-transform: uppercase;
+  line-height: 24px;
+  font-size: 15px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  padding: 0 8px;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  -webkit-box-flex: 0;
+  -webkit-flex-grow: 0;
+  -ms-flex-positive: 0;
+  flex-grow: 0;
+  color: #7D7D7D;
+}
+
+.c2:hover {
+  background: #222;
+  color: #F5F5F5;
+}
+
+.c2:hover > a,
+.c2:hover > a:hover,
+.c2:hover > a:active,
+.c2:hover > a:focus,
+.c2:hover > a.focus {
+  color: #F5F5F5;
+}
+
+.c2 > a {
+  position: relative;
+  top: 1px;
+}
+
+.c2 > a,
+.c2 > a:hover,
+.c2 > a:active,
+.c2 > a:focus,
+.c2 > a.focus {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #CCC;
+}
+
+.c4 {
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  padding: 0 8px;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  -webkit-box-flex: 0;
+  -webkit-flex-grow: 0;
+  -ms-flex-positive: 0;
+  flex-grow: 0;
+}
+
+.c4::after {
+  width: 1px;
+  height: 14px;
+  background-color: #666;
+  content: '';
+}
+
+@media only screen and (max-width:49.94em) {
+  .c1 {
+    width: calc((100vw - 16px) * 1 - 16px);
+  }
+}
+
+@media only screen and (min-width:50em) and (max-width:63.69em) {
+  .c1 {
+    width: calc((100vw - 24px) * 1 - 24px);
+  }
+}
+
+@media only screen and (min-width:63.75em) and (max-width:85.19em) {
+  .c1 {
+    width: calc((100vw - 24px) * 1 - 24px);
+  }
+}
+
+@media only screen and (min-width:85.25em) {
+  .c1 {
+    width: calc((1364px - 32px) * 1 - 32px);
+  }
+}
+
+<div
+  class="c0"
+>
+  <ul
+    class="c1"
+  >
+    <li
+      class="c2"
+    >
+      <a
+        class="js_link c3"
+        data-ga="[[\\"Network navigation\\",\\"Network Blog Click\\",\\"avclub.com\\",{\\"metric20\\":1}]]"
+        href="//avclub.com"
+      >
+        The A.V. Club
+      </a>
+    </li>
+    <li
+      class="c2"
+    >
+      <a
+        class="js_link c3"
+        data-ga="[[\\"Network navigation\\",\\"Network Blog Click\\",\\"deadspin.com\\",{\\"metric20\\":1}]]"
+        href="//deadspin.com"
+      >
+        Deadspin
+      </a>
+    </li>
+    <li
+      class="c2"
+    >
+      <a
+        class="js_link c3"
+        data-ga="[[\\"Network navigation\\",\\"Network Blog Click\\",\\"gizmodo.com\\",{\\"metric20\\":1}]]"
+        href="//gizmodo.com"
+      >
+        Gizmodo
+      </a>
+    </li>
+    <li
+      class="c2"
+    >
+      <a
+        class="js_link c3"
+        data-ga="[[\\"Network navigation\\",\\"Network Blog Click\\",\\"jalopnik.com\\",{\\"metric20\\":1}]]"
+        href="//jalopnik.com"
+      >
+        Jalopnik
+      </a>
+    </li>
+    <li
+      class="c2"
+    >
+      <a
+        class="js_link c3"
+        data-ga="[[\\"Network navigation\\",\\"Network Blog Click\\",\\"jezebel.com\\",{\\"metric20\\":1}]]"
+        href="//jezebel.com"
+      >
+        Jezebel
+      </a>
+    </li>
+    <li
+      class="c2"
+    >
+      <a
+        class="js_link c3"
+        data-ga="[[\\"Network navigation\\",\\"Network Blog Click\\",\\"kotaku.com\\",{\\"metric20\\":1}]]"
+        href="//kotaku.com"
+      >
+        Kotaku
+      </a>
+    </li>
+    <li
+      class="c2"
+    >
+      <a
+        class="js_link c3"
+        data-ga="[[\\"Network navigation\\",\\"Network Blog Click\\",\\"lifehacker.com\\",{\\"metric20\\":1}]]"
+        href="//lifehacker.com"
+      >
+        Lifehacker
+      </a>
+    </li>
+    <li
+      class="c2"
+    >
+      <a
+        class="js_link c3"
+        data-ga="[[\\"Network navigation\\",\\"Network Blog Click\\",\\"theroot.com\\",{\\"metric20\\":1}]]"
+        href="//theroot.com"
+      >
+        The Root
+      </a>
+    </li>
+    <li
+      class="c2"
+    >
+      <a
+        class="js_link c3"
+        data-ga="[[\\"Network navigation\\",\\"Network Blog Click\\",\\"thetakeout.com\\",{\\"metric20\\":1}]]"
+        href="//thetakeout.com"
+      >
+        The Takeout
+      </a>
+    </li>
+    <li
+      class="c4"
+    />
+    <li
+      class="c2"
+    >
+      <a
+        class="js_link c3"
+        data-ga="[[\\"Network navigation\\",\\"Network Blog Click\\",\\"theonion.com\\",{\\"metric20\\":1}]]"
+        href="//theonion.com"
+      >
+        The Onion
+      </a>
+    </li>
+    <li
+      class="c4"
+    />
+    <li
+      class="c2"
+    >
+      <a
+        class="js_link c3"
+        data-ga="[[\\"Network navigation\\",\\"Network Blog Click\\",\\"theinventory.com\\",{\\"metric20\\":1}]]"
+        href="//theinventory.com"
+      >
+        The Inventory
+      </a>
+    </li>
+    <li
+      class="c4"
+    />
+  </ul>
+</div>
+`;
+
+exports[`Page layout/Static topbar should move items that don't fit under the more button 1`] = `
+.c3 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c6 {
+  fill: currentColor;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  background: #000;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-flex-wrap: nowrap;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+  margin: 0;
+}
+
+.c1 > li:first-child {
+  margin-left: -8px;
+}
+
+.c2 {
+  text-transform: uppercase;
+  line-height: 24px;
+  font-size: 15px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  padding: 0 8px;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  -webkit-box-flex: 0;
+  -webkit-flex-grow: 0;
+  -ms-flex-positive: 0;
+  flex-grow: 0;
+  color: #7D7D7D;
+}
+
+.c2:hover {
+  background: #222;
+  color: #F5F5F5;
+}
+
+.c2:hover > a,
+.c2:hover > a:hover,
+.c2:hover > a:active,
+.c2:hover > a:focus,
+.c2:hover > a.focus {
+  color: #F5F5F5;
+}
+
+.c2 > a {
+  position: relative;
+  top: 1px;
+}
+
+.c2 > a,
+.c2 > a:hover,
+.c2 > a:active,
+.c2 > a:focus,
+.c2 > a.focus {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #CCC;
+}
+
+.c4 {
+  text-transform: uppercase;
+  line-height: 24px;
+  font-size: 15px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  padding: 0 8px;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  -webkit-box-flex: 0;
+  -webkit-flex-grow: 0;
+  -ms-flex-positive: 0;
+  flex-grow: 0;
+  color: #7D7D7D;
+  position: relative;
+}
+
+.c4:hover {
+  background: #222;
+  color: #F5F5F5;
+}
+
+.c4:hover > a,
+.c4:hover > a:hover,
+.c4:hover > a:active,
+.c4:hover > a:focus,
+.c4:hover > a.focus {
+  color: #F5F5F5;
+}
+
+.c4 > a {
+  position: relative;
+  top: 1px;
+}
+
+.c4 > a,
+.c4 > a:hover,
+.c4 > a:active,
+.c4 > a:focus,
+.c4 > a.focus {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #CCC;
+}
+
+.c4 > a {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.c4 .c5 {
+  margin-top: -3px;
+}
+
+@media only screen and (max-width:49.94em) {
+  .c1 {
+    width: calc((100vw - 16px) * 1 - 16px);
+  }
+}
+
+@media only screen and (min-width:50em) and (max-width:63.69em) {
+  .c1 {
+    width: calc((100vw - 24px) * 1 - 24px);
+  }
+}
+
+@media only screen and (min-width:63.75em) and (max-width:85.19em) {
+  .c1 {
+    width: calc((100vw - 24px) * 1 - 24px);
+  }
+}
+
+@media only screen and (min-width:85.25em) {
+  .c1 {
+    width: calc((1364px - 32px) * 1 - 32px);
+  }
+}
+
+<div
+  class="c0"
+>
+  <ul
+    class="c1"
+  >
+    <li
+      class="c2"
+    >
+      <a
+        class="js_link c3"
+        data-ga="[[\\"Network navigation\\",\\"Network Blog Click\\",\\"avclub.com\\",{\\"metric20\\":1}]]"
+        href="//avclub.com"
+      >
+        The A.V. Club
+      </a>
+    </li>
+    <li
+      class="c2"
+    >
+      <a
+        class="js_link c3"
+        data-ga="[[\\"Network navigation\\",\\"Network Blog Click\\",\\"deadspin.com\\",{\\"metric20\\":1}]]"
+        href="//deadspin.com"
+      >
+        Deadspin
+      </a>
+    </li>
+    <li
+      class="c2"
+    >
+      <a
+        class="js_link c3"
+        data-ga="[[\\"Network navigation\\",\\"Network Blog Click\\",\\"gizmodo.com\\",{\\"metric20\\":1}]]"
+        href="//gizmodo.com"
+      >
+        Gizmodo
+      </a>
+    </li>
+    <li
+      class="c2"
+    >
+      <a
+        class="js_link c3"
+        data-ga="[[\\"Network navigation\\",\\"Network Blog Click\\",\\"jalopnik.com\\",{\\"metric20\\":1}]]"
+        href="//jalopnik.com"
+      >
+        Jalopnik
+      </a>
+    </li>
+    <li
+      class="c2"
+    >
+      <a
+        class="js_link c3"
+        data-ga="[[\\"Network navigation\\",\\"Network Blog Click\\",\\"jezebel.com\\",{\\"metric20\\":1}]]"
+        href="//jezebel.com"
+      >
+        Jezebel
+      </a>
+    </li>
+    <li
+      class="c2"
+    >
+      <a
+        class="js_link c3"
+        data-ga="[[\\"Network navigation\\",\\"Network Blog Click\\",\\"kotaku.com\\",{\\"metric20\\":1}]]"
+        href="//kotaku.com"
+      >
+        Kotaku
+      </a>
+    </li>
+    <li
+      class="c2"
+    >
+      <a
+        class="js_link c3"
+        data-ga="[[\\"Network navigation\\",\\"Network Blog Click\\",\\"lifehacker.com\\",{\\"metric20\\":1}]]"
+        href="//lifehacker.com"
+      >
+        Lifehacker
+      </a>
+    </li>
+    <li
+      class="c2"
+    >
+      <a
+        class="js_link c3"
+        data-ga="[[\\"Network navigation\\",\\"Network Blog Click\\",\\"theroot.com\\",{\\"metric20\\":1}]]"
+        href="//theroot.com"
+      >
+        The Root
+      </a>
+    </li>
+    <li
+      class="c2"
+    >
+      <a
+        class="js_link c3"
+        data-ga="[[\\"Network navigation\\",\\"Network Blog Click\\",\\"thetakeout.com\\",{\\"metric20\\":1}]]"
+        href="//thetakeout.com"
+      >
+        The Takeout
+      </a>
+    </li>
+    <li
+      class="c4"
+    >
+      <a>
+        More 
+        <span
+          class="c5 c6"
+        >
+          <svg
+            aria-label="ChevronDown icon"
+            height="18"
+            viewBox="0 0 18 18"
+            width="18"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M3.87 6.16a.5.5 0 0 0-.74.68l5.5 6c.2.21.54.21.74 0l5.5-6a.5.5 0 1 0-.74-.68L9 11.76l-5.13-5.6z"
+              fill-rule="evenodd"
+            />
+          </svg>
+        </span>
+      </a>
+    </li>
+  </ul>
+</div>
+`;
+
+exports[`Page layout/Static topbar should render 1`] = `
+.c3 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  background: #000;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-flex-wrap: nowrap;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+  margin: 0;
+}
+
+.c1 > li:first-child {
+  margin-left: -8px;
+}
+
+.c2 {
+  text-transform: uppercase;
+  line-height: 24px;
+  font-size: 15px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  padding: 0 8px;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  -webkit-box-flex: 0;
+  -webkit-flex-grow: 0;
+  -ms-flex-positive: 0;
+  flex-grow: 0;
+  color: #7D7D7D;
+}
+
+.c2:hover {
+  background: #222;
+  color: #F5F5F5;
+}
+
+.c2:hover > a,
+.c2:hover > a:hover,
+.c2:hover > a:active,
+.c2:hover > a:focus,
+.c2:hover > a.focus {
+  color: #F5F5F5;
+}
+
+.c2 > a {
+  position: relative;
+  top: 1px;
+}
+
+.c2 > a,
+.c2 > a:hover,
+.c2 > a:active,
+.c2 > a:focus,
+.c2 > a.focus {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #CCC;
+}
+
+.c4 {
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  padding: 0 8px;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  -webkit-box-flex: 0;
+  -webkit-flex-grow: 0;
+  -ms-flex-positive: 0;
+  flex-grow: 0;
+}
+
+.c4::after {
+  width: 1px;
+  height: 14px;
+  background-color: #666;
+  content: '';
+}
+
+@media only screen and (max-width:49.94em) {
+  .c1 {
+    width: calc((100vw - 16px) * 1 - 16px);
+  }
+}
+
+@media only screen and (min-width:50em) and (max-width:63.69em) {
+  .c1 {
+    width: calc((100vw - 24px) * 1 - 24px);
+  }
+}
+
+@media only screen and (min-width:63.75em) and (max-width:85.19em) {
+  .c1 {
+    width: calc((100vw - 24px) * 1 - 24px);
+  }
+}
+
+@media only screen and (min-width:85.25em) {
+  .c1 {
+    width: calc((1364px - 32px) * 1 - 32px);
+  }
+}
+
+<div
+  class="c0"
+>
+  <ul
+    class="c1"
+  >
+    <li
+      class="c2"
+    >
+      <a
+        class="js_link c3"
+        data-ga="[[\\"Network navigation\\",\\"Network Blog Click\\",\\"avclub.com\\",{\\"metric20\\":1}]]"
+        href="//avclub.com"
+      >
+        The A.V. Club
+      </a>
+    </li>
+    <li
+      class="c2"
+    >
+      <a
+        class="js_link c3"
+        data-ga="[[\\"Network navigation\\",\\"Network Blog Click\\",\\"deadspin.com\\",{\\"metric20\\":1}]]"
+        href="//deadspin.com"
+      >
+        Deadspin
+      </a>
+    </li>
+    <li
+      class="c2"
+    >
+      <a
+        class="js_link c3"
+        data-ga="[[\\"Network navigation\\",\\"Network Blog Click\\",\\"gizmodo.com\\",{\\"metric20\\":1}]]"
+        href="//gizmodo.com"
+      >
+        Gizmodo
+      </a>
+    </li>
+    <li
+      class="c2"
+    >
+      <a
+        class="js_link c3"
+        data-ga="[[\\"Network navigation\\",\\"Network Blog Click\\",\\"jalopnik.com\\",{\\"metric20\\":1}]]"
+        href="//jalopnik.com"
+      >
+        Jalopnik
+      </a>
+    </li>
+    <li
+      class="c2"
+    >
+      <a
+        class="js_link c3"
+        data-ga="[[\\"Network navigation\\",\\"Network Blog Click\\",\\"jezebel.com\\",{\\"metric20\\":1}]]"
+        href="//jezebel.com"
+      >
+        Jezebel
+      </a>
+    </li>
+    <li
+      class="c2"
+    >
+      <a
+        class="js_link c3"
+        data-ga="[[\\"Network navigation\\",\\"Network Blog Click\\",\\"kotaku.com\\",{\\"metric20\\":1}]]"
+        href="//kotaku.com"
+      >
+        Kotaku
+      </a>
+    </li>
+    <li
+      class="c2"
+    >
+      <a
+        class="js_link c3"
+        data-ga="[[\\"Network navigation\\",\\"Network Blog Click\\",\\"lifehacker.com\\",{\\"metric20\\":1}]]"
+        href="//lifehacker.com"
+      >
+        Lifehacker
+      </a>
+    </li>
+    <li
+      class="c2"
+    >
+      <a
+        class="js_link c3"
+        data-ga="[[\\"Network navigation\\",\\"Network Blog Click\\",\\"theroot.com\\",{\\"metric20\\":1}]]"
+        href="//theroot.com"
+      >
+        The Root
+      </a>
+    </li>
+    <li
+      class="c2"
+    >
+      <a
+        class="js_link c3"
+        data-ga="[[\\"Network navigation\\",\\"Network Blog Click\\",\\"thetakeout.com\\",{\\"metric20\\":1}]]"
+        href="//thetakeout.com"
+      >
+        The Takeout
+      </a>
+    </li>
+    <li
+      class="c4"
+    />
+    <li
+      class="c2"
+    >
+      <a
+        class="js_link c3"
+        data-ga="[[\\"Network navigation\\",\\"Network Blog Click\\",\\"theonion.com\\",{\\"metric20\\":1}]]"
+        href="//theonion.com"
+      >
+        The Onion
+      </a>
+    </li>
+    <li
+      class="c4"
+    />
+    <li
+      class="c2"
+    >
+      <a
+        class="js_link c3"
+        data-ga="[[\\"Network navigation\\",\\"Network Blog Click\\",\\"theinventory.com\\",{\\"metric20\\":1}]]"
+        href="//theinventory.com"
+      >
+        The Inventory
+      </a>
+    </li>
+    <li
+      class="c4"
+    />
+  </ul>
+</div>
+`;

@@ -1,0 +1,490 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Tabs /> should render properly 1`] = `
+.c5.c5 {
+  padding: 5px;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #222;
+}
+
+.c5.c5:focus,
+.c5.c5:hover {
+  outline: none;
+  color: #222;
+}
+
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c0 {
+  width: 100%;
+  padding: 1rem 0 1.25rem;
+}
+
+.c3.c3 {
+  padding: 0;
+  margin-right: 32px;
+}
+
+.c3.c3 .c4 {
+  display: inline-block;
+  padding: 0 0 15px 0;
+  margin-bottom: -1px;
+  color: #7D7D7D;
+}
+
+.c1 {
+  border-bottom: 1px solid #d7d7d7;
+}
+
+<StoryTabs>
+  <tabs__TabsContainer>
+    <StyledComponent
+      forwardedComponent={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": Array [],
+          "componentStyle": ComponentStyle {
+            "componentId": "tabs__TabsContainer-twe0dr-0",
+            "isStatic": true,
+            "lastClassName": "c0",
+            "rules": Array [
+              "width:100%;padding:1rem 0 1.25rem;",
+            ],
+          },
+          "displayName": "tabs__TabsContainer",
+          "foldedComponentIds": Array [],
+          "render": [Function],
+          "styledComponentId": "tabs__TabsContainer-twe0dr-0",
+          "target": "div",
+          "toString": [Function],
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        }
+      }
+      forwardedRef={null}
+    >
+      <div
+        className="c0"
+      >
+        <tabs__TabList
+          onChange={[Function]}
+        >
+          <StyledComponent
+            forwardedComponent={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": Array [],
+                "componentStyle": ComponentStyle {
+                  "componentId": "tabs__TabList-twe0dr-2",
+                  "isStatic": true,
+                  "lastClassName": "c1",
+                  "rules": Array [
+                    "border-bottom:1px solid #d7d7d7;",
+                  ],
+                },
+                "displayName": "tabs__TabList",
+                "foldedComponentIds": Array [],
+                "render": [Function],
+                "styledComponentId": "tabs__TabList-twe0dr-2",
+                "target": [Function],
+                "toString": [Function],
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+                Symbol(Symbol.hasInstance): [Function],
+              }
+            }
+            forwardedRef={null}
+            onChange={[Function]}
+          >
+            <Tabs
+              className="c1"
+              onChange={[Function]}
+            >
+              <tabs__StyledTab
+                className="c1"
+                htmlElement="ul"
+                onChange={[Function]}
+              >
+                <StyledComponent
+                  className="c1"
+                  forwardedComponent={
+                    Object {
+                      "$$typeof": Symbol(react.forward_ref),
+                      "attrs": Array [],
+                      "componentStyle": ComponentStyle {
+                        "componentId": "tabs__StyledTab-sc-1j59lv5-0",
+                        "isStatic": true,
+                        "lastClassName": "c2",
+                        "rules": Array [
+                          "display:flex;",
+                        ],
+                      },
+                      "displayName": "tabs__StyledTab",
+                      "foldedComponentIds": Array [],
+                      "render": [Function],
+                      "styledComponentId": "tabs__StyledTab-sc-1j59lv5-0",
+                      "target": [Function],
+                      "toString": [Function],
+                      "warnTooManyClasses": [Function],
+                      "withComponent": [Function],
+                      Symbol(Symbol.hasInstance): [Function],
+                    }
+                  }
+                  forwardedRef={null}
+                  htmlElement="ul"
+                  onChange={[Function]}
+                >
+                  <ItemGroup
+                    className="c1 c2"
+                    htmlElement="ul"
+                    onChange={[Function]}
+                  >
+                    <EnsureDefaultTheme>
+                      <ThemeProvider
+                        theme={[Function]}
+                      >
+                        <item-group__ItemGroupWrapper
+                          className="c1 c2"
+                          htmlElement="ul"
+                          onChange={[Function]}
+                        >
+                          <StyledComponent
+                            className="c1 c2"
+                            forwardedComponent={
+                              Object {
+                                "$$typeof": Symbol(react.forward_ref),
+                                "attrs": Array [],
+                                "componentStyle": ComponentStyle {
+                                  "componentId": "item-group__ItemGroupWrapper-j27ql3-0-ul",
+                                  "isStatic": true,
+                                  "lastClassName": "kqKLnb",
+                                  "rules": Array [],
+                                },
+                                "displayName": "item-group__ItemGroupWrapper",
+                                "foldedComponentIds": Array [],
+                                "render": [Function],
+                                "styledComponentId": "item-group__ItemGroupWrapper-j27ql3-0-ul",
+                                "target": "ul",
+                                "toString": [Function],
+                                "warnTooManyClasses": [Function],
+                                "withComponent": [Function],
+                              }
+                            }
+                            forwardedRef={null}
+                            htmlElement="ul"
+                            onChange={[Function]}
+                          >
+                            <ul
+                              className="c1 c2 -ul "
+                              onChange={[Function]}
+                            >
+                              <tabs__StyledTabItem
+                                index={0}
+                                key=".$00/.$0"
+                                label="Add stories by story types / tags"
+                                onClick={[Function]}
+                                selected={false}
+                                value="0"
+                              >
+                                <StyledComponent
+                                  forwardedComponent={
+                                    Object {
+                                      "$$typeof": Symbol(react.forward_ref),
+                                      "attrs": Array [],
+                                      "componentStyle": ComponentStyle {
+                                        "componentId": "tabs__StyledTabItem-twe0dr-1",
+                                        "isStatic": false,
+                                        "lastClassName": "c3",
+                                        "rules": Array [
+                                          "&&{padding:0;margin-right:32px;",
+                                          ".c4",
+                                          "{display:inline-block;padding:0 0 15px 0;margin-bottom:-1px;color:",
+                                          [Function],
+                                          ";",
+                                          [Function],
+                                          "}}",
+                                        ],
+                                      },
+                                      "displayName": "tabs__StyledTabItem",
+                                      "foldedComponentIds": Array [],
+                                      "render": [Function],
+                                      "styledComponentId": "tabs__StyledTabItem-twe0dr-1",
+                                      "target": [Function],
+                                      "toString": [Function],
+                                      "warnTooManyClasses": [Function],
+                                      "withComponent": [Function],
+                                      Symbol(Symbol.hasInstance): [Function],
+                                    }
+                                  }
+                                  forwardedRef={null}
+                                  index={0}
+                                  label="Add stories by story types / tags"
+                                  onClick={[Function]}
+                                  selected={false}
+                                  value="0"
+                                >
+                                  <TabItem
+                                    className="c3"
+                                    index={0}
+                                    label="Add stories by story types / tags"
+                                    onClick={[Function]}
+                                    selected={false}
+                                    value="0"
+                                  >
+                                    <tabItem__TabListElement
+                                      className="c3"
+                                    >
+                                      <StyledComponent
+                                        className="c3"
+                                        forwardedComponent={
+                                          Object {
+                                            "$$typeof": Symbol(react.forward_ref),
+                                            "attrs": Array [],
+                                            "componentStyle": ComponentStyle {
+                                              "componentId": "tabItem__TabListElement-sc-1tyu9xc-0",
+                                              "isStatic": true,
+                                              "lastClassName": "cGENvi",
+                                              "rules": Array [],
+                                            },
+                                            "displayName": "tabItem__TabListElement",
+                                            "foldedComponentIds": Array [],
+                                            "render": [Function],
+                                            "styledComponentId": "tabItem__TabListElement-sc-1tyu9xc-0",
+                                            "target": "li",
+                                            "toString": [Function],
+                                            "warnTooManyClasses": [Function],
+                                            "withComponent": [Function],
+                                          }
+                                        }
+                                        forwardedRef={null}
+                                      >
+                                        <li
+                                          className="c3 "
+                                        >
+                                          <tabItem__TabLink
+                                            onClick={[Function]}
+                                            role="link"
+                                            selected={false}
+                                            tabIndex={0}
+                                            value="0"
+                                          >
+                                            <StyledComponent
+                                              forwardedComponent={
+                                                Object {
+                                                  "$$typeof": Symbol(react.forward_ref),
+                                                  "attrs": Array [],
+                                                  "componentStyle": ComponentStyle {
+                                                    "componentId": "c4",
+                                                    "isStatic": false,
+                                                    "lastClassName": "c5",
+                                                    "rules": Array [
+                                                      "&&{padding:5px;text-decoration:none;color:",
+                                                      [Function],
+                                                      ";&:focus,&:hover{outline:none;color:",
+                                                      [Function],
+                                                      ";}",
+                                                      [Function],
+                                                      "}",
+                                                    ],
+                                                  },
+                                                  "displayName": "tabItem__TabLink",
+                                                  "foldedComponentIds": Array [],
+                                                  "render": [Function],
+                                                  "styledComponentId": "c4",
+                                                  "target": "a",
+                                                  "toString": [Function],
+                                                  "warnTooManyClasses": [Function],
+                                                  "withComponent": [Function],
+                                                }
+                                              }
+                                              forwardedRef={null}
+                                              onClick={[Function]}
+                                              role="link"
+                                              selected={false}
+                                              tabIndex={0}
+                                              value="0"
+                                            >
+                                              <a
+                                                className="c4 c5"
+                                                onClick={[Function]}
+                                                role="link"
+                                                selected={false}
+                                                tabIndex={0}
+                                                value="0"
+                                              >
+                                                Add stories by story types / tags
+                                              </a>
+                                            </StyledComponent>
+                                          </tabItem__TabLink>
+                                        </li>
+                                      </StyledComponent>
+                                    </tabItem__TabListElement>
+                                  </TabItem>
+                                </StyledComponent>
+                              </tabs__StyledTabItem>
+                              <tabs__StyledTabItem
+                                index={1}
+                                key=".$11/.$1"
+                                label="Add stories manually"
+                                onClick={[Function]}
+                                selected={false}
+                                value="1"
+                              >
+                                <StyledComponent
+                                  forwardedComponent={
+                                    Object {
+                                      "$$typeof": Symbol(react.forward_ref),
+                                      "attrs": Array [],
+                                      "componentStyle": ComponentStyle {
+                                        "componentId": "tabs__StyledTabItem-twe0dr-1",
+                                        "isStatic": false,
+                                        "lastClassName": "c3",
+                                        "rules": Array [
+                                          "&&{padding:0;margin-right:32px;",
+                                          ".c4",
+                                          "{display:inline-block;padding:0 0 15px 0;margin-bottom:-1px;color:",
+                                          [Function],
+                                          ";",
+                                          [Function],
+                                          "}}",
+                                        ],
+                                      },
+                                      "displayName": "tabs__StyledTabItem",
+                                      "foldedComponentIds": Array [],
+                                      "render": [Function],
+                                      "styledComponentId": "tabs__StyledTabItem-twe0dr-1",
+                                      "target": [Function],
+                                      "toString": [Function],
+                                      "warnTooManyClasses": [Function],
+                                      "withComponent": [Function],
+                                      Symbol(Symbol.hasInstance): [Function],
+                                    }
+                                  }
+                                  forwardedRef={null}
+                                  index={1}
+                                  label="Add stories manually"
+                                  onClick={[Function]}
+                                  selected={false}
+                                  value="1"
+                                >
+                                  <TabItem
+                                    className="c3"
+                                    index={1}
+                                    label="Add stories manually"
+                                    onClick={[Function]}
+                                    selected={false}
+                                    value="1"
+                                  >
+                                    <tabItem__TabListElement
+                                      className="c3"
+                                    >
+                                      <StyledComponent
+                                        className="c3"
+                                        forwardedComponent={
+                                          Object {
+                                            "$$typeof": Symbol(react.forward_ref),
+                                            "attrs": Array [],
+                                            "componentStyle": ComponentStyle {
+                                              "componentId": "tabItem__TabListElement-sc-1tyu9xc-0",
+                                              "isStatic": true,
+                                              "lastClassName": "cGENvi",
+                                              "rules": Array [],
+                                            },
+                                            "displayName": "tabItem__TabListElement",
+                                            "foldedComponentIds": Array [],
+                                            "render": [Function],
+                                            "styledComponentId": "tabItem__TabListElement-sc-1tyu9xc-0",
+                                            "target": "li",
+                                            "toString": [Function],
+                                            "warnTooManyClasses": [Function],
+                                            "withComponent": [Function],
+                                          }
+                                        }
+                                        forwardedRef={null}
+                                      >
+                                        <li
+                                          className="c3 "
+                                        >
+                                          <tabItem__TabLink
+                                            onClick={[Function]}
+                                            role="link"
+                                            selected={false}
+                                            tabIndex={1}
+                                            value="1"
+                                          >
+                                            <StyledComponent
+                                              forwardedComponent={
+                                                Object {
+                                                  "$$typeof": Symbol(react.forward_ref),
+                                                  "attrs": Array [],
+                                                  "componentStyle": ComponentStyle {
+                                                    "componentId": "c4",
+                                                    "isStatic": false,
+                                                    "lastClassName": "c5",
+                                                    "rules": Array [
+                                                      "&&{padding:5px;text-decoration:none;color:",
+                                                      [Function],
+                                                      ";&:focus,&:hover{outline:none;color:",
+                                                      [Function],
+                                                      ";}",
+                                                      [Function],
+                                                      "}",
+                                                    ],
+                                                  },
+                                                  "displayName": "tabItem__TabLink",
+                                                  "foldedComponentIds": Array [],
+                                                  "render": [Function],
+                                                  "styledComponentId": "c4",
+                                                  "target": "a",
+                                                  "toString": [Function],
+                                                  "warnTooManyClasses": [Function],
+                                                  "withComponent": [Function],
+                                                }
+                                              }
+                                              forwardedRef={null}
+                                              onClick={[Function]}
+                                              role="link"
+                                              selected={false}
+                                              tabIndex={1}
+                                              value="1"
+                                            >
+                                              <a
+                                                className="c4 c5"
+                                                onClick={[Function]}
+                                                role="link"
+                                                selected={false}
+                                                tabIndex={1}
+                                                value="1"
+                                              >
+                                                Add stories manually
+                                              </a>
+                                            </StyledComponent>
+                                          </tabItem__TabLink>
+                                        </li>
+                                      </StyledComponent>
+                                    </tabItem__TabListElement>
+                                  </TabItem>
+                                </StyledComponent>
+                              </tabs__StyledTabItem>
+                            </ul>
+                          </StyledComponent>
+                        </item-group__ItemGroupWrapper>
+                      </ThemeProvider>
+                    </EnsureDefaultTheme>
+                  </ItemGroup>
+                </StyledComponent>
+              </tabs__StyledTab>
+            </Tabs>
+          </StyledComponent>
+        </tabs__TabList>
+      </div>
+    </StyledComponent>
+  </tabs__TabsContainer>
+</StoryTabs>
+`;

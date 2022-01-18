@@ -1,0 +1,57 @@
+{
+  "avatar": {
+    "format": "png",
+    "id": "no63bw902mddhwxtjtxh"
+  },
+  "canonicalHost": "www.avclub.com",
+  "createTimeMillis": 1494255234433,
+  "createdById": "1459038012",
+  "description": "Pop culture obsessives writing for the pop culture obsessed.",
+  "displayName": "The A.V. Club",
+  "hosts": [
+    "yibm5m2hj43ksbkaeqbwkaavclub.kinja.com",
+    "avclub.com"
+  ],
+  "id": 1636027099,
+  "lastUpdateTimeMillis": 1525985102748,
+  "logo": {
+    "format": "png",
+    "id": "vwu6rbqlim4vaszsfkfk"
+  },
+  "name": "avclub",
+  "navBackground": null,
+  "ownerId": "5876237249237147629",
+  "properties": {
+    "aboutPostId": 1798308102,
+    "adsTxtEnabled": true,
+    "blogGroup": "avclub",
+    "facebookPixelId": "513778665663423",
+    "facebookScreenName": "theavclub",
+    "fbAppId": "1621890511466174",
+    "fbPagesId": "39581755672",
+    "freelancerDraftEmail": "sendtoavceditors@theonion.com",
+    "googleAnalyticsID": "UA-223393-2",
+    "hideViewcounts": true,
+    "instagramScreenName": "theavc",
+    "isGmgBlog": true,
+    "logoLink": "https://x.kinja-static.com/assets/images/logos/newsletter/avclub-500px.png",
+    "mainColor": "#1c263c",
+    "navigationGroup": "fmg",
+    "newsletter": true,
+    "noindex": false,
+    "numberOfInfiniteScrollArticles": 10,
+    "promotionUnit": "fmg.avclub",
+    "recircGroup": "fmgNonSatire",
+    "robotsAllowed": true,
+    "singleOptIn": true,
+    "skimLinkId": "33330X1569324",
+    "sourcepointDomain": "mms.avclub.com",
+    "tagPageDescription": "Pop Culture News, Photos, Videos & More",
+    "twitterScreenName": "theavclub",
+    "youtubeUrl": "https://www.youtube.com/user/theavclub"
+  },
+  "status": "ENABLED",
+  "timezone": "America/Chicago",
+  "timezoneOffset": -18000000,
+  "blogGroup": "avclub"
+}

@@ -1,0 +1,93 @@
+[
+    {
+        "displayName": "The A.V. Club",
+        "url": "//avclub.com",
+        "blogGroup": "avclub",
+        "blogId": 1636027099,
+        "avatarId": "no63bw902mddhwxtjtxh",
+        "expandable": true
+    },
+    {
+        "displayName": "Deadspin",
+        "url": "//deadspin.com",
+        "blogGroup": "deadspin",
+        "blogId": 11,
+        "avatarId": "rnxqtvv6advgidzfs6am",
+        "expandable": true
+    },
+    {
+        "displayName": "Earther",
+        "url": "//earther.com",
+        "blogGroup": "earther",
+        "blogId": 1636390014,
+        "avatarId": "eir2ldhuj6n1thhxrcpq",
+        "expandable": true
+    },
+    {
+        "displayName": "Gizmodo",
+        "url": "//gizmodo.com",
+        "blogGroup": "gizmodo",
+        "blogId": 4,
+        "avatarId": "fdj3buryz5nuzyf2k620",
+        "expandable": true
+    },
+    {
+        "displayName": "Jalopnik",
+        "url": "//jalopnik.com",
+        "blogGroup": "jalopnik",
+        "blogId": 12,
+        "avatarId": "aqhdzcldymb9mkltfhxh",
+        "expandable": true
+    },
+    {
+        "displayName": "Jezebel",
+        "url": "//jezebel.com",
+        "blogGroup": "jezebel",
+        "blogId": 39,
+        "avatarId": "pch44wvo0v6acpdlt0f6",
+        "expandable": true
+    },
+    {
+        "displayName": "Kotaku",
+        "url": "//kotaku.com",
+        "blogGroup": "kotaku",
+        "blogId": 9,
+        "avatarId": "ghxlwgdztvqerb4zptdx",
+        "expandable": true
+    },
+    {
+        "displayName": "Lifehacker",
+        "url": "//lifehacker.com",
+        "blogGroup": "lifehacker",
+        "blogId": 17,
+        "avatarId": "u0939doeuioaqhspkjyc",
+        "expandable": true
+    },
+    {
+        "displayName": "The Root",
+        "url": "//theroot.com",
+        "blogGroup": "theroot",
+        "blogId": 1635821517,
+        "avatarId": "f5zr3vuc90hrpnmx0nme",
+        "expandable": true
+	},
+	{
+        "displayName": "The Onion",
+        "url": "//theonion.com",
+        "blogGroup": "theonion",
+        "blogId": 1636079510,
+        "avatarId": "eti2h1r4wg0bqxctxenl",
+		"expandable": true,
+		"isSatire": true
+    },
+    {
+    	"displayName": "The Inventory",
+    	"url": "//theinventory.com",
+    	"blogGroup": "theinventory",
+    	"blogId": 1458353822,
+    	"avatarId": "nnak0ogtqbt96hhn2yzn",
+        "expandable": true,
+        "isPartnerEditorial": true
+    }
+
+]

@@ -1,0 +1,60 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Footer /> should render blog footer w/ blog 1`] = `
+<EnsureDefaultTheme>
+  <footer__FooterWrap
+    className="js_footer"
+  >
+    <footer__FooterNav>
+      <div
+        className="js_footer-logo"
+      />
+      <FooterSocial
+        canonicalHost=""
+        facebookScreenName=""
+        ga={[MockFunction]}
+        instagramScreenName=""
+        showFooterLogo={false}
+        twitterScreenName=""
+        youtubeUrl=""
+      />
+      <FooterLinks
+        blogGroup=""
+        displayName="display name"
+        ga={[MockFunction]}
+        showAboutLink={false}
+        translate={[Function]}
+      />
+      <FooterNetwork
+        blogGroup=""
+        ga={[MockFunction]}
+      />
+      <FooterLegal
+        blogGroup=""
+      />
+    </footer__FooterNav>
+  </footer__FooterWrap>
+</EnsureDefaultTheme>
+`;
+
+exports[`<Footer /> should render generic footer w/o blog 1`] = `
+<EnsureDefaultTheme>
+  <footer__FooterWrap
+    className="js_footer"
+  >
+    <footer__FooterNav>
+      <FooterLinks
+        enableSitemap={false}
+        ga={[MockFunction]}
+        translate={[Function]}
+      />
+      <FooterNetwork
+        ga={[MockFunction]}
+      />
+      <FooterLegal />
+    </footer__FooterNav>
+  </footer__FooterWrap>
+</EnsureDefaultTheme>
+`;
+
+exports[`<Footer /> should render placeholder when lazy loading enabled 1`] = `null`;

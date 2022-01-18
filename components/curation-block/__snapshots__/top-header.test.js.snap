@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CurationStandardBlock - TopHeader should not show link if no customHeaderLink is specified 1`] = `
+<top-header__Header
+  editMode={null}
+  unbranded={false}
+>
+  <h2>
+    My Title
+  </h2>
+</top-header__Header>
+`;
+
+exports[`CurationStandardBlock - TopHeader should not show link if no url text is specified 1`] = `
+<top-header__Header
+  editMode={null}
+  unbranded={false}
+>
+  <h2>
+    <top-header__HeaderLink
+      href="http://google.com"
+    >
+      My Title
+    </top-header__HeaderLink>
+  </h2>
+</top-header__Header>
+`;

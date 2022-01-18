@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ImpactNav /> should render by default 1`] = `
+<EnsureDefaultTheme>
+  <impact-nav__ImpactNavContainer
+    className="js_impact-nav"
+    hasBlogLogo={false}
+  >
+    <LogoAndLinks />
+  </impact-nav__ImpactNavContainer>
+</EnsureDefaultTheme>
+`;

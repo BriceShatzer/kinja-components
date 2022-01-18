@@ -1,0 +1,222 @@
+{
+	"id": 1827085356,
+	"permalinkRedirect": null,
+	"parentId": null,
+	"parentAuthorId": null,
+	"parentAuthorIds": [],
+	"starterId": 1827085356,
+	"publishTimeMillis": 1529846400356,
+	"lastUpdateTimeMillis": 1529846442682,
+	"timezone": "America/New_York",
+	"sharedUrl": null,
+	"salesAvatar": null,
+	"sponsored": false,
+	"adSettings": null,
+	"status": "PUBLISHED",
+	"authorId": "5876237249236602398",
+	"authorIds": [
+		"5876237249236602398"
+	],
+	"allowReplies": true,
+	"showAuthorBio": true,
+	"byline": "",
+	"showByline": true,
+	"properties": "{\"autoRepostDisabled\":false,\"socialHeadline\":\"\",\"headTitleTag\":\"\",\"socialDescription\":\"\"}",
+	"isFeatured": false,
+	"isVideo": false,
+	"relatedModule": null,
+	"permalinkHost": "https://kinjadeals.theinventory.com",
+	"permalinkPath": "/backcountry-is-celebrating-the-fourth-of-july-with-an-u-1827085356",
+	"defaultBlogId": "86286",
+	"approved": true,
+	"headline": "Backcountry is Celebrating the Fourth of July With an Up to 40% Off Sale",
+	"body": [
+		{
+			"id": "penz3b6ni4wnugjc4nde",
+			"format": "png",
+			"width": 1165,
+			"height": 549,
+			"alignment": "Bleed",
+			"caption": [
+				{
+					"reference": "https://www.avantlink.com/click.php?tt=ml&ti=724293&pw=217145",
+					"value": [
+						{
+							"styles": [],
+							"value": "Up to 40% off select styles",
+							"type": "Text"
+						}
+					],
+					"type": "Link"
+				},
+				{
+					"styles": [],
+					"value": " | Backcountry",
+					"type": "Text"
+				}
+			],
+			"syndicationRights": false,
+			"attribution": [
+				{
+					"label": "Screenshot",
+					"credit": [
+						{
+							"styles": [],
+							"value": "Backcountry",
+							"type": "Text"
+						}
+					],
+					"source": []
+				}
+			],
+			"lightbox": true,
+			"type": "Image"
+		},
+		{
+			"containers": [],
+			"value": [
+				{
+					"styles": [],
+					"value": "It may be getting too hot outside to even ",
+					"type": "Text"
+				},
+				{
+					"styles": [
+						"Italic"
+					],
+					"value": "think",
+					"type": "Text"
+				},
+				{
+					"styles": [],
+					"value": " about spending more than 15 min in the sun, but that doesn’t mean you should pass up a good outdoor gear deal. Backcountry celebrating Independence Day by taking ",
+					"type": "Text"
+				},
+				{
+					"reference": "https://www.avantlink.com/click.php?tt=ml&ti=724293&pw=217145",
+					"value": [
+						{
+							"styles": [],
+							"value": "up to 40% off a ton of apparel, gear, bags, and more",
+							"type": "Text"
+						}
+					],
+					"type": "Link"
+				},
+				{
+					"styles": [],
+					"value": ".",
+					"type": "Text"
+				},
+				{
+					"type": "LineBreak"
+				}
+			],
+			"type": "Paragraph"
+		},
+		{
+			"style": "Line",
+			"containers": [],
+			"type": "HorizontalRule"
+		},
+		{
+			"id": "1008676419529068546",
+			"type": "Twitter"
+		}
+	],
+	"tags": [
+		{
+			"canonical": "kinjadeals",
+			"urlName": "kinja-deals",
+			"displayName": "Kinja Deals"
+		},
+		{
+			"canonical": "deals",
+			"urlName": "deals",
+			"displayName": "Deals"
+		},
+		{
+			"canonical": "backcountrydeals",
+			"urlName": "backcountry-deals",
+			"displayName": "Backcountry Deals"
+		}
+	],
+	"images": [
+		{
+			"id": "penz3b6ni4wnugjc4nde",
+			"width": 1165,
+			"height": 549,
+			"format": "png"
+		}
+	],
+	"videos": [],
+	"featuredMedia": null,
+	"mainMedia": null,
+	"largeOnStream": false,
+	"relatedPosts": [],
+	"firstSentence": "It may be getting too hot outside to even think about spending more than 15 min in the sun, but that",
+	"isBlip": false,
+	"length": 263,
+	"postId": 1827085356,
+	"aboveHeadline": null,
+	"leftOfHeadline": {
+		"src": "UNUSED",
+		"isAnimated": false,
+		"id": "penz3b6ni4wnugjc4nde",
+		"width": 320,
+		"height": 180,
+		"format": "png",
+		"frozenFormat": "png",
+		"type": "image"
+	},
+	"sharingMainImage": {
+		"src": "UNUSED",
+		"isAnimated": false,
+		"id": "penz3b6ni4wnugjc4nde",
+		"width": 800,
+		"height": 376,
+		"format": "png",
+		"frozenFormat": "png"
+	},
+	"plaintext": "It may be getting too hot outside to even think about spending more than 15 min in the sun, but that doesn’t mean you should pass up a good outdoor gear deal. Backcountry celebrating Independence Day by taking up to 40% off a ton of apparel, gear, bags, and more.",
+	"author": {
+		"id": "5876237249236602398",
+		"screenName": "jillianlucas",
+		"displayName": "Jillian Lucas",
+		"avatar": {
+			"id": "t5ogt9euaxs5aednkpjd",
+			"format": "jpg"
+		}
+	},
+	"authors": [
+		{
+			"id": "5876237249236602398",
+			"screenName": "jillianlucas",
+			"displayName": "Jillian Lucas",
+			"avatar": {
+				"id": "t5ogt9euaxs5aednkpjd",
+				"format": "jpg"
+			}
+		}
+	],
+	"parent": null,
+	"starter": null,
+	"storyTypeId": 980,
+	"permalink": "https://kinjadeals.theinventory.com/backcountry-is-celebrating-the-fourth-of-july-with-an-u-1827085356",
+	"publishTime": {
+		"timestamp": 1529846400356,
+		"timezone": "America/New_York",
+		"MdyHm": "06/24/2018 09:20",
+		"MdyatHm": "06/24/2018 at 09:20",
+		"rfc822": "Sun, 24 Jun 2018 13:20:00 GMT",
+		"yMdHmsZ": "2018-06-24T09:20:00-04:00",
+		"hmma": "9:20am",
+		"day": "Sunday",
+		"Mddyyhmma": "6/24/18 9:20am",
+		"fullDate": "June 24, 2018",
+		"relative": {
+			"amount": null,
+			"type": "yesterday"
+		}
+	}
+}

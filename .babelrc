@@ -1,0 +1,20 @@
+{
+	"plugins": [
+		[
+			"module-resolver",
+			{
+				"cwd": "babelrc",
+				"alias": {
+					"kinja-magma": "../../kinja-magma",
+					"postbody": "../postbody",
+					"kinja-images": "../kinja-images"
+				}
+			}
+		]
+	],
+	"env": {
+    "test": {
+      "plugins": ["dynamic-import-node"]
+    }
+  }
+}

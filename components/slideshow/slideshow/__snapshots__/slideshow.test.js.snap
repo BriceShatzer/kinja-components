@@ -1,0 +1,5558 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Slideshow /> Ads hitting an ad should disable the buttons for a second 1`] = `
+<EnsureDefaultTheme>
+  <slideshow__SlideShowContainer
+    className="kinja-slideshow"
+    fullscreen={false}
+    toggle={false}
+    wide={false}
+  >
+    <slideshow__SlideshowSwipeArea
+      onClick={null}
+    >
+      <slideshow__SlideshowDeck
+        key="0"
+        style={
+          Object {
+            "wrapper": Object {
+              "display": "flex",
+              "height": "100%",
+              "overflow": "hidden",
+              "width": "100%",
+            },
+          }
+        }
+        swipeOptions={
+          Object {
+            "callback": [Function],
+            "continuous": false,
+            "speed": 150,
+            "startSlide": 2,
+            "swiping": [Function],
+          }
+        }
+      >
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 0",
+                },
+              ],
+              "id": "0",
+              "type": "Image",
+            }
+          }
+          index={0}
+          key="0"
+          load={true}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 1",
+                },
+              ],
+              "id": "1",
+              "type": "Image",
+            }
+          }
+          index={1}
+          key="1"
+          load={true}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <AdSlide
+          aspectRatio="Photo"
+          disabled={true}
+          index={2}
+          key="2"
+          onLeftClick={[Function]}
+          onRightClick={[Function]}
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 2",
+                },
+              ],
+              "id": "2",
+              "type": "Image",
+            }
+          }
+          index={3}
+          key="3"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 3",
+                },
+              ],
+              "id": "3",
+              "type": "Image",
+            }
+          }
+          index={4}
+          key="4"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <AdSlide
+          aspectRatio="Photo"
+          disabled={true}
+          index={5}
+          key="5"
+          onLeftClick={[Function]}
+          onRightClick={[Function]}
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 4",
+                },
+              ],
+              "id": "4",
+              "type": "Image",
+            }
+          }
+          index={6}
+          key="6"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+      </slideshow__SlideshowDeck>
+    </slideshow__SlideshowSwipeArea>
+    <slideshow__SlideshowNavigateLeft
+      backButtonDisabled={true}
+      disabled={true}
+      fullscreen={false}
+      icon={<ArrowLeftIcon />}
+      onClick={[Function]}
+      sort="circle"
+      weight="tertiary"
+    />
+    <slideshow__SlideshowNavigateRight
+      disabled={true}
+      fullscreen={false}
+      icon={<ArrowRightIcon />}
+      navigationEnabled={false}
+      onClick={[Function]}
+      sort="circle"
+      weight="tertiary"
+    />
+    <slideshow__SlideshowIndex
+      fullscreen={false}
+      indexHidden={false}
+    >
+      <slideshow__SlideshowIndexPaging>
+        <SlideshowIcon />
+         
+        <span>
+          2
+           / 
+          5
+        </span>
+      </slideshow__SlideshowIndexPaging>
+      <slideshow__SlideshowIndexFullscreen
+        onClick={[Function]}
+      >
+        <FullscreenIcon />
+      </slideshow__SlideshowIndexFullscreen>
+    </slideshow__SlideshowIndex>
+  </slideshow__SlideShowContainer>
+</EnsureDefaultTheme>
+`;
+
+exports[`<Slideshow /> Ads should insert ad slides and display them 1`] = `
+<EnsureDefaultTheme>
+  <slideshow__SlideShowContainer
+    className="kinja-slideshow"
+    fullscreen={false}
+    toggle={false}
+    wide={false}
+  >
+    <slideshow__SlideshowSwipeArea
+      onClick={null}
+    >
+      <slideshow__SlideshowDeck
+        key="0"
+        style={
+          Object {
+            "wrapper": Object {
+              "display": "flex",
+              "height": "100%",
+              "overflow": "hidden",
+              "width": "100%",
+            },
+          }
+        }
+        swipeOptions={
+          Object {
+            "callback": [Function],
+            "continuous": false,
+            "speed": 150,
+            "startSlide": 0,
+            "swiping": [Function],
+          }
+        }
+      >
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 0",
+                },
+              ],
+              "id": "0",
+              "type": "Image",
+            }
+          }
+          index={0}
+          key="0"
+          load={true}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 1",
+                },
+              ],
+              "id": "1",
+              "type": "Image",
+            }
+          }
+          index={1}
+          key="1"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <AdSlide
+          aspectRatio="Photo"
+          disabled={false}
+          index={2}
+          key="2"
+          onLeftClick={[Function]}
+          onRightClick={[Function]}
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 2",
+                },
+              ],
+              "id": "2",
+              "type": "Image",
+            }
+          }
+          index={3}
+          key="3"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 3",
+                },
+              ],
+              "id": "3",
+              "type": "Image",
+            }
+          }
+          index={4}
+          key="4"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <AdSlide
+          aspectRatio="Photo"
+          disabled={false}
+          index={5}
+          key="5"
+          onLeftClick={[Function]}
+          onRightClick={[Function]}
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 4",
+                },
+              ],
+              "id": "4",
+              "type": "Image",
+            }
+          }
+          index={6}
+          key="6"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+      </slideshow__SlideshowDeck>
+    </slideshow__SlideshowSwipeArea>
+    <slideshow__SlideshowNavigateLeft
+      backButtonDisabled={true}
+      disabled={true}
+      fullscreen={false}
+      icon={<ArrowLeftIcon />}
+      onClick={[Function]}
+      sort="circle"
+      weight="tertiary"
+    />
+    <slideshow__SlideshowNavigateRight
+      disabled={false}
+      fullscreen={false}
+      icon={<ArrowRightIcon />}
+      navigationEnabled={true}
+      onClick={[Function]}
+      sort="circle"
+      weight="tertiary"
+    />
+    <slideshow__SlideshowIndex
+      fullscreen={false}
+      indexHidden={false}
+    >
+      <slideshow__SlideshowIndexPaging>
+        <SlideshowIcon />
+         
+        <span>
+          1
+           / 
+          5
+        </span>
+      </slideshow__SlideshowIndexPaging>
+      <slideshow__SlideshowIndexFullscreen
+        onClick={[Function]}
+      >
+        <FullscreenIcon />
+      </slideshow__SlideshowIndexFullscreen>
+    </slideshow__SlideshowIndex>
+  </slideshow__SlideShowContainer>
+</EnsureDefaultTheme>
+`;
+
+exports[`<Slideshow /> Ads shows correct index with ads 1`] = `
+<EnsureDefaultTheme>
+  <slideshow__SlideShowContainer
+    className="kinja-slideshow"
+    fullscreen={false}
+    toggle={false}
+    wide={false}
+  >
+    <slideshow__SlideshowSwipeArea
+      onClick={null}
+    >
+      <slideshow__SlideshowDeck
+        key="0"
+        style={
+          Object {
+            "wrapper": Object {
+              "display": "flex",
+              "height": "100%",
+              "overflow": "hidden",
+              "width": "100%",
+            },
+          }
+        }
+        swipeOptions={
+          Object {
+            "callback": [Function],
+            "continuous": false,
+            "speed": 150,
+            "startSlide": 2,
+            "swiping": [Function],
+          }
+        }
+      >
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 0",
+                },
+              ],
+              "id": "0",
+              "type": "Image",
+            }
+          }
+          index={0}
+          key="0"
+          load={true}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 1",
+                },
+              ],
+              "id": "1",
+              "type": "Image",
+            }
+          }
+          index={1}
+          key="1"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <AdSlide
+          aspectRatio="Photo"
+          disabled={false}
+          index={2}
+          key="2"
+          onLeftClick={[Function]}
+          onRightClick={[Function]}
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 2",
+                },
+              ],
+              "id": "2",
+              "type": "Image",
+            }
+          }
+          index={3}
+          key="3"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 3",
+                },
+              ],
+              "id": "3",
+              "type": "Image",
+            }
+          }
+          index={4}
+          key="4"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <AdSlide
+          aspectRatio="Photo"
+          disabled={false}
+          index={5}
+          key="5"
+          onLeftClick={[Function]}
+          onRightClick={[Function]}
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 4",
+                },
+              ],
+              "id": "4",
+              "type": "Image",
+            }
+          }
+          index={6}
+          key="6"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+      </slideshow__SlideshowDeck>
+    </slideshow__SlideshowSwipeArea>
+    <slideshow__SlideshowNavigateLeft
+      backButtonDisabled={false}
+      disabled={false}
+      fullscreen={false}
+      icon={<ArrowLeftIcon />}
+      onClick={[Function]}
+      sort="circle"
+      weight="tertiary"
+    />
+    <slideshow__SlideshowNavigateRight
+      disabled={false}
+      fullscreen={false}
+      icon={<ArrowRightIcon />}
+      navigationEnabled={true}
+      onClick={[Function]}
+      sort="circle"
+      weight="tertiary"
+    />
+    <slideshow__SlideshowIndex
+      fullscreen={false}
+      indexHidden={false}
+    >
+      <slideshow__SlideshowIndexPaging>
+        <SlideshowIcon />
+         
+        <span>
+          2
+           / 
+          5
+        </span>
+      </slideshow__SlideshowIndexPaging>
+      <slideshow__SlideshowIndexFullscreen
+        onClick={[Function]}
+      >
+        <FullscreenIcon />
+      </slideshow__SlideshowIndexFullscreen>
+    </slideshow__SlideshowIndex>
+  </slideshow__SlideShowContainer>
+</EnsureDefaultTheme>
+`;
+
+exports[`<Slideshow /> Back button should be disabled on the first slide 1`] = `
+<EnsureDefaultTheme>
+  <slideshow__SlideShowContainer
+    className="kinja-slideshow"
+    fullscreen={false}
+    toggle={false}
+    wide={false}
+  >
+    <slideshow__SlideshowSwipeArea
+      onClick={null}
+    >
+      <slideshow__SlideshowDeck
+        key="0"
+        style={
+          Object {
+            "wrapper": Object {
+              "display": "flex",
+              "height": "100%",
+              "overflow": "hidden",
+              "width": "100%",
+            },
+          }
+        }
+        swipeOptions={
+          Object {
+            "callback": [Function],
+            "continuous": false,
+            "speed": 150,
+            "startSlide": 0,
+            "swiping": [Function],
+          }
+        }
+      >
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 0",
+                },
+              ],
+              "id": "0",
+              "type": "Image",
+            }
+          }
+          index={0}
+          key="0"
+          load={true}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 1",
+                },
+              ],
+              "id": "1",
+              "type": "Image",
+            }
+          }
+          index={1}
+          key="1"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 2",
+                },
+              ],
+              "id": "2",
+              "type": "Image",
+            }
+          }
+          index={2}
+          key="2"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 3",
+                },
+              ],
+              "id": "3",
+              "type": "Image",
+            }
+          }
+          index={3}
+          key="3"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 4",
+                },
+              ],
+              "id": "4",
+              "type": "Image",
+            }
+          }
+          index={4}
+          key="4"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+      </slideshow__SlideshowDeck>
+    </slideshow__SlideshowSwipeArea>
+    <slideshow__SlideshowNavigateLeft
+      backButtonDisabled={true}
+      disabled={true}
+      fullscreen={false}
+      icon={<ArrowLeftIcon />}
+      onClick={[Function]}
+      sort="circle"
+      weight="tertiary"
+    />
+    <slideshow__SlideshowNavigateRight
+      disabled={false}
+      fullscreen={false}
+      icon={<ArrowRightIcon />}
+      navigationEnabled={true}
+      onClick={[Function]}
+      sort="circle"
+      weight="tertiary"
+    />
+    <slideshow__SlideshowIndex
+      fullscreen={false}
+      indexHidden={false}
+    >
+      <slideshow__SlideshowIndexPaging>
+        <SlideshowIcon />
+         
+        <span>
+          1
+           / 
+          5
+        </span>
+      </slideshow__SlideshowIndexPaging>
+      <slideshow__SlideshowIndexFullscreen
+        onClick={[Function]}
+      >
+        <FullscreenIcon />
+      </slideshow__SlideshowIndexFullscreen>
+    </slideshow__SlideshowIndex>
+  </slideshow__SlideShowContainer>
+</EnsureDefaultTheme>
+`;
+
+exports[`<Slideshow /> Back button should not be disabled on subsequent slides 1`] = `
+<EnsureDefaultTheme>
+  <slideshow__SlideShowContainer
+    className="kinja-slideshow"
+    fullscreen={false}
+    toggle={false}
+    wide={false}
+  >
+    <slideshow__SlideshowSwipeArea
+      onClick={null}
+    >
+      <slideshow__SlideshowDeck
+        key="0"
+        style={
+          Object {
+            "wrapper": Object {
+              "display": "flex",
+              "height": "100%",
+              "overflow": "hidden",
+              "width": "100%",
+            },
+          }
+        }
+        swipeOptions={
+          Object {
+            "callback": [Function],
+            "continuous": false,
+            "speed": 150,
+            "startSlide": 2,
+            "swiping": [Function],
+          }
+        }
+      >
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 0",
+                },
+              ],
+              "id": "0",
+              "type": "Image",
+            }
+          }
+          index={0}
+          key="0"
+          load={true}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 1",
+                },
+              ],
+              "id": "1",
+              "type": "Image",
+            }
+          }
+          index={1}
+          key="1"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 2",
+                },
+              ],
+              "id": "2",
+              "type": "Image",
+            }
+          }
+          index={2}
+          key="2"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 3",
+                },
+              ],
+              "id": "3",
+              "type": "Image",
+            }
+          }
+          index={3}
+          key="3"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 4",
+                },
+              ],
+              "id": "4",
+              "type": "Image",
+            }
+          }
+          index={4}
+          key="4"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+      </slideshow__SlideshowDeck>
+    </slideshow__SlideshowSwipeArea>
+    <slideshow__SlideshowNavigateLeft
+      backButtonDisabled={false}
+      disabled={false}
+      fullscreen={false}
+      icon={<ArrowLeftIcon />}
+      onClick={[Function]}
+      sort="circle"
+      weight="tertiary"
+    />
+    <slideshow__SlideshowNavigateRight
+      disabled={false}
+      fullscreen={false}
+      icon={<ArrowRightIcon />}
+      navigationEnabled={true}
+      onClick={[Function]}
+      sort="circle"
+      weight="tertiary"
+    />
+    <slideshow__SlideshowIndex
+      fullscreen={false}
+      indexHidden={false}
+    >
+      <slideshow__SlideshowIndexPaging>
+        <SlideshowIcon />
+         
+        <span>
+          3
+           / 
+          5
+        </span>
+      </slideshow__SlideshowIndexPaging>
+      <slideshow__SlideshowIndexFullscreen
+        onClick={[Function]}
+      >
+        <FullscreenIcon />
+      </slideshow__SlideshowIndexFullscreen>
+    </slideshow__SlideshowIndex>
+  </slideshow__SlideShowContainer>
+</EnsureDefaultTheme>
+`;
+
+exports[`<Slideshow /> Back button unless explicitly disabled 1`] = `
+<EnsureDefaultTheme>
+  <slideshow__SlideShowContainer
+    className="kinja-slideshow"
+    fullscreen={false}
+    toggle={false}
+    wide={false}
+  >
+    <slideshow__SlideshowSwipeArea
+      onClick={null}
+    >
+      <slideshow__SlideshowDeck
+        key="0"
+        style={
+          Object {
+            "wrapper": Object {
+              "display": "flex",
+              "height": "100%",
+              "overflow": "hidden",
+              "width": "100%",
+            },
+          }
+        }
+        swipeOptions={
+          Object {
+            "callback": [Function],
+            "continuous": false,
+            "speed": 150,
+            "startSlide": 0,
+            "swiping": [Function],
+          }
+        }
+      >
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 0",
+                },
+              ],
+              "id": "0",
+              "type": "Image",
+            }
+          }
+          index={0}
+          key="0"
+          load={true}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 1",
+                },
+              ],
+              "id": "1",
+              "type": "Image",
+            }
+          }
+          index={1}
+          key="1"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 2",
+                },
+              ],
+              "id": "2",
+              "type": "Image",
+            }
+          }
+          index={2}
+          key="2"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 3",
+                },
+              ],
+              "id": "3",
+              "type": "Image",
+            }
+          }
+          index={3}
+          key="3"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 4",
+                },
+              ],
+              "id": "4",
+              "type": "Image",
+            }
+          }
+          index={4}
+          key="4"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+      </slideshow__SlideshowDeck>
+    </slideshow__SlideshowSwipeArea>
+    <slideshow__SlideshowNavigateLeft
+      backButtonDisabled={true}
+      disabled={true}
+      fullscreen={false}
+      icon={<ArrowLeftIcon />}
+      onClick={[Function]}
+      sort="circle"
+      weight="tertiary"
+    />
+    <slideshow__SlideshowNavigateRight
+      disabled={true}
+      fullscreen={false}
+      icon={<ArrowRightIcon />}
+      navigationEnabled={false}
+      onClick={[Function]}
+      sort="circle"
+      weight="tertiary"
+    />
+    <slideshow__SlideshowIndex
+      fullscreen={false}
+      indexHidden={false}
+    >
+      <slideshow__SlideshowIndexPaging>
+        <SlideshowIcon />
+         
+        <span>
+          1
+           / 
+          5
+        </span>
+      </slideshow__SlideshowIndexPaging>
+      <slideshow__SlideshowIndexFullscreen
+        onClick={[Function]}
+      >
+        <FullscreenIcon />
+      </slideshow__SlideshowIndexFullscreen>
+    </slideshow__SlideshowIndex>
+  </slideshow__SlideShowContainer>
+</EnsureDefaultTheme>
+`;
+
+exports[`<Slideshow /> Back button unless the user completed the slideshow at least once 1`] = `
+<EnsureDefaultTheme>
+  <slideshow__SlideShowContainer
+    className="kinja-slideshow"
+    fullscreen={false}
+    toggle={false}
+    wide={false}
+  >
+    <slideshow__SlideshowSwipeArea
+      onClick={null}
+    >
+      <slideshow__SlideshowDeck
+        key="0"
+        style={
+          Object {
+            "wrapper": Object {
+              "display": "flex",
+              "height": "100%",
+              "overflow": "hidden",
+              "width": "100%",
+            },
+          }
+        }
+        swipeOptions={
+          Object {
+            "callback": [Function],
+            "continuous": false,
+            "speed": 150,
+            "startSlide": 0,
+            "swiping": [Function],
+          }
+        }
+      >
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 0",
+                },
+              ],
+              "id": "0",
+              "type": "Image",
+            }
+          }
+          index={0}
+          key="0"
+          load={true}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 1",
+                },
+              ],
+              "id": "1",
+              "type": "Image",
+            }
+          }
+          index={1}
+          key="1"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 2",
+                },
+              ],
+              "id": "2",
+              "type": "Image",
+            }
+          }
+          index={2}
+          key="2"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 3",
+                },
+              ],
+              "id": "3",
+              "type": "Image",
+            }
+          }
+          index={3}
+          key="3"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 4",
+                },
+              ],
+              "id": "4",
+              "type": "Image",
+            }
+          }
+          index={4}
+          key="4"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+      </slideshow__SlideshowDeck>
+    </slideshow__SlideshowSwipeArea>
+    <slideshow__SlideshowNavigateLeft
+      backButtonDisabled={false}
+      disabled={false}
+      fullscreen={false}
+      icon={<ArrowLeftIcon />}
+      onClick={[Function]}
+      sort="circle"
+      weight="tertiary"
+    />
+    <slideshow__SlideshowNavigateRight
+      disabled={false}
+      fullscreen={false}
+      icon={<ArrowRightIcon />}
+      navigationEnabled={true}
+      onClick={[Function]}
+      sort="circle"
+      weight="tertiary"
+    />
+    <slideshow__SlideshowIndex
+      fullscreen={false}
+      indexHidden={false}
+    >
+      <slideshow__SlideshowIndexPaging>
+        <SlideshowIcon />
+         
+        <span>
+          1
+           / 
+          5
+        </span>
+      </slideshow__SlideshowIndexPaging>
+      <slideshow__SlideshowIndexFullscreen
+        onClick={[Function]}
+      >
+        <FullscreenIcon />
+      </slideshow__SlideshowIndexFullscreen>
+    </slideshow__SlideshowIndex>
+  </slideshow__SlideShowContainer>
+</EnsureDefaultTheme>
+`;
+
+exports[`<Slideshow /> Forward button should not be disabled on subsequent slides 1`] = `
+<EnsureDefaultTheme>
+  <slideshow__SlideShowContainer
+    className="kinja-slideshow"
+    fullscreen={false}
+    toggle={false}
+    wide={false}
+  >
+    <slideshow__SlideshowSwipeArea
+      onClick={null}
+    >
+      <slideshow__SlideshowDeck
+        key="0"
+        style={
+          Object {
+            "wrapper": Object {
+              "display": "flex",
+              "height": "100%",
+              "overflow": "hidden",
+              "width": "100%",
+            },
+          }
+        }
+        swipeOptions={
+          Object {
+            "callback": [Function],
+            "continuous": false,
+            "speed": 150,
+            "startSlide": 2,
+            "swiping": [Function],
+          }
+        }
+      >
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 0",
+                },
+              ],
+              "id": "0",
+              "type": "Image",
+            }
+          }
+          index={0}
+          key="0"
+          load={true}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 1",
+                },
+              ],
+              "id": "1",
+              "type": "Image",
+            }
+          }
+          index={1}
+          key="1"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 2",
+                },
+              ],
+              "id": "2",
+              "type": "Image",
+            }
+          }
+          index={2}
+          key="2"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 3",
+                },
+              ],
+              "id": "3",
+              "type": "Image",
+            }
+          }
+          index={3}
+          key="3"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 4",
+                },
+              ],
+              "id": "4",
+              "type": "Image",
+            }
+          }
+          index={4}
+          key="4"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+      </slideshow__SlideshowDeck>
+    </slideshow__SlideshowSwipeArea>
+    <slideshow__SlideshowNavigateLeft
+      backButtonDisabled={false}
+      disabled={false}
+      fullscreen={false}
+      icon={<ArrowLeftIcon />}
+      onClick={[Function]}
+      sort="circle"
+      weight="tertiary"
+    />
+    <slideshow__SlideshowNavigateRight
+      disabled={false}
+      fullscreen={false}
+      icon={<ArrowRightIcon />}
+      navigationEnabled={true}
+      onClick={[Function]}
+      sort="circle"
+      weight="tertiary"
+    />
+    <slideshow__SlideshowIndex
+      fullscreen={false}
+      indexHidden={false}
+    >
+      <slideshow__SlideshowIndexPaging>
+        <SlideshowIcon />
+         
+        <span>
+          3
+           / 
+          5
+        </span>
+      </slideshow__SlideshowIndexPaging>
+      <slideshow__SlideshowIndexFullscreen
+        onClick={[Function]}
+      >
+        <FullscreenIcon />
+      </slideshow__SlideshowIndexFullscreen>
+    </slideshow__SlideshowIndex>
+  </slideshow__SlideShowContainer>
+</EnsureDefaultTheme>
+`;
+
+exports[`<Slideshow /> Forward button should not be disabled on the first slide 1`] = `
+<EnsureDefaultTheme>
+  <slideshow__SlideShowContainer
+    className="kinja-slideshow"
+    fullscreen={false}
+    toggle={false}
+    wide={false}
+  >
+    <slideshow__SlideshowSwipeArea
+      onClick={null}
+    >
+      <slideshow__SlideshowDeck
+        key="0"
+        style={
+          Object {
+            "wrapper": Object {
+              "display": "flex",
+              "height": "100%",
+              "overflow": "hidden",
+              "width": "100%",
+            },
+          }
+        }
+        swipeOptions={
+          Object {
+            "callback": [Function],
+            "continuous": false,
+            "speed": 150,
+            "startSlide": 0,
+            "swiping": [Function],
+          }
+        }
+      >
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 0",
+                },
+              ],
+              "id": "0",
+              "type": "Image",
+            }
+          }
+          index={0}
+          key="0"
+          load={true}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 1",
+                },
+              ],
+              "id": "1",
+              "type": "Image",
+            }
+          }
+          index={1}
+          key="1"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 2",
+                },
+              ],
+              "id": "2",
+              "type": "Image",
+            }
+          }
+          index={2}
+          key="2"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 3",
+                },
+              ],
+              "id": "3",
+              "type": "Image",
+            }
+          }
+          index={3}
+          key="3"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 4",
+                },
+              ],
+              "id": "4",
+              "type": "Image",
+            }
+          }
+          index={4}
+          key="4"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+      </slideshow__SlideshowDeck>
+    </slideshow__SlideshowSwipeArea>
+    <slideshow__SlideshowNavigateLeft
+      backButtonDisabled={true}
+      disabled={true}
+      fullscreen={false}
+      icon={<ArrowLeftIcon />}
+      onClick={[Function]}
+      sort="circle"
+      weight="tertiary"
+    />
+    <slideshow__SlideshowNavigateRight
+      disabled={false}
+      fullscreen={false}
+      icon={<ArrowRightIcon />}
+      navigationEnabled={true}
+      onClick={[Function]}
+      sort="circle"
+      weight="tertiary"
+    />
+    <slideshow__SlideshowIndex
+      fullscreen={false}
+      indexHidden={false}
+    >
+      <slideshow__SlideshowIndexPaging>
+        <SlideshowIcon />
+         
+        <span>
+          1
+           / 
+          5
+        </span>
+      </slideshow__SlideshowIndexPaging>
+      <slideshow__SlideshowIndexFullscreen
+        onClick={[Function]}
+      >
+        <FullscreenIcon />
+      </slideshow__SlideshowIndexFullscreen>
+    </slideshow__SlideshowIndex>
+  </slideshow__SlideShowContainer>
+</EnsureDefaultTheme>
+`;
+
+exports[`<Slideshow /> Forward button unless explicitly disabled 1`] = `
+<EnsureDefaultTheme>
+  <slideshow__SlideShowContainer
+    className="kinja-slideshow"
+    fullscreen={false}
+    toggle={false}
+    wide={false}
+  >
+    <slideshow__SlideshowSwipeArea
+      onClick={null}
+    >
+      <slideshow__SlideshowDeck
+        key="0"
+        style={
+          Object {
+            "wrapper": Object {
+              "display": "flex",
+              "height": "100%",
+              "overflow": "hidden",
+              "width": "100%",
+            },
+          }
+        }
+        swipeOptions={
+          Object {
+            "callback": [Function],
+            "continuous": false,
+            "speed": 150,
+            "startSlide": 0,
+            "swiping": [Function],
+          }
+        }
+      >
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 0",
+                },
+              ],
+              "id": "0",
+              "type": "Image",
+            }
+          }
+          index={0}
+          key="0"
+          load={true}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 1",
+                },
+              ],
+              "id": "1",
+              "type": "Image",
+            }
+          }
+          index={1}
+          key="1"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 2",
+                },
+              ],
+              "id": "2",
+              "type": "Image",
+            }
+          }
+          index={2}
+          key="2"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 3",
+                },
+              ],
+              "id": "3",
+              "type": "Image",
+            }
+          }
+          index={3}
+          key="3"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 4",
+                },
+              ],
+              "id": "4",
+              "type": "Image",
+            }
+          }
+          index={4}
+          key="4"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+      </slideshow__SlideshowDeck>
+    </slideshow__SlideshowSwipeArea>
+    <slideshow__SlideshowNavigateLeft
+      backButtonDisabled={true}
+      disabled={true}
+      fullscreen={false}
+      icon={<ArrowLeftIcon />}
+      onClick={[Function]}
+      sort="circle"
+      weight="tertiary"
+    />
+    <slideshow__SlideshowNavigateRight
+      disabled={true}
+      fullscreen={false}
+      icon={<ArrowRightIcon />}
+      navigationEnabled={false}
+      onClick={[Function]}
+      sort="circle"
+      weight="tertiary"
+    />
+    <slideshow__SlideshowIndex
+      fullscreen={false}
+      indexHidden={false}
+    >
+      <slideshow__SlideshowIndexPaging>
+        <SlideshowIcon />
+         
+        <span>
+          1
+           / 
+          5
+        </span>
+      </slideshow__SlideshowIndexPaging>
+      <slideshow__SlideshowIndexFullscreen
+        onClick={[Function]}
+      >
+        <FullscreenIcon />
+      </slideshow__SlideshowIndexFullscreen>
+    </slideshow__SlideshowIndex>
+  </slideshow__SlideShowContainer>
+</EnsureDefaultTheme>
+`;
+
+exports[`<Slideshow /> Fullscreen mode should hide pagination info when tapping on the image 1`] = `
+<EnsureDefaultTheme>
+  <slideshow__SlideShowContainer
+    className="kinja-slideshow"
+    fullscreen={true}
+    toggle={false}
+    wide={false}
+  >
+    <slideshow__SlideshowBlurBackgroundFullScreen>
+      <VibrancyBackground
+        background="0"
+      />
+    </slideshow__SlideshowBlurBackgroundFullScreen>
+    <slideshow__SlideshowSwipeArea
+      onClick={[Function]}
+    >
+      <slideshow__SlideshowDeck
+        key="1"
+        style={
+          Object {
+            "wrapper": Object {
+              "display": "flex",
+              "height": "100%",
+              "overflow": "hidden",
+              "width": "100%",
+            },
+          }
+        }
+        swipeOptions={
+          Object {
+            "callback": [Function],
+            "continuous": false,
+            "speed": 300,
+            "startSlide": 0,
+            "swiping": [Function],
+          }
+        }
+      >
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 0",
+                },
+              ],
+              "id": "0",
+              "type": "Image",
+            }
+          }
+          index={0}
+          key="0"
+          load={true}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 1",
+                },
+              ],
+              "id": "1",
+              "type": "Image",
+            }
+          }
+          index={1}
+          key="1"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 2",
+                },
+              ],
+              "id": "2",
+              "type": "Image",
+            }
+          }
+          index={2}
+          key="2"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 3",
+                },
+              ],
+              "id": "3",
+              "type": "Image",
+            }
+          }
+          index={3}
+          key="3"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 4",
+                },
+              ],
+              "id": "4",
+              "type": "Image",
+            }
+          }
+          index={4}
+          key="4"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+      </slideshow__SlideshowDeck>
+    </slideshow__SlideshowSwipeArea>
+    <slideshow__SlideshowSidebar>
+      <slideshow__SlideshowSidebarCaption>
+        <slide__CaptionItem>
+          <WithKinjaMeta
+            nodes={
+              Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 0",
+                },
+              ]
+            }
+          />
+        </slide__CaptionItem>
+      </slideshow__SlideshowSidebarCaption>
+      <slideshow__SlideshowSidebarIndex>
+        <slideshow__SlideshowSidebarPaging>
+          <SlideshowIcon />
+           
+          <span>
+            1
+             / 
+            5
+          </span>
+        </slideshow__SlideshowSidebarPaging>
+        <slideshow__SlideshowSidebarHeadline
+          dangerouslySetInnerHTML={
+            Object {
+              "__html": "A jolly good article",
+            }
+          }
+        />
+        <slideshow__SlideshowSidebarShareButton
+          onClick={[Function]}
+        >
+          <Button
+            icon={<FacebookIcon />}
+            label="Share"
+            labelPosition="after"
+            small={true}
+            sort="share"
+            variant="facebook"
+          />
+        </slideshow__SlideshowSidebarShareButton>
+        <slideshow__SlideshowSidebarShareButton
+          onClick={[Function]}
+        >
+          <Button
+            icon={<TwitterIcon />}
+            label="Tweet"
+            labelPosition="after"
+            small={true}
+            sort="share"
+            variant="twitter"
+          />
+        </slideshow__SlideshowSidebarShareButton>
+        <slideshow__SlideshowSidebarAdWrap>
+          <slideshow__SlideshowSidebarAdLabel>
+            Advertisement
+          </slideshow__SlideshowSidebarAdLabel>
+          <slideshow__SlideshowSidebarAd>
+            <div
+              className="kinja-slideshow__sidebar-ad dfp"
+            />
+            <div
+              className="bt-wrapper"
+              style={
+                Object {
+                  "alignContent": "center",
+                  "display": "flex",
+                  "justifyContent": "center",
+                }
+              }
+            >
+              <span
+                className="bt-uid-tg"
+                data-uid="5d1b8a9186-384"
+                style={
+                  Object {
+                    "display": "none !important",
+                    "textAlign": "center",
+                  }
+                }
+              />
+            </div>
+          </slideshow__SlideshowSidebarAd>
+        </slideshow__SlideshowSidebarAdWrap>
+      </slideshow__SlideshowSidebarIndex>
+    </slideshow__SlideshowSidebar>
+    <slideshow__SlideshowNavigateLeft
+      backButtonDisabled={true}
+      disabled={true}
+      fullscreen={true}
+      icon={<ArrowLeftIcon />}
+      onClick={[Function]}
+      sort="circle"
+      weight="primary"
+    />
+    <slideshow__SlideshowNavigateRight
+      disabled={false}
+      fullscreen={true}
+      icon={<ArrowRightIcon />}
+      navigationEnabled={true}
+      onClick={[Function]}
+      sort="circle"
+      weight="primary"
+    />
+    <slideshow__SlideshowIndex
+      fullscreen={true}
+      indexHidden={false}
+    >
+      <slideshow__SlideshowIndexPaging>
+        <SlideshowIcon />
+         
+        <span>
+          1
+           / 
+          5
+        </span>
+      </slideshow__SlideshowIndexPaging>
+      <slideshow__SlideshowIndexFullscreen
+        onClick={[Function]}
+      >
+        <CloseIcon />
+      </slideshow__SlideshowIndexFullscreen>
+    </slideshow__SlideshowIndex>
+  </slideshow__SlideShowContainer>
+</EnsureDefaultTheme>
+`;
+
+exports[`<Slideshow /> Fullscreen mode should hide pagination info when tapping on the image 2`] = `
+<EnsureDefaultTheme>
+  <slideshow__SlideShowContainer
+    className="kinja-slideshow"
+    fullscreen={true}
+    toggle={true}
+    wide={false}
+  >
+    <slideshow__SlideshowBlurBackgroundFullScreen>
+      <VibrancyBackground
+        background="0"
+      />
+    </slideshow__SlideshowBlurBackgroundFullScreen>
+    <slideshow__SlideshowSwipeArea
+      onClick={[Function]}
+    >
+      <slideshow__SlideshowDeck
+        key="1"
+        style={
+          Object {
+            "wrapper": Object {
+              "display": "flex",
+              "height": "100%",
+              "overflow": "hidden",
+              "width": "100%",
+            },
+          }
+        }
+        swipeOptions={
+          Object {
+            "callback": [Function],
+            "continuous": false,
+            "speed": 300,
+            "startSlide": 0,
+            "swiping": [Function],
+          }
+        }
+      >
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 0",
+                },
+              ],
+              "id": "0",
+              "type": "Image",
+            }
+          }
+          index={0}
+          key="0"
+          load={true}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 1",
+                },
+              ],
+              "id": "1",
+              "type": "Image",
+            }
+          }
+          index={1}
+          key="1"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 2",
+                },
+              ],
+              "id": "2",
+              "type": "Image",
+            }
+          }
+          index={2}
+          key="2"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 3",
+                },
+              ],
+              "id": "3",
+              "type": "Image",
+            }
+          }
+          index={3}
+          key="3"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 4",
+                },
+              ],
+              "id": "4",
+              "type": "Image",
+            }
+          }
+          index={4}
+          key="4"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+      </slideshow__SlideshowDeck>
+    </slideshow__SlideshowSwipeArea>
+    <slideshow__SlideshowSidebar>
+      <slideshow__SlideshowSidebarCaption>
+        <slide__CaptionItem>
+          <WithKinjaMeta
+            nodes={
+              Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 0",
+                },
+              ]
+            }
+          />
+        </slide__CaptionItem>
+      </slideshow__SlideshowSidebarCaption>
+      <slideshow__SlideshowSidebarIndex>
+        <slideshow__SlideshowSidebarPaging>
+          <SlideshowIcon />
+           
+          <span>
+            1
+             / 
+            5
+          </span>
+        </slideshow__SlideshowSidebarPaging>
+        <slideshow__SlideshowSidebarHeadline
+          dangerouslySetInnerHTML={
+            Object {
+              "__html": "A jolly good article",
+            }
+          }
+        />
+        <slideshow__SlideshowSidebarShareButton
+          onClick={[Function]}
+        >
+          <Button
+            icon={<FacebookIcon />}
+            label="Share"
+            labelPosition="after"
+            small={true}
+            sort="share"
+            variant="facebook"
+          />
+        </slideshow__SlideshowSidebarShareButton>
+        <slideshow__SlideshowSidebarShareButton
+          onClick={[Function]}
+        >
+          <Button
+            icon={<TwitterIcon />}
+            label="Tweet"
+            labelPosition="after"
+            small={true}
+            sort="share"
+            variant="twitter"
+          />
+        </slideshow__SlideshowSidebarShareButton>
+        <slideshow__SlideshowSidebarAdWrap>
+          <slideshow__SlideshowSidebarAdLabel>
+            Advertisement
+          </slideshow__SlideshowSidebarAdLabel>
+          <slideshow__SlideshowSidebarAd>
+            <div
+              className="kinja-slideshow__sidebar-ad dfp"
+            />
+            <div
+              className="bt-wrapper"
+              style={
+                Object {
+                  "alignContent": "center",
+                  "display": "flex",
+                  "justifyContent": "center",
+                }
+              }
+            >
+              <span
+                className="bt-uid-tg"
+                data-uid="5d1b8a9186-384"
+                style={
+                  Object {
+                    "display": "none !important",
+                    "textAlign": "center",
+                  }
+                }
+              />
+            </div>
+          </slideshow__SlideshowSidebarAd>
+        </slideshow__SlideshowSidebarAdWrap>
+      </slideshow__SlideshowSidebarIndex>
+    </slideshow__SlideshowSidebar>
+    <slideshow__SlideshowNavigateLeft
+      backButtonDisabled={true}
+      disabled={true}
+      fullscreen={true}
+      icon={<ArrowLeftIcon />}
+      onClick={[Function]}
+      sort="circle"
+      weight="primary"
+    />
+    <slideshow__SlideshowNavigateRight
+      disabled={false}
+      fullscreen={true}
+      icon={<ArrowRightIcon />}
+      navigationEnabled={true}
+      onClick={[Function]}
+      sort="circle"
+      weight="primary"
+    />
+    <slideshow__SlideshowIndex
+      fullscreen={true}
+      indexHidden={true}
+    >
+      <slideshow__SlideshowIndexPaging>
+        <SlideshowIcon />
+         
+        <span>
+          1
+           / 
+          5
+        </span>
+      </slideshow__SlideshowIndexPaging>
+      <slideshow__SlideshowIndexFullscreen
+        onClick={[Function]}
+      >
+        <CloseIcon />
+      </slideshow__SlideshowIndexFullscreen>
+    </slideshow__SlideshowIndex>
+  </slideshow__SlideShowContainer>
+</EnsureDefaultTheme>
+`;
+
+exports[`<Slideshow /> Fullscreen mode should navigate to the left 1`] = `
+<EnsureDefaultTheme>
+  <slideshow__SlideShowContainer
+    className="kinja-slideshow"
+    fullscreen={true}
+    toggle={false}
+    wide={false}
+  >
+    <slideshow__SlideshowBlurBackgroundFullScreen>
+      <VibrancyBackground
+        background="2"
+      />
+    </slideshow__SlideshowBlurBackgroundFullScreen>
+    <slideshow__SlideshowSwipeArea
+      onClick={[Function]}
+    >
+      <slideshow__SlideshowDeck
+        key="1"
+        style={
+          Object {
+            "wrapper": Object {
+              "display": "flex",
+              "height": "100%",
+              "overflow": "hidden",
+              "width": "100%",
+            },
+          }
+        }
+        swipeOptions={
+          Object {
+            "callback": [Function],
+            "continuous": false,
+            "speed": 300,
+            "startSlide": 2,
+            "swiping": [Function],
+          }
+        }
+      >
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 0",
+                },
+              ],
+              "id": "0",
+              "type": "Image",
+            }
+          }
+          index={0}
+          key="0"
+          load={true}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 1",
+                },
+              ],
+              "id": "1",
+              "type": "Image",
+            }
+          }
+          index={1}
+          key="1"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 2",
+                },
+              ],
+              "id": "2",
+              "type": "Image",
+            }
+          }
+          index={2}
+          key="2"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 3",
+                },
+              ],
+              "id": "3",
+              "type": "Image",
+            }
+          }
+          index={3}
+          key="3"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 4",
+                },
+              ],
+              "id": "4",
+              "type": "Image",
+            }
+          }
+          index={4}
+          key="4"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+      </slideshow__SlideshowDeck>
+    </slideshow__SlideshowSwipeArea>
+    <slideshow__SlideshowSidebar>
+      <slideshow__SlideshowSidebarCaption>
+        <slide__CaptionItem>
+          <WithKinjaMeta
+            nodes={
+              Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 2",
+                },
+              ]
+            }
+          />
+        </slide__CaptionItem>
+      </slideshow__SlideshowSidebarCaption>
+      <slideshow__SlideshowSidebarIndex>
+        <slideshow__SlideshowSidebarPaging>
+          <SlideshowIcon />
+           
+          <span>
+            3
+             / 
+            5
+          </span>
+        </slideshow__SlideshowSidebarPaging>
+        <slideshow__SlideshowSidebarHeadline
+          dangerouslySetInnerHTML={
+            Object {
+              "__html": "A jolly good article",
+            }
+          }
+        />
+        <slideshow__SlideshowSidebarShareButton
+          onClick={[Function]}
+        >
+          <Button
+            icon={<FacebookIcon />}
+            label="Share"
+            labelPosition="after"
+            small={true}
+            sort="share"
+            variant="facebook"
+          />
+        </slideshow__SlideshowSidebarShareButton>
+        <slideshow__SlideshowSidebarShareButton
+          onClick={[Function]}
+        >
+          <Button
+            icon={<TwitterIcon />}
+            label="Tweet"
+            labelPosition="after"
+            small={true}
+            sort="share"
+            variant="twitter"
+          />
+        </slideshow__SlideshowSidebarShareButton>
+        <slideshow__SlideshowSidebarAdWrap>
+          <slideshow__SlideshowSidebarAdLabel>
+            Advertisement
+          </slideshow__SlideshowSidebarAdLabel>
+          <slideshow__SlideshowSidebarAd>
+            <div
+              className="kinja-slideshow__sidebar-ad dfp"
+            />
+            <div
+              className="bt-wrapper"
+              style={
+                Object {
+                  "alignContent": "center",
+                  "display": "flex",
+                  "justifyContent": "center",
+                }
+              }
+            >
+              <span
+                className="bt-uid-tg"
+                data-uid="5d1b8a9186-384"
+                style={
+                  Object {
+                    "display": "none !important",
+                    "textAlign": "center",
+                  }
+                }
+              />
+            </div>
+          </slideshow__SlideshowSidebarAd>
+        </slideshow__SlideshowSidebarAdWrap>
+      </slideshow__SlideshowSidebarIndex>
+    </slideshow__SlideshowSidebar>
+    <slideshow__SlideshowNavigateLeft
+      backButtonDisabled={false}
+      disabled={false}
+      fullscreen={true}
+      icon={<ArrowLeftIcon />}
+      onClick={[Function]}
+      sort="circle"
+      weight="primary"
+    />
+    <slideshow__SlideshowNavigateRight
+      disabled={false}
+      fullscreen={true}
+      icon={<ArrowRightIcon />}
+      navigationEnabled={true}
+      onClick={[Function]}
+      sort="circle"
+      weight="primary"
+    />
+    <slideshow__SlideshowIndex
+      fullscreen={true}
+      indexHidden={false}
+    >
+      <slideshow__SlideshowIndexPaging>
+        <SlideshowIcon />
+         
+        <span>
+          3
+           / 
+          5
+        </span>
+      </slideshow__SlideshowIndexPaging>
+      <slideshow__SlideshowIndexFullscreen
+        onClick={[Function]}
+      >
+        <CloseIcon />
+      </slideshow__SlideshowIndexFullscreen>
+    </slideshow__SlideshowIndex>
+  </slideshow__SlideShowContainer>
+</EnsureDefaultTheme>
+`;
+
+exports[`<Slideshow /> Fullscreen mode should navigate to the right 1`] = `
+<EnsureDefaultTheme>
+  <slideshow__SlideShowContainer
+    className="kinja-slideshow"
+    fullscreen={true}
+    toggle={false}
+    wide={false}
+  >
+    <slideshow__SlideshowBlurBackgroundFullScreen>
+      <VibrancyBackground
+        background="0"
+      />
+    </slideshow__SlideshowBlurBackgroundFullScreen>
+    <slideshow__SlideshowSwipeArea
+      onClick={[Function]}
+    >
+      <slideshow__SlideshowDeck
+        key="1"
+        style={
+          Object {
+            "wrapper": Object {
+              "display": "flex",
+              "height": "100%",
+              "overflow": "hidden",
+              "width": "100%",
+            },
+          }
+        }
+        swipeOptions={
+          Object {
+            "callback": [Function],
+            "continuous": false,
+            "speed": 300,
+            "startSlide": 0,
+            "swiping": [Function],
+          }
+        }
+      >
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 0",
+                },
+              ],
+              "id": "0",
+              "type": "Image",
+            }
+          }
+          index={0}
+          key="0"
+          load={true}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 1",
+                },
+              ],
+              "id": "1",
+              "type": "Image",
+            }
+          }
+          index={1}
+          key="1"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 2",
+                },
+              ],
+              "id": "2",
+              "type": "Image",
+            }
+          }
+          index={2}
+          key="2"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 3",
+                },
+              ],
+              "id": "3",
+              "type": "Image",
+            }
+          }
+          index={3}
+          key="3"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 4",
+                },
+              ],
+              "id": "4",
+              "type": "Image",
+            }
+          }
+          index={4}
+          key="4"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+      </slideshow__SlideshowDeck>
+    </slideshow__SlideshowSwipeArea>
+    <slideshow__SlideshowSidebar>
+      <slideshow__SlideshowSidebarCaption>
+        <slide__CaptionItem>
+          <WithKinjaMeta
+            nodes={
+              Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 0",
+                },
+              ]
+            }
+          />
+        </slide__CaptionItem>
+      </slideshow__SlideshowSidebarCaption>
+      <slideshow__SlideshowSidebarIndex>
+        <slideshow__SlideshowSidebarPaging>
+          <SlideshowIcon />
+           
+          <span>
+            1
+             / 
+            5
+          </span>
+        </slideshow__SlideshowSidebarPaging>
+        <slideshow__SlideshowSidebarHeadline
+          dangerouslySetInnerHTML={
+            Object {
+              "__html": "A jolly good article",
+            }
+          }
+        />
+        <slideshow__SlideshowSidebarShareButton
+          onClick={[Function]}
+        >
+          <Button
+            icon={<FacebookIcon />}
+            label="Share"
+            labelPosition="after"
+            small={true}
+            sort="share"
+            variant="facebook"
+          />
+        </slideshow__SlideshowSidebarShareButton>
+        <slideshow__SlideshowSidebarShareButton
+          onClick={[Function]}
+        >
+          <Button
+            icon={<TwitterIcon />}
+            label="Tweet"
+            labelPosition="after"
+            small={true}
+            sort="share"
+            variant="twitter"
+          />
+        </slideshow__SlideshowSidebarShareButton>
+        <slideshow__SlideshowSidebarAdWrap>
+          <slideshow__SlideshowSidebarAdLabel>
+            Advertisement
+          </slideshow__SlideshowSidebarAdLabel>
+          <slideshow__SlideshowSidebarAd>
+            <div
+              className="kinja-slideshow__sidebar-ad dfp"
+            />
+            <div
+              className="bt-wrapper"
+              style={
+                Object {
+                  "alignContent": "center",
+                  "display": "flex",
+                  "justifyContent": "center",
+                }
+              }
+            >
+              <span
+                className="bt-uid-tg"
+                data-uid="5d1b8a9186-384"
+                style={
+                  Object {
+                    "display": "none !important",
+                    "textAlign": "center",
+                  }
+                }
+              />
+            </div>
+          </slideshow__SlideshowSidebarAd>
+        </slideshow__SlideshowSidebarAdWrap>
+      </slideshow__SlideshowSidebarIndex>
+    </slideshow__SlideshowSidebar>
+    <slideshow__SlideshowNavigateLeft
+      backButtonDisabled={true}
+      disabled={true}
+      fullscreen={true}
+      icon={<ArrowLeftIcon />}
+      onClick={[Function]}
+      sort="circle"
+      weight="primary"
+    />
+    <slideshow__SlideshowNavigateRight
+      disabled={false}
+      fullscreen={true}
+      icon={<ArrowRightIcon />}
+      navigationEnabled={true}
+      onClick={[Function]}
+      sort="circle"
+      weight="primary"
+    />
+    <slideshow__SlideshowIndex
+      fullscreen={true}
+      indexHidden={false}
+    >
+      <slideshow__SlideshowIndexPaging>
+        <SlideshowIcon />
+         
+        <span>
+          1
+           / 
+          5
+        </span>
+      </slideshow__SlideshowIndexPaging>
+      <slideshow__SlideshowIndexFullscreen
+        onClick={[Function]}
+      >
+        <CloseIcon />
+      </slideshow__SlideshowIndexFullscreen>
+    </slideshow__SlideshowIndex>
+  </slideshow__SlideShowContainer>
+</EnsureDefaultTheme>
+`;
+
+exports[`<Slideshow /> Fullscreen mode should preload images 1`] = `
+<EnsureDefaultTheme>
+  <slideshow__SlideShowContainer
+    className="kinja-slideshow"
+    fullscreen={true}
+    toggle={false}
+    wide={false}
+  >
+    <slideshow__SlideshowBlurBackgroundFullScreen>
+      <VibrancyBackground
+        background="0"
+      />
+    </slideshow__SlideshowBlurBackgroundFullScreen>
+    <slideshow__SlideshowSwipeArea
+      onClick={[Function]}
+    >
+      <slideshow__SlideshowDeck
+        key="1"
+        style={
+          Object {
+            "wrapper": Object {
+              "display": "flex",
+              "height": "100%",
+              "overflow": "hidden",
+              "width": "100%",
+            },
+          }
+        }
+        swipeOptions={
+          Object {
+            "callback": [Function],
+            "continuous": false,
+            "speed": 300,
+            "startSlide": 0,
+            "swiping": [Function],
+          }
+        }
+      >
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 0",
+                },
+              ],
+              "id": "0",
+              "type": "Image",
+            }
+          }
+          index={0}
+          key="0"
+          load={true}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 1",
+                },
+              ],
+              "id": "1",
+              "type": "Image",
+            }
+          }
+          index={1}
+          key="1"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 2",
+                },
+              ],
+              "id": "2",
+              "type": "Image",
+            }
+          }
+          index={2}
+          key="2"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 3",
+                },
+              ],
+              "id": "3",
+              "type": "Image",
+            }
+          }
+          index={3}
+          key="3"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 4",
+                },
+              ],
+              "id": "4",
+              "type": "Image",
+            }
+          }
+          index={4}
+          key="4"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+      </slideshow__SlideshowDeck>
+    </slideshow__SlideshowSwipeArea>
+    <slideshow__SlideshowSidebar>
+      <slideshow__SlideshowSidebarCaption>
+        <slide__CaptionItem>
+          <WithKinjaMeta
+            nodes={
+              Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 0",
+                },
+              ]
+            }
+          />
+        </slide__CaptionItem>
+      </slideshow__SlideshowSidebarCaption>
+      <slideshow__SlideshowSidebarIndex>
+        <slideshow__SlideshowSidebarPaging>
+          <SlideshowIcon />
+           
+          <span>
+            1
+             / 
+            5
+          </span>
+        </slideshow__SlideshowSidebarPaging>
+        <slideshow__SlideshowSidebarHeadline
+          dangerouslySetInnerHTML={
+            Object {
+              "__html": "A jolly good article",
+            }
+          }
+        />
+        <slideshow__SlideshowSidebarShareButton
+          onClick={[Function]}
+        >
+          <Button
+            icon={<FacebookIcon />}
+            label="Share"
+            labelPosition="after"
+            small={true}
+            sort="share"
+            variant="facebook"
+          />
+        </slideshow__SlideshowSidebarShareButton>
+        <slideshow__SlideshowSidebarShareButton
+          onClick={[Function]}
+        >
+          <Button
+            icon={<TwitterIcon />}
+            label="Tweet"
+            labelPosition="after"
+            small={true}
+            sort="share"
+            variant="twitter"
+          />
+        </slideshow__SlideshowSidebarShareButton>
+        <slideshow__SlideshowSidebarAdWrap>
+          <slideshow__SlideshowSidebarAdLabel>
+            Advertisement
+          </slideshow__SlideshowSidebarAdLabel>
+          <slideshow__SlideshowSidebarAd>
+            <div
+              className="kinja-slideshow__sidebar-ad dfp"
+            />
+            <div
+              className="bt-wrapper"
+              style={
+                Object {
+                  "alignContent": "center",
+                  "display": "flex",
+                  "justifyContent": "center",
+                }
+              }
+            >
+              <span
+                className="bt-uid-tg"
+                data-uid="5d1b8a9186-384"
+                style={
+                  Object {
+                    "display": "none !important",
+                    "textAlign": "center",
+                  }
+                }
+              />
+            </div>
+          </slideshow__SlideshowSidebarAd>
+        </slideshow__SlideshowSidebarAdWrap>
+      </slideshow__SlideshowSidebarIndex>
+    </slideshow__SlideshowSidebar>
+    <slideshow__SlideshowNavigateLeft
+      backButtonDisabled={true}
+      disabled={true}
+      fullscreen={true}
+      icon={<ArrowLeftIcon />}
+      onClick={[Function]}
+      sort="circle"
+      weight="primary"
+    />
+    <slideshow__SlideshowNavigateRight
+      disabled={false}
+      fullscreen={true}
+      icon={<ArrowRightIcon />}
+      navigationEnabled={true}
+      onClick={[Function]}
+      sort="circle"
+      weight="primary"
+    />
+    <slideshow__SlideshowIndex
+      fullscreen={true}
+      indexHidden={false}
+    >
+      <slideshow__SlideshowIndexPaging>
+        <SlideshowIcon />
+         
+        <span>
+          1
+           / 
+          5
+        </span>
+      </slideshow__SlideshowIndexPaging>
+      <slideshow__SlideshowIndexFullscreen
+        onClick={[Function]}
+      >
+        <CloseIcon />
+      </slideshow__SlideshowIndexFullscreen>
+    </slideshow__SlideshowIndex>
+  </slideshow__SlideShowContainer>
+</EnsureDefaultTheme>
+`;
+
+exports[`<Slideshow /> Fullscreen mode should preload images 2`] = `
+<EnsureDefaultTheme>
+  <slideshow__SlideShowContainer
+    className="kinja-slideshow"
+    fullscreen={true}
+    toggle={false}
+    wide={false}
+  >
+    <slideshow__SlideshowBlurBackgroundFullScreen>
+      <VibrancyBackground
+        background="1"
+      />
+    </slideshow__SlideshowBlurBackgroundFullScreen>
+    <slideshow__SlideshowSwipeArea
+      onClick={[Function]}
+    >
+      <slideshow__SlideshowDeck
+        key="1"
+        style={
+          Object {
+            "wrapper": Object {
+              "display": "flex",
+              "height": "100%",
+              "overflow": "hidden",
+              "width": "100%",
+            },
+          }
+        }
+        swipeOptions={
+          Object {
+            "callback": [Function],
+            "continuous": false,
+            "speed": 300,
+            "startSlide": 1,
+            "swiping": [Function],
+          }
+        }
+      >
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 0",
+                },
+              ],
+              "id": "0",
+              "type": "Image",
+            }
+          }
+          index={0}
+          key="0"
+          load={true}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 1",
+                },
+              ],
+              "id": "1",
+              "type": "Image",
+            }
+          }
+          index={1}
+          key="1"
+          load={true}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 2",
+                },
+              ],
+              "id": "2",
+              "type": "Image",
+            }
+          }
+          index={2}
+          key="2"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 3",
+                },
+              ],
+              "id": "3",
+              "type": "Image",
+            }
+          }
+          index={3}
+          key="3"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 4",
+                },
+              ],
+              "id": "4",
+              "type": "Image",
+            }
+          }
+          index={4}
+          key="4"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+      </slideshow__SlideshowDeck>
+    </slideshow__SlideshowSwipeArea>
+    <slideshow__SlideshowSidebar>
+      <slideshow__SlideshowSidebarCaption>
+        <slide__CaptionItem>
+          <WithKinjaMeta
+            nodes={
+              Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 1",
+                },
+              ]
+            }
+          />
+        </slide__CaptionItem>
+      </slideshow__SlideshowSidebarCaption>
+      <slideshow__SlideshowSidebarIndex>
+        <slideshow__SlideshowSidebarPaging>
+          <SlideshowIcon />
+           
+          <span>
+            2
+             / 
+            5
+          </span>
+        </slideshow__SlideshowSidebarPaging>
+        <slideshow__SlideshowSidebarHeadline
+          dangerouslySetInnerHTML={
+            Object {
+              "__html": "A jolly good article",
+            }
+          }
+        />
+        <slideshow__SlideshowSidebarShareButton
+          onClick={[Function]}
+        >
+          <Button
+            icon={<FacebookIcon />}
+            label="Share"
+            labelPosition="after"
+            small={true}
+            sort="share"
+            variant="facebook"
+          />
+        </slideshow__SlideshowSidebarShareButton>
+        <slideshow__SlideshowSidebarShareButton
+          onClick={[Function]}
+        >
+          <Button
+            icon={<TwitterIcon />}
+            label="Tweet"
+            labelPosition="after"
+            small={true}
+            sort="share"
+            variant="twitter"
+          />
+        </slideshow__SlideshowSidebarShareButton>
+        <slideshow__SlideshowSidebarAdWrap>
+          <slideshow__SlideshowSidebarAdLabel>
+            Advertisement
+          </slideshow__SlideshowSidebarAdLabel>
+          <slideshow__SlideshowSidebarAd>
+            <div
+              className="kinja-slideshow__sidebar-ad dfp"
+            />
+            <div
+              className="bt-wrapper"
+              style={
+                Object {
+                  "alignContent": "center",
+                  "display": "flex",
+                  "justifyContent": "center",
+                }
+              }
+            >
+              <span
+                className="bt-uid-tg"
+                data-uid="5d1b8a9186-384"
+                style={
+                  Object {
+                    "display": "none !important",
+                    "textAlign": "center",
+                  }
+                }
+              />
+            </div>
+          </slideshow__SlideshowSidebarAd>
+        </slideshow__SlideshowSidebarAdWrap>
+      </slideshow__SlideshowSidebarIndex>
+    </slideshow__SlideshowSidebar>
+    <slideshow__SlideshowNavigateLeft
+      backButtonDisabled={false}
+      disabled={false}
+      fullscreen={true}
+      icon={<ArrowLeftIcon />}
+      onClick={[Function]}
+      sort="circle"
+      weight="primary"
+    />
+    <slideshow__SlideshowNavigateRight
+      disabled={false}
+      fullscreen={true}
+      icon={<ArrowRightIcon />}
+      navigationEnabled={true}
+      onClick={[Function]}
+      sort="circle"
+      weight="primary"
+    />
+    <slideshow__SlideshowIndex
+      fullscreen={true}
+      indexHidden={false}
+    >
+      <slideshow__SlideshowIndexPaging>
+        <SlideshowIcon />
+         
+        <span>
+          2
+           / 
+          5
+        </span>
+      </slideshow__SlideshowIndexPaging>
+      <slideshow__SlideshowIndexFullscreen
+        onClick={[Function]}
+      >
+        <CloseIcon />
+      </slideshow__SlideshowIndexFullscreen>
+    </slideshow__SlideshowIndex>
+  </slideshow__SlideShowContainer>
+</EnsureDefaultTheme>
+`;
+
+exports[`<Slideshow /> Fullscreen mode should toggle between minimized and fullscreen mode 1`] = `
+<EnsureDefaultTheme>
+  <slideshow__SlideShowContainer
+    className="kinja-slideshow"
+    fullscreen={true}
+    toggle={false}
+    wide={false}
+  >
+    <slideshow__SlideshowBlurBackgroundFullScreen>
+      <VibrancyBackground
+        background="0"
+      />
+    </slideshow__SlideshowBlurBackgroundFullScreen>
+    <slideshow__SlideshowSwipeArea
+      onClick={[Function]}
+    >
+      <slideshow__SlideshowDeck
+        key="1"
+        style={
+          Object {
+            "wrapper": Object {
+              "display": "flex",
+              "height": "100%",
+              "overflow": "hidden",
+              "width": "100%",
+            },
+          }
+        }
+        swipeOptions={
+          Object {
+            "callback": [Function],
+            "continuous": false,
+            "speed": 300,
+            "startSlide": 0,
+            "swiping": [Function],
+          }
+        }
+      >
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 0",
+                },
+              ],
+              "id": "0",
+              "type": "Image",
+            }
+          }
+          index={0}
+          key="0"
+          load={true}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 1",
+                },
+              ],
+              "id": "1",
+              "type": "Image",
+            }
+          }
+          index={1}
+          key="1"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 2",
+                },
+              ],
+              "id": "2",
+              "type": "Image",
+            }
+          }
+          index={2}
+          key="2"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 3",
+                },
+              ],
+              "id": "3",
+              "type": "Image",
+            }
+          }
+          index={3}
+          key="3"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 4",
+                },
+              ],
+              "id": "4",
+              "type": "Image",
+            }
+          }
+          index={4}
+          key="4"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+      </slideshow__SlideshowDeck>
+    </slideshow__SlideshowSwipeArea>
+    <slideshow__SlideshowSidebar>
+      <slideshow__SlideshowSidebarCaption>
+        <slide__CaptionItem>
+          <WithKinjaMeta
+            nodes={
+              Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 0",
+                },
+              ]
+            }
+          />
+        </slide__CaptionItem>
+      </slideshow__SlideshowSidebarCaption>
+      <slideshow__SlideshowSidebarIndex>
+        <slideshow__SlideshowSidebarPaging>
+          <SlideshowIcon />
+           
+          <span>
+            1
+             / 
+            5
+          </span>
+        </slideshow__SlideshowSidebarPaging>
+        <slideshow__SlideshowSidebarHeadline
+          dangerouslySetInnerHTML={
+            Object {
+              "__html": "A jolly good article",
+            }
+          }
+        />
+        <slideshow__SlideshowSidebarShareButton
+          onClick={[Function]}
+        >
+          <Button
+            icon={<FacebookIcon />}
+            label="Share"
+            labelPosition="after"
+            small={true}
+            sort="share"
+            variant="facebook"
+          />
+        </slideshow__SlideshowSidebarShareButton>
+        <slideshow__SlideshowSidebarShareButton
+          onClick={[Function]}
+        >
+          <Button
+            icon={<TwitterIcon />}
+            label="Tweet"
+            labelPosition="after"
+            small={true}
+            sort="share"
+            variant="twitter"
+          />
+        </slideshow__SlideshowSidebarShareButton>
+        <slideshow__SlideshowSidebarAdWrap>
+          <slideshow__SlideshowSidebarAdLabel>
+            Advertisement
+          </slideshow__SlideshowSidebarAdLabel>
+          <slideshow__SlideshowSidebarAd>
+            <div
+              className="kinja-slideshow__sidebar-ad dfp"
+            />
+            <div
+              className="bt-wrapper"
+              style={
+                Object {
+                  "alignContent": "center",
+                  "display": "flex",
+                  "justifyContent": "center",
+                }
+              }
+            >
+              <span
+                className="bt-uid-tg"
+                data-uid="5d1b8a9186-384"
+                style={
+                  Object {
+                    "display": "none !important",
+                    "textAlign": "center",
+                  }
+                }
+              />
+            </div>
+          </slideshow__SlideshowSidebarAd>
+        </slideshow__SlideshowSidebarAdWrap>
+      </slideshow__SlideshowSidebarIndex>
+    </slideshow__SlideshowSidebar>
+    <slideshow__SlideshowNavigateLeft
+      backButtonDisabled={true}
+      disabled={true}
+      fullscreen={true}
+      icon={<ArrowLeftIcon />}
+      onClick={[Function]}
+      sort="circle"
+      weight="primary"
+    />
+    <slideshow__SlideshowNavigateRight
+      disabled={false}
+      fullscreen={true}
+      icon={<ArrowRightIcon />}
+      navigationEnabled={true}
+      onClick={[Function]}
+      sort="circle"
+      weight="primary"
+    />
+    <slideshow__SlideshowIndex
+      fullscreen={true}
+      indexHidden={false}
+    >
+      <slideshow__SlideshowIndexPaging>
+        <SlideshowIcon />
+         
+        <span>
+          1
+           / 
+          5
+        </span>
+      </slideshow__SlideshowIndexPaging>
+      <slideshow__SlideshowIndexFullscreen
+        onClick={[Function]}
+      >
+        <CloseIcon />
+      </slideshow__SlideshowIndexFullscreen>
+    </slideshow__SlideshowIndex>
+  </slideshow__SlideShowContainer>
+</EnsureDefaultTheme>
+`;
+
+exports[`<Slideshow /> Fullscreen mode with ads should display an ad in the sidebar 1`] = `
+<EnsureDefaultTheme>
+  <slideshow__SlideShowContainer
+    className="kinja-slideshow"
+    fullscreen={true}
+    toggle={false}
+    wide={false}
+  >
+    <slideshow__SlideshowBlurBackgroundFullScreen>
+      <VibrancyBackground
+        background="0"
+      />
+    </slideshow__SlideshowBlurBackgroundFullScreen>
+    <slideshow__SlideshowSwipeArea
+      onClick={[Function]}
+    >
+      <slideshow__SlideshowDeck
+        key="1"
+        style={
+          Object {
+            "wrapper": Object {
+              "display": "flex",
+              "height": "100%",
+              "overflow": "hidden",
+              "width": "100%",
+            },
+          }
+        }
+        swipeOptions={
+          Object {
+            "callback": [Function],
+            "continuous": false,
+            "speed": 300,
+            "startSlide": 0,
+            "swiping": [Function],
+          }
+        }
+      >
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 0",
+                },
+              ],
+              "id": "0",
+              "type": "Image",
+            }
+          }
+          index={0}
+          key="0"
+          load={true}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 1",
+                },
+              ],
+              "id": "1",
+              "type": "Image",
+            }
+          }
+          index={1}
+          key="1"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <AdSlide
+          aspectRatio="Photo"
+          disabled={false}
+          index={2}
+          key="2"
+          onLeftClick={[Function]}
+          onRightClick={[Function]}
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 2",
+                },
+              ],
+              "id": "2",
+              "type": "Image",
+            }
+          }
+          index={3}
+          key="3"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 3",
+                },
+              ],
+              "id": "3",
+              "type": "Image",
+            }
+          }
+          index={4}
+          key="4"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <AdSlide
+          aspectRatio="Photo"
+          disabled={false}
+          index={5}
+          key="5"
+          onLeftClick={[Function]}
+          onRightClick={[Function]}
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 4",
+                },
+              ],
+              "id": "4",
+              "type": "Image",
+            }
+          }
+          index={6}
+          key="6"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+      </slideshow__SlideshowDeck>
+    </slideshow__SlideshowSwipeArea>
+    <slideshow__SlideshowSidebar>
+      <slideshow__SlideshowSidebarCaption>
+        <slide__CaptionItem>
+          <WithKinjaMeta
+            nodes={
+              Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 0",
+                },
+              ]
+            }
+          />
+        </slide__CaptionItem>
+      </slideshow__SlideshowSidebarCaption>
+      <slideshow__SlideshowSidebarIndex>
+        <slideshow__SlideshowSidebarPaging>
+          <SlideshowIcon />
+           
+          <span>
+            1
+             / 
+            5
+          </span>
+        </slideshow__SlideshowSidebarPaging>
+        <slideshow__SlideshowSidebarHeadline
+          dangerouslySetInnerHTML={
+            Object {
+              "__html": "A jolly good article",
+            }
+          }
+        />
+        <slideshow__SlideshowSidebarShareButton
+          onClick={[Function]}
+        >
+          <Button
+            icon={<FacebookIcon />}
+            label="Share"
+            labelPosition="after"
+            small={true}
+            sort="share"
+            variant="facebook"
+          />
+        </slideshow__SlideshowSidebarShareButton>
+        <slideshow__SlideshowSidebarShareButton
+          onClick={[Function]}
+        >
+          <Button
+            icon={<TwitterIcon />}
+            label="Tweet"
+            labelPosition="after"
+            small={true}
+            sort="share"
+            variant="twitter"
+          />
+        </slideshow__SlideshowSidebarShareButton>
+        <slideshow__SlideshowSidebarAdWrap>
+          <slideshow__SlideshowSidebarAdLabel>
+            Advertisement
+          </slideshow__SlideshowSidebarAdLabel>
+          <slideshow__SlideshowSidebarAd>
+            <div
+              className="kinja-slideshow__sidebar-ad dfp"
+            />
+            <div
+              className="bt-wrapper"
+              style={
+                Object {
+                  "alignContent": "center",
+                  "display": "flex",
+                  "justifyContent": "center",
+                }
+              }
+            >
+              <span
+                className="bt-uid-tg"
+                data-uid="5d1b8a9186-384"
+                style={
+                  Object {
+                    "display": "none !important",
+                    "textAlign": "center",
+                  }
+                }
+              />
+            </div>
+          </slideshow__SlideshowSidebarAd>
+        </slideshow__SlideshowSidebarAdWrap>
+      </slideshow__SlideshowSidebarIndex>
+    </slideshow__SlideshowSidebar>
+    <slideshow__SlideshowNavigateLeft
+      backButtonDisabled={true}
+      disabled={true}
+      fullscreen={true}
+      icon={<ArrowLeftIcon />}
+      onClick={[Function]}
+      sort="circle"
+      weight="primary"
+    />
+    <slideshow__SlideshowNavigateRight
+      disabled={false}
+      fullscreen={true}
+      icon={<ArrowRightIcon />}
+      navigationEnabled={true}
+      onClick={[Function]}
+      sort="circle"
+      weight="primary"
+    />
+    <slideshow__SlideshowIndex
+      fullscreen={true}
+      indexHidden={false}
+    >
+      <slideshow__SlideshowIndexPaging>
+        <SlideshowIcon />
+         
+        <span>
+          1
+           / 
+          5
+        </span>
+      </slideshow__SlideshowIndexPaging>
+      <slideshow__SlideshowIndexFullscreen
+        onClick={[Function]}
+      >
+        <CloseIcon />
+      </slideshow__SlideshowIndexFullscreen>
+    </slideshow__SlideshowIndex>
+  </slideshow__SlideShowContainer>
+</EnsureDefaultTheme>
+`;
+
+exports[`<Slideshow /> Navigation should preload images 1`] = `
+<EnsureDefaultTheme>
+  <slideshow__SlideShowContainer
+    className="kinja-slideshow"
+    fullscreen={false}
+    toggle={false}
+    wide={false}
+  >
+    <slideshow__SlideshowSwipeArea
+      onClick={null}
+    >
+      <slideshow__SlideshowDeck
+        key="0"
+        style={
+          Object {
+            "wrapper": Object {
+              "display": "flex",
+              "height": "100%",
+              "overflow": "hidden",
+              "width": "100%",
+            },
+          }
+        }
+        swipeOptions={
+          Object {
+            "callback": [Function],
+            "continuous": false,
+            "speed": 150,
+            "startSlide": 0,
+            "swiping": [Function],
+          }
+        }
+      >
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 0",
+                },
+              ],
+              "id": "0",
+              "type": "Image",
+            }
+          }
+          index={0}
+          key="0"
+          load={true}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 1",
+                },
+              ],
+              "id": "1",
+              "type": "Image",
+            }
+          }
+          index={1}
+          key="1"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 2",
+                },
+              ],
+              "id": "2",
+              "type": "Image",
+            }
+          }
+          index={2}
+          key="2"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 3",
+                },
+              ],
+              "id": "3",
+              "type": "Image",
+            }
+          }
+          index={3}
+          key="3"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 4",
+                },
+              ],
+              "id": "4",
+              "type": "Image",
+            }
+          }
+          index={4}
+          key="4"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+      </slideshow__SlideshowDeck>
+    </slideshow__SlideshowSwipeArea>
+    <slideshow__SlideshowNavigateLeft
+      backButtonDisabled={true}
+      disabled={true}
+      fullscreen={false}
+      icon={<ArrowLeftIcon />}
+      onClick={[Function]}
+      sort="circle"
+      weight="tertiary"
+    />
+    <slideshow__SlideshowNavigateRight
+      disabled={false}
+      fullscreen={false}
+      icon={<ArrowRightIcon />}
+      navigationEnabled={true}
+      onClick={[Function]}
+      sort="circle"
+      weight="tertiary"
+    />
+    <slideshow__SlideshowIndex
+      fullscreen={false}
+      indexHidden={false}
+    >
+      <slideshow__SlideshowIndexPaging>
+        <SlideshowIcon />
+         
+        <span>
+          1
+           / 
+          5
+        </span>
+      </slideshow__SlideshowIndexPaging>
+      <slideshow__SlideshowIndexFullscreen
+        onClick={[Function]}
+      >
+        <FullscreenIcon />
+      </slideshow__SlideshowIndexFullscreen>
+    </slideshow__SlideshowIndex>
+  </slideshow__SlideShowContainer>
+</EnsureDefaultTheme>
+`;
+
+exports[`<Slideshow /> Navigation should preload images 2`] = `
+<EnsureDefaultTheme>
+  <slideshow__SlideShowContainer
+    className="kinja-slideshow"
+    fullscreen={false}
+    toggle={false}
+    wide={false}
+  >
+    <slideshow__SlideshowSwipeArea
+      onClick={null}
+    >
+      <slideshow__SlideshowDeck
+        key="0"
+        style={
+          Object {
+            "wrapper": Object {
+              "display": "flex",
+              "height": "100%",
+              "overflow": "hidden",
+              "width": "100%",
+            },
+          }
+        }
+        swipeOptions={
+          Object {
+            "callback": [Function],
+            "continuous": false,
+            "speed": 150,
+            "startSlide": 1,
+            "swiping": [Function],
+          }
+        }
+      >
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 0",
+                },
+              ],
+              "id": "0",
+              "type": "Image",
+            }
+          }
+          index={0}
+          key="0"
+          load={true}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 1",
+                },
+              ],
+              "id": "1",
+              "type": "Image",
+            }
+          }
+          index={1}
+          key="1"
+          load={true}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 2",
+                },
+              ],
+              "id": "2",
+              "type": "Image",
+            }
+          }
+          index={2}
+          key="2"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 3",
+                },
+              ],
+              "id": "3",
+              "type": "Image",
+            }
+          }
+          index={3}
+          key="3"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 4",
+                },
+              ],
+              "id": "4",
+              "type": "Image",
+            }
+          }
+          index={4}
+          key="4"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+      </slideshow__SlideshowDeck>
+    </slideshow__SlideshowSwipeArea>
+    <slideshow__SlideshowNavigateLeft
+      backButtonDisabled={false}
+      disabled={false}
+      fullscreen={false}
+      icon={<ArrowLeftIcon />}
+      onClick={[Function]}
+      sort="circle"
+      weight="tertiary"
+    />
+    <slideshow__SlideshowNavigateRight
+      disabled={false}
+      fullscreen={false}
+      icon={<ArrowRightIcon />}
+      navigationEnabled={true}
+      onClick={[Function]}
+      sort="circle"
+      weight="tertiary"
+    />
+    <slideshow__SlideshowIndex
+      fullscreen={false}
+      indexHidden={false}
+    >
+      <slideshow__SlideshowIndexPaging>
+        <SlideshowIcon />
+         
+        <span>
+          2
+           / 
+          5
+        </span>
+      </slideshow__SlideshowIndexPaging>
+      <slideshow__SlideshowIndexFullscreen
+        onClick={[Function]}
+      >
+        <FullscreenIcon />
+      </slideshow__SlideshowIndexFullscreen>
+    </slideshow__SlideshowIndex>
+  </slideshow__SlideShowContainer>
+</EnsureDefaultTheme>
+`;
+
+exports[`<Slideshow /> Navigation should set completed 1`] = `
+<EnsureDefaultTheme>
+  <slideshow__SlideShowContainer
+    className="kinja-slideshow"
+    fullscreen={false}
+    toggle={false}
+    wide={false}
+  >
+    <slideshow__SlideshowSwipeArea
+      onClick={null}
+    >
+      <slideshow__SlideshowDeck
+        key="0"
+        style={
+          Object {
+            "wrapper": Object {
+              "display": "flex",
+              "height": "100%",
+              "overflow": "hidden",
+              "width": "100%",
+            },
+          }
+        }
+        swipeOptions={
+          Object {
+            "callback": [Function],
+            "continuous": false,
+            "speed": 150,
+            "startSlide": 2,
+            "swiping": [Function],
+          }
+        }
+      >
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 0",
+                },
+              ],
+              "id": "0",
+              "type": "Image",
+            }
+          }
+          index={0}
+          key="0"
+          load={true}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 1",
+                },
+              ],
+              "id": "1",
+              "type": "Image",
+            }
+          }
+          index={1}
+          key="1"
+          load={true}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 2",
+                },
+              ],
+              "id": "2",
+              "type": "Image",
+            }
+          }
+          index={2}
+          key="2"
+          load={true}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 3",
+                },
+              ],
+              "id": "3",
+              "type": "Image",
+            }
+          }
+          index={3}
+          key="3"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 4",
+                },
+              ],
+              "id": "4",
+              "type": "Image",
+            }
+          }
+          index={4}
+          key="4"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+      </slideshow__SlideshowDeck>
+    </slideshow__SlideshowSwipeArea>
+    <slideshow__SlideshowNavigateLeft
+      backButtonDisabled={false}
+      disabled={false}
+      fullscreen={false}
+      icon={<ArrowLeftIcon />}
+      onClick={[Function]}
+      sort="circle"
+      weight="tertiary"
+    />
+    <slideshow__SlideshowNavigateRight
+      disabled={false}
+      fullscreen={false}
+      icon={<ArrowRightIcon />}
+      navigationEnabled={true}
+      onClick={[Function]}
+      sort="circle"
+      weight="tertiary"
+    />
+    <slideshow__SlideshowIndex
+      fullscreen={false}
+      indexHidden={false}
+    >
+      <slideshow__SlideshowIndexPaging>
+        <SlideshowIcon />
+         
+        <span>
+          3
+           / 
+          5
+        </span>
+      </slideshow__SlideshowIndexPaging>
+      <slideshow__SlideshowIndexFullscreen
+        onClick={[Function]}
+      >
+        <FullscreenIcon />
+      </slideshow__SlideshowIndexFullscreen>
+    </slideshow__SlideshowIndex>
+  </slideshow__SlideShowContainer>
+</EnsureDefaultTheme>
+`;
+
+exports[`<Slideshow /> Navigation should set completed 2`] = `
+<EnsureDefaultTheme>
+  <slideshow__SlideShowContainer
+    className="kinja-slideshow"
+    fullscreen={false}
+    toggle={false}
+    wide={false}
+  >
+    <slideshow__SlideshowSwipeArea
+      onClick={null}
+    >
+      <slideshow__SlideshowDeck
+        key="0"
+        style={
+          Object {
+            "wrapper": Object {
+              "display": "flex",
+              "height": "100%",
+              "overflow": "hidden",
+              "width": "100%",
+            },
+          }
+        }
+        swipeOptions={
+          Object {
+            "callback": [Function],
+            "continuous": false,
+            "speed": 150,
+            "startSlide": 4,
+            "swiping": [Function],
+          }
+        }
+      >
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 0",
+                },
+              ],
+              "id": "0",
+              "type": "Image",
+            }
+          }
+          index={0}
+          key="0"
+          load={true}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 1",
+                },
+              ],
+              "id": "1",
+              "type": "Image",
+            }
+          }
+          index={1}
+          key="1"
+          load={true}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 2",
+                },
+              ],
+              "id": "2",
+              "type": "Image",
+            }
+          }
+          index={2}
+          key="2"
+          load={true}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 3",
+                },
+              ],
+              "id": "3",
+              "type": "Image",
+            }
+          }
+          index={3}
+          key="3"
+          load={true}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 4",
+                },
+              ],
+              "id": "4",
+              "type": "Image",
+            }
+          }
+          index={4}
+          key="4"
+          load={true}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+      </slideshow__SlideshowDeck>
+    </slideshow__SlideshowSwipeArea>
+    <slideshow__SlideshowNavigateLeft
+      backButtonDisabled={false}
+      disabled={false}
+      fullscreen={false}
+      icon={<ArrowLeftIcon />}
+      onClick={[Function]}
+      sort="circle"
+      weight="tertiary"
+    />
+    <slideshow__SlideshowNavigateRight
+      disabled={false}
+      fullscreen={false}
+      icon={<ArrowRightIcon />}
+      navigationEnabled={true}
+      onClick={[Function]}
+      sort="circle"
+      weight="tertiary"
+    />
+    <slideshow__SlideshowIndex
+      fullscreen={false}
+      indexHidden={false}
+    >
+      <slideshow__SlideshowIndexPaging>
+        <SlideshowIcon />
+         
+        <span>
+          5
+           / 
+          5
+        </span>
+      </slideshow__SlideshowIndexPaging>
+      <slideshow__SlideshowIndexFullscreen
+        onClick={[Function]}
+      >
+        <FullscreenIcon />
+      </slideshow__SlideshowIndexFullscreen>
+    </slideshow__SlideshowIndex>
+  </slideshow__SlideShowContainer>
+</EnsureDefaultTheme>
+`;
+
+exports[`<Slideshow /> Navigation should set completed 3`] = `
+<EnsureDefaultTheme>
+  <slideshow__SlideShowContainer
+    className="kinja-slideshow"
+    fullscreen={false}
+    toggle={false}
+    wide={false}
+  >
+    <slideshow__SlideshowSwipeArea
+      onClick={null}
+    >
+      <slideshow__SlideshowDeck
+        key="0"
+        style={
+          Object {
+            "wrapper": Object {
+              "display": "flex",
+              "height": "100%",
+              "overflow": "hidden",
+              "width": "100%",
+            },
+          }
+        }
+        swipeOptions={
+          Object {
+            "callback": [Function],
+            "continuous": false,
+            "speed": 150,
+            "startSlide": 2,
+            "swiping": [Function],
+          }
+        }
+      >
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 0",
+                },
+              ],
+              "id": "0",
+              "type": "Image",
+            }
+          }
+          index={0}
+          key="0"
+          load={true}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 1",
+                },
+              ],
+              "id": "1",
+              "type": "Image",
+            }
+          }
+          index={1}
+          key="1"
+          load={true}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 2",
+                },
+              ],
+              "id": "2",
+              "type": "Image",
+            }
+          }
+          index={2}
+          key="2"
+          load={true}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 3",
+                },
+              ],
+              "id": "3",
+              "type": "Image",
+            }
+          }
+          index={3}
+          key="3"
+          load={true}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 4",
+                },
+              ],
+              "id": "4",
+              "type": "Image",
+            }
+          }
+          index={4}
+          key="4"
+          load={true}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+      </slideshow__SlideshowDeck>
+    </slideshow__SlideshowSwipeArea>
+    <slideshow__SlideshowNavigateLeft
+      backButtonDisabled={false}
+      disabled={false}
+      fullscreen={false}
+      icon={<ArrowLeftIcon />}
+      onClick={[Function]}
+      sort="circle"
+      weight="tertiary"
+    />
+    <slideshow__SlideshowNavigateRight
+      disabled={false}
+      fullscreen={false}
+      icon={<ArrowRightIcon />}
+      navigationEnabled={true}
+      onClick={[Function]}
+      sort="circle"
+      weight="tertiary"
+    />
+    <slideshow__SlideshowIndex
+      fullscreen={false}
+      indexHidden={false}
+    >
+      <slideshow__SlideshowIndexPaging>
+        <SlideshowIcon />
+         
+        <span>
+          3
+           / 
+          5
+        </span>
+      </slideshow__SlideshowIndexPaging>
+      <slideshow__SlideshowIndexFullscreen
+        onClick={[Function]}
+      >
+        <FullscreenIcon />
+      </slideshow__SlideshowIndexFullscreen>
+    </slideshow__SlideshowIndex>
+  </slideshow__SlideShowContainer>
+</EnsureDefaultTheme>
+`;
+
+exports[`<Slideshow /> should display the number of slides 1`] = `
+<EnsureDefaultTheme>
+  <slideshow__SlideShowContainer
+    className="kinja-slideshow"
+    fullscreen={false}
+    toggle={false}
+    wide={false}
+  >
+    <slideshow__SlideshowSwipeArea
+      onClick={null}
+    >
+      <slideshow__SlideshowDeck
+        key="0"
+        style={
+          Object {
+            "wrapper": Object {
+              "display": "flex",
+              "height": "100%",
+              "overflow": "hidden",
+              "width": "100%",
+            },
+          }
+        }
+        swipeOptions={
+          Object {
+            "callback": [Function],
+            "continuous": false,
+            "speed": 150,
+            "startSlide": 2,
+            "swiping": [Function],
+          }
+        }
+      >
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 0",
+                },
+              ],
+              "id": "0",
+              "type": "Image",
+            }
+          }
+          index={0}
+          key="0"
+          load={true}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 1",
+                },
+              ],
+              "id": "1",
+              "type": "Image",
+            }
+          }
+          index={1}
+          key="1"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 2",
+                },
+              ],
+              "id": "2",
+              "type": "Image",
+            }
+          }
+          index={2}
+          key="2"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 3",
+                },
+              ],
+              "id": "3",
+              "type": "Image",
+            }
+          }
+          index={3}
+          key="3"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 4",
+                },
+              ],
+              "id": "4",
+              "type": "Image",
+            }
+          }
+          index={4}
+          key="4"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+      </slideshow__SlideshowDeck>
+    </slideshow__SlideshowSwipeArea>
+    <slideshow__SlideshowNavigateLeft
+      backButtonDisabled={false}
+      disabled={false}
+      fullscreen={false}
+      icon={<ArrowLeftIcon />}
+      onClick={[Function]}
+      sort="circle"
+      weight="tertiary"
+    />
+    <slideshow__SlideshowNavigateRight
+      disabled={false}
+      fullscreen={false}
+      icon={<ArrowRightIcon />}
+      navigationEnabled={true}
+      onClick={[Function]}
+      sort="circle"
+      weight="tertiary"
+    />
+    <slideshow__SlideshowIndex
+      fullscreen={false}
+      indexHidden={false}
+    >
+      <slideshow__SlideshowIndexPaging>
+        <SlideshowIcon />
+         
+        <span>
+          3
+           / 
+          5
+        </span>
+      </slideshow__SlideshowIndexPaging>
+      <slideshow__SlideshowIndexFullscreen
+        onClick={[Function]}
+      >
+        <FullscreenIcon />
+      </slideshow__SlideshowIndexFullscreen>
+    </slideshow__SlideshowIndex>
+  </slideshow__SlideShowContainer>
+</EnsureDefaultTheme>
+`;
+
+exports[`<Slideshow /> should render with Photo aspect ratio by default 1`] = `
+<EnsureDefaultTheme>
+  <slideshow__SlideShowContainer
+    className="kinja-slideshow"
+    fullscreen={false}
+    toggle={false}
+    wide={false}
+  >
+    <slideshow__SlideshowSwipeArea
+      onClick={null}
+    >
+      <slideshow__SlideshowDeck
+        key="0"
+        style={
+          Object {
+            "wrapper": Object {
+              "display": "flex",
+              "height": "100%",
+              "overflow": "hidden",
+              "width": "100%",
+            },
+          }
+        }
+        swipeOptions={
+          Object {
+            "callback": [Function],
+            "continuous": false,
+            "speed": 150,
+            "startSlide": 0,
+            "swiping": [Function],
+          }
+        }
+      >
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 0",
+                },
+              ],
+              "id": "0",
+              "type": "Image",
+            }
+          }
+          index={0}
+          key="0"
+          load={true}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 1",
+                },
+              ],
+              "id": "1",
+              "type": "Image",
+            }
+          }
+          index={1}
+          key="1"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 2",
+                },
+              ],
+              "id": "2",
+              "type": "Image",
+            }
+          }
+          index={2}
+          key="2"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 3",
+                },
+              ],
+              "id": "3",
+              "type": "Image",
+            }
+          }
+          index={3}
+          key="3"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+        <Slide
+          aspectRatio="Photo"
+          fullscreenEnabled={true}
+          image={
+            Object {
+              "caption": Array [
+                TextNode {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "caption 4",
+                },
+              ],
+              "id": "4",
+              "type": "Image",
+            }
+          }
+          index={4}
+          key="4"
+          load={false}
+          onImageClick={[Function]}
+          postHeadline="A jolly good article"
+        />
+      </slideshow__SlideshowDeck>
+    </slideshow__SlideshowSwipeArea>
+    <slideshow__SlideshowNavigateLeft
+      backButtonDisabled={true}
+      disabled={true}
+      fullscreen={false}
+      icon={<ArrowLeftIcon />}
+      onClick={[Function]}
+      sort="circle"
+      weight="tertiary"
+    />
+    <slideshow__SlideshowNavigateRight
+      disabled={false}
+      fullscreen={false}
+      icon={<ArrowRightIcon />}
+      navigationEnabled={true}
+      onClick={[Function]}
+      sort="circle"
+      weight="tertiary"
+    />
+    <slideshow__SlideshowIndex
+      fullscreen={false}
+      indexHidden={false}
+    >
+      <slideshow__SlideshowIndexPaging>
+        <SlideshowIcon />
+         
+        <span>
+          1
+           / 
+          5
+        </span>
+      </slideshow__SlideshowIndexPaging>
+      <slideshow__SlideshowIndexFullscreen
+        onClick={[Function]}
+      >
+        <FullscreenIcon />
+      </slideshow__SlideshowIndexFullscreen>
+    </slideshow__SlideshowIndex>
+  </slideshow__SlideShowContainer>
+</EnsureDefaultTheme>
+`;
+
+exports[`<Slideshow /> should render with Wide aspect ratio if set 1`] = `
+<Slideshow
+  adDelay={1}
+  adsEnabled={false}
+  adsFrequency={2}
+  aspectRatio="Wide"
+  desktop={true}
+  facebookShareUrl="https://fb.com"
+  headline="A jolly good article"
+  onBackClick={[Function]}
+  onForwardClick={[Function]}
+  onFullscreenAdLoad={[Function]}
+  onFullscreenToggle={[Function]}
+  onNavigate={[Function]}
+  onUpcomingAd={[Function]}
+  permalink="https://gizmodo.com"
+  preloadAmount={1}
+  renderInlineDataForHydration={false}
+  slides={
+    Array [
+      Object {
+        "caption": Array [
+          TextNode {
+            "styles": Array [],
+            "type": "Text",
+            "value": "caption 0",
+          },
+        ],
+        "id": "0",
+        "type": "Image",
+      },
+      Object {
+        "caption": Array [
+          TextNode {
+            "styles": Array [],
+            "type": "Text",
+            "value": "caption 1",
+          },
+        ],
+        "id": "1",
+        "type": "Image",
+      },
+      Object {
+        "caption": Array [
+          TextNode {
+            "styles": Array [],
+            "type": "Text",
+            "value": "caption 2",
+          },
+        ],
+        "id": "2",
+        "type": "Image",
+      },
+      Object {
+        "caption": Array [
+          TextNode {
+            "styles": Array [],
+            "type": "Text",
+            "value": "caption 3",
+          },
+        ],
+        "id": "3",
+        "type": "Image",
+      },
+      Object {
+        "caption": Array [
+          TextNode {
+            "styles": Array [],
+            "type": "Text",
+            "value": "caption 4",
+          },
+        ],
+        "id": "4",
+        "type": "Image",
+      },
+    ]
+  }
+  twitterShareUrl="https://twitter.com"
+/>
+`;
+
+exports[`<Slideshow /> should render with inlined data attributes if set 1`] = `"[{\\"type\\":\\"Image\\",\\"caption\\":[{\\"type\\":\\"Text\\",\\"value\\":\\"caption 0\\",\\"styles\\":[]}],\\"id\\":\\"0\\"},{\\"type\\":\\"Image\\",\\"caption\\":[{\\"type\\":\\"Text\\",\\"value\\":\\"caption 1\\",\\"styles\\":[]}],\\"id\\":\\"1\\"},{\\"type\\":\\"Image\\",\\"caption\\":[{\\"type\\":\\"Text\\",\\"value\\":\\"caption 2\\",\\"styles\\":[]}],\\"id\\":\\"2\\"},{\\"type\\":\\"Image\\",\\"caption\\":[{\\"type\\":\\"Text\\",\\"value\\":\\"caption 3\\",\\"styles\\":[]}],\\"id\\":\\"3\\"},{\\"type\\":\\"Image\\",\\"caption\\":[{\\"type\\":\\"Text\\",\\"value\\":\\"caption 4\\",\\"styles\\":[]}],\\"id\\":\\"4\\"}]"`;

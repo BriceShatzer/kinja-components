@@ -1,0 +1,953 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<InlineNode /> amazon urls correct amazon url 1`] = `
+Object {
+  "query": Object {
+    "ascsubtag": "38f3d2393efa50203d9e72e0c4edf4a88371c775",
+    "tag": "amazonAffiliateTag",
+  },
+  "url": "https://www.amazon.com/dp/B0771P9WWQ/",
+}
+`;
+
+exports[`<InlineNode /> amazon urls should replace amazon urls with tag information 1`] = `
+.c1 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0 {
+  color: #222;
+  -webkit-transition: color 0.1s ease-out;
+  transition: color 0.1s ease-out;
+  box-shadow: inset 0 -2px 0 #0A7BC2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0:hover {
+  color: #0A7BC2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+<p>
+  <span>
+    <a
+      class="c0 js_link c1"
+      data-amazonasin="B01DFKC2SO"
+      data-amazonsubtag="[t|link[a|B01DFKC2SO[lt|text"
+      data-amazontag="kinja-20"
+      data-ga="[[\\"Commerce\\",\\" - \\",\\"B01DFKC2SO\\"]]"
+      href="https://amazon.com/dp/B01DFKC2SO?ascsubtag=92f5fb9c18a6ce14242c07a474fa46ae0c8dbc98&tag=kinja-20"
+      target="_top"
+    >
+      Kinja
+    </a>
+  </span>
+</p>
+`;
+
+exports[`<InlineNode /> amazon urls should replace amazon urls with tag information on gmg blog 1`] = `
+.c1 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0 {
+  color: #222;
+  -webkit-transition: color 0.1s ease-out;
+  transition: color 0.1s ease-out;
+  box-shadow: inset 0 -2px 0 #0A7BC2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0:hover {
+  color: #0A7BC2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+<p>
+  <span>
+    <a
+      class="c0 js_link c1"
+      data-amazonasin="B01DFKC2SO"
+      data-amazonsubtag="[t|link[p|postid[a|B01DFKC2SO[au|authorid[b|deals[lt|text"
+      data-amazontag="kinjadeals-20"
+      data-ga="[[\\"Commerce\\",\\"deals - posttitle\\",\\"B01DFKC2SO\\"]]"
+      href="https://amazon.com/dp/B01DFKC2SO?ascsubtag=3aa72537067729dc3bae93f3ad02d06983508877&tag=kinjadeals-20"
+      target="_top"
+    >
+      Kinja
+    </a>
+  </span>
+</p>
+`;
+
+exports[`<InlineNode /> amazon urls should replace amazon urls with tag information when everything is provided 1`] = `
+.c1 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0 {
+  color: #222;
+  -webkit-transition: color 0.1s ease-out;
+  transition: color 0.1s ease-out;
+  box-shadow: inset 0 -2px 0 #0A7BC2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0:hover {
+  color: #0A7BC2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+<p>
+  <span>
+    <a
+      class="c0 js_link c1"
+      data-amazonasin="B0771P9WWQ"
+      data-amazonsubtag="[t|link[p|postid[a|B0771P9WWQ[au|authorid[b|Blog group[lt|text"
+      data-amazontag="amazonAffiliateTag"
+      data-ga="[[\\"Commerce\\",\\"mborlay - posttitle\\",\\"B0771P9WWQ\\"]]"
+      href="https://www.amazon.com/dp/B0771P9WWQ/?ascsubtag=38f3d2393efa50203d9e72e0c4edf4a88371c775&tag=amazonAffiliateTag"
+      target="_top"
+    >
+      Kinja
+    </a>
+  </span>
+</p>
+`;
+
+exports[`<InlineNode /> escaping should escape double quote in the target property on Link nodes 1`] = `
+.c1 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0 {
+  color: #222;
+  -webkit-transition: color 0.1s ease-out;
+  transition: color 0.1s ease-out;
+  box-shadow: inset 0 -2px 0 #0A7BC2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0:hover {
+  color: #0A7BC2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+<p>
+  <span>
+    <a
+      class="c0 js_link c1"
+      data-ga="[[\\"Embedded Url\\",\\"Internal link\\",\\"#url\\",{\\"metric25\\":1}]]"
+      href="#url"
+    >
+      foo
+    </a>
+  </span>
+</p>
+`;
+
+exports[`<InlineNode /> escaping should escape html tags in Link text 1`] = `
+.c1 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0 {
+  color: #222;
+  -webkit-transition: color 0.1s ease-out;
+  transition: color 0.1s ease-out;
+  box-shadow: inset 0 -2px 0 #0A7BC2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0:hover {
+  color: #0A7BC2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+<p>
+  <span>
+    <a
+      class="c0 js_link c1"
+      data-ga="[[\\"Embedded Url\\",\\"Internal link\\",\\"#url\\",{\\"metric25\\":1}]]"
+      href="#url"
+    >
+      &lt;u&gt;foo&lt;/u&gt;
+    </a>
+  </span>
+</p>
+`;
+
+exports[`<InlineNode /> escaping should escape html tags in Text node values 1`] = `
+<p>
+  &lt;u&gt;foo&lt;/u&gt;
+</p>
+`;
+
+exports[`<InlineNode /> should render line break should insert LB between text nodes 1`] = `
+<p>
+  Foo
+  <br />
+  Bar
+</p>
+`;
+
+exports[`<InlineNode /> should render line break should not insert into the current open style 1`] = `
+<p>
+  <u>
+    Foo
+  </u>
+  <br />
+  <strong>
+    Bar
+  </strong>
+</p>
+`;
+
+exports[`<InlineNode /> should render line break should render a single one 1`] = `
+<p>
+  <br />
+</p>
+`;
+
+exports[`<InlineNode /> should render links should filter out data: links 1`] = `
+.c1 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0 {
+  color: #222;
+  -webkit-transition: color 0.1s ease-out;
+  transition: color 0.1s ease-out;
+  box-shadow: inset 0 -2px 0 #0A7BC2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0:hover {
+  color: #0A7BC2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+<p>
+  <span>
+    <a
+      class="c0 js_link c1"
+      data-ga="[[\\"Embedded Url\\",\\"Internal link\\",\\"\\",{\\"metric25\\":1}]]"
+      href=""
+      target="_blank"
+    >
+      <strong>
+        Kinja
+      </strong>
+    </a>
+  </span>
+</p>
+`;
+
+exports[`<InlineNode /> should render links should filter out javascript links 1`] = `
+.c1 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0 {
+  color: #222;
+  -webkit-transition: color 0.1s ease-out;
+  transition: color 0.1s ease-out;
+  box-shadow: inset 0 -2px 0 #0A7BC2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0:hover {
+  color: #0A7BC2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+<p>
+  <span>
+    <a
+      class="c0 js_link c1"
+      data-ga="[[\\"Embedded Url\\",\\"Internal link\\",\\"\\",{\\"metric25\\":1}]]"
+      href=""
+      target="_blank"
+    >
+      <strong>
+        Kinja
+      </strong>
+    </a>
+  </span>
+</p>
+`;
+
+exports[`<InlineNode /> should render links should not apply previous styles on the link 1`] = `
+.c1 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0 {
+  color: #222;
+  -webkit-transition: color 0.1s ease-out;
+  transition: color 0.1s ease-out;
+  box-shadow: inset 0 -2px 0 #0A7BC2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0:hover {
+  color: #0A7BC2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+<p>
+  <u>
+    Foo
+  </u>
+  <span>
+    <a
+      class="c0 js_link c1"
+      data-ga="[[\\"Embedded Url\\",\\"Internal link\\",\\"#url\\",{\\"metric25\\":1}]]"
+      href="#url"
+    >
+      Kinja
+    </a>
+  </span>
+</p>
+`;
+
+exports[`<InlineNode /> should render links should not apply previous styles on the link 2 1`] = `
+.c1 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0 {
+  color: #222;
+  -webkit-transition: color 0.1s ease-out;
+  transition: color 0.1s ease-out;
+  box-shadow: inset 0 -2px 0 #0A7BC2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0:hover {
+  color: #0A7BC2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+<p>
+  <u>
+    Foo
+  </u>
+  <span>
+    <a
+      class="c0 js_link c1"
+      data-ga="[[\\"Embedded Url\\",\\"Internal link\\",\\"#url\\",{\\"metric25\\":1}]]"
+      href="#url"
+    >
+      Kinja
+    </a>
+  </span>
+  <u>
+    Foo
+  </u>
+  <span>
+    <a
+      class="c0 js_link c1"
+      data-ga="[[\\"Embedded Url\\",\\"Internal link\\",\\"#url\\",{\\"metric25\\":1}]]"
+      href="#url"
+    >
+      Kinja
+    </a>
+  </span>
+</p>
+`;
+
+exports[`<InlineNode /> should render links should not merge links 1`] = `
+.c1 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0 {
+  color: #222;
+  -webkit-transition: color 0.1s ease-out;
+  transition: color 0.1s ease-out;
+  box-shadow: inset 0 -2px 0 #0A7BC2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0:hover {
+  color: #0A7BC2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+<p>
+  <span>
+    <a
+      class="c0 js_link c1"
+      data-ga="[[\\"Embedded Url\\",\\"Internal link\\",\\"#url\\",{\\"metric25\\":1}]]"
+      href="#url"
+    >
+      Kinja
+    </a>
+  </span>
+  <span>
+    <a
+      class="c0 js_link c1"
+      data-ga="[[\\"Embedded Url\\",\\"Internal link\\",\\"#url\\",{\\"metric25\\":1}]]"
+      href="#url"
+    >
+      Kinja
+    </a>
+  </span>
+</p>
+`;
+
+exports[`<InlineNode /> should render links should not merge styled links 1`] = `
+.c1 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0 {
+  color: #222;
+  -webkit-transition: color 0.1s ease-out;
+  transition: color 0.1s ease-out;
+  box-shadow: inset 0 -2px 0 #0A7BC2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0:hover {
+  color: #0A7BC2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+<p>
+  <span>
+    <a
+      class="c0 js_link c1"
+      data-ga="[[\\"Embedded Url\\",\\"Internal link\\",\\"#url\\",{\\"metric25\\":1}]]"
+      href="#url"
+    >
+      <u>
+        <em>
+          Kinja
+        </em>
+      </u>
+    </a>
+  </span>
+  <span>
+    <a
+      class="c0 js_link c1"
+      data-ga="[[\\"Embedded Url\\",\\"Internal link\\",\\"#url\\",{\\"metric25\\":1}]]"
+      href="#url"
+    >
+      <u>
+        <em>
+          Kinja
+        </em>
+      </u>
+    </a>
+  </span>
+</p>
+`;
+
+exports[`<InlineNode /> should render links should not merge styles outside the link 1`] = `
+.c1 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0 {
+  color: #222;
+  -webkit-transition: color 0.1s ease-out;
+  transition: color 0.1s ease-out;
+  box-shadow: inset 0 -2px 0 #0A7BC2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0:hover {
+  color: #0A7BC2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+<p>
+  <u>
+    Foo
+  </u>
+  <span>
+    <a
+      class="c0 js_link c1"
+      data-ga="[[\\"Embedded Url\\",\\"Internal link\\",\\"#url\\",{\\"metric25\\":1}]]"
+      href="#url"
+    >
+      <u>
+        KinjaKinja
+      </u>
+    </a>
+  </span>
+  <u>
+    Bar
+  </u>
+</p>
+`;
+
+exports[`<InlineNode /> should render links should render a single link 1`] = `
+.c1 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0 {
+  color: #222;
+  -webkit-transition: color 0.1s ease-out;
+  transition: color 0.1s ease-out;
+  box-shadow: inset 0 -2px 0 #0A7BC2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0:hover {
+  color: #0A7BC2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+<p>
+  <span>
+    <a
+      class="c0 js_link c1"
+      data-ga="[[\\"Embedded Url\\",\\"Internal link\\",\\"#url\\",{\\"metric25\\":1}]]"
+      href="#url"
+      target="_blank"
+    >
+      Kinja
+    </a>
+  </span>
+</p>
+`;
+
+exports[`<InlineNode /> should render links should render a single link with bold text 1`] = `
+.c1 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0 {
+  color: #222;
+  -webkit-transition: color 0.1s ease-out;
+  transition: color 0.1s ease-out;
+  box-shadow: inset 0 -2px 0 #0A7BC2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0:hover {
+  color: #0A7BC2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+<p>
+  <span>
+    <a
+      class="c0 js_link c1"
+      data-ga="[[\\"Embedded Url\\",\\"Internal link\\",\\"#url\\",{\\"metric25\\":1}]]"
+      href="#url"
+      target="_blank"
+    >
+      <strong>
+        Kinja
+      </strong>
+    </a>
+  </span>
+</p>
+`;
+
+exports[`<InlineNode /> should render links should render a single link with multiple inline nodes in it 1`] = `
+.c1 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0 {
+  color: #222;
+  -webkit-transition: color 0.1s ease-out;
+  transition: color 0.1s ease-out;
+  box-shadow: inset 0 -2px 0 #0A7BC2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0:hover {
+  color: #0A7BC2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+<p>
+  <span>
+    <a
+      class="c0 js_link c1"
+      data-ga="[[\\"Embedded Url\\",\\"Internal link\\",\\"#url\\",{\\"metric25\\":1}]]"
+      href="#url"
+    >
+      <strong>
+        foo
+      </strong>
+      bar
+      <br />
+      bar
+    </a>
+  </span>
+</p>
+`;
+
+exports[`<InlineNode /> should render links should render a single link without target 1`] = `
+.c1 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0 {
+  color: #222;
+  -webkit-transition: color 0.1s ease-out;
+  transition: color 0.1s ease-out;
+  box-shadow: inset 0 -2px 0 #0A7BC2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0:hover {
+  color: #0A7BC2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+<p>
+  <span>
+    <a
+      class="c0 js_link c1"
+      data-ga="[[\\"Embedded Url\\",\\"Internal link\\",\\"#url\\",{\\"metric25\\":1}]]"
+      href="#url"
+    >
+      Kinja
+    </a>
+  </span>
+</p>
+`;
+
+exports[`<InlineNode /> should render links should render an external link with a target 1`] = `
+.c1 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0 {
+  color: #222;
+  -webkit-transition: color 0.1s ease-out;
+  transition: color 0.1s ease-out;
+  box-shadow: inset 0 -2px 0 #0A7BC2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0:hover {
+  color: #0A7BC2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+<p>
+  <span>
+    <a
+      class="c0 js_link c1"
+      data-ga="[[\\"Embedded Url\\",\\"External link\\",\\"https://example.com\\",{\\"metric25\\":1}]]"
+      href="https://example.com"
+      rel="noopener noreferrer"
+      target="_top"
+    >
+      Kinja
+    </a>
+  </span>
+</p>
+`;
+
+exports[`<InlineNode /> should render links should render an external link without a target 1`] = `
+.c1 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0 {
+  color: #222;
+  -webkit-transition: color 0.1s ease-out;
+  transition: color 0.1s ease-out;
+  box-shadow: inset 0 -2px 0 #0A7BC2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0:hover {
+  color: #0A7BC2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+<p>
+  <span>
+    <a
+      class="c0 js_link c1"
+      data-ga="[[\\"Embedded Url\\",\\"External link\\",\\"https://example.com\\",{\\"metric25\\":1}]]"
+      href="https://example.com"
+      rel="noopener noreferrer"
+      target="_blank"
+    >
+      Kinja
+    </a>
+  </span>
+</p>
+`;
+
+exports[`<InlineNode /> should render links should render an internal link with a target 1`] = `
+.c1 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0 {
+  color: #222;
+  -webkit-transition: color 0.1s ease-out;
+  transition: color 0.1s ease-out;
+  box-shadow: inset 0 -2px 0 #0A7BC2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0:hover {
+  color: #0A7BC2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+<p>
+  <span>
+    <a
+      class="c0 js_link c1"
+      data-ga="[[\\"Embedded Url\\",\\"Internal link\\",\\"https://gizmodo.com\\",{\\"metric25\\":1}]]"
+      href="https://gizmodo.com"
+      target="_blank"
+    >
+      Kinja
+    </a>
+  </span>
+</p>
+`;
+
+exports[`<InlineNode /> should render links should render an internal link without a target 1`] = `
+.c1 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0 {
+  color: #222;
+  -webkit-transition: color 0.1s ease-out;
+  transition: color 0.1s ease-out;
+  box-shadow: inset 0 -2px 0 #0A7BC2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0:hover {
+  color: #0A7BC2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+<p>
+  <span>
+    <a
+      class="c0 js_link c1"
+      data-ga="[[\\"Embedded Url\\",\\"Internal link\\",\\"https://gizmodo.com\\",{\\"metric25\\":1}]]"
+      href="https://gizmodo.com"
+    >
+      Kinja
+    </a>
+  </span>
+</p>
+`;
+
+exports[`<InlineNode /> should render text should merge styles correctly should merge nested subsequent styles 1`] = `
+<p>
+  <strong>
+    <em>
+      FooBar
+    </em>
+  </strong>
+</p>
+`;
+
+exports[`<InlineNode /> should render text should merge styles correctly should merge nested subsequent styles 2 1`] = `
+<p>
+  <strong>
+    <em>
+      Foo
+    </em>
+    Bar
+  </strong>
+</p>
+`;
+
+exports[`<InlineNode /> should render text should merge styles correctly should merge nested subsequent styles 3 1`] = `
+<p>
+  <strong>
+    <em>
+      Foo
+    </em>
+    Bar
+  </strong>
+  <u>
+    42
+  </u>
+</p>
+`;
+
+exports[`<InlineNode /> should render text should merge styles correctly should merge nested subsequent styles and group properly 1`] = `
+<p>
+  <strong>
+    Foo
+    <em>
+      <u>
+        Bar
+      </u>
+    </em>
+  </strong>
+  <em>
+    <u>
+      42
+    </u>
+  </em>
+  end
+</p>
+`;
+
+exports[`<InlineNode /> should render text should merge styles correctly should merge subsequent styles 1`] = `
+<p>
+  <strong>
+    FooBar
+  </strong>
+</p>
+`;
+
+exports[`<InlineNode /> should render text should render bold 1`] = `
+<p>
+  <strong>
+    Kinja
+  </strong>
+</p>
+`;
+
+exports[`<InlineNode /> should render text should render code 1`] = `
+<p>
+  <code>
+    Kinja
+  </code>
+</p>
+`;
+
+exports[`<InlineNode /> should render text should render italic 1`] = `
+<p>
+  <em>
+    Kinja
+  </em>
+</p>
+`;
+
+exports[`<InlineNode /> should render text should render multiple styles nested 1`] = `
+<p>
+  <strong>
+    <em>
+      <small>
+        <u>
+          Kinja
+        </u>
+      </small>
+    </em>
+  </strong>
+</p>
+`;
+
+exports[`<InlineNode /> should render text should render small 1`] = `
+<p>
+  <small>
+    Kinja
+  </small>
+</p>
+`;
+
+exports[`<InlineNode /> should render text should render struck 1`] = `
+<p>
+  <strike>
+    Kinja
+  </strike>
+</p>
+`;
+
+exports[`<InlineNode /> should render text should render subscript 1`] = `
+<p>
+  <sub>
+    Kinja
+  </sub>
+</p>
+`;
+
+exports[`<InlineNode /> should render text should render superscript 1`] = `
+<p>
+  <sup>
+    Kinja
+  </sup>
+</p>
+`;
+
+exports[`<InlineNode /> should render text should render underline 1`] = `
+<p>
+  <u>
+    Kinja
+  </u>
+</p>
+`;
+
+exports[`<InlineNode /> whitespace should replace newline with space 1`] = `
+<p>
+  the space between
+</p>
+`;

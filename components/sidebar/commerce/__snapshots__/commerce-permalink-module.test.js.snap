@@ -1,0 +1,2231 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<CommercePermalinkModule /> should render 1`] = `
+<Theme
+  theme={
+    Object {
+      "breakpointBanner": "969px",
+      "breakpointMedium": "53.125em",
+      "color": Object {
+        "alert": "#EEB544",
+        "amazon": "#F5C056",
+        "backgroundLayer": "rgba(0,0,0,0.45)",
+        "backgroundLight": "#E6F2F8",
+        "black": "#000",
+        "blackOverlay": "rgba(0,0,0,0.7)",
+        "bodytext": "#222",
+        "commerce": "#72AD75",
+        "darkBlackOverlay": "rgba(0,0,0,0.9)",
+        "darkgray": "#666",
+        "darksmoke": "#222",
+        "error": "#D24A1D",
+        "facebook": "#1877F2",
+        "foregroundLayer": "rgba(0,0,0,0.4)",
+        "google": "#DB4437",
+        "gray": "#7D7D7D",
+        "instagram": "#C32AA3",
+        "lightgray": "#E5E5E5",
+        "linkedin": "#0077B5",
+        "logo": "#000",
+        "midgray": "#CCC",
+        "primary": "#0A7BC2",
+        "primaryLight": "#0C91E4",
+        "rss": "#7D7D7D",
+        "secondarytext": "#7D7D7D",
+        "success": "#23891F",
+        "twitter": "#1DA1F2",
+        "white": "#FFF",
+        "whiteOverlay": "rgba(255,255,255,0.7)",
+        "whitesmoke": "#F5F5F5",
+        "youtube": "#FF0000",
+      },
+      "columnGutter": "2.25rem",
+      "columnGutter19": Object {
+        "largeUp": "1.5rem",
+        "small19": "1rem",
+        "xlargeUp": "2rem",
+      },
+      "columnPadding": "1.125rem",
+      "columnPadding19": Object {
+        "largeUp": "0.75rem",
+        "small19": "0.5rem",
+        "xlargeUp": "1rem",
+      },
+      "featuredContentWidth": "1024px",
+      "globalNavHeight": "80px",
+      "linkTransition": "0.1s ease-out",
+      "mainContainerWidth": "66.5%",
+      "mainContentMaxWidth": "800px",
+      "pageWidth": "1336px",
+      "postContentMaxWidth": "636px",
+      "scrollbackNavHeight": "60px",
+      "sidebarContainerWidth": "33.5%",
+      "sidebarContentMaxWidth": "360px",
+      "sidebarContentMinWidth": "300px",
+      "slideshowTransitionDuration": "0.2s",
+      "typography": Object {
+        "body": Object {
+          "fontFamily": "ElizabethSerif, Georgia, serif",
+          "fontSizes": Object {
+            "large": "27px",
+            "medium": "19px",
+            "small": "15px",
+            "xlarge": "30px",
+            "xsmall": "14px",
+          },
+          "lineHeights": Object {
+            "large": "40px",
+            "medium": "32px",
+            "small": "24px",
+            "xlarge": "44px",
+            "xsmall": "24px",
+          },
+        },
+        "embiggenedHeadlineSize": "34px",
+        "headline": Object {
+          "fontFamily": "ProximaNovaCond, sans-serif",
+          "fontSizes": Object {
+            "large": "32px",
+            "medium": "24px",
+            "small": "19px",
+            "xlarge": "37px",
+            "xsmall": "16px",
+          },
+          "lineHeights": Object {
+            "large": "40px",
+            "medium": "32px",
+            "small": "24px",
+            "xlarge": "44px",
+            "xsmall": "24px",
+          },
+        },
+        "headlineLineHeight": "1.3",
+        "headlineSize": "24px",
+        "permalinkHeadlineLineHeight": "1.2",
+        "permalinkHeadlineSize": Object {
+          "mediumUp": "2.5rem",
+          "small": "2rem",
+          "xxxlargeUp": "3rem",
+        },
+        "primary": Object {
+          "fontFamily": "ProximaNovaCond, sans-serif",
+          "fontSizes": Object {
+            "large": "32px",
+            "medium": "24px",
+            "small": "19px",
+            "xlarge": "37px",
+            "xsmall": "16px",
+          },
+          "lineHeights": Object {
+            "large": "40px",
+            "medium": "32px",
+            "small": "24px",
+            "xlarge": "44px",
+            "xsmall": "24px",
+          },
+        },
+        "serif": Object {
+          "fontFamily": "ElizabethSerif, Georgia, serif",
+          "fontSizes": Object {
+            "large": "27px",
+            "medium": "19px",
+            "small": "15px",
+            "xlarge": "30px",
+            "xsmall": "14px",
+          },
+          "lineHeights": Object {
+            "large": "40px",
+            "medium": "32px",
+            "small": "24px",
+            "xlarge": "44px",
+            "xsmall": "24px",
+          },
+        },
+        "tertiary": Object {
+          "fontFamily": "FiraSans, sans-serif",
+          "fontSizes": Object {
+            "large": "29px",
+            "medium": "21px",
+            "small": "17px",
+            "xlarge": "35px",
+            "xsmall": "15px",
+          },
+          "lineHeights": Object {
+            "large": "40px",
+            "medium": "32px",
+            "small": "24px",
+            "xlarge": "44px",
+            "xsmall": "24px",
+          },
+        },
+        "utility": Object {
+          "fontFamily": "ProximaNovaCond, sans-serif",
+          "fontSizes": Object {
+            "large": "32px",
+            "medium": "24px",
+            "small": "19px",
+            "xlarge": "37px",
+            "xsmall": "16px",
+          },
+          "lineHeights": Object {
+            "large": "40px",
+            "medium": "32px",
+            "small": "24px",
+            "xlarge": "44px",
+            "xsmall": "24px",
+          },
+        },
+      },
+    }
+  }
+>
+  <commerce-permalink-module__Container>
+    <commerce-permalink-module__Header>
+      Popular Deals on The Inventory
+    </commerce-permalink-module__Header>
+    <commerce-permalink-module__CardWrapper
+      key="1838849649"
+    >
+      <Link
+        events={
+          Array [
+            Array [
+              "Popular commerce click",
+              "position 0",
+              undefined,
+            ],
+          ]
+        }
+        href="undefined?ks=commercerecirc_permalink"
+      >
+        <SidebarImage
+          post={
+            Object {
+              "aboveHeadline": null,
+              "adSettings": null,
+              "allowReplies": true,
+              "approved": true,
+              "author": null,
+              "authorId": "5727177402741770316",
+              "authorIds": Array [
+                "5727177402741770316",
+              ],
+              "authors": Array [],
+              "body": Array [
+                Object {
+                  "alignment": "Bleed",
+                  "attribution": Array [
+                    Object {
+                      "credit": Array [
+                        Object {
+                          "styles": Array [],
+                          "type": "Text",
+                          "value": "Shep McAllister",
+                        },
+                      ],
+                      "label": "Graphic",
+                      "source": Array [],
+                    },
+                  ],
+                  "caption": Array [
+                    Object {
+                      "reference": "https://www.amazon.com/Nintendo-Switch-Gray-Joy%E2%80%91-HAC-001-Amazon-com/dp/B07Y9ZCWL9",
+                      "type": "Link",
+                      "value": Array [
+                        Object {
+                          "styles": Array [],
+                          "type": "Text",
+                          "value": "Nintendo Switch (New Model) + $25 Amazon Gift Card",
+                        },
+                      ],
+                    },
+                    Object {
+                      "styles": Array [],
+                      "type": "Text",
+                      "value": " | $300 | Amazon",
+                    },
+                  ],
+                  "format": "jpg",
+                  "height": 720,
+                  "id": "s0eviow28a62lsjitr0t",
+                  "lightbox": true,
+                  "syndicationRights": false,
+                  "type": "Image",
+                  "width": 1280,
+                },
+                Object {
+                  "containers": Array [],
+                  "type": "Paragraph",
+                  "value": Array [
+                    Object {
+                      "styles": Array [],
+                      "type": "Text",
+                      "value": "We haven’t seen many big deals on the ",
+                    },
+                    Object {
+                      "reference": "https://kotaku.com/how-to-spot-the-new-nintendo-switch-with-better-battery-1837209189",
+                      "type": "Link",
+                      "value": Array [
+                        Object {
+                          "styles": Array [],
+                          "type": "Text",
+                          "value": "new Nintendo Switch with drastically improved battery life",
+                        },
+                      ],
+                    },
+                    Object {
+                      "styles": Array [],
+                      "type": "Text",
+                      "value": ", but right now, ",
+                    },
+                    Object {
+                      "reference": "https://www.amazon.com/Nintendo-Switch-Gray-Joy%E2%80%91-HAC-001-Amazon-com/dp/B07Y9ZCWL9",
+                      "type": "Link",
+                      "value": Array [
+                        Object {
+                          "styles": Array [],
+                          "type": "Text",
+                          "value": "Amazon will throw in a $25 gift card when you buy one",
+                        },
+                      ],
+                    },
+                    Object {
+                      "styles": Array [],
+                      "type": "Text",
+                      "value": ". That’s pretty solid as far as Nintendo Switch discounts go, and about as good a deal as we’ve seen on this new model.",
+                    },
+                    Object {
+                      "type": "LineBreak",
+                    },
+                  ],
+                },
+                Object {
+                  "style": "Normal",
+                  "type": "LinkPreview",
+                  "url": "https://kotaku.com/how-to-spot-the-new-nintendo-switch-with-better-battery-1837209189",
+                },
+                Object {
+                  "containers": Array [],
+                  "type": "Paragraph",
+                  "value": Array [
+                    Object {
+                      "styles": Array [
+                        "Bold",
+                      ],
+                      "type": "Text",
+                      "value": "Hint",
+                    },
+                    Object {
+                      "styles": Array [],
+                      "type": "Text",
+                      "value": ": Spend your $25 gift card on a ",
+                    },
+                    Object {
+                      "reference": "https://www.amazon.com/Nintendo-Switch-Pro-Controller/dp/B01NAWKYZ0",
+                      "type": "Link",
+                      "value": Array [
+                        Object {
+                          "styles": Array [],
+                          "type": "Text",
+                          "value": "Pro controller",
+                        },
+                      ],
+                    },
+                    Object {
+                      "styles": Array [],
+                      "type": "Text",
+                      "value": ". You won’t regret it.",
+                    },
+                  ],
+                },
+                Object {
+                  "style": "CommerceCondensed",
+                  "type": "LinkPreview",
+                  "url": "https://www.amazon.com/Nintendo-Switch-Gray-Joy%E2%80%91-HAC-001-Amazon-com/dp/B07Y9ZCWL9",
+                },
+                Object {
+                  "containers": Array [],
+                  "style": "Line",
+                  "type": "HorizontalRule",
+                },
+                Object {
+                  "id": "1177695802598285314",
+                  "thumbnail": Object {
+                    "format": "jpg",
+                    "id": "hvki4ykn9hfcba6rtloh",
+                  },
+                  "type": "Twitter",
+                },
+              ],
+              "byline": "",
+              "defaultBlogId": 86286,
+              "featuredMedia": null,
+              "firstSentence": "We haven’t seen many big deals on the new Nintendo Switch with drastically improved battery life, bu",
+              "headline": "Buy a New Nintendo Switch (With Improved Battery Life), Get a Bonus $25 Amazon Gift Card",
+              "id": 1838849649,
+              "images": Array [
+                Object {
+                  "format": "jpg",
+                  "height": 720,
+                  "id": "s0eviow28a62lsjitr0t",
+                  "width": 1280,
+                },
+              ],
+              "isBlip": false,
+              "isFeatured": false,
+              "isRoundup": false,
+              "isVideo": false,
+              "largeOnStream": false,
+              "lastUpdateTimeMillis": 1570482616829,
+              "leftOfHeadline": Object {
+                "format": "jpg",
+                "frozenFormat": "jpg",
+                "height": 180,
+                "id": "s0eviow28a62lsjitr0t",
+                "isAnimated": false,
+                "src": "UNUSED",
+                "type": "image",
+                "width": 320,
+              },
+              "length": 357,
+              "mainMedia": null,
+              "parent": null,
+              "parentAuthorId": null,
+              "parentAuthorIds": Array [],
+              "parentId": null,
+              "permalink": "https://kinjadeals.theinventory.com/buy-a-new-nintendo-switch-with-improved-battery-life-1838849649",
+              "permalinkHost": "https://kinjadeals.theinventory.com",
+              "permalinkPath": "/buy-a-new-nintendo-switch-with-improved-battery-life-1838849649",
+              "permalinkRedirect": null,
+              "plaintext": "We haven’t seen many big deals on the new Nintendo Switch with drastically improved battery life, but right now, Amazon will throw in a $25 gift card when you buy one. That’s pretty solid as far as Nintendo Switch discounts go, and about as good a deal as we’ve seen on this new model.",
+              "postId": 1838849649,
+              "properties": "{\\"sharingMainImageSetInDistTools\\":true,\\"dropCapEnabled\\":false,\\"isEmbiggened\\":false,\\"autoRepostDisabled\\":false,\\"impactHeader\\":{}}",
+              "publishTimeMillis": 1570468380649,
+              "relatedModule": Object {
+                "headline": "Recommended Stories",
+                "posts": Array [
+                  Object {
+                    "id": 1838843443,
+                  },
+                  Object {
+                    "id": 1838142301,
+                  },
+                  Object {
+                    "id": 1838845264,
+                  },
+                ],
+                "storyTypes": Array [],
+                "tags": Array [],
+              },
+              "relatedPosts": Array [
+                Object {
+                  "defaultBlogId": 86286,
+                  "headline": "Monday&#39;s Best Deals: Tile, Cole Haan, Hershey&#39;s Candy, and More",
+                  "id": 1838843443,
+                  "permalink": "https://kinjadeals.theinventory.com/mondays-best-deals-tile-cole-haan-hersheys-candy-an-1838843443",
+                  "sharingMainImage": Object {
+                    "format": "jpg",
+                    "frozenFormat": "jpg",
+                    "height": 450,
+                    "id": "gexzqwleqt7bpdwsct4r",
+                    "isAnimated": false,
+                    "src": "UNUSED",
+                    "width": 800,
+                  },
+                },
+                Object {
+                  "defaultBlogId": 86286,
+                  "headline": "Amazon&#39;s Taking $50 Off Apple&#39;s Powerbeats Pros, Which Are Like AirPods, But Better",
+                  "id": 1838142301,
+                  "permalink": "https://kinjadeals.theinventory.com/save-50-on-apples-truly-wireless-power-beats-pro-1838142301",
+                  "sharingMainImage": Object {
+                    "format": "jpg",
+                    "frozenFormat": "jpg",
+                    "height": 450,
+                    "id": "dnn2aif6xfhxfqdyqane",
+                    "isAnimated": false,
+                    "src": "UNUSED",
+                    "width": 800,
+                  },
+                },
+                Object {
+                  "defaultBlogId": 86286,
+                  "headline": "Instant Pot Makes a Blender. A Blender That Cooks. It&#39;s On Sale Today Only.",
+                  "id": 1838845264,
+                  "permalink": "https://kinjadeals.theinventory.com/instant-pot-makes-a-blender-a-blender-that-cooks-its-1838845264",
+                  "sharingMainImage": Object {
+                    "format": "jpg",
+                    "frozenFormat": "jpg",
+                    "height": 449,
+                    "id": "rx4efswcdfhysspuzo7v",
+                    "isAnimated": false,
+                    "src": "UNUSED",
+                    "width": 800,
+                  },
+                },
+              ],
+              "salesAvatar": null,
+              "sharedUrl": null,
+              "sharingMainImage": Object {
+                "format": "jpg",
+                "frozenFormat": "jpg",
+                "height": 450,
+                "id": "s0eviow28a62lsjitr0t",
+                "isAnimated": false,
+                "src": "UNUSED",
+                "width": 800,
+              },
+              "showAuthorBio": true,
+              "showByline": true,
+              "sponsored": false,
+              "starter": null,
+              "starterId": 1838849649,
+              "status": "PUBLISHED",
+              "tags": Array [
+                Object {
+                  "canonical": "kinjadeals",
+                  "displayName": "Kinja Deals",
+                  "urlName": "kinja-deals",
+                },
+                Object {
+                  "canonical": "deals",
+                  "displayName": "Deals",
+                  "urlName": "deals",
+                },
+                Object {
+                  "canonical": "amazondeals",
+                  "displayName": "Amazon Deals",
+                  "urlName": "amazon-deals",
+                },
+              ],
+              "timezone": "America/New_York",
+              "videos": Array [],
+            }
+          }
+        />
+      </Link>
+      <commerce-permalink-module__ContentContainer>
+        <Link
+          events={
+            Array [
+              Array [
+                "Popular commerce click",
+                "position 0",
+                undefined,
+              ],
+            ]
+          }
+          href="undefined?ks=commercerecirc_permalink"
+        >
+          <Headline
+            isExternalNativeAd={false}
+            level={4}
+          >
+            Buy a New Nintendo Switch (With Improved Battery Life), Get a Bonus $25 Amazon Gift Card
+          </Headline>
+        </Link>
+        <span>
+          <MultipleAuthorsStatic
+            authors={
+              Object {
+                "authName": "google",
+                "authType": 3,
+                "avatar": Object {
+                  "format": "jpg",
+                  "id": "ql1l79ncdygfqwckzobr",
+                },
+                "createdMillis": 1490037736000,
+                "displayName": "Chris Kohler",
+                "id": "5876237249237015770",
+                "isSuperuser": false,
+                "lastLoginMillis": 1536804857000,
+                "screenName": "chriskohler",
+                "status": "enabled",
+                "updatedMillis": 1536804857000,
+              }
+            }
+            blog={
+              Object {
+                "avatar": Object {
+                  "format": "png",
+                  "id": "fdj3buryz5nuzyf2k620",
+                },
+                "canonicalHost": "gizmodo.com",
+                "createTimeMillis": 1354577350531,
+                "description": "We come from the future.",
+                "displayName": "Gizmodo",
+                "hosts": Array [
+                  "doctorwho.io9.com",
+                  "animals.kinja.com",
+                  "education.gizmodo.com",
+                  "doctorwho.gizmodo.com",
+                  "nl.gizmodo.com",
+                  "toybox.io9.com",
+                  "animation.gizmodo.com",
+                  "education.kinja.com",
+                  "animalsx.kinja.com",
+                  "toybox.gizmodo.com",
+                  "toybox.kinja.com",
+                  "au.gizmodo.com",
+                  "ca.gizmodo.com",
+                  "gizmodo.kinja.com",
+                  "old.gizmodo.com",
+                  "fetch.gizmodo.com",
+                  "truecrimeio9.kinja.com",
+                  "animation.io9.com",
+                  "truecrime.gizmodo.com",
+                  "001.gizmodo.com",
+                  "www.gizmodo.com",
+                  "gizmodo.in",
+                  "gizmodo.co.in",
+                  "assets.gizmodo.com",
+                  "io9education.kinja.com",
+                  "ru.gizmodo.com",
+                  "m.gizmodo.com",
+                  "education.io9.com",
+                  "blog.gizmodo.com",
+                  "animals.gizmodo.com",
+                  "upgrade.gizmodo.com",
+                  "us.gizmodo.com",
+                  "animation.kinja.com",
+                  "pl.gizmodo.com",
+                  "upgrade.io9.com",
+                  "truecrime.io9.com",
+                  "br.gizmodo.com",
+                  "upgrade.kinja.com",
+                  "animals.io9.com",
+                  "doctorwhoio9.kinja.com",
+                ],
+                "id": "4",
+                "logo": Object {
+                  "format": "png",
+                  "id": "wvhsuflzmeoo0zr9ex55",
+                },
+                "name": "gizmodo",
+                "ownerId": "5876237249236979260",
+                "properties": Object {
+                  "GANJA_IGNORE_GEO": Array [
+                    "us.gizmodo.com",
+                  ],
+                  "aboutPostId": 5732042,
+                  "adsTxtEnabled": true,
+                  "blogGroup": "gizmodo",
+                  "campaignMonitorNewsletterName": "Gizmodo_Daily",
+                  "facebookPixelId": "852713628239858",
+                  "facebookScreenName": "gizmodo",
+                  "fbAppId": "44615671688",
+                  "googleAnalyticsID": "UA-142218-3",
+                  "googleSiteVerification": "Sc6OGUq5heWyOLFpCb_2K6mX7vFrWKGANts4QDUmgOY",
+                  "instagramScreenName": "gizmodo",
+                  "isGmgBlog": true,
+                  "logoLink": "https://x.kinja-static.com/assets/images/logos/newsletter/gizmodo-500px.png",
+                  "mainColor": "#18AFED",
+                  "metaTitle": "Gizmodo, the Gadget Guide",
+                  "navigationGroup": "fmg",
+                  "newsletter": true,
+                  "noindex": false,
+                  "pianoProdAid": "ZpCykEM7YO",
+                  "pianoSandboxAid": "VFrbPA6HDf",
+                  "recircGroup": "fmgNonSatire",
+                  "robotsAllowed": true,
+                  "singleOptIn": true,
+                  "skimLinkId": "33330X911642",
+                  "template": "gizmodo",
+                  "twitterScreenName": "@gizmodo",
+                  "youtubeUrl": "https://www.youtube.com/channel/UCxFmw3IUMDUC1Hh7qDjtjZQ",
+                },
+                "status": "ENABLED",
+                "timezone": "America/New_York",
+                "timezoneOffset": -14400000,
+              }
+            }
+            hideTime={true}
+            index={0}
+            pageType="permalink"
+            postIsDeals={true}
+          />
+        </span>
+      </commerce-permalink-module__ContentContainer>
+    </commerce-permalink-module__CardWrapper>
+  </commerce-permalink-module__Container>
+</Theme>
+`;
+
+exports[`<CommercePermalinkModule /> should render when provided with multiple posts 1`] = `
+<Theme
+  theme={
+    Object {
+      "breakpointBanner": "969px",
+      "breakpointMedium": "53.125em",
+      "color": Object {
+        "alert": "#EEB544",
+        "amazon": "#F5C056",
+        "backgroundLayer": "rgba(0,0,0,0.45)",
+        "backgroundLight": "#E6F2F8",
+        "black": "#000",
+        "blackOverlay": "rgba(0,0,0,0.7)",
+        "bodytext": "#222",
+        "commerce": "#72AD75",
+        "darkBlackOverlay": "rgba(0,0,0,0.9)",
+        "darkgray": "#666",
+        "darksmoke": "#222",
+        "error": "#D24A1D",
+        "facebook": "#1877F2",
+        "foregroundLayer": "rgba(0,0,0,0.4)",
+        "google": "#DB4437",
+        "gray": "#7D7D7D",
+        "instagram": "#C32AA3",
+        "lightgray": "#E5E5E5",
+        "linkedin": "#0077B5",
+        "logo": "#000",
+        "midgray": "#CCC",
+        "primary": "#0A7BC2",
+        "primaryLight": "#0C91E4",
+        "rss": "#7D7D7D",
+        "secondarytext": "#7D7D7D",
+        "success": "#23891F",
+        "twitter": "#1DA1F2",
+        "white": "#FFF",
+        "whiteOverlay": "rgba(255,255,255,0.7)",
+        "whitesmoke": "#F5F5F5",
+        "youtube": "#FF0000",
+      },
+      "columnGutter": "2.25rem",
+      "columnGutter19": Object {
+        "largeUp": "1.5rem",
+        "small19": "1rem",
+        "xlargeUp": "2rem",
+      },
+      "columnPadding": "1.125rem",
+      "columnPadding19": Object {
+        "largeUp": "0.75rem",
+        "small19": "0.5rem",
+        "xlargeUp": "1rem",
+      },
+      "featuredContentWidth": "1024px",
+      "globalNavHeight": "80px",
+      "linkTransition": "0.1s ease-out",
+      "mainContainerWidth": "66.5%",
+      "mainContentMaxWidth": "800px",
+      "pageWidth": "1336px",
+      "postContentMaxWidth": "636px",
+      "scrollbackNavHeight": "60px",
+      "sidebarContainerWidth": "33.5%",
+      "sidebarContentMaxWidth": "360px",
+      "sidebarContentMinWidth": "300px",
+      "slideshowTransitionDuration": "0.2s",
+      "typography": Object {
+        "body": Object {
+          "fontFamily": "ElizabethSerif, Georgia, serif",
+          "fontSizes": Object {
+            "large": "27px",
+            "medium": "19px",
+            "small": "15px",
+            "xlarge": "30px",
+            "xsmall": "14px",
+          },
+          "lineHeights": Object {
+            "large": "40px",
+            "medium": "32px",
+            "small": "24px",
+            "xlarge": "44px",
+            "xsmall": "24px",
+          },
+        },
+        "embiggenedHeadlineSize": "34px",
+        "headline": Object {
+          "fontFamily": "ProximaNovaCond, sans-serif",
+          "fontSizes": Object {
+            "large": "32px",
+            "medium": "24px",
+            "small": "19px",
+            "xlarge": "37px",
+            "xsmall": "16px",
+          },
+          "lineHeights": Object {
+            "large": "40px",
+            "medium": "32px",
+            "small": "24px",
+            "xlarge": "44px",
+            "xsmall": "24px",
+          },
+        },
+        "headlineLineHeight": "1.3",
+        "headlineSize": "24px",
+        "permalinkHeadlineLineHeight": "1.2",
+        "permalinkHeadlineSize": Object {
+          "mediumUp": "2.5rem",
+          "small": "2rem",
+          "xxxlargeUp": "3rem",
+        },
+        "primary": Object {
+          "fontFamily": "ProximaNovaCond, sans-serif",
+          "fontSizes": Object {
+            "large": "32px",
+            "medium": "24px",
+            "small": "19px",
+            "xlarge": "37px",
+            "xsmall": "16px",
+          },
+          "lineHeights": Object {
+            "large": "40px",
+            "medium": "32px",
+            "small": "24px",
+            "xlarge": "44px",
+            "xsmall": "24px",
+          },
+        },
+        "serif": Object {
+          "fontFamily": "ElizabethSerif, Georgia, serif",
+          "fontSizes": Object {
+            "large": "27px",
+            "medium": "19px",
+            "small": "15px",
+            "xlarge": "30px",
+            "xsmall": "14px",
+          },
+          "lineHeights": Object {
+            "large": "40px",
+            "medium": "32px",
+            "small": "24px",
+            "xlarge": "44px",
+            "xsmall": "24px",
+          },
+        },
+        "tertiary": Object {
+          "fontFamily": "FiraSans, sans-serif",
+          "fontSizes": Object {
+            "large": "29px",
+            "medium": "21px",
+            "small": "17px",
+            "xlarge": "35px",
+            "xsmall": "15px",
+          },
+          "lineHeights": Object {
+            "large": "40px",
+            "medium": "32px",
+            "small": "24px",
+            "xlarge": "44px",
+            "xsmall": "24px",
+          },
+        },
+        "utility": Object {
+          "fontFamily": "ProximaNovaCond, sans-serif",
+          "fontSizes": Object {
+            "large": "32px",
+            "medium": "24px",
+            "small": "19px",
+            "xlarge": "37px",
+            "xsmall": "16px",
+          },
+          "lineHeights": Object {
+            "large": "40px",
+            "medium": "32px",
+            "small": "24px",
+            "xlarge": "44px",
+            "xsmall": "24px",
+          },
+        },
+      },
+    }
+  }
+>
+  <commerce-permalink-module__Container>
+    <commerce-permalink-module__Header>
+      Popular Deals on The Inventory
+    </commerce-permalink-module__Header>
+    <commerce-permalink-module__CardWrapper
+      key="1838849649"
+    >
+      <Link
+        events={
+          Array [
+            Array [
+              "Popular commerce click",
+              "position 0",
+              undefined,
+            ],
+          ]
+        }
+        href="undefined?ks=commercerecirc_permalink"
+      >
+        <SidebarImage
+          post={
+            Object {
+              "aboveHeadline": null,
+              "adSettings": null,
+              "allowReplies": true,
+              "approved": true,
+              "author": null,
+              "authorId": "5727177402741770316",
+              "authorIds": Array [
+                "5727177402741770316",
+              ],
+              "authors": Array [],
+              "body": Array [
+                Object {
+                  "alignment": "Bleed",
+                  "attribution": Array [
+                    Object {
+                      "credit": Array [
+                        Object {
+                          "styles": Array [],
+                          "type": "Text",
+                          "value": "Shep McAllister",
+                        },
+                      ],
+                      "label": "Graphic",
+                      "source": Array [],
+                    },
+                  ],
+                  "caption": Array [
+                    Object {
+                      "reference": "https://www.amazon.com/Nintendo-Switch-Gray-Joy%E2%80%91-HAC-001-Amazon-com/dp/B07Y9ZCWL9",
+                      "type": "Link",
+                      "value": Array [
+                        Object {
+                          "styles": Array [],
+                          "type": "Text",
+                          "value": "Nintendo Switch (New Model) + $25 Amazon Gift Card",
+                        },
+                      ],
+                    },
+                    Object {
+                      "styles": Array [],
+                      "type": "Text",
+                      "value": " | $300 | Amazon",
+                    },
+                  ],
+                  "format": "jpg",
+                  "height": 720,
+                  "id": "s0eviow28a62lsjitr0t",
+                  "lightbox": true,
+                  "syndicationRights": false,
+                  "type": "Image",
+                  "width": 1280,
+                },
+                Object {
+                  "containers": Array [],
+                  "type": "Paragraph",
+                  "value": Array [
+                    Object {
+                      "styles": Array [],
+                      "type": "Text",
+                      "value": "We haven’t seen many big deals on the ",
+                    },
+                    Object {
+                      "reference": "https://kotaku.com/how-to-spot-the-new-nintendo-switch-with-better-battery-1837209189",
+                      "type": "Link",
+                      "value": Array [
+                        Object {
+                          "styles": Array [],
+                          "type": "Text",
+                          "value": "new Nintendo Switch with drastically improved battery life",
+                        },
+                      ],
+                    },
+                    Object {
+                      "styles": Array [],
+                      "type": "Text",
+                      "value": ", but right now, ",
+                    },
+                    Object {
+                      "reference": "https://www.amazon.com/Nintendo-Switch-Gray-Joy%E2%80%91-HAC-001-Amazon-com/dp/B07Y9ZCWL9",
+                      "type": "Link",
+                      "value": Array [
+                        Object {
+                          "styles": Array [],
+                          "type": "Text",
+                          "value": "Amazon will throw in a $25 gift card when you buy one",
+                        },
+                      ],
+                    },
+                    Object {
+                      "styles": Array [],
+                      "type": "Text",
+                      "value": ". That’s pretty solid as far as Nintendo Switch discounts go, and about as good a deal as we’ve seen on this new model.",
+                    },
+                    Object {
+                      "type": "LineBreak",
+                    },
+                  ],
+                },
+                Object {
+                  "style": "Normal",
+                  "type": "LinkPreview",
+                  "url": "https://kotaku.com/how-to-spot-the-new-nintendo-switch-with-better-battery-1837209189",
+                },
+                Object {
+                  "containers": Array [],
+                  "type": "Paragraph",
+                  "value": Array [
+                    Object {
+                      "styles": Array [
+                        "Bold",
+                      ],
+                      "type": "Text",
+                      "value": "Hint",
+                    },
+                    Object {
+                      "styles": Array [],
+                      "type": "Text",
+                      "value": ": Spend your $25 gift card on a ",
+                    },
+                    Object {
+                      "reference": "https://www.amazon.com/Nintendo-Switch-Pro-Controller/dp/B01NAWKYZ0",
+                      "type": "Link",
+                      "value": Array [
+                        Object {
+                          "styles": Array [],
+                          "type": "Text",
+                          "value": "Pro controller",
+                        },
+                      ],
+                    },
+                    Object {
+                      "styles": Array [],
+                      "type": "Text",
+                      "value": ". You won’t regret it.",
+                    },
+                  ],
+                },
+                Object {
+                  "style": "CommerceCondensed",
+                  "type": "LinkPreview",
+                  "url": "https://www.amazon.com/Nintendo-Switch-Gray-Joy%E2%80%91-HAC-001-Amazon-com/dp/B07Y9ZCWL9",
+                },
+                Object {
+                  "containers": Array [],
+                  "style": "Line",
+                  "type": "HorizontalRule",
+                },
+                Object {
+                  "id": "1177695802598285314",
+                  "thumbnail": Object {
+                    "format": "jpg",
+                    "id": "hvki4ykn9hfcba6rtloh",
+                  },
+                  "type": "Twitter",
+                },
+              ],
+              "byline": "",
+              "defaultBlogId": 86286,
+              "featuredMedia": null,
+              "firstSentence": "We haven’t seen many big deals on the new Nintendo Switch with drastically improved battery life, bu",
+              "headline": "Buy a New Nintendo Switch (With Improved Battery Life), Get a Bonus $25 Amazon Gift Card",
+              "id": 1838849649,
+              "images": Array [
+                Object {
+                  "format": "jpg",
+                  "height": 720,
+                  "id": "s0eviow28a62lsjitr0t",
+                  "width": 1280,
+                },
+              ],
+              "isBlip": false,
+              "isFeatured": false,
+              "isRoundup": false,
+              "isVideo": false,
+              "largeOnStream": false,
+              "lastUpdateTimeMillis": 1570482616829,
+              "leftOfHeadline": Object {
+                "format": "jpg",
+                "frozenFormat": "jpg",
+                "height": 180,
+                "id": "s0eviow28a62lsjitr0t",
+                "isAnimated": false,
+                "src": "UNUSED",
+                "type": "image",
+                "width": 320,
+              },
+              "length": 357,
+              "mainMedia": null,
+              "parent": null,
+              "parentAuthorId": null,
+              "parentAuthorIds": Array [],
+              "parentId": null,
+              "permalink": "https://kinjadeals.theinventory.com/buy-a-new-nintendo-switch-with-improved-battery-life-1838849649",
+              "permalinkHost": "https://kinjadeals.theinventory.com",
+              "permalinkPath": "/buy-a-new-nintendo-switch-with-improved-battery-life-1838849649",
+              "permalinkRedirect": null,
+              "plaintext": "We haven’t seen many big deals on the new Nintendo Switch with drastically improved battery life, but right now, Amazon will throw in a $25 gift card when you buy one. That’s pretty solid as far as Nintendo Switch discounts go, and about as good a deal as we’ve seen on this new model.",
+              "postId": 1838849649,
+              "properties": "{\\"sharingMainImageSetInDistTools\\":true,\\"dropCapEnabled\\":false,\\"isEmbiggened\\":false,\\"autoRepostDisabled\\":false,\\"impactHeader\\":{}}",
+              "publishTimeMillis": 1570468380649,
+              "relatedModule": Object {
+                "headline": "Recommended Stories",
+                "posts": Array [
+                  Object {
+                    "id": 1838843443,
+                  },
+                  Object {
+                    "id": 1838142301,
+                  },
+                  Object {
+                    "id": 1838845264,
+                  },
+                ],
+                "storyTypes": Array [],
+                "tags": Array [],
+              },
+              "relatedPosts": Array [
+                Object {
+                  "defaultBlogId": 86286,
+                  "headline": "Monday&#39;s Best Deals: Tile, Cole Haan, Hershey&#39;s Candy, and More",
+                  "id": 1838843443,
+                  "permalink": "https://kinjadeals.theinventory.com/mondays-best-deals-tile-cole-haan-hersheys-candy-an-1838843443",
+                  "sharingMainImage": Object {
+                    "format": "jpg",
+                    "frozenFormat": "jpg",
+                    "height": 450,
+                    "id": "gexzqwleqt7bpdwsct4r",
+                    "isAnimated": false,
+                    "src": "UNUSED",
+                    "width": 800,
+                  },
+                },
+                Object {
+                  "defaultBlogId": 86286,
+                  "headline": "Amazon&#39;s Taking $50 Off Apple&#39;s Powerbeats Pros, Which Are Like AirPods, But Better",
+                  "id": 1838142301,
+                  "permalink": "https://kinjadeals.theinventory.com/save-50-on-apples-truly-wireless-power-beats-pro-1838142301",
+                  "sharingMainImage": Object {
+                    "format": "jpg",
+                    "frozenFormat": "jpg",
+                    "height": 450,
+                    "id": "dnn2aif6xfhxfqdyqane",
+                    "isAnimated": false,
+                    "src": "UNUSED",
+                    "width": 800,
+                  },
+                },
+                Object {
+                  "defaultBlogId": 86286,
+                  "headline": "Instant Pot Makes a Blender. A Blender That Cooks. It&#39;s On Sale Today Only.",
+                  "id": 1838845264,
+                  "permalink": "https://kinjadeals.theinventory.com/instant-pot-makes-a-blender-a-blender-that-cooks-its-1838845264",
+                  "sharingMainImage": Object {
+                    "format": "jpg",
+                    "frozenFormat": "jpg",
+                    "height": 449,
+                    "id": "rx4efswcdfhysspuzo7v",
+                    "isAnimated": false,
+                    "src": "UNUSED",
+                    "width": 800,
+                  },
+                },
+              ],
+              "salesAvatar": null,
+              "sharedUrl": null,
+              "sharingMainImage": Object {
+                "format": "jpg",
+                "frozenFormat": "jpg",
+                "height": 450,
+                "id": "s0eviow28a62lsjitr0t",
+                "isAnimated": false,
+                "src": "UNUSED",
+                "width": 800,
+              },
+              "showAuthorBio": true,
+              "showByline": true,
+              "sponsored": false,
+              "starter": null,
+              "starterId": 1838849649,
+              "status": "PUBLISHED",
+              "tags": Array [
+                Object {
+                  "canonical": "kinjadeals",
+                  "displayName": "Kinja Deals",
+                  "urlName": "kinja-deals",
+                },
+                Object {
+                  "canonical": "deals",
+                  "displayName": "Deals",
+                  "urlName": "deals",
+                },
+                Object {
+                  "canonical": "amazondeals",
+                  "displayName": "Amazon Deals",
+                  "urlName": "amazon-deals",
+                },
+              ],
+              "timezone": "America/New_York",
+              "videos": Array [],
+            }
+          }
+        />
+      </Link>
+      <commerce-permalink-module__ContentContainer>
+        <Link
+          events={
+            Array [
+              Array [
+                "Popular commerce click",
+                "position 0",
+                undefined,
+              ],
+            ]
+          }
+          href="undefined?ks=commercerecirc_permalink"
+        >
+          <Headline
+            isExternalNativeAd={false}
+            level={4}
+          >
+            Buy a New Nintendo Switch (With Improved Battery Life), Get a Bonus $25 Amazon Gift Card
+          </Headline>
+        </Link>
+        <span>
+          <MultipleAuthorsStatic
+            authors={
+              Object {
+                "authName": "google",
+                "authType": 3,
+                "avatar": Object {
+                  "format": "jpg",
+                  "id": "ql1l79ncdygfqwckzobr",
+                },
+                "createdMillis": 1490037736000,
+                "displayName": "Chris Kohler",
+                "id": "5876237249237015770",
+                "isSuperuser": false,
+                "lastLoginMillis": 1536804857000,
+                "screenName": "chriskohler",
+                "status": "enabled",
+                "updatedMillis": 1536804857000,
+              }
+            }
+            blog={
+              Object {
+                "avatar": Object {
+                  "format": "png",
+                  "id": "fdj3buryz5nuzyf2k620",
+                },
+                "canonicalHost": "gizmodo.com",
+                "createTimeMillis": 1354577350531,
+                "description": "We come from the future.",
+                "displayName": "Gizmodo",
+                "hosts": Array [
+                  "doctorwho.io9.com",
+                  "animals.kinja.com",
+                  "education.gizmodo.com",
+                  "doctorwho.gizmodo.com",
+                  "nl.gizmodo.com",
+                  "toybox.io9.com",
+                  "animation.gizmodo.com",
+                  "education.kinja.com",
+                  "animalsx.kinja.com",
+                  "toybox.gizmodo.com",
+                  "toybox.kinja.com",
+                  "au.gizmodo.com",
+                  "ca.gizmodo.com",
+                  "gizmodo.kinja.com",
+                  "old.gizmodo.com",
+                  "fetch.gizmodo.com",
+                  "truecrimeio9.kinja.com",
+                  "animation.io9.com",
+                  "truecrime.gizmodo.com",
+                  "001.gizmodo.com",
+                  "www.gizmodo.com",
+                  "gizmodo.in",
+                  "gizmodo.co.in",
+                  "assets.gizmodo.com",
+                  "io9education.kinja.com",
+                  "ru.gizmodo.com",
+                  "m.gizmodo.com",
+                  "education.io9.com",
+                  "blog.gizmodo.com",
+                  "animals.gizmodo.com",
+                  "upgrade.gizmodo.com",
+                  "us.gizmodo.com",
+                  "animation.kinja.com",
+                  "pl.gizmodo.com",
+                  "upgrade.io9.com",
+                  "truecrime.io9.com",
+                  "br.gizmodo.com",
+                  "upgrade.kinja.com",
+                  "animals.io9.com",
+                  "doctorwhoio9.kinja.com",
+                ],
+                "id": "4",
+                "logo": Object {
+                  "format": "png",
+                  "id": "wvhsuflzmeoo0zr9ex55",
+                },
+                "name": "gizmodo",
+                "ownerId": "5876237249236979260",
+                "properties": Object {
+                  "GANJA_IGNORE_GEO": Array [
+                    "us.gizmodo.com",
+                  ],
+                  "aboutPostId": 5732042,
+                  "adsTxtEnabled": true,
+                  "blogGroup": "gizmodo",
+                  "campaignMonitorNewsletterName": "Gizmodo_Daily",
+                  "facebookPixelId": "852713628239858",
+                  "facebookScreenName": "gizmodo",
+                  "fbAppId": "44615671688",
+                  "googleAnalyticsID": "UA-142218-3",
+                  "googleSiteVerification": "Sc6OGUq5heWyOLFpCb_2K6mX7vFrWKGANts4QDUmgOY",
+                  "instagramScreenName": "gizmodo",
+                  "isGmgBlog": true,
+                  "logoLink": "https://x.kinja-static.com/assets/images/logos/newsletter/gizmodo-500px.png",
+                  "mainColor": "#18AFED",
+                  "metaTitle": "Gizmodo, the Gadget Guide",
+                  "navigationGroup": "fmg",
+                  "newsletter": true,
+                  "noindex": false,
+                  "pianoProdAid": "ZpCykEM7YO",
+                  "pianoSandboxAid": "VFrbPA6HDf",
+                  "recircGroup": "fmgNonSatire",
+                  "robotsAllowed": true,
+                  "singleOptIn": true,
+                  "skimLinkId": "33330X911642",
+                  "template": "gizmodo",
+                  "twitterScreenName": "@gizmodo",
+                  "youtubeUrl": "https://www.youtube.com/channel/UCxFmw3IUMDUC1Hh7qDjtjZQ",
+                },
+                "status": "ENABLED",
+                "timezone": "America/New_York",
+                "timezoneOffset": -14400000,
+              }
+            }
+            hideTime={true}
+            index={0}
+            pageType="permalink"
+            postIsDeals={true}
+          />
+        </span>
+      </commerce-permalink-module__ContentContainer>
+    </commerce-permalink-module__CardWrapper>
+    <commerce-permalink-module__CardWrapper
+      key="1838849649"
+    >
+      <Link
+        events={
+          Array [
+            Array [
+              "Popular commerce click",
+              "position 1",
+              undefined,
+            ],
+          ]
+        }
+        href="undefined?ks=commercerecirc_permalink"
+      >
+        <SidebarImage
+          post={
+            Object {
+              "aboveHeadline": null,
+              "adSettings": null,
+              "allowReplies": true,
+              "approved": true,
+              "author": null,
+              "authorId": "5727177402741770316",
+              "authorIds": Array [
+                "5727177402741770316",
+              ],
+              "authors": Array [],
+              "body": Array [
+                Object {
+                  "alignment": "Bleed",
+                  "attribution": Array [
+                    Object {
+                      "credit": Array [
+                        Object {
+                          "styles": Array [],
+                          "type": "Text",
+                          "value": "Shep McAllister",
+                        },
+                      ],
+                      "label": "Graphic",
+                      "source": Array [],
+                    },
+                  ],
+                  "caption": Array [
+                    Object {
+                      "reference": "https://www.amazon.com/Nintendo-Switch-Gray-Joy%E2%80%91-HAC-001-Amazon-com/dp/B07Y9ZCWL9",
+                      "type": "Link",
+                      "value": Array [
+                        Object {
+                          "styles": Array [],
+                          "type": "Text",
+                          "value": "Nintendo Switch (New Model) + $25 Amazon Gift Card",
+                        },
+                      ],
+                    },
+                    Object {
+                      "styles": Array [],
+                      "type": "Text",
+                      "value": " | $300 | Amazon",
+                    },
+                  ],
+                  "format": "jpg",
+                  "height": 720,
+                  "id": "s0eviow28a62lsjitr0t",
+                  "lightbox": true,
+                  "syndicationRights": false,
+                  "type": "Image",
+                  "width": 1280,
+                },
+                Object {
+                  "containers": Array [],
+                  "type": "Paragraph",
+                  "value": Array [
+                    Object {
+                      "styles": Array [],
+                      "type": "Text",
+                      "value": "We haven’t seen many big deals on the ",
+                    },
+                    Object {
+                      "reference": "https://kotaku.com/how-to-spot-the-new-nintendo-switch-with-better-battery-1837209189",
+                      "type": "Link",
+                      "value": Array [
+                        Object {
+                          "styles": Array [],
+                          "type": "Text",
+                          "value": "new Nintendo Switch with drastically improved battery life",
+                        },
+                      ],
+                    },
+                    Object {
+                      "styles": Array [],
+                      "type": "Text",
+                      "value": ", but right now, ",
+                    },
+                    Object {
+                      "reference": "https://www.amazon.com/Nintendo-Switch-Gray-Joy%E2%80%91-HAC-001-Amazon-com/dp/B07Y9ZCWL9",
+                      "type": "Link",
+                      "value": Array [
+                        Object {
+                          "styles": Array [],
+                          "type": "Text",
+                          "value": "Amazon will throw in a $25 gift card when you buy one",
+                        },
+                      ],
+                    },
+                    Object {
+                      "styles": Array [],
+                      "type": "Text",
+                      "value": ". That’s pretty solid as far as Nintendo Switch discounts go, and about as good a deal as we’ve seen on this new model.",
+                    },
+                    Object {
+                      "type": "LineBreak",
+                    },
+                  ],
+                },
+                Object {
+                  "style": "Normal",
+                  "type": "LinkPreview",
+                  "url": "https://kotaku.com/how-to-spot-the-new-nintendo-switch-with-better-battery-1837209189",
+                },
+                Object {
+                  "containers": Array [],
+                  "type": "Paragraph",
+                  "value": Array [
+                    Object {
+                      "styles": Array [
+                        "Bold",
+                      ],
+                      "type": "Text",
+                      "value": "Hint",
+                    },
+                    Object {
+                      "styles": Array [],
+                      "type": "Text",
+                      "value": ": Spend your $25 gift card on a ",
+                    },
+                    Object {
+                      "reference": "https://www.amazon.com/Nintendo-Switch-Pro-Controller/dp/B01NAWKYZ0",
+                      "type": "Link",
+                      "value": Array [
+                        Object {
+                          "styles": Array [],
+                          "type": "Text",
+                          "value": "Pro controller",
+                        },
+                      ],
+                    },
+                    Object {
+                      "styles": Array [],
+                      "type": "Text",
+                      "value": ". You won’t regret it.",
+                    },
+                  ],
+                },
+                Object {
+                  "style": "CommerceCondensed",
+                  "type": "LinkPreview",
+                  "url": "https://www.amazon.com/Nintendo-Switch-Gray-Joy%E2%80%91-HAC-001-Amazon-com/dp/B07Y9ZCWL9",
+                },
+                Object {
+                  "containers": Array [],
+                  "style": "Line",
+                  "type": "HorizontalRule",
+                },
+                Object {
+                  "id": "1177695802598285314",
+                  "thumbnail": Object {
+                    "format": "jpg",
+                    "id": "hvki4ykn9hfcba6rtloh",
+                  },
+                  "type": "Twitter",
+                },
+              ],
+              "byline": "",
+              "defaultBlogId": 86286,
+              "featuredMedia": null,
+              "firstSentence": "We haven’t seen many big deals on the new Nintendo Switch with drastically improved battery life, bu",
+              "headline": "Buy a New Nintendo Switch (With Improved Battery Life), Get a Bonus $25 Amazon Gift Card",
+              "id": 1838849649,
+              "images": Array [
+                Object {
+                  "format": "jpg",
+                  "height": 720,
+                  "id": "s0eviow28a62lsjitr0t",
+                  "width": 1280,
+                },
+              ],
+              "isBlip": false,
+              "isFeatured": false,
+              "isRoundup": false,
+              "isVideo": false,
+              "largeOnStream": false,
+              "lastUpdateTimeMillis": 1570482616829,
+              "leftOfHeadline": Object {
+                "format": "jpg",
+                "frozenFormat": "jpg",
+                "height": 180,
+                "id": "s0eviow28a62lsjitr0t",
+                "isAnimated": false,
+                "src": "UNUSED",
+                "type": "image",
+                "width": 320,
+              },
+              "length": 357,
+              "mainMedia": null,
+              "parent": null,
+              "parentAuthorId": null,
+              "parentAuthorIds": Array [],
+              "parentId": null,
+              "permalink": "https://kinjadeals.theinventory.com/buy-a-new-nintendo-switch-with-improved-battery-life-1838849649",
+              "permalinkHost": "https://kinjadeals.theinventory.com",
+              "permalinkPath": "/buy-a-new-nintendo-switch-with-improved-battery-life-1838849649",
+              "permalinkRedirect": null,
+              "plaintext": "We haven’t seen many big deals on the new Nintendo Switch with drastically improved battery life, but right now, Amazon will throw in a $25 gift card when you buy one. That’s pretty solid as far as Nintendo Switch discounts go, and about as good a deal as we’ve seen on this new model.",
+              "postId": 1838849649,
+              "properties": "{\\"sharingMainImageSetInDistTools\\":true,\\"dropCapEnabled\\":false,\\"isEmbiggened\\":false,\\"autoRepostDisabled\\":false,\\"impactHeader\\":{}}",
+              "publishTimeMillis": 1570468380649,
+              "relatedModule": Object {
+                "headline": "Recommended Stories",
+                "posts": Array [
+                  Object {
+                    "id": 1838843443,
+                  },
+                  Object {
+                    "id": 1838142301,
+                  },
+                  Object {
+                    "id": 1838845264,
+                  },
+                ],
+                "storyTypes": Array [],
+                "tags": Array [],
+              },
+              "relatedPosts": Array [
+                Object {
+                  "defaultBlogId": 86286,
+                  "headline": "Monday&#39;s Best Deals: Tile, Cole Haan, Hershey&#39;s Candy, and More",
+                  "id": 1838843443,
+                  "permalink": "https://kinjadeals.theinventory.com/mondays-best-deals-tile-cole-haan-hersheys-candy-an-1838843443",
+                  "sharingMainImage": Object {
+                    "format": "jpg",
+                    "frozenFormat": "jpg",
+                    "height": 450,
+                    "id": "gexzqwleqt7bpdwsct4r",
+                    "isAnimated": false,
+                    "src": "UNUSED",
+                    "width": 800,
+                  },
+                },
+                Object {
+                  "defaultBlogId": 86286,
+                  "headline": "Amazon&#39;s Taking $50 Off Apple&#39;s Powerbeats Pros, Which Are Like AirPods, But Better",
+                  "id": 1838142301,
+                  "permalink": "https://kinjadeals.theinventory.com/save-50-on-apples-truly-wireless-power-beats-pro-1838142301",
+                  "sharingMainImage": Object {
+                    "format": "jpg",
+                    "frozenFormat": "jpg",
+                    "height": 450,
+                    "id": "dnn2aif6xfhxfqdyqane",
+                    "isAnimated": false,
+                    "src": "UNUSED",
+                    "width": 800,
+                  },
+                },
+                Object {
+                  "defaultBlogId": 86286,
+                  "headline": "Instant Pot Makes a Blender. A Blender That Cooks. It&#39;s On Sale Today Only.",
+                  "id": 1838845264,
+                  "permalink": "https://kinjadeals.theinventory.com/instant-pot-makes-a-blender-a-blender-that-cooks-its-1838845264",
+                  "sharingMainImage": Object {
+                    "format": "jpg",
+                    "frozenFormat": "jpg",
+                    "height": 449,
+                    "id": "rx4efswcdfhysspuzo7v",
+                    "isAnimated": false,
+                    "src": "UNUSED",
+                    "width": 800,
+                  },
+                },
+              ],
+              "salesAvatar": null,
+              "sharedUrl": null,
+              "sharingMainImage": Object {
+                "format": "jpg",
+                "frozenFormat": "jpg",
+                "height": 450,
+                "id": "s0eviow28a62lsjitr0t",
+                "isAnimated": false,
+                "src": "UNUSED",
+                "width": 800,
+              },
+              "showAuthorBio": true,
+              "showByline": true,
+              "sponsored": false,
+              "starter": null,
+              "starterId": 1838849649,
+              "status": "PUBLISHED",
+              "tags": Array [
+                Object {
+                  "canonical": "kinjadeals",
+                  "displayName": "Kinja Deals",
+                  "urlName": "kinja-deals",
+                },
+                Object {
+                  "canonical": "deals",
+                  "displayName": "Deals",
+                  "urlName": "deals",
+                },
+                Object {
+                  "canonical": "amazondeals",
+                  "displayName": "Amazon Deals",
+                  "urlName": "amazon-deals",
+                },
+              ],
+              "timezone": "America/New_York",
+              "videos": Array [],
+            }
+          }
+        />
+      </Link>
+      <commerce-permalink-module__ContentContainer>
+        <Link
+          events={
+            Array [
+              Array [
+                "Popular commerce click",
+                "position 1",
+                undefined,
+              ],
+            ]
+          }
+          href="undefined?ks=commercerecirc_permalink"
+        >
+          <Headline
+            isExternalNativeAd={false}
+            level={4}
+          >
+            Buy a New Nintendo Switch (With Improved Battery Life), Get a Bonus $25 Amazon Gift Card
+          </Headline>
+        </Link>
+        <span>
+          <MultipleAuthorsStatic
+            authors={
+              Object {
+                "authName": "google",
+                "authType": 3,
+                "avatar": Object {
+                  "format": "jpg",
+                  "id": "ql1l79ncdygfqwckzobr",
+                },
+                "createdMillis": 1490037736000,
+                "displayName": "Chris Kohler",
+                "id": "5876237249237015770",
+                "isSuperuser": false,
+                "lastLoginMillis": 1536804857000,
+                "screenName": "chriskohler",
+                "status": "enabled",
+                "updatedMillis": 1536804857000,
+              }
+            }
+            blog={
+              Object {
+                "avatar": Object {
+                  "format": "png",
+                  "id": "fdj3buryz5nuzyf2k620",
+                },
+                "canonicalHost": "gizmodo.com",
+                "createTimeMillis": 1354577350531,
+                "description": "We come from the future.",
+                "displayName": "Gizmodo",
+                "hosts": Array [
+                  "doctorwho.io9.com",
+                  "animals.kinja.com",
+                  "education.gizmodo.com",
+                  "doctorwho.gizmodo.com",
+                  "nl.gizmodo.com",
+                  "toybox.io9.com",
+                  "animation.gizmodo.com",
+                  "education.kinja.com",
+                  "animalsx.kinja.com",
+                  "toybox.gizmodo.com",
+                  "toybox.kinja.com",
+                  "au.gizmodo.com",
+                  "ca.gizmodo.com",
+                  "gizmodo.kinja.com",
+                  "old.gizmodo.com",
+                  "fetch.gizmodo.com",
+                  "truecrimeio9.kinja.com",
+                  "animation.io9.com",
+                  "truecrime.gizmodo.com",
+                  "001.gizmodo.com",
+                  "www.gizmodo.com",
+                  "gizmodo.in",
+                  "gizmodo.co.in",
+                  "assets.gizmodo.com",
+                  "io9education.kinja.com",
+                  "ru.gizmodo.com",
+                  "m.gizmodo.com",
+                  "education.io9.com",
+                  "blog.gizmodo.com",
+                  "animals.gizmodo.com",
+                  "upgrade.gizmodo.com",
+                  "us.gizmodo.com",
+                  "animation.kinja.com",
+                  "pl.gizmodo.com",
+                  "upgrade.io9.com",
+                  "truecrime.io9.com",
+                  "br.gizmodo.com",
+                  "upgrade.kinja.com",
+                  "animals.io9.com",
+                  "doctorwhoio9.kinja.com",
+                ],
+                "id": "4",
+                "logo": Object {
+                  "format": "png",
+                  "id": "wvhsuflzmeoo0zr9ex55",
+                },
+                "name": "gizmodo",
+                "ownerId": "5876237249236979260",
+                "properties": Object {
+                  "GANJA_IGNORE_GEO": Array [
+                    "us.gizmodo.com",
+                  ],
+                  "aboutPostId": 5732042,
+                  "adsTxtEnabled": true,
+                  "blogGroup": "gizmodo",
+                  "campaignMonitorNewsletterName": "Gizmodo_Daily",
+                  "facebookPixelId": "852713628239858",
+                  "facebookScreenName": "gizmodo",
+                  "fbAppId": "44615671688",
+                  "googleAnalyticsID": "UA-142218-3",
+                  "googleSiteVerification": "Sc6OGUq5heWyOLFpCb_2K6mX7vFrWKGANts4QDUmgOY",
+                  "instagramScreenName": "gizmodo",
+                  "isGmgBlog": true,
+                  "logoLink": "https://x.kinja-static.com/assets/images/logos/newsletter/gizmodo-500px.png",
+                  "mainColor": "#18AFED",
+                  "metaTitle": "Gizmodo, the Gadget Guide",
+                  "navigationGroup": "fmg",
+                  "newsletter": true,
+                  "noindex": false,
+                  "pianoProdAid": "ZpCykEM7YO",
+                  "pianoSandboxAid": "VFrbPA6HDf",
+                  "recircGroup": "fmgNonSatire",
+                  "robotsAllowed": true,
+                  "singleOptIn": true,
+                  "skimLinkId": "33330X911642",
+                  "template": "gizmodo",
+                  "twitterScreenName": "@gizmodo",
+                  "youtubeUrl": "https://www.youtube.com/channel/UCxFmw3IUMDUC1Hh7qDjtjZQ",
+                },
+                "status": "ENABLED",
+                "timezone": "America/New_York",
+                "timezoneOffset": -14400000,
+              }
+            }
+            hideTime={true}
+            index={1}
+            pageType="permalink"
+            postIsDeals={true}
+          />
+        </span>
+      </commerce-permalink-module__ContentContainer>
+    </commerce-permalink-module__CardWrapper>
+    <commerce-permalink-module__CardWrapper
+      key="1838849649"
+    >
+      <Link
+        events={
+          Array [
+            Array [
+              "Popular commerce click",
+              "position 2",
+              undefined,
+            ],
+          ]
+        }
+        href="undefined?ks=commercerecirc_permalink"
+      >
+        <SidebarImage
+          post={
+            Object {
+              "aboveHeadline": null,
+              "adSettings": null,
+              "allowReplies": true,
+              "approved": true,
+              "author": null,
+              "authorId": "5727177402741770316",
+              "authorIds": Array [
+                "5727177402741770316",
+              ],
+              "authors": Array [],
+              "body": Array [
+                Object {
+                  "alignment": "Bleed",
+                  "attribution": Array [
+                    Object {
+                      "credit": Array [
+                        Object {
+                          "styles": Array [],
+                          "type": "Text",
+                          "value": "Shep McAllister",
+                        },
+                      ],
+                      "label": "Graphic",
+                      "source": Array [],
+                    },
+                  ],
+                  "caption": Array [
+                    Object {
+                      "reference": "https://www.amazon.com/Nintendo-Switch-Gray-Joy%E2%80%91-HAC-001-Amazon-com/dp/B07Y9ZCWL9",
+                      "type": "Link",
+                      "value": Array [
+                        Object {
+                          "styles": Array [],
+                          "type": "Text",
+                          "value": "Nintendo Switch (New Model) + $25 Amazon Gift Card",
+                        },
+                      ],
+                    },
+                    Object {
+                      "styles": Array [],
+                      "type": "Text",
+                      "value": " | $300 | Amazon",
+                    },
+                  ],
+                  "format": "jpg",
+                  "height": 720,
+                  "id": "s0eviow28a62lsjitr0t",
+                  "lightbox": true,
+                  "syndicationRights": false,
+                  "type": "Image",
+                  "width": 1280,
+                },
+                Object {
+                  "containers": Array [],
+                  "type": "Paragraph",
+                  "value": Array [
+                    Object {
+                      "styles": Array [],
+                      "type": "Text",
+                      "value": "We haven’t seen many big deals on the ",
+                    },
+                    Object {
+                      "reference": "https://kotaku.com/how-to-spot-the-new-nintendo-switch-with-better-battery-1837209189",
+                      "type": "Link",
+                      "value": Array [
+                        Object {
+                          "styles": Array [],
+                          "type": "Text",
+                          "value": "new Nintendo Switch with drastically improved battery life",
+                        },
+                      ],
+                    },
+                    Object {
+                      "styles": Array [],
+                      "type": "Text",
+                      "value": ", but right now, ",
+                    },
+                    Object {
+                      "reference": "https://www.amazon.com/Nintendo-Switch-Gray-Joy%E2%80%91-HAC-001-Amazon-com/dp/B07Y9ZCWL9",
+                      "type": "Link",
+                      "value": Array [
+                        Object {
+                          "styles": Array [],
+                          "type": "Text",
+                          "value": "Amazon will throw in a $25 gift card when you buy one",
+                        },
+                      ],
+                    },
+                    Object {
+                      "styles": Array [],
+                      "type": "Text",
+                      "value": ". That’s pretty solid as far as Nintendo Switch discounts go, and about as good a deal as we’ve seen on this new model.",
+                    },
+                    Object {
+                      "type": "LineBreak",
+                    },
+                  ],
+                },
+                Object {
+                  "style": "Normal",
+                  "type": "LinkPreview",
+                  "url": "https://kotaku.com/how-to-spot-the-new-nintendo-switch-with-better-battery-1837209189",
+                },
+                Object {
+                  "containers": Array [],
+                  "type": "Paragraph",
+                  "value": Array [
+                    Object {
+                      "styles": Array [
+                        "Bold",
+                      ],
+                      "type": "Text",
+                      "value": "Hint",
+                    },
+                    Object {
+                      "styles": Array [],
+                      "type": "Text",
+                      "value": ": Spend your $25 gift card on a ",
+                    },
+                    Object {
+                      "reference": "https://www.amazon.com/Nintendo-Switch-Pro-Controller/dp/B01NAWKYZ0",
+                      "type": "Link",
+                      "value": Array [
+                        Object {
+                          "styles": Array [],
+                          "type": "Text",
+                          "value": "Pro controller",
+                        },
+                      ],
+                    },
+                    Object {
+                      "styles": Array [],
+                      "type": "Text",
+                      "value": ". You won’t regret it.",
+                    },
+                  ],
+                },
+                Object {
+                  "style": "CommerceCondensed",
+                  "type": "LinkPreview",
+                  "url": "https://www.amazon.com/Nintendo-Switch-Gray-Joy%E2%80%91-HAC-001-Amazon-com/dp/B07Y9ZCWL9",
+                },
+                Object {
+                  "containers": Array [],
+                  "style": "Line",
+                  "type": "HorizontalRule",
+                },
+                Object {
+                  "id": "1177695802598285314",
+                  "thumbnail": Object {
+                    "format": "jpg",
+                    "id": "hvki4ykn9hfcba6rtloh",
+                  },
+                  "type": "Twitter",
+                },
+              ],
+              "byline": "",
+              "defaultBlogId": 86286,
+              "featuredMedia": null,
+              "firstSentence": "We haven’t seen many big deals on the new Nintendo Switch with drastically improved battery life, bu",
+              "headline": "Buy a New Nintendo Switch (With Improved Battery Life), Get a Bonus $25 Amazon Gift Card",
+              "id": 1838849649,
+              "images": Array [
+                Object {
+                  "format": "jpg",
+                  "height": 720,
+                  "id": "s0eviow28a62lsjitr0t",
+                  "width": 1280,
+                },
+              ],
+              "isBlip": false,
+              "isFeatured": false,
+              "isRoundup": false,
+              "isVideo": false,
+              "largeOnStream": false,
+              "lastUpdateTimeMillis": 1570482616829,
+              "leftOfHeadline": Object {
+                "format": "jpg",
+                "frozenFormat": "jpg",
+                "height": 180,
+                "id": "s0eviow28a62lsjitr0t",
+                "isAnimated": false,
+                "src": "UNUSED",
+                "type": "image",
+                "width": 320,
+              },
+              "length": 357,
+              "mainMedia": null,
+              "parent": null,
+              "parentAuthorId": null,
+              "parentAuthorIds": Array [],
+              "parentId": null,
+              "permalink": "https://kinjadeals.theinventory.com/buy-a-new-nintendo-switch-with-improved-battery-life-1838849649",
+              "permalinkHost": "https://kinjadeals.theinventory.com",
+              "permalinkPath": "/buy-a-new-nintendo-switch-with-improved-battery-life-1838849649",
+              "permalinkRedirect": null,
+              "plaintext": "We haven’t seen many big deals on the new Nintendo Switch with drastically improved battery life, but right now, Amazon will throw in a $25 gift card when you buy one. That’s pretty solid as far as Nintendo Switch discounts go, and about as good a deal as we’ve seen on this new model.",
+              "postId": 1838849649,
+              "properties": "{\\"sharingMainImageSetInDistTools\\":true,\\"dropCapEnabled\\":false,\\"isEmbiggened\\":false,\\"autoRepostDisabled\\":false,\\"impactHeader\\":{}}",
+              "publishTimeMillis": 1570468380649,
+              "relatedModule": Object {
+                "headline": "Recommended Stories",
+                "posts": Array [
+                  Object {
+                    "id": 1838843443,
+                  },
+                  Object {
+                    "id": 1838142301,
+                  },
+                  Object {
+                    "id": 1838845264,
+                  },
+                ],
+                "storyTypes": Array [],
+                "tags": Array [],
+              },
+              "relatedPosts": Array [
+                Object {
+                  "defaultBlogId": 86286,
+                  "headline": "Monday&#39;s Best Deals: Tile, Cole Haan, Hershey&#39;s Candy, and More",
+                  "id": 1838843443,
+                  "permalink": "https://kinjadeals.theinventory.com/mondays-best-deals-tile-cole-haan-hersheys-candy-an-1838843443",
+                  "sharingMainImage": Object {
+                    "format": "jpg",
+                    "frozenFormat": "jpg",
+                    "height": 450,
+                    "id": "gexzqwleqt7bpdwsct4r",
+                    "isAnimated": false,
+                    "src": "UNUSED",
+                    "width": 800,
+                  },
+                },
+                Object {
+                  "defaultBlogId": 86286,
+                  "headline": "Amazon&#39;s Taking $50 Off Apple&#39;s Powerbeats Pros, Which Are Like AirPods, But Better",
+                  "id": 1838142301,
+                  "permalink": "https://kinjadeals.theinventory.com/save-50-on-apples-truly-wireless-power-beats-pro-1838142301",
+                  "sharingMainImage": Object {
+                    "format": "jpg",
+                    "frozenFormat": "jpg",
+                    "height": 450,
+                    "id": "dnn2aif6xfhxfqdyqane",
+                    "isAnimated": false,
+                    "src": "UNUSED",
+                    "width": 800,
+                  },
+                },
+                Object {
+                  "defaultBlogId": 86286,
+                  "headline": "Instant Pot Makes a Blender. A Blender That Cooks. It&#39;s On Sale Today Only.",
+                  "id": 1838845264,
+                  "permalink": "https://kinjadeals.theinventory.com/instant-pot-makes-a-blender-a-blender-that-cooks-its-1838845264",
+                  "sharingMainImage": Object {
+                    "format": "jpg",
+                    "frozenFormat": "jpg",
+                    "height": 449,
+                    "id": "rx4efswcdfhysspuzo7v",
+                    "isAnimated": false,
+                    "src": "UNUSED",
+                    "width": 800,
+                  },
+                },
+              ],
+              "salesAvatar": null,
+              "sharedUrl": null,
+              "sharingMainImage": Object {
+                "format": "jpg",
+                "frozenFormat": "jpg",
+                "height": 450,
+                "id": "s0eviow28a62lsjitr0t",
+                "isAnimated": false,
+                "src": "UNUSED",
+                "width": 800,
+              },
+              "showAuthorBio": true,
+              "showByline": true,
+              "sponsored": false,
+              "starter": null,
+              "starterId": 1838849649,
+              "status": "PUBLISHED",
+              "tags": Array [
+                Object {
+                  "canonical": "kinjadeals",
+                  "displayName": "Kinja Deals",
+                  "urlName": "kinja-deals",
+                },
+                Object {
+                  "canonical": "deals",
+                  "displayName": "Deals",
+                  "urlName": "deals",
+                },
+                Object {
+                  "canonical": "amazondeals",
+                  "displayName": "Amazon Deals",
+                  "urlName": "amazon-deals",
+                },
+              ],
+              "timezone": "America/New_York",
+              "videos": Array [],
+            }
+          }
+        />
+      </Link>
+      <commerce-permalink-module__ContentContainer>
+        <Link
+          events={
+            Array [
+              Array [
+                "Popular commerce click",
+                "position 2",
+                undefined,
+              ],
+            ]
+          }
+          href="undefined?ks=commercerecirc_permalink"
+        >
+          <Headline
+            isExternalNativeAd={false}
+            level={4}
+          >
+            Buy a New Nintendo Switch (With Improved Battery Life), Get a Bonus $25 Amazon Gift Card
+          </Headline>
+        </Link>
+        <span>
+          <MultipleAuthorsStatic
+            authors={
+              Object {
+                "authName": "google",
+                "authType": 3,
+                "avatar": Object {
+                  "format": "jpg",
+                  "id": "ql1l79ncdygfqwckzobr",
+                },
+                "createdMillis": 1490037736000,
+                "displayName": "Chris Kohler",
+                "id": "5876237249237015770",
+                "isSuperuser": false,
+                "lastLoginMillis": 1536804857000,
+                "screenName": "chriskohler",
+                "status": "enabled",
+                "updatedMillis": 1536804857000,
+              }
+            }
+            blog={
+              Object {
+                "avatar": Object {
+                  "format": "png",
+                  "id": "fdj3buryz5nuzyf2k620",
+                },
+                "canonicalHost": "gizmodo.com",
+                "createTimeMillis": 1354577350531,
+                "description": "We come from the future.",
+                "displayName": "Gizmodo",
+                "hosts": Array [
+                  "doctorwho.io9.com",
+                  "animals.kinja.com",
+                  "education.gizmodo.com",
+                  "doctorwho.gizmodo.com",
+                  "nl.gizmodo.com",
+                  "toybox.io9.com",
+                  "animation.gizmodo.com",
+                  "education.kinja.com",
+                  "animalsx.kinja.com",
+                  "toybox.gizmodo.com",
+                  "toybox.kinja.com",
+                  "au.gizmodo.com",
+                  "ca.gizmodo.com",
+                  "gizmodo.kinja.com",
+                  "old.gizmodo.com",
+                  "fetch.gizmodo.com",
+                  "truecrimeio9.kinja.com",
+                  "animation.io9.com",
+                  "truecrime.gizmodo.com",
+                  "001.gizmodo.com",
+                  "www.gizmodo.com",
+                  "gizmodo.in",
+                  "gizmodo.co.in",
+                  "assets.gizmodo.com",
+                  "io9education.kinja.com",
+                  "ru.gizmodo.com",
+                  "m.gizmodo.com",
+                  "education.io9.com",
+                  "blog.gizmodo.com",
+                  "animals.gizmodo.com",
+                  "upgrade.gizmodo.com",
+                  "us.gizmodo.com",
+                  "animation.kinja.com",
+                  "pl.gizmodo.com",
+                  "upgrade.io9.com",
+                  "truecrime.io9.com",
+                  "br.gizmodo.com",
+                  "upgrade.kinja.com",
+                  "animals.io9.com",
+                  "doctorwhoio9.kinja.com",
+                ],
+                "id": "4",
+                "logo": Object {
+                  "format": "png",
+                  "id": "wvhsuflzmeoo0zr9ex55",
+                },
+                "name": "gizmodo",
+                "ownerId": "5876237249236979260",
+                "properties": Object {
+                  "GANJA_IGNORE_GEO": Array [
+                    "us.gizmodo.com",
+                  ],
+                  "aboutPostId": 5732042,
+                  "adsTxtEnabled": true,
+                  "blogGroup": "gizmodo",
+                  "campaignMonitorNewsletterName": "Gizmodo_Daily",
+                  "facebookPixelId": "852713628239858",
+                  "facebookScreenName": "gizmodo",
+                  "fbAppId": "44615671688",
+                  "googleAnalyticsID": "UA-142218-3",
+                  "googleSiteVerification": "Sc6OGUq5heWyOLFpCb_2K6mX7vFrWKGANts4QDUmgOY",
+                  "instagramScreenName": "gizmodo",
+                  "isGmgBlog": true,
+                  "logoLink": "https://x.kinja-static.com/assets/images/logos/newsletter/gizmodo-500px.png",
+                  "mainColor": "#18AFED",
+                  "metaTitle": "Gizmodo, the Gadget Guide",
+                  "navigationGroup": "fmg",
+                  "newsletter": true,
+                  "noindex": false,
+                  "pianoProdAid": "ZpCykEM7YO",
+                  "pianoSandboxAid": "VFrbPA6HDf",
+                  "recircGroup": "fmgNonSatire",
+                  "robotsAllowed": true,
+                  "singleOptIn": true,
+                  "skimLinkId": "33330X911642",
+                  "template": "gizmodo",
+                  "twitterScreenName": "@gizmodo",
+                  "youtubeUrl": "https://www.youtube.com/channel/UCxFmw3IUMDUC1Hh7qDjtjZQ",
+                },
+                "status": "ENABLED",
+                "timezone": "America/New_York",
+                "timezoneOffset": -14400000,
+              }
+            }
+            hideTime={true}
+            index={2}
+            pageType="permalink"
+            postIsDeals={true}
+          />
+        </span>
+      </commerce-permalink-module__ContentContainer>
+    </commerce-permalink-module__CardWrapper>
+  </commerce-permalink-module__Container>
+</Theme>
+`;

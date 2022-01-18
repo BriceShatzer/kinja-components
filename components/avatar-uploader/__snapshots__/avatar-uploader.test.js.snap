@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<AvatarUploader /> should render properly 1`] = `
+<EnsureDefaultTheme>
+  <avatar-uploader__Container>
+    <avatar-uploader__AvatarWrapper />
+    <Button19
+      isSmall={true}
+      label="Upload Avatar"
+      onClick={[Function]}
+      variant="secondary"
+    />
+  </avatar-uploader__Container>
+</EnsureDefaultTheme>
+`;

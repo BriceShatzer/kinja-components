@@ -1,0 +1,86 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CurationBlock - Simplified InlineNode exporter should handle nested tags 1`] = `
+Array [
+  TextNode {
+    "styles": Array [
+      "Italic",
+    ],
+    "type": "Text",
+    "value": "Strong italic text",
+  },
+  TextNode {
+    "styles": Array [],
+    "type": "Text",
+    "value": " normal text ",
+  },
+  TextNode {
+    "styles": Array [
+      "Italic",
+    ],
+    "type": "Text",
+    "value": "Italic text",
+  },
+]
+`;
+
+exports[`CurationBlock - Simplified InlineNode exporter should merge italic tags 1`] = `
+Array [
+  TextNode {
+    "styles": Array [
+      "Italic",
+    ],
+    "type": "Text",
+    "value": "Italic text and another",
+  },
+  TextNode {
+    "styles": Array [],
+    "type": "Text",
+    "value": " and normal text ",
+  },
+  TextNode {
+    "styles": Array [
+      "Italic",
+    ],
+    "type": "Text",
+    "value": " and italic again",
+  },
+]
+`;
+
+exports[`CurationBlock - Simplified InlineNode exporter should parse a simple string 1`] = `
+Array [
+  TextNode {
+    "styles": Array [],
+    "type": "Text",
+    "value": "Hello",
+  },
+]
+`;
+
+exports[`CurationBlock - Simplified InlineNode exporter should parse italics 1`] = `
+Array [
+  TextNode {
+    "styles": Array [
+      "Italic",
+    ],
+    "type": "Text",
+    "value": "Italic text",
+  },
+  TextNode {
+    "styles": Array [],
+    "type": "Text",
+    "value": " normal text",
+  },
+]
+`;
+
+exports[`CurationBlock - Simplified InlineNode exporter should reject other tags 1`] = `
+Array [
+  TextNode {
+    "styles": Array [],
+    "type": "Text",
+    "value": "Strong text normal text linkalert()",
+  },
+]
+`;

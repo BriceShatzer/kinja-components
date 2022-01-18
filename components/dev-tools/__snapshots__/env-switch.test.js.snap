@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<EnvSwitch /> should render 1`] = `
+<Button19
+  icon={<GlobeIcon />}
+  label="Switch to dev version"
+  labelPosition="after"
+  onClick={[Function]}
+/>
+`;

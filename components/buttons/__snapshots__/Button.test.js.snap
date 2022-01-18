@@ -1,0 +1,5447 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button should be colorized as amazon button 1`] = `
+.c3 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c3 + svg,
+.c3 + .c12 {
+  margin-left: 4px;
+}
+
+.c2 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  width: 100%;
+  white-space: nowrap;
+  pointer-events: none;
+}
+
+.c2 svg + span {
+  margin-left: 4px;
+}
+
+.c2 .c12 + span {
+  margin-left: 4px;
+}
+
+.c4 .c1 > svg {
+  margin-bottom: 2px;
+}
+
+.c4:hover .c1 > svg,
+.c4:active .c1 > svg,
+.c4:focus .c1 > svg {
+  stroke: #fff;
+}
+
+.c5 .c1 > svg {
+  margin-bottom: 2px;
+}
+
+.c5:hover .c1 > svg,
+.c5:active .c1 > svg,
+.c5:focus .c1 > svg {
+  stroke: #fff;
+}
+
+.c6 .c1 > svg {
+  margin-bottom: 2px;
+}
+
+.c6:hover .c1 > svg,
+.c6:active .c1 > svg,
+.c6:focus .c1 > svg {
+  stroke: #085c91;
+}
+
+.c7 .c1 > svg {
+  margin-bottom: 2px;
+  stroke: #666;
+}
+
+.c7:hover .c1 > svg,
+.c7:active .c1 > svg,
+.c7:focus .c1 > svg {
+  stroke: #4d4d4d;
+}
+
+.c8 .c1 > svg {
+  margin-bottom: 2px;
+  stroke: #FFF;
+}
+
+.c8:hover .c1 > svg,
+.c8:active .c1 > svg,
+.c8:focus .c1 > svg {
+  stroke: #fff;
+}
+
+.c9 .c1 > svg {
+  margin-bottom: 2px;
+}
+
+.c9:hover .c1 > svg,
+.c9:active .c1 > svg,
+.c9:focus .c1 > svg {
+  stroke: #fff;
+}
+
+.c10 .c1 > svg {
+  margin-bottom: 2px;
+}
+
+.c10:hover .c1 > svg,
+.c10:active .c1 > svg,
+.c10:focus .c1 > svg {
+  stroke: #fff;
+}
+
+.c11 .c1 > svg {
+  margin-bottom: 2px;
+}
+
+.c11:hover .c1 > svg,
+.c11:active .c1 > svg,
+.c11:focus .c1 > svg {
+  stroke: #57955a;
+}
+
+.c0 {
+  width: auto;
+  height: 42px;
+  padding: 0 2rem;
+  border: transparent 1px solid;
+  border-radius: 21px;
+  border-color: transparent;
+  color: #000;
+  font-size: 1rem;
+  text-align: center;
+  line-height: 42px;
+  background-color: #F5C056;
+  -webkit-transition: background-color 0.2s ease-out,border-color 0.2s ease-out,color 0.2s ease-out;
+  transition: background-color 0.2s ease-out,border-color 0.2s ease-out,color 0.2s ease-out;
+}
+
+.c0 .c1 > svg {
+  margin-bottom: 2px;
+}
+
+.c0 .c12 {
+  margin-bottom: 2px;
+}
+
+.c0:hover,
+.c0:active,
+.c0:focus {
+  color: #000;
+  border-color: transparent;
+  background-color: #f2ae26;
+}
+
+.c0:hover .c1 > svg,
+.c0:active .c1 > svg,
+.c0:focus .c1 > svg {
+  stroke: #000;
+}
+
+<Button
+  label="Amazon"
+  variant="amazon"
+>
+  <EnsureDefaultTheme>
+    <ThemeProvider
+      theme={[Function]}
+    >
+      <Button__ButtonWrapper
+        variant="amazon"
+        weight="primary"
+      >
+        <StyledComponent
+          forwardedComponent={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": Array [],
+              "componentStyle": ComponentStyle {
+                "componentId": "Button__ButtonWrapper-j48i5d-2",
+                "isStatic": false,
+                "lastClassName": "c0",
+                "rules": Array [
+                  "width:",
+                  [Function],
+                  ";height:",
+                  [Function],
+                  ";padding:",
+                  [Function],
+                  ";border:transparent 1px solid;border-radius:",
+                  [Function],
+                  ";border-color:",
+                  [Function],
+                  ";color:",
+                  [Function],
+                  ";font-size:",
+                  [Function],
+                  ";text-align:",
+                  [Function],
+                  ";line-height:",
+                  [Function],
+                  ";background-color:",
+                  [Function],
+                  ";transition:",
+                  [Function],
+                  ";",
+                  [Function],
+                  ";",
+                  [Function],
+                  ";",
+                  ".c1",
+                  " > svg{margin-bottom:2px;",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  "}",
+                  ".c12",
+                  "{margin-bottom:2px;}&:hover,&:active,&:focus{color:",
+                  [Function],
+                  ";border-color:",
+                  [Function],
+                  ";background-color:",
+                  [Function],
+                  ";",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  ".c1",
+                  " > svg{",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  "}}",
+                  "@media only screen and ",
+                  "(max-width: 49.94em)",
+                  "{",
+                  "
+		",
+                  [Function],
+                  "
+	",
+                  "}",
+                ],
+              },
+              "displayName": "Button__ButtonWrapper",
+              "foldedComponentIds": Array [],
+              "render": [Function],
+              "styledComponentId": "Button__ButtonWrapper-j48i5d-2",
+              "target": "button",
+              "toString": [Function],
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+          variant="amazon"
+          weight="primary"
+        >
+          <button
+            className="c0"
+          >
+            <Button__ButtonInner>
+              <StyledComponent
+                forwardedComponent={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": Array [],
+                    "componentStyle": ComponentStyle {
+                      "componentId": "c1",
+                      "isStatic": false,
+                      "lastClassName": "c2",
+                      "rules": Array [
+                        "align-items:center;display:flex;justify-content:center;width:100%;white-space:nowrap;pointer-events:none;svg{",
+                        [Function],
+                        " + span{margin-left:4px;}}",
+                        ".c12",
+                        "{+ span{margin-left:4px;}}",
+                      ],
+                    },
+                    "displayName": "Button__ButtonInner",
+                    "foldedComponentIds": Array [],
+                    "render": [Function],
+                    "styledComponentId": "c1",
+                    "target": "div",
+                    "toString": [Function],
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+              >
+                <div
+                  className="c1 c2"
+                >
+                  <Button__Label>
+                    <StyledComponent
+                      forwardedComponent={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "attrs": Array [],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "Button__Label-j48i5d-0",
+                            "isStatic": true,
+                            "lastClassName": "c3",
+                            "rules": Array [
+                              "display:flex;+ svg,+ ",
+                              ".c12",
+                              "{margin-left:4px;}",
+                            ],
+                          },
+                          "displayName": "Button__Label",
+                          "foldedComponentIds": Array [],
+                          "render": [Function],
+                          "styledComponentId": "Button__Label-j48i5d-0",
+                          "target": "span",
+                          "toString": [Function],
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                    >
+                      <span
+                        className="c3"
+                      >
+                        Amazon
+                      </span>
+                    </StyledComponent>
+                  </Button__Label>
+                </div>
+              </StyledComponent>
+            </Button__ButtonInner>
+          </button>
+        </StyledComponent>
+      </Button__ButtonWrapper>
+    </ThemeProvider>
+  </EnsureDefaultTheme>
+</Button>
+`;
+
+exports[`Button should be colorized as commerce button 1`] = `
+.c3 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c3 + svg,
+.c3 + .c10 {
+  margin-left: 4px;
+}
+
+.c2 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  width: 100%;
+  white-space: nowrap;
+  pointer-events: none;
+}
+
+.c2 svg + span {
+  margin-left: 4px;
+}
+
+.c2 .c10 + span {
+  margin-left: 4px;
+}
+
+.c4 .c1 > svg {
+  margin-bottom: 2px;
+}
+
+.c4:hover .c1 > svg,
+.c4:active .c1 > svg,
+.c4:focus .c1 > svg {
+  stroke: #fff;
+}
+
+.c5 .c1 > svg {
+  margin-bottom: 2px;
+}
+
+.c5:hover .c1 > svg,
+.c5:active .c1 > svg,
+.c5:focus .c1 > svg {
+  stroke: #fff;
+}
+
+.c6 .c1 > svg {
+  margin-bottom: 2px;
+}
+
+.c6:hover .c1 > svg,
+.c6:active .c1 > svg,
+.c6:focus .c1 > svg {
+  stroke: #085c91;
+}
+
+.c7 .c1 > svg {
+  margin-bottom: 2px;
+  stroke: #666;
+}
+
+.c7:hover .c1 > svg,
+.c7:active .c1 > svg,
+.c7:focus .c1 > svg {
+  stroke: #4d4d4d;
+}
+
+.c8 .c1 > svg {
+  margin-bottom: 2px;
+  stroke: #FFF;
+}
+
+.c8:hover .c1 > svg,
+.c8:active .c1 > svg,
+.c8:focus .c1 > svg {
+  stroke: #fff;
+}
+
+.c9 .c1 > svg {
+  margin-bottom: 2px;
+}
+
+.c9:hover .c1 > svg,
+.c9:active .c1 > svg,
+.c9:focus .c1 > svg {
+  stroke: #fff;
+}
+
+.c0 {
+  width: auto;
+  height: 42px;
+  padding: 0 2rem;
+  border: transparent 1px solid;
+  border-radius: 21px;
+  border-color: transparent;
+  color: #FFF;
+  font-size: 1rem;
+  text-align: center;
+  line-height: 42px;
+  background-color: #72AD75;
+  -webkit-transition: background-color 0.2s ease-out,border-color 0.2s ease-out,color 0.2s ease-out;
+  transition: background-color 0.2s ease-out,border-color 0.2s ease-out,color 0.2s ease-out;
+}
+
+.c0 .c1 > svg {
+  margin-bottom: 2px;
+}
+
+.c0 .c10 {
+  margin-bottom: 2px;
+}
+
+.c0:hover,
+.c0:active,
+.c0:focus {
+  color: #fff;
+  border-color: transparent;
+  background-color: #57955a;
+}
+
+.c0:hover .c1 > svg,
+.c0:active .c1 > svg,
+.c0:focus .c1 > svg {
+  stroke: #fff;
+}
+
+<Button
+  label="Commerce"
+  variant="commerce"
+>
+  <EnsureDefaultTheme>
+    <ThemeProvider
+      theme={[Function]}
+    >
+      <Button__ButtonWrapper
+        variant="commerce"
+        weight="primary"
+      >
+        <StyledComponent
+          forwardedComponent={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": Array [],
+              "componentStyle": ComponentStyle {
+                "componentId": "Button__ButtonWrapper-j48i5d-2",
+                "isStatic": false,
+                "lastClassName": "c0",
+                "rules": Array [
+                  "width:",
+                  [Function],
+                  ";height:",
+                  [Function],
+                  ";padding:",
+                  [Function],
+                  ";border:transparent 1px solid;border-radius:",
+                  [Function],
+                  ";border-color:",
+                  [Function],
+                  ";color:",
+                  [Function],
+                  ";font-size:",
+                  [Function],
+                  ";text-align:",
+                  [Function],
+                  ";line-height:",
+                  [Function],
+                  ";background-color:",
+                  [Function],
+                  ";transition:",
+                  [Function],
+                  ";",
+                  [Function],
+                  ";",
+                  [Function],
+                  ";",
+                  ".c1",
+                  " > svg{margin-bottom:2px;",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  "}",
+                  ".c10",
+                  "{margin-bottom:2px;}&:hover,&:active,&:focus{color:",
+                  [Function],
+                  ";border-color:",
+                  [Function],
+                  ";background-color:",
+                  [Function],
+                  ";",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  ".c1",
+                  " > svg{",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  "}}",
+                  "@media only screen and ",
+                  "(max-width: 49.94em)",
+                  "{",
+                  "
+		",
+                  [Function],
+                  "
+	",
+                  "}",
+                ],
+              },
+              "displayName": "Button__ButtonWrapper",
+              "foldedComponentIds": Array [],
+              "render": [Function],
+              "styledComponentId": "Button__ButtonWrapper-j48i5d-2",
+              "target": "button",
+              "toString": [Function],
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+          variant="commerce"
+          weight="primary"
+        >
+          <button
+            className="c0"
+          >
+            <Button__ButtonInner>
+              <StyledComponent
+                forwardedComponent={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": Array [],
+                    "componentStyle": ComponentStyle {
+                      "componentId": "c1",
+                      "isStatic": false,
+                      "lastClassName": "c2",
+                      "rules": Array [
+                        "align-items:center;display:flex;justify-content:center;width:100%;white-space:nowrap;pointer-events:none;svg{",
+                        [Function],
+                        " + span{margin-left:4px;}}",
+                        ".c10",
+                        "{+ span{margin-left:4px;}}",
+                      ],
+                    },
+                    "displayName": "Button__ButtonInner",
+                    "foldedComponentIds": Array [],
+                    "render": [Function],
+                    "styledComponentId": "c1",
+                    "target": "div",
+                    "toString": [Function],
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+              >
+                <div
+                  className="c1 c2"
+                >
+                  <Button__Label>
+                    <StyledComponent
+                      forwardedComponent={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "attrs": Array [],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "Button__Label-j48i5d-0",
+                            "isStatic": true,
+                            "lastClassName": "c3",
+                            "rules": Array [
+                              "display:flex;+ svg,+ ",
+                              ".c10",
+                              "{margin-left:4px;}",
+                            ],
+                          },
+                          "displayName": "Button__Label",
+                          "foldedComponentIds": Array [],
+                          "render": [Function],
+                          "styledComponentId": "Button__Label-j48i5d-0",
+                          "target": "span",
+                          "toString": [Function],
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                    >
+                      <span
+                        className="c3"
+                      >
+                        Commerce
+                      </span>
+                    </StyledComponent>
+                  </Button__Label>
+                </div>
+              </StyledComponent>
+            </Button__ButtonInner>
+          </button>
+        </StyledComponent>
+      </Button__ButtonWrapper>
+    </ThemeProvider>
+  </EnsureDefaultTheme>
+</Button>
+`;
+
+exports[`Button should be colorized as error button 1`] = `
+.c3 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c3 + svg,
+.c3 + .c13 {
+  margin-left: 4px;
+}
+
+.c2 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  width: 100%;
+  white-space: nowrap;
+  pointer-events: none;
+}
+
+.c2 svg + span {
+  margin-left: 4px;
+}
+
+.c2 .c13 + span {
+  margin-left: 4px;
+}
+
+.c4 .c1 > svg {
+  margin-bottom: 2px;
+}
+
+.c4:hover .c1 > svg,
+.c4:active .c1 > svg,
+.c4:focus .c1 > svg {
+  stroke: #fff;
+}
+
+.c5 .c1 > svg {
+  margin-bottom: 2px;
+}
+
+.c5:hover .c1 > svg,
+.c5:active .c1 > svg,
+.c5:focus .c1 > svg {
+  stroke: #fff;
+}
+
+.c6 .c1 > svg {
+  margin-bottom: 2px;
+}
+
+.c6:hover .c1 > svg,
+.c6:active .c1 > svg,
+.c6:focus .c1 > svg {
+  stroke: #085c91;
+}
+
+.c7 .c1 > svg {
+  margin-bottom: 2px;
+  stroke: #666;
+}
+
+.c7:hover .c1 > svg,
+.c7:active .c1 > svg,
+.c7:focus .c1 > svg {
+  stroke: #4d4d4d;
+}
+
+.c8 .c1 > svg {
+  margin-bottom: 2px;
+  stroke: #FFF;
+}
+
+.c8:hover .c1 > svg,
+.c8:active .c1 > svg,
+.c8:focus .c1 > svg {
+  stroke: #fff;
+}
+
+.c9 .c1 > svg {
+  margin-bottom: 2px;
+}
+
+.c9:hover .c1 > svg,
+.c9:active .c1 > svg,
+.c9:focus .c1 > svg {
+  stroke: #fff;
+}
+
+.c10 .c1 > svg {
+  margin-bottom: 2px;
+}
+
+.c10:hover .c1 > svg,
+.c10:active .c1 > svg,
+.c10:focus .c1 > svg {
+  stroke: #fff;
+}
+
+.c11 .c1 > svg {
+  margin-bottom: 2px;
+}
+
+.c11:hover .c1 > svg,
+.c11:active .c1 > svg,
+.c11:focus .c1 > svg {
+  stroke: #57955a;
+}
+
+.c12 .c1 > svg {
+  margin-bottom: 2px;
+}
+
+.c12:hover .c1 > svg,
+.c12:active .c1 > svg,
+.c12:focus .c1 > svg {
+  stroke: #000;
+}
+
+.c0 {
+  width: auto;
+  height: 42px;
+  padding: 0 2rem;
+  border: transparent 1px solid;
+  border-radius: 21px;
+  border-color: transparent;
+  color: #FFF;
+  font-size: 1rem;
+  text-align: center;
+  line-height: 42px;
+  background-color: #D24A1D;
+  -webkit-transition: background-color 0.2s ease-out,border-color 0.2s ease-out,color 0.2s ease-out;
+  transition: background-color 0.2s ease-out,border-color 0.2s ease-out,color 0.2s ease-out;
+}
+
+.c0 .c1 > svg {
+  margin-bottom: 2px;
+}
+
+.c0 .c13 {
+  margin-bottom: 2px;
+}
+
+.c0:hover,
+.c0:active,
+.c0:focus {
+  color: #fff;
+  border-color: transparent;
+  background-color: #a53a17;
+}
+
+.c0:hover .c1 > svg,
+.c0:active .c1 > svg,
+.c0:focus .c1 > svg {
+  stroke: #fff;
+}
+
+<Button
+  label="Error"
+  variant="error"
+>
+  <EnsureDefaultTheme>
+    <ThemeProvider
+      theme={[Function]}
+    >
+      <Button__ButtonWrapper
+        variant="error"
+        weight="primary"
+      >
+        <StyledComponent
+          forwardedComponent={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": Array [],
+              "componentStyle": ComponentStyle {
+                "componentId": "Button__ButtonWrapper-j48i5d-2",
+                "isStatic": false,
+                "lastClassName": "c0",
+                "rules": Array [
+                  "width:",
+                  [Function],
+                  ";height:",
+                  [Function],
+                  ";padding:",
+                  [Function],
+                  ";border:transparent 1px solid;border-radius:",
+                  [Function],
+                  ";border-color:",
+                  [Function],
+                  ";color:",
+                  [Function],
+                  ";font-size:",
+                  [Function],
+                  ";text-align:",
+                  [Function],
+                  ";line-height:",
+                  [Function],
+                  ";background-color:",
+                  [Function],
+                  ";transition:",
+                  [Function],
+                  ";",
+                  [Function],
+                  ";",
+                  [Function],
+                  ";",
+                  ".c1",
+                  " > svg{margin-bottom:2px;",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  "}",
+                  ".c13",
+                  "{margin-bottom:2px;}&:hover,&:active,&:focus{color:",
+                  [Function],
+                  ";border-color:",
+                  [Function],
+                  ";background-color:",
+                  [Function],
+                  ";",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  ".c1",
+                  " > svg{",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  "}}",
+                  "@media only screen and ",
+                  "(max-width: 49.94em)",
+                  "{",
+                  "
+		",
+                  [Function],
+                  "
+	",
+                  "}",
+                ],
+              },
+              "displayName": "Button__ButtonWrapper",
+              "foldedComponentIds": Array [],
+              "render": [Function],
+              "styledComponentId": "Button__ButtonWrapper-j48i5d-2",
+              "target": "button",
+              "toString": [Function],
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+          variant="error"
+          weight="primary"
+        >
+          <button
+            className="c0"
+          >
+            <Button__ButtonInner>
+              <StyledComponent
+                forwardedComponent={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": Array [],
+                    "componentStyle": ComponentStyle {
+                      "componentId": "c1",
+                      "isStatic": false,
+                      "lastClassName": "c2",
+                      "rules": Array [
+                        "align-items:center;display:flex;justify-content:center;width:100%;white-space:nowrap;pointer-events:none;svg{",
+                        [Function],
+                        " + span{margin-left:4px;}}",
+                        ".c13",
+                        "{+ span{margin-left:4px;}}",
+                      ],
+                    },
+                    "displayName": "Button__ButtonInner",
+                    "foldedComponentIds": Array [],
+                    "render": [Function],
+                    "styledComponentId": "c1",
+                    "target": "div",
+                    "toString": [Function],
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+              >
+                <div
+                  className="c1 c2"
+                >
+                  <Button__Label>
+                    <StyledComponent
+                      forwardedComponent={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "attrs": Array [],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "Button__Label-j48i5d-0",
+                            "isStatic": true,
+                            "lastClassName": "c3",
+                            "rules": Array [
+                              "display:flex;+ svg,+ ",
+                              ".c13",
+                              "{margin-left:4px;}",
+                            ],
+                          },
+                          "displayName": "Button__Label",
+                          "foldedComponentIds": Array [],
+                          "render": [Function],
+                          "styledComponentId": "Button__Label-j48i5d-0",
+                          "target": "span",
+                          "toString": [Function],
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                    >
+                      <span
+                        className="c3"
+                      >
+                        Error
+                      </span>
+                    </StyledComponent>
+                  </Button__Label>
+                </div>
+              </StyledComponent>
+            </Button__ButtonInner>
+          </button>
+        </StyledComponent>
+      </Button__ButtonWrapper>
+    </ThemeProvider>
+  </EnsureDefaultTheme>
+</Button>
+`;
+
+exports[`Button should be colorized as secondary commerce button 1`] = `
+.c3 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c3 + svg,
+.c3 + .c11 {
+  margin-left: 4px;
+}
+
+.c2 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  width: 100%;
+  white-space: nowrap;
+  pointer-events: none;
+}
+
+.c2 svg + span {
+  margin-left: 4px;
+}
+
+.c2 .c11 + span {
+  margin-left: 4px;
+}
+
+.c4 .c1 > svg {
+  margin-bottom: 2px;
+}
+
+.c4:hover .c1 > svg,
+.c4:active .c1 > svg,
+.c4:focus .c1 > svg {
+  stroke: #fff;
+}
+
+.c5 .c1 > svg {
+  margin-bottom: 2px;
+}
+
+.c5:hover .c1 > svg,
+.c5:active .c1 > svg,
+.c5:focus .c1 > svg {
+  stroke: #fff;
+}
+
+.c6 .c1 > svg {
+  margin-bottom: 2px;
+}
+
+.c6:hover .c1 > svg,
+.c6:active .c1 > svg,
+.c6:focus .c1 > svg {
+  stroke: #085c91;
+}
+
+.c7 .c1 > svg {
+  margin-bottom: 2px;
+  stroke: #666;
+}
+
+.c7:hover .c1 > svg,
+.c7:active .c1 > svg,
+.c7:focus .c1 > svg {
+  stroke: #4d4d4d;
+}
+
+.c8 .c1 > svg {
+  margin-bottom: 2px;
+  stroke: #FFF;
+}
+
+.c8:hover .c1 > svg,
+.c8:active .c1 > svg,
+.c8:focus .c1 > svg {
+  stroke: #fff;
+}
+
+.c9 .c1 > svg {
+  margin-bottom: 2px;
+}
+
+.c9:hover .c1 > svg,
+.c9:active .c1 > svg,
+.c9:focus .c1 > svg {
+  stroke: #fff;
+}
+
+.c10 .c1 > svg {
+  margin-bottom: 2px;
+}
+
+.c10:hover .c1 > svg,
+.c10:active .c1 > svg,
+.c10:focus .c1 > svg {
+  stroke: #fff;
+}
+
+.c0 {
+  width: auto;
+  height: 42px;
+  padding: 0 2rem;
+  border: transparent 1px solid;
+  border-radius: 21px;
+  border-color: #72AD75;
+  color: #72AD75;
+  font-size: 1rem;
+  text-align: center;
+  line-height: 42px;
+  background-color: #FFF;
+  -webkit-transition: background-color 0.2s ease-out,border-color 0.2s ease-out,color 0.2s ease-out;
+  transition: background-color 0.2s ease-out,border-color 0.2s ease-out,color 0.2s ease-out;
+}
+
+.c0 .c1 > svg {
+  margin-bottom: 2px;
+}
+
+.c0 .c11 {
+  margin-bottom: 2px;
+}
+
+.c0:hover,
+.c0:active,
+.c0:focus {
+  color: #447547;
+  border-color: #447547;
+  background-color: #fff;
+}
+
+.c0:hover .c1 > svg,
+.c0:active .c1 > svg,
+.c0:focus .c1 > svg {
+  stroke: #57955a;
+}
+
+<Button
+  label="Commerce"
+  variant="commerce"
+  weight="secondary"
+>
+  <EnsureDefaultTheme>
+    <ThemeProvider
+      theme={[Function]}
+    >
+      <Button__ButtonWrapper
+        variant="commerce"
+        weight="secondary"
+      >
+        <StyledComponent
+          forwardedComponent={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": Array [],
+              "componentStyle": ComponentStyle {
+                "componentId": "Button__ButtonWrapper-j48i5d-2",
+                "isStatic": false,
+                "lastClassName": "c0",
+                "rules": Array [
+                  "width:",
+                  [Function],
+                  ";height:",
+                  [Function],
+                  ";padding:",
+                  [Function],
+                  ";border:transparent 1px solid;border-radius:",
+                  [Function],
+                  ";border-color:",
+                  [Function],
+                  ";color:",
+                  [Function],
+                  ";font-size:",
+                  [Function],
+                  ";text-align:",
+                  [Function],
+                  ";line-height:",
+                  [Function],
+                  ";background-color:",
+                  [Function],
+                  ";transition:",
+                  [Function],
+                  ";",
+                  [Function],
+                  ";",
+                  [Function],
+                  ";",
+                  ".c1",
+                  " > svg{margin-bottom:2px;",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  "}",
+                  ".c11",
+                  "{margin-bottom:2px;}&:hover,&:active,&:focus{color:",
+                  [Function],
+                  ";border-color:",
+                  [Function],
+                  ";background-color:",
+                  [Function],
+                  ";",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  ".c1",
+                  " > svg{",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  "}}",
+                  "@media only screen and ",
+                  "(max-width: 49.94em)",
+                  "{",
+                  "
+		",
+                  [Function],
+                  "
+	",
+                  "}",
+                ],
+              },
+              "displayName": "Button__ButtonWrapper",
+              "foldedComponentIds": Array [],
+              "render": [Function],
+              "styledComponentId": "Button__ButtonWrapper-j48i5d-2",
+              "target": "button",
+              "toString": [Function],
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+          variant="commerce"
+          weight="secondary"
+        >
+          <button
+            className="c0"
+          >
+            <Button__ButtonInner>
+              <StyledComponent
+                forwardedComponent={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": Array [],
+                    "componentStyle": ComponentStyle {
+                      "componentId": "c1",
+                      "isStatic": false,
+                      "lastClassName": "c2",
+                      "rules": Array [
+                        "align-items:center;display:flex;justify-content:center;width:100%;white-space:nowrap;pointer-events:none;svg{",
+                        [Function],
+                        " + span{margin-left:4px;}}",
+                        ".c11",
+                        "{+ span{margin-left:4px;}}",
+                      ],
+                    },
+                    "displayName": "Button__ButtonInner",
+                    "foldedComponentIds": Array [],
+                    "render": [Function],
+                    "styledComponentId": "c1",
+                    "target": "div",
+                    "toString": [Function],
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+              >
+                <div
+                  className="c1 c2"
+                >
+                  <Button__Label>
+                    <StyledComponent
+                      forwardedComponent={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "attrs": Array [],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "Button__Label-j48i5d-0",
+                            "isStatic": true,
+                            "lastClassName": "c3",
+                            "rules": Array [
+                              "display:flex;+ svg,+ ",
+                              ".c11",
+                              "{margin-left:4px;}",
+                            ],
+                          },
+                          "displayName": "Button__Label",
+                          "foldedComponentIds": Array [],
+                          "render": [Function],
+                          "styledComponentId": "Button__Label-j48i5d-0",
+                          "target": "span",
+                          "toString": [Function],
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                    >
+                      <span
+                        className="c3"
+                      >
+                        Commerce
+                      </span>
+                    </StyledComponent>
+                  </Button__Label>
+                </div>
+              </StyledComponent>
+            </Button__ButtonInner>
+          </button>
+        </StyledComponent>
+      </Button__ButtonWrapper>
+    </ThemeProvider>
+  </EnsureDefaultTheme>
+</Button>
+`;
+
+exports[`Button should be disabled 1`] = `
+.c3 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c3 + svg,
+.c3 + .c8 {
+  margin-left: 4px;
+}
+
+.c2 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  width: 100%;
+  white-space: nowrap;
+  pointer-events: none;
+}
+
+.c2 svg + span {
+  margin-left: 4px;
+}
+
+.c2 .c8 + span {
+  margin-left: 4px;
+}
+
+.c4 .c1 > svg {
+  margin-bottom: 2px;
+}
+
+.c4:hover .c1 > svg,
+.c4:active .c1 > svg,
+.c4:focus .c1 > svg {
+  stroke: #fff;
+}
+
+.c5 .c1 > svg {
+  margin-bottom: 2px;
+}
+
+.c5:hover .c1 > svg,
+.c5:active .c1 > svg,
+.c5:focus .c1 > svg {
+  stroke: #fff;
+}
+
+.c6 .c1 > svg {
+  margin-bottom: 2px;
+}
+
+.c6:hover .c1 > svg,
+.c6:active .c1 > svg,
+.c6:focus .c1 > svg {
+  stroke: #085c91;
+}
+
+.c7 .c1 > svg {
+  margin-bottom: 2px;
+  stroke: #666;
+}
+
+.c7:hover .c1 > svg,
+.c7:active .c1 > svg,
+.c7:focus .c1 > svg {
+  stroke: #4d4d4d;
+}
+
+.c0 {
+  width: auto;
+  height: 42px;
+  padding: 0 2rem;
+  border: transparent 1px solid;
+  border-radius: 21px;
+  border-color: transparent;
+  color: #FFF;
+  font-size: 1rem;
+  text-align: center;
+  line-height: 42px;
+  background-color: #E5E5E5;
+  -webkit-transition: background-color 0.2s ease-out,border-color 0.2s ease-out,color 0.2s ease-out;
+  transition: background-color 0.2s ease-out,border-color 0.2s ease-out,color 0.2s ease-out;
+  cursor: not-allowed;
+}
+
+.c0 .c1 > svg {
+  margin-bottom: 2px;
+  stroke: #FFF;
+}
+
+.c0 .c8 {
+  margin-bottom: 2px;
+}
+
+.c0:hover,
+.c0:active,
+.c0:focus {
+  color: #fff;
+  border-color: transparent;
+  background-color: #e5e5e5;
+}
+
+.c0:hover .c1 > svg,
+.c0:active .c1 > svg,
+.c0:focus .c1 > svg {
+  stroke: #fff;
+}
+
+<Button
+  disabled={true}
+  label="Regular"
+>
+  <EnsureDefaultTheme>
+    <ThemeProvider
+      theme={[Function]}
+    >
+      <Button__ButtonWrapper
+        disabled={true}
+        isDisabled={true}
+        weight="primary"
+      >
+        <StyledComponent
+          disabled={true}
+          forwardedComponent={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": Array [],
+              "componentStyle": ComponentStyle {
+                "componentId": "Button__ButtonWrapper-j48i5d-2",
+                "isStatic": false,
+                "lastClassName": "c0",
+                "rules": Array [
+                  "width:",
+                  [Function],
+                  ";height:",
+                  [Function],
+                  ";padding:",
+                  [Function],
+                  ";border:transparent 1px solid;border-radius:",
+                  [Function],
+                  ";border-color:",
+                  [Function],
+                  ";color:",
+                  [Function],
+                  ";font-size:",
+                  [Function],
+                  ";text-align:",
+                  [Function],
+                  ";line-height:",
+                  [Function],
+                  ";background-color:",
+                  [Function],
+                  ";transition:",
+                  [Function],
+                  ";",
+                  [Function],
+                  ";",
+                  [Function],
+                  ";",
+                  ".c1",
+                  " > svg{margin-bottom:2px;",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  "}",
+                  ".c8",
+                  "{margin-bottom:2px;}&:hover,&:active,&:focus{color:",
+                  [Function],
+                  ";border-color:",
+                  [Function],
+                  ";background-color:",
+                  [Function],
+                  ";",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  ".c1",
+                  " > svg{",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  "}}",
+                  "@media only screen and ",
+                  "(max-width: 49.94em)",
+                  "{",
+                  "
+		",
+                  [Function],
+                  "
+	",
+                  "}",
+                ],
+              },
+              "displayName": "Button__ButtonWrapper",
+              "foldedComponentIds": Array [],
+              "render": [Function],
+              "styledComponentId": "Button__ButtonWrapper-j48i5d-2",
+              "target": "button",
+              "toString": [Function],
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+          isDisabled={true}
+          weight="primary"
+        >
+          <button
+            className="c0"
+            disabled={true}
+          >
+            <Button__ButtonInner>
+              <StyledComponent
+                forwardedComponent={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": Array [],
+                    "componentStyle": ComponentStyle {
+                      "componentId": "c1",
+                      "isStatic": false,
+                      "lastClassName": "c2",
+                      "rules": Array [
+                        "align-items:center;display:flex;justify-content:center;width:100%;white-space:nowrap;pointer-events:none;svg{",
+                        [Function],
+                        " + span{margin-left:4px;}}",
+                        ".c8",
+                        "{+ span{margin-left:4px;}}",
+                      ],
+                    },
+                    "displayName": "Button__ButtonInner",
+                    "foldedComponentIds": Array [],
+                    "render": [Function],
+                    "styledComponentId": "c1",
+                    "target": "div",
+                    "toString": [Function],
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+              >
+                <div
+                  className="c1 c2"
+                >
+                  <Button__Label>
+                    <StyledComponent
+                      forwardedComponent={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "attrs": Array [],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "Button__Label-j48i5d-0",
+                            "isStatic": true,
+                            "lastClassName": "c3",
+                            "rules": Array [
+                              "display:flex;+ svg,+ ",
+                              ".c8",
+                              "{margin-left:4px;}",
+                            ],
+                          },
+                          "displayName": "Button__Label",
+                          "foldedComponentIds": Array [],
+                          "render": [Function],
+                          "styledComponentId": "Button__Label-j48i5d-0",
+                          "target": "span",
+                          "toString": [Function],
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                    >
+                      <span
+                        className="c3"
+                      >
+                        Regular
+                      </span>
+                    </StyledComponent>
+                  </Button__Label>
+                </div>
+              </StyledComponent>
+            </Button__ButtonInner>
+          </button>
+        </StyledComponent>
+      </Button__ButtonWrapper>
+    </ThemeProvider>
+  </EnsureDefaultTheme>
+</Button>
+`;
+
+exports[`Button should be full width 1`] = `
+.c3 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c3 + svg,
+.c3 + .c9 {
+  margin-left: 4px;
+}
+
+.c2 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  width: 100%;
+  white-space: nowrap;
+  pointer-events: none;
+}
+
+.c2 svg + span {
+  margin-left: 4px;
+}
+
+.c2 .c9 + span {
+  margin-left: 4px;
+}
+
+.c4 .c1 > svg {
+  margin-bottom: 2px;
+}
+
+.c4:hover .c1 > svg,
+.c4:active .c1 > svg,
+.c4:focus .c1 > svg {
+  stroke: #fff;
+}
+
+.c5 .c1 > svg {
+  margin-bottom: 2px;
+}
+
+.c5:hover .c1 > svg,
+.c5:active .c1 > svg,
+.c5:focus .c1 > svg {
+  stroke: #fff;
+}
+
+.c6 .c1 > svg {
+  margin-bottom: 2px;
+}
+
+.c6:hover .c1 > svg,
+.c6:active .c1 > svg,
+.c6:focus .c1 > svg {
+  stroke: #085c91;
+}
+
+.c7 .c1 > svg {
+  margin-bottom: 2px;
+  stroke: #666;
+}
+
+.c7:hover .c1 > svg,
+.c7:active .c1 > svg,
+.c7:focus .c1 > svg {
+  stroke: #4d4d4d;
+}
+
+.c8 .c1 > svg {
+  margin-bottom: 2px;
+  stroke: #FFF;
+}
+
+.c8:hover .c1 > svg,
+.c8:active .c1 > svg,
+.c8:focus .c1 > svg {
+  stroke: #fff;
+}
+
+.c0 {
+  width: 100%;
+  height: 42px;
+  padding: 0 2rem;
+  border: transparent 1px solid;
+  border-radius: 0;
+  border-color: transparent;
+  color: #FFF;
+  font-size: 1rem;
+  text-align: center;
+  line-height: 42px;
+  background-color: #0A7BC2;
+  -webkit-transition: background-color 0.2s ease-out,border-color 0.2s ease-out,color 0.2s ease-out;
+  transition: background-color 0.2s ease-out,border-color 0.2s ease-out,color 0.2s ease-out;
+}
+
+.c0 .c1 > svg {
+  margin-bottom: 2px;
+}
+
+.c0 .c9 {
+  margin-bottom: 2px;
+}
+
+.c0:hover,
+.c0:active,
+.c0:focus {
+  color: #fff;
+  border-color: transparent;
+  background-color: #085c91;
+}
+
+.c0:hover .c1 > svg,
+.c0:active .c1 > svg,
+.c0:focus .c1 > svg {
+  stroke: #fff;
+}
+
+<Button
+  fullwidth={true}
+  label="Fullwidth"
+>
+  <EnsureDefaultTheme>
+    <ThemeProvider
+      theme={[Function]}
+    >
+      <Button__ButtonWrapper
+        fullwidth={true}
+        weight="primary"
+      >
+        <StyledComponent
+          forwardedComponent={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": Array [],
+              "componentStyle": ComponentStyle {
+                "componentId": "Button__ButtonWrapper-j48i5d-2",
+                "isStatic": false,
+                "lastClassName": "c0",
+                "rules": Array [
+                  "width:",
+                  [Function],
+                  ";height:",
+                  [Function],
+                  ";padding:",
+                  [Function],
+                  ";border:transparent 1px solid;border-radius:",
+                  [Function],
+                  ";border-color:",
+                  [Function],
+                  ";color:",
+                  [Function],
+                  ";font-size:",
+                  [Function],
+                  ";text-align:",
+                  [Function],
+                  ";line-height:",
+                  [Function],
+                  ";background-color:",
+                  [Function],
+                  ";transition:",
+                  [Function],
+                  ";",
+                  [Function],
+                  ";",
+                  [Function],
+                  ";",
+                  ".c1",
+                  " > svg{margin-bottom:2px;",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  "}",
+                  ".c9",
+                  "{margin-bottom:2px;}&:hover,&:active,&:focus{color:",
+                  [Function],
+                  ";border-color:",
+                  [Function],
+                  ";background-color:",
+                  [Function],
+                  ";",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  ".c1",
+                  " > svg{",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  "}}",
+                  "@media only screen and ",
+                  "(max-width: 49.94em)",
+                  "{",
+                  "
+		",
+                  [Function],
+                  "
+	",
+                  "}",
+                ],
+              },
+              "displayName": "Button__ButtonWrapper",
+              "foldedComponentIds": Array [],
+              "render": [Function],
+              "styledComponentId": "Button__ButtonWrapper-j48i5d-2",
+              "target": "button",
+              "toString": [Function],
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+          fullwidth={true}
+          weight="primary"
+        >
+          <button
+            className="c0"
+          >
+            <Button__ButtonInner>
+              <StyledComponent
+                forwardedComponent={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": Array [],
+                    "componentStyle": ComponentStyle {
+                      "componentId": "c1",
+                      "isStatic": false,
+                      "lastClassName": "c2",
+                      "rules": Array [
+                        "align-items:center;display:flex;justify-content:center;width:100%;white-space:nowrap;pointer-events:none;svg{",
+                        [Function],
+                        " + span{margin-left:4px;}}",
+                        ".c9",
+                        "{+ span{margin-left:4px;}}",
+                      ],
+                    },
+                    "displayName": "Button__ButtonInner",
+                    "foldedComponentIds": Array [],
+                    "render": [Function],
+                    "styledComponentId": "c1",
+                    "target": "div",
+                    "toString": [Function],
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+              >
+                <div
+                  className="c1 c2"
+                >
+                  <Button__Label>
+                    <StyledComponent
+                      forwardedComponent={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "attrs": Array [],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "Button__Label-j48i5d-0",
+                            "isStatic": true,
+                            "lastClassName": "c3",
+                            "rules": Array [
+                              "display:flex;+ svg,+ ",
+                              ".c9",
+                              "{margin-left:4px;}",
+                            ],
+                          },
+                          "displayName": "Button__Label",
+                          "foldedComponentIds": Array [],
+                          "render": [Function],
+                          "styledComponentId": "Button__Label-j48i5d-0",
+                          "target": "span",
+                          "toString": [Function],
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                    >
+                      <span
+                        className="c3"
+                      >
+                        Fullwidth
+                      </span>
+                    </StyledComponent>
+                  </Button__Label>
+                </div>
+              </StyledComponent>
+            </Button__ButtonInner>
+          </button>
+        </StyledComponent>
+      </Button__ButtonWrapper>
+    </ThemeProvider>
+  </EnsureDefaultTheme>
+</Button>
+`;
+
+exports[`Button should have 2 children label and icon-wrapper 1`] = `
+.c4 {
+  fill: currentColor;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c5 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c5 + svg,
+.c5 + .c3 {
+  margin-left: 4px;
+}
+
+.c2 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  width: 100%;
+  white-space: nowrap;
+  pointer-events: none;
+}
+
+.c2 svg + span {
+  margin-left: 4px;
+}
+
+.c2 .c3 + span {
+  margin-left: 4px;
+}
+
+.c0 {
+  width: auto;
+  height: 42px;
+  padding: 0 2rem;
+  border: transparent 1px solid;
+  border-radius: 21px;
+  border-color: transparent;
+  color: #FFF;
+  font-size: 1rem;
+  text-align: center;
+  line-height: 42px;
+  background-color: #0A7BC2;
+  -webkit-transition: background-color 0.2s ease-out,border-color 0.2s ease-out,color 0.2s ease-out;
+  transition: background-color 0.2s ease-out,border-color 0.2s ease-out,color 0.2s ease-out;
+}
+
+.c0 .c1 > svg {
+  margin-bottom: 2px;
+}
+
+.c0 .c3 {
+  margin-bottom: 2px;
+}
+
+.c0:hover,
+.c0:active,
+.c0:focus {
+  color: #fff;
+  border-color: transparent;
+  background-color: #085c91;
+}
+
+.c0:hover .c1 > svg,
+.c0:active .c1 > svg,
+.c0:focus .c1 > svg {
+  stroke: #fff;
+}
+
+.c6 .c1 > svg {
+  margin-bottom: 2px;
+}
+
+.c6 .c3 {
+  margin-bottom: 2px;
+}
+
+.c6:hover .c1 > svg,
+.c6:active .c1 > svg,
+.c6:focus .c1 > svg {
+  stroke: #fff;
+}
+
+.c7 .c1 > svg {
+  margin-bottom: 2px;
+}
+
+.c7 .c3 {
+  margin-bottom: 2px;
+}
+
+.c7:hover .c1 > svg,
+.c7:active .c1 > svg,
+.c7:focus .c1 > svg {
+  stroke: #085c91;
+}
+
+.c8 .c1 > svg {
+  margin-bottom: 2px;
+  stroke: #666;
+}
+
+.c8 .c3 {
+  margin-bottom: 2px;
+}
+
+.c8:hover .c1 > svg,
+.c8:active .c1 > svg,
+.c8:focus .c1 > svg {
+  stroke: #4d4d4d;
+}
+
+.c9 .c1 > svg {
+  margin-bottom: 2px;
+  stroke: #FFF;
+}
+
+.c9 .c3 {
+  margin-bottom: 2px;
+}
+
+.c9:hover .c1 > svg,
+.c9:active .c1 > svg,
+.c9:focus .c1 > svg {
+  stroke: #fff;
+}
+
+.c10 .c1 > svg {
+  margin-bottom: 2px;
+}
+
+.c10 .c3 {
+  margin-bottom: 2px;
+}
+
+.c10:hover .c1 > svg,
+.c10:active .c1 > svg,
+.c10:focus .c1 > svg {
+  stroke: #fff;
+}
+
+.c11 .c1 > svg {
+  margin-bottom: 2px;
+}
+
+.c11 .c3 {
+  margin-bottom: 2px;
+}
+
+.c11:hover .c1 > svg,
+.c11:active .c1 > svg,
+.c11:focus .c1 > svg {
+  stroke: #fff;
+}
+
+.c12 .c1 > svg {
+  margin-bottom: 2px;
+}
+
+.c12 .c3 {
+  margin-bottom: 2px;
+}
+
+.c12:hover .c1 > svg,
+.c12:active .c1 > svg,
+.c12:focus .c1 > svg {
+  stroke: #57955a;
+}
+
+.c13 .c1 > svg {
+  margin-bottom: 2px;
+}
+
+.c13 .c3 {
+  margin-bottom: 2px;
+}
+
+.c13:hover .c1 > svg,
+.c13:active .c1 > svg,
+.c13:focus .c1 > svg {
+  stroke: #000;
+}
+
+.c14 .c1 > svg {
+  margin-bottom: 2px;
+}
+
+.c14 .c3 {
+  margin-bottom: 2px;
+}
+
+.c14:hover .c1 > svg,
+.c14:active .c1 > svg,
+.c14:focus .c1 > svg {
+  stroke: #fff;
+}
+
+<Button
+  icon={<HeartIcon />}
+  label="Hearted"
+  labelPosition="after"
+  weight="primary"
+>
+  <EnsureDefaultTheme>
+    <ThemeProvider
+      theme={[Function]}
+    >
+      <Button__ButtonWrapper
+        weight="primary"
+      >
+        <StyledComponent
+          forwardedComponent={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": Array [],
+              "componentStyle": ComponentStyle {
+                "componentId": "Button__ButtonWrapper-j48i5d-2",
+                "isStatic": false,
+                "lastClassName": "c0",
+                "rules": Array [
+                  "width:",
+                  [Function],
+                  ";height:",
+                  [Function],
+                  ";padding:",
+                  [Function],
+                  ";border:transparent 1px solid;border-radius:",
+                  [Function],
+                  ";border-color:",
+                  [Function],
+                  ";color:",
+                  [Function],
+                  ";font-size:",
+                  [Function],
+                  ";text-align:",
+                  [Function],
+                  ";line-height:",
+                  [Function],
+                  ";background-color:",
+                  [Function],
+                  ";transition:",
+                  [Function],
+                  ";",
+                  [Function],
+                  ";",
+                  [Function],
+                  ";",
+                  ".c1",
+                  " > svg{margin-bottom:2px;",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  "}",
+                  ".c3",
+                  "{margin-bottom:2px;}&:hover,&:active,&:focus{color:",
+                  [Function],
+                  ";border-color:",
+                  [Function],
+                  ";background-color:",
+                  [Function],
+                  ";",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  ".c1",
+                  " > svg{",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  "}}",
+                  "@media only screen and ",
+                  "(max-width: 49.94em)",
+                  "{",
+                  "
+		",
+                  [Function],
+                  "
+	",
+                  "}",
+                ],
+              },
+              "displayName": "Button__ButtonWrapper",
+              "foldedComponentIds": Array [],
+              "render": [Function],
+              "styledComponentId": "Button__ButtonWrapper-j48i5d-2",
+              "target": "button",
+              "toString": [Function],
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+          weight="primary"
+        >
+          <button
+            className="c0"
+          >
+            <Button__ButtonInner>
+              <StyledComponent
+                forwardedComponent={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": Array [],
+                    "componentStyle": ComponentStyle {
+                      "componentId": "c1",
+                      "isStatic": false,
+                      "lastClassName": "c2",
+                      "rules": Array [
+                        "align-items:center;display:flex;justify-content:center;width:100%;white-space:nowrap;pointer-events:none;svg{",
+                        [Function],
+                        " + span{margin-left:4px;}}",
+                        ".c3",
+                        "{+ span{margin-left:4px;}}",
+                      ],
+                    },
+                    "displayName": "Button__ButtonInner",
+                    "foldedComponentIds": Array [],
+                    "render": [Function],
+                    "styledComponentId": "c1",
+                    "target": "div",
+                    "toString": [Function],
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+              >
+                <div
+                  className="c1 c2"
+                >
+                  <HeartIcon>
+                    <Icon19>
+                      <icon19__IconWrapper>
+                        <StyledComponent
+                          forwardedComponent={
+                            Object {
+                              "$$typeof": Symbol(react.forward_ref),
+                              "attrs": Array [],
+                              "componentStyle": ComponentStyle {
+                                "componentId": "c3",
+                                "isStatic": true,
+                                "lastClassName": "c4",
+                                "rules": Array [
+                                  "fill:currentColor;display:flex;",
+                                ],
+                              },
+                              "displayName": "icon19__IconWrapper",
+                              "foldedComponentIds": Array [],
+                              "render": [Function],
+                              "styledComponentId": "c3",
+                              "target": "span",
+                              "toString": [Function],
+                              "warnTooManyClasses": [Function],
+                              "withComponent": [Function],
+                            }
+                          }
+                          forwardedRef={null}
+                        >
+                          <span
+                            className="c3 c4"
+                          >
+                            <Heart
+                              aria-label="Heart icon"
+                              height="18"
+                              viewBox="0 0 18 18"
+                              width="18"
+                              xmlns="http://www.w3.org/2000/svg"
+                            >
+                              <svg
+                                aria-label="Heart icon"
+                                height="18"
+                                viewBox="0 0 18 18"
+                                width="18"
+                                xmlns="http://www.w3.org/2000/svg"
+                              >
+                                <path
+                                  d="M9.87 15.64a1.21 1.21 0 0 1-1.74 0L2.3 9.66a4.5 4.5 0 0 1 0-6.33 4.38 4.38 0 0 1 6.28 0l.44.44.42-.44a4.38 4.38 0 0 1 6.29 0 4.55 4.55 0 0 1 0 6.33L10.7 14.8l-.83.85zm-.72-.7L15 8.96a3.55 3.55 0 0 0 0-4.93 3.37 3.37 0 0 0-4.85 0L9.02 5.2l-.36-.37-.8-.81a3.37 3.37 0 0 0-4.86 0 3.5 3.5 0 0 0-1 2.46c0 .94.36 1.81 1 2.47l5.85 5.98a.21.21 0 0 0 .29.01l.01-.01z"
+                                  fillRule="evenodd"
+                                />
+                              </svg>
+                            </Heart>
+                          </span>
+                        </StyledComponent>
+                      </icon19__IconWrapper>
+                    </Icon19>
+                  </HeartIcon>
+                  <Button__Label>
+                    <StyledComponent
+                      forwardedComponent={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "attrs": Array [],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "Button__Label-j48i5d-0",
+                            "isStatic": true,
+                            "lastClassName": "c5",
+                            "rules": Array [
+                              "display:flex;+ svg,+ ",
+                              ".c3",
+                              "{margin-left:4px;}",
+                            ],
+                          },
+                          "displayName": "Button__Label",
+                          "foldedComponentIds": Array [],
+                          "render": [Function],
+                          "styledComponentId": "Button__Label-j48i5d-0",
+                          "target": "span",
+                          "toString": [Function],
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                    >
+                      <span
+                        className="c5"
+                      >
+                        Hearted
+                      </span>
+                    </StyledComponent>
+                  </Button__Label>
+                </div>
+              </StyledComponent>
+            </Button__ButtonInner>
+          </button>
+        </StyledComponent>
+      </Button__ButtonWrapper>
+    </ThemeProvider>
+  </EnsureDefaultTheme>
+</Button>
+`;
+
+exports[`Button should have a <span> element child with an Icon component in - label first 1`] = `
+.c5 {
+  fill: currentColor;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c3 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c3 + svg,
+.c3 + .c4 {
+  margin-left: 4px;
+}
+
+.c2 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  width: 100%;
+  white-space: nowrap;
+  pointer-events: none;
+}
+
+.c2 svg + span {
+  margin-left: 4px;
+}
+
+.c2 .c4 + span {
+  margin-left: 4px;
+}
+
+.c0 {
+  width: auto;
+  height: 42px;
+  padding: 0 2rem;
+  border: transparent 1px solid;
+  border-radius: 21px;
+  border-color: transparent;
+  color: #FFF;
+  font-size: 1rem;
+  text-align: center;
+  line-height: 42px;
+  background-color: #0A7BC2;
+  -webkit-transition: background-color 0.2s ease-out,border-color 0.2s ease-out,color 0.2s ease-out;
+  transition: background-color 0.2s ease-out,border-color 0.2s ease-out,color 0.2s ease-out;
+}
+
+.c0 .c1 > svg {
+  margin-bottom: 2px;
+}
+
+.c0 .c4 {
+  margin-bottom: 2px;
+}
+
+.c0:hover,
+.c0:active,
+.c0:focus {
+  color: #fff;
+  border-color: transparent;
+  background-color: #085c91;
+}
+
+.c0:hover .c1 > svg,
+.c0:active .c1 > svg,
+.c0:focus .c1 > svg {
+  stroke: #fff;
+}
+
+.c6 .c1 > svg {
+  margin-bottom: 2px;
+}
+
+.c6 .c4 {
+  margin-bottom: 2px;
+}
+
+.c6:hover .c1 > svg,
+.c6:active .c1 > svg,
+.c6:focus .c1 > svg {
+  stroke: #fff;
+}
+
+.c7 .c1 > svg {
+  margin-bottom: 2px;
+}
+
+.c7 .c4 {
+  margin-bottom: 2px;
+}
+
+.c7:hover .c1 > svg,
+.c7:active .c1 > svg,
+.c7:focus .c1 > svg {
+  stroke: #085c91;
+}
+
+.c8 .c1 > svg {
+  margin-bottom: 2px;
+  stroke: #666;
+}
+
+.c8 .c4 {
+  margin-bottom: 2px;
+}
+
+.c8:hover .c1 > svg,
+.c8:active .c1 > svg,
+.c8:focus .c1 > svg {
+  stroke: #4d4d4d;
+}
+
+.c9 .c1 > svg {
+  margin-bottom: 2px;
+  stroke: #FFF;
+}
+
+.c9 .c4 {
+  margin-bottom: 2px;
+}
+
+.c9:hover .c1 > svg,
+.c9:active .c1 > svg,
+.c9:focus .c1 > svg {
+  stroke: #fff;
+}
+
+.c10 .c1 > svg {
+  margin-bottom: 2px;
+}
+
+.c10 .c4 {
+  margin-bottom: 2px;
+}
+
+.c10:hover .c1 > svg,
+.c10:active .c1 > svg,
+.c10:focus .c1 > svg {
+  stroke: #fff;
+}
+
+.c11 .c1 > svg {
+  margin-bottom: 2px;
+}
+
+.c11 .c4 {
+  margin-bottom: 2px;
+}
+
+.c11:hover .c1 > svg,
+.c11:active .c1 > svg,
+.c11:focus .c1 > svg {
+  stroke: #fff;
+}
+
+.c12 .c1 > svg {
+  margin-bottom: 2px;
+}
+
+.c12 .c4 {
+  margin-bottom: 2px;
+}
+
+.c12:hover .c1 > svg,
+.c12:active .c1 > svg,
+.c12:focus .c1 > svg {
+  stroke: #57955a;
+}
+
+.c13 .c1 > svg {
+  margin-bottom: 2px;
+}
+
+.c13 .c4 {
+  margin-bottom: 2px;
+}
+
+.c13:hover .c1 > svg,
+.c13:active .c1 > svg,
+.c13:focus .c1 > svg {
+  stroke: #000;
+}
+
+.c14 .c1 > svg {
+  margin-bottom: 2px;
+}
+
+.c14 .c4 {
+  margin-bottom: 2px;
+}
+
+.c14:hover .c1 > svg,
+.c14:active .c1 > svg,
+.c14:focus .c1 > svg {
+  stroke: #fff;
+}
+
+<Button
+  icon={<HeartIcon />}
+  label="Hearted"
+  labelPosition="before"
+  weight="primary"
+>
+  <EnsureDefaultTheme>
+    <ThemeProvider
+      theme={[Function]}
+    >
+      <Button__ButtonWrapper
+        weight="primary"
+      >
+        <StyledComponent
+          forwardedComponent={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": Array [],
+              "componentStyle": ComponentStyle {
+                "componentId": "Button__ButtonWrapper-j48i5d-2",
+                "isStatic": false,
+                "lastClassName": "c0",
+                "rules": Array [
+                  "width:",
+                  [Function],
+                  ";height:",
+                  [Function],
+                  ";padding:",
+                  [Function],
+                  ";border:transparent 1px solid;border-radius:",
+                  [Function],
+                  ";border-color:",
+                  [Function],
+                  ";color:",
+                  [Function],
+                  ";font-size:",
+                  [Function],
+                  ";text-align:",
+                  [Function],
+                  ";line-height:",
+                  [Function],
+                  ";background-color:",
+                  [Function],
+                  ";transition:",
+                  [Function],
+                  ";",
+                  [Function],
+                  ";",
+                  [Function],
+                  ";",
+                  ".c1",
+                  " > svg{margin-bottom:2px;",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  "}",
+                  ".c4",
+                  "{margin-bottom:2px;}&:hover,&:active,&:focus{color:",
+                  [Function],
+                  ";border-color:",
+                  [Function],
+                  ";background-color:",
+                  [Function],
+                  ";",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  ".c1",
+                  " > svg{",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  "}}",
+                  "@media only screen and ",
+                  "(max-width: 49.94em)",
+                  "{",
+                  "
+		",
+                  [Function],
+                  "
+	",
+                  "}",
+                ],
+              },
+              "displayName": "Button__ButtonWrapper",
+              "foldedComponentIds": Array [],
+              "render": [Function],
+              "styledComponentId": "Button__ButtonWrapper-j48i5d-2",
+              "target": "button",
+              "toString": [Function],
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+          weight="primary"
+        >
+          <button
+            className="c0"
+          >
+            <Button__ButtonInner>
+              <StyledComponent
+                forwardedComponent={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": Array [],
+                    "componentStyle": ComponentStyle {
+                      "componentId": "c1",
+                      "isStatic": false,
+                      "lastClassName": "c2",
+                      "rules": Array [
+                        "align-items:center;display:flex;justify-content:center;width:100%;white-space:nowrap;pointer-events:none;svg{",
+                        [Function],
+                        " + span{margin-left:4px;}}",
+                        ".c4",
+                        "{+ span{margin-left:4px;}}",
+                      ],
+                    },
+                    "displayName": "Button__ButtonInner",
+                    "foldedComponentIds": Array [],
+                    "render": [Function],
+                    "styledComponentId": "c1",
+                    "target": "div",
+                    "toString": [Function],
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+              >
+                <div
+                  className="c1 c2"
+                >
+                  <Button__Label>
+                    <StyledComponent
+                      forwardedComponent={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "attrs": Array [],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "Button__Label-j48i5d-0",
+                            "isStatic": true,
+                            "lastClassName": "c3",
+                            "rules": Array [
+                              "display:flex;+ svg,+ ",
+                              ".c4",
+                              "{margin-left:4px;}",
+                            ],
+                          },
+                          "displayName": "Button__Label",
+                          "foldedComponentIds": Array [],
+                          "render": [Function],
+                          "styledComponentId": "Button__Label-j48i5d-0",
+                          "target": "span",
+                          "toString": [Function],
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                    >
+                      <span
+                        className="c3"
+                      >
+                        Hearted
+                      </span>
+                    </StyledComponent>
+                  </Button__Label>
+                  <HeartIcon>
+                    <Icon19>
+                      <icon19__IconWrapper>
+                        <StyledComponent
+                          forwardedComponent={
+                            Object {
+                              "$$typeof": Symbol(react.forward_ref),
+                              "attrs": Array [],
+                              "componentStyle": ComponentStyle {
+                                "componentId": "c4",
+                                "isStatic": true,
+                                "lastClassName": "c5",
+                                "rules": Array [
+                                  "fill:currentColor;display:flex;",
+                                ],
+                              },
+                              "displayName": "icon19__IconWrapper",
+                              "foldedComponentIds": Array [],
+                              "render": [Function],
+                              "styledComponentId": "c4",
+                              "target": "span",
+                              "toString": [Function],
+                              "warnTooManyClasses": [Function],
+                              "withComponent": [Function],
+                            }
+                          }
+                          forwardedRef={null}
+                        >
+                          <span
+                            className="c4 c5"
+                          >
+                            <Heart
+                              aria-label="Heart icon"
+                              height="18"
+                              viewBox="0 0 18 18"
+                              width="18"
+                              xmlns="http://www.w3.org/2000/svg"
+                            >
+                              <svg
+                                aria-label="Heart icon"
+                                height="18"
+                                viewBox="0 0 18 18"
+                                width="18"
+                                xmlns="http://www.w3.org/2000/svg"
+                              >
+                                <path
+                                  d="M9.87 15.64a1.21 1.21 0 0 1-1.74 0L2.3 9.66a4.5 4.5 0 0 1 0-6.33 4.38 4.38 0 0 1 6.28 0l.44.44.42-.44a4.38 4.38 0 0 1 6.29 0 4.55 4.55 0 0 1 0 6.33L10.7 14.8l-.83.85zm-.72-.7L15 8.96a3.55 3.55 0 0 0 0-4.93 3.37 3.37 0 0 0-4.85 0L9.02 5.2l-.36-.37-.8-.81a3.37 3.37 0 0 0-4.86 0 3.5 3.5 0 0 0-1 2.46c0 .94.36 1.81 1 2.47l5.85 5.98a.21.21 0 0 0 .29.01l.01-.01z"
+                                  fillRule="evenodd"
+                                />
+                              </svg>
+                            </Heart>
+                          </span>
+                        </StyledComponent>
+                      </icon19__IconWrapper>
+                    </Icon19>
+                  </HeartIcon>
+                </div>
+              </StyledComponent>
+            </Button__ButtonInner>
+          </button>
+        </StyledComponent>
+      </Button__ButtonWrapper>
+    </ThemeProvider>
+  </EnsureDefaultTheme>
+</Button>
+`;
+
+exports[`Button should have a primary modifier class 1`] = `
+.c3 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c3 + svg,
+.c3 + .c5 {
+  margin-left: 4px;
+}
+
+.c2 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  width: 100%;
+  white-space: nowrap;
+  pointer-events: none;
+}
+
+.c2 svg + span {
+  margin-left: 4px;
+}
+
+.c2 .c5 + span {
+  margin-left: 4px;
+}
+
+.c0 {
+  width: auto;
+  height: 42px;
+  padding: 0 2rem;
+  border: transparent 1px solid;
+  border-radius: 21px;
+  border-color: transparent;
+  color: #FFF;
+  font-size: 1rem;
+  text-align: center;
+  line-height: 42px;
+  background-color: #0A7BC2;
+  -webkit-transition: background-color 0.2s ease-out,border-color 0.2s ease-out,color 0.2s ease-out;
+  transition: background-color 0.2s ease-out,border-color 0.2s ease-out,color 0.2s ease-out;
+}
+
+.c0 .c1 > svg {
+  margin-bottom: 2px;
+}
+
+.c0 .c5 {
+  margin-bottom: 2px;
+}
+
+.c0:hover,
+.c0:active,
+.c0:focus {
+  color: #fff;
+  border-color: transparent;
+  background-color: #085c91;
+}
+
+.c0:hover .c1 > svg,
+.c0:active .c1 > svg,
+.c0:focus .c1 > svg {
+  stroke: #fff;
+}
+
+.c4 .c1 > svg {
+  margin-bottom: 2px;
+}
+
+.c4:hover .c1 > svg,
+.c4:active .c1 > svg,
+.c4:focus .c1 > svg {
+  stroke: #fff;
+}
+
+<Button
+  label="Regular"
+  weight="primary"
+>
+  <EnsureDefaultTheme>
+    <ThemeProvider
+      theme={[Function]}
+    >
+      <Button__ButtonWrapper
+        weight="primary"
+      >
+        <StyledComponent
+          forwardedComponent={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": Array [],
+              "componentStyle": ComponentStyle {
+                "componentId": "Button__ButtonWrapper-j48i5d-2",
+                "isStatic": false,
+                "lastClassName": "c0",
+                "rules": Array [
+                  "width:",
+                  [Function],
+                  ";height:",
+                  [Function],
+                  ";padding:",
+                  [Function],
+                  ";border:transparent 1px solid;border-radius:",
+                  [Function],
+                  ";border-color:",
+                  [Function],
+                  ";color:",
+                  [Function],
+                  ";font-size:",
+                  [Function],
+                  ";text-align:",
+                  [Function],
+                  ";line-height:",
+                  [Function],
+                  ";background-color:",
+                  [Function],
+                  ";transition:",
+                  [Function],
+                  ";",
+                  [Function],
+                  ";",
+                  [Function],
+                  ";",
+                  ".c1",
+                  " > svg{margin-bottom:2px;",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  "}",
+                  ".c5",
+                  "{margin-bottom:2px;}&:hover,&:active,&:focus{color:",
+                  [Function],
+                  ";border-color:",
+                  [Function],
+                  ";background-color:",
+                  [Function],
+                  ";",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  ".c1",
+                  " > svg{",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  "}}",
+                  "@media only screen and ",
+                  "(max-width: 49.94em)",
+                  "{",
+                  "
+		",
+                  [Function],
+                  "
+	",
+                  "}",
+                ],
+              },
+              "displayName": "Button__ButtonWrapper",
+              "foldedComponentIds": Array [],
+              "render": [Function],
+              "styledComponentId": "Button__ButtonWrapper-j48i5d-2",
+              "target": "button",
+              "toString": [Function],
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+          weight="primary"
+        >
+          <button
+            className="c0"
+          >
+            <Button__ButtonInner>
+              <StyledComponent
+                forwardedComponent={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": Array [],
+                    "componentStyle": ComponentStyle {
+                      "componentId": "c1",
+                      "isStatic": false,
+                      "lastClassName": "c2",
+                      "rules": Array [
+                        "align-items:center;display:flex;justify-content:center;width:100%;white-space:nowrap;pointer-events:none;svg{",
+                        [Function],
+                        " + span{margin-left:4px;}}",
+                        ".c5",
+                        "{+ span{margin-left:4px;}}",
+                      ],
+                    },
+                    "displayName": "Button__ButtonInner",
+                    "foldedComponentIds": Array [],
+                    "render": [Function],
+                    "styledComponentId": "c1",
+                    "target": "div",
+                    "toString": [Function],
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+              >
+                <div
+                  className="c1 c2"
+                >
+                  <Button__Label>
+                    <StyledComponent
+                      forwardedComponent={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "attrs": Array [],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "Button__Label-j48i5d-0",
+                            "isStatic": true,
+                            "lastClassName": "c3",
+                            "rules": Array [
+                              "display:flex;+ svg,+ ",
+                              ".c5",
+                              "{margin-left:4px;}",
+                            ],
+                          },
+                          "displayName": "Button__Label",
+                          "foldedComponentIds": Array [],
+                          "render": [Function],
+                          "styledComponentId": "Button__Label-j48i5d-0",
+                          "target": "span",
+                          "toString": [Function],
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                    >
+                      <span
+                        className="c3"
+                      >
+                        Regular
+                      </span>
+                    </StyledComponent>
+                  </Button__Label>
+                </div>
+              </StyledComponent>
+            </Button__ButtonInner>
+          </button>
+        </StyledComponent>
+      </Button__ButtonWrapper>
+    </ThemeProvider>
+  </EnsureDefaultTheme>
+</Button>
+`;
+
+exports[`Button should have a secondary modifier class 1`] = `
+.c3 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c3 + svg,
+.c3 + .c6 {
+  margin-left: 4px;
+}
+
+.c2 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  width: 100%;
+  white-space: nowrap;
+  pointer-events: none;
+}
+
+.c2 svg + span {
+  margin-left: 4px;
+}
+
+.c2 .c6 + span {
+  margin-left: 4px;
+}
+
+.c4 .c1 > svg {
+  margin-bottom: 2px;
+}
+
+.c4:hover .c1 > svg,
+.c4:active .c1 > svg,
+.c4:focus .c1 > svg {
+  stroke: #fff;
+}
+
+.c5 .c1 > svg {
+  margin-bottom: 2px;
+}
+
+.c5:hover .c1 > svg,
+.c5:active .c1 > svg,
+.c5:focus .c1 > svg {
+  stroke: #fff;
+}
+
+.c0 {
+  width: auto;
+  height: 42px;
+  padding: 0 2rem;
+  border: transparent 1px solid;
+  border-radius: 21px;
+  border-color: #0A7BC2;
+  color: #0A7BC2;
+  font-size: 1rem;
+  text-align: center;
+  line-height: 42px;
+  background-color: #FFF;
+  -webkit-transition: background-color 0.2s ease-out,border-color 0.2s ease-out,color 0.2s ease-out;
+  transition: background-color 0.2s ease-out,border-color 0.2s ease-out,color 0.2s ease-out;
+}
+
+.c0 .c1 > svg {
+  margin-bottom: 2px;
+}
+
+.c0 .c6 {
+  margin-bottom: 2px;
+}
+
+.c0:hover,
+.c0:active,
+.c0:focus {
+  color: #053d61;
+  border-color: #053d61;
+  background-color: #fff;
+}
+
+.c0:hover .c1 > svg,
+.c0:active .c1 > svg,
+.c0:focus .c1 > svg {
+  stroke: #085c91;
+}
+
+<Button
+  label="Regular"
+  weight="secondary"
+>
+  <EnsureDefaultTheme>
+    <ThemeProvider
+      theme={[Function]}
+    >
+      <Button__ButtonWrapper
+        weight="secondary"
+      >
+        <StyledComponent
+          forwardedComponent={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": Array [],
+              "componentStyle": ComponentStyle {
+                "componentId": "Button__ButtonWrapper-j48i5d-2",
+                "isStatic": false,
+                "lastClassName": "c0",
+                "rules": Array [
+                  "width:",
+                  [Function],
+                  ";height:",
+                  [Function],
+                  ";padding:",
+                  [Function],
+                  ";border:transparent 1px solid;border-radius:",
+                  [Function],
+                  ";border-color:",
+                  [Function],
+                  ";color:",
+                  [Function],
+                  ";font-size:",
+                  [Function],
+                  ";text-align:",
+                  [Function],
+                  ";line-height:",
+                  [Function],
+                  ";background-color:",
+                  [Function],
+                  ";transition:",
+                  [Function],
+                  ";",
+                  [Function],
+                  ";",
+                  [Function],
+                  ";",
+                  ".c1",
+                  " > svg{margin-bottom:2px;",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  "}",
+                  ".c6",
+                  "{margin-bottom:2px;}&:hover,&:active,&:focus{color:",
+                  [Function],
+                  ";border-color:",
+                  [Function],
+                  ";background-color:",
+                  [Function],
+                  ";",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  ".c1",
+                  " > svg{",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  "}}",
+                  "@media only screen and ",
+                  "(max-width: 49.94em)",
+                  "{",
+                  "
+		",
+                  [Function],
+                  "
+	",
+                  "}",
+                ],
+              },
+              "displayName": "Button__ButtonWrapper",
+              "foldedComponentIds": Array [],
+              "render": [Function],
+              "styledComponentId": "Button__ButtonWrapper-j48i5d-2",
+              "target": "button",
+              "toString": [Function],
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+          weight="secondary"
+        >
+          <button
+            className="c0"
+          >
+            <Button__ButtonInner>
+              <StyledComponent
+                forwardedComponent={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": Array [],
+                    "componentStyle": ComponentStyle {
+                      "componentId": "c1",
+                      "isStatic": false,
+                      "lastClassName": "c2",
+                      "rules": Array [
+                        "align-items:center;display:flex;justify-content:center;width:100%;white-space:nowrap;pointer-events:none;svg{",
+                        [Function],
+                        " + span{margin-left:4px;}}",
+                        ".c6",
+                        "{+ span{margin-left:4px;}}",
+                      ],
+                    },
+                    "displayName": "Button__ButtonInner",
+                    "foldedComponentIds": Array [],
+                    "render": [Function],
+                    "styledComponentId": "c1",
+                    "target": "div",
+                    "toString": [Function],
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+              >
+                <div
+                  className="c1 c2"
+                >
+                  <Button__Label>
+                    <StyledComponent
+                      forwardedComponent={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "attrs": Array [],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "Button__Label-j48i5d-0",
+                            "isStatic": true,
+                            "lastClassName": "c3",
+                            "rules": Array [
+                              "display:flex;+ svg,+ ",
+                              ".c6",
+                              "{margin-left:4px;}",
+                            ],
+                          },
+                          "displayName": "Button__Label",
+                          "foldedComponentIds": Array [],
+                          "render": [Function],
+                          "styledComponentId": "Button__Label-j48i5d-0",
+                          "target": "span",
+                          "toString": [Function],
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                    >
+                      <span
+                        className="c3"
+                      >
+                        Regular
+                      </span>
+                    </StyledComponent>
+                  </Button__Label>
+                </div>
+              </StyledComponent>
+            </Button__ButtonInner>
+          </button>
+        </StyledComponent>
+      </Button__ButtonWrapper>
+    </ThemeProvider>
+  </EnsureDefaultTheme>
+</Button>
+`;
+
+exports[`Button should have a tertiary modifier class 1`] = `
+.c3 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c3 + svg,
+.c3 + .c7 {
+  margin-left: 4px;
+}
+
+.c2 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  width: 100%;
+  white-space: nowrap;
+  pointer-events: none;
+}
+
+.c2 svg + span {
+  margin-left: 4px;
+}
+
+.c2 .c7 + span {
+  margin-left: 4px;
+}
+
+.c4 .c1 > svg {
+  margin-bottom: 2px;
+}
+
+.c4:hover .c1 > svg,
+.c4:active .c1 > svg,
+.c4:focus .c1 > svg {
+  stroke: #fff;
+}
+
+.c5 .c1 > svg {
+  margin-bottom: 2px;
+}
+
+.c5:hover .c1 > svg,
+.c5:active .c1 > svg,
+.c5:focus .c1 > svg {
+  stroke: #fff;
+}
+
+.c6 .c1 > svg {
+  margin-bottom: 2px;
+}
+
+.c6:hover .c1 > svg,
+.c6:active .c1 > svg,
+.c6:focus .c1 > svg {
+  stroke: #085c91;
+}
+
+.c0 {
+  width: auto;
+  height: 42px;
+  padding: 0 2rem;
+  border: transparent 1px solid;
+  border-radius: 21px;
+  border-color: #7D7D7D;
+  color: #666;
+  font-size: 1rem;
+  text-align: center;
+  line-height: 42px;
+  background-color: #FFF;
+  -webkit-transition: background-color 0.2s ease-out,border-color 0.2s ease-out,color 0.2s ease-out;
+  transition: background-color 0.2s ease-out,border-color 0.2s ease-out,color 0.2s ease-out;
+}
+
+.c0 .c1 > svg {
+  margin-bottom: 2px;
+  stroke: #666;
+}
+
+.c0 .c7 {
+  margin-bottom: 2px;
+}
+
+.c0:hover,
+.c0:active,
+.c0:focus {
+  color: #333;
+  border-color: #4a4a4a;
+  background-color: #fff;
+}
+
+.c0:hover .c1 > svg,
+.c0:active .c1 > svg,
+.c0:focus .c1 > svg {
+  stroke: #4d4d4d;
+}
+
+<Button
+  label="Regular"
+  weight="tertiary"
+>
+  <EnsureDefaultTheme>
+    <ThemeProvider
+      theme={[Function]}
+    >
+      <Button__ButtonWrapper
+        weight="tertiary"
+      >
+        <StyledComponent
+          forwardedComponent={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": Array [],
+              "componentStyle": ComponentStyle {
+                "componentId": "Button__ButtonWrapper-j48i5d-2",
+                "isStatic": false,
+                "lastClassName": "c0",
+                "rules": Array [
+                  "width:",
+                  [Function],
+                  ";height:",
+                  [Function],
+                  ";padding:",
+                  [Function],
+                  ";border:transparent 1px solid;border-radius:",
+                  [Function],
+                  ";border-color:",
+                  [Function],
+                  ";color:",
+                  [Function],
+                  ";font-size:",
+                  [Function],
+                  ";text-align:",
+                  [Function],
+                  ";line-height:",
+                  [Function],
+                  ";background-color:",
+                  [Function],
+                  ";transition:",
+                  [Function],
+                  ";",
+                  [Function],
+                  ";",
+                  [Function],
+                  ";",
+                  ".c1",
+                  " > svg{margin-bottom:2px;",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  "}",
+                  ".c7",
+                  "{margin-bottom:2px;}&:hover,&:active,&:focus{color:",
+                  [Function],
+                  ";border-color:",
+                  [Function],
+                  ";background-color:",
+                  [Function],
+                  ";",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  ".c1",
+                  " > svg{",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  "}}",
+                  "@media only screen and ",
+                  "(max-width: 49.94em)",
+                  "{",
+                  "
+		",
+                  [Function],
+                  "
+	",
+                  "}",
+                ],
+              },
+              "displayName": "Button__ButtonWrapper",
+              "foldedComponentIds": Array [],
+              "render": [Function],
+              "styledComponentId": "Button__ButtonWrapper-j48i5d-2",
+              "target": "button",
+              "toString": [Function],
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+          weight="tertiary"
+        >
+          <button
+            className="c0"
+          >
+            <Button__ButtonInner>
+              <StyledComponent
+                forwardedComponent={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": Array [],
+                    "componentStyle": ComponentStyle {
+                      "componentId": "c1",
+                      "isStatic": false,
+                      "lastClassName": "c2",
+                      "rules": Array [
+                        "align-items:center;display:flex;justify-content:center;width:100%;white-space:nowrap;pointer-events:none;svg{",
+                        [Function],
+                        " + span{margin-left:4px;}}",
+                        ".c7",
+                        "{+ span{margin-left:4px;}}",
+                      ],
+                    },
+                    "displayName": "Button__ButtonInner",
+                    "foldedComponentIds": Array [],
+                    "render": [Function],
+                    "styledComponentId": "c1",
+                    "target": "div",
+                    "toString": [Function],
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+              >
+                <div
+                  className="c1 c2"
+                >
+                  <Button__Label>
+                    <StyledComponent
+                      forwardedComponent={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "attrs": Array [],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "Button__Label-j48i5d-0",
+                            "isStatic": true,
+                            "lastClassName": "c3",
+                            "rules": Array [
+                              "display:flex;+ svg,+ ",
+                              ".c7",
+                              "{margin-left:4px;}",
+                            ],
+                          },
+                          "displayName": "Button__Label",
+                          "foldedComponentIds": Array [],
+                          "render": [Function],
+                          "styledComponentId": "Button__Label-j48i5d-0",
+                          "target": "span",
+                          "toString": [Function],
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                    >
+                      <span
+                        className="c3"
+                      >
+                        Regular
+                      </span>
+                    </StyledComponent>
+                  </Button__Label>
+                </div>
+              </StyledComponent>
+            </Button__ButtonInner>
+          </button>
+        </StyledComponent>
+      </Button__ButtonWrapper>
+    </ThemeProvider>
+  </EnsureDefaultTheme>
+</Button>
+`;
+
+exports[`Button should merge className prop with calculated class names 1`] = `
+.c3 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c3 + svg,
+.c3 + .c13 {
+  margin-left: 4px;
+}
+
+.c2 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  width: 100%;
+  white-space: nowrap;
+  pointer-events: none;
+}
+
+.c2 svg + span {
+  margin-left: 4px;
+}
+
+.c2 .c13 + span {
+  margin-left: 4px;
+}
+
+.c4 .c1 > svg {
+  margin-bottom: 2px;
+}
+
+.c4:hover .c1 > svg,
+.c4:active .c1 > svg,
+.c4:focus .c1 > svg {
+  stroke: #fff;
+}
+
+.c5 .c1 > svg {
+  margin-bottom: 2px;
+}
+
+.c5:hover .c1 > svg,
+.c5:active .c1 > svg,
+.c5:focus .c1 > svg {
+  stroke: #fff;
+}
+
+.c6 .c1 > svg {
+  margin-bottom: 2px;
+}
+
+.c6:hover .c1 > svg,
+.c6:active .c1 > svg,
+.c6:focus .c1 > svg {
+  stroke: #085c91;
+}
+
+.c7 .c1 > svg {
+  margin-bottom: 2px;
+  stroke: #666;
+}
+
+.c7:hover .c1 > svg,
+.c7:active .c1 > svg,
+.c7:focus .c1 > svg {
+  stroke: #4d4d4d;
+}
+
+.c8 .c1 > svg {
+  margin-bottom: 2px;
+  stroke: #FFF;
+}
+
+.c8:hover .c1 > svg,
+.c8:active .c1 > svg,
+.c8:focus .c1 > svg {
+  stroke: #fff;
+}
+
+.c9 .c1 > svg {
+  margin-bottom: 2px;
+}
+
+.c9:hover .c1 > svg,
+.c9:active .c1 > svg,
+.c9:focus .c1 > svg {
+  stroke: #fff;
+}
+
+.c0 {
+  width: auto;
+  height: 42px;
+  padding: 0 2rem;
+  border: transparent 1px solid;
+  border-radius: 21px;
+  border-color: transparent;
+  color: #FFF;
+  font-size: 1rem;
+  text-align: center;
+  line-height: 42px;
+  background-color: #72AD75;
+  -webkit-transition: background-color 0.2s ease-out,border-color 0.2s ease-out,color 0.2s ease-out;
+  transition: background-color 0.2s ease-out,border-color 0.2s ease-out,color 0.2s ease-out;
+}
+
+.c0 .c1 > svg {
+  margin-bottom: 2px;
+}
+
+.c0 .c13 {
+  margin-bottom: 2px;
+}
+
+.c0:hover,
+.c0:active,
+.c0:focus {
+  color: #fff;
+  border-color: transparent;
+  background-color: #57955a;
+}
+
+.c0:hover .c1 > svg,
+.c0:active .c1 > svg,
+.c0:focus .c1 > svg {
+  stroke: #fff;
+}
+
+.c10 .c1 > svg {
+  margin-bottom: 2px;
+}
+
+.c10:hover .c1 > svg,
+.c10:active .c1 > svg,
+.c10:focus .c1 > svg {
+  stroke: #57955a;
+}
+
+.c11 .c1 > svg {
+  margin-bottom: 2px;
+}
+
+.c11:hover .c1 > svg,
+.c11:active .c1 > svg,
+.c11:focus .c1 > svg {
+  stroke: #000;
+}
+
+.c12 .c1 > svg {
+  margin-bottom: 2px;
+}
+
+.c12:hover .c1 > svg,
+.c12:active .c1 > svg,
+.c12:focus .c1 > svg {
+  stroke: #fff;
+}
+
+<Button
+  className="foo"
+  label="Commerce"
+  variant="commerce"
+>
+  <EnsureDefaultTheme>
+    <ThemeProvider
+      theme={[Function]}
+    >
+      <Button__ButtonWrapper
+        className="foo"
+        variant="commerce"
+        weight="primary"
+      >
+        <StyledComponent
+          className="foo"
+          forwardedComponent={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": Array [],
+              "componentStyle": ComponentStyle {
+                "componentId": "Button__ButtonWrapper-j48i5d-2",
+                "isStatic": false,
+                "lastClassName": "c0",
+                "rules": Array [
+                  "width:",
+                  [Function],
+                  ";height:",
+                  [Function],
+                  ";padding:",
+                  [Function],
+                  ";border:transparent 1px solid;border-radius:",
+                  [Function],
+                  ";border-color:",
+                  [Function],
+                  ";color:",
+                  [Function],
+                  ";font-size:",
+                  [Function],
+                  ";text-align:",
+                  [Function],
+                  ";line-height:",
+                  [Function],
+                  ";background-color:",
+                  [Function],
+                  ";transition:",
+                  [Function],
+                  ";",
+                  [Function],
+                  ";",
+                  [Function],
+                  ";",
+                  ".c1",
+                  " > svg{margin-bottom:2px;",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  "}",
+                  ".c13",
+                  "{margin-bottom:2px;}&:hover,&:active,&:focus{color:",
+                  [Function],
+                  ";border-color:",
+                  [Function],
+                  ";background-color:",
+                  [Function],
+                  ";",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  ".c1",
+                  " > svg{",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  "}}",
+                  "@media only screen and ",
+                  "(max-width: 49.94em)",
+                  "{",
+                  "
+		",
+                  [Function],
+                  "
+	",
+                  "}",
+                ],
+              },
+              "displayName": "Button__ButtonWrapper",
+              "foldedComponentIds": Array [],
+              "render": [Function],
+              "styledComponentId": "Button__ButtonWrapper-j48i5d-2",
+              "target": "button",
+              "toString": [Function],
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+          variant="commerce"
+          weight="primary"
+        >
+          <button
+            className="foo c0"
+          >
+            <Button__ButtonInner>
+              <StyledComponent
+                forwardedComponent={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": Array [],
+                    "componentStyle": ComponentStyle {
+                      "componentId": "c1",
+                      "isStatic": false,
+                      "lastClassName": "c2",
+                      "rules": Array [
+                        "align-items:center;display:flex;justify-content:center;width:100%;white-space:nowrap;pointer-events:none;svg{",
+                        [Function],
+                        " + span{margin-left:4px;}}",
+                        ".c13",
+                        "{+ span{margin-left:4px;}}",
+                      ],
+                    },
+                    "displayName": "Button__ButtonInner",
+                    "foldedComponentIds": Array [],
+                    "render": [Function],
+                    "styledComponentId": "c1",
+                    "target": "div",
+                    "toString": [Function],
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+              >
+                <div
+                  className="c1 c2"
+                >
+                  <Button__Label>
+                    <StyledComponent
+                      forwardedComponent={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "attrs": Array [],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "Button__Label-j48i5d-0",
+                            "isStatic": true,
+                            "lastClassName": "c3",
+                            "rules": Array [
+                              "display:flex;+ svg,+ ",
+                              ".c13",
+                              "{margin-left:4px;}",
+                            ],
+                          },
+                          "displayName": "Button__Label",
+                          "foldedComponentIds": Array [],
+                          "render": [Function],
+                          "styledComponentId": "Button__Label-j48i5d-0",
+                          "target": "span",
+                          "toString": [Function],
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                    >
+                      <span
+                        className="c3"
+                      >
+                        Commerce
+                      </span>
+                    </StyledComponent>
+                  </Button__Label>
+                </div>
+              </StyledComponent>
+            </Button__ButtonInner>
+          </button>
+        </StyledComponent>
+      </Button__ButtonWrapper>
+    </ThemeProvider>
+  </EnsureDefaultTheme>
+</Button>
+`;
+
+exports[`Button should render a regular button 1`] = `
+.c3 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c3 + svg,
+.c3 + .c4 {
+  margin-left: 4px;
+}
+
+.c2 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  width: 100%;
+  white-space: nowrap;
+  pointer-events: none;
+}
+
+.c2 svg + span {
+  margin-left: 4px;
+}
+
+.c2 .c4 + span {
+  margin-left: 4px;
+}
+
+.c0 {
+  width: auto;
+  height: 42px;
+  padding: 0 2rem;
+  border: transparent 1px solid;
+  border-radius: 21px;
+  border-color: transparent;
+  color: #FFF;
+  font-size: 1rem;
+  text-align: center;
+  line-height: 42px;
+  background-color: #0A7BC2;
+  -webkit-transition: background-color 0.2s ease-out,border-color 0.2s ease-out,color 0.2s ease-out;
+  transition: background-color 0.2s ease-out,border-color 0.2s ease-out,color 0.2s ease-out;
+}
+
+.c0 .c1 > svg {
+  margin-bottom: 2px;
+}
+
+.c0 .c4 {
+  margin-bottom: 2px;
+}
+
+.c0:hover,
+.c0:active,
+.c0:focus {
+  color: #fff;
+  border-color: transparent;
+  background-color: #085c91;
+}
+
+.c0:hover .c1 > svg,
+.c0:active .c1 > svg,
+.c0:focus .c1 > svg {
+  stroke: #fff;
+}
+
+<Button
+  label="Regular"
+>
+  <EnsureDefaultTheme>
+    <ThemeProvider
+      theme={[Function]}
+    >
+      <Button__ButtonWrapper
+        weight="primary"
+      >
+        <StyledComponent
+          forwardedComponent={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": Array [],
+              "componentStyle": ComponentStyle {
+                "componentId": "Button__ButtonWrapper-j48i5d-2",
+                "isStatic": false,
+                "lastClassName": "c0",
+                "rules": Array [
+                  "width:",
+                  [Function],
+                  ";height:",
+                  [Function],
+                  ";padding:",
+                  [Function],
+                  ";border:transparent 1px solid;border-radius:",
+                  [Function],
+                  ";border-color:",
+                  [Function],
+                  ";color:",
+                  [Function],
+                  ";font-size:",
+                  [Function],
+                  ";text-align:",
+                  [Function],
+                  ";line-height:",
+                  [Function],
+                  ";background-color:",
+                  [Function],
+                  ";transition:",
+                  [Function],
+                  ";",
+                  [Function],
+                  ";",
+                  [Function],
+                  ";",
+                  ".c1",
+                  " > svg{margin-bottom:2px;",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  "}",
+                  ".c4",
+                  "{margin-bottom:2px;}&:hover,&:active,&:focus{color:",
+                  [Function],
+                  ";border-color:",
+                  [Function],
+                  ";background-color:",
+                  [Function],
+                  ";",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  ".c1",
+                  " > svg{",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  "}}",
+                  "@media only screen and ",
+                  "(max-width: 49.94em)",
+                  "{",
+                  "
+		",
+                  [Function],
+                  "
+	",
+                  "}",
+                ],
+              },
+              "displayName": "Button__ButtonWrapper",
+              "foldedComponentIds": Array [],
+              "render": [Function],
+              "styledComponentId": "Button__ButtonWrapper-j48i5d-2",
+              "target": "button",
+              "toString": [Function],
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+          weight="primary"
+        >
+          <button
+            className="c0"
+          >
+            <Button__ButtonInner>
+              <StyledComponent
+                forwardedComponent={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": Array [],
+                    "componentStyle": ComponentStyle {
+                      "componentId": "c1",
+                      "isStatic": false,
+                      "lastClassName": "c2",
+                      "rules": Array [
+                        "align-items:center;display:flex;justify-content:center;width:100%;white-space:nowrap;pointer-events:none;svg{",
+                        [Function],
+                        " + span{margin-left:4px;}}",
+                        ".c4",
+                        "{+ span{margin-left:4px;}}",
+                      ],
+                    },
+                    "displayName": "Button__ButtonInner",
+                    "foldedComponentIds": Array [],
+                    "render": [Function],
+                    "styledComponentId": "c1",
+                    "target": "div",
+                    "toString": [Function],
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+              >
+                <div
+                  className="c1 c2"
+                >
+                  <Button__Label>
+                    <StyledComponent
+                      forwardedComponent={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "attrs": Array [],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "Button__Label-j48i5d-0",
+                            "isStatic": true,
+                            "lastClassName": "c3",
+                            "rules": Array [
+                              "display:flex;+ svg,+ ",
+                              ".c4",
+                              "{margin-left:4px;}",
+                            ],
+                          },
+                          "displayName": "Button__Label",
+                          "foldedComponentIds": Array [],
+                          "render": [Function],
+                          "styledComponentId": "Button__Label-j48i5d-0",
+                          "target": "span",
+                          "toString": [Function],
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                    >
+                      <span
+                        className="c3"
+                      >
+                        Regular
+                      </span>
+                    </StyledComponent>
+                  </Button__Label>
+                </div>
+              </StyledComponent>
+            </Button__ButtonInner>
+          </button>
+        </StyledComponent>
+      </Button__ButtonWrapper>
+    </ThemeProvider>
+  </EnsureDefaultTheme>
+</Button>
+`;
+
+exports[`Button should render a small regular button 1`] = `
+.c3 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c3 + svg,
+.c3 + .c5 {
+  margin-left: 4px;
+}
+
+.c2 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  width: 100%;
+  white-space: nowrap;
+  pointer-events: none;
+}
+
+.c2 svg + span {
+  margin-left: 4px;
+}
+
+.c2 .c5 + span {
+  margin-left: 4px;
+}
+
+.c4 .c1 > svg {
+  margin-bottom: 2px;
+}
+
+.c4:hover .c1 > svg,
+.c4:active .c1 > svg,
+.c4:focus .c1 > svg {
+  stroke: #fff;
+}
+
+.c0 {
+  width: auto;
+  height: 34px;
+  padding: 0 2rem;
+  border: transparent 1px solid;
+  border-radius: 34px;
+  border-color: transparent;
+  color: #FFF;
+  font-size: 14px;
+  text-align: center;
+  line-height: 34px;
+  background-color: #0A7BC2;
+  -webkit-transition: background-color 0.2s ease-out,border-color 0.2s ease-out,color 0.2s ease-out;
+  transition: background-color 0.2s ease-out,border-color 0.2s ease-out,color 0.2s ease-out;
+}
+
+.c0 .c1 > svg {
+  margin-bottom: 2px;
+}
+
+.c0 .c5 {
+  margin-bottom: 2px;
+}
+
+.c0:hover,
+.c0:active,
+.c0:focus {
+  color: #fff;
+  border-color: transparent;
+  background-color: #085c91;
+}
+
+.c0:hover .c1 > svg,
+.c0:active .c1 > svg,
+.c0:focus .c1 > svg {
+  stroke: #fff;
+}
+
+<Button
+  label="Regular"
+  small={true}
+>
+  <EnsureDefaultTheme>
+    <ThemeProvider
+      theme={[Function]}
+    >
+      <Button__ButtonWrapper
+        small={true}
+        weight="primary"
+      >
+        <StyledComponent
+          forwardedComponent={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": Array [],
+              "componentStyle": ComponentStyle {
+                "componentId": "Button__ButtonWrapper-j48i5d-2",
+                "isStatic": false,
+                "lastClassName": "c0",
+                "rules": Array [
+                  "width:",
+                  [Function],
+                  ";height:",
+                  [Function],
+                  ";padding:",
+                  [Function],
+                  ";border:transparent 1px solid;border-radius:",
+                  [Function],
+                  ";border-color:",
+                  [Function],
+                  ";color:",
+                  [Function],
+                  ";font-size:",
+                  [Function],
+                  ";text-align:",
+                  [Function],
+                  ";line-height:",
+                  [Function],
+                  ";background-color:",
+                  [Function],
+                  ";transition:",
+                  [Function],
+                  ";",
+                  [Function],
+                  ";",
+                  [Function],
+                  ";",
+                  ".c1",
+                  " > svg{margin-bottom:2px;",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  "}",
+                  ".c5",
+                  "{margin-bottom:2px;}&:hover,&:active,&:focus{color:",
+                  [Function],
+                  ";border-color:",
+                  [Function],
+                  ";background-color:",
+                  [Function],
+                  ";",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  ".c1",
+                  " > svg{",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  " ",
+                  [Function],
+                  "}}",
+                  "@media only screen and ",
+                  "(max-width: 49.94em)",
+                  "{",
+                  "
+		",
+                  [Function],
+                  "
+	",
+                  "}",
+                ],
+              },
+              "displayName": "Button__ButtonWrapper",
+              "foldedComponentIds": Array [],
+              "render": [Function],
+              "styledComponentId": "Button__ButtonWrapper-j48i5d-2",
+              "target": "button",
+              "toString": [Function],
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+          small={true}
+          weight="primary"
+        >
+          <button
+            className="c0"
+          >
+            <Button__ButtonInner>
+              <StyledComponent
+                forwardedComponent={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": Array [],
+                    "componentStyle": ComponentStyle {
+                      "componentId": "c1",
+                      "isStatic": false,
+                      "lastClassName": "c2",
+                      "rules": Array [
+                        "align-items:center;display:flex;justify-content:center;width:100%;white-space:nowrap;pointer-events:none;svg{",
+                        [Function],
+                        " + span{margin-left:4px;}}",
+                        ".c5",
+                        "{+ span{margin-left:4px;}}",
+                      ],
+                    },
+                    "displayName": "Button__ButtonInner",
+                    "foldedComponentIds": Array [],
+                    "render": [Function],
+                    "styledComponentId": "c1",
+                    "target": "div",
+                    "toString": [Function],
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+              >
+                <div
+                  className="c1 c2"
+                >
+                  <Button__Label>
+                    <StyledComponent
+                      forwardedComponent={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "attrs": Array [],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "Button__Label-j48i5d-0",
+                            "isStatic": true,
+                            "lastClassName": "c3",
+                            "rules": Array [
+                              "display:flex;+ svg,+ ",
+                              ".c5",
+                              "{margin-left:4px;}",
+                            ],
+                          },
+                          "displayName": "Button__Label",
+                          "foldedComponentIds": Array [],
+                          "render": [Function],
+                          "styledComponentId": "Button__Label-j48i5d-0",
+                          "target": "span",
+                          "toString": [Function],
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                    >
+                      <span
+                        className="c3"
+                      >
+                        Regular
+                      </span>
+                    </StyledComponent>
+                  </Button__Label>
+                </div>
+              </StyledComponent>
+            </Button__ButtonInner>
+          </button>
+        </StyledComponent>
+      </Button__ButtonWrapper>
+    </ThemeProvider>
+  </EnsureDefaultTheme>
+</Button>
+`;
+
+exports[`Button should render a themed button 1`] = `
+.c3 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c3 + svg,
+.c3 + .c14 {
+  margin-left: 4px;
+}
+
+.c2 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  width: 100%;
+  white-space: nowrap;
+  pointer-events: none;
+}
+
+.c2 svg + span {
+  margin-left: 4px;
+}
+
+.c2 .c14 + span {
+  margin-left: 4px;
+}
+
+.c4 .c1 > svg {
+  margin-bottom: 2px;
+}
+
+.c4:hover .c1 > svg,
+.c4:active .c1 > svg,
+.c4:focus .c1 > svg {
+  stroke: #fff;
+}
+
+.c5 .c1 > svg {
+  margin-bottom: 2px;
+}
+
+.c5:hover .c1 > svg,
+.c5:active .c1 > svg,
+.c5:focus .c1 > svg {
+  stroke: #fff;
+}
+
+.c6 .c1 > svg {
+  margin-bottom: 2px;
+}
+
+.c6:hover .c1 > svg,
+.c6:active .c1 > svg,
+.c6:focus .c1 > svg {
+  stroke: #085c91;
+}
+
+.c7 .c1 > svg {
+  margin-bottom: 2px;
+  stroke: #666;
+}
+
+.c7:hover .c1 > svg,
+.c7:active .c1 > svg,
+.c7:focus .c1 > svg {
+  stroke: #4d4d4d;
+}
+
+.c8 .c1 > svg {
+  margin-bottom: 2px;
+  stroke: #FFF;
+}
+
+.c8:hover .c1 > svg,
+.c8:active .c1 > svg,
+.c8:focus .c1 > svg {
+  stroke: #fff;
+}
+
+.c9 .c1 > svg {
+  margin-bottom: 2px;
+}
+
+.c9:hover .c1 > svg,
+.c9:active .c1 > svg,
+.c9:focus .c1 > svg {
+  stroke: #fff;
+}
+
+.c10 .c1 > svg {
+  margin-bottom: 2px;
+}
+
+.c10:hover .c1 > svg,
+.c10:active .c1 > svg,
+.c10:focus .c1 > svg {
+  stroke: #fff;
+}
+
+.c11 .c1 > svg {
+  margin-bottom: 2px;
+}
+
+.c11:hover .c1 > svg,
+.c11:active .c1 > svg,
+.c11:focus .c1 > svg {
+  stroke: #57955a;
+}
+
+.c12 .c1 > svg {
+  margin-bottom: 2px;
+}
+
+.c12:hover .c1 > svg,
+.c12:active .c1 > svg,
+.c12:focus .c1 > svg {
+  stroke: #000;
+}
+
+.c13 .c1 > svg {
+  margin-bottom: 2px;
+}
+
+.c13:hover .c1 > svg,
+.c13:active .c1 > svg,
+.c13:focus .c1 > svg {
+  stroke: #fff;
+}
+
+.c0 {
+  width: auto;
+  height: 42px;
+  padding: 0 2rem;
+  border: transparent 1px solid;
+  border-radius: 21px;
+  border-color: transparent;
+  color: #FFF;
+  font-size: 1rem;
+  text-align: center;
+  line-height: 42px;
+  background-color: #9408A3;
+  -webkit-transition: background-color 0.2s ease-out,border-color 0.2s ease-out,color 0.2s ease-out;
+  transition: background-color 0.2s ease-out,border-color 0.2s ease-out,color 0.2s ease-out;
+}
+
+.c0 .c1 > svg {
+  margin-bottom: 2px;
+  stroke: #FFF;
+}
+
+.c0 .c14 {
+  margin-bottom: 2px;
+}
+
+.c0:hover,
+.c0:active,
+.c0:focus {
+  color: #fff;
+  border-color: transparent;
+  background-color: #680672;
+}
+
+.c0:hover .c1 > svg,
+.c0:active .c1 > svg,
+.c0:focus .c1 > svg {
+  stroke: #fff;
+}
+
+<Theme
+  blog="avclub"
+  theme={
+    Object {
+      "breakpointBanner": "969px",
+      "breakpointMedium": "53.125em",
+      "color": Object {
+        "alert": "#EEB544",
+        "amazon": "#F5C056",
+        "backgroundLayer": "rgba(0,0,0,0.45)",
+        "backgroundLight": "#E6F2F8",
+        "black": "#000",
+        "blackOverlay": "rgba(0,0,0,0.7)",
+        "bodytext": "#222",
+        "commerce": "#72AD75",
+        "darkBlackOverlay": "rgba(0,0,0,0.9)",
+        "darkgray": "#666",
+        "darksmoke": "#222",
+        "error": "#D24A1D",
+        "facebook": "#1877F2",
+        "foregroundLayer": "rgba(0,0,0,0.4)",
+        "google": "#DB4437",
+        "gray": "#7D7D7D",
+        "instagram": "#C32AA3",
+        "lightgray": "#E5E5E5",
+        "linkedin": "#0077B5",
+        "logo": "#000",
+        "midgray": "#CCC",
+        "primary": "#0A7BC2",
+        "primaryLight": "#0C91E4",
+        "rss": "#7D7D7D",
+        "secondarytext": "#7D7D7D",
+        "success": "#23891F",
+        "twitter": "#1DA1F2",
+        "white": "#FFF",
+        "whiteOverlay": "rgba(255,255,255,0.7)",
+        "whitesmoke": "#F5F5F5",
+        "youtube": "#FF0000",
+      },
+      "columnGutter": "2.25rem",
+      "columnGutter19": Object {
+        "largeUp": "1.5rem",
+        "small19": "1rem",
+        "xlargeUp": "2rem",
+      },
+      "columnPadding": "1.125rem",
+      "columnPadding19": Object {
+        "largeUp": "0.75rem",
+        "small19": "0.5rem",
+        "xlargeUp": "1rem",
+      },
+      "featuredContentWidth": "1024px",
+      "globalNavHeight": "80px",
+      "linkTransition": "0.1s ease-out",
+      "mainContainerWidth": "66.5%",
+      "mainContentMaxWidth": "800px",
+      "pageWidth": "1336px",
+      "postContentMaxWidth": "636px",
+      "scrollbackNavHeight": "60px",
+      "sidebarContainerWidth": "33.5%",
+      "sidebarContentMaxWidth": "360px",
+      "sidebarContentMinWidth": "300px",
+      "slideshowTransitionDuration": "0.2s",
+      "typography": Object {
+        "body": Object {
+          "fontFamily": "ElizabethSerif, Georgia, serif",
+          "fontSizes": Object {
+            "large": "27px",
+            "medium": "19px",
+            "small": "15px",
+            "xlarge": "30px",
+            "xsmall": "14px",
+          },
+          "lineHeights": Object {
+            "large": "40px",
+            "medium": "32px",
+            "small": "24px",
+            "xlarge": "44px",
+            "xsmall": "24px",
+          },
+        },
+        "embiggenedHeadlineSize": "34px",
+        "headline": Object {
+          "fontFamily": "ProximaNovaCond, sans-serif",
+          "fontSizes": Object {
+            "large": "32px",
+            "medium": "24px",
+            "small": "19px",
+            "xlarge": "37px",
+            "xsmall": "16px",
+          },
+          "lineHeights": Object {
+            "large": "40px",
+            "medium": "32px",
+            "small": "24px",
+            "xlarge": "44px",
+            "xsmall": "24px",
+          },
+        },
+        "headlineLineHeight": "1.3",
+        "headlineSize": "24px",
+        "permalinkHeadlineLineHeight": "1.2",
+        "permalinkHeadlineSize": Object {
+          "mediumUp": "2.5rem",
+          "small": "2rem",
+          "xxxlargeUp": "3rem",
+        },
+        "primary": Object {
+          "fontFamily": "ProximaNovaCond, sans-serif",
+          "fontSizes": Object {
+            "large": "32px",
+            "medium": "24px",
+            "small": "19px",
+            "xlarge": "37px",
+            "xsmall": "16px",
+          },
+          "lineHeights": Object {
+            "large": "40px",
+            "medium": "32px",
+            "small": "24px",
+            "xlarge": "44px",
+            "xsmall": "24px",
+          },
+        },
+        "serif": Object {
+          "fontFamily": "ElizabethSerif, Georgia, serif",
+          "fontSizes": Object {
+            "large": "27px",
+            "medium": "19px",
+            "small": "15px",
+            "xlarge": "30px",
+            "xsmall": "14px",
+          },
+          "lineHeights": Object {
+            "large": "40px",
+            "medium": "32px",
+            "small": "24px",
+            "xlarge": "44px",
+            "xsmall": "24px",
+          },
+        },
+        "tertiary": Object {
+          "fontFamily": "FiraSans, sans-serif",
+          "fontSizes": Object {
+            "large": "29px",
+            "medium": "21px",
+            "small": "17px",
+            "xlarge": "35px",
+            "xsmall": "15px",
+          },
+          "lineHeights": Object {
+            "large": "40px",
+            "medium": "32px",
+            "small": "24px",
+            "xlarge": "44px",
+            "xsmall": "24px",
+          },
+        },
+        "utility": Object {
+          "fontFamily": "ProximaNovaCond, sans-serif",
+          "fontSizes": Object {
+            "large": "32px",
+            "medium": "24px",
+            "small": "19px",
+            "xlarge": "37px",
+            "xsmall": "16px",
+          },
+          "lineHeights": Object {
+            "large": "40px",
+            "medium": "32px",
+            "small": "24px",
+            "xlarge": "44px",
+            "xsmall": "24px",
+          },
+        },
+      },
+    }
+  }
+>
+  <ThemeProvider
+    theme={
+      Object {
+        "blog": "avclub",
+        "breakpointBanner": "969px",
+        "breakpointMedium": "53.125em",
+        "color": Object {
+          "alert": "#EEB544",
+          "amazon": "#F5C056",
+          "backgroundLayer": "rgba(0,0,0,0.45)",
+          "backgroundLight": "#E5F7F9",
+          "black": "#000",
+          "blackOverlay": "rgba(0,0,0,0.7)",
+          "bodytext": "#222",
+          "commerce": "#72AD75",
+          "darkBlackOverlay": "rgba(0,0,0,0.9)",
+          "darkgray": "#666",
+          "darksmoke": "#222",
+          "error": "#D24A1D",
+          "facebook": "#1877F2",
+          "foregroundLayer": "rgba(0,0,0,0.4)",
+          "google": "#DB4437",
+          "gray": "#7D7D7D",
+          "instagram": "#C32AA3",
+          "lightgray": "#E5E5E5",
+          "linkedin": "#0077B5",
+          "logo": "#1C263C",
+          "midgray": "#CCC",
+          "primary": "#9408A3",
+          "primaryLight": "#91DBD9",
+          "rss": "#7D7D7D",
+          "secondarytext": "#7D7D7D",
+          "success": "#23891F",
+          "twitter": "#1DA1F2",
+          "white": "#FFF",
+          "whiteOverlay": "rgba(255,255,255,0.7)",
+          "whitesmoke": "#F5F5F5",
+          "youtube": "#FF0000",
+        },
+        "columnGutter": "2.25rem",
+        "columnGutter19": Object {
+          "largeUp": "1.5rem",
+          "small19": "1rem",
+          "xlargeUp": "2rem",
+        },
+        "columnPadding": "1.125rem",
+        "columnPadding19": Object {
+          "largeUp": "0.75rem",
+          "small19": "0.5rem",
+          "xlargeUp": "1rem",
+        },
+        "featuredContentWidth": "1024px",
+        "globalNavHeight": "80px",
+        "linkTransition": "0.1s ease-out",
+        "mainContainerWidth": "66.5%",
+        "mainContentMaxWidth": "800px",
+        "pageWidth": "1336px",
+        "postContentMaxWidth": "636px",
+        "scrollbackNavHeight": "60px",
+        "sidebarContainerWidth": "33.5%",
+        "sidebarContentMaxWidth": "360px",
+        "sidebarContentMinWidth": "300px",
+        "slideshowTransitionDuration": "0.2s",
+        "typography": Object {
+          "body": Object {
+            "fontFamily": "ElizabethSerif, Georgia, serif",
+            "fontSizes": Object {
+              "large": "27px",
+              "medium": "19px",
+              "small": "15px",
+              "xlarge": "30px",
+              "xsmall": "14px",
+            },
+            "lineHeights": Object {
+              "large": "40px",
+              "medium": "32px",
+              "small": "24px",
+              "xlarge": "44px",
+              "xsmall": "24px",
+            },
+          },
+          "embiggenedHeadlineSize": "34px",
+          "headline": Object {
+            "fontFamily": "ProximaNovaCond, sans-serif",
+            "fontSizes": Object {
+              "large": "32px",
+              "medium": "24px",
+              "small": "19px",
+              "xlarge": "37px",
+              "xsmall": "16px",
+            },
+            "lineHeights": Object {
+              "large": "40px",
+              "medium": "32px",
+              "small": "24px",
+              "xlarge": "44px",
+              "xsmall": "24px",
+            },
+          },
+          "headlineLineHeight": "1.3",
+          "headlineSize": "24px",
+          "permalinkHeadlineLineHeight": "1.2",
+          "permalinkHeadlineSize": Object {
+            "mediumUp": "2.5rem",
+            "small": "2rem",
+            "xxxlargeUp": "3rem",
+          },
+          "primary": Object {
+            "fontFamily": "ProximaNovaCond, sans-serif",
+            "fontSizes": Object {
+              "large": "32px",
+              "medium": "24px",
+              "small": "19px",
+              "xlarge": "37px",
+              "xsmall": "16px",
+            },
+            "lineHeights": Object {
+              "large": "40px",
+              "medium": "32px",
+              "small": "24px",
+              "xlarge": "44px",
+              "xsmall": "24px",
+            },
+          },
+          "serif": Object {
+            "fontFamily": "ElizabethSerif, Georgia, serif",
+            "fontSizes": Object {
+              "large": "27px",
+              "medium": "19px",
+              "small": "15px",
+              "xlarge": "30px",
+              "xsmall": "14px",
+            },
+            "lineHeights": Object {
+              "large": "40px",
+              "medium": "32px",
+              "small": "24px",
+              "xlarge": "44px",
+              "xsmall": "24px",
+            },
+          },
+          "tertiary": Object {
+            "fontFamily": "FiraSans, sans-serif",
+            "fontSizes": Object {
+              "large": "29px",
+              "medium": "21px",
+              "small": "17px",
+              "xlarge": "35px",
+              "xsmall": "15px",
+            },
+            "lineHeights": Object {
+              "large": "40px",
+              "medium": "32px",
+              "small": "24px",
+              "xlarge": "44px",
+              "xsmall": "24px",
+            },
+          },
+          "utility": Object {
+            "fontFamily": "ProximaNovaCond, sans-serif",
+            "fontSizes": Object {
+              "large": "32px",
+              "medium": "24px",
+              "small": "19px",
+              "xlarge": "37px",
+              "xsmall": "16px",
+            },
+            "lineHeights": Object {
+              "large": "40px",
+              "medium": "32px",
+              "small": "24px",
+              "xlarge": "44px",
+              "xsmall": "24px",
+            },
+          },
+        },
+      }
+    }
+  >
+    <Button
+      label="The A.V. Club"
+      variant="primary"
+    >
+      <EnsureDefaultTheme>
+        <ThemeProvider
+          theme={[Function]}
+        >
+          <Button__ButtonWrapper
+            variant="primary"
+            weight="primary"
+          >
+            <StyledComponent
+              forwardedComponent={
+                Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "attrs": Array [],
+                  "componentStyle": ComponentStyle {
+                    "componentId": "Button__ButtonWrapper-j48i5d-2",
+                    "isStatic": false,
+                    "lastClassName": "c0",
+                    "rules": Array [
+                      "width:",
+                      [Function],
+                      ";height:",
+                      [Function],
+                      ";padding:",
+                      [Function],
+                      ";border:transparent 1px solid;border-radius:",
+                      [Function],
+                      ";border-color:",
+                      [Function],
+                      ";color:",
+                      [Function],
+                      ";font-size:",
+                      [Function],
+                      ";text-align:",
+                      [Function],
+                      ";line-height:",
+                      [Function],
+                      ";background-color:",
+                      [Function],
+                      ";transition:",
+                      [Function],
+                      ";",
+                      [Function],
+                      ";",
+                      [Function],
+                      ";",
+                      ".c1",
+                      " > svg{margin-bottom:2px;",
+                      [Function],
+                      " ",
+                      [Function],
+                      " ",
+                      [Function],
+                      " ",
+                      [Function],
+                      " ",
+                      [Function],
+                      " ",
+                      [Function],
+                      "}",
+                      ".c14",
+                      "{margin-bottom:2px;}&:hover,&:active,&:focus{color:",
+                      [Function],
+                      ";border-color:",
+                      [Function],
+                      ";background-color:",
+                      [Function],
+                      ";",
+                      [Function],
+                      " ",
+                      [Function],
+                      " ",
+                      ".c1",
+                      " > svg{",
+                      [Function],
+                      " ",
+                      [Function],
+                      " ",
+                      [Function],
+                      " ",
+                      [Function],
+                      "}}",
+                      "@media only screen and ",
+                      "(max-width: 49.94em)",
+                      "{",
+                      "
+		",
+                      [Function],
+                      "
+	",
+                      "}",
+                    ],
+                  },
+                  "displayName": "Button__ButtonWrapper",
+                  "foldedComponentIds": Array [],
+                  "render": [Function],
+                  "styledComponentId": "Button__ButtonWrapper-j48i5d-2",
+                  "target": "button",
+                  "toString": [Function],
+                  "warnTooManyClasses": [Function],
+                  "withComponent": [Function],
+                }
+              }
+              forwardedRef={null}
+              variant="primary"
+              weight="primary"
+            >
+              <button
+                className="c0"
+              >
+                <Button__ButtonInner>
+                  <StyledComponent
+                    forwardedComponent={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": Array [],
+                        "componentStyle": ComponentStyle {
+                          "componentId": "c1",
+                          "isStatic": false,
+                          "lastClassName": "c2",
+                          "rules": Array [
+                            "align-items:center;display:flex;justify-content:center;width:100%;white-space:nowrap;pointer-events:none;svg{",
+                            [Function],
+                            " + span{margin-left:4px;}}",
+                            ".c14",
+                            "{+ span{margin-left:4px;}}",
+                          ],
+                        },
+                        "displayName": "Button__ButtonInner",
+                        "foldedComponentIds": Array [],
+                        "render": [Function],
+                        "styledComponentId": "c1",
+                        "target": "div",
+                        "toString": [Function],
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                  >
+                    <div
+                      className="c1 c2"
+                    >
+                      <Button__Label>
+                        <StyledComponent
+                          forwardedComponent={
+                            Object {
+                              "$$typeof": Symbol(react.forward_ref),
+                              "attrs": Array [],
+                              "componentStyle": ComponentStyle {
+                                "componentId": "Button__Label-j48i5d-0",
+                                "isStatic": true,
+                                "lastClassName": "c3",
+                                "rules": Array [
+                                  "display:flex;+ svg,+ ",
+                                  ".c14",
+                                  "{margin-left:4px;}",
+                                ],
+                              },
+                              "displayName": "Button__Label",
+                              "foldedComponentIds": Array [],
+                              "render": [Function],
+                              "styledComponentId": "Button__Label-j48i5d-0",
+                              "target": "span",
+                              "toString": [Function],
+                              "warnTooManyClasses": [Function],
+                              "withComponent": [Function],
+                            }
+                          }
+                          forwardedRef={null}
+                        >
+                          <span
+                            className="c3"
+                          >
+                            The A.V. Club
+                          </span>
+                        </StyledComponent>
+                      </Button__Label>
+                    </div>
+                  </StyledComponent>
+                </Button__ButtonInner>
+              </button>
+            </StyledComponent>
+          </Button__ButtonWrapper>
+        </ThemeProvider>
+      </EnsureDefaultTheme>
+    </Button>
+  </ThemeProvider>
+</Theme>
+`;

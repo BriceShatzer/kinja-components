@@ -1,0 +1,146 @@
+{
+  "id": 1798252300,
+  "headline": "What’s that brown sauce in Chinese takeout?",
+  "isStarter": true,
+  "isFeatured": false,
+  "isVideo": false,
+  "allowReplies": true,
+  "replyCount": 264,
+  "status": "PUBLISHED",
+  "permalink": "https://thetakeout.com/what-s-that-brown-sauce-in-chinese-takeout-1798252300",
+  "securePermalink": "https://thetakeout.com/what-s-that-brown-sauce-in-chinese-takeout-1798252300",
+  "first100Characters": "Amuse Our Bouche is The Takeout’s column that answers your burning, boiling, and flambéed food quest",
+  "firstSentence": "Amuse Our Bouche is The Takeout’s column that answers your burning, boiling, and flambéed food quest",
+  "facebookImage": {
+    "src": "https://i.kinja-img.com/gawker-media/image/upload/s--O-xcvD6i--/c_fit,fl_progressive,q_80,w_636/bc1gk8pcjpf46rgfoyrc.jpg",
+    "id": "bc1gk8pcjpf46rgfoyrc",
+    "width": 636,
+    "height": 357,
+    "format": "jpg"
+  },
+  "twitterCardType": "summary_large_image",
+  "plaintext": "Amuse Our Bouche is The Takeout’s column that answers your burning, boiling, and flambéed food questions.",
+  "author": {
+    "id": "5876237249237148582",
+    "screenName": "kevinpang",
+    "displayName": "Kevin Pang",
+    "avatar": {
+      "id": "sqczckjsrxt1ypyphljs",
+      "format": "jpg"
+    }
+  },
+  "authorScreenName": "kevinpang",
+  "byline": "",
+  "tags": [
+    {
+      "canonical": "food",
+      "urlName": "food",
+      "displayName": "Food"
+    },
+    {
+      "canonical": "chinesefood",
+      "urlName": "chinese-food",
+      "displayName": "Chinese food"
+    },
+    {
+      "canonical": "martinyan",
+      "urlName": "martin-yan",
+      "displayName": "Martin Yan"
+    },
+    {
+      "canonical": "amuseourbouche",
+      "urlName": "amuse-our-bouche",
+      "displayName": "Amuse Our Bouche"
+    }
+  ],
+  "publishTimeMillis": 1511618580300,
+  "adZone": "",
+  "adSenseDisabled": false,
+  "sponsored": false,
+  "doNotCrawl": false,
+  "defaultBlogId": "1636140418",
+  "images": [
+    {
+      "src": "https://i.kinja-img.com/gawker-media/image/upload/s--O-xcvD6i--/c_fit,fl_progressive,q_80,w_636/bc1gk8pcjpf46rgfoyrc.jpg",
+      "id": "bc1gk8pcjpf46rgfoyrc",
+      "width": 636,
+      "height": 357,
+      "format": "jpg",
+      "$el": {
+        "0": {
+          "_lazysizesWidth": 800
+        },
+        "length": 1,
+        "prevObject": {
+          "0": {},
+          "context": {},
+          "length": 1
+        },
+        "context": {},
+        "selector": "[data-chomp-id=\"bc1gk8pcjpf46rgfoyrc\"]"
+      },
+      "type": "image"
+    }
+  ],
+  "videos": [
+    {
+      "id": null,
+      "type": "video",
+      "src": "youtube://HBKLwNSyvoI",
+      "embedCode": null,
+      "height": null,
+      "width": null,
+      "thumbnails": [
+        {
+          "id": "sy6moopa54kzmbkkafqf",
+          "format": "jpg"
+        }
+      ],
+      "$el": {
+        "0": {},
+        "length": 1,
+        "prevObject": {
+          "0": {},
+          "context": {},
+          "length": 1
+        },
+        "context": {},
+        "selector": "[data-recommend-id=\"youtube://HBKLwNSyvoI\"]"
+      }
+    }
+  ],
+  "mainMedia": {
+    "id": "bc1gk8pcjpf46rgfoyrc",
+    "format": "jpg",
+    "width": 800,
+    "height": 450,
+    "alignment": "Bleed",
+    "caption": [
+      {
+        "styles": [],
+        "value": "Photo: Don Kelsen/Los Angeles Times via Getty Images",
+        "type": "Text"
+      }
+    ],
+    "type": "Image"
+  },
+  "qaParticipants": [],
+  "qaMembers": [],
+  "qaStatus": null,
+  "staffIncluded": false,
+  "hasFeaturedVideo": false,
+  "discussionSettings": null,
+  "storyType": {
+    "id": 579,
+    "blogId": 1636140418,
+    "canonical": "amuse-our-bouche",
+    "title": "Amuse Our Bouche",
+    "content": "Standard"
+  },
+  "socialHeadline": "What’s that brown sauce in Chinese takeout?",
+  "gaDimensions": {
+    "wordCount": 460,
+    "wordCountBucket": "400 - 600",
+    "gaVideoIds": "youtube-video-HBKLwNSyvoI"
+  }
+}

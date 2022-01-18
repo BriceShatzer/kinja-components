@@ -1,0 +1,35 @@
+{
+	"id": "56773890",
+	"url": "https://www.amazon.com/gp/product/B01GKGY09E/ref=gbps_tit_s-4_a870_a2884f7e?ie=UTF8&m=ATVPDKIKX0DER&th=1&kinja_price=33",
+	"provider": "amazon",
+	"headline": "Philips Norelco  OneBlade and 2 Pack Replacement Heads",
+	"description": null,
+	"thumbnails": [
+		"https://images-na.ssl-images-amazon.com/images/I/41-tIIziQrL.jpg"
+	],
+	"images": [{
+		"id": "n49hhx9slcgxuxgwm6gk",
+		"format": "jpg",
+		"width": 500,
+		"height": 500,
+		"originalWidth": 500,
+		"originalHeight": 500
+	}],
+	"meta": {
+		"asin": "B01GKGY09E",
+		"price": "33",
+		"priceV2": "33",
+		"conversions": "32"
+	},
+	"type": "none",
+	"height": null,
+	"width": null,
+	"sizeClass": null,
+	"autoResize": false,
+	"isSecure": true,
+	"insetId": null,
+	"originalUrl": "https://www.amazon.com/gp/product/B01GKGY09E/ref=gbps_tit_s-4_a870_a2884f7e?ie=UTF8&m=ATVPDKIKX0DER&th=1&kinja_price=33",
+	"shortDescription": null,
+	"startTime": null,
+	"relatedLinks": []
+}

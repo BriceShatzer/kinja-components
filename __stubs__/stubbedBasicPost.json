@@ -1,0 +1,377 @@
+{
+    "parent": null,
+    "largeOnStream": true,
+    "videos": [],
+    "adSettings": null,
+    "parentAuthorId": null,
+    "body": [
+        {
+            "lightbox": true,
+            "syndicationRights": false,
+            "format": "jpg",
+            "attribution": [],
+            "width": 4798,
+            "caption": [
+                {
+                    "styles": [],
+                    "type": "Text",
+                    "value": "Photo: Chaloner Woods/Getty Images"
+                }
+            ],
+            "id": "axcasxoipjqgs7s2xog1",
+            "type": "Image",
+            "alignment": "Bleed",
+            "height": 2699
+        },
+        {
+            "containers": [],
+            "type": "Paragraph",
+            "value": [
+                {
+                    "styles": [
+                        "Italic"
+                    ],
+                    "type": "Text",
+                    "value": "Three staffers, three unabashed recommendations."
+                }
+            ]
+        },
+        {
+            "level": 3,
+            "containers": [],
+            "type": "Header",
+            "alignment": "Left",
+            "value": [
+                {
+                    "styles": [],
+                    "type": "Text",
+                    "value": "Candied ginger"
+                }
+            ]
+        },
+        {
+            "containers": [],
+            "type": "Paragraph",
+            "value": [
+                {
+                    "styles": [],
+                    "type": "Text",
+                    "value": "I was recently feeling nauseous and went to the shop around the corner from the "
+                },
+                {
+                    "styles": [
+                        "Italic"
+                    ],
+                    "type": "Text",
+                    "value": "A.V. Club"
+                },
+                {
+                    "styles": [],
+                    "type": "Text",
+                    "value": "’s office to buy some ginger ale. This bodega must have hundreds of drinks for sale in a dozen coolers, but the only ginger ale was the kind for mixing into drinks, and had lots of high fructose corn syrup but no actual ginger in it. So I went with candied ginger instead, which I should’ve done in the first place. Candied ginger is made from tender, young ginger root, so it’s much softer than the more fibrous ginger root you peel for use in cooking. The ginger root is preserved in sugar, making the final product both sweet and spicy. And while a lot of wild claims are made regarding the healthfulness of certain foods and spices, ginger really does help settle an upset stomach, and candied ginger is far more effective than ginger ale, since you’re eating more straight ginger than makes it into the sugary drink. If you’re not wild about sinking your teeth into soft ginger, you can get candied ginger in very small chunks, which ups the sugar-to-ginger ratio, making it sweeter and crunchier than the bigger, chewier ones. [Caitlin PenzeyMoog]"
+                }
+            ]
+        },
+        {
+            "style": "BrandedB",
+            "containers": [],
+            "type": "HorizontalRule"
+        },
+        {
+            "level": 3,
+            "containers": [],
+            "type": "Header",
+            "alignment": "Left",
+            "value": [
+                {
+                    "reference": "http://www.rhinegeist.com/ciders#Bubbles",
+                    "type": "Link",
+                    "value": [
+                        {
+                            "styles": [],
+                            "type": "Text",
+                            "value": "Rhinegeist’s Bubbles Ale cider"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "lightbox": true,
+            "syndicationRights": false,
+            "format": "jpg",
+            "attribution": [],
+            "width": 288,
+            "caption": [],
+            "id": "bvkbznq0vajled6zvduv",
+            "type": "Image",
+            "alignment": "Right",
+            "height": 332
+        },
+        {
+            "containers": [],
+            "type": "Paragraph",
+            "value": [
+                {
+                    "styles": [],
+                    "type": "Text",
+                    "value": "As I’ve taken to saying lately, I’m in my wine years. I especially enjoy the versatility of rosés, which work day or night, at brunch or dinner, and with fish or red meat. Rosés are so adaptable, in fact, that they’re just as effervescent in cider form—specifically, Rhinegeist’s Bubbles Ale. This cider is made from apple, peach, and cranberry, and is as tasty as it is refreshing. Its crispness makes it perfect for a little day-drinking, but with a 6.2 percent ABV, it’s still solid enough to take the edge off a long day of work in the evening. There’s only one drawback: Rhinegeist beers and ciders are only sold in Ohio—this is a Cincinnati-based operation, after all—Kentucky, Massachusetts, Pennsylvania (specifically, Pittsburgh), and new addition Indiana. I was able to wheedle a six-pack from a gracious co-worker who brought it back after the holidays, but I am considering a road trip to Indiana to stock up on Bubbles (and maybe fireworks) over the next holiday weekend. [Danette Chavez]"
+                }
+            ]
+        },
+        {
+            "style": "BrandedB",
+            "containers": [],
+            "type": "HorizontalRule"
+        },
+        {
+            "level": 3,
+            "containers": [],
+            "type": "Header",
+            "alignment": "Left",
+            "value": [
+                {
+                    "styles": [],
+                    "type": "Text",
+                    "value": "Vegan chocolate-avocado pudding"
+                }
+            ]
+        },
+        {
+            "containers": [],
+            "type": "Paragraph",
+            "value": [
+                {
+                    "styles": [],
+                    "type": "Text",
+                    "value": "I’ve never quite understood hiding vegetables in other food. This might be because I have not cooked for an adult who doesn’t like them—are you an adult? Eat some cauliflower—and don’t have kids. And yet I’m also a sucker for “trick” recipes. Remember that "
+                },
+                {
+                    "reference": "https://www.thekitchn.com/how-to-make-creamy-ice-cream-with-just-one-ingredient-cooking-lessons-from-the-kitchn-93414",
+                    "type": "Link",
+                    "value": [
+                        {
+                            "styles": [],
+                            "type": "Text",
+                            "value": "banana “ice cream”"
+                        }
+                    ]
+                },
+                {
+                    "styles": [],
+                    "type": "Text",
+                    "value": " everyone was making a handful of years ago? It didn’t taste like the real thing but was satisfying nonetheless. It’s with this same attitude that I approached "
+                },
+                {
+                    "reference": "https://www.bonappetit.com/recipe/chocolate-avocado-pudding",
+                    "type": "Link",
+                    "value": [
+                        {
+                            "styles": [],
+                            "type": "Text",
+                            "value": "this chocolate-avocado pudding from "
+                        },
+                        {
+                            "styles": [
+                                "Italic"
+                            ],
+                            "type": "Text",
+                            "value": "Bon Appétit"
+                        }
+                    ]
+                },
+                {
+                    "styles": [],
+                    "type": "Text",
+                    "value": ". In addition to perhaps being healthier than your traditional, milk-based pudding, this one has a number of things going for it: namely, strong chocolate flavor and a really smooth texture that’s somewhere between pudding and mousse. Plus, it’s vegan and comes together rather easily. Instead of standing over a stove stirring, mindful not to burn the milk, you merely whir the ingredients together in a blender, pour the mixture into ramekins, and refrigerate it. Voilà. (The only thing I’d change would be to start with a little less water than what the recipe calls for, as the full amount diluted the final product a bit.) So while I could certainly see a parent using this recipe to sneak some vegetables (or, fruit, rather) to an unwitting child, this recipe is really for anyone—vegans and non-vegans alike—who wants a homemade dessert without a lot of hassle. And for what it’s worth, you don’t even taste the avocado. [Laura Adamczyk]"
+                }
+            ]
+        }
+    ],
+    "approved": true,
+    "starterId": 1822977960,
+    "isBlip": false,
+    "isRoundup": false,
+    "id": 1822977960,
+    "isFeatured": false,
+    "aboveHeadline": {
+        "src": "UNUSED",
+        "isAnimated": false,
+        "id": "axcasxoipjqgs7s2xog1",
+        "width": 800,
+        "height": 450,
+        "format": "jpg",
+        "frozenFormat": "jpg",
+        "type": "image"
+    },
+    "images": [
+        {
+            "id": "axcasxoipjqgs7s2xog1",
+            "width": 4798,
+            "height": 2699,
+            "format": "jpg"
+        },
+        {
+            "id": "bvkbznq0vajled6zvduv",
+            "width": 288,
+            "height": 332,
+            "format": "jpg"
+        }
+    ],
+    "author": null,
+    "postId": 1822977960,
+    "mainMedia": {
+        "lightbox": true,
+        "syndicationRights": false,
+        "format": "jpg",
+        "attribution": [],
+        "width": 4798,
+        "caption": [
+            {
+                "styles": [],
+                "type": "Text",
+                "value": "Photo: Chaloner Woods/Getty Images"
+            }
+        ],
+        "id": "axcasxoipjqgs7s2xog1",
+        "type": "Image",
+        "alignment": "Bleed",
+        "height": 2699
+    },
+    "tags": [
+        {
+            "canonical": "staffpicks",
+            "urlName": "staff-picks",
+            "displayName": "Staff Picks"
+        },
+        {
+            "canonical": "ginger",
+            "urlName": "ginger",
+            "displayName": "Ginger"
+        },
+        {
+            "canonical": "rhinegeist",
+            "urlName": "rhinegeist",
+            "displayName": "Rhinegeist"
+        }
+    ],
+    "permalinkHost": "https://www.avclub.com",
+    "permalinkPath": "/from-the-garden-of-culinary-delights-candy-cider-and-1822977960",
+    "firstSentence": "Three staffers, three unabashed recommendations.",
+    "relatedPosts": [
+        {
+            "id": 1822211355,
+            "headline": "Lost in the supermarket: Tasty tortilla chips, a hearty grain, and a Soviet salad of pantry staples",
+            "sharingMainImage": {
+                "src": "UNUSED",
+                "isAnimated": false,
+                "id": "dqyji365iozlguc7dxzn",
+                "width": 800,
+                "height": 449,
+                "format": "jpg",
+                "frozenFormat": "jpg",
+                "type": "image"
+            },
+            "permalink": "https://www.avclub.com/lost-in-the-supermarket-tasty-tortilla-chips-a-hearty-1822211355",
+            "defaultBlogId": 1636027099
+        },
+        {
+            "id": 1798643469,
+            "headline": "A pink (gray) wine, a chewy fudge cookie, and a stack of towels to clean up your mess",
+            "sharingMainImage": {
+                "src": "UNUSED",
+                "isAnimated": false,
+                "id": "wldwndout9vvgs2pckd5",
+                "width": 800,
+                "height": 608,
+                "format": "jpg",
+                "frozenFormat": "jpg",
+                "type": "image"
+            },
+            "permalink": "https://www.avclub.com/a-pink-gray-wine-a-chewy-fudge-cookie-and-a-stack-o-1798643469",
+            "defaultBlogId": 1636027099
+        },
+        {
+            "id": 1798288456,
+            "headline": "A soda with bite, plus a blog and a book for those with sweet teeth",
+            "sharingMainImage": {
+                "src": "UNUSED",
+                "isAnimated": false,
+                "id": "zkx9duj4qygrvmeakwvo",
+                "width": 800,
+                "height": 450,
+                "format": "jpg",
+                "frozenFormat": "jpg",
+                "type": "image"
+            },
+            "permalink": "https://thetakeout.com/a-soda-with-bite-plus-a-blog-and-a-book-for-those-with-1798288456",
+            "defaultBlogId": 1636140418
+        }
+    ],
+    "showAuthorBio": false,
+    "permalink": "https://www.avclub.com/from-the-garden-of-culinary-delights-candy-cider-and-1822977960",
+    "status": "PUBLISHED",
+    "authors": [],
+    "template": null,
+    "relatedModule": {
+        "posts": [
+            {
+                "id": 1822211355
+            },
+            {
+                "id": 1798643469
+            },
+            {
+                "id": 1798288456
+            }
+        ],
+        "storyTypes": [],
+        "tags": []
+    },
+    "permalinkRedirect": null,
+    "timezone": "America/Chicago",
+    "showByline": true,
+    "parentAuthorIds": [],
+    "salesAvatar": null,
+    "leftOfHeadline": {
+        "src": "UNUSED",
+        "isAnimated": false,
+        "id": "axcasxoipjqgs7s2xog1",
+        "width": 320,
+        "height": 180,
+        "format": "jpg",
+        "frozenFormat": "jpg",
+        "type": "image"
+    },
+    "lastUpdateTimeMillis": 1518894008285,
+    "sharingMainImage": {
+        "src": "UNUSED",
+        "isAnimated": false,
+        "id": "axcasxoipjqgs7s2xog1",
+        "width": 800,
+        "height": 450,
+        "format": "jpg",
+        "frozenFormat": "jpg",
+        "type": "image"
+    },
+    "publishTimeMillis": 1518894000960,
+    "byline": "",
+    "headline": "From the garden of culinary delights: Candy, cider, and a sneaky dessert",
+    "authorIds": [
+        "5876237249237148574",
+        "5876237249237148570",
+        "5876237249237148584"
+    ],
+    "starter": null,
+    "length": 3617,
+    "defaultBlogId": 1636027099,
+    "isVideo": false,
+    "sponsored": false,
+    "plaintext": "Three staffers, three unabashed recommendations.",
+    "allowReplies": true,
+    "authorId": "5876237249237148574",
+    "parentId": null,
+    "sharedUrl": null,
+    "featuredMedia": null,
+    "properties": "{\"dropCapEnabled\":false,\"hideFromRss\":false,\"isEmbiggened\":true}"
+}

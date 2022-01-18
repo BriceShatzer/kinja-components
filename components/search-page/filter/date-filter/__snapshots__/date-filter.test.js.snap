@@ -1,0 +1,48 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<DateFilter /> should render properly 1`] = `
+<EnsureDefaultTheme>
+  <date-filter__Container>
+    <Toggle(CollapsibleBox)
+      isStatic={true}
+      title="Filter by date"
+    >
+      <RadioGroup
+        name="datefilter"
+        onChange={[Function]}
+      >
+        <Radio
+          checked={true}
+          label="Show all stories"
+          value="Show all stories"
+        />
+        <Radio
+          checked={false}
+          label="Last 24 hours"
+          value="Last 24 hours"
+        />
+        <Radio
+          checked={false}
+          label="Last 48 hours"
+          value="Last 48 hours"
+        />
+        <Radio
+          checked={false}
+          label="Past week"
+          value="Past week"
+        />
+        <Radio
+          checked={false}
+          label="Past month"
+          value="Past month"
+        />
+        <Radio
+          checked={false}
+          label="Specify date range"
+          value="Specify date range"
+        />
+      </RadioGroup>
+    </Toggle(CollapsibleBox)>
+  </date-filter__Container>
+</EnsureDefaultTheme>
+`;

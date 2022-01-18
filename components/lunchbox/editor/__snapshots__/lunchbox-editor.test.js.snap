@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<LunchboxEditor /> should render a textarea and text input 1`] = `
+<LunchboxWrapper
+  currentLayout="TextHeaderParagraph"
+>
+  <LunchboxTextEditor
+    currentLayout="TextHeaderParagraph"
+    handleUpdateHeader={[Function]}
+    handleUpdateParagraph={[Function]}
+    headerText="headerText"
+    paragraphText="paragraphText"
+  />
+</LunchboxWrapper>
+`;
+
+exports[`<LunchboxEditor /> should render an image placeholder 1`] = `
+<LunchboxWrapper
+  currentLayout="Image"
+>
+  <LunchboxImageEditor
+    currentLayout="Image"
+    deleteImage={[Function]}
+    handleMediaUpload={[Function]}
+    showToolbar={false}
+  />
+</LunchboxWrapper>
+`;

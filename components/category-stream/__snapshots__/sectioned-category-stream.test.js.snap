@@ -1,0 +1,2020 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<SectionedCategoryStream /> should render a sectioned category stream 1`] = `
+<Fragment>
+  <StoryTypeBox
+    canonicalHost="gizmodo.com"
+    categories={
+      Array [
+        Object {
+          "canonical": "io9",
+          "content": "Standard",
+          "path": "movies/io9",
+          "title": "io9",
+        },
+        Object {
+          "canonical": "uncategorized",
+          "content": "Standard",
+          "path": "movies/uncategorized",
+          "title": "Uncategorized",
+        },
+      ]
+    }
+    storyType={
+      Object {
+        "canonical": "movies",
+        "content": "Standard",
+        "path": "movies",
+        "title": "Movies",
+      }
+    }
+    subcategories={null}
+  />
+  <StoryTypeSelectors
+    categories={
+      Array [
+        Object {
+          "canonical": "io9",
+          "content": "Standard",
+          "path": "movies/io9",
+          "title": "io9",
+        },
+        Object {
+          "canonical": "uncategorized",
+          "content": "Standard",
+          "path": "movies/uncategorized",
+          "title": "Uncategorized",
+        },
+      ]
+    }
+    storyType={
+      Object {
+        "canonical": "movies",
+        "content": "Standard",
+        "path": "movies",
+        "title": "Movies",
+      }
+    }
+    subcategories={null}
+  />
+  <LdJson
+    contents="{\\"@type\\":[\\"CollectionPage\\",\\"ItemList\\"],\\"@context\\":\\"http://schema.org\\",\\"publisher\\":{\\"@type\\":\\"Organization\\",\\"@context\\":\\"http://schema.org\\",\\"name\\":\\"gizmodo\\",\\"url\\":\\"https://gizmodo.com\\",\\"logo\\":{\\"@type\\":\\"ImageObject\\",\\"width\\":500,\\"url\\":\\"https://x.kinja-static.com/assets/images/logos/newsletter/gizmodo-500px.png\\"},\\"sameAs\\":[\\"https://www.facebook.com/gizmodo\\",\\"https://www.youtube.com/channel/UCxFmw3IUMDUC1Hh7qDjtjZQ\\",\\"https://twitter.com/gizmodo\\",\\"https://instagram.com/gizmodo\\"]},\\"headline\\":\\"Movies\\",\\"itemListElement\\":[{\\"@type\\":\\"ListItem\\",\\"position\\":1},{\\"@type\\":\\"ListItem\\",\\"position\\":2},{\\"@type\\":\\"ListItem\\",\\"position\\":3},{\\"@type\\":\\"ListItem\\",\\"position\\":4}]}"
+  />
+  <span
+    className="storytype__content"
+  >
+    <CategoryStreamSection
+      canonical="uncategorized"
+      key="uncategorized"
+      newStaticStreamHeader={false}
+      pageType="sectionedCategoryStream"
+      path="movies/uncategorized"
+      posts={
+        Array [
+          Object {
+            "allowReplies": true,
+            "approved": true,
+            "author": Object {
+              "avatar": Object {
+                "format": "gif",
+                "frozenFormat": "jpg",
+                "id": "17u3vq7wa8cbugif",
+                "isAnimated": true,
+              },
+              "displayName": "James Whitbrook",
+              "id": "5724542002230561815",
+              "isSuperuser": false,
+              "screenName": "ursus-veritas",
+            },
+            "authorId": "5724542002230561815",
+            "authorIds": Array [
+              "5724542002230561815",
+            ],
+            "authors": Array [
+              Object {
+                "avatar": Object {
+                  "format": "gif",
+                  "frozenFormat": "jpg",
+                  "id": "17u3vq7wa8cbugif",
+                  "isAnimated": true,
+                },
+                "displayName": "James Whitbrook",
+                "id": "5724542002230561815",
+                "isSuperuser": false,
+                "screenName": "ursus-veritas",
+              },
+            ],
+            "blogIds": Array [],
+            "body": Array [
+              Object {
+                "alignment": "Bleed",
+                "altText": null,
+                "attribution": Array [
+                  Object {
+                    "credit": Array [
+                      Object {
+                        "styles": Array [],
+                        "type": "Text",
+                        "value": "Disney/Lucasfilm",
+                      },
+                    ],
+                    "label": "Image",
+                    "source": Array [],
+                  },
+                ],
+                "caption": Array [
+                  Object {
+                    "styles": Array [],
+                    "type": "Text",
+                    "value": "Producer Ram Bergman, Rian Johnson, and Lucasfilm president Kathleen Kennedy on the set of ",
+                  },
+                  Object {
+                    "styles": Array [
+                      "Italic",
+                    ],
+                    "type": "Text",
+                    "value": "Star Wars: The Last Jedi.",
+                  },
+                ],
+                "format": "png",
+                "height": 450,
+                "id": "t2xzermgu78g554ztzie",
+                "lightbox": true,
+                "syndicationRights": false,
+                "type": "Image",
+                "width": 800,
+              },
+              Object {
+                "containers": Array [],
+                "type": "Paragraph",
+                "value": Array [
+                  Object {
+                    "styles": Array [],
+                    "type": "Text",
+                    "value": "In the last three years, we’ve had three ",
+                  },
+                  Object {
+                    "styles": Array [
+                      "Italic",
+                    ],
+                    "type": "Text",
+                    "value": "Star Wars",
+                  },
+                  Object {
+                    "styles": Array [],
+                    "type": "Text",
+                    "value": " movies come out—and a fourth is just months away. Disney’s acquisition of Lucasfilm has presented a huge boon in terms of new ",
+                  },
+                  Object {
+                    "styles": Array [
+                      "Italic",
+                    ],
+                    "type": "Text",
+                    "value": "Star Wars",
+                  },
+                  Object {
+                    "styles": Array [],
+                    "type": "Text",
+                    "value": " material, but when is it all too much? Rian Johnson, at least, has some heartening thoughts about how to avoid ",
+                  },
+                  Object {
+                    "styles": Array [
+                      "Italic",
+                    ],
+                    "type": "Text",
+                    "value": "Star Wars",
+                  },
+                  Object {
+                    "styles": Array [],
+                    "type": "Text",
+                    "value": " overload.",
+                  },
+                  Object {
+                    "type": "LineBreak",
+                  },
+                ],
+              },
+              Object {
+                "containers": Array [],
+                "type": "Paragraph",
+                "value": Array [
+                  Object {
+                    "styles": Array [],
+                    "type": "Text",
+                    "value": "We’ve previously discussed how the new wave of ",
+                  },
+                  Object {
+                    "styles": Array [
+                      "Italic",
+                    ],
+                    "type": "Text",
+                    "value": "Star Wars",
+                  },
+                  Object {
+                    "styles": Array [],
+                    "type": "Text",
+                    "value": " material’s reliance on the timeframe of the original trilogy, only choosing to slowly eke out the world after it with the arrival of each sequel episode, has",
+                  },
+                  Object {
+                    "reference": "https://io9.gizmodo.com/star-wars-is-all-the-same-nowadays-and-its-becoming-a-1796449283",
+                    "type": "Link",
+                    "value": Array [
+                      Object {
+                        "styles": Array [],
+                        "type": "Text",
+                        "value": " lead to a sameness",
+                      },
+                    ],
+                  },
+                  Object {
+                    "styles": Array [],
+                    "type": "Text",
+                    "value": " pervading the current books, comics, and general ",
+                  },
+                  Object {
+                    "styles": Array [
+                      "Italic",
+                    ],
+                    "type": "Text",
+                    "value": "Star Wars",
+                  },
+                  Object {
+                    "styles": Array [],
+                    "type": "Text",
+                    "value": " ephemera. Yes, it’s all mostly been very good, but it barely stretches the boundaries of what we know the stories of the galaxy far, far away can do. ",
+                  },
+                  Object {
+                    "styles": Array [
+                      "Italic",
+                    ],
+                    "type": "Text",
+                    "value": "The Last Jedi",
+                  },
+                  Object {
+                    "styles": Array [],
+                    "type": "Text",
+                    "value": ", whether you love it or loathe it for doing so, at least pushed the main saga in a direction that passes a torch to a new generation, widening up and offering the chance for the movies to push ",
+                  },
+                  Object {
+                    "styles": Array [
+                      "Italic",
+                    ],
+                    "type": "Text",
+                    "value": "Star Wars",
+                  },
+                  Object {
+                    "styles": Array [],
+                    "type": "Text",
+                    "value": " in new and fascinating ways.",
+                  },
+                ],
+              },
+              Object {
+                "containers": Array [],
+                "type": "Paragraph",
+                "value": Array [
+                  Object {
+                    "reference": "https://www.latimes.com/entertainment/movies/la-et-mn-star-wars-the-last-jedi-rian-johnson-20180403-story.html",
+                    "type": "Link",
+                    "value": Array [
+                      Object {
+                        "styles": Array [],
+                        "type": "Text",
+                        "value": "Speaking at SXSW recently",
+                      },
+                    ],
+                  },
+                  Object {
+                    "styles": Array [],
+                    "type": "Text",
+                    "value": " as part of publicity for the movie’s home release, Rian Johnson said that that’s something Lucasfilm understands it needs to start doing more of to avoid a dreaded ",
+                  },
+                  Object {
+                    "styles": Array [
+                      "Italic",
+                    ],
+                    "type": "Text",
+                    "value": "Star Wars",
+                  },
+                  Object {
+                    "styles": Array [],
+                    "type": "Text",
+                    "value": " fatigue:",
+                  },
+                ],
+              },
+              Object {
+                "containers": Array [
+                  Object {
+                    "type": "BlockQuote",
+                  },
+                ],
+                "type": "Paragraph",
+                "value": Array [
+                  Object {
+                    "styles": Array [],
+                    "type": "Text",
+                    "value": "When people ask me, ‘Don’t you think people are going to get sick of ",
+                  },
+                  Object {
+                    "styles": Array [
+                      "Italic",
+                    ],
+                    "type": "Text",
+                    "value": "Star Wars",
+                  },
+                  Object {
+                    "styles": Array [],
+                    "type": "Text",
+                    "value": " movies?’ to me that question indicates that they’re thinking of ",
+                  },
+                  Object {
+                    "styles": Array [
+                      "Italic",
+                    ],
+                    "type": "Text",
+                    "value": "Star Wars",
+                  },
+                  Object {
+                    "styles": Array [],
+                    "type": "Text",
+                    "value": " movies as a museum exhibit that is wheeled out once a year so you can say, ‘Oh, I loved that thing. Oh, I remember that thing!’ And yes, if ",
+                  },
+                  Object {
+                    "styles": Array [
+                      "Italic",
+                    ],
+                    "type": "Text",
+                    "value": "Star Wars",
+                  },
+                  Object {
+                    "styles": Array [],
+                    "type": "Text",
+                    "value": " is that, people are going to get sick of it really quickly.",
+                  },
+                ],
+              },
+              Object {
+                "containers": Array [
+                  Object {
+                    "type": "BlockQuote",
+                  },
+                ],
+                "type": "Paragraph",
+                "value": Array [
+                  Object {
+                    "styles": Array [],
+                    "type": "Text",
+                    "value": "But if ",
+                  },
+                  Object {
+                    "styles": Array [
+                      "Italic",
+                    ],
+                    "type": "Text",
+                    "value": "Star Wars",
+                  },
+                  Object {
+                    "styles": Array [],
+                    "type": "Text",
+                    "value": " are great new movies that are exciting and fresh, and that challenge you and surprise you and make you feel things and engage you the way that those original movies did—but always taking you to new places, both in the galaxy and emotionally—that’s never going to get old. That’s what it’s all about.",
+                  },
+                ],
+              },
+              Object {
+                "containers": Array [],
+                "type": "Paragraph",
+                "value": Array [
+                  Object {
+                    "styles": Array [],
+                    "type": "Text",
+                    "value": "We’ve known Johnson himself is ",
+                  },
+                  Object {
+                    "reference": "https://io9.gizmodo.com/rian-johnson-is-developing-a-new-trilogy-of-star-wars-m-1820310672",
+                    "type": "Link",
+                    "value": Array [
+                      Object {
+                        "styles": Array [],
+                        "type": "Text",
+                        "value": "already working on a movie saga",
+                      },
+                    ],
+                  },
+                  Object {
+                    "styles": Array [],
+                    "type": "Text",
+                    "value": " that promises to uncover ",
+                  },
+                  Object {
+                    "styles": Array [
+                      "Italic",
+                    ],
+                    "type": "Text",
+                    "value": "Star Wars",
+                  },
+                  Object {
+                    "styles": Array [],
+                    "type": "Text",
+                    "value": " tales in parts of the galaxy previously unexplored, asking the challenging question of what defines the very essence of ",
+                  },
+                  Object {
+                    "styles": Array [
+                      "Italic",
+                    ],
+                    "type": "Text",
+                    "value": "Star Wars",
+                  },
+                  Object {
+                    "styles": Array [],
+                    "type": "Text",
+                    "value": " when you strip away the familiarity of the Skywalker saga. That’s the sort of question that’ll need answering soon—",
+                  },
+                  Object {
+                    "styles": Array [
+                      "Italic",
+                    ],
+                    "type": "Text",
+                    "value": "Star Wars",
+                  },
+                  Object {
+                    "styles": Array [],
+                    "type": "Text",
+                    "value": " cannot simply get by on exploring the lives of familiar faces and the stories surrounding the fringes of events we’ve already seen if it’s going to keep up this heady pace of movies and ",
+                  },
+                  Object {
+                    "reference": "https://io9.gizmodo.com/jon-favreau-is-writing-lucasfilms-first-star-wars-live-1823610232",
+                    "type": "Link",
+                    "value": Array [
+                      Object {
+                        "styles": Array [],
+                        "type": "Text",
+                        "value": "TV shows",
+                      },
+                    ],
+                  },
+                  Object {
+                    "styles": Array [],
+                    "type": "Text",
+                    "value": " and ",
+                  },
+                  Object {
+                    "reference": "https://io9.gizmodo.com/the-makers-of-game-of-thrones-are-writing-and-producing-1822774890",
+                    "type": "Link",
+                    "value": Array [
+                      Object {
+                        "styles": Array [],
+                        "type": "Text",
+                        "value": "trilogies upon trilogies",
+                      },
+                    ],
+                  },
+                  Object {
+                    "styles": Array [],
+                    "type": "Text",
+                    "value": ". To have a director who understands that in charge of part of that future gives us a lot of hope.",
+                  },
+                ],
+              },
+              Object {
+                "containers": Array [],
+                "type": "Paragraph",
+                "value": Array [
+                  Object {
+                    "styles": Array [],
+                    "type": "Text",
+                    "value": "[",
+                  },
+                  Object {
+                    "reference": "https://www.latimes.com/entertainment/movies/la-et-mn-star-wars-the-last-jedi-rian-johnson-20180403-story.html",
+                    "type": "Link",
+                    "value": Array [
+                      Object {
+                        "styles": Array [
+                          "Italic",
+                        ],
+                        "type": "Text",
+                        "value": "LA Times",
+                      },
+                    ],
+                  },
+                  Object {
+                    "styles": Array [],
+                    "type": "Text",
+                    "value": "]",
+                  },
+                ],
+              },
+            ],
+            "bylineProperties": Object {
+              "byline": "",
+              "show": true,
+            },
+            "category": null,
+            "categoryData": null,
+            "defaultBlogId": "8",
+            "featuredMedia": null,
+            "headline": "Rian Johnson Understands What <i>Star Wars</i> Needs to Do in Order to Survive",
+            "id": "1824285540",
+            "images": Array [
+              Object {
+                "format": "png",
+                "frozenFormat": "png",
+                "height": 450,
+                "id": "t2xzermgu78g554ztzie",
+                "originalHeight": 450,
+                "originalWidth": 800,
+                "uid": "t2xzermgu78g554ztzie",
+                "width": 800,
+              },
+            ],
+            "isFeatured": false,
+            "isVideo": false,
+            "largeOnStream": true,
+            "lastUpdateTimeMillis": 1522776603545,
+            "links": null,
+            "mainMedia": Object {
+              "alignment": "Bleed",
+              "altText": null,
+              "attribution": Array [
+                Object {
+                  "credit": Array [
+                    Object {
+                      "styles": Array [],
+                      "type": "Text",
+                      "value": "Disney/Lucasfilm",
+                    },
+                  ],
+                  "label": "Image",
+                  "source": Array [],
+                },
+              ],
+              "caption": Array [
+                Object {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "Producer Ram Bergman, Rian Johnson, and Lucasfilm president Kathleen Kennedy on the set of ",
+                },
+                Object {
+                  "styles": Array [
+                    "Italic",
+                  ],
+                  "type": "Text",
+                  "value": "Star Wars: The Last Jedi.",
+                },
+              ],
+              "format": "png",
+              "height": 450,
+              "id": "t2xzermgu78g554ztzie",
+              "lightbox": true,
+              "syndicationRights": false,
+              "type": "Image",
+              "width": 800,
+            },
+            "ownerId": null,
+            "parent": null,
+            "parentAuthorId": null,
+            "parentId": null,
+            "permalinkHost": "https://io9.gizmodo.com",
+            "permalinkPath": "/rian-johnson-understands-what-star-wars-needs-to-do-in-1824285540",
+            "permalinkRedirect": null,
+            "plaintext": "In the last three years, we’ve had three Star Wars movies come out—and a fourth is just months away. Disney’s acquisition of Lucasfilm has presented a huge boon in terms of new Star Wars material, but when is it all too much? Rian Johnson, at least, has some heartening thoughts about how to avoid Star Wars overload.",
+            "properties": "{\\"dropCapEnabled\\":false,\\"hideFromRss\\":false,\\"impactHeader\\":{}}",
+            "publishTimeMillis": 1522776600540,
+            "qaMembers": Array [],
+            "qaParticipants": Array [],
+            "relatedModule": Object {
+              "headline": "The Past is Prologue",
+            },
+            "relatedPosts": Array [],
+            "salesAvatar": null,
+            "sharedUrl": null,
+            "showAuthorBio": true,
+            "sponsored": false,
+            "staffIncluded": false,
+            "starter": null,
+            "starterId": "1824285540",
+            "status": "PUBLISHED",
+            "storyTypeId": 139,
+            "subcategory": null,
+            "subcategoryData": null,
+            "tags": Array [
+              Object {
+                "canonical": "quoteoftheday",
+                "displayName": "Quote of the Day",
+                "urlName": "quote-of-the-day",
+              },
+              Object {
+                "canonical": "starwars",
+                "displayName": "Star Wars",
+                "urlName": "star-wars",
+              },
+              Object {
+                "canonical": "starwarsthelastjedi",
+                "displayName": "Star Wars: The Last Jedi",
+                "urlName": "star-wars-the-last-jedi",
+              },
+              Object {
+                "canonical": "rianjohnson",
+                "displayName": "Rian Johnson",
+                "urlName": "rian-johnson",
+              },
+              Object {
+                "canonical": "lucasfilm",
+                "displayName": "Lucasfilm",
+                "urlName": "lucasfilm",
+              },
+              Object {
+                "canonical": "disney",
+                "displayName": "Disney",
+                "urlName": "disney",
+              },
+            ],
+            "timezone": "America/New_York",
+            "videos": Array [],
+          },
+          Object {
+            "allowReplies": true,
+            "approved": true,
+            "author": Object {
+              "avatar": Object {
+                "format": "jpg",
+                "frozenFormat": "jpg",
+                "id": "xu8mxgiwmagfbxudbkog",
+                "isAnimated": false,
+              },
+              "displayName": "Cheryl Eddy",
+              "id": "5876237249235068657",
+              "isSuperuser": false,
+              "screenName": "cherylvis",
+            },
+            "authorId": "5876237249235068657",
+            "authorIds": Array [
+              "5876237249235068657",
+            ],
+            "authors": Array [
+              Object {
+                "avatar": Object {
+                  "format": "jpg",
+                  "frozenFormat": "jpg",
+                  "id": "xu8mxgiwmagfbxudbkog",
+                  "isAnimated": false,
+                },
+                "displayName": "Cheryl Eddy",
+                "id": "5876237249235068657",
+                "isSuperuser": false,
+                "screenName": "cherylvis",
+              },
+            ],
+            "blogIds": Array [],
+            "body": Array [
+              Object {
+                "alignment": "Bleed",
+                "altText": null,
+                "attribution": Array [
+                  Object {
+                    "credit": Array [
+                      Object {
+                        "styles": Array [],
+                        "type": "Text",
+                        "value": "Vanity Fair",
+                      },
+                    ],
+                    "label": "Photo",
+                    "source": Array [
+                      Object {
+                        "reference": "https://www.youtube.com/watch?v=py9lrUq7cOU",
+                        "target": "_blank",
+                        "type": "Link",
+                        "value": Array [
+                          Object {
+                            "styles": Array [],
+                            "type": "Text",
+                            "value": "YouTube",
+                          },
+                        ],
+                      },
+                    ],
+                  },
+                ],
+                "caption": Array [
+                  Object {
+                    "styles": Array [],
+                    "type": "Text",
+                    "value": "Jeff Goldblum pondering a ",
+                  },
+                  Object {
+                    "styles": Array [
+                      "Italic",
+                    ],
+                    "type": "Text",
+                    "value": "Jurassic Park",
+                  },
+                  Object {
+                    "styles": Array [],
+                    "type": "Text",
+                    "value": " without Ian Malcolm.",
+                  },
+                ],
+                "format": "jpg",
+                "height": 469,
+                "id": "wdozdq9ud8prcdnq7s2s",
+                "lightbox": true,
+                "syndicationRights": false,
+                "type": "Image",
+                "width": 844,
+              },
+              Object {
+                "containers": Array [],
+                "type": "Paragraph",
+                "value": Array [
+                  Object {
+                    "styles": Array [
+                      "Italic",
+                    ],
+                    "type": "Text",
+                    "value": "Jurassic Park",
+                  },
+                  Object {
+                    "styles": Array [],
+                    "type": "Text",
+                    "value": " would ",
+                  },
+                  Object {
+                    "styles": Array [
+                      "Italic",
+                    ],
+                    "type": "Text",
+                    "value": "not ",
+                  },
+                  Object {
+                    "styles": Array [],
+                    "type": "Text",
+                    "value": "have been the same without Jeff Goldblum’s iconic performance as Dr. Ian Malcolm, chaos theory advocate and black leather enthusiast. But though Malcolm’s a character from the pages of Michael Crichton’s source novel, he almost didn’t make it into the film.",
+                  },
+                  Object {
+                    "type": "LineBreak",
+                  },
+                ],
+              },
+              Object {
+                "containers": Array [],
+                "type": "Paragraph",
+                "value": Array [
+                  Object {
+                    "styles": Array [],
+                    "type": "Text",
+                    "value": "According to a video interview conducted by ",
+                  },
+                  Object {
+                    "styles": Array [
+                      "Italic",
+                    ],
+                    "type": "Text",
+                    "value": "Vanity Fair",
+                  },
+                  Object {
+                    "styles": Array [],
+                    "type": "Text",
+                    "value": " (on the occasion of Goldblum’s turn in Wes Anderson’s ",
+                  },
+                  Object {
+                    "styles": Array [
+                      "Italic",
+                    ],
+                    "type": "Text",
+                    "value": "Isle of Dogs",
+                  },
+                  Object {
+                    "styles": Array [],
+                    "type": "Text",
+                    "value": ", though of course he’s back as Malcolm in this summer’s ",
+                  },
+                  Object {
+                    "styles": Array [
+                      "Italic",
+                    ],
+                    "type": "Text",
+                    "value": "Jurassic World: Fallen Kingdom",
+                  },
+                  Object {
+                    "styles": Array [],
+                    "type": "Text",
+                    "value": "), Steven Spielberg’s film almost ",
+                  },
+                  Object {
+                    "styles": Array [
+                      "Italic",
+                    ],
+                    "type": "Text",
+                    "value": "combined",
+                  },
+                  Object {
+                    "styles": Array [],
+                    "type": "Text",
+                    "value": " Malcolm and Dr. Alan Grant (the character played by Sam Neill) into one character. ",
+                  },
+                ],
+              },
+              Object {
+                "containers": Array [],
+                "type": "Paragraph",
+                "value": Array [
+                  Object {
+                    "styles": Array [],
+                    "type": "Text",
+                    "value": "“I [read] that Michael Crichton book—Ian Malcolm, wow! Smart, funny, interesting character,” Goldblum says, recalling how he prepared for his meeting with the director. “[Spielberg] was so nice... but he said, ‘You know, there’s a sort of movement afoot... to have that part removed from the script. So since we’ve had this meeting, there’s this little wrinkle that may… render this moot.’ I kind of said, ‘Well, gee!’ I felt moved to advocate for my inclusion!”",
+                  },
+                ],
+              },
+              Object {
+                "containers": Array [],
+                "type": "Paragraph",
+                "value": Array [
+                  Object {
+                    "styles": Array [],
+                    "type": "Text",
+                    "value": "Fortunately—after meeting with the uniquely charismatic and apparently rather persuasive Goldblum—the ",
+                  },
+                  Object {
+                    "styles": Array [
+                      "Italic",
+                    ],
+                    "type": "Text",
+                    "value": "Jurassic Park ",
+                  },
+                  Object {
+                    "styles": Array [],
+                    "type": "Text",
+                    "value": "team realized there was room in the story for both characters. Thank goodness. Check out the entire video to hear other Goldblum gems, including his delightfully theatrical pronunciation of ",
+                  },
+                  Object {
+                    "styles": Array [
+                      "Italic",
+                    ],
+                    "type": "Text",
+                    "value": "Independence Day ",
+                  },
+                  Object {
+                    "styles": Array [],
+                    "type": "Text",
+                    "value": "director Roland Emmerich’s name.",
+                  },
+                ],
+              },
+              Object {
+                "alignment": "Bleed",
+                "caption": Array [],
+                "id": "py9lrUq7cOU",
+                "start": 0,
+                "thumbnail": Object {
+                  "format": "jpg",
+                  "id": "swpkvdylvy99ztbuhc0p",
+                },
+                "type": "YoutubeVideo",
+              },
+              Object {
+                "containers": Array [],
+                "type": "Paragraph",
+                "value": Array [
+                  Object {
+                    "styles": Array [],
+                    "type": "Text",
+                    "value": "[",
+                  },
+                  Object {
+                    "reference": "https://www.youtube.com/watch?v=py9lrUq7cOU",
+                    "type": "Link",
+                    "value": Array [
+                      Object {
+                        "styles": Array [],
+                        "type": "Text",
+                        "value": "Vanity Fair",
+                      },
+                    ],
+                  },
+                  Object {
+                    "styles": Array [],
+                    "type": "Text",
+                    "value": " via ",
+                  },
+                  Object {
+                    "reference": "https://www.syfy.com/syfywire/jurassic-park-without-ian-malcolm-jeff-goldblum-says-it-almost-happened",
+                    "type": "Link",
+                    "value": Array [
+                      Object {
+                        "styles": Array [],
+                        "type": "Text",
+                        "value": "Syfy",
+                      },
+                    ],
+                  },
+                  Object {
+                    "styles": Array [],
+                    "type": "Text",
+                    "value": "]",
+                  },
+                  Object {
+                    "type": "LineBreak",
+                  },
+                ],
+              },
+            ],
+            "bylineProperties": Object {
+              "byline": "",
+              "show": true,
+            },
+            "category": null,
+            "categoryData": null,
+            "defaultBlogId": "8",
+            "featuredMedia": null,
+            "headline": "Jeff Goldblum Reveals There Was Almost a Version of the <i>Jurassic Park </i>Script Without Dr. Ian Malcolm",
+            "id": "1824261922",
+            "images": Array [
+              Object {
+                "format": "jpg",
+                "frozenFormat": "jpg",
+                "height": 469,
+                "id": "wdozdq9ud8prcdnq7s2s",
+                "originalHeight": 469,
+                "originalWidth": 844,
+                "uid": "wdozdq9ud8prcdnq7s2s",
+                "width": 844,
+              },
+            ],
+            "isFeatured": false,
+            "isVideo": false,
+            "largeOnStream": true,
+            "lastUpdateTimeMillis": 1522715402276,
+            "links": null,
+            "mainMedia": Object {
+              "alignment": "Bleed",
+              "altText": null,
+              "attribution": Array [
+                Object {
+                  "credit": Array [
+                    Object {
+                      "styles": Array [],
+                      "type": "Text",
+                      "value": "Vanity Fair",
+                    },
+                  ],
+                  "label": "Photo",
+                  "source": Array [
+                    Object {
+                      "reference": "https://www.youtube.com/watch?v=py9lrUq7cOU",
+                      "target": "_blank",
+                      "type": "Link",
+                      "value": Array [
+                        Object {
+                          "styles": Array [],
+                          "type": "Text",
+                          "value": "YouTube",
+                        },
+                      ],
+                    },
+                  ],
+                },
+              ],
+              "caption": Array [
+                Object {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "Jeff Goldblum pondering a ",
+                },
+                Object {
+                  "styles": Array [
+                    "Italic",
+                  ],
+                  "type": "Text",
+                  "value": "Jurassic Park",
+                },
+                Object {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": " without Ian Malcolm.",
+                },
+              ],
+              "format": "jpg",
+              "height": 469,
+              "id": "wdozdq9ud8prcdnq7s2s",
+              "lightbox": true,
+              "syndicationRights": false,
+              "type": "Image",
+              "width": 844,
+            },
+            "ownerId": null,
+            "parent": null,
+            "parentAuthorId": null,
+            "parentId": null,
+            "permalinkHost": "https://io9.gizmodo.com",
+            "permalinkPath": "/jeff-goldblum-reveals-there-was-almost-a-version-of-the-1824261922",
+            "permalinkRedirect": null,
+            "plaintext": "Jurassic Park would not have been the same without Jeff Goldblum’s iconic performance as Dr. Ian Malcolm, chaos theory advocate and black leather enthusiast. But though Malcolm’s a character from the pages of Michael Crichton’s source novel, he almost didn’t make it into the film.",
+            "properties": "{\\"dropCapEnabled\\":false,\\"hideFromRss\\":false,\\"impactHeader\\":{}}",
+            "publishTimeMillis": 1522715400922,
+            "qaMembers": Array [],
+            "qaParticipants": Array [],
+            "relatedModule": Object {
+              "headline": "Solid Goldblum",
+            },
+            "relatedPosts": Array [],
+            "salesAvatar": null,
+            "sharedUrl": null,
+            "showAuthorBio": true,
+            "sponsored": false,
+            "staffIncluded": false,
+            "starter": null,
+            "starterId": "1824261922",
+            "status": "PUBLISHED",
+            "storyTypeId": 139,
+            "subcategory": null,
+            "subcategoryData": null,
+            "tags": Array [
+              Object {
+                "canonical": "jeffgoldblum",
+                "displayName": "Jeff Goldblum",
+                "urlName": "jeff-goldblum",
+              },
+              Object {
+                "canonical": "samneill",
+                "displayName": "Sam Neill",
+                "urlName": "sam-neill",
+              },
+              Object {
+                "canonical": "jurassicpark",
+                "displayName": "Jurassic Park",
+                "urlName": "jurassic-park",
+              },
+              Object {
+                "canonical": "sciencefiction",
+                "displayName": "Science Fiction",
+                "urlName": "science-fiction",
+              },
+              Object {
+                "canonical": "stevenspielberg",
+                "displayName": "Steven Spielberg",
+                "urlName": "steven-spielberg",
+              },
+              Object {
+                "canonical": "books",
+                "displayName": "Books",
+                "urlName": "books",
+              },
+            ],
+            "timezone": "America/New_York",
+            "videos": Array [
+              Object {
+                "embedCode": null,
+                "height": null,
+                "id": null,
+                "thumbnails": Array [
+                  Object {
+                    "format": "jpg",
+                    "frozenFormat": "jpg",
+                    "height": 0,
+                    "id": "swpkvdylvy99ztbuhc0p",
+                    "uid": "swpkvdylvy99ztbuhc0p",
+                    "width": 0,
+                  },
+                ],
+                "type": "youtube",
+                "width": null,
+              },
+            ],
+          },
+          Object {
+            "allowReplies": true,
+            "approved": true,
+            "author": Object {
+              "avatar": Object {
+                "format": "jpg",
+                "frozenFormat": "jpg",
+                "id": "hyaxawrgcqv4myjcbqjx",
+                "isAnimated": false,
+              },
+              "displayName": "Germain Lussier",
+              "id": "5876237249235823346",
+              "isSuperuser": false,
+              "screenName": "germainlussier",
+            },
+            "authorId": "5876237249235823346",
+            "authorIds": Array [
+              "5876237249235823346",
+            ],
+            "authors": Array [
+              Object {
+                "avatar": Object {
+                  "format": "jpg",
+                  "frozenFormat": "jpg",
+                  "id": "hyaxawrgcqv4myjcbqjx",
+                  "isAnimated": false,
+                },
+                "displayName": "Germain Lussier",
+                "id": "5876237249235823346",
+                "isSuperuser": false,
+                "screenName": "germainlussier",
+              },
+            ],
+            "blogIds": Array [],
+            "body": Array [
+              Object {
+                "alignment": "Bleed",
+                "altText": null,
+                "attribution": Array [
+                  Object {
+                    "credit": Array [],
+                    "label": "Image",
+                    "source": Array [
+                      Object {
+                        "styles": Array [],
+                        "type": "Text",
+                        "value": "Warner Bros.",
+                      },
+                    ],
+                  },
+                ],
+                "caption": Array [
+                  Object {
+                    "styles": Array [],
+                    "type": "Text",
+                    "value": "Steven Spielberg on the set of ",
+                  },
+                  Object {
+                    "styles": Array [
+                      "Italic",
+                    ],
+                    "type": "Text",
+                    "value": "Ready Player One",
+                  },
+                  Object {
+                    "styles": Array [],
+                    "type": "Text",
+                    "value": " with Simon Pegg and Mark Rylance.",
+                  },
+                ],
+                "format": "jpg",
+                "height": 563,
+                "id": "x5fjqitiabq1dvyxogmj",
+                "lightbox": true,
+                "syndicationRights": false,
+                "type": "Image",
+                "width": 1000,
+              },
+              Object {
+                "containers": Array [],
+                "type": "Paragraph",
+                "value": Array [
+                  Object {
+                    "styles": Array [
+                      "Italic",
+                    ],
+                    "type": "Text",
+                    "value": "Ready Player One",
+                  },
+                  Object {
+                    "styles": Array [],
+                    "type": "Text",
+                    "value": " was a very divisive book and now it’s a very divisive movie. io9 is no exception. While my colleagues ",
+                  },
+                  Object {
+                    "reference": "https://io9.gizmodo.com/a-brief-treatise-on-the-greatest-line-in-ready-player-o-1824205222",
+                    "type": "Link",
+                    "value": Array [
+                      Object {
+                        "styles": Array [],
+                        "type": "Text",
+                        "value": "Beth",
+                      },
+                    ],
+                  },
+                  Object {
+                    "styles": Array [],
+                    "type": "Text",
+                    "value": " and ",
+                  },
+                  Object {
+                    "reference": "https://io9.gizmodo.com/ready-player-one-is-an-orgy-of-nostalgia-in-all-the-wro-1823701833#_ga=2.115447430.1439121035.1522071582-1979792924.1464266206",
+                    "type": "Link",
+                    "value": Array [
+                      Object {
+                        "styles": Array [],
+                        "type": "Text",
+                        "value": "Evan",
+                      },
+                    ],
+                  },
+                  Object {
+                    "styles": Array [],
+                    "type": "Text",
+                    "value": " didn’t care for it, I’m a fan of Ernest Cline’s love letter to pop culture, although I fully admit it has problems. So I was excited that Steven Spielberg would helm the movie adaptation, though I knew the two would differ. What I didn’t know was how much the film was going to challenge and recontextualize my feelings about the book.",
+                  },
+                ],
+              },
+              Object {
+                "alignment": "Bleed",
+                "altText": null,
+                "attribution": Array [],
+                "caption": Array [],
+                "format": "png",
+                "height": 88,
+                "id": "u6j38utgaahgww4fobjr",
+                "lightbox": true,
+                "syndicationRights": false,
+                "type": "Image",
+                "width": 800,
+              },
+              Object {
+                "containers": Array [],
+                "type": "Paragraph",
+                "value": Array [
+                  Object {
+                    "styles": Array [],
+                    "type": "Text",
+                    "value": "Most of why I enjoy Cline’s book is the adventure of it. Yes, it’s full of needless pop culture references and questionable character development, but the basic, bare-bones idea bristles with excitement: an infinite, Willy Wonka-type race for an Easter egg that grants control of the world. From the very first pages, it grabbed me. When I finished, I raved about the story, the set pieces, and how much I enjoyed it—but, admittedly, I never really considered the book beyond that. Cline certainly had things he wanted to say in the book (and things he says without knowing it) but those rarely occurred to me because the story was so propulsive. It was a frivolous, highly-entertaining read that surely spoke to me more than most because of my own personal pop culture obsessions.",
+                  },
+                  Object {
+                    "type": "LineBreak",
+                  },
+                ],
+              },
+              Object {
+                "containers": Array [],
+                "type": "Paragraph",
+                "value": Array [
+                  Object {
+                    "styles": Array [],
+                    "type": "Text",
+                    "value": "As expected, the movie changes a lot of that. For example, it’s less about pop culture properties than the book is. The whole idea of society being shaped by James Halliday’s obsession with the ‘80s is almost an afterthought on screen. When the movie starts, the first challenge has already been discovered and the only people doing it are the “egg hunters,” called “gunters.” They’re also the only people still researching Halliday and obsessing over his quest. (Even the term “gunters,” a distinction for people who are professionally playing Halliday’s game, isn’t used much in the movie.) The pop culture references themselves are abundant but largely balanced across all eras, even beyond how Cline does it in his book. Halliday’s contest may have changed the world in both versions, but in the movie, it didn’t stop the world from evolving. The movie makes it feel like, until Parzival wins the first challenge, most of the world has given up on the quest for the Halliday’s Egg, which is not the feeling you get in the book.",
+                  },
+                ],
+              },
+              Object {
+                "alignment": "Bleed",
+                "altText": null,
+                "attribution": Array [
+                  Object {
+                    "credit": Array [],
+                    "label": "Image",
+                    "source": Array [
+                      Object {
+                        "styles": Array [],
+                        "type": "Text",
+                        "value": "Warner Bros.",
+                      },
+                    ],
+                  },
+                ],
+                "caption": Array [
+                  Object {
+                    "styles": Array [],
+                    "type": "Text",
+                    "value": "The avatars of the High Five figure out the second gate.",
+                  },
+                ],
+                "format": "jpg",
+                "height": 858,
+                "id": "kcvimyfmy5m6bq5xp40m",
+                "lightbox": true,
+                "syndicationRights": false,
+                "type": "Image",
+                "width": 2048,
+              },
+              Object {
+                "containers": Array [],
+                "type": "Paragraph",
+                "value": Array [
+                  Object {
+                    "styles": Array [],
+                    "type": "Text",
+                    "value": "I liked that. I liked that probably 70 percent of the characters and things you see in the Oasis are just random things and not crazy pop culture references. It makes the movie feel less pop-culture obsessed and, somehow, more accessible. Most people in the Oasis don’t want to be Beetlejuice or a Ninja Turtle, they want to be a virtual expression of their own personality. As a result, pop culture feels more like ",
+                  },
+                  Object {
+                    "styles": Array [],
+                    "type": "Text",
+                    "value": "set",
+                  },
+                  Object {
+                    "styles": Array [],
+                    "type": "Text",
+                    "value": " dressing than the focus of the story. (And in many cases, it’s literally just set dressing, like the Pee-wee Herman bike in ",
+                  },
+                  Object {
+                    "styles": Array [],
+                    "type": "Text",
+                    "value": "Aech’s",
+                  },
+                  Object {
+                    "styles": Array [],
+                    "type": "Text",
+                    "value": " apartment or the ",
+                  },
+                  Object {
+                    "styles": Array [
+                      "Italic",
+                    ],
+                    "type": "Text",
+                    "value": "Raiders of the Lost Ark",
+                  },
+                  Object {
+                    "styles": Array [],
+                    "type": "Text",
+                    "value": " poster in Halliday’s room). There’s no doubt these were Spielberg’s attempts to try and curb some of the book’s more tame criticisms, and I think it worked.",
+                  },
+                ],
+              },
+              Object {
+                "containers": Array [],
+                "type": "Paragraph",
+                "value": Array [
+                  Object {
+                    "styles": Array [],
+                    "type": "Text",
+                    "value": "What worked less for me was Spielberg’s thematic authorship. The book mostly feels like it’s just about a bunch of kids trying to win money and fight an evil corporation. The movie adds a very obvious cautionary tale about the dangers of technology. Or, I should say, it ",
+                  },
+                  Object {
+                    "styles": Array [
+                      "Italic",
+                    ],
+                    "type": "Text",
+                    "value": "tries",
+                  },
+                  Object {
+                    "styles": Array [],
+                    "type": "Text",
+                    "value": " to; on my first viewing, I felt like that message—or any message, really—was shoehorned into the third act and not developed as a cohesive thread.",
+                  },
+                ],
+              },
+              Object {
+                "containers": Array [],
+                "type": "Paragraph",
+                "value": Array [
+                  Object {
+                    "styles": Array [],
+                    "type": "Text",
+                    "value": "That’s when it hit me. The book’s narrative doesn’t really sustain a truly meaningful thematic overlay. There are subtextual things in there, but most of the book is basic. Yes, it’s an adventure set in this incredible virtual reality, but it’s a simple, surface-level story—and throwing in a message that virtual reality needs to be used less is counterproductive at best. If two hours of your movie is rail guns and DeLoreans, and the last 20 minutes is “Live life and go outside,” it feels like the message was put in as an afterthought, even if it wasn’t. The two contradict each other, and the bulk of the film outweighs the end.",
+                  },
+                ],
+              },
+              Object {
+                "alignment": "Bleed",
+                "altText": null,
+                "attribution": Array [
+                  Object {
+                    "credit": Array [],
+                    "label": "Image",
+                    "source": Array [
+                      Object {
+                        "styles": Array [],
+                        "type": "Text",
+                        "value": "Warner Bros.",
+                      },
+                    ],
+                  },
+                ],
+                "caption": Array [
+                  Object {
+                    "styles": Array [],
+                    "type": "Text",
+                    "value": "Oh, right, real people. That’s Tye Sheridan, Olivia Cooke, Philip Zhao, and Win Morisaki.",
+                  },
+                ],
+                "format": "jpg",
+                "height": 1200,
+                "id": "dzrb9ag2vrmhdmohbvm8",
+                "lightbox": true,
+                "syndicationRights": false,
+                "type": "Image",
+                "width": 2864,
+              },
+              Object {
+                "containers": Array [],
+                "type": "Paragraph",
+                "value": Array [
+                  Object {
+                    "styles": Array [],
+                    "type": "Text",
+                    "value": "I felt like Spielberg tried his best to make the movie about something, but failed. It was like Cline’s narrative wasn’t strong enough for Spielberg’s storytelling and the two were clashing. I thought “That was a fun movie, but it just didn’t work.” Or so I thought after my first viewing.",
+                  },
+                ],
+              },
+              Object {
+                "containers": Array [],
+                "type": "Paragraph",
+                "value": Array [
+                  Object {
+                    "styles": Array [],
+                    "type": "Text",
+                    "value": "On a second viewing, though, I realized Spielberg does a better job than I first realized with this problem. The pro-living, anti-technology ideas are introduced earlier than I originally noticed, when Wade first meets Samantha in the real world, later with the harshness of the Loyalty Centers, and beyond. It also helps to know it’s an issue and to try and enjoy the film strictly on a surface level. If you do that, the adventure story really does soar in ways similar to the novel, but much more cinematically and helpfully streamlined. It also helps immensely that the character ",
+                  },
+                  Object {
+                    "reference": "https://io9.gizmodo.com/the-trophy-woman-of-ready-player-one-1798309534",
+                    "type": "Link",
+                    "value": Array [
+                      Object {
+                        "styles": Array [],
+                        "type": "Text",
+                        "value": "Samantha/Artemis is made less of a trophy",
+                      },
+                    ],
+                  },
+                  Object {
+                    "styles": Array [],
+                    "type": "Text",
+                    "value": " and more of a team leader.",
+                  },
+                ],
+              },
+              Object {
+                "containers": Array [],
+                "type": "Paragraph",
+                "value": Array [
+                  Object {
+                    "styles": Array [],
+                    "type": "Text",
+                    "value": "The second viewing also made me realize the movie isn’t just about advocating for reality over fantasy. It’s also a complex exploration of Halliday as a character and, therefore, a deconstruction of celebrity. Though it’s certainly part of the book, the movie makes it much, much more obvious that Halliday created his game as a way of exploring his biggest regrets and faults. For someone to win, they’d have to understand him as a person and come to sympathize with him. The winner would realize that just because Halliday created this wonderful world, it doesn’t mean he lived in a wonderful world. He humanizes himself through a video game and demystifies his legend. By the ",
+                  },
+                  Object {
+                    "styles": Array [],
+                    "type": "Text",
+                    "value": "end",
+                  },
+                  Object {
+                    "styles": Array [],
+                    "type": "Text",
+                    "value": " the characters, and the ",
+                  },
+                  Object {
+                    "styles": Array [],
+                    "type": "Text",
+                    "value": "audience,",
+                  },
+                  Object {
+                    "styles": Array [],
+                    "type": "Text",
+                    "value": " understand him more as a person and less as a symbol.",
+                  },
+                ],
+              },
+              Object {
+                "alignment": "Bleed",
+                "altText": null,
+                "attribution": Array [
+                  Object {
+                    "credit": Array [],
+                    "label": "Image",
+                    "source": Array [
+                      Object {
+                        "styles": Array [],
+                        "type": "Text",
+                        "value": "Warner Bros.",
+                      },
+                    ],
+                  },
+                ],
+                "caption": Array [
+                  Object {
+                    "styles": Array [],
+                    "type": "Text",
+                    "value": "Mark Rylance as Halliday.",
+                  },
+                ],
+                "format": "jpg",
+                "height": 1200,
+                "id": "pdpa8tauclsxzbrybucx",
+                "lightbox": true,
+                "syndicationRights": false,
+                "type": "Image",
+                "width": 2134,
+              },
+              Object {
+                "containers": Array [],
+                "type": "Paragraph",
+                "value": Array [
+                  Object {
+                    "styles": Array [],
+                    "type": "Text",
+                    "value": "Few filmmakers could have balanced all of these things—not to mention the intense digital effects and the necessary laundry list of intellectual property clearances—and still made a movie that’s entertaining and worth watching. Spielberg did. It might not all come together in a way we’d expect from the director, and sure, it still has a few uncontrollably nerdy scenes that are pure pop culture parades, but that’s okay with me. That’s part of ",
+                  },
+                  Object {
+                    "styles": Array [
+                      "Italic",
+                    ],
+                    "type": "Text",
+                    "value": "Ready Player One",
+                  },
+                  Object {
+                    "styles": Array [],
+                    "type": "Text",
+                    "value": "’s DNA.",
+                  },
+                ],
+              },
+              Object {
+                "containers": Array [],
+                "type": "Paragraph",
+                "value": Array [
+                  Object {
+                    "styles": Array [],
+                    "type": "Text",
+                    "value": "Spielberg gave",
+                  },
+                  Object {
+                    "styles": Array [
+                      "Italic",
+                    ],
+                    "type": "Text",
+                    "value": " Ready Player One",
+                  },
+                  Object {
+                    "styles": Array [],
+                    "type": "Text",
+                    "value": " a depth I didn’t realize the book was missing until I saw the film. Again, ",
+                  },
+                  Object {
+                    "styles": Array [
+                      "Italic",
+                    ],
+                    "type": "Text",
+                    "value": "Ready Player One",
+                  },
+                  Object {
+                    "styles": Array [],
+                    "type": "Text",
+                    "value": " has its other issues, but Spielberg absolutely improved upon the book in this regard, and the movie is richer for it. And he did it while keeping true to the spirit of the book and making a movie that stands alone, too. It’s what you’d expect of Spielberg, frankly—it just took me a little while to see it.",
+                  },
+                ],
+              },
+            ],
+            "bylineProperties": Object {
+              "byline": "",
+              "show": true,
+            },
+            "category": null,
+            "categoryData": null,
+            "defaultBlogId": "8",
+            "featuredMedia": null,
+            "headline": "Steven Spielberg Made <i>Ready Player One</i> Work in Spite of
+Itself",
+            "id": "1824180722",
+            "images": Array [
+              Object {
+                "format": "jpg",
+                "frozenFormat": "jpg",
+                "height": 563,
+                "id": "x5fjqitiabq1dvyxogmj",
+                "originalHeight": 563,
+                "originalWidth": 1000,
+                "uid": "x5fjqitiabq1dvyxogmj",
+                "width": 1000,
+              },
+              Object {
+                "format": "png",
+                "frozenFormat": "png",
+                "height": 88,
+                "id": "u6j38utgaahgww4fobjr",
+                "originalHeight": 88,
+                "originalWidth": 800,
+                "uid": "u6j38utgaahgww4fobjr",
+                "width": 800,
+              },
+              Object {
+                "format": "jpg",
+                "frozenFormat": "jpg",
+                "height": 858,
+                "id": "kcvimyfmy5m6bq5xp40m",
+                "originalHeight": 858,
+                "originalWidth": 2048,
+                "uid": "kcvimyfmy5m6bq5xp40m",
+                "width": 2048,
+              },
+              Object {
+                "format": "jpg",
+                "frozenFormat": "jpg",
+                "height": 1200,
+                "id": "dzrb9ag2vrmhdmohbvm8",
+                "originalHeight": 1200,
+                "originalWidth": 2864,
+                "uid": "dzrb9ag2vrmhdmohbvm8",
+                "width": 2864,
+              },
+              Object {
+                "format": "jpg",
+                "frozenFormat": "jpg",
+                "height": 1200,
+                "id": "pdpa8tauclsxzbrybucx",
+                "originalHeight": 1200,
+                "originalWidth": 2134,
+                "uid": "pdpa8tauclsxzbrybucx",
+                "width": 2134,
+              },
+            ],
+            "isFeatured": false,
+            "isVideo": false,
+            "largeOnStream": true,
+            "lastUpdateTimeMillis": 1522704602280,
+            "links": null,
+            "mainMedia": Object {
+              "alignment": "Bleed",
+              "altText": null,
+              "attribution": Array [
+                Object {
+                  "credit": Array [],
+                  "label": "Image",
+                  "source": Array [
+                    Object {
+                      "styles": Array [],
+                      "type": "Text",
+                      "value": "Warner Bros.",
+                    },
+                  ],
+                },
+              ],
+              "caption": Array [
+                Object {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "Steven Spielberg on the set of ",
+                },
+                Object {
+                  "styles": Array [
+                    "Italic",
+                  ],
+                  "type": "Text",
+                  "value": "Ready Player One",
+                },
+                Object {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": " with Simon Pegg and Mark Rylance.",
+                },
+              ],
+              "format": "jpg",
+              "height": 563,
+              "id": "x5fjqitiabq1dvyxogmj",
+              "lightbox": true,
+              "syndicationRights": false,
+              "type": "Image",
+              "width": 1000,
+            },
+            "ownerId": null,
+            "parent": null,
+            "parentAuthorId": null,
+            "parentId": null,
+            "permalinkHost": "https://io9.gizmodo.com",
+            "permalinkPath": "/steven-spielberg-made-ready-player-one-work-in-spite-of-1824180722",
+            "permalinkRedirect": null,
+            "plaintext": "Ready Player One was a very divisive book and now it’s a very divisive movie. io9 is no exception. While my colleagues Beth and Evan didn’t care for it, I’m a fan of Ernest Cline’s love letter to pop culture, although I fully admit it has problems. So I was excited that Steven Spielberg would helm the movie adaptation, though I knew the two would differ. What I didn’t know was how much the film was going to challenge and recontextualize my feelings about the book.",
+            "properties": "{\\"dropCapEnabled\\":false,\\"hideFromRss\\":false,\\"impactHeader\\":{}}",
+            "publishTimeMillis": 1522704600722,
+            "qaMembers": Array [],
+            "qaParticipants": Array [],
+            "relatedModule": Object {
+              "headline": "More Ready Player One",
+            },
+            "relatedPosts": Array [],
+            "salesAvatar": null,
+            "sharedUrl": null,
+            "showAuthorBio": true,
+            "sponsored": false,
+            "staffIncluded": false,
+            "starter": null,
+            "starterId": "1824180722",
+            "status": "PUBLISHED",
+            "storyTypeId": 139,
+            "subcategory": null,
+            "subcategoryData": null,
+            "tags": Array [
+              Object {
+                "canonical": "readyplayerone",
+                "displayName": "Ready Player One",
+                "urlName": "ready-player-one",
+              },
+              Object {
+                "canonical": "stevenspielberg",
+                "displayName": "Steven Spielberg",
+                "urlName": "steven-spielberg",
+              },
+              Object {
+                "canonical": "nostalgia",
+                "displayName": "Nostalgia",
+                "urlName": "nostalgia",
+              },
+              Object {
+                "canonical": "ernestcline",
+                "displayName": "Ernest cline",
+                "urlName": "ernest-cline",
+              },
+              Object {
+                "canonical": "books",
+                "displayName": "Books",
+                "urlName": "books",
+              },
+            ],
+            "timezone": "America/New_York",
+            "videos": Array [],
+          },
+        ]
+      }
+      title="Uncategorized"
+    />
+    <CategoryStreamSection
+      canonical="io9"
+      key="io9"
+      newStaticStreamHeader={false}
+      pageType="sectionedCategoryStream"
+      path="movies/io9"
+      posts={
+        Array [
+          Object {
+            "allowReplies": true,
+            "approved": true,
+            "author": Object {
+              "avatar": Object {
+                "format": "jpg",
+                "frozenFormat": "jpg",
+                "id": "hoxn9jxjxkncmtordfok",
+                "isAnimated": false,
+              },
+              "displayName": "Beth Elderkin",
+              "id": "5876237249235885598",
+              "isSuperuser": false,
+              "screenName": "bethelderkin",
+            },
+            "authorId": "5876237249235885598",
+            "authorIds": Array [
+              "5876237249235885598",
+            ],
+            "authors": Array [
+              Object {
+                "avatar": Object {
+                  "format": "jpg",
+                  "frozenFormat": "jpg",
+                  "id": "hoxn9jxjxkncmtordfok",
+                  "isAnimated": false,
+                },
+                "displayName": "Beth Elderkin",
+                "id": "5876237249235885598",
+                "isSuperuser": false,
+                "screenName": "bethelderkin",
+              },
+            ],
+            "blogIds": Array [],
+            "body": Array [
+              Object {
+                "containers": Array [],
+                "type": "Paragraph",
+                "value": Array [
+                  Object {
+                    "styles": Array [
+                      "Italic",
+                    ],
+                    "type": "Text",
+                    "value": "Avengers: Infinity War",
+                  },
+                  Object {
+                    "styles": Array [],
+                    "type": "Text",
+                    "value": " is about our beloved superheroes protecting Infinity Stones from an all-powerful villain. But today, they war against some tiny box-shaped magnets that look eerily like Baby Mother Boxes. Just a coincidence, I’m sure! Check out this exclusive video from Backyard VFX artist Joey Shanks, all about what happens when the Avengers come across a truly unstoppable foe. It’s Practical Magic, everyone. ",
+                  },
+                  Object {
+                    "type": "LineBreak",
+                  },
+                ],
+              },
+            ],
+            "bylineProperties": Object {
+              "byline": "",
+              "show": true,
+            },
+            "category": "io9",
+            "categoryData": Object {
+              "canonicalName": "io9",
+              "id": "4984",
+              "image": null,
+              "parentId": null,
+              "valueDisplay": "io9",
+            },
+            "defaultBlogId": "8",
+            "featuredMedia": Object {
+              "alignment": "Bleed",
+              "caption": Array [],
+              "id": "3497028",
+              "isLooping": false,
+              "thumbnail": Object {
+                "format": "jpg",
+                "id": "rau4in4yidwj5mgzotgc",
+              },
+              "type": "KinjaVideo",
+            },
+            "headline": "Watch: <i>Avengers: Infinity War</i> Should Include Putty Avengers Chowing Down on Some Magnets",
+            "id": "1824082236",
+            "images": Array [],
+            "isFeatured": false,
+            "isVideo": true,
+            "largeOnStream": false,
+            "lastUpdateTimeMillis": 1522178101764,
+            "links": null,
+            "mainMedia": null,
+            "ownerId": null,
+            "parent": null,
+            "parentAuthorId": null,
+            "parentId": null,
+            "permalinkHost": "https://io9.gizmodo.com",
+            "permalinkPath": "/watch-avengers-infinity-war-should-include-putty-aven-1824082236",
+            "permalinkRedirect": null,
+            "plaintext": "Avengers: Infinity War is about our beloved superheroes protecting Infinity Stones from an all-powerful villain. But today, they war against some tiny box-shaped magnets that look eerily like Baby Mother Boxes. Just a coincidence, I’m sure! Check out this exclusive video from Backyard VFX artist Joey Shanks, all about what happens when the Avengers come across a truly unstoppable foe. It’s Practical Magic, everyone. ",
+            "properties": "{\\"dropCapEnabled\\":false,\\"featuredHeaderLayout\\":\\"Default\\",\\"hideFromRss\\":false,\\"impactHeader\\":{\\"titleAlignment\\":\\"BottomLeft\\",\\"overlay\\":\\"Black\\"}}",
+            "publishTimeMillis": 1522178100236,
+            "qaMembers": Array [],
+            "qaParticipants": Array [],
+            "relatedModule": Object {
+              "headline": "More Videos",
+            },
+            "relatedPosts": Array [],
+            "salesAvatar": null,
+            "sharedUrl": null,
+            "showAuthorBio": true,
+            "sponsored": false,
+            "staffIncluded": false,
+            "starter": null,
+            "starterId": "1824082236",
+            "status": "PUBLISHED",
+            "storyTypeId": 139,
+            "subcategory": "2018",
+            "subcategoryData": Object {
+              "canonicalName": "2018",
+              "id": "4985",
+              "image": null,
+              "parentId": "4984",
+              "valueDisplay": "2018",
+            },
+            "tags": Array [
+              Object {
+                "canonical": "video",
+                "displayName": "video",
+                "urlName": "video",
+              },
+              Object {
+                "canonical": "practicalmagic",
+                "displayName": "practical magic",
+                "urlName": "practical-magic",
+              },
+              Object {
+                "canonical": "vfx",
+                "displayName": "vfx",
+                "urlName": "vfx",
+              },
+              Object {
+                "canonical": "backyardvfx",
+                "displayName": "backyard vfx",
+                "urlName": "backyard-vfx",
+              },
+              Object {
+                "canonical": "avengers",
+                "displayName": "avengers",
+                "urlName": "avengers",
+              },
+              Object {
+                "canonical": "avengersinfinitywar",
+                "displayName": "avengers: infinity war",
+                "urlName": "avengers-infinity-war",
+              },
+              Object {
+                "canonical": "marvel",
+                "displayName": "marvel",
+                "urlName": "marvel",
+              },
+              Object {
+                "canonical": "mcu",
+                "displayName": "mcu",
+                "urlName": "mcu",
+              },
+              Object {
+                "canonical": "magnets",
+                "displayName": "magnets",
+                "urlName": "magnets",
+              },
+            ],
+            "timezone": "America/New_York",
+            "videos": Array [],
+          },
+        ]
+      }
+      title="io9"
+    />
+  </span>
+  <LoadMore
+    blog={
+      Object {
+        "avatar": Object {
+          "format": "png",
+          "frozenFormat": "png",
+          "id": "fdj3buryz5nuzyf2k620",
+          "isAnimated": false,
+        },
+        "canonicalHost": "gizmodo.com",
+        "createTimeMillis": 1354577350531,
+        "description": "We come from the future.",
+        "displayName": "Gizmodo",
+        "hosts": Array [
+          "truecrimeio9.kinja.com",
+          "001.gizmodo.com",
+          "truecrime.gizmodo.com",
+          "upgrade.kinja.com",
+          "animals.io9.com",
+          "toybox.gizmodo.com",
+          "pl.gizmodo.com",
+          "us.gizmodo.com",
+          "education.kinja.com",
+          "truecrime.io9.com",
+          "gizmodo.in",
+          "animation.gizmodo.com",
+          "gizmodo.kinja.com",
+          "ca.gizmodo.com",
+          "gizmodo.co.in",
+          "toybox.io9.com",
+          "fetch.gizmodo.com",
+          "nl.gizmodo.com",
+          "www.gizmodo.com",
+          "m.gizmodo.com",
+          "education.io9.com",
+          "toybox.kinja.com",
+          "upgrade.gizmodo.com",
+          "doctorwho.gizmodo.com",
+          "animation.io9.com",
+          "doctorwhoio9.kinja.com",
+          "animals.kinja.com",
+          "old.gizmodo.com",
+          "io9education.kinja.com",
+          "upgrade.io9.com",
+          "au.gizmodo.com",
+          "animals.gizmodo.com",
+          "assets.gizmodo.com",
+          "doctorwho.io9.com",
+          "education.gizmodo.com",
+          "br.gizmodo.com",
+          "blog.gizmodo.com",
+          "ru.gizmodo.com",
+          "animation.kinja.com",
+          "animalsx.kinja.com",
+        ],
+        "id": "4",
+        "logo": Object {
+          "format": "png",
+          "frozenFormat": "png",
+          "id": "wvhsuflzmeoo0zr9ex55",
+          "isAnimated": false,
+        },
+        "name": "gizmodo",
+        "ownerId": "5876237249236979260",
+        "properties": Object {
+          "GANJA_IGNORE_GEO": Array [
+            "us.gizmodo.com",
+          ],
+          "aboutPostId": 5732042,
+          "adsTxtEnabled": true,
+          "blogGroup": "gizmodo",
+          "campaignMonitorNewsletterName": "Gizmodo_Daily",
+          "facebookPixelId": "852713628239858",
+          "facebookScreenName": "gizmodo",
+          "fbAppId": "44615671688",
+          "googleAnalyticsID": "UA-142218-3",
+          "googleSiteVerification": "Sc6OGUq5heWyOLFpCb_2K6mX7vFrWKGANts4QDUmgOY",
+          "instagramScreenName": "gizmodo",
+          "isGmgBlog": true,
+          "logoLink": "https://x.kinja-static.com/assets/images/logos/newsletter/gizmodo-500px.png",
+          "mainColor": "#18AFED",
+          "metaTitle": "Gizmodo, the Gadget Guide",
+          "navigationGroup": "fmg",
+          "newsletter": true,
+          "noindex": false,
+          "pianoProdAid": "ZpCykEM7YO",
+          "pianoSandboxAid": "VFrbPA6HDf",
+          "recircGroup": "fmgNonSatire",
+          "robotsAllowed": true,
+          "singleOptIn": true,
+          "skimLinkId": "33330X911642",
+          "template": "gizmodo",
+          "twitterScreenName": "@gizmodo",
+          "youtubeUrl": "https://www.youtube.com/channel/UCxFmw3IUMDUC1Hh7qDjtjZQ",
+        },
+        "status": "ENABLED",
+        "timezone": "America/New_York",
+        "timezoneOffset": -14400000,
+      }
+    }
+    pageType="sectionedCategoryStream"
+    pagination={
+      Object {
+        "curr": Object {
+          "maxReturned": 20,
+        },
+        "next": null,
+        "prev": null,
+      }
+    }
+  />
+</Fragment>
+`;

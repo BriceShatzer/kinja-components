@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Slideshow Insert Ad helper should insert an ad at a given frequency 1`] = `
+Array [
+  0,
+  1,
+  Object {
+    "seen": false,
+    "type": "ad",
+  },
+  2,
+  3,
+  Object {
+    "seen": false,
+    "type": "ad",
+  },
+  4,
+  5,
+]
+`;

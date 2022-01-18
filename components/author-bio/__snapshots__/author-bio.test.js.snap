@@ -1,0 +1,84 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<AuthorBio /> should render AuthorBio by default 1`] = `
+<EnsureDefaultTheme>
+  <author-bio-style__AuthorWrapper>
+    <Author
+      authName={null}
+      avatar={
+        Object {
+          "format": "jpg",
+          "frozenFormat": "jpg",
+          "id": "17jcxldy9dbzapng",
+          "isAnimated": false,
+        }
+      }
+      confirmedEmail={null}
+      createdMillis={0}
+      displayName="John Doe"
+      host="kinja.com"
+      id="1484116754"
+      isEditStaff={false}
+      isGmgMember={false}
+      isSales={false}
+      isSuperuser={false}
+      key="17jcxldy9dbzapngjoeKinja"
+      membership={Array []}
+      remotes={Object {}}
+      screenName="joeKinja"
+      status="enabled"
+      token={null}
+      userProperties={
+        Object {
+          "bio": "Hacking Kinja",
+          "email": "test@kinja.com",
+          "emailIsConfirmed": true,
+          "otrFingerprint": "CE505548D52848B1",
+          "pgpFingerprint": "CE505548D52848B1",
+          "pgpKeyUrl": "https://keybase.io/zmetser",
+          "showBio": true,
+          "twitterHandle": "zmetser",
+        }
+      }
+    />
+    <Author
+      authName={null}
+      avatar={
+        Object {
+          "format": "jpg",
+          "frozenFormat": "jpg",
+          "id": "17jcxldy9dbzapng",
+          "isAnimated": false,
+        }
+      }
+      confirmedEmail={null}
+      createdMillis={0}
+      displayName="Sam Doe"
+      host="kinja.com"
+      id="1484116754"
+      isEditStaff={false}
+      isGmgMember={false}
+      isSales={false}
+      isSuperuser={false}
+      key="17jcxldy9dbzapngsamKinja"
+      membership={Array []}
+      remotes={Object {}}
+      screenName="samKinja"
+      status="enabled"
+      token={null}
+      userProperties={
+        Object {
+          "bio": "Hacking Kinja",
+          "email": "test@kinja.com",
+          "emailIsConfirmed": true,
+          "otrFingerprint": "CE505548D52848B1",
+          "pgpFingerprint": "CE505548D52848B1",
+          "pgpKeyUrl": "https://keybase.io/zmetser",
+          "showBio": true,
+          "twitterHandle": "zmetser",
+        }
+      }
+    />
+  </author-bio-style__AuthorWrapper>
+</EnsureDefaultTheme>
+`;

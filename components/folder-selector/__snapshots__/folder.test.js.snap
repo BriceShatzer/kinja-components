@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Folder/> should be styled differently in first position 1`] = `
+<folder__Wrapper
+  index={1}
+  isFirst={true}
+>
+  <folder__Inner />
+</folder__Wrapper>
+`;
+
+exports[`<Folder/> should render 1`] = `
+<folder__Wrapper
+  index={1}
+  isFirst={false}
+>
+  <folder__Inner />
+</folder__Wrapper>
+`;

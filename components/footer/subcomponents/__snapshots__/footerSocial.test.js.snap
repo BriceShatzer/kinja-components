@@ -1,0 +1,1435 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<FooterSocial /> renders links to social media that have values 1`] = `
+.c7 {
+  fill: currentColor;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c5 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  width: 100%;
+  white-space: nowrap;
+  pointer-events: none;
+}
+
+.c5 svg + span {
+  margin-left: 4px;
+}
+
+.c5 .c6 + span {
+  margin-left: 4px;
+}
+
+.c3 {
+  width: 34px;
+  height: 34px;
+  padding: 0;
+  border: transparent 1px solid;
+  border-radius: 34px;
+  border-color: transparent;
+  color: #FFF;
+  font-size: 14px;
+  text-align: center;
+  line-height: 34px;
+  background-color: #1877F2;
+  -webkit-transition: background-color 0.2s ease-out,border-color 0.2s ease-out,color 0.2s ease-out;
+  transition: background-color 0.2s ease-out,border-color 0.2s ease-out,color 0.2s ease-out;
+}
+
+.c3 .c4 > svg {
+  margin-bottom: 2px;
+}
+
+.c3 .c6 {
+  margin-bottom: 2px;
+}
+
+.c3:hover,
+.c3:active,
+.c3:focus {
+  color: #fff;
+  border-color: transparent;
+  background-color: #0b5fcc;
+}
+
+.c8 {
+  width: 34px;
+  height: 34px;
+  padding: 0;
+  border: transparent 1px solid;
+  border-radius: 34px;
+  border-color: transparent;
+  color: #FFF;
+  font-size: 14px;
+  text-align: center;
+  line-height: 34px;
+  background-color: #1DA1F2;
+  -webkit-transition: background-color 0.2s ease-out,border-color 0.2s ease-out,color 0.2s ease-out;
+  transition: background-color 0.2s ease-out,border-color 0.2s ease-out,color 0.2s ease-out;
+}
+
+.c8 .c4 > svg {
+  margin-bottom: 2px;
+}
+
+.c8 .c6 {
+  margin-bottom: 2px;
+}
+
+.c8:hover,
+.c8:active,
+.c8:focus {
+  color: #fff;
+  border-color: transparent;
+  background-color: #0c85d0;
+}
+
+.c9 {
+  width: 34px;
+  height: 34px;
+  padding: 0;
+  border: transparent 1px solid;
+  border-radius: 34px;
+  border-color: transparent;
+  color: #FFF;
+  font-size: 14px;
+  text-align: center;
+  line-height: 34px;
+  background-color: #FF0000;
+  -webkit-transition: background-color 0.2s ease-out,border-color 0.2s ease-out,color 0.2s ease-out;
+  transition: background-color 0.2s ease-out,border-color 0.2s ease-out,color 0.2s ease-out;
+}
+
+.c9 .c4 > svg {
+  margin-bottom: 2px;
+}
+
+.c9 .c6 {
+  margin-bottom: 2px;
+}
+
+.c9:hover,
+.c9:active,
+.c9:focus {
+  color: #fff;
+  border-color: transparent;
+  background-color: #c00;
+}
+
+.c10 {
+  width: 34px;
+  height: 34px;
+  padding: 0;
+  border: transparent 1px solid;
+  border-radius: 34px;
+  border-color: transparent;
+  color: #FFF;
+  font-size: 14px;
+  text-align: center;
+  line-height: 34px;
+  background-color: #7D7D7D;
+  -webkit-transition: background-color 0.2s ease-out,border-color 0.2s ease-out,color 0.2s ease-out;
+  transition: background-color 0.2s ease-out,border-color 0.2s ease-out,color 0.2s ease-out;
+}
+
+.c10 .c4 > svg {
+  margin-bottom: 2px;
+}
+
+.c10 .c6 {
+  margin-bottom: 2px;
+}
+
+.c10:hover,
+.c10:active,
+.c10:focus {
+  color: #fff;
+  border-color: transparent;
+  background-color: #636363;
+}
+
+.c2 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0 {
+  padding-top: 24px;
+  padding-bottom: 40px;
+}
+
+.c1 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  margin: 0 auto;
+}
+
+.c1 li {
+  padding: 0 3.5px;
+}
+
+.c1 li svg[name="rss"] {
+  width: 14px;
+}
+
+<FooterSocial
+  canonicalHost="hi"
+  facebookScreenName="ho"
+  ga={[MockFunction]}
+  instagramScreenName={null}
+  twitterScreenName="lets"
+  youtubeUrl="go"
+>
+  <EnsureDefaultTheme>
+    <ThemeProvider
+      theme={[Function]}
+    >
+      <footerSocial__FooterSocialWrap>
+        <StyledComponent
+          forwardedComponent={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": Array [],
+              "componentStyle": ComponentStyle {
+                "componentId": "footerSocial__FooterSocialWrap-mimimi-0",
+                "isStatic": true,
+                "lastClassName": "c0",
+                "rules": Array [
+                  "padding-top:24px;padding-bottom:40px;",
+                ],
+              },
+              "displayName": "footerSocial__FooterSocialWrap",
+              "foldedComponentIds": Array [],
+              "render": [Function],
+              "styledComponentId": "footerSocial__FooterSocialWrap-mimimi-0",
+              "target": "div",
+              "toString": [Function],
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+        >
+          <div
+            className="c0"
+          >
+            <footerSocial__FooterSocialLinks>
+              <StyledComponent
+                forwardedComponent={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": Array [],
+                    "componentStyle": ComponentStyle {
+                      "componentId": "footerSocial__FooterSocialLinks-mimimi-1",
+                      "isStatic": true,
+                      "lastClassName": "c1",
+                      "rules": Array [
+                        "align-items:center;display:flex;justify-content:center;margin:0 auto;li{padding:0 3.5px;svg[name=\\"rss\\"]{width:14px;}}",
+                      ],
+                    },
+                    "displayName": "footerSocial__FooterSocialLinks",
+                    "foldedComponentIds": Array [],
+                    "render": [Function],
+                    "styledComponentId": "footerSocial__FooterSocialLinks-mimimi-1",
+                    "target": "ul",
+                    "toString": [Function],
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+              >
+                <ul
+                  className="c1"
+                >
+                  <li
+                    key="facebook"
+                  >
+                    <Link
+                      events={
+                        Array [
+                          Array [
+                            "Footer",
+                            "click",
+                            "facebook",
+                            Object {
+                              "metric21": 1,
+                            },
+                          ],
+                        ]
+                      }
+                      href="https://facebook.com/ho"
+                      rel="noopener"
+                      target="_blank"
+                    >
+                      <link__Anchor
+                        className="js_link"
+                        dangerouslySetInnerHTML={null}
+                        data-ga="[[\\"Footer\\",\\"click\\",\\"facebook\\",{\\"metric21\\":1}]]"
+                        href="https://facebook.com/ho"
+                        rel="noopener"
+                        target="_blank"
+                      >
+                        <StyledComponent
+                          className="js_link"
+                          dangerouslySetInnerHTML={null}
+                          data-ga="[[\\"Footer\\",\\"click\\",\\"facebook\\",{\\"metric21\\":1}]]"
+                          forwardedComponent={
+                            Object {
+                              "$$typeof": Symbol(react.forward_ref),
+                              "attrs": Array [],
+                              "componentStyle": ComponentStyle {
+                                "componentId": "link__Anchor-sc-1out364-0",
+                                "isStatic": true,
+                                "lastClassName": "c2",
+                                "rules": Array [
+                                  "text-decoration:none;",
+                                ],
+                              },
+                              "displayName": "link__Anchor",
+                              "foldedComponentIds": Array [],
+                              "render": [Function],
+                              "styledComponentId": "link__Anchor-sc-1out364-0",
+                              "target": "a",
+                              "toString": [Function],
+                              "warnTooManyClasses": [Function],
+                              "withComponent": [Function],
+                            }
+                          }
+                          forwardedRef={null}
+                          href="https://facebook.com/ho"
+                          rel="noopener"
+                          target="_blank"
+                        >
+                          <a
+                            className="js_link c2"
+                            dangerouslySetInnerHTML={null}
+                            data-ga="[[\\"Footer\\",\\"click\\",\\"facebook\\",{\\"metric21\\":1}]]"
+                            href="https://facebook.com/ho"
+                            rel="noopener"
+                            target="_blank"
+                          >
+                            <Button
+                              icon={<FacebookIcon />}
+                              small={true}
+                              sort="circle"
+                              variant="facebook"
+                            >
+                              <EnsureDefaultTheme>
+                                <ThemeProvider
+                                  theme={[Function]}
+                                >
+                                  <Button__ButtonWrapper
+                                    small={true}
+                                    sort="circle"
+                                    variant="facebook"
+                                    weight="primary"
+                                  >
+                                    <StyledComponent
+                                      forwardedComponent={
+                                        Object {
+                                          "$$typeof": Symbol(react.forward_ref),
+                                          "attrs": Array [],
+                                          "componentStyle": ComponentStyle {
+                                            "componentId": "Button__ButtonWrapper-j48i5d-2",
+                                            "isStatic": false,
+                                            "lastClassName": "c10",
+                                            "rules": Array [
+                                              "width:",
+                                              [Function],
+                                              ";height:",
+                                              [Function],
+                                              ";padding:",
+                                              [Function],
+                                              ";border:transparent 1px solid;border-radius:",
+                                              [Function],
+                                              ";border-color:",
+                                              [Function],
+                                              ";color:",
+                                              [Function],
+                                              ";font-size:",
+                                              [Function],
+                                              ";text-align:",
+                                              [Function],
+                                              ";line-height:",
+                                              [Function],
+                                              ";background-color:",
+                                              [Function],
+                                              ";transition:",
+                                              [Function],
+                                              ";",
+                                              [Function],
+                                              ";",
+                                              [Function],
+                                              ";",
+                                              ".c4",
+                                              " > svg{margin-bottom:2px;",
+                                              [Function],
+                                              " ",
+                                              [Function],
+                                              " ",
+                                              [Function],
+                                              " ",
+                                              [Function],
+                                              " ",
+                                              [Function],
+                                              " ",
+                                              [Function],
+                                              "}",
+                                              ".c6",
+                                              "{margin-bottom:2px;}&:hover,&:active,&:focus{color:",
+                                              [Function],
+                                              ";border-color:",
+                                              [Function],
+                                              ";background-color:",
+                                              [Function],
+                                              ";",
+                                              [Function],
+                                              " ",
+                                              [Function],
+                                              " ",
+                                              ".c4",
+                                              " > svg{",
+                                              [Function],
+                                              " ",
+                                              [Function],
+                                              " ",
+                                              [Function],
+                                              " ",
+                                              [Function],
+                                              "}}",
+                                              "@media only screen and ",
+                                              "(max-width: 49.94em)",
+                                              "{",
+                                              "
+		",
+                                              [Function],
+                                              "
+	",
+                                              "}",
+                                            ],
+                                          },
+                                          "displayName": "Button__ButtonWrapper",
+                                          "foldedComponentIds": Array [],
+                                          "render": [Function],
+                                          "styledComponentId": "Button__ButtonWrapper-j48i5d-2",
+                                          "target": "button",
+                                          "toString": [Function],
+                                          "warnTooManyClasses": [Function],
+                                          "withComponent": [Function],
+                                        }
+                                      }
+                                      forwardedRef={null}
+                                      small={true}
+                                      sort="circle"
+                                      variant="facebook"
+                                      weight="primary"
+                                    >
+                                      <button
+                                        className="c3"
+                                      >
+                                        <Button__ButtonInner>
+                                          <StyledComponent
+                                            forwardedComponent={
+                                              Object {
+                                                "$$typeof": Symbol(react.forward_ref),
+                                                "attrs": Array [],
+                                                "componentStyle": ComponentStyle {
+                                                  "componentId": "c4",
+                                                  "isStatic": false,
+                                                  "lastClassName": "c5",
+                                                  "rules": Array [
+                                                    "align-items:center;display:flex;justify-content:center;width:100%;white-space:nowrap;pointer-events:none;svg{",
+                                                    [Function],
+                                                    " + span{margin-left:4px;}}",
+                                                    ".c6",
+                                                    "{+ span{margin-left:4px;}}",
+                                                  ],
+                                                },
+                                                "displayName": "Button__ButtonInner",
+                                                "foldedComponentIds": Array [],
+                                                "render": [Function],
+                                                "styledComponentId": "c4",
+                                                "target": "div",
+                                                "toString": [Function],
+                                                "warnTooManyClasses": [Function],
+                                                "withComponent": [Function],
+                                              }
+                                            }
+                                            forwardedRef={null}
+                                          >
+                                            <div
+                                              className="c4 c5"
+                                            >
+                                              <FacebookIcon>
+                                                <Icon19>
+                                                  <icon19__IconWrapper>
+                                                    <StyledComponent
+                                                      forwardedComponent={
+                                                        Object {
+                                                          "$$typeof": Symbol(react.forward_ref),
+                                                          "attrs": Array [],
+                                                          "componentStyle": ComponentStyle {
+                                                            "componentId": "c6",
+                                                            "isStatic": true,
+                                                            "lastClassName": "c7",
+                                                            "rules": Array [
+                                                              "fill:currentColor;display:flex;",
+                                                            ],
+                                                          },
+                                                          "displayName": "icon19__IconWrapper",
+                                                          "foldedComponentIds": Array [],
+                                                          "render": [Function],
+                                                          "styledComponentId": "c6",
+                                                          "target": "span",
+                                                          "toString": [Function],
+                                                          "warnTooManyClasses": [Function],
+                                                          "withComponent": [Function],
+                                                        }
+                                                      }
+                                                      forwardedRef={null}
+                                                    >
+                                                      <span
+                                                        className="c6 c7"
+                                                      >
+                                                        <Facebook
+                                                          aria-label="Facebook icon"
+                                                          height="18"
+                                                          viewBox="0 0 18 18"
+                                                          width="18"
+                                                          xmlns="http://www.w3.org/2000/svg"
+                                                        >
+                                                          <svg
+                                                            aria-label="Facebook icon"
+                                                            height="18"
+                                                            viewBox="0 0 18 18"
+                                                            width="18"
+                                                            xmlns="http://www.w3.org/2000/svg"
+                                                          >
+                                                            <path
+                                                              d="M17 9.05A8.02 8.02 0 0 0 9 1C4.58 1 1 4.6 1 9.05A8.04 8.04 0 0 0 7.75 17v-5.62H5.72V9.05h2.03V7.28c0-2.02 1.2-3.14 3.02-3.14.88 0 1.8.16 1.8.16v1.98h-1.02c-.99 0-1.3.62-1.3 1.26v1.5h2.22l-.36 2.34h-1.86V17A8.04 8.04 0 0 0 17 9.05"
+                                                              fillRule="evenodd"
+                                                            />
+                                                          </svg>
+                                                        </Facebook>
+                                                      </span>
+                                                    </StyledComponent>
+                                                  </icon19__IconWrapper>
+                                                </Icon19>
+                                              </FacebookIcon>
+                                            </div>
+                                          </StyledComponent>
+                                        </Button__ButtonInner>
+                                      </button>
+                                    </StyledComponent>
+                                  </Button__ButtonWrapper>
+                                </ThemeProvider>
+                              </EnsureDefaultTheme>
+                            </Button>
+                          </a>
+                        </StyledComponent>
+                      </link__Anchor>
+                    </Link>
+                  </li>
+                  <li
+                    key="twitter"
+                  >
+                    <Link
+                      events={
+                        Array [
+                          Array [
+                            "Footer",
+                            "click",
+                            "twitter",
+                            Object {
+                              "metric21": 1,
+                            },
+                          ],
+                        ]
+                      }
+                      href="https://twitter.com/lets"
+                      rel="noopener"
+                      target="_blank"
+                    >
+                      <link__Anchor
+                        className="js_link"
+                        dangerouslySetInnerHTML={null}
+                        data-ga="[[\\"Footer\\",\\"click\\",\\"twitter\\",{\\"metric21\\":1}]]"
+                        href="https://twitter.com/lets"
+                        rel="noopener"
+                        target="_blank"
+                      >
+                        <StyledComponent
+                          className="js_link"
+                          dangerouslySetInnerHTML={null}
+                          data-ga="[[\\"Footer\\",\\"click\\",\\"twitter\\",{\\"metric21\\":1}]]"
+                          forwardedComponent={
+                            Object {
+                              "$$typeof": Symbol(react.forward_ref),
+                              "attrs": Array [],
+                              "componentStyle": ComponentStyle {
+                                "componentId": "link__Anchor-sc-1out364-0",
+                                "isStatic": true,
+                                "lastClassName": "c2",
+                                "rules": Array [
+                                  "text-decoration:none;",
+                                ],
+                              },
+                              "displayName": "link__Anchor",
+                              "foldedComponentIds": Array [],
+                              "render": [Function],
+                              "styledComponentId": "link__Anchor-sc-1out364-0",
+                              "target": "a",
+                              "toString": [Function],
+                              "warnTooManyClasses": [Function],
+                              "withComponent": [Function],
+                            }
+                          }
+                          forwardedRef={null}
+                          href="https://twitter.com/lets"
+                          rel="noopener"
+                          target="_blank"
+                        >
+                          <a
+                            className="js_link c2"
+                            dangerouslySetInnerHTML={null}
+                            data-ga="[[\\"Footer\\",\\"click\\",\\"twitter\\",{\\"metric21\\":1}]]"
+                            href="https://twitter.com/lets"
+                            rel="noopener"
+                            target="_blank"
+                          >
+                            <Button
+                              icon={<TwitterIcon />}
+                              small={true}
+                              sort="circle"
+                              variant="twitter"
+                            >
+                              <EnsureDefaultTheme>
+                                <ThemeProvider
+                                  theme={[Function]}
+                                >
+                                  <Button__ButtonWrapper
+                                    small={true}
+                                    sort="circle"
+                                    variant="twitter"
+                                    weight="primary"
+                                  >
+                                    <StyledComponent
+                                      forwardedComponent={
+                                        Object {
+                                          "$$typeof": Symbol(react.forward_ref),
+                                          "attrs": Array [],
+                                          "componentStyle": ComponentStyle {
+                                            "componentId": "Button__ButtonWrapper-j48i5d-2",
+                                            "isStatic": false,
+                                            "lastClassName": "c10",
+                                            "rules": Array [
+                                              "width:",
+                                              [Function],
+                                              ";height:",
+                                              [Function],
+                                              ";padding:",
+                                              [Function],
+                                              ";border:transparent 1px solid;border-radius:",
+                                              [Function],
+                                              ";border-color:",
+                                              [Function],
+                                              ";color:",
+                                              [Function],
+                                              ";font-size:",
+                                              [Function],
+                                              ";text-align:",
+                                              [Function],
+                                              ";line-height:",
+                                              [Function],
+                                              ";background-color:",
+                                              [Function],
+                                              ";transition:",
+                                              [Function],
+                                              ";",
+                                              [Function],
+                                              ";",
+                                              [Function],
+                                              ";",
+                                              ".c4",
+                                              " > svg{margin-bottom:2px;",
+                                              [Function],
+                                              " ",
+                                              [Function],
+                                              " ",
+                                              [Function],
+                                              " ",
+                                              [Function],
+                                              " ",
+                                              [Function],
+                                              " ",
+                                              [Function],
+                                              "}",
+                                              ".c6",
+                                              "{margin-bottom:2px;}&:hover,&:active,&:focus{color:",
+                                              [Function],
+                                              ";border-color:",
+                                              [Function],
+                                              ";background-color:",
+                                              [Function],
+                                              ";",
+                                              [Function],
+                                              " ",
+                                              [Function],
+                                              " ",
+                                              ".c4",
+                                              " > svg{",
+                                              [Function],
+                                              " ",
+                                              [Function],
+                                              " ",
+                                              [Function],
+                                              " ",
+                                              [Function],
+                                              "}}",
+                                              "@media only screen and ",
+                                              "(max-width: 49.94em)",
+                                              "{",
+                                              "
+		",
+                                              [Function],
+                                              "
+	",
+                                              "}",
+                                            ],
+                                          },
+                                          "displayName": "Button__ButtonWrapper",
+                                          "foldedComponentIds": Array [],
+                                          "render": [Function],
+                                          "styledComponentId": "Button__ButtonWrapper-j48i5d-2",
+                                          "target": "button",
+                                          "toString": [Function],
+                                          "warnTooManyClasses": [Function],
+                                          "withComponent": [Function],
+                                        }
+                                      }
+                                      forwardedRef={null}
+                                      small={true}
+                                      sort="circle"
+                                      variant="twitter"
+                                      weight="primary"
+                                    >
+                                      <button
+                                        className="c8"
+                                      >
+                                        <Button__ButtonInner>
+                                          <StyledComponent
+                                            forwardedComponent={
+                                              Object {
+                                                "$$typeof": Symbol(react.forward_ref),
+                                                "attrs": Array [],
+                                                "componentStyle": ComponentStyle {
+                                                  "componentId": "c4",
+                                                  "isStatic": false,
+                                                  "lastClassName": "c5",
+                                                  "rules": Array [
+                                                    "align-items:center;display:flex;justify-content:center;width:100%;white-space:nowrap;pointer-events:none;svg{",
+                                                    [Function],
+                                                    " + span{margin-left:4px;}}",
+                                                    ".c6",
+                                                    "{+ span{margin-left:4px;}}",
+                                                  ],
+                                                },
+                                                "displayName": "Button__ButtonInner",
+                                                "foldedComponentIds": Array [],
+                                                "render": [Function],
+                                                "styledComponentId": "c4",
+                                                "target": "div",
+                                                "toString": [Function],
+                                                "warnTooManyClasses": [Function],
+                                                "withComponent": [Function],
+                                              }
+                                            }
+                                            forwardedRef={null}
+                                          >
+                                            <div
+                                              className="c4 c5"
+                                            >
+                                              <TwitterIcon>
+                                                <Icon19>
+                                                  <icon19__IconWrapper>
+                                                    <StyledComponent
+                                                      forwardedComponent={
+                                                        Object {
+                                                          "$$typeof": Symbol(react.forward_ref),
+                                                          "attrs": Array [],
+                                                          "componentStyle": ComponentStyle {
+                                                            "componentId": "c6",
+                                                            "isStatic": true,
+                                                            "lastClassName": "c7",
+                                                            "rules": Array [
+                                                              "fill:currentColor;display:flex;",
+                                                            ],
+                                                          },
+                                                          "displayName": "icon19__IconWrapper",
+                                                          "foldedComponentIds": Array [],
+                                                          "render": [Function],
+                                                          "styledComponentId": "c6",
+                                                          "target": "span",
+                                                          "toString": [Function],
+                                                          "warnTooManyClasses": [Function],
+                                                          "withComponent": [Function],
+                                                        }
+                                                      }
+                                                      forwardedRef={null}
+                                                    >
+                                                      <span
+                                                        className="c6 c7"
+                                                      >
+                                                        <Twitter
+                                                          aria-label="Twitter icon"
+                                                          height="18"
+                                                          viewBox="0 0 18 18"
+                                                          width="18"
+                                                          xmlns="http://www.w3.org/2000/svg"
+                                                        >
+                                                          <svg
+                                                            aria-label="Twitter icon"
+                                                            height="18"
+                                                            viewBox="0 0 18 18"
+                                                            width="18"
+                                                            xmlns="http://www.w3.org/2000/svg"
+                                                          >
+                                                            <path
+                                                              d="M12.46 1.13c-2.04 0-3.7 1.78-3.7 3.97 0 .31.04.62.1.9a10.26 10.26 0 0 1-7.6-4.15A4.2 4.2 0 0 0 2.4 7.16a3.5 3.5 0 0 1-1.68-.5v.05a3.92 3.92 0 0 0 2.97 3.9 3.45 3.45 0 0 1-1.67.07 3.74 3.74 0 0 0 3.45 2.76A7.08 7.08 0 0 1 0 15.1a9.92 9.92 0 0 0 5.66 1.79c6.8 0 10.5-6.06 10.5-11.32v-.51A7.85 7.85 0 0 0 18 2.99c-.66.32-1.37.53-2.12.63a3.95 3.95 0 0 0 1.62-2.2c-.71.45-1.5.78-2.34.96a3.57 3.57 0 0 0-2.7-1.25"
+                                                              fillRule="evenodd"
+                                                            />
+                                                          </svg>
+                                                        </Twitter>
+                                                      </span>
+                                                    </StyledComponent>
+                                                  </icon19__IconWrapper>
+                                                </Icon19>
+                                              </TwitterIcon>
+                                            </div>
+                                          </StyledComponent>
+                                        </Button__ButtonInner>
+                                      </button>
+                                    </StyledComponent>
+                                  </Button__ButtonWrapper>
+                                </ThemeProvider>
+                              </EnsureDefaultTheme>
+                            </Button>
+                          </a>
+                        </StyledComponent>
+                      </link__Anchor>
+                    </Link>
+                  </li>
+                  <li
+                    key="youtube"
+                  >
+                    <Link
+                      events={
+                        Array [
+                          Array [
+                            "Footer",
+                            "click",
+                            "youtube",
+                            Object {
+                              "metric21": 1,
+                            },
+                          ],
+                        ]
+                      }
+                      href="go"
+                      rel="noopener"
+                      target="_blank"
+                    >
+                      <link__Anchor
+                        className="js_link"
+                        dangerouslySetInnerHTML={null}
+                        data-ga="[[\\"Footer\\",\\"click\\",\\"youtube\\",{\\"metric21\\":1}]]"
+                        href="go"
+                        rel="noopener"
+                        target="_blank"
+                      >
+                        <StyledComponent
+                          className="js_link"
+                          dangerouslySetInnerHTML={null}
+                          data-ga="[[\\"Footer\\",\\"click\\",\\"youtube\\",{\\"metric21\\":1}]]"
+                          forwardedComponent={
+                            Object {
+                              "$$typeof": Symbol(react.forward_ref),
+                              "attrs": Array [],
+                              "componentStyle": ComponentStyle {
+                                "componentId": "link__Anchor-sc-1out364-0",
+                                "isStatic": true,
+                                "lastClassName": "c2",
+                                "rules": Array [
+                                  "text-decoration:none;",
+                                ],
+                              },
+                              "displayName": "link__Anchor",
+                              "foldedComponentIds": Array [],
+                              "render": [Function],
+                              "styledComponentId": "link__Anchor-sc-1out364-0",
+                              "target": "a",
+                              "toString": [Function],
+                              "warnTooManyClasses": [Function],
+                              "withComponent": [Function],
+                            }
+                          }
+                          forwardedRef={null}
+                          href="go"
+                          rel="noopener"
+                          target="_blank"
+                        >
+                          <a
+                            className="js_link c2"
+                            dangerouslySetInnerHTML={null}
+                            data-ga="[[\\"Footer\\",\\"click\\",\\"youtube\\",{\\"metric21\\":1}]]"
+                            href="go"
+                            rel="noopener"
+                            target="_blank"
+                          >
+                            <Button
+                              icon={<YoutubeIcon />}
+                              small={true}
+                              sort="circle"
+                              variant="youtube"
+                            >
+                              <EnsureDefaultTheme>
+                                <ThemeProvider
+                                  theme={[Function]}
+                                >
+                                  <Button__ButtonWrapper
+                                    small={true}
+                                    sort="circle"
+                                    variant="youtube"
+                                    weight="primary"
+                                  >
+                                    <StyledComponent
+                                      forwardedComponent={
+                                        Object {
+                                          "$$typeof": Symbol(react.forward_ref),
+                                          "attrs": Array [],
+                                          "componentStyle": ComponentStyle {
+                                            "componentId": "Button__ButtonWrapper-j48i5d-2",
+                                            "isStatic": false,
+                                            "lastClassName": "c10",
+                                            "rules": Array [
+                                              "width:",
+                                              [Function],
+                                              ";height:",
+                                              [Function],
+                                              ";padding:",
+                                              [Function],
+                                              ";border:transparent 1px solid;border-radius:",
+                                              [Function],
+                                              ";border-color:",
+                                              [Function],
+                                              ";color:",
+                                              [Function],
+                                              ";font-size:",
+                                              [Function],
+                                              ";text-align:",
+                                              [Function],
+                                              ";line-height:",
+                                              [Function],
+                                              ";background-color:",
+                                              [Function],
+                                              ";transition:",
+                                              [Function],
+                                              ";",
+                                              [Function],
+                                              ";",
+                                              [Function],
+                                              ";",
+                                              ".c4",
+                                              " > svg{margin-bottom:2px;",
+                                              [Function],
+                                              " ",
+                                              [Function],
+                                              " ",
+                                              [Function],
+                                              " ",
+                                              [Function],
+                                              " ",
+                                              [Function],
+                                              " ",
+                                              [Function],
+                                              "}",
+                                              ".c6",
+                                              "{margin-bottom:2px;}&:hover,&:active,&:focus{color:",
+                                              [Function],
+                                              ";border-color:",
+                                              [Function],
+                                              ";background-color:",
+                                              [Function],
+                                              ";",
+                                              [Function],
+                                              " ",
+                                              [Function],
+                                              " ",
+                                              ".c4",
+                                              " > svg{",
+                                              [Function],
+                                              " ",
+                                              [Function],
+                                              " ",
+                                              [Function],
+                                              " ",
+                                              [Function],
+                                              "}}",
+                                              "@media only screen and ",
+                                              "(max-width: 49.94em)",
+                                              "{",
+                                              "
+		",
+                                              [Function],
+                                              "
+	",
+                                              "}",
+                                            ],
+                                          },
+                                          "displayName": "Button__ButtonWrapper",
+                                          "foldedComponentIds": Array [],
+                                          "render": [Function],
+                                          "styledComponentId": "Button__ButtonWrapper-j48i5d-2",
+                                          "target": "button",
+                                          "toString": [Function],
+                                          "warnTooManyClasses": [Function],
+                                          "withComponent": [Function],
+                                        }
+                                      }
+                                      forwardedRef={null}
+                                      small={true}
+                                      sort="circle"
+                                      variant="youtube"
+                                      weight="primary"
+                                    >
+                                      <button
+                                        className="c9"
+                                      >
+                                        <Button__ButtonInner>
+                                          <StyledComponent
+                                            forwardedComponent={
+                                              Object {
+                                                "$$typeof": Symbol(react.forward_ref),
+                                                "attrs": Array [],
+                                                "componentStyle": ComponentStyle {
+                                                  "componentId": "c4",
+                                                  "isStatic": false,
+                                                  "lastClassName": "c5",
+                                                  "rules": Array [
+                                                    "align-items:center;display:flex;justify-content:center;width:100%;white-space:nowrap;pointer-events:none;svg{",
+                                                    [Function],
+                                                    " + span{margin-left:4px;}}",
+                                                    ".c6",
+                                                    "{+ span{margin-left:4px;}}",
+                                                  ],
+                                                },
+                                                "displayName": "Button__ButtonInner",
+                                                "foldedComponentIds": Array [],
+                                                "render": [Function],
+                                                "styledComponentId": "c4",
+                                                "target": "div",
+                                                "toString": [Function],
+                                                "warnTooManyClasses": [Function],
+                                                "withComponent": [Function],
+                                              }
+                                            }
+                                            forwardedRef={null}
+                                          >
+                                            <div
+                                              className="c4 c5"
+                                            >
+                                              <YoutubeIcon>
+                                                <Icon19>
+                                                  <icon19__IconWrapper>
+                                                    <StyledComponent
+                                                      forwardedComponent={
+                                                        Object {
+                                                          "$$typeof": Symbol(react.forward_ref),
+                                                          "attrs": Array [],
+                                                          "componentStyle": ComponentStyle {
+                                                            "componentId": "c6",
+                                                            "isStatic": true,
+                                                            "lastClassName": "c7",
+                                                            "rules": Array [
+                                                              "fill:currentColor;display:flex;",
+                                                            ],
+                                                          },
+                                                          "displayName": "icon19__IconWrapper",
+                                                          "foldedComponentIds": Array [],
+                                                          "render": [Function],
+                                                          "styledComponentId": "c6",
+                                                          "target": "span",
+                                                          "toString": [Function],
+                                                          "warnTooManyClasses": [Function],
+                                                          "withComponent": [Function],
+                                                        }
+                                                      }
+                                                      forwardedRef={null}
+                                                    >
+                                                      <span
+                                                        className="c6 c7"
+                                                      >
+                                                        <Youtube
+                                                          aria-label="Youtube icon"
+                                                          height="18"
+                                                          viewBox="0 0 18 18"
+                                                          width="18"
+                                                          xmlns="http://www.w3.org/2000/svg"
+                                                        >
+                                                          <svg
+                                                            aria-label="Youtube icon"
+                                                            height="18"
+                                                            viewBox="0 0 18 18"
+                                                            width="18"
+                                                            xmlns="http://www.w3.org/2000/svg"
+                                                          >
+                                                            <path
+                                                              d="M9.38 3c1.3 0 5.47.06 6.65.37.78.2 1.39.8 1.6 1.56.33 1.23.37 3.66.37 4.16v.19c0 .5-.04 2.93-.38 4.16A2.2 2.2 0 0 1 16.03 15c-1.33.35-6.45.37-6.99.37h-.09c-.53 0-5.65-.02-6.98-.37-.78-.2-1.39-.8-1.6-1.56A21.13 21.13 0 0 1 0 9.35v-.33c0-.62.05-2.9.38-4.09a2.2 2.2 0 0 1 1.59-1.56C3.15 3.06 7.33 3 8.62 3zM7.2 6.53v5.3l4.68-2.64L7.2 6.53z"
+                                                              fillRule="evenodd"
+                                                            />
+                                                          </svg>
+                                                        </Youtube>
+                                                      </span>
+                                                    </StyledComponent>
+                                                  </icon19__IconWrapper>
+                                                </Icon19>
+                                              </YoutubeIcon>
+                                            </div>
+                                          </StyledComponent>
+                                        </Button__ButtonInner>
+                                      </button>
+                                    </StyledComponent>
+                                  </Button__ButtonWrapper>
+                                </ThemeProvider>
+                              </EnsureDefaultTheme>
+                            </Button>
+                          </a>
+                        </StyledComponent>
+                      </link__Anchor>
+                    </Link>
+                  </li>
+                  <li
+                    key="rss"
+                  >
+                    <Link
+                      events={
+                        Array [
+                          Array [
+                            "Footer",
+                            "click",
+                            "rss",
+                            Object {
+                              "metric21": 1,
+                            },
+                          ],
+                        ]
+                      }
+                      href="https://hi/rss"
+                      rel="noopener"
+                      target="_blank"
+                    >
+                      <link__Anchor
+                        className="js_link"
+                        dangerouslySetInnerHTML={null}
+                        data-ga="[[\\"Footer\\",\\"click\\",\\"rss\\",{\\"metric21\\":1}]]"
+                        href="https://hi/rss"
+                        rel="noopener"
+                        target="_blank"
+                      >
+                        <StyledComponent
+                          className="js_link"
+                          dangerouslySetInnerHTML={null}
+                          data-ga="[[\\"Footer\\",\\"click\\",\\"rss\\",{\\"metric21\\":1}]]"
+                          forwardedComponent={
+                            Object {
+                              "$$typeof": Symbol(react.forward_ref),
+                              "attrs": Array [],
+                              "componentStyle": ComponentStyle {
+                                "componentId": "link__Anchor-sc-1out364-0",
+                                "isStatic": true,
+                                "lastClassName": "c2",
+                                "rules": Array [
+                                  "text-decoration:none;",
+                                ],
+                              },
+                              "displayName": "link__Anchor",
+                              "foldedComponentIds": Array [],
+                              "render": [Function],
+                              "styledComponentId": "link__Anchor-sc-1out364-0",
+                              "target": "a",
+                              "toString": [Function],
+                              "warnTooManyClasses": [Function],
+                              "withComponent": [Function],
+                            }
+                          }
+                          forwardedRef={null}
+                          href="https://hi/rss"
+                          rel="noopener"
+                          target="_blank"
+                        >
+                          <a
+                            className="js_link c2"
+                            dangerouslySetInnerHTML={null}
+                            data-ga="[[\\"Footer\\",\\"click\\",\\"rss\\",{\\"metric21\\":1}]]"
+                            href="https://hi/rss"
+                            rel="noopener"
+                            target="_blank"
+                          >
+                            <Button
+                              icon={<RSSIcon />}
+                              small={true}
+                              sort="circle"
+                              variant="rss"
+                            >
+                              <EnsureDefaultTheme>
+                                <ThemeProvider
+                                  theme={[Function]}
+                                >
+                                  <Button__ButtonWrapper
+                                    small={true}
+                                    sort="circle"
+                                    variant="rss"
+                                    weight="primary"
+                                  >
+                                    <StyledComponent
+                                      forwardedComponent={
+                                        Object {
+                                          "$$typeof": Symbol(react.forward_ref),
+                                          "attrs": Array [],
+                                          "componentStyle": ComponentStyle {
+                                            "componentId": "Button__ButtonWrapper-j48i5d-2",
+                                            "isStatic": false,
+                                            "lastClassName": "c10",
+                                            "rules": Array [
+                                              "width:",
+                                              [Function],
+                                              ";height:",
+                                              [Function],
+                                              ";padding:",
+                                              [Function],
+                                              ";border:transparent 1px solid;border-radius:",
+                                              [Function],
+                                              ";border-color:",
+                                              [Function],
+                                              ";color:",
+                                              [Function],
+                                              ";font-size:",
+                                              [Function],
+                                              ";text-align:",
+                                              [Function],
+                                              ";line-height:",
+                                              [Function],
+                                              ";background-color:",
+                                              [Function],
+                                              ";transition:",
+                                              [Function],
+                                              ";",
+                                              [Function],
+                                              ";",
+                                              [Function],
+                                              ";",
+                                              ".c4",
+                                              " > svg{margin-bottom:2px;",
+                                              [Function],
+                                              " ",
+                                              [Function],
+                                              " ",
+                                              [Function],
+                                              " ",
+                                              [Function],
+                                              " ",
+                                              [Function],
+                                              " ",
+                                              [Function],
+                                              "}",
+                                              ".c6",
+                                              "{margin-bottom:2px;}&:hover,&:active,&:focus{color:",
+                                              [Function],
+                                              ";border-color:",
+                                              [Function],
+                                              ";background-color:",
+                                              [Function],
+                                              ";",
+                                              [Function],
+                                              " ",
+                                              [Function],
+                                              " ",
+                                              ".c4",
+                                              " > svg{",
+                                              [Function],
+                                              " ",
+                                              [Function],
+                                              " ",
+                                              [Function],
+                                              " ",
+                                              [Function],
+                                              "}}",
+                                              "@media only screen and ",
+                                              "(max-width: 49.94em)",
+                                              "{",
+                                              "
+		",
+                                              [Function],
+                                              "
+	",
+                                              "}",
+                                            ],
+                                          },
+                                          "displayName": "Button__ButtonWrapper",
+                                          "foldedComponentIds": Array [],
+                                          "render": [Function],
+                                          "styledComponentId": "Button__ButtonWrapper-j48i5d-2",
+                                          "target": "button",
+                                          "toString": [Function],
+                                          "warnTooManyClasses": [Function],
+                                          "withComponent": [Function],
+                                        }
+                                      }
+                                      forwardedRef={null}
+                                      small={true}
+                                      sort="circle"
+                                      variant="rss"
+                                      weight="primary"
+                                    >
+                                      <button
+                                        className="c10"
+                                      >
+                                        <Button__ButtonInner>
+                                          <StyledComponent
+                                            forwardedComponent={
+                                              Object {
+                                                "$$typeof": Symbol(react.forward_ref),
+                                                "attrs": Array [],
+                                                "componentStyle": ComponentStyle {
+                                                  "componentId": "c4",
+                                                  "isStatic": false,
+                                                  "lastClassName": "c5",
+                                                  "rules": Array [
+                                                    "align-items:center;display:flex;justify-content:center;width:100%;white-space:nowrap;pointer-events:none;svg{",
+                                                    [Function],
+                                                    " + span{margin-left:4px;}}",
+                                                    ".c6",
+                                                    "{+ span{margin-left:4px;}}",
+                                                  ],
+                                                },
+                                                "displayName": "Button__ButtonInner",
+                                                "foldedComponentIds": Array [],
+                                                "render": [Function],
+                                                "styledComponentId": "c4",
+                                                "target": "div",
+                                                "toString": [Function],
+                                                "warnTooManyClasses": [Function],
+                                                "withComponent": [Function],
+                                              }
+                                            }
+                                            forwardedRef={null}
+                                          >
+                                            <div
+                                              className="c4 c5"
+                                            >
+                                              <RSSIcon>
+                                                <Icon19>
+                                                  <icon19__IconWrapper>
+                                                    <StyledComponent
+                                                      forwardedComponent={
+                                                        Object {
+                                                          "$$typeof": Symbol(react.forward_ref),
+                                                          "attrs": Array [],
+                                                          "componentStyle": ComponentStyle {
+                                                            "componentId": "c6",
+                                                            "isStatic": true,
+                                                            "lastClassName": "c7",
+                                                            "rules": Array [
+                                                              "fill:currentColor;display:flex;",
+                                                            ],
+                                                          },
+                                                          "displayName": "icon19__IconWrapper",
+                                                          "foldedComponentIds": Array [],
+                                                          "render": [Function],
+                                                          "styledComponentId": "c6",
+                                                          "target": "span",
+                                                          "toString": [Function],
+                                                          "warnTooManyClasses": [Function],
+                                                          "withComponent": [Function],
+                                                        }
+                                                      }
+                                                      forwardedRef={null}
+                                                    >
+                                                      <span
+                                                        className="c6 c7"
+                                                      >
+                                                        <RSS
+                                                          aria-label="RSS icon"
+                                                          height="18"
+                                                          viewBox="0 0 18 18"
+                                                          width="18"
+                                                          xmlns="http://www.w3.org/2000/svg"
+                                                        >
+                                                          <svg
+                                                            aria-label="RSS icon"
+                                                            height="18"
+                                                            viewBox="0 0 18 18"
+                                                            width="18"
+                                                            xmlns="http://www.w3.org/2000/svg"
+                                                          >
+                                                            <path
+                                                              d="M2.97 14.07a.97.97 0 1 1 0 1.93.97.97 0 0 1 0-1.93zm.5-6.25c4 .28 7 3.74 6.72 7.73a.48.48 0 0 1-.96-.07 6.27 6.27 0 0 0-6.7-6.7.48.48 0 0 1-.06-.96 7.3 7.3 0 0 1 1 0zm-.05-5.81c7.2.25 12.82 6.28 12.57 13.48a.48.48 0 1 1-.96-.04A12.07 12.07 0 0 0 2.5 2.97a.48.48 0 0 1-.04-.96h.96z"
+                                                              fillRule="evenodd"
+                                                            />
+                                                          </svg>
+                                                        </RSS>
+                                                      </span>
+                                                    </StyledComponent>
+                                                  </icon19__IconWrapper>
+                                                </Icon19>
+                                              </RSSIcon>
+                                            </div>
+                                          </StyledComponent>
+                                        </Button__ButtonInner>
+                                      </button>
+                                    </StyledComponent>
+                                  </Button__ButtonWrapper>
+                                </ThemeProvider>
+                              </EnsureDefaultTheme>
+                            </Button>
+                          </a>
+                        </StyledComponent>
+                      </link__Anchor>
+                    </Link>
+                  </li>
+                </ul>
+              </StyledComponent>
+            </footerSocial__FooterSocialLinks>
+          </div>
+        </StyledComponent>
+      </footerSocial__FooterSocialWrap>
+    </ThemeProvider>
+  </EnsureDefaultTheme>
+</FooterSocial>
+`;

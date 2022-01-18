@@ -1,0 +1,157 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Login modal Burner Login step should switch back to oauth screen 1`] = `
+<LoginLayout
+  columnLayout={false}
+  formComponent={
+    <Analytics(OAuthLogin)
+      onBurnerClick={[Function]}
+      onCloseClick={[Function]}
+      onOAuthClick={[Function]}
+      translate={[Function]}
+    />
+  }
+  infoComponent={
+    <InfoAside
+      translate={[Function]}
+    />
+  }
+/>
+`;
+
+exports[`Login modal Burner Login step should switch to burner create screen 1`] = `
+<LoginLayout
+  columnLayout={false}
+  formComponent={
+    <Analytics(CreateBurner)
+      onBackClick={[Function]}
+      onCloseClick={[Function]}
+      translate={[Function]}
+    />
+  }
+  infoComponent={
+    <BurnerInfoAside
+      canGoBack={true}
+      create={true}
+      onBackClick={[Function]}
+      translate={[Function]}
+    />
+  }
+/>
+`;
+
+exports[`Login modal Create Burner step should switch back to burner screen 1`] = `
+<LoginLayout
+  columnLayout={false}
+  formComponent={
+    <Analytics(BurnerLogin)
+      onBackClick={[Function]}
+      onCloseClick={[Function]}
+      onCreateClick={[Function]}
+      translate={[Function]}
+    />
+  }
+  infoComponent={
+    <BurnerInfoAside
+      canGoBack={true}
+      create={false}
+      onBackClick={[Function]}
+      translate={[Function]}
+    />
+  }
+/>
+`;
+
+exports[`Login modal Create Burner step should switch to success step when the password becomes available 1`] = `
+<LoginLayout
+  columnLayout={true}
+  formComponent={
+    <BurnerCreated
+      onCloseClick={[Function]}
+      password="pass"
+      translate={[Function]}
+    />
+  }
+  infoComponent={
+    <WelcomeInfoAside
+      provider="burner"
+      translate={[Function]}
+    />
+  }
+/>
+`;
+
+exports[`Login modal OAuth login step should render the setScreenName step incompleteRegistration changes in the props, with the proper provider 1`] = `
+<LoginLayout
+  columnLayout={true}
+  formComponent={
+    <SetScreenName
+      translate={[Function]}
+    />
+  }
+  infoComponent={
+    <WelcomeInfoAside
+      provider="facebook"
+      translate={[Function]}
+    />
+  }
+/>
+`;
+
+exports[`Login modal OAuth login step should switch to burner login screen 1`] = `
+<LoginLayout
+  columnLayout={false}
+  formComponent={
+    <Analytics(BurnerLogin)
+      onBackClick={[Function]}
+      onCloseClick={[Function]}
+      onCreateClick={[Function]}
+      translate={[Function]}
+    />
+  }
+  infoComponent={
+    <BurnerInfoAside
+      canGoBack={true}
+      create={false}
+      onBackClick={[Function]}
+      translate={[Function]}
+    />
+  }
+/>
+`;
+
+exports[`Login modal should render oauth login page 1`] = `
+<LoginLayout
+  columnLayout={false}
+  formComponent={
+    <Analytics(OAuthLogin)
+      onBurnerClick={[Function]}
+      onCloseClick={[Function]}
+      onOAuthClick={[Function]}
+      translate={[Function]}
+    />
+  }
+  infoComponent={
+    <InfoAside
+      translate={[Function]}
+    />
+  }
+/>
+`;
+
+exports[`Login modal should render the setScreenName step if the user has incomplete registration 1`] = `
+<LoginLayout
+  columnLayout={true}
+  formComponent={
+    <SetScreenName
+      translate={[Function]}
+    />
+  }
+  infoComponent={
+    <WelcomeInfoAside
+      provider="google"
+      translate={[Function]}
+    />
+  }
+/>
+`;

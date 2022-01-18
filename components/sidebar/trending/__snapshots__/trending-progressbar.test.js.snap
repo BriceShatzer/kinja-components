@@ -1,0 +1,336 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TrendingProgressBar should render 1`] = `
+.c0 {
+  margin-bottom: 2px;
+  margin-left: 1px;
+  margin-right: 1px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c1 {
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  height: 2px;
+  position: relative;
+  background-color: #CCC;
+  overflow: hidden;
+}
+
+.c2 {
+  content: '';
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  border-radius: 1.5px;
+  z-index: 1;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  background-color: #7D7D7D;
+  -webkit-transform-origin: 0 0 0;
+  -ms-transform-origin: 0 0 0;
+  transform-origin: 0 0 0;
+  -webkit-transform: translateX(-100%);
+  -ms-transform: translateX(-100%);
+  transform: translateX(-100%);
+}
+
+.c2.ticking {
+  -webkit-animation: gTwDaX 8000ms linear;
+  animation: gTwDaX 8000ms linear;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+}
+
+<TrendingProgressBar
+  activeItem={0}
+  count={3}
+  onNextTick={[Function]}
+  resetLoop={false}
+>
+  <EnsureDefaultTheme>
+    <ThemeProvider
+      theme={[Function]}
+    >
+      <trending-progressbar__Progress
+        className="progress"
+        onAnimationEnd={[Function]}
+      >
+        <StyledComponent
+          className="progress"
+          forwardedComponent={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": Array [],
+              "componentStyle": ComponentStyle {
+                "componentId": "trending-progressbar__Progress-sc-17xh7h5-0",
+                "isStatic": true,
+                "lastClassName": "c0",
+                "rules": Array [
+                  "margin-bottom:2px;margin-left:1px;margin-right:1px;display:flex;",
+                ],
+              },
+              "displayName": "trending-progressbar__Progress",
+              "foldedComponentIds": Array [],
+              "render": [Function],
+              "styledComponentId": "trending-progressbar__Progress-sc-17xh7h5-0",
+              "target": "div",
+              "toString": [Function],
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+          onAnimationEnd={[Function]}
+        >
+          <div
+            className="progress c0"
+            onAnimationEnd={[Function]}
+          >
+            <trending-progressbar__Segment
+              count={3}
+              key="0"
+            >
+              <StyledComponent
+                count={3}
+                forwardedComponent={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": Array [],
+                    "componentStyle": ComponentStyle {
+                      "componentId": "trending-progressbar__Segment-sc-17xh7h5-1",
+                      "isStatic": false,
+                      "lastClassName": "c1",
+                      "rules": Array [
+                        "flex:1;height:2px;position:relative;background-color:",
+                        [Function],
+                        ";overflow:hidden;",
+                      ],
+                    },
+                    "displayName": "trending-progressbar__Segment",
+                    "foldedComponentIds": Array [],
+                    "render": [Function],
+                    "styledComponentId": "trending-progressbar__Segment-sc-17xh7h5-1",
+                    "target": "div",
+                    "toString": [Function],
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+              >
+                <div
+                  className="c1"
+                >
+                  <trending-progressbar__SegmentFill
+                    className="segment ticking"
+                    count={3}
+                  >
+                    <StyledComponent
+                      className="segment ticking"
+                      count={3}
+                      forwardedComponent={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "attrs": Array [],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "trending-progressbar__SegmentFill-sc-17xh7h5-2",
+                            "isStatic": false,
+                            "lastClassName": "c2",
+                            "rules": Array [
+                              "content:'';display:block;position:absolute;width:100%;height:100%;border-radius:1.5px;z-index:1;left:0;top:0;bottom:0;background-color:",
+                              [Function],
+                              ";transform-origin:0 0 0;transform:translateX(-100%);&.ticking{",
+                              [Function],
+                              ";}",
+                            ],
+                          },
+                          "displayName": "trending-progressbar__SegmentFill",
+                          "foldedComponentIds": Array [],
+                          "render": [Function],
+                          "styledComponentId": "trending-progressbar__SegmentFill-sc-17xh7h5-2",
+                          "target": "div",
+                          "toString": [Function],
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                    >
+                      <div
+                        className="segment ticking c2"
+                      />
+                    </StyledComponent>
+                  </trending-progressbar__SegmentFill>
+                </div>
+              </StyledComponent>
+            </trending-progressbar__Segment>
+            <trending-progressbar__Segment
+              count={3}
+              key="1"
+            >
+              <StyledComponent
+                count={3}
+                forwardedComponent={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": Array [],
+                    "componentStyle": ComponentStyle {
+                      "componentId": "trending-progressbar__Segment-sc-17xh7h5-1",
+                      "isStatic": false,
+                      "lastClassName": "c1",
+                      "rules": Array [
+                        "flex:1;height:2px;position:relative;background-color:",
+                        [Function],
+                        ";overflow:hidden;",
+                      ],
+                    },
+                    "displayName": "trending-progressbar__Segment",
+                    "foldedComponentIds": Array [],
+                    "render": [Function],
+                    "styledComponentId": "trending-progressbar__Segment-sc-17xh7h5-1",
+                    "target": "div",
+                    "toString": [Function],
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+              >
+                <div
+                  className="c1"
+                >
+                  <trending-progressbar__SegmentFill
+                    className="segment"
+                    count={3}
+                  >
+                    <StyledComponent
+                      className="segment"
+                      count={3}
+                      forwardedComponent={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "attrs": Array [],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "trending-progressbar__SegmentFill-sc-17xh7h5-2",
+                            "isStatic": false,
+                            "lastClassName": "c2",
+                            "rules": Array [
+                              "content:'';display:block;position:absolute;width:100%;height:100%;border-radius:1.5px;z-index:1;left:0;top:0;bottom:0;background-color:",
+                              [Function],
+                              ";transform-origin:0 0 0;transform:translateX(-100%);&.ticking{",
+                              [Function],
+                              ";}",
+                            ],
+                          },
+                          "displayName": "trending-progressbar__SegmentFill",
+                          "foldedComponentIds": Array [],
+                          "render": [Function],
+                          "styledComponentId": "trending-progressbar__SegmentFill-sc-17xh7h5-2",
+                          "target": "div",
+                          "toString": [Function],
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                    >
+                      <div
+                        className="segment c2"
+                      />
+                    </StyledComponent>
+                  </trending-progressbar__SegmentFill>
+                </div>
+              </StyledComponent>
+            </trending-progressbar__Segment>
+            <trending-progressbar__Segment
+              count={3}
+              key="2"
+            >
+              <StyledComponent
+                count={3}
+                forwardedComponent={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": Array [],
+                    "componentStyle": ComponentStyle {
+                      "componentId": "trending-progressbar__Segment-sc-17xh7h5-1",
+                      "isStatic": false,
+                      "lastClassName": "c1",
+                      "rules": Array [
+                        "flex:1;height:2px;position:relative;background-color:",
+                        [Function],
+                        ";overflow:hidden;",
+                      ],
+                    },
+                    "displayName": "trending-progressbar__Segment",
+                    "foldedComponentIds": Array [],
+                    "render": [Function],
+                    "styledComponentId": "trending-progressbar__Segment-sc-17xh7h5-1",
+                    "target": "div",
+                    "toString": [Function],
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+              >
+                <div
+                  className="c1"
+                >
+                  <trending-progressbar__SegmentFill
+                    className="segment"
+                    count={3}
+                  >
+                    <StyledComponent
+                      className="segment"
+                      count={3}
+                      forwardedComponent={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "attrs": Array [],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "trending-progressbar__SegmentFill-sc-17xh7h5-2",
+                            "isStatic": false,
+                            "lastClassName": "c2",
+                            "rules": Array [
+                              "content:'';display:block;position:absolute;width:100%;height:100%;border-radius:1.5px;z-index:1;left:0;top:0;bottom:0;background-color:",
+                              [Function],
+                              ";transform-origin:0 0 0;transform:translateX(-100%);&.ticking{",
+                              [Function],
+                              ";}",
+                            ],
+                          },
+                          "displayName": "trending-progressbar__SegmentFill",
+                          "foldedComponentIds": Array [],
+                          "render": [Function],
+                          "styledComponentId": "trending-progressbar__SegmentFill-sc-17xh7h5-2",
+                          "target": "div",
+                          "toString": [Function],
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                    >
+                      <div
+                        className="segment c2"
+                      />
+                    </StyledComponent>
+                  </trending-progressbar__SegmentFill>
+                </div>
+              </StyledComponent>
+            </trending-progressbar__Segment>
+          </div>
+        </StyledComponent>
+      </trending-progressbar__Progress>
+    </ThemeProvider>
+  </EnsureDefaultTheme>
+</TrendingProgressBar>
+`;

@@ -1,0 +1,490 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<MetaTime /> should have the data attribute used for kala tracking on the link when not scheduled 1`] = `
+.c1 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c2 .c0 {
+  color: #7D7D7D;
+}
+
+.c2 .c0:hover {
+  color: #7D7D7D;
+}
+
+.c3 .c0 {
+  color: #7D7D7D;
+}
+
+.c3 .c0:hover {
+  color: #7D7D7D;
+}
+
+.c3 .c0 {
+  font-weight: bold;
+  color: #FFF;
+}
+
+<Link
+  className="js_meta-time"
+  events={
+    Array [
+      Array [
+        "Front page click",
+        "stream post click - undefined",
+        undefined,
+        Object {
+          "metric19": 1,
+        },
+      ],
+    ]
+  }
+  kalaEvent={
+    Array [
+      "STREAM_CLICK",
+      "POST",
+      424242,
+    ]
+  }
+>
+  <link__Anchor
+    className="js_meta-time js_link"
+    dangerouslySetInnerHTML={null}
+    data-ga="[[\\"Front page click\\",\\"stream post click - undefined\\",null,{\\"metric19\\":1}]]"
+    data-kala="[\\"STREAM_CLICK\\",\\"POST\\",424242]"
+  >
+    <StyledComponent
+      className="js_meta-time js_link"
+      dangerouslySetInnerHTML={null}
+      data-ga="[[\\"Front page click\\",\\"stream post click - undefined\\",null,{\\"metric19\\":1}]]"
+      data-kala="[\\"STREAM_CLICK\\",\\"POST\\",424242]"
+      forwardedComponent={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": Array [],
+          "componentStyle": ComponentStyle {
+            "componentId": "c0",
+            "isStatic": true,
+            "lastClassName": "c1",
+            "rules": Array [
+              "text-decoration:none;",
+            ],
+          },
+          "displayName": "link__Anchor",
+          "foldedComponentIds": Array [],
+          "render": [Function],
+          "styledComponentId": "c0",
+          "target": "a",
+          "toString": [Function],
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        }
+      }
+      forwardedRef={null}
+    >
+      <a
+        className="js_meta-time js_link c0 c1"
+        dangerouslySetInnerHTML={null}
+        data-ga="[[\\"Front page click\\",\\"stream post click - undefined\\",null,{\\"metric19\\":1}]]"
+        data-kala="[\\"STREAM_CLICK\\",\\"POST\\",424242]"
+      >
+        3/04/06 10:35PM
+      </a>
+    </StyledComponent>
+  </link__Anchor>
+</Link>
+`;
+
+exports[`<MetaTime /> should have the data attribute used for kala tracking on the link when scheduled 1`] = `
+.c1 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c2 .c0 {
+  color: #7D7D7D;
+}
+
+.c2 .c0:hover {
+  color: #7D7D7D;
+}
+
+.c3 .c0 {
+  color: #7D7D7D;
+}
+
+.c3 .c0:hover {
+  color: #7D7D7D;
+}
+
+.c3 .c0 {
+  font-weight: bold;
+  color: #FFF;
+}
+
+<Link
+  className="js_meta-time"
+  events={
+    Array [
+      Array [
+        "Front page click",
+        "stream post click - undefined",
+        undefined,
+        Object {
+          "metric19": 1,
+        },
+      ],
+    ]
+  }
+  kalaEvent={
+    Array [
+      "STREAM_CLICK",
+      "POST",
+      424242,
+    ]
+  }
+>
+  <link__Anchor
+    className="js_meta-time js_link"
+    dangerouslySetInnerHTML={null}
+    data-ga="[[\\"Front page click\\",\\"stream post click - undefined\\",null,{\\"metric19\\":1}]]"
+    data-kala="[\\"STREAM_CLICK\\",\\"POST\\",424242]"
+  >
+    <StyledComponent
+      className="js_meta-time js_link"
+      dangerouslySetInnerHTML={null}
+      data-ga="[[\\"Front page click\\",\\"stream post click - undefined\\",null,{\\"metric19\\":1}]]"
+      data-kala="[\\"STREAM_CLICK\\",\\"POST\\",424242]"
+      forwardedComponent={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": Array [],
+          "componentStyle": ComponentStyle {
+            "componentId": "c0",
+            "isStatic": true,
+            "lastClassName": "c1",
+            "rules": Array [
+              "text-decoration:none;",
+            ],
+          },
+          "displayName": "link__Anchor",
+          "foldedComponentIds": Array [],
+          "render": [Function],
+          "styledComponentId": "c0",
+          "target": "a",
+          "toString": [Function],
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        }
+      }
+      forwardedRef={null}
+    >
+      <a
+        className="js_meta-time js_link c0 c1"
+        dangerouslySetInnerHTML={null}
+        data-ga="[[\\"Front page click\\",\\"stream post click - undefined\\",null,{\\"metric19\\":1}]]"
+        data-kala="[\\"STREAM_CLICK\\",\\"POST\\",424242]"
+      >
+        Scheduled: 
+        3/04/06 10:35PM
+      </a>
+    </StyledComponent>
+  </link__Anchor>
+</Link>
+`;
+
+exports[`<MetaTime /> should render properly 1`] = `
+.c2 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0 {
+  display: inline-block;
+  font-size: 14px;
+  line-height: 19px;
+}
+
+.c0 .c1 {
+  color: #7D7D7D;
+}
+
+.c0 .c1:hover {
+  color: #7D7D7D;
+}
+
+<MetaTime
+  language="en-US"
+  millis={1141508126849}
+  timezone="Europe/Budapest"
+>
+  <EnsureDefaultTheme>
+    <ThemeProvider
+      theme={[Function]}
+    >
+      <meta-time__TimeContainer
+        dateTime="2006-03-04T22:35:26+01:00"
+      >
+        <StyledComponent
+          dateTime="2006-03-04T22:35:26+01:00"
+          forwardedComponent={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": Array [],
+              "componentStyle": ComponentStyle {
+                "componentId": "meta-time__TimeContainer-uhd9ir-0",
+                "isStatic": false,
+                "lastClassName": "c0",
+                "rules": Array [
+                  "display:inline-block;font-size:14px;line-height:19px;",
+                  ".c1",
+                  "{color:",
+                  [Function],
+                  ";:hover{color:",
+                  [Function],
+                  ";}}",
+                ],
+              },
+              "displayName": "meta-time__TimeContainer",
+              "foldedComponentIds": Array [],
+              "render": [Function],
+              "styledComponentId": "meta-time__TimeContainer-uhd9ir-0",
+              "target": "time",
+              "toString": [Function],
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+        >
+          <time
+            className="c0"
+            dateTime="2006-03-04T22:35:26+01:00"
+          >
+            <Link
+              className="js_meta-time"
+              events={
+                Array [
+                  Array [
+                    undefined,
+                    "stream post click - undefined",
+                    undefined,
+                    Object {
+                      "metric19": 1,
+                    },
+                  ],
+                ]
+              }
+            >
+              <link__Anchor
+                className="js_meta-time js_link"
+                dangerouslySetInnerHTML={null}
+                data-ga="[[null,\\"stream post click - undefined\\",null,{\\"metric19\\":1}]]"
+              >
+                <StyledComponent
+                  className="js_meta-time js_link"
+                  dangerouslySetInnerHTML={null}
+                  data-ga="[[null,\\"stream post click - undefined\\",null,{\\"metric19\\":1}]]"
+                  forwardedComponent={
+                    Object {
+                      "$$typeof": Symbol(react.forward_ref),
+                      "attrs": Array [],
+                      "componentStyle": ComponentStyle {
+                        "componentId": "c1",
+                        "isStatic": true,
+                        "lastClassName": "c2",
+                        "rules": Array [
+                          "text-decoration:none;",
+                        ],
+                      },
+                      "displayName": "link__Anchor",
+                      "foldedComponentIds": Array [],
+                      "render": [Function],
+                      "styledComponentId": "c1",
+                      "target": "a",
+                      "toString": [Function],
+                      "warnTooManyClasses": [Function],
+                      "withComponent": [Function],
+                    }
+                  }
+                  forwardedRef={null}
+                >
+                  <a
+                    className="js_meta-time js_link c1 c2"
+                    dangerouslySetInnerHTML={null}
+                    data-ga="[[null,\\"stream post click - undefined\\",null,{\\"metric19\\":1}]]"
+                  >
+                    3/04/06 10:35PM
+                  </a>
+                </StyledComponent>
+              </link__Anchor>
+            </Link>
+          </time>
+        </StyledComponent>
+      </meta-time__TimeContainer>
+    </ThemeProvider>
+  </EnsureDefaultTheme>
+</MetaTime>
+`;
+
+exports[`<MetaTime /> should render scheduled style 1`] = `
+.c2 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c3 .c1 {
+  color: #7D7D7D;
+}
+
+.c3 .c1:hover {
+  color: #7D7D7D;
+}
+
+.c0 {
+  display: inline-block;
+  font-size: 14px;
+  line-height: 19px;
+  background-color: #000;
+  padding: 2px 5px 0 5px;
+}
+
+.c0 .c1 {
+  color: #7D7D7D;
+}
+
+.c0 .c1:hover {
+  color: #7D7D7D;
+}
+
+.c0 .c1 {
+  font-weight: bold;
+  color: #FFF;
+}
+
+<MetaTime
+  isScheduled={true}
+  language="en-US"
+  millis={1141508126849}
+  timezone="Europe/Budapest"
+>
+  <EnsureDefaultTheme>
+    <ThemeProvider
+      theme={[Function]}
+    >
+      <meta-time__ScheduledTimeContainer
+        dateTime="2006-03-04T22:35:26+01:00"
+      >
+        <StyledComponent
+          dateTime="2006-03-04T22:35:26+01:00"
+          forwardedComponent={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": Array [],
+              "componentStyle": ComponentStyle {
+                "componentId": "meta-time__ScheduledTimeContainer-uhd9ir-1",
+                "isStatic": false,
+                "lastClassName": "c0",
+                "rules": Array [
+                  "display:inline-block;font-size:14px;line-height:19px;",
+                  ".c1",
+                  "{color:",
+                  [Function],
+                  ";:hover{color:",
+                  [Function],
+                  ";}}",
+                  "background-color:",
+                  [Function],
+                  ";padding:2px 5px 0 5px;",
+                  ".c1",
+                  "{font-weight:bold;color:",
+                  [Function],
+                  ";}",
+                ],
+              },
+              "displayName": "meta-time__ScheduledTimeContainer",
+              "foldedComponentIds": Array [
+                "meta-time__TimeContainer-uhd9ir-0",
+              ],
+              "render": [Function],
+              "styledComponentId": "meta-time__ScheduledTimeContainer-uhd9ir-1",
+              "target": "time",
+              "toString": [Function],
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+        >
+          <time
+            className="c0"
+            dateTime="2006-03-04T22:35:26+01:00"
+          >
+            <Link
+              className="js_meta-time"
+              events={
+                Array [
+                  Array [
+                    undefined,
+                    "stream post click - undefined",
+                    undefined,
+                    Object {
+                      "metric19": 1,
+                    },
+                  ],
+                ]
+              }
+            >
+              <link__Anchor
+                className="js_meta-time js_link"
+                dangerouslySetInnerHTML={null}
+                data-ga="[[null,\\"stream post click - undefined\\",null,{\\"metric19\\":1}]]"
+              >
+                <StyledComponent
+                  className="js_meta-time js_link"
+                  dangerouslySetInnerHTML={null}
+                  data-ga="[[null,\\"stream post click - undefined\\",null,{\\"metric19\\":1}]]"
+                  forwardedComponent={
+                    Object {
+                      "$$typeof": Symbol(react.forward_ref),
+                      "attrs": Array [],
+                      "componentStyle": ComponentStyle {
+                        "componentId": "c1",
+                        "isStatic": true,
+                        "lastClassName": "c2",
+                        "rules": Array [
+                          "text-decoration:none;",
+                        ],
+                      },
+                      "displayName": "link__Anchor",
+                      "foldedComponentIds": Array [],
+                      "render": [Function],
+                      "styledComponentId": "c1",
+                      "target": "a",
+                      "toString": [Function],
+                      "warnTooManyClasses": [Function],
+                      "withComponent": [Function],
+                    }
+                  }
+                  forwardedRef={null}
+                >
+                  <a
+                    className="js_meta-time js_link c1 c2"
+                    dangerouslySetInnerHTML={null}
+                    data-ga="[[null,\\"stream post click - undefined\\",null,{\\"metric19\\":1}]]"
+                  >
+                    Scheduled: 
+                    3/04/06 10:35PM
+                  </a>
+                </StyledComponent>
+              </link__Anchor>
+            </Link>
+          </time>
+        </StyledComponent>
+      </meta-time__ScheduledTimeContainer>
+    </ThemeProvider>
+  </EnsureDefaultTheme>
+</MetaTime>
+`;

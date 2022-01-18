@@ -1,0 +1,2130 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<PermalinkByline /> should render properly 1`] = `
+.c5 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c3 {
+  display: inline-block;
+  font-size: 14px;
+  line-height: 19px;
+}
+
+.c3 .c4 {
+  color: #7D7D7D;
+}
+
+.c3 .c4:hover {
+  color: #7D7D7D;
+}
+
+.c12 {
+  fill: currentColor;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c13 {
+  position: absolute;
+  display: none;
+  top: 100%;
+  right: 0;
+}
+
+.c13.open {
+  display: block;
+}
+
+.c14 {
+  z-index: 98;
+  position: relative;
+  margin-top: 5px;
+  background: #FFF;
+  border-radius: 5px;
+  border: 1px solid #CCC;
+  min-width: 174px;
+}
+
+.c14::before,
+.c14::after {
+  content: "";
+  display: block;
+  position: absolute;
+  height: 0;
+  width: 0;
+  border-bottom-style: solid;
+}
+
+.c14::after {
+  border: inset 6px;
+  border-color: transparent transparent #FFF transparent;
+  top: -12px;
+  right: 14px;
+}
+
+.c14::before {
+  border: inset 7px;
+  border-color: transparent transparent #CCC transparent;
+  top: -14px;
+  right: 13px;
+}
+
+.c8 {
+  display: inline-block;
+  position: relative;
+}
+
+.c16 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: #666;
+  cursor: pointer;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  font-size: 14px;
+  line-height: 2;
+  padding: 6px 8px;
+  text-transform: uppercase;
+}
+
+.c16:first-child {
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+
+.c16:last-child {
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
+.c16:hover {
+  background: #F5F5F5;
+  color: #666;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c16 .c11 {
+  margin-right: 15px;
+}
+
+.c9 {
+  color: #7D7D7D;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c9:hover {
+  color: #7D7D7D;
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+}
+
+.c10 {
+  text-transform: uppercase;
+  color: #000;
+  padding-left: 4px;
+}
+
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  font-family: ProximaNovaCond,sans-serif;
+  font-size: 16px;
+  line-height: 21px;
+  text-align: left;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+
+.c6 {
+  display: inline-block;
+  font-size: 16px;
+  line-height: 17px;
+  margin: 0 7px 2px 7px;
+  color: #7D7D7D;
+}
+
+.c7 {
+  line-height: 19px;
+}
+
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c2 time {
+  font-size: 16px;
+}
+
+@media only screen and (min-width:50em) {
+  .c15 {
+    display: none;
+  }
+}
+
+@media only screen and (max-width:37.31em) {
+  .c2 {
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+  }
+}
+
+@media only screen and (min-width:37.37em) {
+  .c2 {
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+  }
+}
+
+<EnsureDefaultTheme>
+  <ThemeProvider
+    theme={[Function]}
+  >
+    <PermalinkByline
+      blogProperties={
+        Object {
+          "alternativeFiledToText": "custom filed to",
+          "timezone": "America/New_York",
+        }
+      }
+      post={
+        Object {
+          "adSenseDisabled": false,
+          "adZone": "",
+          "allowReplies": true,
+          "author": Object {
+            "avatar": Object {
+              "format": "jpg",
+              "id": "ql1l79ncdygfqwckzobr",
+            },
+            "displayName": "Chris Kohler",
+            "id": "5876237249237015770",
+            "screenName": "chriskohler",
+          },
+          "authorScreenName": "chriskohler",
+          "authors": Array [
+            Object {
+              "avatar": Object {
+                "format": "jpg",
+                "id": "ql1l79ncdygfqwckzobr",
+              },
+              "displayName": "Chris Kohler",
+              "id": "5876237249237015770",
+              "screenName": "chriskohler",
+            },
+            Object {
+              "avatar": Object {
+                "format": "jpg",
+                "id": "udtnp2grvcczvcr1ajsc",
+              },
+              "displayName": "Gordon Jackson",
+              "id": "5799958939291581341",
+              "screenName": "gordonmjackson",
+            },
+            Object {
+              "avatar": Object {
+                "format": "jpg",
+                "id": "pi7epaqjwbe9gotsjvs2",
+              },
+              "displayName": "Victoria Song",
+              "id": "5876237249238337793",
+              "screenName": "vsong",
+            },
+          ],
+          "byline": "",
+          "defaultBlogId": "9",
+          "discussionSettings": null,
+          "doNotCrawl": false,
+          "facebookImage": Object {
+            "format": "jpg",
+            "height": 357,
+            "id": "cjnv04lsotvdabk32tyt",
+            "src": "https://i.kinja-img.com/gawker-media/image/upload/s--0QXBj7yU--/c_fit,fl_progressive,q_80,w_636/cjnv04lsotvdabk32tyt.jpg",
+            "width": 636,
+          },
+          "first100Characters": "For Mario, 3D used to mean freedom. In 1996, Super Mario 64 broke Nintendo’s mascot from the shackle",
+          "firstSentence": "For Mario, 3D used to mean freedom. ",
+          "gaDimensions": Object {
+            "gaVideoIds": "kinjavideo-3384608",
+            "wordCount": 1757,
+            "wordCountBucket": "1600 - 1800",
+          },
+          "hasFeaturedVideo": false,
+          "headline": "<i>Super Mario Odyssey</i>: The Kotaku Review",
+          "id": 1819856086,
+          "images": Array [
+            Object {
+              "format": "jpg",
+              "height": 357,
+              "id": "w5tdejxht9bd9azy1tdl",
+              "src": "https://i.kinja-img.com/gawker-media/image/upload/s--RQQBbVuY--/c_fit,fl_progressive,q_80,w_636/w5tdejxht9bd9azy1tdl.jpg",
+              "width": 636,
+            },
+            Object {
+              "format": "jpg",
+              "height": 357,
+              "id": "gu6pddl55kstu2wvysjr",
+              "src": "https://i.kinja-img.com/gawker-media/image/upload/s--l9JaggL4--/c_fit,fl_progressive,q_80,w_636/gu6pddl55kstu2wvysjr.jpg",
+              "width": 636,
+            },
+            Object {
+              "format": "jpg",
+              "height": 357,
+              "id": "rl8v2eeugbmgxyrqttlm",
+              "src": "https://i.kinja-img.com/gawker-media/image/upload/s--m0HXlpAU--/c_fit,fl_progressive,q_80,w_636/rl8v2eeugbmgxyrqttlm.jpg",
+              "width": 636,
+            },
+            Object {
+              "format": "jpg",
+              "height": 357,
+              "id": "bdxxiezrhvq6ogx1an0j",
+              "src": "https://i.kinja-img.com/gawker-media/image/upload/s--XS4zIJDG--/c_fit,fl_progressive,q_80,w_636/bdxxiezrhvq6ogx1an0j.jpg",
+              "width": 636,
+            },
+            Object {
+              "format": "jpg",
+              "height": 357,
+              "id": "xs8w3sqz25mkk69g3qgg",
+              "src": "https://i.kinja-img.com/gawker-media/image/upload/s--j1goHN8N--/c_fit,fl_progressive,q_80,w_636/xs8w3sqz25mkk69g3qgg.jpg",
+              "width": 636,
+            },
+          ],
+          "isFeatured": true,
+          "isStarter": true,
+          "isVideo": false,
+          "mainMedia": null,
+          "permalink": "https://kotaku.com/super-mario-odyssey-the-kotaku-review-1819856086",
+          "plaintext": "For Mario, 3D used to mean freedom. In 1996, Super Mario 64 broke Nintendo’s mascot from the shackles of having to run in a straight line, letting the player choose their own path. But for quite some time now—no matter how 3D the graphics may have been—Mario’s adventures have reverted back to running on a straight line. With Super Mario Odyssey, that changes once more, and it’s a glorious thing.",
+          "publishTimeMillis": 1509022800086,
+          "qaMembers": Array [],
+          "qaParticipants": Array [],
+          "qaStatus": null,
+          "replyCount": 405,
+          "securePermalink": "https://kotaku.com/super-mario-odyssey-the-kotaku-review-1819856086",
+          "sharingMainImage": Object {
+            "src": "https://i.kinja-img.com/gawker-media/image/upload/s--RQQBbVuY--/c_fit,fl_progressive,q_80,w_636/w5tdejxht9bd9azy1tdl.jpg",
+          },
+          "showByline": true,
+          "socialHeadline": "Super Mario Odyssey: The Kotaku Review",
+          "sponsored": false,
+          "staffIncluded": false,
+          "status": "PUBLISHED",
+          "storyType": Object {
+            "blogId": 9,
+            "canonical": "review",
+            "content": "Standard",
+            "id": 69,
+            "title": "Review",
+          },
+          "tags": Array [
+            Object {
+              "canonical": "supermarioodyssey",
+              "displayName": "Super Mario Odyssey",
+              "urlName": "super-mario-odyssey",
+            },
+            Object {
+              "canonical": "review",
+              "displayName": "Review",
+              "urlName": "review",
+            },
+            Object {
+              "canonical": "nintendoswitch",
+              "displayName": "Nintendo Switch",
+              "urlName": "nintendo-switch",
+            },
+            Object {
+              "canonical": "nintendo",
+              "displayName": "Nintendo",
+              "urlName": "nintendo",
+            },
+            Object {
+              "canonical": "mario",
+              "displayName": "Mario",
+              "urlName": "mario",
+            },
+            Object {
+              "canonical": "kotakucore",
+              "displayName": "kotakucore",
+              "urlName": "kotakucore",
+            },
+          ],
+          "timezone": "America/New_York",
+          "twitterCardType": "summary_large_image",
+          "videos": Array [
+            Object {
+              "embedCode": null,
+              "height": null,
+              "id": null,
+              "src": "kinjavideo://3384608",
+              "thumbnails": Array [
+                Object {
+                  "format": "jpg",
+                  "id": "d7decixzdvsos96keany",
+                },
+              ],
+              "type": "kinjavideo",
+              "width": null,
+            },
+          ],
+        }
+      }
+    >
+      <permalink-byline__BylineContainer>
+        <StyledComponent
+          forwardedComponent={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": Array [],
+              "componentStyle": ComponentStyle {
+                "componentId": "permalink-byline__BylineContainer-sc-1jc3ukb-0",
+                "isStatic": false,
+                "lastClassName": "c0",
+                "rules": Array [
+                  "display:flex;flex-direction:row;font-family:",
+                  [Function],
+                  ";font-size:16px;line-height:21px;text-align:left;",
+                ],
+              },
+              "displayName": "permalink-byline__BylineContainer",
+              "foldedComponentIds": Array [],
+              "render": [Function],
+              "styledComponentId": "permalink-byline__BylineContainer-sc-1jc3ukb-0",
+              "target": "div",
+              "toString": [Function],
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+        >
+          <div
+            className="c0"
+          >
+            <permalink-byline__RightOfAvatarContainer>
+              <StyledComponent
+                forwardedComponent={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": Array [],
+                    "componentStyle": ComponentStyle {
+                      "componentId": "permalink-byline__RightOfAvatarContainer-sc-1jc3ukb-2",
+                      "isStatic": true,
+                      "lastClassName": "c1",
+                      "rules": Array [
+                        "display:flex;flex-direction:column;",
+                      ],
+                    },
+                    "displayName": "permalink-byline__RightOfAvatarContainer",
+                    "foldedComponentIds": Array [],
+                    "render": [Function],
+                    "styledComponentId": "permalink-byline__RightOfAvatarContainer-sc-1jc3ukb-2",
+                    "target": "div",
+                    "toString": [Function],
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+              >
+                <div
+                  className="c1"
+                >
+                  <permalink-byline__TimeAndTags>
+                    <StyledComponent
+                      forwardedComponent={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "attrs": Array [],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "permalink-byline__TimeAndTags-sc-1jc3ukb-6",
+                            "isStatic": true,
+                            "lastClassName": "c2",
+                            "rules": Array [
+                              "display:flex;",
+                              "@media only screen and ",
+                              "(max-width: 37.31em)",
+                              "{",
+                              "
+		flex-direction: row;
+		flex-wrap: wrap;
+	",
+                              "}",
+                              " ",
+                              "@media only screen and ",
+                              "(min-width: 37.37em)",
+                              "{",
+                              "
+		flex-direction: row;
+		flex-wrap: wrap;
+	",
+                              "}",
+                              " time{font-size:16px;}",
+                            ],
+                          },
+                          "displayName": "permalink-byline__TimeAndTags",
+                          "foldedComponentIds": Array [],
+                          "render": [Function],
+                          "styledComponentId": "permalink-byline__TimeAndTags-sc-1jc3ukb-6",
+                          "target": "div",
+                          "toString": [Function],
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                    >
+                      <div
+                        className="c2"
+                      >
+                        <MetaTime
+                          index={0}
+                          isSecondScroll={false}
+                          language="en-US"
+                          millis={1509022800086}
+                          permalink="https://kotaku.com/super-mario-odyssey-the-kotaku-review-1819856086"
+                          postId={1819856086}
+                          timezone="America/New_York"
+                        >
+                          <EnsureDefaultTheme>
+                            <ThemeProvider
+                              theme={[Function]}
+                            >
+                              <meta-time__TimeContainer
+                                dateTime="2017-10-26T09:00:00-04:00"
+                              >
+                                <StyledComponent
+                                  dateTime="2017-10-26T09:00:00-04:00"
+                                  forwardedComponent={
+                                    Object {
+                                      "$$typeof": Symbol(react.forward_ref),
+                                      "attrs": Array [],
+                                      "componentStyle": ComponentStyle {
+                                        "componentId": "meta-time__TimeContainer-uhd9ir-0",
+                                        "isStatic": false,
+                                        "lastClassName": "c3",
+                                        "rules": Array [
+                                          "display:inline-block;font-size:14px;line-height:19px;",
+                                          ".c4",
+                                          "{color:",
+                                          [Function],
+                                          ";:hover{color:",
+                                          [Function],
+                                          ";}}",
+                                        ],
+                                      },
+                                      "displayName": "meta-time__TimeContainer",
+                                      "foldedComponentIds": Array [],
+                                      "render": [Function],
+                                      "styledComponentId": "meta-time__TimeContainer-uhd9ir-0",
+                                      "target": "time",
+                                      "toString": [Function],
+                                      "warnTooManyClasses": [Function],
+                                      "withComponent": [Function],
+                                    }
+                                  }
+                                  forwardedRef={null}
+                                >
+                                  <time
+                                    className="c3"
+                                    dateTime="2017-10-26T09:00:00-04:00"
+                                  >
+                                    <Link
+                                      className="js_meta-time"
+                                      events={
+                                        Array [
+                                          Array [
+                                            undefined,
+                                            "stream post click - 0",
+                                            "https://kotaku.com/super-mario-odyssey-the-kotaku-review-1819856086",
+                                            Object {
+                                              "metric19": 1,
+                                            },
+                                          ],
+                                        ]
+                                      }
+                                      href="https://kotaku.com/super-mario-odyssey-the-kotaku-review-1819856086"
+                                    >
+                                      <link__Anchor
+                                        className="js_meta-time js_link"
+                                        dangerouslySetInnerHTML={null}
+                                        data-ga="[[null,\\"stream post click - 0\\",\\"https://kotaku.com/super-mario-odyssey-the-kotaku-review-1819856086\\",{\\"metric19\\":1}]]"
+                                        href="https://kotaku.com/super-mario-odyssey-the-kotaku-review-1819856086"
+                                      >
+                                        <StyledComponent
+                                          className="js_meta-time js_link"
+                                          dangerouslySetInnerHTML={null}
+                                          data-ga="[[null,\\"stream post click - 0\\",\\"https://kotaku.com/super-mario-odyssey-the-kotaku-review-1819856086\\",{\\"metric19\\":1}]]"
+                                          forwardedComponent={
+                                            Object {
+                                              "$$typeof": Symbol(react.forward_ref),
+                                              "attrs": Array [],
+                                              "componentStyle": ComponentStyle {
+                                                "componentId": "c4",
+                                                "isStatic": true,
+                                                "lastClassName": "c5",
+                                                "rules": Array [
+                                                  "text-decoration:none;",
+                                                ],
+                                              },
+                                              "displayName": "link__Anchor",
+                                              "foldedComponentIds": Array [],
+                                              "render": [Function],
+                                              "styledComponentId": "c4",
+                                              "target": "a",
+                                              "toString": [Function],
+                                              "warnTooManyClasses": [Function],
+                                              "withComponent": [Function],
+                                            }
+                                          }
+                                          forwardedRef={null}
+                                          href="https://kotaku.com/super-mario-odyssey-the-kotaku-review-1819856086"
+                                        >
+                                          <a
+                                            className="js_meta-time js_link c4 c5"
+                                            dangerouslySetInnerHTML={null}
+                                            data-ga="[[null,\\"stream post click - 0\\",\\"https://kotaku.com/super-mario-odyssey-the-kotaku-review-1819856086\\",{\\"metric19\\":1}]]"
+                                            href="https://kotaku.com/super-mario-odyssey-the-kotaku-review-1819856086"
+                                          >
+                                            10/26/17 9:00AM
+                                          </a>
+                                        </StyledComponent>
+                                      </link__Anchor>
+                                    </Link>
+                                  </time>
+                                </StyledComponent>
+                              </meta-time__TimeContainer>
+                            </ThemeProvider>
+                          </EnsureDefaultTheme>
+                        </MetaTime>
+                        <permalink-byline__Separator>
+                          <StyledComponent
+                            forwardedComponent={
+                              Object {
+                                "$$typeof": Symbol(react.forward_ref),
+                                "attrs": Array [],
+                                "componentStyle": ComponentStyle {
+                                  "componentId": "permalink-byline__Separator-sc-1jc3ukb-4",
+                                  "isStatic": false,
+                                  "lastClassName": "c6",
+                                  "rules": Array [
+                                    "display:inline-block;font-size:16px;line-height:17px;margin:0 7px 2px 7px;color:",
+                                    [Function],
+                                    ";",
+                                  ],
+                                },
+                                "displayName": "permalink-byline__Separator",
+                                "foldedComponentIds": Array [],
+                                "render": [Function],
+                                "styledComponentId": "permalink-byline__Separator-sc-1jc3ukb-4",
+                                "target": "div",
+                                "toString": [Function],
+                                "warnTooManyClasses": [Function],
+                                "withComponent": [Function],
+                              }
+                            }
+                            forwardedRef={null}
+                          >
+                            <div
+                              className="c6"
+                            >
+                              •
+                            </div>
+                          </StyledComponent>
+                        </permalink-byline__Separator>
+                        <permalink-byline__TagsContainer>
+                          <StyledComponent
+                            forwardedComponent={
+                              Object {
+                                "$$typeof": Symbol(react.forward_ref),
+                                "attrs": Array [],
+                                "componentStyle": ComponentStyle {
+                                  "componentId": "permalink-byline__TagsContainer-sc-1jc3ukb-5",
+                                  "isStatic": true,
+                                  "lastClassName": "c7",
+                                  "rules": Array [
+                                    "line-height:19px;",
+                                  ],
+                                },
+                                "displayName": "permalink-byline__TagsContainer",
+                                "foldedComponentIds": Array [],
+                                "render": [Function],
+                                "styledComponentId": "permalink-byline__TagsContainer-sc-1jc3ukb-5",
+                                "target": "div",
+                                "toString": [Function],
+                                "warnTooManyClasses": [Function],
+                                "withComponent": [Function],
+                              }
+                            }
+                            forwardedRef={null}
+                          >
+                            <div
+                              className="c7"
+                            >
+                              <TagDropdown
+                                alternativeFiledToText="custom filed to"
+                                tags={
+                                  Array [
+                                    Object {
+                                      "canonical": "supermarioodyssey",
+                                      "displayName": "Super Mario Odyssey",
+                                      "urlName": "super-mario-odyssey",
+                                    },
+                                    Object {
+                                      "canonical": "review",
+                                      "displayName": "Review",
+                                      "urlName": "review",
+                                    },
+                                    Object {
+                                      "canonical": "nintendoswitch",
+                                      "displayName": "Nintendo Switch",
+                                      "urlName": "nintendo-switch",
+                                    },
+                                    Object {
+                                      "canonical": "nintendo",
+                                      "displayName": "Nintendo",
+                                      "urlName": "nintendo",
+                                    },
+                                    Object {
+                                      "canonical": "mario",
+                                      "displayName": "Mario",
+                                      "urlName": "mario",
+                                    },
+                                    Object {
+                                      "canonical": "kotakucore",
+                                      "displayName": "kotakucore",
+                                      "urlName": "kotakucore",
+                                    },
+                                  ]
+                                }
+                              >
+                                <EnsureDefaultTheme>
+                                  <ThemeProvider
+                                    theme={[Function]}
+                                  >
+                                    <div
+                                      className="js_tag-dropdown"
+                                    >
+                                      <Dropdown
+                                        dropdownContainer={
+                                          Object {
+                                            "$$typeof": Symbol(react.forward_ref),
+                                            "attrs": Array [],
+                                            "componentStyle": ComponentStyle {
+                                              "componentId": "dropdown__DropdownContainer-sc-1dvfjie-1",
+                                              "isStatic": false,
+                                              "lastClassName": "c14",
+                                              "rules": Array [
+                                                "z-index:98;position:relative;margin-top:5px;background:",
+                                                [Function],
+                                                ";border-radius:5px;border:1px solid ",
+                                                [Function],
+                                                ";min-width:174px;&::before,&::after{content:\\"\\";display:block;position:absolute;height:0;width:0;border-bottom-style:solid;}&::after{border:inset 6px;border-color:transparent transparent ",
+                                                [Function],
+                                                " transparent;top:-12px;right:14px;}&::before{border:inset 7px;border-color:transparent transparent ",
+                                                [Function],
+                                                " transparent;top:-14px;right:13px;}",
+                                              ],
+                                            },
+                                            "displayName": "dropdown__DropdownContainer",
+                                            "foldedComponentIds": Array [],
+                                            "render": [Function],
+                                            "styledComponentId": "dropdown__DropdownContainer-sc-1dvfjie-1",
+                                            "target": "div",
+                                            "toString": [Function],
+                                            "warnTooManyClasses": [Function],
+                                            "withComponent": [Function],
+                                          }
+                                        }
+                                        isOpen={false}
+                                        onMouseEnter={[Function]}
+                                        onMouseLeave={[Function]}
+                                        options={
+                                          Object {
+                                            "align": "right",
+                                            "useClick": false,
+                                          }
+                                        }
+                                        trigger={
+                                          <DropdownTrigger
+                                            alternativeFiledToText="custom filed to"
+                                            dropdownEnabled={true}
+                                            firstTag={
+                                              Object {
+                                                "canonical": "supermarioodyssey",
+                                                "displayName": "Super Mario Odyssey",
+                                                "urlName": "super-mario-odyssey",
+                                              }
+                                            }
+                                            onClick={[Function]}
+                                          />
+                                        }
+                                      >
+                                        <ClickOutside(Component)
+                                          handleClickOutside={[Function]}
+                                          onClick={[Function]}
+                                          onMouseEnter={[Function]}
+                                          onMouseLeave={[Function]}
+                                        >
+                                          <Component
+                                            insideReference={[Function]}
+                                            onClick={[Function]}
+                                            onMouseEnter={[Function]}
+                                            onMouseLeave={[Function]}
+                                          >
+                                            <dropdown__TriggerContainer
+                                              insideReference={[Function]}
+                                              onClick={[Function]}
+                                              onMouseEnter={[Function]}
+                                              onMouseLeave={[Function]}
+                                            >
+                                              <StyledComponent
+                                                forwardedComponent={
+                                                  Object {
+                                                    "$$typeof": Symbol(react.forward_ref),
+                                                    "attrs": Array [],
+                                                    "componentStyle": ComponentStyle {
+                                                      "componentId": "dropdown__TriggerContainer-sc-1dvfjie-2",
+                                                      "isStatic": true,
+                                                      "lastClassName": "c8",
+                                                      "rules": Array [
+                                                        "display:inline-block;position:relative;",
+                                                      ],
+                                                    },
+                                                    "displayName": "dropdown__TriggerContainer",
+                                                    "foldedComponentIds": Array [],
+                                                    "render": [Function],
+                                                    "styledComponentId": "dropdown__TriggerContainer-sc-1dvfjie-2",
+                                                    "target": "div",
+                                                    "toString": [Function],
+                                                    "warnTooManyClasses": [Function],
+                                                    "withComponent": [Function],
+                                                  }
+                                                }
+                                                forwardedRef={[Function]}
+                                                insideReference={[Function]}
+                                                onClick={[Function]}
+                                                onMouseEnter={[Function]}
+                                                onMouseLeave={[Function]}
+                                              >
+                                                <div
+                                                  className="c8"
+                                                  onClick={[Function]}
+                                                  onMouseEnter={[Function]}
+                                                  onMouseLeave={[Function]}
+                                                >
+                                                  <DropdownTrigger
+                                                    alternativeFiledToText="custom filed to"
+                                                    dropdownEnabled={true}
+                                                    firstTag={
+                                                      Object {
+                                                        "canonical": "supermarioodyssey",
+                                                        "displayName": "Super Mario Odyssey",
+                                                        "urlName": "super-mario-odyssey",
+                                                      }
+                                                    }
+                                                    onClick={[Function]}
+                                                  >
+                                                    <EnsureDefaultTheme>
+                                                      <ThemeProvider
+                                                        theme={[Function]}
+                                                      >
+                                                        <Link
+                                                          className="js_trigger"
+                                                          events={
+                                                            Array [
+                                                              Array [
+                                                                "Permalink meta",
+                                                                "Tag click",
+                                                                "First tag click",
+                                                              ],
+                                                            ]
+                                                          }
+                                                          href="/tag/super-mario-odyssey"
+                                                          onClick={[Function]}
+                                                        >
+                                                          <link__Anchor
+                                                            className="js_trigger js_link"
+                                                            dangerouslySetInnerHTML={null}
+                                                            data-ga="[[\\"Permalink meta\\",\\"Tag click\\",\\"First tag click\\"]]"
+                                                            href="/tag/super-mario-odyssey"
+                                                            onClick={[Function]}
+                                                          >
+                                                            <StyledComponent
+                                                              className="js_trigger js_link"
+                                                              dangerouslySetInnerHTML={null}
+                                                              data-ga="[[\\"Permalink meta\\",\\"Tag click\\",\\"First tag click\\"]]"
+                                                              forwardedComponent={
+                                                                Object {
+                                                                  "$$typeof": Symbol(react.forward_ref),
+                                                                  "attrs": Array [],
+                                                                  "componentStyle": ComponentStyle {
+                                                                    "componentId": "c4",
+                                                                    "isStatic": true,
+                                                                    "lastClassName": "c5",
+                                                                    "rules": Array [
+                                                                      "text-decoration:none;",
+                                                                    ],
+                                                                  },
+                                                                  "displayName": "link__Anchor",
+                                                                  "foldedComponentIds": Array [],
+                                                                  "render": [Function],
+                                                                  "styledComponentId": "c4",
+                                                                  "target": "a",
+                                                                  "toString": [Function],
+                                                                  "warnTooManyClasses": [Function],
+                                                                  "withComponent": [Function],
+                                                                }
+                                                              }
+                                                              forwardedRef={null}
+                                                              href="/tag/super-mario-odyssey"
+                                                              onClick={[Function]}
+                                                            >
+                                                              <a
+                                                                className="js_trigger js_link c4 c5"
+                                                                dangerouslySetInnerHTML={null}
+                                                                data-ga="[[\\"Permalink meta\\",\\"Tag click\\",\\"First tag click\\"]]"
+                                                                href="/tag/super-mario-odyssey"
+                                                                onClick={[Function]}
+                                                              >
+                                                                <SingleTagTrigger
+                                                                  alternativeFiledToText="custom filed to"
+                                                                  dropdownEnabled={true}
+                                                                  tag={
+                                                                    Object {
+                                                                      "canonical": "supermarioodyssey",
+                                                                      "displayName": "Super Mario Odyssey",
+                                                                      "urlName": "super-mario-odyssey",
+                                                                    }
+                                                                  }
+                                                                >
+                                                                  <tag-dropdown__SingleTagContainer>
+                                                                    <StyledComponent
+                                                                      forwardedComponent={
+                                                                        Object {
+                                                                          "$$typeof": Symbol(react.forward_ref),
+                                                                          "attrs": Array [],
+                                                                          "componentStyle": ComponentStyle {
+                                                                            "componentId": "tag-dropdown__SingleTagContainer-wvv3zm-1",
+                                                                            "isStatic": false,
+                                                                            "lastClassName": "c9",
+                                                                            "rules": Array [
+                                                                              "color:",
+                                                                              [Function],
+                                                                              ";display:flex;&:hover{color:",
+                                                                              [Function],
+                                                                              ";text-decoration:underline;}",
+                                                                            ],
+                                                                          },
+                                                                          "displayName": "tag-dropdown__SingleTagContainer",
+                                                                          "foldedComponentIds": Array [],
+                                                                          "render": [Function],
+                                                                          "styledComponentId": "tag-dropdown__SingleTagContainer-wvv3zm-1",
+                                                                          "target": "div",
+                                                                          "toString": [Function],
+                                                                          "warnTooManyClasses": [Function],
+                                                                          "withComponent": [Function],
+                                                                        }
+                                                                      }
+                                                                      forwardedRef={null}
+                                                                    >
+                                                                      <div
+                                                                        className="c9"
+                                                                      >
+                                                                        <span>
+                                                                          custom filed to
+                                                                        </span>
+                                                                        <tag-dropdown__TagName>
+                                                                          <StyledComponent
+                                                                            forwardedComponent={
+                                                                              Object {
+                                                                                "$$typeof": Symbol(react.forward_ref),
+                                                                                "attrs": Array [],
+                                                                                "componentStyle": ComponentStyle {
+                                                                                  "componentId": "tag-dropdown__TagName-wvv3zm-2",
+                                                                                  "isStatic": false,
+                                                                                  "lastClassName": "c10",
+                                                                                  "rules": Array [
+                                                                                    "text-transform:uppercase;color:",
+                                                                                    [Function],
+                                                                                    ";padding-left:4px;",
+                                                                                  ],
+                                                                                },
+                                                                                "displayName": "tag-dropdown__TagName",
+                                                                                "foldedComponentIds": Array [],
+                                                                                "render": [Function],
+                                                                                "styledComponentId": "tag-dropdown__TagName-wvv3zm-2",
+                                                                                "target": "span",
+                                                                                "toString": [Function],
+                                                                                "warnTooManyClasses": [Function],
+                                                                                "withComponent": [Function],
+                                                                              }
+                                                                            }
+                                                                            forwardedRef={null}
+                                                                          >
+                                                                            <span
+                                                                              className="c10"
+                                                                            >
+                                                                              Super Mario Odyssey
+                                                                            </span>
+                                                                          </StyledComponent>
+                                                                        </tag-dropdown__TagName>
+                                                                        <ChevronDownIcon>
+                                                                          <Icon19>
+                                                                            <icon19__IconWrapper>
+                                                                              <StyledComponent
+                                                                                forwardedComponent={
+                                                                                  Object {
+                                                                                    "$$typeof": Symbol(react.forward_ref),
+                                                                                    "attrs": Array [],
+                                                                                    "componentStyle": ComponentStyle {
+                                                                                      "componentId": "c11",
+                                                                                      "isStatic": true,
+                                                                                      "lastClassName": "c12",
+                                                                                      "rules": Array [
+                                                                                        "fill:currentColor;display:flex;",
+                                                                                      ],
+                                                                                    },
+                                                                                    "displayName": "icon19__IconWrapper",
+                                                                                    "foldedComponentIds": Array [],
+                                                                                    "render": [Function],
+                                                                                    "styledComponentId": "c11",
+                                                                                    "target": "span",
+                                                                                    "toString": [Function],
+                                                                                    "warnTooManyClasses": [Function],
+                                                                                    "withComponent": [Function],
+                                                                                  }
+                                                                                }
+                                                                                forwardedRef={null}
+                                                                              >
+                                                                                <span
+                                                                                  className="c11 c12"
+                                                                                >
+                                                                                  <ChevronDown
+                                                                                    aria-label="ChevronDown icon"
+                                                                                    height="18"
+                                                                                    viewBox="0 0 18 18"
+                                                                                    width="18"
+                                                                                    xmlns="http://www.w3.org/2000/svg"
+                                                                                  >
+                                                                                    <svg
+                                                                                      aria-label="ChevronDown icon"
+                                                                                      height="18"
+                                                                                      viewBox="0 0 18 18"
+                                                                                      width="18"
+                                                                                      xmlns="http://www.w3.org/2000/svg"
+                                                                                    >
+                                                                                      <path
+                                                                                        d="M3.87 6.16a.5.5 0 0 0-.74.68l5.5 6c.2.21.54.21.74 0l5.5-6a.5.5 0 1 0-.74-.68L9 11.76l-5.13-5.6z"
+                                                                                        fillRule="evenodd"
+                                                                                      />
+                                                                                    </svg>
+                                                                                  </ChevronDown>
+                                                                                </span>
+                                                                              </StyledComponent>
+                                                                            </icon19__IconWrapper>
+                                                                          </Icon19>
+                                                                        </ChevronDownIcon>
+                                                                      </div>
+                                                                    </StyledComponent>
+                                                                  </tag-dropdown__SingleTagContainer>
+                                                                </SingleTagTrigger>
+                                                              </a>
+                                                            </StyledComponent>
+                                                          </link__Anchor>
+                                                        </Link>
+                                                      </ThemeProvider>
+                                                    </EnsureDefaultTheme>
+                                                  </DropdownTrigger>
+                                                  <dropdown__DropdownWrapper
+                                                    className="js_dropdown"
+                                                    options={
+                                                      Object {
+                                                        "align": "right",
+                                                        "useClick": false,
+                                                      }
+                                                    }
+                                                  >
+                                                    <StyledComponent
+                                                      className="js_dropdown"
+                                                      forwardedComponent={
+                                                        Object {
+                                                          "$$typeof": Symbol(react.forward_ref),
+                                                          "attrs": Array [],
+                                                          "componentStyle": ComponentStyle {
+                                                            "componentId": "dropdown__DropdownWrapper-sc-1dvfjie-0",
+                                                            "isStatic": false,
+                                                            "lastClassName": "c13",
+                                                            "rules": Array [
+                                                              "position:absolute;display:none;&.open{display:block;}",
+                                                              [Function],
+                                                              " ",
+                                                              [Function],
+                                                            ],
+                                                          },
+                                                          "displayName": "dropdown__DropdownWrapper",
+                                                          "foldedComponentIds": Array [],
+                                                          "render": [Function],
+                                                          "styledComponentId": "dropdown__DropdownWrapper-sc-1dvfjie-0",
+                                                          "target": "div",
+                                                          "toString": [Function],
+                                                          "warnTooManyClasses": [Function],
+                                                          "withComponent": [Function],
+                                                        }
+                                                      }
+                                                      forwardedRef={null}
+                                                      options={
+                                                        Object {
+                                                          "align": "right",
+                                                          "useClick": false,
+                                                        }
+                                                      }
+                                                    >
+                                                      <div
+                                                        className="js_dropdown c13"
+                                                      >
+                                                        <dropdown__DropdownContainer
+                                                          upwards={false}
+                                                        >
+                                                          <StyledComponent
+                                                            forwardedComponent={
+                                                              Object {
+                                                                "$$typeof": Symbol(react.forward_ref),
+                                                                "attrs": Array [],
+                                                                "componentStyle": ComponentStyle {
+                                                                  "componentId": "dropdown__DropdownContainer-sc-1dvfjie-1",
+                                                                  "isStatic": false,
+                                                                  "lastClassName": "c14",
+                                                                  "rules": Array [
+                                                                    "z-index:98;position:relative;margin-top:5px;background:",
+                                                                    [Function],
+                                                                    ";border-radius:5px;border:1px solid ",
+                                                                    [Function],
+                                                                    ";min-width:174px;&::before,&::after{content:\\"\\";display:block;position:absolute;height:0;width:0;border-bottom-style:solid;}&::after{border:inset 6px;border-color:transparent transparent ",
+                                                                    [Function],
+                                                                    " transparent;top:-12px;right:14px;}&::before{border:inset 7px;border-color:transparent transparent ",
+                                                                    [Function],
+                                                                    " transparent;top:-14px;right:13px;}",
+                                                                  ],
+                                                                },
+                                                                "displayName": "dropdown__DropdownContainer",
+                                                                "foldedComponentIds": Array [],
+                                                                "render": [Function],
+                                                                "styledComponentId": "dropdown__DropdownContainer-sc-1dvfjie-1",
+                                                                "target": "div",
+                                                                "toString": [Function],
+                                                                "warnTooManyClasses": [Function],
+                                                                "withComponent": [Function],
+                                                              }
+                                                            }
+                                                            forwardedRef={null}
+                                                            upwards={false}
+                                                          >
+                                                            <div
+                                                              className="c14"
+                                                            >
+                                                              <tag-dropdown__TouchOnlyDropdownItem
+                                                                events={
+                                                                  Array [
+                                                                    Array [
+                                                                      "Permalink meta",
+                                                                      "Tag click",
+                                                                      "Dropdown tag click",
+                                                                    ],
+                                                                  ]
+                                                                }
+                                                                href="/tag/super-mario-odyssey"
+                                                                key="super-mario-odyssey"
+                                                                title="Super Mario Odyssey"
+                                                                upcase={true}
+                                                              >
+                                                                <StyledComponent
+                                                                  events={
+                                                                    Array [
+                                                                      Array [
+                                                                        "Permalink meta",
+                                                                        "Tag click",
+                                                                        "Dropdown tag click",
+                                                                      ],
+                                                                    ]
+                                                                  }
+                                                                  forwardedComponent={
+                                                                    Object {
+                                                                      "$$typeof": Symbol(react.forward_ref),
+                                                                      "attrs": Array [],
+                                                                      "componentStyle": ComponentStyle {
+                                                                        "componentId": "tag-dropdown__TouchOnlyDropdownItem-wvv3zm-0",
+                                                                        "isStatic": true,
+                                                                        "lastClassName": "c15",
+                                                                        "rules": Array [
+                                                                          "@media only screen and ",
+                                                                          "(min-width: 50em)",
+                                                                          "{",
+                                                                          "
+		display: none;
+	",
+                                                                          "}",
+                                                                        ],
+                                                                      },
+                                                                      "displayName": "tag-dropdown__TouchOnlyDropdownItem",
+                                                                      "foldedComponentIds": Array [],
+                                                                      "render": [Function],
+                                                                      "styledComponentId": "tag-dropdown__TouchOnlyDropdownItem-wvv3zm-0",
+                                                                      "target": [Function],
+                                                                      "toString": [Function],
+                                                                      "warnTooManyClasses": [Function],
+                                                                      "withComponent": [Function],
+                                                                      Symbol(Symbol.hasInstance): [Function],
+                                                                    }
+                                                                  }
+                                                                  forwardedRef={null}
+                                                                  href="/tag/super-mario-odyssey"
+                                                                  title="Super Mario Odyssey"
+                                                                  upcase={true}
+                                                                >
+                                                                  <DropdownItem
+                                                                    className="c15"
+                                                                    events={
+                                                                      Array [
+                                                                        Array [
+                                                                          "Permalink meta",
+                                                                          "Tag click",
+                                                                          "Dropdown tag click",
+                                                                        ],
+                                                                      ]
+                                                                    }
+                                                                    href="/tag/super-mario-odyssey"
+                                                                    title="Super Mario Odyssey"
+                                                                    upcase={true}
+                                                                  >
+                                                                    <dropdown-item__DropdownElement
+                                                                      className="c15"
+                                                                      events={
+                                                                        Array [
+                                                                          Array [
+                                                                            "Permalink meta",
+                                                                            "Tag click",
+                                                                            "Dropdown tag click",
+                                                                          ],
+                                                                        ]
+                                                                      }
+                                                                      href="/tag/super-mario-odyssey"
+                                                                      title="Super Mario Odyssey"
+                                                                      upcase={true}
+                                                                    >
+                                                                      <StyledComponent
+                                                                        className="c15"
+                                                                        events={
+                                                                          Array [
+                                                                            Array [
+                                                                              "Permalink meta",
+                                                                              "Tag click",
+                                                                              "Dropdown tag click",
+                                                                            ],
+                                                                          ]
+                                                                        }
+                                                                        forwardedComponent={
+                                                                          Object {
+                                                                            "$$typeof": Symbol(react.forward_ref),
+                                                                            "attrs": Array [],
+                                                                            "componentStyle": ComponentStyle {
+                                                                              "componentId": "dropdown-item__DropdownElement-sc-10a86sv-0",
+                                                                              "isStatic": false,
+                                                                              "lastClassName": "c16",
+                                                                              "rules": Array [
+                                                                                "align-items:center;color:",
+                                                                                [Function],
+                                                                                ";cursor:pointer;display:flex;font-size:14px;line-height:2;padding:6px 8px;",
+                                                                                [Function],
+                                                                                " &:first-child{border-top-left-radius:5px;border-top-right-radius:5px;}&:last-child{border-bottom-left-radius:5px;border-bottom-right-radius:5px;}&:hover{background:",
+                                                                                [Function],
+                                                                                ";color:",
+                                                                                [Function],
+                                                                                ";text-decoration:none;}",
+                                                                                ".c11",
+                                                                                "{margin-right:15px;}",
+                                                                              ],
+                                                                            },
+                                                                            "displayName": "dropdown-item__DropdownElement",
+                                                                            "foldedComponentIds": Array [],
+                                                                            "render": [Function],
+                                                                            "styledComponentId": "dropdown-item__DropdownElement-sc-10a86sv-0",
+                                                                            "target": [Function],
+                                                                            "toString": [Function],
+                                                                            "warnTooManyClasses": [Function],
+                                                                            "withComponent": [Function],
+                                                                            Symbol(Symbol.hasInstance): [Function],
+                                                                          }
+                                                                        }
+                                                                        forwardedRef={null}
+                                                                        href="/tag/super-mario-odyssey"
+                                                                        title="Super Mario Odyssey"
+                                                                        upcase={true}
+                                                                      >
+                                                                        <Link
+                                                                          className="c15 c16"
+                                                                          events={
+                                                                            Array [
+                                                                              Array [
+                                                                                "Permalink meta",
+                                                                                "Tag click",
+                                                                                "Dropdown tag click",
+                                                                              ],
+                                                                            ]
+                                                                          }
+                                                                          href="/tag/super-mario-odyssey"
+                                                                          title="Super Mario Odyssey"
+                                                                          upcase={true}
+                                                                        >
+                                                                          <link__Anchor
+                                                                            className="c15 c16 js_link"
+                                                                            dangerouslySetInnerHTML={null}
+                                                                            data-ga="[[\\"Permalink meta\\",\\"Tag click\\",\\"Dropdown tag click\\"]]"
+                                                                            href="/tag/super-mario-odyssey"
+                                                                            title="Super Mario Odyssey"
+                                                                            upcase={true}
+                                                                          >
+                                                                            <StyledComponent
+                                                                              className="c15 c16 js_link"
+                                                                              dangerouslySetInnerHTML={null}
+                                                                              data-ga="[[\\"Permalink meta\\",\\"Tag click\\",\\"Dropdown tag click\\"]]"
+                                                                              forwardedComponent={
+                                                                                Object {
+                                                                                  "$$typeof": Symbol(react.forward_ref),
+                                                                                  "attrs": Array [],
+                                                                                  "componentStyle": ComponentStyle {
+                                                                                    "componentId": "c4",
+                                                                                    "isStatic": true,
+                                                                                    "lastClassName": "c5",
+                                                                                    "rules": Array [
+                                                                                      "text-decoration:none;",
+                                                                                    ],
+                                                                                  },
+                                                                                  "displayName": "link__Anchor",
+                                                                                  "foldedComponentIds": Array [],
+                                                                                  "render": [Function],
+                                                                                  "styledComponentId": "c4",
+                                                                                  "target": "a",
+                                                                                  "toString": [Function],
+                                                                                  "warnTooManyClasses": [Function],
+                                                                                  "withComponent": [Function],
+                                                                                }
+                                                                              }
+                                                                              forwardedRef={null}
+                                                                              href="/tag/super-mario-odyssey"
+                                                                              title="Super Mario Odyssey"
+                                                                              upcase={true}
+                                                                            >
+                                                                              <a
+                                                                                className="c15 c16 js_link c4 c5"
+                                                                                dangerouslySetInnerHTML={null}
+                                                                                data-ga="[[\\"Permalink meta\\",\\"Tag click\\",\\"Dropdown tag click\\"]]"
+                                                                                href="/tag/super-mario-odyssey"
+                                                                                title="Super Mario Odyssey"
+                                                                              >
+                                                                                Super Mario Odyssey
+                                                                              </a>
+                                                                            </StyledComponent>
+                                                                          </link__Anchor>
+                                                                        </Link>
+                                                                      </StyledComponent>
+                                                                    </dropdown-item__DropdownElement>
+                                                                  </DropdownItem>
+                                                                </StyledComponent>
+                                                              </tag-dropdown__TouchOnlyDropdownItem>
+                                                              <DropdownItem
+                                                                events={
+                                                                  Array [
+                                                                    Array [
+                                                                      "Permalink meta",
+                                                                      "Tag click",
+                                                                      "Dropdown tag click",
+                                                                    ],
+                                                                  ]
+                                                                }
+                                                                href="/tag/review"
+                                                                key="review"
+                                                                title="Review"
+                                                                upcase={true}
+                                                              >
+                                                                <dropdown-item__DropdownElement
+                                                                  events={
+                                                                    Array [
+                                                                      Array [
+                                                                        "Permalink meta",
+                                                                        "Tag click",
+                                                                        "Dropdown tag click",
+                                                                      ],
+                                                                    ]
+                                                                  }
+                                                                  href="/tag/review"
+                                                                  title="Review"
+                                                                  upcase={true}
+                                                                >
+                                                                  <StyledComponent
+                                                                    events={
+                                                                      Array [
+                                                                        Array [
+                                                                          "Permalink meta",
+                                                                          "Tag click",
+                                                                          "Dropdown tag click",
+                                                                        ],
+                                                                      ]
+                                                                    }
+                                                                    forwardedComponent={
+                                                                      Object {
+                                                                        "$$typeof": Symbol(react.forward_ref),
+                                                                        "attrs": Array [],
+                                                                        "componentStyle": ComponentStyle {
+                                                                          "componentId": "dropdown-item__DropdownElement-sc-10a86sv-0",
+                                                                          "isStatic": false,
+                                                                          "lastClassName": "c16",
+                                                                          "rules": Array [
+                                                                            "align-items:center;color:",
+                                                                            [Function],
+                                                                            ";cursor:pointer;display:flex;font-size:14px;line-height:2;padding:6px 8px;",
+                                                                            [Function],
+                                                                            " &:first-child{border-top-left-radius:5px;border-top-right-radius:5px;}&:last-child{border-bottom-left-radius:5px;border-bottom-right-radius:5px;}&:hover{background:",
+                                                                            [Function],
+                                                                            ";color:",
+                                                                            [Function],
+                                                                            ";text-decoration:none;}",
+                                                                            ".c11",
+                                                                            "{margin-right:15px;}",
+                                                                          ],
+                                                                        },
+                                                                        "displayName": "dropdown-item__DropdownElement",
+                                                                        "foldedComponentIds": Array [],
+                                                                        "render": [Function],
+                                                                        "styledComponentId": "dropdown-item__DropdownElement-sc-10a86sv-0",
+                                                                        "target": [Function],
+                                                                        "toString": [Function],
+                                                                        "warnTooManyClasses": [Function],
+                                                                        "withComponent": [Function],
+                                                                        Symbol(Symbol.hasInstance): [Function],
+                                                                      }
+                                                                    }
+                                                                    forwardedRef={null}
+                                                                    href="/tag/review"
+                                                                    title="Review"
+                                                                    upcase={true}
+                                                                  >
+                                                                    <Link
+                                                                      className="c16"
+                                                                      events={
+                                                                        Array [
+                                                                          Array [
+                                                                            "Permalink meta",
+                                                                            "Tag click",
+                                                                            "Dropdown tag click",
+                                                                          ],
+                                                                        ]
+                                                                      }
+                                                                      href="/tag/review"
+                                                                      title="Review"
+                                                                      upcase={true}
+                                                                    >
+                                                                      <link__Anchor
+                                                                        className="c16 js_link"
+                                                                        dangerouslySetInnerHTML={null}
+                                                                        data-ga="[[\\"Permalink meta\\",\\"Tag click\\",\\"Dropdown tag click\\"]]"
+                                                                        href="/tag/review"
+                                                                        title="Review"
+                                                                        upcase={true}
+                                                                      >
+                                                                        <StyledComponent
+                                                                          className="c16 js_link"
+                                                                          dangerouslySetInnerHTML={null}
+                                                                          data-ga="[[\\"Permalink meta\\",\\"Tag click\\",\\"Dropdown tag click\\"]]"
+                                                                          forwardedComponent={
+                                                                            Object {
+                                                                              "$$typeof": Symbol(react.forward_ref),
+                                                                              "attrs": Array [],
+                                                                              "componentStyle": ComponentStyle {
+                                                                                "componentId": "c4",
+                                                                                "isStatic": true,
+                                                                                "lastClassName": "c5",
+                                                                                "rules": Array [
+                                                                                  "text-decoration:none;",
+                                                                                ],
+                                                                              },
+                                                                              "displayName": "link__Anchor",
+                                                                              "foldedComponentIds": Array [],
+                                                                              "render": [Function],
+                                                                              "styledComponentId": "c4",
+                                                                              "target": "a",
+                                                                              "toString": [Function],
+                                                                              "warnTooManyClasses": [Function],
+                                                                              "withComponent": [Function],
+                                                                            }
+                                                                          }
+                                                                          forwardedRef={null}
+                                                                          href="/tag/review"
+                                                                          title="Review"
+                                                                          upcase={true}
+                                                                        >
+                                                                          <a
+                                                                            className="c16 js_link c4 c5"
+                                                                            dangerouslySetInnerHTML={null}
+                                                                            data-ga="[[\\"Permalink meta\\",\\"Tag click\\",\\"Dropdown tag click\\"]]"
+                                                                            href="/tag/review"
+                                                                            title="Review"
+                                                                          >
+                                                                            Review
+                                                                          </a>
+                                                                        </StyledComponent>
+                                                                      </link__Anchor>
+                                                                    </Link>
+                                                                  </StyledComponent>
+                                                                </dropdown-item__DropdownElement>
+                                                              </DropdownItem>
+                                                              <DropdownItem
+                                                                events={
+                                                                  Array [
+                                                                    Array [
+                                                                      "Permalink meta",
+                                                                      "Tag click",
+                                                                      "Dropdown tag click",
+                                                                    ],
+                                                                  ]
+                                                                }
+                                                                href="/tag/nintendo-switch"
+                                                                key="nintendo-switch"
+                                                                title="Nintendo Switch"
+                                                                upcase={true}
+                                                              >
+                                                                <dropdown-item__DropdownElement
+                                                                  events={
+                                                                    Array [
+                                                                      Array [
+                                                                        "Permalink meta",
+                                                                        "Tag click",
+                                                                        "Dropdown tag click",
+                                                                      ],
+                                                                    ]
+                                                                  }
+                                                                  href="/tag/nintendo-switch"
+                                                                  title="Nintendo Switch"
+                                                                  upcase={true}
+                                                                >
+                                                                  <StyledComponent
+                                                                    events={
+                                                                      Array [
+                                                                        Array [
+                                                                          "Permalink meta",
+                                                                          "Tag click",
+                                                                          "Dropdown tag click",
+                                                                        ],
+                                                                      ]
+                                                                    }
+                                                                    forwardedComponent={
+                                                                      Object {
+                                                                        "$$typeof": Symbol(react.forward_ref),
+                                                                        "attrs": Array [],
+                                                                        "componentStyle": ComponentStyle {
+                                                                          "componentId": "dropdown-item__DropdownElement-sc-10a86sv-0",
+                                                                          "isStatic": false,
+                                                                          "lastClassName": "c16",
+                                                                          "rules": Array [
+                                                                            "align-items:center;color:",
+                                                                            [Function],
+                                                                            ";cursor:pointer;display:flex;font-size:14px;line-height:2;padding:6px 8px;",
+                                                                            [Function],
+                                                                            " &:first-child{border-top-left-radius:5px;border-top-right-radius:5px;}&:last-child{border-bottom-left-radius:5px;border-bottom-right-radius:5px;}&:hover{background:",
+                                                                            [Function],
+                                                                            ";color:",
+                                                                            [Function],
+                                                                            ";text-decoration:none;}",
+                                                                            ".c11",
+                                                                            "{margin-right:15px;}",
+                                                                          ],
+                                                                        },
+                                                                        "displayName": "dropdown-item__DropdownElement",
+                                                                        "foldedComponentIds": Array [],
+                                                                        "render": [Function],
+                                                                        "styledComponentId": "dropdown-item__DropdownElement-sc-10a86sv-0",
+                                                                        "target": [Function],
+                                                                        "toString": [Function],
+                                                                        "warnTooManyClasses": [Function],
+                                                                        "withComponent": [Function],
+                                                                        Symbol(Symbol.hasInstance): [Function],
+                                                                      }
+                                                                    }
+                                                                    forwardedRef={null}
+                                                                    href="/tag/nintendo-switch"
+                                                                    title="Nintendo Switch"
+                                                                    upcase={true}
+                                                                  >
+                                                                    <Link
+                                                                      className="c16"
+                                                                      events={
+                                                                        Array [
+                                                                          Array [
+                                                                            "Permalink meta",
+                                                                            "Tag click",
+                                                                            "Dropdown tag click",
+                                                                          ],
+                                                                        ]
+                                                                      }
+                                                                      href="/tag/nintendo-switch"
+                                                                      title="Nintendo Switch"
+                                                                      upcase={true}
+                                                                    >
+                                                                      <link__Anchor
+                                                                        className="c16 js_link"
+                                                                        dangerouslySetInnerHTML={null}
+                                                                        data-ga="[[\\"Permalink meta\\",\\"Tag click\\",\\"Dropdown tag click\\"]]"
+                                                                        href="/tag/nintendo-switch"
+                                                                        title="Nintendo Switch"
+                                                                        upcase={true}
+                                                                      >
+                                                                        <StyledComponent
+                                                                          className="c16 js_link"
+                                                                          dangerouslySetInnerHTML={null}
+                                                                          data-ga="[[\\"Permalink meta\\",\\"Tag click\\",\\"Dropdown tag click\\"]]"
+                                                                          forwardedComponent={
+                                                                            Object {
+                                                                              "$$typeof": Symbol(react.forward_ref),
+                                                                              "attrs": Array [],
+                                                                              "componentStyle": ComponentStyle {
+                                                                                "componentId": "c4",
+                                                                                "isStatic": true,
+                                                                                "lastClassName": "c5",
+                                                                                "rules": Array [
+                                                                                  "text-decoration:none;",
+                                                                                ],
+                                                                              },
+                                                                              "displayName": "link__Anchor",
+                                                                              "foldedComponentIds": Array [],
+                                                                              "render": [Function],
+                                                                              "styledComponentId": "c4",
+                                                                              "target": "a",
+                                                                              "toString": [Function],
+                                                                              "warnTooManyClasses": [Function],
+                                                                              "withComponent": [Function],
+                                                                            }
+                                                                          }
+                                                                          forwardedRef={null}
+                                                                          href="/tag/nintendo-switch"
+                                                                          title="Nintendo Switch"
+                                                                          upcase={true}
+                                                                        >
+                                                                          <a
+                                                                            className="c16 js_link c4 c5"
+                                                                            dangerouslySetInnerHTML={null}
+                                                                            data-ga="[[\\"Permalink meta\\",\\"Tag click\\",\\"Dropdown tag click\\"]]"
+                                                                            href="/tag/nintendo-switch"
+                                                                            title="Nintendo Switch"
+                                                                          >
+                                                                            Nintendo Switch
+                                                                          </a>
+                                                                        </StyledComponent>
+                                                                      </link__Anchor>
+                                                                    </Link>
+                                                                  </StyledComponent>
+                                                                </dropdown-item__DropdownElement>
+                                                              </DropdownItem>
+                                                              <DropdownItem
+                                                                events={
+                                                                  Array [
+                                                                    Array [
+                                                                      "Permalink meta",
+                                                                      "Tag click",
+                                                                      "Dropdown tag click",
+                                                                    ],
+                                                                  ]
+                                                                }
+                                                                href="/tag/nintendo"
+                                                                key="nintendo"
+                                                                title="Nintendo"
+                                                                upcase={true}
+                                                              >
+                                                                <dropdown-item__DropdownElement
+                                                                  events={
+                                                                    Array [
+                                                                      Array [
+                                                                        "Permalink meta",
+                                                                        "Tag click",
+                                                                        "Dropdown tag click",
+                                                                      ],
+                                                                    ]
+                                                                  }
+                                                                  href="/tag/nintendo"
+                                                                  title="Nintendo"
+                                                                  upcase={true}
+                                                                >
+                                                                  <StyledComponent
+                                                                    events={
+                                                                      Array [
+                                                                        Array [
+                                                                          "Permalink meta",
+                                                                          "Tag click",
+                                                                          "Dropdown tag click",
+                                                                        ],
+                                                                      ]
+                                                                    }
+                                                                    forwardedComponent={
+                                                                      Object {
+                                                                        "$$typeof": Symbol(react.forward_ref),
+                                                                        "attrs": Array [],
+                                                                        "componentStyle": ComponentStyle {
+                                                                          "componentId": "dropdown-item__DropdownElement-sc-10a86sv-0",
+                                                                          "isStatic": false,
+                                                                          "lastClassName": "c16",
+                                                                          "rules": Array [
+                                                                            "align-items:center;color:",
+                                                                            [Function],
+                                                                            ";cursor:pointer;display:flex;font-size:14px;line-height:2;padding:6px 8px;",
+                                                                            [Function],
+                                                                            " &:first-child{border-top-left-radius:5px;border-top-right-radius:5px;}&:last-child{border-bottom-left-radius:5px;border-bottom-right-radius:5px;}&:hover{background:",
+                                                                            [Function],
+                                                                            ";color:",
+                                                                            [Function],
+                                                                            ";text-decoration:none;}",
+                                                                            ".c11",
+                                                                            "{margin-right:15px;}",
+                                                                          ],
+                                                                        },
+                                                                        "displayName": "dropdown-item__DropdownElement",
+                                                                        "foldedComponentIds": Array [],
+                                                                        "render": [Function],
+                                                                        "styledComponentId": "dropdown-item__DropdownElement-sc-10a86sv-0",
+                                                                        "target": [Function],
+                                                                        "toString": [Function],
+                                                                        "warnTooManyClasses": [Function],
+                                                                        "withComponent": [Function],
+                                                                        Symbol(Symbol.hasInstance): [Function],
+                                                                      }
+                                                                    }
+                                                                    forwardedRef={null}
+                                                                    href="/tag/nintendo"
+                                                                    title="Nintendo"
+                                                                    upcase={true}
+                                                                  >
+                                                                    <Link
+                                                                      className="c16"
+                                                                      events={
+                                                                        Array [
+                                                                          Array [
+                                                                            "Permalink meta",
+                                                                            "Tag click",
+                                                                            "Dropdown tag click",
+                                                                          ],
+                                                                        ]
+                                                                      }
+                                                                      href="/tag/nintendo"
+                                                                      title="Nintendo"
+                                                                      upcase={true}
+                                                                    >
+                                                                      <link__Anchor
+                                                                        className="c16 js_link"
+                                                                        dangerouslySetInnerHTML={null}
+                                                                        data-ga="[[\\"Permalink meta\\",\\"Tag click\\",\\"Dropdown tag click\\"]]"
+                                                                        href="/tag/nintendo"
+                                                                        title="Nintendo"
+                                                                        upcase={true}
+                                                                      >
+                                                                        <StyledComponent
+                                                                          className="c16 js_link"
+                                                                          dangerouslySetInnerHTML={null}
+                                                                          data-ga="[[\\"Permalink meta\\",\\"Tag click\\",\\"Dropdown tag click\\"]]"
+                                                                          forwardedComponent={
+                                                                            Object {
+                                                                              "$$typeof": Symbol(react.forward_ref),
+                                                                              "attrs": Array [],
+                                                                              "componentStyle": ComponentStyle {
+                                                                                "componentId": "c4",
+                                                                                "isStatic": true,
+                                                                                "lastClassName": "c5",
+                                                                                "rules": Array [
+                                                                                  "text-decoration:none;",
+                                                                                ],
+                                                                              },
+                                                                              "displayName": "link__Anchor",
+                                                                              "foldedComponentIds": Array [],
+                                                                              "render": [Function],
+                                                                              "styledComponentId": "c4",
+                                                                              "target": "a",
+                                                                              "toString": [Function],
+                                                                              "warnTooManyClasses": [Function],
+                                                                              "withComponent": [Function],
+                                                                            }
+                                                                          }
+                                                                          forwardedRef={null}
+                                                                          href="/tag/nintendo"
+                                                                          title="Nintendo"
+                                                                          upcase={true}
+                                                                        >
+                                                                          <a
+                                                                            className="c16 js_link c4 c5"
+                                                                            dangerouslySetInnerHTML={null}
+                                                                            data-ga="[[\\"Permalink meta\\",\\"Tag click\\",\\"Dropdown tag click\\"]]"
+                                                                            href="/tag/nintendo"
+                                                                            title="Nintendo"
+                                                                          >
+                                                                            Nintendo
+                                                                          </a>
+                                                                        </StyledComponent>
+                                                                      </link__Anchor>
+                                                                    </Link>
+                                                                  </StyledComponent>
+                                                                </dropdown-item__DropdownElement>
+                                                              </DropdownItem>
+                                                              <DropdownItem
+                                                                events={
+                                                                  Array [
+                                                                    Array [
+                                                                      "Permalink meta",
+                                                                      "Tag click",
+                                                                      "Dropdown tag click",
+                                                                    ],
+                                                                  ]
+                                                                }
+                                                                href="/tag/mario"
+                                                                key="mario"
+                                                                title="Mario"
+                                                                upcase={true}
+                                                              >
+                                                                <dropdown-item__DropdownElement
+                                                                  events={
+                                                                    Array [
+                                                                      Array [
+                                                                        "Permalink meta",
+                                                                        "Tag click",
+                                                                        "Dropdown tag click",
+                                                                      ],
+                                                                    ]
+                                                                  }
+                                                                  href="/tag/mario"
+                                                                  title="Mario"
+                                                                  upcase={true}
+                                                                >
+                                                                  <StyledComponent
+                                                                    events={
+                                                                      Array [
+                                                                        Array [
+                                                                          "Permalink meta",
+                                                                          "Tag click",
+                                                                          "Dropdown tag click",
+                                                                        ],
+                                                                      ]
+                                                                    }
+                                                                    forwardedComponent={
+                                                                      Object {
+                                                                        "$$typeof": Symbol(react.forward_ref),
+                                                                        "attrs": Array [],
+                                                                        "componentStyle": ComponentStyle {
+                                                                          "componentId": "dropdown-item__DropdownElement-sc-10a86sv-0",
+                                                                          "isStatic": false,
+                                                                          "lastClassName": "c16",
+                                                                          "rules": Array [
+                                                                            "align-items:center;color:",
+                                                                            [Function],
+                                                                            ";cursor:pointer;display:flex;font-size:14px;line-height:2;padding:6px 8px;",
+                                                                            [Function],
+                                                                            " &:first-child{border-top-left-radius:5px;border-top-right-radius:5px;}&:last-child{border-bottom-left-radius:5px;border-bottom-right-radius:5px;}&:hover{background:",
+                                                                            [Function],
+                                                                            ";color:",
+                                                                            [Function],
+                                                                            ";text-decoration:none;}",
+                                                                            ".c11",
+                                                                            "{margin-right:15px;}",
+                                                                          ],
+                                                                        },
+                                                                        "displayName": "dropdown-item__DropdownElement",
+                                                                        "foldedComponentIds": Array [],
+                                                                        "render": [Function],
+                                                                        "styledComponentId": "dropdown-item__DropdownElement-sc-10a86sv-0",
+                                                                        "target": [Function],
+                                                                        "toString": [Function],
+                                                                        "warnTooManyClasses": [Function],
+                                                                        "withComponent": [Function],
+                                                                        Symbol(Symbol.hasInstance): [Function],
+                                                                      }
+                                                                    }
+                                                                    forwardedRef={null}
+                                                                    href="/tag/mario"
+                                                                    title="Mario"
+                                                                    upcase={true}
+                                                                  >
+                                                                    <Link
+                                                                      className="c16"
+                                                                      events={
+                                                                        Array [
+                                                                          Array [
+                                                                            "Permalink meta",
+                                                                            "Tag click",
+                                                                            "Dropdown tag click",
+                                                                          ],
+                                                                        ]
+                                                                      }
+                                                                      href="/tag/mario"
+                                                                      title="Mario"
+                                                                      upcase={true}
+                                                                    >
+                                                                      <link__Anchor
+                                                                        className="c16 js_link"
+                                                                        dangerouslySetInnerHTML={null}
+                                                                        data-ga="[[\\"Permalink meta\\",\\"Tag click\\",\\"Dropdown tag click\\"]]"
+                                                                        href="/tag/mario"
+                                                                        title="Mario"
+                                                                        upcase={true}
+                                                                      >
+                                                                        <StyledComponent
+                                                                          className="c16 js_link"
+                                                                          dangerouslySetInnerHTML={null}
+                                                                          data-ga="[[\\"Permalink meta\\",\\"Tag click\\",\\"Dropdown tag click\\"]]"
+                                                                          forwardedComponent={
+                                                                            Object {
+                                                                              "$$typeof": Symbol(react.forward_ref),
+                                                                              "attrs": Array [],
+                                                                              "componentStyle": ComponentStyle {
+                                                                                "componentId": "c4",
+                                                                                "isStatic": true,
+                                                                                "lastClassName": "c5",
+                                                                                "rules": Array [
+                                                                                  "text-decoration:none;",
+                                                                                ],
+                                                                              },
+                                                                              "displayName": "link__Anchor",
+                                                                              "foldedComponentIds": Array [],
+                                                                              "render": [Function],
+                                                                              "styledComponentId": "c4",
+                                                                              "target": "a",
+                                                                              "toString": [Function],
+                                                                              "warnTooManyClasses": [Function],
+                                                                              "withComponent": [Function],
+                                                                            }
+                                                                          }
+                                                                          forwardedRef={null}
+                                                                          href="/tag/mario"
+                                                                          title="Mario"
+                                                                          upcase={true}
+                                                                        >
+                                                                          <a
+                                                                            className="c16 js_link c4 c5"
+                                                                            dangerouslySetInnerHTML={null}
+                                                                            data-ga="[[\\"Permalink meta\\",\\"Tag click\\",\\"Dropdown tag click\\"]]"
+                                                                            href="/tag/mario"
+                                                                            title="Mario"
+                                                                          >
+                                                                            Mario
+                                                                          </a>
+                                                                        </StyledComponent>
+                                                                      </link__Anchor>
+                                                                    </Link>
+                                                                  </StyledComponent>
+                                                                </dropdown-item__DropdownElement>
+                                                              </DropdownItem>
+                                                              <DropdownItem
+                                                                events={
+                                                                  Array [
+                                                                    Array [
+                                                                      "Permalink meta",
+                                                                      "Tag click",
+                                                                      "Dropdown tag click",
+                                                                    ],
+                                                                  ]
+                                                                }
+                                                                href="/tag/kotakucore"
+                                                                key="kotakucore"
+                                                                title="kotakucore"
+                                                                upcase={true}
+                                                              >
+                                                                <dropdown-item__DropdownElement
+                                                                  events={
+                                                                    Array [
+                                                                      Array [
+                                                                        "Permalink meta",
+                                                                        "Tag click",
+                                                                        "Dropdown tag click",
+                                                                      ],
+                                                                    ]
+                                                                  }
+                                                                  href="/tag/kotakucore"
+                                                                  title="kotakucore"
+                                                                  upcase={true}
+                                                                >
+                                                                  <StyledComponent
+                                                                    events={
+                                                                      Array [
+                                                                        Array [
+                                                                          "Permalink meta",
+                                                                          "Tag click",
+                                                                          "Dropdown tag click",
+                                                                        ],
+                                                                      ]
+                                                                    }
+                                                                    forwardedComponent={
+                                                                      Object {
+                                                                        "$$typeof": Symbol(react.forward_ref),
+                                                                        "attrs": Array [],
+                                                                        "componentStyle": ComponentStyle {
+                                                                          "componentId": "dropdown-item__DropdownElement-sc-10a86sv-0",
+                                                                          "isStatic": false,
+                                                                          "lastClassName": "c16",
+                                                                          "rules": Array [
+                                                                            "align-items:center;color:",
+                                                                            [Function],
+                                                                            ";cursor:pointer;display:flex;font-size:14px;line-height:2;padding:6px 8px;",
+                                                                            [Function],
+                                                                            " &:first-child{border-top-left-radius:5px;border-top-right-radius:5px;}&:last-child{border-bottom-left-radius:5px;border-bottom-right-radius:5px;}&:hover{background:",
+                                                                            [Function],
+                                                                            ";color:",
+                                                                            [Function],
+                                                                            ";text-decoration:none;}",
+                                                                            ".c11",
+                                                                            "{margin-right:15px;}",
+                                                                          ],
+                                                                        },
+                                                                        "displayName": "dropdown-item__DropdownElement",
+                                                                        "foldedComponentIds": Array [],
+                                                                        "render": [Function],
+                                                                        "styledComponentId": "dropdown-item__DropdownElement-sc-10a86sv-0",
+                                                                        "target": [Function],
+                                                                        "toString": [Function],
+                                                                        "warnTooManyClasses": [Function],
+                                                                        "withComponent": [Function],
+                                                                        Symbol(Symbol.hasInstance): [Function],
+                                                                      }
+                                                                    }
+                                                                    forwardedRef={null}
+                                                                    href="/tag/kotakucore"
+                                                                    title="kotakucore"
+                                                                    upcase={true}
+                                                                  >
+                                                                    <Link
+                                                                      className="c16"
+                                                                      events={
+                                                                        Array [
+                                                                          Array [
+                                                                            "Permalink meta",
+                                                                            "Tag click",
+                                                                            "Dropdown tag click",
+                                                                          ],
+                                                                        ]
+                                                                      }
+                                                                      href="/tag/kotakucore"
+                                                                      title="kotakucore"
+                                                                      upcase={true}
+                                                                    >
+                                                                      <link__Anchor
+                                                                        className="c16 js_link"
+                                                                        dangerouslySetInnerHTML={null}
+                                                                        data-ga="[[\\"Permalink meta\\",\\"Tag click\\",\\"Dropdown tag click\\"]]"
+                                                                        href="/tag/kotakucore"
+                                                                        title="kotakucore"
+                                                                        upcase={true}
+                                                                      >
+                                                                        <StyledComponent
+                                                                          className="c16 js_link"
+                                                                          dangerouslySetInnerHTML={null}
+                                                                          data-ga="[[\\"Permalink meta\\",\\"Tag click\\",\\"Dropdown tag click\\"]]"
+                                                                          forwardedComponent={
+                                                                            Object {
+                                                                              "$$typeof": Symbol(react.forward_ref),
+                                                                              "attrs": Array [],
+                                                                              "componentStyle": ComponentStyle {
+                                                                                "componentId": "c4",
+                                                                                "isStatic": true,
+                                                                                "lastClassName": "c5",
+                                                                                "rules": Array [
+                                                                                  "text-decoration:none;",
+                                                                                ],
+                                                                              },
+                                                                              "displayName": "link__Anchor",
+                                                                              "foldedComponentIds": Array [],
+                                                                              "render": [Function],
+                                                                              "styledComponentId": "c4",
+                                                                              "target": "a",
+                                                                              "toString": [Function],
+                                                                              "warnTooManyClasses": [Function],
+                                                                              "withComponent": [Function],
+                                                                            }
+                                                                          }
+                                                                          forwardedRef={null}
+                                                                          href="/tag/kotakucore"
+                                                                          title="kotakucore"
+                                                                          upcase={true}
+                                                                        >
+                                                                          <a
+                                                                            className="c16 js_link c4 c5"
+                                                                            dangerouslySetInnerHTML={null}
+                                                                            data-ga="[[\\"Permalink meta\\",\\"Tag click\\",\\"Dropdown tag click\\"]]"
+                                                                            href="/tag/kotakucore"
+                                                                            title="kotakucore"
+                                                                          >
+                                                                            kotakucore
+                                                                          </a>
+                                                                        </StyledComponent>
+                                                                      </link__Anchor>
+                                                                    </Link>
+                                                                  </StyledComponent>
+                                                                </dropdown-item__DropdownElement>
+                                                              </DropdownItem>
+                                                            </div>
+                                                          </StyledComponent>
+                                                        </dropdown__DropdownContainer>
+                                                      </div>
+                                                    </StyledComponent>
+                                                  </dropdown__DropdownWrapper>
+                                                </div>
+                                              </StyledComponent>
+                                            </dropdown__TriggerContainer>
+                                          </Component>
+                                        </ClickOutside(Component)>
+                                      </Dropdown>
+                                    </div>
+                                  </ThemeProvider>
+                                </EnsureDefaultTheme>
+                              </TagDropdown>
+                            </div>
+                          </StyledComponent>
+                        </permalink-byline__TagsContainer>
+                      </div>
+                    </StyledComponent>
+                  </permalink-byline__TimeAndTags>
+                </div>
+              </StyledComponent>
+            </permalink-byline__RightOfAvatarContainer>
+          </div>
+        </StyledComponent>
+      </permalink-byline__BylineContainer>
+    </PermalinkByline>
+  </ThemeProvider>
+</EnsureDefaultTheme>
+`;

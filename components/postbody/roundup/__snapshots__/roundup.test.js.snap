@@ -1,0 +1,213 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Roundup /> should render by default 1`] = `
+<div>
+  <EnsureDefaultTheme
+    key="https://www.clickhole.com/ditch-the-dating-apps-5-real-life-places-to-meet-my-wi-1832472134"
+  >
+    <roundup__RoundupItems
+      key="https://www.clickhole.com/ditch-the-dating-apps-5-real-life-places-to-meet-my-wi-1832472134"
+    >
+      <roundup__Blog>
+        <WithKinjaMeta
+          nodes={
+            Array [
+              TextNode {
+                "styles": Array [],
+                "type": "Text",
+                "value": "ClickHole",
+              },
+            ]
+          }
+        />
+      </roundup__Blog>
+       
+      <span>
+        <WithKinjaMeta
+          events={
+            Array [
+              Array [
+                "Kinja Roundup",
+                "Story Click",
+                "https://www.clickhole.com/ditch-the-dating-apps-5-real-life-places-to-meet-my-wi-1832472134",
+              ],
+            ]
+          }
+          nodes={
+            Array [
+              LinkNode {
+                "reference": "https://www.clickhole.com/ditch-the-dating-apps-5-real-life-places-to-meet-my-wi-1832472134",
+                "target": undefined,
+                "type": "Link",
+                "value": Array [
+                  TextNode {
+                    "styles": Array [],
+                    "type": "Text",
+                    "value": "Ditch The Dating Apps: 5 Real-Life Places To Meet My Wife",
+                  },
+                ],
+              },
+            ]
+          }
+        />
+      </span>
+       | 
+    </roundup__RoundupItems>
+  </EnsureDefaultTheme>
+  <EnsureDefaultTheme
+    key="https://kotaku.com/tips-for-playing-anthem-1832821302"
+  >
+    <roundup__RoundupItems
+      key="https://kotaku.com/tips-for-playing-anthem-1832821302"
+    >
+      <roundup__Blog>
+        <WithKinjaMeta
+          nodes={
+            Array [
+              TextNode {
+                "styles": Array [],
+                "type": "Text",
+                "value": "Kotaku",
+              },
+            ]
+          }
+        />
+      </roundup__Blog>
+       
+      <span>
+        <WithKinjaMeta
+          events={
+            Array [
+              Array [
+                "Kinja Roundup",
+                "Story Click",
+                "https://kotaku.com/tips-for-playing-anthem-1832821302",
+              ],
+            ]
+          }
+          nodes={
+            Array [
+              LinkNode {
+                "reference": "https://kotaku.com/tips-for-playing-anthem-1832821302",
+                "target": undefined,
+                "type": "Link",
+                "value": Array [
+                  TextNode {
+                    "styles": Array [],
+                    "type": "Text",
+                    "value": "Tips For Playing Anthem",
+                  },
+                ],
+              },
+            ]
+          }
+        />
+      </span>
+       | 
+    </roundup__RoundupItems>
+  </EnsureDefaultTheme>
+  <EnsureDefaultTheme
+    key="https://film.avclub.com/who-do-you-want-to-win-at-the-oscars-1832785878"
+  >
+    <roundup__RoundupItems
+      key="https://film.avclub.com/who-do-you-want-to-win-at-the-oscars-1832785878"
+    >
+      <roundup__Blog>
+        <WithKinjaMeta
+          nodes={
+            Array [
+              TextNode {
+                "styles": Array [],
+                "type": "Text",
+                "value": "The A.V. Club",
+              },
+            ]
+          }
+        />
+      </roundup__Blog>
+       
+      <span>
+        <WithKinjaMeta
+          events={
+            Array [
+              Array [
+                "Kinja Roundup",
+                "Story Click",
+                "https://film.avclub.com/who-do-you-want-to-win-at-the-oscars-1832785878",
+              ],
+            ]
+          }
+          nodes={
+            Array [
+              LinkNode {
+                "reference": "https://film.avclub.com/who-do-you-want-to-win-at-the-oscars-1832785878",
+                "target": undefined,
+                "type": "Link",
+                "value": Array [
+                  TextNode {
+                    "styles": Array [],
+                    "type": "Text",
+                    "value": "Who do you want to win at the Oscars?",
+                  },
+                ],
+              },
+            ]
+          }
+        />
+      </span>
+       | 
+    </roundup__RoundupItems>
+  </EnsureDefaultTheme>
+  <EnsureDefaultTheme
+    key="https://gizmodo.com/doordash-are-a-bunch-of-snakes-1832805573"
+  >
+    <roundup__RoundupItems
+      key="https://gizmodo.com/doordash-are-a-bunch-of-snakes-1832805573"
+    >
+      <roundup__Blog>
+        <WithKinjaMeta
+          nodes={
+            Array [
+              TextNode {
+                "styles": Array [],
+                "type": "Text",
+                "value": "Gizmodo",
+              },
+            ]
+          }
+        />
+      </roundup__Blog>
+       
+      <span>
+        <WithKinjaMeta
+          events={
+            Array [
+              Array [
+                "Kinja Roundup",
+                "Story Click",
+                "https://gizmodo.com/doordash-are-a-bunch-of-snakes-1832805573",
+              ],
+            ]
+          }
+          nodes={
+            Array [
+              LinkNode {
+                "reference": "https://gizmodo.com/doordash-are-a-bunch-of-snakes-1832805573",
+                "target": undefined,
+                "type": "Link",
+                "value": Array [
+                  TextNode {
+                    "styles": Array [],
+                    "type": "Text",
+                    "value": "DoorDash Is a Bunch of Snakes",
+                  },
+                ],
+              },
+            ]
+          }
+        />
+      </span>
+    </roundup__RoundupItems>
+  </EnsureDefaultTheme>
+</div>
+`;

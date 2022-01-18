@@ -1,0 +1,61 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<PopularPosts /> - Overlay displays a Popular Post's data 1`] = `
+<EnsureDefaultTheme>
+  <popular-post-overlay__Overlay>
+    <popular-post-overlay__OverlayItem>
+      <BookmarkIcon />
+      3
+    </popular-post-overlay__OverlayItem>
+    <popular-post-overlay__OverlayItem>
+      <BubbleIcon />
+      99
+    </popular-post-overlay__OverlayItem>
+    <popular-post-overlay__OverlayItem>
+      <FlameIcon />
+      50
+    </popular-post-overlay__OverlayItem>
+  </popular-post-overlay__Overlay>
+</EnsureDefaultTheme>
+`;
+
+exports[`<PopularPosts /> - Overlay doesn't display likes with prop hideRecommendations 1`] = `
+<EnsureDefaultTheme>
+  <popular-post-overlay__Overlay>
+    <popular-post-overlay__OverlayItem>
+      <BubbleIcon />
+      99
+    </popular-post-overlay__OverlayItem>
+    <popular-post-overlay__OverlayItem>
+      <FlameIcon />
+      50
+    </popular-post-overlay__OverlayItem>
+  </popular-post-overlay__Overlay>
+</EnsureDefaultTheme>
+`;
+
+exports[`<PopularPosts /> - Overlay doesn't display replies with prop commentsDisabled 1`] = `
+<EnsureDefaultTheme>
+  <popular-post-overlay__Overlay>
+    <popular-post-overlay__OverlayItem>
+      <BookmarkIcon />
+      3
+    </popular-post-overlay__OverlayItem>
+    <popular-post-overlay__OverlayItem>
+      <FlameIcon />
+      50
+    </popular-post-overlay__OverlayItem>
+  </popular-post-overlay__Overlay>
+</EnsureDefaultTheme>
+`;
+
+exports[`<PopularPosts /> - Overlay doesn't display values that are 0 1`] = `
+<EnsureDefaultTheme>
+  <popular-post-overlay__Overlay>
+    <popular-post-overlay__OverlayItem>
+      <BubbleIcon />
+      99
+    </popular-post-overlay__OverlayItem>
+  </popular-post-overlay__Overlay>
+</EnsureDefaultTheme>
+`;

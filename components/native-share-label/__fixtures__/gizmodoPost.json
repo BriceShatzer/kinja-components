@@ -1,0 +1,604 @@
+{
+	"id": 1827089751,
+	"permalinkRedirect": null,
+	"parentId": null,
+	"parentAuthorId": null,
+	"parentAuthorIds": [],
+	"starterId": 1827089751,
+	"publishTimeMillis": 1529877600751,
+	"lastUpdateTimeMillis": 1529877602570,
+	"timezone": "America/New_York",
+	"sharedUrl": null,
+	"salesAvatar": null,
+	"sponsored": false,
+	"adSettings": null,
+	"status": "PUBLISHED",
+	"authorId": "5876237249238052635",
+	"authorIds": [
+		"5876237249238052635"
+	],
+	"allowReplies": true,
+	"showAuthorBio": true,
+	"byline": "",
+	"showByline": true,
+	"properties": "{\"headTitleTag\":\"\",\"socialHeadline\":\"\",\"socialDescription\":\"\",\"autoRepostDisabled\":false,\"impactHeader\":{}}",
+	"isFeatured": false,
+	"isVideo": false,
+	"relatedModule": {
+		"headline": "More on Sex",
+		"posts": [
+			{
+				"id": 1672807646
+			},
+			{
+				"id": 1587198553
+			},
+			{
+				"id": 1826179273
+			},
+			{
+				"id": 1825745979
+			},
+			{
+				"id": 1824011480
+			},
+			{
+				"id": 1820335137
+			}
+		],
+		"storyTypes": [],
+		"tags": []
+	},
+	"permalinkHost": "https://gizmodo.com",
+	"permalinkPath": "/creepy-doctor-makes-a-sex-robot-that-kinda-requires-con-1827089751",
+	"defaultBlogId": "4",
+	"approved": true,
+	"headline": "Creepy Doctor Makes a Sex Robot That Kinda Requires Consent",
+	"body": [
+		{
+			"id": "i1aaoafq90juruwuaskv",
+			"format": "jpg",
+			"width": 4080,
+			"height": 2295,
+			"alignment": "Bleed",
+			"caption": [],
+			"syndicationRights": true,
+			"attribution": [
+				{
+					"label": "Photo",
+					"credit": [
+						{
+							"styles": [],
+							"value": "Getty",
+							"type": "Text"
+						}
+					],
+					"source": []
+				}
+			],
+			"lightbox": true,
+			"type": "Image"
+		},
+		{
+			"containers": [],
+			"value": [
+				{
+					"styles": [],
+					"value": "A famous sex robot called Samantha was created for sex, but it wasn’t created to take abuse. Samantha’s creator, Dr. Sergi Santos, introduced a new feature that will render the robot unresponsive if it determines that its human partner is behaving in an overly aggressive manner. But it won’t stop you from fucking it.",
+					"type": "Text"
+				},
+				{
+					"type": "LineBreak"
+				}
+			],
+			"type": "Paragraph"
+		},
+		{
+			"containers": [],
+			"value": [
+				{
+					"reference": "http://www.dailymail.co.uk/sciencetech/article-5855769/Human-like-AI-sex-robots-turn-steamy-encounters-theyre-not-mood.html",
+					"value": [
+						{
+							"styles": [],
+							"value": "According to the Daily Mail",
+							"type": "Text"
+						}
+					],
+					"type": "Link"
+				},
+				{
+					"styles": [],
+					"value": ", the upgrade to the bot was introduced earlier this week at the Life Science Center in Newcastle, England. Dr. Santos, at the urging of his wife, designed a new artificial intelligence system that allows Samantha to interpret a person’s behavior and shut down if it feels like it’s being treated inappropriately. ",
+					"type": "Text"
+				},
+				{
+					"type": "LineBreak"
+				}
+			],
+			"type": "Paragraph"
+		},
+		{
+			"containers": [],
+			"value": [
+				{
+					"styles": [],
+					"value": "The new update is called “dummy mode” (a weird and arguably offensive name choice) and can be activated in a number of situations. If a partner is disrespecting the bot or touching it in an aggressive manner, the motorized parts of Samantha—hands, arms, hips, facial expressions, etc.—will shut down and it will become unresponsive. It will also enter into dummy mode if it is feeling bored by its partner’s advances.",
+					"type": "Text"
+				}
+			],
+			"type": "Paragraph"
+		},
+		{
+			"containers": [],
+			"value": [
+				{
+					"styles": [],
+					"value": "While the mode might, in theory, help encourage sex bot owners to treat their robotic partners—and, in turn, humans—with more respect, it probably won’t. While Samantha can render itself unresponsive, it can’t actually prevent its partner from having sex. There are no repercussions for the person if they choose to just go to town on the motionless robot, which seems like it might be teaching the exact opposite of the intended lesson.",
+					"type": "Text"
+				},
+				{
+					"type": "LineBreak"
+				}
+			],
+			"type": "Paragraph"
+		},
+		{
+			"containers": [],
+			"value": [
+				{
+					"styles": [],
+					"value": "If you’re familiar with the history of Samantha, it’s probably not that surprising to learn that the “dummy mode,” which theoretically encourages partners to get consent before engaging in sex with their robots, isn’t as effective as suggested. Dr. Santos, the creator of Samantha, has a pretty fucked up perspective on sex. He created the doll to satisfy his sexual urges that, ",
+					"type": "Text"
+				},
+				{
+					"reference": "http://www.dailymail.co.uk/sciencetech/article-5855769/Human-like-AI-sex-robots-turn-steamy-encounters-theyre-not-mood.html",
+					"value": [
+						{
+							"styles": [],
+							"value": "according to the Daily Mail",
+							"type": "Text"
+						}
+					],
+					"type": "Link"
+				},
+				{
+					"styles": [],
+					"value": ", his wife wasn’t meeting and he claims that it has saved his marriage. ",
+					"type": "Text"
+				},
+				{
+					"type": "LineBreak"
+				}
+			],
+			"type": "Paragraph"
+		},
+		{
+			"containers": [],
+			"value": [
+				{
+					"styles": [],
+					"value": "“For me, humans are not enough,” he ",
+					"type": "Text"
+				},
+				{
+					"reference": "https://www.thesun.co.uk/news/6004008/man-claims-sex-robots-save-marriages/",
+					"target": "_blank",
+					"value": [
+						{
+							"styles": [],
+							"value": "told",
+							"type": "Text"
+						}
+					],
+					"type": "Link"
+				},
+				{
+					"reference": "https://www.thesun.co.uk/news/6004008/man-claims-sex-robots-save-marriages/",
+					"value": [
+						{
+							"styles": [],
+							"value": " ",
+							"type": "Text"
+						},
+						{
+							"styles": [
+								"Italic"
+							],
+							"value": "The Sun",
+							"type": "Text"
+						}
+					],
+					"type": "Link"
+				},
+				{
+					"styles": [],
+					"value": " earlier this year. “I need sex some times of the day that my wife doesn’t want to.” He went on to say that women and men “view sex in a very different way” because “Men want more sex,” and “a man wants to feel, in general, that the woman is desperate to have sex with him.” Oh. Uh. Yikes.",
+					"type": "Text"
+				},
+				{
+					"type": "LineBreak"
+				}
+			],
+			"type": "Paragraph"
+		},
+		{
+			"containers": [],
+			"value": [
+				{
+					"styles": [],
+					"value": "A friendly interpretation of Santos’ view might suggest that he understands sexual urges are natural and he just thinks people need to have an outlet to engage and fulfill those needs. And then you find out that, ",
+					"type": "Text"
+				},
+				{
+					"reference": "http://www.dailymail.co.uk/sciencetech/article-5855769/Human-like-AI-sex-robots-turn-steamy-encounters-theyre-not-mood.html",
+					"value": [
+						{
+							"styles": [],
+							"value": "per the Daily Mail",
+							"type": "Text"
+						}
+					],
+					"type": "Link"
+				},
+				{
+					"styles": [],
+					"value": ", he said he would be jealous if his wife had sex with a male robot, and it becomes clear he’s just a creep who wants to fuck a robot.",
+					"type": "Text"
+				},
+				{
+					"type": "LineBreak"
+				}
+			],
+			"type": "Paragraph"
+		},
+		{
+			"containers": [],
+			"value": [
+				{
+					"styles": [],
+					"value": "It also seems likely that Santos’ decision to introduce “dummy” mode may have come in response to an experience he had showing off the sex robot at a tech convention. Samantha was touched and groped by passersby, which caused Santos to freak out. The ",
+					"type": "Text"
+				},
+				{
+					"reference": "https://www.dailystar.co.uk/news/latest-news/652120/sex-robot-groped-public-meet-greet-barcelona-sergi-santos-synthea-amatus",
+					"value": [
+						{
+							"styles": [],
+							"value": "Daily Star Online reported",
+							"type": "Text"
+						}
+					],
+					"type": "Link"
+				},
+				{
+					"styles": [],
+					"value": " that he started shouting at people and say Samantha “is not a fucking toy.”",
+					"type": "Text"
+				}
+			],
+			"type": "Paragraph"
+		},
+		{
+			"containers": [],
+			"value": [
+				{
+					"styles": [],
+					"value": "Sex with robots, including the dead-eyed Samantha, is probably not the healthiest option for if you’re looking for a sex-positive option. A ",
+					"type": "Text"
+				},
+				{
+					"reference": "https://srh.bmj.com/content/early/2018/04/24/bmjsrh-2017-200012",
+					"value": [
+						{
+							"styles": [],
+							"value": "report in the ",
+							"type": "Text"
+						},
+						{
+							"styles": [
+								"Italic"
+							],
+							"value": "British Medical Journal",
+							"type": "Text"
+						}
+					],
+					"type": "Link"
+				},
+				{
+					"styles": [],
+					"value": " found that there is no evidence that sex robots have any sort of positive outcomes on sexuality in general. The researchers found there is little credible evidence to show they curb sex trafficking or promote healthier sexual practices, and in some cases may even be harmful as most bots conform to a conventional view of body attractiveness. ",
+					"type": "Text"
+				},
+				{
+					"type": "LineBreak"
+				}
+			],
+			"type": "Paragraph"
+		},
+		{
+			"containers": [],
+			"value": [
+				{
+					"styles": [],
+					"value": "If for whatever reason you’re still interested in picking up a Samantha of your very own, you can buy one from Santos for the low, low price of about $7,000. According to the ",
+					"type": "Text"
+				},
+				{
+					"reference": "https://syntheaamatus.com/shop/",
+					"value": [
+						{
+							"styles": [],
+							"value": "website for the dolls",
+							"type": "Text"
+						}
+					],
+					"type": "Link"
+				},
+				{
+					"styles": [],
+					"value": ", the latest features include non-toxic skin material and “reduced smell.”",
+					"type": "Text"
+				}
+			],
+			"type": "Paragraph"
+		},
+		{
+			"containers": [],
+			"value": [
+				{
+					"styles": [],
+					"value": "[",
+					"type": "Text"
+				},
+				{
+					"reference": "https://www.geek.com/tech/sex-robot-samantha-upgraded-with-moral-code-1743756/",
+					"value": [
+						{
+							"styles": [],
+							"value": "Geek.com",
+							"type": "Text"
+						}
+					],
+					"type": "Link"
+				},
+				{
+					"styles": [],
+					"value": ", ",
+					"type": "Text"
+				},
+				{
+					"reference": "http://www.dailymail.co.uk/sciencetech/article-5855769/Human-like-AI-sex-robots-turn-steamy-encounters-theyre-not-mood.html",
+					"value": [
+						{
+							"styles": [],
+							"value": "Daily Mail",
+							"type": "Text"
+						}
+					],
+					"type": "Link"
+				},
+				{
+					"styles": [],
+					"value": "]",
+					"type": "Text"
+				},
+				{
+					"type": "LineBreak"
+				}
+			],
+			"type": "Paragraph"
+		}
+	],
+	"tags": [
+		{
+			"canonical": "sexrobot",
+			"urlName": "sex-robot",
+			"displayName": "sex robot"
+		},
+		{
+			"canonical": "samantha",
+			"urlName": "samantha",
+			"displayName": "samantha"
+		},
+		{
+			"canonical": "consent",
+			"urlName": "consent",
+			"displayName": "consent"
+		},
+		{
+			"canonical": "sex",
+			"urlName": "sex",
+			"displayName": "sex"
+		}
+	],
+	"images": [
+		{
+			"id": "i1aaoafq90juruwuaskv",
+			"width": 4080,
+			"height": 2295,
+			"format": "jpg"
+		}
+	],
+	"videos": [],
+	"featuredMedia": null,
+	"mainMedia": null,
+	"largeOnStream": false,
+	"relatedPosts": [
+		{
+			"id": 1672807646,
+			"headline": "This is how sex robots would look inside one day (NSFW)",
+			"sharingMainImage": {
+				"src": "UNUSED",
+				"isAnimated": false,
+				"id": "dcbhrkdh5oxqj2dnapgg",
+				"width": 800,
+				"height": 449,
+				"format": "jpg",
+				"frozenFormat": "jpg",
+				"type": "image"
+			},
+			"permalink": "https://sploid.gizmodo.com/this-is-how-sex-robots-would-look-inside-one-day-nsfw-1672807646",
+			"blogGroup": "gizmodo",
+			"defaultBlogId": "487662860",
+			"defaultBlogDisplayName": "Sploid",
+			"defaultBlogRecircGroup": "fmgNonSatire"
+		},
+		{
+			"id": 1587198553,
+			"headline": "Sexbot Slaves: How Sexbots Could Affect Actual Human Relationships",
+			"sharingMainImage": {
+				"src": "UNUSED",
+				"isAnimated": false,
+				"id": "kqucdl1tj4ytjidzqpdc",
+				"width": 800,
+				"height": 451,
+				"format": "jpg",
+				"frozenFormat": "jpg"
+			},
+			"permalink": "https://gizmodo.com/sexbot-slaves-how-sexbots-could-affect-actual-human-re-1587198553",
+			"blogGroup": "gizmodo",
+			"defaultBlogId": "4",
+			"defaultBlogDisplayName": "Gizmodo",
+			"defaultBlogRecircGroup": "fmgNonSatire"
+		},
+		{
+			"id": 1826179273,
+			"headline": "Study: Tinder Users Aren't Having More Casual Sex Than the Average Horny Person",
+			"sharingMainImage": {
+				"src": "UNUSED",
+				"isAnimated": false,
+				"id": "snq3wjcieami2nv6w0kj",
+				"width": 800,
+				"height": 450,
+				"format": "jpg",
+				"frozenFormat": "jpg"
+			},
+			"permalink": "https://gizmodo.com/study-no-one-is-having-sex-on-tinder-1826179273",
+			"blogGroup": "gizmodo",
+			"defaultBlogId": "4",
+			"defaultBlogDisplayName": "Gizmodo",
+			"defaultBlogRecircGroup": "fmgNonSatire"
+		},
+		{
+			"id": 1825745979,
+			"headline": "Birth Control Probably Doesn't Change Who You're Attracted to, Study Finds",
+			"sharingMainImage": {
+				"src": "UNUSED",
+				"isAnimated": false,
+				"id": "wq3gnbyedgkbq8eszohi",
+				"width": 800,
+				"height": 450,
+				"format": "jpg",
+				"frozenFormat": "jpg"
+			},
+			"permalink": "https://gizmodo.com/birth-control-probably-doesnt-change-who-youre-attracte-1825745979",
+			"blogGroup": "gizmodo",
+			"defaultBlogId": "4",
+			"defaultBlogDisplayName": "Gizmodo",
+			"defaultBlogRecircGroup": "fmgNonSatire"
+		},
+		{
+			"id": 1824011480,
+			"headline": "Craigslist Is Shutting Down Its Personals Section",
+			"sharingMainImage": {
+				"src": "UNUSED",
+				"isAnimated": false,
+				"id": "cyafpnectppsmswfgav5",
+				"width": 800,
+				"height": 450,
+				"format": "png",
+				"frozenFormat": "png",
+				"type": "image"
+			},
+			"permalink": "https://gizmodo.com/craigslist-is-shutting-down-its-personals-section-1824011480",
+			"blogGroup": "gizmodo",
+			"defaultBlogId": "4",
+			"defaultBlogDisplayName": "Gizmodo",
+			"defaultBlogRecircGroup": "fmgNonSatire"
+		},
+		{
+			"id": 1820335137,
+			"headline": "Redditors Say Sex Toy App Was Secretly Recording Them",
+			"sharingMainImage": {
+				"src": "UNUSED",
+				"isAnimated": false,
+				"id": "dlxh2uy0h4s91bofeory",
+				"width": 800,
+				"height": 450,
+				"format": "jpg",
+				"frozenFormat": "jpg"
+			},
+			"permalink": "https://gizmodo.com/redditors-say-sex-toy-app-was-secretly-recording-them-1820335137",
+			"blogGroup": "gizmodo",
+			"defaultBlogId": "4",
+			"defaultBlogDisplayName": "Gizmodo",
+			"defaultBlogRecircGroup": "fmgNonSatire"
+		}
+	],
+	"firstSentence": "A famous sex robot called Samantha was created for sex, but it wasn’t created to take abuse. ",
+	"isBlip": false,
+	"length": 3859,
+	"postId": 1827089751,
+	"aboveHeadline": null,
+	"leftOfHeadline": {
+		"src": "UNUSED",
+		"isAnimated": false,
+		"id": "i1aaoafq90juruwuaskv",
+		"width": 320,
+		"height": 180,
+		"format": "jpg",
+		"frozenFormat": "jpg",
+		"type": "image"
+	},
+	"sharingMainImage": {
+		"src": "UNUSED",
+		"isAnimated": false,
+		"id": "i1aaoafq90juruwuaskv",
+		"width": 800,
+		"height": 450,
+		"format": "jpg",
+		"frozenFormat": "jpg"
+	},
+	"plaintext": "A famous sex robot called Samantha was created for sex, but it wasn’t created to take abuse. Samantha’s creator, Dr. Sergi Santos, introduced a new feature that will render the robot unresponsive if it determines that its human partner is behaving in an overly aggressive manner. But it won’t stop you from fucking it.",
+	"author": {
+		"id": "5876237249238052635",
+		"screenName": "ajdellinger",
+		"displayName": "AJ Dellinger",
+		"avatar": {
+			"id": "i7zhlupa678bpyorbwyq",
+			"format": "jpg"
+		}
+	},
+	"authors": [
+		{
+			"id": "5876237249238052635",
+			"screenName": "ajdellinger",
+			"displayName": "AJ Dellinger",
+			"avatar": {
+				"id": "i7zhlupa678bpyorbwyq",
+				"format": "jpg"
+			}
+		}
+	],
+	"parent": null,
+	"starter": null,
+	"storyTypeId": 136,
+	"permalink": "https://gizmodo.com/creepy-doctor-makes-a-sex-robot-that-kinda-requires-con-1827089751",
+	"publishTime": {
+		"timestamp": 1529877600751,
+		"timezone": "America/New_York",
+		"MdyHm": "06/24/2018 18:00",
+		"MdyatHm": "06/24/2018 at 18:00",
+		"rfc822": "Sun, 24 Jun 2018 22:00:00 GMT",
+		"yMdHmsZ": "2018-06-24T18:00:00-04:00",
+		"hmma": "6:00pm",
+		"day": "Sunday",
+		"Mddyyhmma": "6/24/18 6:00pm",
+		"fullDate": "June 24, 2018",
+		"relative": {
+			"amount": null,
+			"type": "yesterday"
+		}
+	}
+}

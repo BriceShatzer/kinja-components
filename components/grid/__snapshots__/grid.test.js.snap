@@ -1,0 +1,765 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Grid /> renders a grid with zones 1`] = `
+<grid__GridWrapper
+  className="grid"
+  style={
+    Object {
+      "gridTemplateColumns": "2fr 1fr 1fr",
+    }
+  }
+>
+  <ZoneComponent
+    Item={[Function]}
+    dragEvents={Object {}}
+    items={
+      Array [
+        Object {
+          "adSenseDisabled": false,
+          "adZone": "",
+          "allowReplies": true,
+          "author": Object {
+            "avatar": Object {
+              "format": "jpg",
+              "id": "ql1l79ncdygfqwckzobr",
+            },
+            "displayName": "Chris Kohler",
+            "id": "5876237249237015770",
+            "screenName": "chriskohler",
+          },
+          "authorScreenName": "chriskohler",
+          "authors": Array [
+            Object {
+              "avatar": Object {
+                "format": "jpg",
+                "id": "ql1l79ncdygfqwckzobr",
+              },
+              "displayName": "Chris Kohler",
+              "id": "5876237249237015770",
+              "screenName": "chriskohler",
+            },
+            Object {
+              "avatar": Object {
+                "format": "jpg",
+                "id": "udtnp2grvcczvcr1ajsc",
+              },
+              "displayName": "Gordon Jackson",
+              "id": "5799958939291581341",
+              "screenName": "gordonmjackson",
+            },
+            Object {
+              "avatar": Object {
+                "format": "jpg",
+                "id": "pi7epaqjwbe9gotsjvs2",
+              },
+              "displayName": "Victoria Song",
+              "id": "5876237249238337793",
+              "screenName": "vsong",
+            },
+          ],
+          "byline": "",
+          "defaultBlogId": "9",
+          "discussionSettings": null,
+          "doNotCrawl": false,
+          "facebookImage": Object {
+            "format": "jpg",
+            "height": 357,
+            "id": "cjnv04lsotvdabk32tyt",
+            "src": "https://i.kinja-img.com/gawker-media/image/upload/s--0QXBj7yU--/c_fit,fl_progressive,q_80,w_636/cjnv04lsotvdabk32tyt.jpg",
+            "width": 636,
+          },
+          "first100Characters": "For Mario, 3D used to mean freedom. In 1996, Super Mario 64 broke Nintendo’s mascot from the shackle",
+          "firstSentence": "For Mario, 3D used to mean freedom. ",
+          "gaDimensions": Object {
+            "gaVideoIds": "kinjavideo-3384608",
+            "wordCount": 1757,
+            "wordCountBucket": "1600 - 1800",
+          },
+          "hasFeaturedVideo": false,
+          "headline": "<i>Super Mario Odyssey</i>: The Kotaku Review",
+          "id": 1819856086,
+          "images": Array [
+            Object {
+              "format": "jpg",
+              "height": 357,
+              "id": "w5tdejxht9bd9azy1tdl",
+              "src": "https://i.kinja-img.com/gawker-media/image/upload/s--RQQBbVuY--/c_fit,fl_progressive,q_80,w_636/w5tdejxht9bd9azy1tdl.jpg",
+              "width": 636,
+            },
+            Object {
+              "format": "jpg",
+              "height": 357,
+              "id": "gu6pddl55kstu2wvysjr",
+              "src": "https://i.kinja-img.com/gawker-media/image/upload/s--l9JaggL4--/c_fit,fl_progressive,q_80,w_636/gu6pddl55kstu2wvysjr.jpg",
+              "width": 636,
+            },
+            Object {
+              "format": "jpg",
+              "height": 357,
+              "id": "rl8v2eeugbmgxyrqttlm",
+              "src": "https://i.kinja-img.com/gawker-media/image/upload/s--m0HXlpAU--/c_fit,fl_progressive,q_80,w_636/rl8v2eeugbmgxyrqttlm.jpg",
+              "width": 636,
+            },
+            Object {
+              "format": "jpg",
+              "height": 357,
+              "id": "bdxxiezrhvq6ogx1an0j",
+              "src": "https://i.kinja-img.com/gawker-media/image/upload/s--XS4zIJDG--/c_fit,fl_progressive,q_80,w_636/bdxxiezrhvq6ogx1an0j.jpg",
+              "width": 636,
+            },
+            Object {
+              "format": "jpg",
+              "height": 357,
+              "id": "xs8w3sqz25mkk69g3qgg",
+              "src": "https://i.kinja-img.com/gawker-media/image/upload/s--j1goHN8N--/c_fit,fl_progressive,q_80,w_636/xs8w3sqz25mkk69g3qgg.jpg",
+              "width": 636,
+            },
+          ],
+          "isFeatured": true,
+          "isStarter": true,
+          "isVideo": false,
+          "mainMedia": null,
+          "permalink": "https://kotaku.com/super-mario-odyssey-the-kotaku-review-1819856086",
+          "plaintext": "For Mario, 3D used to mean freedom. In 1996, Super Mario 64 broke Nintendo’s mascot from the shackles of having to run in a straight line, letting the player choose their own path. But for quite some time now—no matter how 3D the graphics may have been—Mario’s adventures have reverted back to running on a straight line. With Super Mario Odyssey, that changes once more, and it’s a glorious thing.",
+          "publishTimeMillis": 1509022800086,
+          "qaMembers": Array [],
+          "qaParticipants": Array [],
+          "qaStatus": null,
+          "replyCount": 405,
+          "securePermalink": "https://kotaku.com/super-mario-odyssey-the-kotaku-review-1819856086",
+          "sharingMainImage": Object {
+            "src": "https://i.kinja-img.com/gawker-media/image/upload/s--RQQBbVuY--/c_fit,fl_progressive,q_80,w_636/w5tdejxht9bd9azy1tdl.jpg",
+          },
+          "showByline": true,
+          "socialHeadline": "Super Mario Odyssey: The Kotaku Review",
+          "sponsored": false,
+          "staffIncluded": false,
+          "status": "PUBLISHED",
+          "storyType": Object {
+            "blogId": 9,
+            "canonical": "review",
+            "content": "Standard",
+            "id": 69,
+            "title": "Review",
+          },
+          "tags": Array [
+            Object {
+              "canonical": "supermarioodyssey",
+              "displayName": "Super Mario Odyssey",
+              "urlName": "super-mario-odyssey",
+            },
+            Object {
+              "canonical": "review",
+              "displayName": "Review",
+              "urlName": "review",
+            },
+            Object {
+              "canonical": "nintendoswitch",
+              "displayName": "Nintendo Switch",
+              "urlName": "nintendo-switch",
+            },
+            Object {
+              "canonical": "nintendo",
+              "displayName": "Nintendo",
+              "urlName": "nintendo",
+            },
+            Object {
+              "canonical": "mario",
+              "displayName": "Mario",
+              "urlName": "mario",
+            },
+            Object {
+              "canonical": "kotakucore",
+              "displayName": "kotakucore",
+              "urlName": "kotakucore",
+            },
+          ],
+          "timezone": "America/New_York",
+          "twitterCardType": "summary_large_image",
+          "videos": Array [
+            Object {
+              "embedCode": null,
+              "height": null,
+              "id": null,
+              "src": "kinjavideo://3384608",
+              "thumbnails": Array [
+                Object {
+                  "format": "jpg",
+                  "id": "d7decixzdvsos96keany",
+                },
+              ],
+              "type": "kinjavideo",
+              "width": null,
+            },
+          ],
+        },
+      ]
+    }
+    key="0"
+    showTertBorders={true}
+    zoneIndex={0}
+    zoneSize="big"
+  />
+  <ZoneComponent
+    Item={[Function]}
+    dragEvents={Object {}}
+    items={
+      Array [
+        Object {
+          "adSenseDisabled": false,
+          "adZone": "",
+          "allowReplies": true,
+          "author": Object {
+            "avatar": Object {
+              "format": "jpg",
+              "id": "ql1l79ncdygfqwckzobr",
+            },
+            "displayName": "Chris Kohler",
+            "id": "5876237249237015770",
+            "screenName": "chriskohler",
+          },
+          "authorScreenName": "chriskohler",
+          "authors": Array [
+            Object {
+              "avatar": Object {
+                "format": "jpg",
+                "id": "ql1l79ncdygfqwckzobr",
+              },
+              "displayName": "Chris Kohler",
+              "id": "5876237249237015770",
+              "screenName": "chriskohler",
+            },
+            Object {
+              "avatar": Object {
+                "format": "jpg",
+                "id": "udtnp2grvcczvcr1ajsc",
+              },
+              "displayName": "Gordon Jackson",
+              "id": "5799958939291581341",
+              "screenName": "gordonmjackson",
+            },
+            Object {
+              "avatar": Object {
+                "format": "jpg",
+                "id": "pi7epaqjwbe9gotsjvs2",
+              },
+              "displayName": "Victoria Song",
+              "id": "5876237249238337793",
+              "screenName": "vsong",
+            },
+          ],
+          "byline": "",
+          "defaultBlogId": "9",
+          "discussionSettings": null,
+          "doNotCrawl": false,
+          "facebookImage": Object {
+            "format": "jpg",
+            "height": 357,
+            "id": "cjnv04lsotvdabk32tyt",
+            "src": "https://i.kinja-img.com/gawker-media/image/upload/s--0QXBj7yU--/c_fit,fl_progressive,q_80,w_636/cjnv04lsotvdabk32tyt.jpg",
+            "width": 636,
+          },
+          "first100Characters": "For Mario, 3D used to mean freedom. In 1996, Super Mario 64 broke Nintendo’s mascot from the shackle",
+          "firstSentence": "For Mario, 3D used to mean freedom. ",
+          "gaDimensions": Object {
+            "gaVideoIds": "kinjavideo-3384608",
+            "wordCount": 1757,
+            "wordCountBucket": "1600 - 1800",
+          },
+          "hasFeaturedVideo": false,
+          "headline": "<i>Super Mario Odyssey</i>: The Kotaku Review",
+          "id": 1819856086,
+          "images": Array [
+            Object {
+              "format": "jpg",
+              "height": 357,
+              "id": "w5tdejxht9bd9azy1tdl",
+              "src": "https://i.kinja-img.com/gawker-media/image/upload/s--RQQBbVuY--/c_fit,fl_progressive,q_80,w_636/w5tdejxht9bd9azy1tdl.jpg",
+              "width": 636,
+            },
+            Object {
+              "format": "jpg",
+              "height": 357,
+              "id": "gu6pddl55kstu2wvysjr",
+              "src": "https://i.kinja-img.com/gawker-media/image/upload/s--l9JaggL4--/c_fit,fl_progressive,q_80,w_636/gu6pddl55kstu2wvysjr.jpg",
+              "width": 636,
+            },
+            Object {
+              "format": "jpg",
+              "height": 357,
+              "id": "rl8v2eeugbmgxyrqttlm",
+              "src": "https://i.kinja-img.com/gawker-media/image/upload/s--m0HXlpAU--/c_fit,fl_progressive,q_80,w_636/rl8v2eeugbmgxyrqttlm.jpg",
+              "width": 636,
+            },
+            Object {
+              "format": "jpg",
+              "height": 357,
+              "id": "bdxxiezrhvq6ogx1an0j",
+              "src": "https://i.kinja-img.com/gawker-media/image/upload/s--XS4zIJDG--/c_fit,fl_progressive,q_80,w_636/bdxxiezrhvq6ogx1an0j.jpg",
+              "width": 636,
+            },
+            Object {
+              "format": "jpg",
+              "height": 357,
+              "id": "xs8w3sqz25mkk69g3qgg",
+              "src": "https://i.kinja-img.com/gawker-media/image/upload/s--j1goHN8N--/c_fit,fl_progressive,q_80,w_636/xs8w3sqz25mkk69g3qgg.jpg",
+              "width": 636,
+            },
+          ],
+          "isFeatured": true,
+          "isStarter": true,
+          "isVideo": false,
+          "mainMedia": null,
+          "permalink": "https://kotaku.com/super-mario-odyssey-the-kotaku-review-1819856086",
+          "plaintext": "For Mario, 3D used to mean freedom. In 1996, Super Mario 64 broke Nintendo’s mascot from the shackles of having to run in a straight line, letting the player choose their own path. But for quite some time now—no matter how 3D the graphics may have been—Mario’s adventures have reverted back to running on a straight line. With Super Mario Odyssey, that changes once more, and it’s a glorious thing.",
+          "publishTimeMillis": 1509022800086,
+          "qaMembers": Array [],
+          "qaParticipants": Array [],
+          "qaStatus": null,
+          "replyCount": 405,
+          "securePermalink": "https://kotaku.com/super-mario-odyssey-the-kotaku-review-1819856086",
+          "sharingMainImage": Object {
+            "src": "https://i.kinja-img.com/gawker-media/image/upload/s--RQQBbVuY--/c_fit,fl_progressive,q_80,w_636/w5tdejxht9bd9azy1tdl.jpg",
+          },
+          "showByline": true,
+          "socialHeadline": "Super Mario Odyssey: The Kotaku Review",
+          "sponsored": false,
+          "staffIncluded": false,
+          "status": "PUBLISHED",
+          "storyType": Object {
+            "blogId": 9,
+            "canonical": "review",
+            "content": "Standard",
+            "id": 69,
+            "title": "Review",
+          },
+          "tags": Array [
+            Object {
+              "canonical": "supermarioodyssey",
+              "displayName": "Super Mario Odyssey",
+              "urlName": "super-mario-odyssey",
+            },
+            Object {
+              "canonical": "review",
+              "displayName": "Review",
+              "urlName": "review",
+            },
+            Object {
+              "canonical": "nintendoswitch",
+              "displayName": "Nintendo Switch",
+              "urlName": "nintendo-switch",
+            },
+            Object {
+              "canonical": "nintendo",
+              "displayName": "Nintendo",
+              "urlName": "nintendo",
+            },
+            Object {
+              "canonical": "mario",
+              "displayName": "Mario",
+              "urlName": "mario",
+            },
+            Object {
+              "canonical": "kotakucore",
+              "displayName": "kotakucore",
+              "urlName": "kotakucore",
+            },
+          ],
+          "timezone": "America/New_York",
+          "twitterCardType": "summary_large_image",
+          "videos": Array [
+            Object {
+              "embedCode": null,
+              "height": null,
+              "id": null,
+              "src": "kinjavideo://3384608",
+              "thumbnails": Array [
+                Object {
+                  "format": "jpg",
+                  "id": "d7decixzdvsos96keany",
+                },
+              ],
+              "type": "kinjavideo",
+              "width": null,
+            },
+          ],
+        },
+      ]
+    }
+    key="1"
+    showTertBorders={true}
+    zoneIndex={1}
+    zoneSize=""
+  />
+  <ZoneComponent
+    Item={[Function]}
+    dragEvents={Object {}}
+    items={
+      Array [
+        Object {
+          "adSenseDisabled": false,
+          "adZone": "",
+          "allowReplies": true,
+          "author": Object {
+            "avatar": Object {
+              "format": "jpg",
+              "id": "ql1l79ncdygfqwckzobr",
+            },
+            "displayName": "Chris Kohler",
+            "id": "5876237249237015770",
+            "screenName": "chriskohler",
+          },
+          "authorScreenName": "chriskohler",
+          "authors": Array [
+            Object {
+              "avatar": Object {
+                "format": "jpg",
+                "id": "ql1l79ncdygfqwckzobr",
+              },
+              "displayName": "Chris Kohler",
+              "id": "5876237249237015770",
+              "screenName": "chriskohler",
+            },
+            Object {
+              "avatar": Object {
+                "format": "jpg",
+                "id": "udtnp2grvcczvcr1ajsc",
+              },
+              "displayName": "Gordon Jackson",
+              "id": "5799958939291581341",
+              "screenName": "gordonmjackson",
+            },
+            Object {
+              "avatar": Object {
+                "format": "jpg",
+                "id": "pi7epaqjwbe9gotsjvs2",
+              },
+              "displayName": "Victoria Song",
+              "id": "5876237249238337793",
+              "screenName": "vsong",
+            },
+          ],
+          "byline": "",
+          "defaultBlogId": "9",
+          "discussionSettings": null,
+          "doNotCrawl": false,
+          "facebookImage": Object {
+            "format": "jpg",
+            "height": 357,
+            "id": "cjnv04lsotvdabk32tyt",
+            "src": "https://i.kinja-img.com/gawker-media/image/upload/s--0QXBj7yU--/c_fit,fl_progressive,q_80,w_636/cjnv04lsotvdabk32tyt.jpg",
+            "width": 636,
+          },
+          "first100Characters": "For Mario, 3D used to mean freedom. In 1996, Super Mario 64 broke Nintendo’s mascot from the shackle",
+          "firstSentence": "For Mario, 3D used to mean freedom. ",
+          "gaDimensions": Object {
+            "gaVideoIds": "kinjavideo-3384608",
+            "wordCount": 1757,
+            "wordCountBucket": "1600 - 1800",
+          },
+          "hasFeaturedVideo": false,
+          "headline": "<i>Super Mario Odyssey</i>: The Kotaku Review",
+          "id": 1819856086,
+          "images": Array [
+            Object {
+              "format": "jpg",
+              "height": 357,
+              "id": "w5tdejxht9bd9azy1tdl",
+              "src": "https://i.kinja-img.com/gawker-media/image/upload/s--RQQBbVuY--/c_fit,fl_progressive,q_80,w_636/w5tdejxht9bd9azy1tdl.jpg",
+              "width": 636,
+            },
+            Object {
+              "format": "jpg",
+              "height": 357,
+              "id": "gu6pddl55kstu2wvysjr",
+              "src": "https://i.kinja-img.com/gawker-media/image/upload/s--l9JaggL4--/c_fit,fl_progressive,q_80,w_636/gu6pddl55kstu2wvysjr.jpg",
+              "width": 636,
+            },
+            Object {
+              "format": "jpg",
+              "height": 357,
+              "id": "rl8v2eeugbmgxyrqttlm",
+              "src": "https://i.kinja-img.com/gawker-media/image/upload/s--m0HXlpAU--/c_fit,fl_progressive,q_80,w_636/rl8v2eeugbmgxyrqttlm.jpg",
+              "width": 636,
+            },
+            Object {
+              "format": "jpg",
+              "height": 357,
+              "id": "bdxxiezrhvq6ogx1an0j",
+              "src": "https://i.kinja-img.com/gawker-media/image/upload/s--XS4zIJDG--/c_fit,fl_progressive,q_80,w_636/bdxxiezrhvq6ogx1an0j.jpg",
+              "width": 636,
+            },
+            Object {
+              "format": "jpg",
+              "height": 357,
+              "id": "xs8w3sqz25mkk69g3qgg",
+              "src": "https://i.kinja-img.com/gawker-media/image/upload/s--j1goHN8N--/c_fit,fl_progressive,q_80,w_636/xs8w3sqz25mkk69g3qgg.jpg",
+              "width": 636,
+            },
+          ],
+          "isFeatured": true,
+          "isStarter": true,
+          "isVideo": false,
+          "mainMedia": null,
+          "permalink": "https://kotaku.com/super-mario-odyssey-the-kotaku-review-1819856086",
+          "plaintext": "For Mario, 3D used to mean freedom. In 1996, Super Mario 64 broke Nintendo’s mascot from the shackles of having to run in a straight line, letting the player choose their own path. But for quite some time now—no matter how 3D the graphics may have been—Mario’s adventures have reverted back to running on a straight line. With Super Mario Odyssey, that changes once more, and it’s a glorious thing.",
+          "publishTimeMillis": 1509022800086,
+          "qaMembers": Array [],
+          "qaParticipants": Array [],
+          "qaStatus": null,
+          "replyCount": 405,
+          "securePermalink": "https://kotaku.com/super-mario-odyssey-the-kotaku-review-1819856086",
+          "sharingMainImage": Object {
+            "src": "https://i.kinja-img.com/gawker-media/image/upload/s--RQQBbVuY--/c_fit,fl_progressive,q_80,w_636/w5tdejxht9bd9azy1tdl.jpg",
+          },
+          "showByline": true,
+          "socialHeadline": "Super Mario Odyssey: The Kotaku Review",
+          "sponsored": false,
+          "staffIncluded": false,
+          "status": "PUBLISHED",
+          "storyType": Object {
+            "blogId": 9,
+            "canonical": "review",
+            "content": "Standard",
+            "id": 69,
+            "title": "Review",
+          },
+          "tags": Array [
+            Object {
+              "canonical": "supermarioodyssey",
+              "displayName": "Super Mario Odyssey",
+              "urlName": "super-mario-odyssey",
+            },
+            Object {
+              "canonical": "review",
+              "displayName": "Review",
+              "urlName": "review",
+            },
+            Object {
+              "canonical": "nintendoswitch",
+              "displayName": "Nintendo Switch",
+              "urlName": "nintendo-switch",
+            },
+            Object {
+              "canonical": "nintendo",
+              "displayName": "Nintendo",
+              "urlName": "nintendo",
+            },
+            Object {
+              "canonical": "mario",
+              "displayName": "Mario",
+              "urlName": "mario",
+            },
+            Object {
+              "canonical": "kotakucore",
+              "displayName": "kotakucore",
+              "urlName": "kotakucore",
+            },
+          ],
+          "timezone": "America/New_York",
+          "twitterCardType": "summary_large_image",
+          "videos": Array [
+            Object {
+              "embedCode": null,
+              "height": null,
+              "id": null,
+              "src": "kinjavideo://3384608",
+              "thumbnails": Array [
+                Object {
+                  "format": "jpg",
+                  "id": "d7decixzdvsos96keany",
+                },
+              ],
+              "type": "kinjavideo",
+              "width": null,
+            },
+          ],
+        },
+        Object {
+          "adSenseDisabled": false,
+          "adZone": "",
+          "allowReplies": true,
+          "author": Object {
+            "avatar": Object {
+              "format": "jpg",
+              "id": "ql1l79ncdygfqwckzobr",
+            },
+            "displayName": "Chris Kohler",
+            "id": "5876237249237015770",
+            "screenName": "chriskohler",
+          },
+          "authorScreenName": "chriskohler",
+          "authors": Array [
+            Object {
+              "avatar": Object {
+                "format": "jpg",
+                "id": "ql1l79ncdygfqwckzobr",
+              },
+              "displayName": "Chris Kohler",
+              "id": "5876237249237015770",
+              "screenName": "chriskohler",
+            },
+            Object {
+              "avatar": Object {
+                "format": "jpg",
+                "id": "udtnp2grvcczvcr1ajsc",
+              },
+              "displayName": "Gordon Jackson",
+              "id": "5799958939291581341",
+              "screenName": "gordonmjackson",
+            },
+            Object {
+              "avatar": Object {
+                "format": "jpg",
+                "id": "pi7epaqjwbe9gotsjvs2",
+              },
+              "displayName": "Victoria Song",
+              "id": "5876237249238337793",
+              "screenName": "vsong",
+            },
+          ],
+          "byline": "",
+          "defaultBlogId": "9",
+          "discussionSettings": null,
+          "doNotCrawl": false,
+          "facebookImage": Object {
+            "format": "jpg",
+            "height": 357,
+            "id": "cjnv04lsotvdabk32tyt",
+            "src": "https://i.kinja-img.com/gawker-media/image/upload/s--0QXBj7yU--/c_fit,fl_progressive,q_80,w_636/cjnv04lsotvdabk32tyt.jpg",
+            "width": 636,
+          },
+          "first100Characters": "For Mario, 3D used to mean freedom. In 1996, Super Mario 64 broke Nintendo’s mascot from the shackle",
+          "firstSentence": "For Mario, 3D used to mean freedom. ",
+          "gaDimensions": Object {
+            "gaVideoIds": "kinjavideo-3384608",
+            "wordCount": 1757,
+            "wordCountBucket": "1600 - 1800",
+          },
+          "hasFeaturedVideo": false,
+          "headline": "<i>Super Mario Odyssey</i>: The Kotaku Review",
+          "id": 1819856086,
+          "images": Array [
+            Object {
+              "format": "jpg",
+              "height": 357,
+              "id": "w5tdejxht9bd9azy1tdl",
+              "src": "https://i.kinja-img.com/gawker-media/image/upload/s--RQQBbVuY--/c_fit,fl_progressive,q_80,w_636/w5tdejxht9bd9azy1tdl.jpg",
+              "width": 636,
+            },
+            Object {
+              "format": "jpg",
+              "height": 357,
+              "id": "gu6pddl55kstu2wvysjr",
+              "src": "https://i.kinja-img.com/gawker-media/image/upload/s--l9JaggL4--/c_fit,fl_progressive,q_80,w_636/gu6pddl55kstu2wvysjr.jpg",
+              "width": 636,
+            },
+            Object {
+              "format": "jpg",
+              "height": 357,
+              "id": "rl8v2eeugbmgxyrqttlm",
+              "src": "https://i.kinja-img.com/gawker-media/image/upload/s--m0HXlpAU--/c_fit,fl_progressive,q_80,w_636/rl8v2eeugbmgxyrqttlm.jpg",
+              "width": 636,
+            },
+            Object {
+              "format": "jpg",
+              "height": 357,
+              "id": "bdxxiezrhvq6ogx1an0j",
+              "src": "https://i.kinja-img.com/gawker-media/image/upload/s--XS4zIJDG--/c_fit,fl_progressive,q_80,w_636/bdxxiezrhvq6ogx1an0j.jpg",
+              "width": 636,
+            },
+            Object {
+              "format": "jpg",
+              "height": 357,
+              "id": "xs8w3sqz25mkk69g3qgg",
+              "src": "https://i.kinja-img.com/gawker-media/image/upload/s--j1goHN8N--/c_fit,fl_progressive,q_80,w_636/xs8w3sqz25mkk69g3qgg.jpg",
+              "width": 636,
+            },
+          ],
+          "isFeatured": true,
+          "isStarter": true,
+          "isVideo": false,
+          "mainMedia": null,
+          "permalink": "https://kotaku.com/super-mario-odyssey-the-kotaku-review-1819856086",
+          "plaintext": "For Mario, 3D used to mean freedom. In 1996, Super Mario 64 broke Nintendo’s mascot from the shackles of having to run in a straight line, letting the player choose their own path. But for quite some time now—no matter how 3D the graphics may have been—Mario’s adventures have reverted back to running on a straight line. With Super Mario Odyssey, that changes once more, and it’s a glorious thing.",
+          "publishTimeMillis": 1509022800086,
+          "qaMembers": Array [],
+          "qaParticipants": Array [],
+          "qaStatus": null,
+          "replyCount": 405,
+          "securePermalink": "https://kotaku.com/super-mario-odyssey-the-kotaku-review-1819856086",
+          "sharingMainImage": Object {
+            "src": "https://i.kinja-img.com/gawker-media/image/upload/s--RQQBbVuY--/c_fit,fl_progressive,q_80,w_636/w5tdejxht9bd9azy1tdl.jpg",
+          },
+          "showByline": true,
+          "socialHeadline": "Super Mario Odyssey: The Kotaku Review",
+          "sponsored": false,
+          "staffIncluded": false,
+          "status": "PUBLISHED",
+          "storyType": Object {
+            "blogId": 9,
+            "canonical": "review",
+            "content": "Standard",
+            "id": 69,
+            "title": "Review",
+          },
+          "tags": Array [
+            Object {
+              "canonical": "supermarioodyssey",
+              "displayName": "Super Mario Odyssey",
+              "urlName": "super-mario-odyssey",
+            },
+            Object {
+              "canonical": "review",
+              "displayName": "Review",
+              "urlName": "review",
+            },
+            Object {
+              "canonical": "nintendoswitch",
+              "displayName": "Nintendo Switch",
+              "urlName": "nintendo-switch",
+            },
+            Object {
+              "canonical": "nintendo",
+              "displayName": "Nintendo",
+              "urlName": "nintendo",
+            },
+            Object {
+              "canonical": "mario",
+              "displayName": "Mario",
+              "urlName": "mario",
+            },
+            Object {
+              "canonical": "kotakucore",
+              "displayName": "kotakucore",
+              "urlName": "kotakucore",
+            },
+          ],
+          "timezone": "America/New_York",
+          "twitterCardType": "summary_large_image",
+          "videos": Array [
+            Object {
+              "embedCode": null,
+              "height": null,
+              "id": null,
+              "src": "kinjavideo://3384608",
+              "thumbnails": Array [
+                Object {
+                  "format": "jpg",
+                  "id": "d7decixzdvsos96keany",
+                },
+              ],
+              "type": "kinjavideo",
+              "width": null,
+            },
+          ],
+        },
+      ]
+    }
+    key="2"
+    showTertBorders={true}
+    zoneIndex={2}
+    zoneSize="box"
+  />
+</grid__GridWrapper>
+`;

@@ -1,0 +1,1170 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Slideshow <AdSlide /> should disable buttons 1`] = `
+<AdSlide
+  disabled={true}
+/>
+`;
+
+exports[`Slideshow <AdSlide /> should render an ad container 1`] = `
+.c15 {
+  fill: currentColor;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c17 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c17 + svg,
+.c17 + .c14 {
+  margin-left: 4px;
+}
+
+.c13 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  width: 100%;
+  white-space: nowrap;
+  pointer-events: none;
+}
+
+.c13 svg + span {
+  margin-left: 4px;
+}
+
+.c13 .c14 + span {
+  margin-left: 4px;
+}
+
+.c11 {
+  width: 42px;
+  height: 42px;
+  padding: 0;
+  border: transparent 1px solid;
+  border-radius: 50%;
+  border-color: #7D7D7D;
+  color: #666;
+  font-size: 1rem;
+  text-align: center;
+  line-height: 42px;
+  background-color: #FFF;
+  -webkit-transition: background-color 0.2s ease-out,border-color 0.2s ease-out,color 0.2s ease-out;
+  transition: background-color 0.2s ease-out,border-color 0.2s ease-out,color 0.2s ease-out;
+}
+
+.c11 .c12 > svg {
+  margin-bottom: 2px;
+  stroke: #666;
+}
+
+.c11 .c14 {
+  margin-bottom: 2px;
+}
+
+.c11:hover,
+.c11:active,
+.c11:focus {
+  color: #333;
+  border-color: #4a4a4a;
+  background-color: #fff;
+}
+
+.c11:hover .c12 > svg,
+.c11:active .c12 > svg,
+.c11:focus .c12 > svg {
+  stroke: #4d4d4d;
+}
+
+.c16 {
+  width: auto;
+  height: 42px;
+  padding: 0 2rem;
+  border: transparent 1px solid;
+  border-radius: 21px;
+  border-color: #7D7D7D;
+  color: #666;
+  font-size: 1rem;
+  text-align: center;
+  line-height: 42px;
+  background-color: #FFF;
+  -webkit-transition: background-color 0.2s ease-out,border-color 0.2s ease-out,color 0.2s ease-out;
+  transition: background-color 0.2s ease-out,border-color 0.2s ease-out,color 0.2s ease-out;
+}
+
+.c16 .c12 > svg {
+  margin-bottom: 2px;
+  stroke: #666;
+}
+
+.c16 .c14 {
+  margin-bottom: 2px;
+}
+
+.c16:hover,
+.c16:active,
+.c16:focus {
+  color: #333;
+  border-color: #4a4a4a;
+  background-color: #fff;
+}
+
+.c16:hover .c12 > svg,
+.c16:active .c12 > svg,
+.c16:focus .c12 > svg {
+  stroke: #4d4d4d;
+}
+
+.c4 {
+  width: 100%;
+  padding-bottom: 66.6666%;
+  position: relative;
+}
+
+.c0 {
+  -webkit-transition-timing-function: cubic-bezier(0.25,0.1,0.25,1);
+  transition-timing-function: cubic-bezier(0.25,0.1,0.25,1);
+  width: 100%;
+  position: relative;
+  -webkit-flex: 0 0 100%;
+  -ms-flex: 0 0 100%;
+  flex: 0 0 100%;
+}
+
+.c0 .c1 {
+  margin: auto;
+}
+
+.c10 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin-top: 15px;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  width: 300px;
+}
+
+.c7 {
+  text-transform: uppercase;
+}
+
+.c8 {
+  opacity: 0;
+  -webkit-transition: opacity 3s;
+  transition: opacity 3s;
+}
+
+.c6 {
+  margin-bottom: 5px;
+  margin-top: 15px;
+  font-weight: normal;
+}
+
+.c9 {
+  font-size: 16px;
+  font-weight: normal;
+  text-transform: none;
+  line-height: 21px;
+  padding-top: 5px;
+  opacity: 0;
+  -webkit-transition: opacity 3s;
+  transition: opacity 3s;
+}
+
+.c5 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  box-sizing: border-box;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  overflow: hidden;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  color: #7D7D7D;
+  font-size: 14px;
+  font-weight: bold;
+  line-height: 17px;
+}
+
+.c5 .ad-container {
+  width: 300px;
+  height: 250px;
+  background-color: #FFF;
+}
+
+@media only screen and (orientation:landscape) {
+  .c2 {
+    margin: inherit;
+  }
+}
+
+@media only screen and (orientation:landscape) {
+  .c0 {
+    -webkit-box-pack: start;
+    -webkit-justify-content: flex-start;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+  }
+}
+
+@media only screen and (max-width:49.94em) {
+  .c0 .c3 {
+    padding-bottom: 18px;
+  }
+}
+
+@media only screen and (min-width:50em) {
+  .c10 {
+    display: none;
+  }
+}
+
+@media only screen and (max-width:49.94em) {
+  .c7 {
+    -webkit-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+  }
+}
+
+@media only screen and (min-width:50em) {
+  .c8 {
+    display: none;
+  }
+}
+
+@media only screen and (max-width:49.94em) {
+  .c6 {
+    width: 300px;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+  }
+}
+
+@media only screen and (max-width:49.94em) {
+  .c9 {
+    display: none;
+  }
+}
+
+@media only screen and (min-width:50em) {
+  .c5 {
+    background: #222;
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+  }
+}
+
+<AdSlide>
+  <EnsureDefaultTheme>
+    <ThemeProvider
+      theme={[Function]}
+    >
+      <ad-slide__KinjaAdSlide>
+        <StyledComponent
+          forwardedComponent={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": Array [],
+              "componentStyle": ComponentStyle {
+                "componentId": "ad-slide__KinjaAdSlide-nsgyml-0",
+                "isStatic": true,
+                "lastClassName": "c0",
+                "rules": Array [
+                  "transition-timing-function:cubic-bezier(0.25,0.1,0.25,1);width:100%;position:relative;flex:0 0 100%;@media only screen and (orientation:landscape){justify-content:flex-start;}",
+                  ".c1",
+                  "{margin:auto;}",
+                  "@media only screen and ",
+                  "(max-width: 49.94em)",
+                  "{",
+                  "
+		",
+                  ".c3",
+                  " {
+			padding-bottom: 18px;
+		}
+	",
+                  "}",
+                ],
+              },
+              "displayName": "ad-slide__KinjaAdSlide",
+              "foldedComponentIds": Array [
+                "slide__KinjaSlide-sc-7y2kxp-7",
+              ],
+              "render": [Function],
+              "styledComponentId": "ad-slide__KinjaAdSlide-nsgyml-0",
+              "target": "div",
+              "toString": [Function],
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+        >
+          <div
+            className="c0"
+          >
+            <slide__SlideInner>
+              <StyledComponent
+                forwardedComponent={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": Array [],
+                    "componentStyle": ComponentStyle {
+                      "componentId": "c1",
+                      "isStatic": true,
+                      "lastClassName": "c2",
+                      "rules": Array [
+                        "@media only screen and (orientation:landscape){margin:inherit;}",
+                      ],
+                    },
+                    "displayName": "slide__SlideInner",
+                    "foldedComponentIds": Array [],
+                    "render": [Function],
+                    "styledComponentId": "c1",
+                    "target": "div",
+                    "toString": [Function],
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+              >
+                <div
+                  className="c1 c2"
+                >
+                  <slide__SlideContainer
+                    wide={false}
+                  >
+                    <StyledComponent
+                      forwardedComponent={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "attrs": Array [],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "c3",
+                            "isStatic": false,
+                            "lastClassName": "c4",
+                            "rules": Array [
+                              "width:100%;padding-bottom:66.6666%;position:relative;",
+                              [Function],
+                            ],
+                          },
+                          "displayName": "slide__SlideContainer",
+                          "foldedComponentIds": Array [],
+                          "render": [Function],
+                          "styledComponentId": "c3",
+                          "target": "div",
+                          "toString": [Function],
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                      wide={false}
+                    >
+                      <div
+                        className="c3 c4"
+                      >
+                        <ad-slide__SlideAdContainer>
+                          <StyledComponent
+                            forwardedComponent={
+                              Object {
+                                "$$typeof": Symbol(react.forward_ref),
+                                "attrs": Array [],
+                                "componentStyle": ComponentStyle {
+                                  "componentId": "ad-slide__SlideAdContainer-nsgyml-6",
+                                  "isStatic": false,
+                                  "lastClassName": "c5",
+                                  "rules": Array [
+                                    "align-items:center;flex-direction:column;box-sizing:border-box;display:flex;justify-content:center;overflow:hidden;user-select:none;color:",
+                                    [Function],
+                                    ";font-size:14px;font-weight:bold;line-height:17px;",
+                                    "@media only screen and ",
+                                    "(min-width: 50em)",
+                                    "{",
+                                    "
+		background: ",
+                                    [Function],
+                                    ";
+		position: absolute;
+		left: 0;
+		top: 0;
+		right: 0;
+		bottom: 0;
+	",
+                                    "}",
+                                    " .ad-container{width:300px;height:250px;background-color:",
+                                    [Function],
+                                    ";}",
+                                  ],
+                                },
+                                "displayName": "ad-slide__SlideAdContainer",
+                                "foldedComponentIds": Array [],
+                                "render": [Function],
+                                "styledComponentId": "ad-slide__SlideAdContainer-nsgyml-6",
+                                "target": "div",
+                                "toString": [Function],
+                                "warnTooManyClasses": [Function],
+                                "withComponent": [Function],
+                              }
+                            }
+                            forwardedRef={null}
+                          >
+                            <div
+                              className="c5"
+                            >
+                              <ad-slide__SlideAdLabel>
+                                <StyledComponent
+                                  forwardedComponent={
+                                    Object {
+                                      "$$typeof": Symbol(react.forward_ref),
+                                      "attrs": Array [],
+                                      "componentStyle": ComponentStyle {
+                                        "componentId": "ad-slide__SlideAdLabel-nsgyml-4",
+                                        "isStatic": true,
+                                        "lastClassName": "c6",
+                                        "rules": Array [
+                                          "margin-bottom:5px;margin-top:15px;font-weight:normal;",
+                                          "@media only screen and ",
+                                          "(max-width: 49.94em)",
+                                          "{",
+                                          "
+		width: 300px;
+		display: flex;
+	",
+                                          "}",
+                                        ],
+                                      },
+                                      "displayName": "ad-slide__SlideAdLabel",
+                                      "foldedComponentIds": Array [],
+                                      "render": [Function],
+                                      "styledComponentId": "ad-slide__SlideAdLabel-nsgyml-4",
+                                      "target": "div",
+                                      "toString": [Function],
+                                      "warnTooManyClasses": [Function],
+                                      "withComponent": [Function],
+                                    }
+                                  }
+                                  forwardedRef={null}
+                                >
+                                  <div
+                                    className="c6"
+                                  >
+                                    <ad-slide__SlideAdLabelMain>
+                                      <StyledComponent
+                                        forwardedComponent={
+                                          Object {
+                                            "$$typeof": Symbol(react.forward_ref),
+                                            "attrs": Array [],
+                                            "componentStyle": ComponentStyle {
+                                              "componentId": "ad-slide__SlideAdLabelMain-nsgyml-2",
+                                              "isStatic": true,
+                                              "lastClassName": "c7",
+                                              "rules": Array [
+                                                "text-transform:uppercase;",
+                                                "@media only screen and ",
+                                                "(max-width: 49.94em)",
+                                                "{",
+                                                "
+		flex: 1;
+	",
+                                                "}",
+                                              ],
+                                            },
+                                            "displayName": "ad-slide__SlideAdLabelMain",
+                                            "foldedComponentIds": Array [],
+                                            "render": [Function],
+                                            "styledComponentId": "ad-slide__SlideAdLabelMain-nsgyml-2",
+                                            "target": "span",
+                                            "toString": [Function],
+                                            "warnTooManyClasses": [Function],
+                                            "withComponent": [Function],
+                                          }
+                                        }
+                                        forwardedRef={null}
+                                      >
+                                        <span
+                                          className="c7"
+                                        >
+                                          Advertisement
+                                        </span>
+                                      </StyledComponent>
+                                    </ad-slide__SlideAdLabelMain>
+                                    <ad-slide__SlideAdLabelSkip
+                                      enabled={true}
+                                    >
+                                      <StyledComponent
+                                        enabled={true}
+                                        forwardedComponent={
+                                          Object {
+                                            "$$typeof": Symbol(react.forward_ref),
+                                            "attrs": Array [],
+                                            "componentStyle": ComponentStyle {
+                                              "componentId": "ad-slide__SlideAdLabelSkip-nsgyml-3",
+                                              "isStatic": false,
+                                              "lastClassName": "c8",
+                                              "rules": Array [
+                                                "@media only screen and ",
+                                                "(min-width: 50em)",
+                                                "{",
+                                                "
+		display: none;
+	",
+                                                "}",
+                                                " ",
+                                                [Function],
+                                                " ",
+                                                [Function],
+                                              ],
+                                            },
+                                            "displayName": "ad-slide__SlideAdLabelSkip",
+                                            "foldedComponentIds": Array [],
+                                            "render": [Function],
+                                            "styledComponentId": "ad-slide__SlideAdLabelSkip-nsgyml-3",
+                                            "target": "span",
+                                            "toString": [Function],
+                                            "warnTooManyClasses": [Function],
+                                            "withComponent": [Function],
+                                          }
+                                        }
+                                        forwardedRef={null}
+                                      >
+                                        <span
+                                          className="c8"
+                                        >
+                                          You can skip ad after 1 second
+                                        </span>
+                                      </StyledComponent>
+                                    </ad-slide__SlideAdLabelSkip>
+                                  </div>
+                                </StyledComponent>
+                              </ad-slide__SlideAdLabel>
+                              <div
+                                className="ad-container dfp"
+                              />
+                              <div
+                                className="bt-wrapper"
+                                style={
+                                  Object {
+                                    "alignContent": "center",
+                                    "display": "flex",
+                                    "justifyContent": "center",
+                                  }
+                                }
+                              >
+                                <span
+                                  className="bt-uid-tg"
+                                  data-uid="5d1b8a8b47-384"
+                                  style={
+                                    Object {
+                                      "display": "none !important",
+                                      "textAlign": "center",
+                                    }
+                                  }
+                                />
+                              </div>
+                              <ad-slide__SlideAdLabelBottom
+                                enabled={true}
+                              >
+                                <StyledComponent
+                                  enabled={true}
+                                  forwardedComponent={
+                                    Object {
+                                      "$$typeof": Symbol(react.forward_ref),
+                                      "attrs": Array [],
+                                      "componentStyle": ComponentStyle {
+                                        "componentId": "ad-slide__SlideAdLabelBottom-nsgyml-5",
+                                        "isStatic": false,
+                                        "lastClassName": "c9",
+                                        "rules": Array [
+                                          "font-size:16px;font-weight:normal;text-transform:none;line-height:21px;padding-top:5px;",
+                                          "@media only screen and ",
+                                          "(max-width: 49.94em)",
+                                          "{",
+                                          "
+		display: none;
+	",
+                                          "}",
+                                          " ",
+                                          [Function],
+                                          " ",
+                                          [Function],
+                                        ],
+                                      },
+                                      "displayName": "ad-slide__SlideAdLabelBottom",
+                                      "foldedComponentIds": Array [],
+                                      "render": [Function],
+                                      "styledComponentId": "ad-slide__SlideAdLabelBottom-nsgyml-5",
+                                      "target": "div",
+                                      "toString": [Function],
+                                      "warnTooManyClasses": [Function],
+                                      "withComponent": [Function],
+                                    }
+                                  }
+                                  forwardedRef={null}
+                                >
+                                  <div
+                                    className="c9"
+                                  >
+                                    You can go to the next slide after 1 second
+                                  </div>
+                                </StyledComponent>
+                              </ad-slide__SlideAdLabelBottom>
+                              <ad-slide__SlideAdButtons>
+                                <StyledComponent
+                                  forwardedComponent={
+                                    Object {
+                                      "$$typeof": Symbol(react.forward_ref),
+                                      "attrs": Array [],
+                                      "componentStyle": ComponentStyle {
+                                        "componentId": "ad-slide__SlideAdButtons-nsgyml-1",
+                                        "isStatic": true,
+                                        "lastClassName": "c10",
+                                        "rules": Array [
+                                          "display:flex;margin-top:15px;justify-content:space-between;width:300px;",
+                                          "@media only screen and ",
+                                          "(min-width: 50em)",
+                                          "{",
+                                          "
+		display: none;
+	",
+                                          "}",
+                                        ],
+                                      },
+                                      "displayName": "ad-slide__SlideAdButtons",
+                                      "foldedComponentIds": Array [],
+                                      "render": [Function],
+                                      "styledComponentId": "ad-slide__SlideAdButtons-nsgyml-1",
+                                      "target": "div",
+                                      "toString": [Function],
+                                      "warnTooManyClasses": [Function],
+                                      "withComponent": [Function],
+                                    }
+                                  }
+                                  forwardedRef={null}
+                                >
+                                  <div
+                                    className="c10"
+                                  >
+                                    <Button
+                                      icon={<ArrowLeftIcon />}
+                                      sort="circle"
+                                      weight="tertiary"
+                                    >
+                                      <EnsureDefaultTheme>
+                                        <ThemeProvider
+                                          theme={[Function]}
+                                        >
+                                          <Button__ButtonWrapper
+                                            sort="circle"
+                                            weight="tertiary"
+                                          >
+                                            <StyledComponent
+                                              forwardedComponent={
+                                                Object {
+                                                  "$$typeof": Symbol(react.forward_ref),
+                                                  "attrs": Array [],
+                                                  "componentStyle": ComponentStyle {
+                                                    "componentId": "Button__ButtonWrapper-j48i5d-2",
+                                                    "isStatic": false,
+                                                    "lastClassName": "c16",
+                                                    "rules": Array [
+                                                      "width:",
+                                                      [Function],
+                                                      ";height:",
+                                                      [Function],
+                                                      ";padding:",
+                                                      [Function],
+                                                      ";border:transparent 1px solid;border-radius:",
+                                                      [Function],
+                                                      ";border-color:",
+                                                      [Function],
+                                                      ";color:",
+                                                      [Function],
+                                                      ";font-size:",
+                                                      [Function],
+                                                      ";text-align:",
+                                                      [Function],
+                                                      ";line-height:",
+                                                      [Function],
+                                                      ";background-color:",
+                                                      [Function],
+                                                      ";transition:",
+                                                      [Function],
+                                                      ";",
+                                                      [Function],
+                                                      ";",
+                                                      [Function],
+                                                      ";",
+                                                      ".c12",
+                                                      " > svg{margin-bottom:2px;",
+                                                      [Function],
+                                                      " ",
+                                                      [Function],
+                                                      " ",
+                                                      [Function],
+                                                      " ",
+                                                      [Function],
+                                                      " ",
+                                                      [Function],
+                                                      " ",
+                                                      [Function],
+                                                      "}",
+                                                      ".c14",
+                                                      "{margin-bottom:2px;}&:hover,&:active,&:focus{color:",
+                                                      [Function],
+                                                      ";border-color:",
+                                                      [Function],
+                                                      ";background-color:",
+                                                      [Function],
+                                                      ";",
+                                                      [Function],
+                                                      " ",
+                                                      [Function],
+                                                      " ",
+                                                      ".c12",
+                                                      " > svg{",
+                                                      [Function],
+                                                      " ",
+                                                      [Function],
+                                                      " ",
+                                                      [Function],
+                                                      " ",
+                                                      [Function],
+                                                      "}}",
+                                                      "@media only screen and ",
+                                                      "(max-width: 49.94em)",
+                                                      "{",
+                                                      "
+		",
+                                                      [Function],
+                                                      "
+	",
+                                                      "}",
+                                                    ],
+                                                  },
+                                                  "displayName": "Button__ButtonWrapper",
+                                                  "foldedComponentIds": Array [],
+                                                  "render": [Function],
+                                                  "styledComponentId": "Button__ButtonWrapper-j48i5d-2",
+                                                  "target": "button",
+                                                  "toString": [Function],
+                                                  "warnTooManyClasses": [Function],
+                                                  "withComponent": [Function],
+                                                }
+                                              }
+                                              forwardedRef={null}
+                                              sort="circle"
+                                              weight="tertiary"
+                                            >
+                                              <button
+                                                className="c11"
+                                              >
+                                                <Button__ButtonInner>
+                                                  <StyledComponent
+                                                    forwardedComponent={
+                                                      Object {
+                                                        "$$typeof": Symbol(react.forward_ref),
+                                                        "attrs": Array [],
+                                                        "componentStyle": ComponentStyle {
+                                                          "componentId": "c12",
+                                                          "isStatic": false,
+                                                          "lastClassName": "c13",
+                                                          "rules": Array [
+                                                            "align-items:center;display:flex;justify-content:center;width:100%;white-space:nowrap;pointer-events:none;svg{",
+                                                            [Function],
+                                                            " + span{margin-left:4px;}}",
+                                                            ".c14",
+                                                            "{+ span{margin-left:4px;}}",
+                                                          ],
+                                                        },
+                                                        "displayName": "Button__ButtonInner",
+                                                        "foldedComponentIds": Array [],
+                                                        "render": [Function],
+                                                        "styledComponentId": "c12",
+                                                        "target": "div",
+                                                        "toString": [Function],
+                                                        "warnTooManyClasses": [Function],
+                                                        "withComponent": [Function],
+                                                      }
+                                                    }
+                                                    forwardedRef={null}
+                                                  >
+                                                    <div
+                                                      className="c12 c13"
+                                                    >
+                                                      <ArrowLeftIcon>
+                                                        <Icon19>
+                                                          <icon19__IconWrapper>
+                                                            <StyledComponent
+                                                              forwardedComponent={
+                                                                Object {
+                                                                  "$$typeof": Symbol(react.forward_ref),
+                                                                  "attrs": Array [],
+                                                                  "componentStyle": ComponentStyle {
+                                                                    "componentId": "c14",
+                                                                    "isStatic": true,
+                                                                    "lastClassName": "c15",
+                                                                    "rules": Array [
+                                                                      "fill:currentColor;display:flex;",
+                                                                    ],
+                                                                  },
+                                                                  "displayName": "icon19__IconWrapper",
+                                                                  "foldedComponentIds": Array [],
+                                                                  "render": [Function],
+                                                                  "styledComponentId": "c14",
+                                                                  "target": "span",
+                                                                  "toString": [Function],
+                                                                  "warnTooManyClasses": [Function],
+                                                                  "withComponent": [Function],
+                                                                }
+                                                              }
+                                                              forwardedRef={null}
+                                                            >
+                                                              <span
+                                                                className="c14 c15"
+                                                              >
+                                                                <ArrowLeft
+                                                                  aria-label="Arrow-left icon"
+                                                                  height="18"
+                                                                  viewBox="0 0 18 18"
+                                                                  width="18"
+                                                                  xmlns="http://www.w3.org/2000/svg"
+                                                                >
+                                                                  <svg
+                                                                    aria-label="Arrow-left icon"
+                                                                    height="18"
+                                                                    viewBox="0 0 18 18"
+                                                                    width="18"
+                                                                    xmlns="http://www.w3.org/2000/svg"
+                                                                  >
+                                                                    <path
+                                                                      d="M9.85 3.15c.2.2.2.5 0 .7L4.71 9H15.5a.5.5 0 1 1 0 1H4.7l5.15 5.15a.5.5 0 0 1-.7.7l-6-6h-.02a.5.5 0 0 1-.03-.05l.05.05A.5.5 0 0 1 3 9.5v-.01a.5.5 0 0 1 0-.06v.07a.5.5 0 0 1 .15-.35l6-6c.2-.2.5-.2.7 0z"
+                                                                      fillRule="evenodd"
+                                                                    />
+                                                                  </svg>
+                                                                </ArrowLeft>
+                                                              </span>
+                                                            </StyledComponent>
+                                                          </icon19__IconWrapper>
+                                                        </Icon19>
+                                                      </ArrowLeftIcon>
+                                                    </div>
+                                                  </StyledComponent>
+                                                </Button__ButtonInner>
+                                              </button>
+                                            </StyledComponent>
+                                          </Button__ButtonWrapper>
+                                        </ThemeProvider>
+                                      </EnsureDefaultTheme>
+                                    </Button>
+                                    <Button
+                                      icon={<ArrowRightIcon />}
+                                      label="Continue"
+                                      labelPosition="before"
+                                      weight="tertiary"
+                                    >
+                                      <EnsureDefaultTheme>
+                                        <ThemeProvider
+                                          theme={[Function]}
+                                        >
+                                          <Button__ButtonWrapper
+                                            weight="tertiary"
+                                          >
+                                            <StyledComponent
+                                              forwardedComponent={
+                                                Object {
+                                                  "$$typeof": Symbol(react.forward_ref),
+                                                  "attrs": Array [],
+                                                  "componentStyle": ComponentStyle {
+                                                    "componentId": "Button__ButtonWrapper-j48i5d-2",
+                                                    "isStatic": false,
+                                                    "lastClassName": "c16",
+                                                    "rules": Array [
+                                                      "width:",
+                                                      [Function],
+                                                      ";height:",
+                                                      [Function],
+                                                      ";padding:",
+                                                      [Function],
+                                                      ";border:transparent 1px solid;border-radius:",
+                                                      [Function],
+                                                      ";border-color:",
+                                                      [Function],
+                                                      ";color:",
+                                                      [Function],
+                                                      ";font-size:",
+                                                      [Function],
+                                                      ";text-align:",
+                                                      [Function],
+                                                      ";line-height:",
+                                                      [Function],
+                                                      ";background-color:",
+                                                      [Function],
+                                                      ";transition:",
+                                                      [Function],
+                                                      ";",
+                                                      [Function],
+                                                      ";",
+                                                      [Function],
+                                                      ";",
+                                                      ".c12",
+                                                      " > svg{margin-bottom:2px;",
+                                                      [Function],
+                                                      " ",
+                                                      [Function],
+                                                      " ",
+                                                      [Function],
+                                                      " ",
+                                                      [Function],
+                                                      " ",
+                                                      [Function],
+                                                      " ",
+                                                      [Function],
+                                                      "}",
+                                                      ".c14",
+                                                      "{margin-bottom:2px;}&:hover,&:active,&:focus{color:",
+                                                      [Function],
+                                                      ";border-color:",
+                                                      [Function],
+                                                      ";background-color:",
+                                                      [Function],
+                                                      ";",
+                                                      [Function],
+                                                      " ",
+                                                      [Function],
+                                                      " ",
+                                                      ".c12",
+                                                      " > svg{",
+                                                      [Function],
+                                                      " ",
+                                                      [Function],
+                                                      " ",
+                                                      [Function],
+                                                      " ",
+                                                      [Function],
+                                                      "}}",
+                                                      "@media only screen and ",
+                                                      "(max-width: 49.94em)",
+                                                      "{",
+                                                      "
+		",
+                                                      [Function],
+                                                      "
+	",
+                                                      "}",
+                                                    ],
+                                                  },
+                                                  "displayName": "Button__ButtonWrapper",
+                                                  "foldedComponentIds": Array [],
+                                                  "render": [Function],
+                                                  "styledComponentId": "Button__ButtonWrapper-j48i5d-2",
+                                                  "target": "button",
+                                                  "toString": [Function],
+                                                  "warnTooManyClasses": [Function],
+                                                  "withComponent": [Function],
+                                                }
+                                              }
+                                              forwardedRef={null}
+                                              weight="tertiary"
+                                            >
+                                              <button
+                                                className="c16"
+                                              >
+                                                <Button__ButtonInner>
+                                                  <StyledComponent
+                                                    forwardedComponent={
+                                                      Object {
+                                                        "$$typeof": Symbol(react.forward_ref),
+                                                        "attrs": Array [],
+                                                        "componentStyle": ComponentStyle {
+                                                          "componentId": "c12",
+                                                          "isStatic": false,
+                                                          "lastClassName": "c13",
+                                                          "rules": Array [
+                                                            "align-items:center;display:flex;justify-content:center;width:100%;white-space:nowrap;pointer-events:none;svg{",
+                                                            [Function],
+                                                            " + span{margin-left:4px;}}",
+                                                            ".c14",
+                                                            "{+ span{margin-left:4px;}}",
+                                                          ],
+                                                        },
+                                                        "displayName": "Button__ButtonInner",
+                                                        "foldedComponentIds": Array [],
+                                                        "render": [Function],
+                                                        "styledComponentId": "c12",
+                                                        "target": "div",
+                                                        "toString": [Function],
+                                                        "warnTooManyClasses": [Function],
+                                                        "withComponent": [Function],
+                                                      }
+                                                    }
+                                                    forwardedRef={null}
+                                                  >
+                                                    <div
+                                                      className="c12 c13"
+                                                    >
+                                                      <Button__Label>
+                                                        <StyledComponent
+                                                          forwardedComponent={
+                                                            Object {
+                                                              "$$typeof": Symbol(react.forward_ref),
+                                                              "attrs": Array [],
+                                                              "componentStyle": ComponentStyle {
+                                                                "componentId": "Button__Label-j48i5d-0",
+                                                                "isStatic": true,
+                                                                "lastClassName": "c17",
+                                                                "rules": Array [
+                                                                  "display:flex;+ svg,+ ",
+                                                                  ".c14",
+                                                                  "{margin-left:4px;}",
+                                                                ],
+                                                              },
+                                                              "displayName": "Button__Label",
+                                                              "foldedComponentIds": Array [],
+                                                              "render": [Function],
+                                                              "styledComponentId": "Button__Label-j48i5d-0",
+                                                              "target": "span",
+                                                              "toString": [Function],
+                                                              "warnTooManyClasses": [Function],
+                                                              "withComponent": [Function],
+                                                            }
+                                                          }
+                                                          forwardedRef={null}
+                                                        >
+                                                          <span
+                                                            className="c17"
+                                                          >
+                                                            Continue
+                                                          </span>
+                                                        </StyledComponent>
+                                                      </Button__Label>
+                                                      <ArrowRightIcon>
+                                                        <Icon19>
+                                                          <icon19__IconWrapper>
+                                                            <StyledComponent
+                                                              forwardedComponent={
+                                                                Object {
+                                                                  "$$typeof": Symbol(react.forward_ref),
+                                                                  "attrs": Array [],
+                                                                  "componentStyle": ComponentStyle {
+                                                                    "componentId": "c14",
+                                                                    "isStatic": true,
+                                                                    "lastClassName": "c15",
+                                                                    "rules": Array [
+                                                                      "fill:currentColor;display:flex;",
+                                                                    ],
+                                                                  },
+                                                                  "displayName": "icon19__IconWrapper",
+                                                                  "foldedComponentIds": Array [],
+                                                                  "render": [Function],
+                                                                  "styledComponentId": "c14",
+                                                                  "target": "span",
+                                                                  "toString": [Function],
+                                                                  "warnTooManyClasses": [Function],
+                                                                  "withComponent": [Function],
+                                                                }
+                                                              }
+                                                              forwardedRef={null}
+                                                            >
+                                                              <span
+                                                                className="c14 c15"
+                                                              >
+                                                                <ArrowRight
+                                                                  aria-label="Arrow-right icon"
+                                                                  height="18"
+                                                                  viewBox="0 0 18 18"
+                                                                  width="18"
+                                                                  xmlns="http://www.w3.org/2000/svg"
+                                                                >
+                                                                  <svg
+                                                                    aria-label="Arrow-right icon"
+                                                                    height="18"
+                                                                    viewBox="0 0 18 18"
+                                                                    width="18"
+                                                                    xmlns="http://www.w3.org/2000/svg"
+                                                                  >
+                                                                    <path
+                                                                      d="M8.15 3.15a.5.5 0 0 0 0 .7L13.29 9H2.5a.5.5 0 1 0 0 1h10.8l-5.15 5.15a.5.5 0 0 0 .7.7l6-6h.02a.5.5 0 0 0 .03-.05l-.05.05A.5.5 0 0 0 15 9.5v-.01a.5.5 0 0 0 0-.06v.07a.5.5 0 0 0-.15-.35l-6-6a.5.5 0 0 0-.7 0z"
+                                                                      fillRule="evenodd"
+                                                                    />
+                                                                  </svg>
+                                                                </ArrowRight>
+                                                              </span>
+                                                            </StyledComponent>
+                                                          </icon19__IconWrapper>
+                                                        </Icon19>
+                                                      </ArrowRightIcon>
+                                                    </div>
+                                                  </StyledComponent>
+                                                </Button__ButtonInner>
+                                              </button>
+                                            </StyledComponent>
+                                          </Button__ButtonWrapper>
+                                        </ThemeProvider>
+                                      </EnsureDefaultTheme>
+                                    </Button>
+                                  </div>
+                                </StyledComponent>
+                              </ad-slide__SlideAdButtons>
+                            </div>
+                          </StyledComponent>
+                        </ad-slide__SlideAdContainer>
+                      </div>
+                    </StyledComponent>
+                  </slide__SlideContainer>
+                </div>
+              </StyledComponent>
+            </slide__SlideInner>
+          </div>
+        </StyledComponent>
+      </ad-slide__KinjaAdSlide>
+    </ThemeProvider>
+  </EnsureDefaultTheme>
+</AdSlide>
+`;
+
+exports[`Slideshow <AdSlide /> should render with Wide aspect ratio if set 1`] = `
+<AdSlide
+  aspectRatio="Wide"
+/>
+`;

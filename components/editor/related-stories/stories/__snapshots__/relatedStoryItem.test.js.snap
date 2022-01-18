@@ -1,0 +1,399 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<RelatedStoryItem /> should render properly 1`] = `
+.c0 {
+  -webkit-flex: 0 1 31.5%;
+  -ms-flex: 0 1 31.5%;
+  flex: 0 1 31.5%;
+  text-align: left;
+  position: relative;
+  width: 100%;
+}
+
+.c0:hover .c3 {
+  visibility: visible;
+}
+
+.c1 {
+  margin-bottom: 1.125rem;
+}
+
+.c2 {
+  display: block;
+  height: 112.5px;
+  background-repeat: repeat;
+  cursor: pointer;
+  background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAJElEQVQYV2M8c+bMfxMTE0YGJADmoEvAVSBLoGiDSaAIwowCABA7E2lSU+vhAAAAAElFTkSuQmCC);
+}
+
+<DragAndDrop(RelatedStoryItem)
+  post={
+    Object {
+      "adSenseDisabled": false,
+      "adZone": "",
+      "allowReplies": true,
+      "author": Object {
+        "avatar": Object {
+          "format": "png",
+          "id": "agjhwjvlo30g5y0waupr",
+        },
+        "displayName": "Gwen Ihnat",
+        "id": "5876237249237148581",
+        "screenName": "gihnat",
+      },
+      "authorScreenName": "gihnat",
+      "authors": Array [
+        Object {
+          "avatar": Object {
+            "format": "png",
+            "id": "agjhwjvlo30g5y0waupr",
+          },
+          "displayName": "Gwen Ihnat",
+          "id": "5876237249237148581",
+          "screenName": "gihnat",
+        },
+      ],
+      "byline": "",
+      "defaultBlogId": "1636140418",
+      "discussionSettings": null,
+      "doNotCrawl": false,
+      "facebookImage": Object {
+        "format": "jpg",
+        "height": 357,
+        "id": "tvnxv27jcjrydfrhg2sg",
+        "src": "https://i.kinja-img.com/gawker-media/image/upload/s--BL3btY6Z--/c_fit,fl_progressive,q_80,w_636/tvnxv27jcjrydfrhg2sg.jpg",
+        "width": 636,
+      },
+      "featuredMedia": null,
+      "first100Characters": "Unlike your Starbucks specialty drinks with froths of whipped cream and differently themed sprinkles",
+      "firstSentence": "Unlike your Starbucks specialty drinks with froths of whipped cream and differently themed sprinkles",
+      "gaDimensions": Object {
+        "gaVideoIds": "",
+        "wordCount": 684,
+        "wordCountBucket": "600 - 800",
+      },
+      "hasFeaturedVideo": false,
+      "headline": "Dunkin' Donut's Girl Scout-cookie coffees an unholy alliance of two great things",
+      "id": 1823443790,
+      "images": Array [
+        Object {
+          "format": "jpg",
+          "height": 357,
+          "id": "tvnxv27jcjrydfrhg2sg",
+          "src": "https://i.kinja-img.com/gawker-media/image/upload/s--BL3btY6Z--/c_fit,fl_progressive,q_80,w_636/tvnxv27jcjrydfrhg2sg.jpg",
+          "width": 636,
+        },
+      ],
+      "isFeatured": false,
+      "isStarter": true,
+      "isVideo": false,
+      "mainMedia": Object {
+        "alignment": "Bleed",
+        "attribution": Array [
+          Object {
+            "credit": Array [
+              Object {
+                "styles": Array [],
+                "type": "Text",
+                "value": "Kevin Pang",
+              },
+            ],
+            "label": "Photo",
+            "source": Array [],
+          },
+        ],
+        "caption": Array [],
+        "format": "jpg",
+        "height": 2268,
+        "id": "tvnxv27jcjrydfrhg2sg",
+        "lightbox": true,
+        "syndicationRights": true,
+        "type": "Image",
+        "width": 4032,
+      },
+      "permalink": "https://thetakeout.com/dunkin-donuts-girl-scout-cookie-coffees-an-unholy-allia-1823443790",
+      "plaintext": "Unlike your Starbucks specialty drinks with froths of whipped cream and differently themed sprinkles, Dunkin’ Donuts’ new lineup of Girl Scout-cookie flavored coffee drinks is pretty straightforward. No candy bits or adds of any kind, just flavored coffee that taste like three popular Girl Scout cookies: Thin Mint, Peanut Butter Chocolate (Tagalongs), and Coconut Chocolate (Samoas), available either hot or iced. Why Thin Mints is the only Dunkin Donuts coffee able to be termed by its actual Girl Scout cookie name is for greater legal minds than ours to figure out. Since I’ve been eating these cookies steadily at home for weeks now, and never ever start the day without coffee, I considered my palate expert enough to be able to judge the new lineup.",
+      "publishTimeISO": "2018-03-02T04:25:00.790Z",
+      "publishTimeMillis": 1519964700790,
+      "qaMembers": Array [],
+      "qaParticipants": Array [],
+      "qaStatus": null,
+      "replyCount": 1,
+      "securePermalink": "https://thetakeout.com/dunkin-donuts-girl-scout-cookie-coffees-an-unholy-allia-1823443790",
+      "showByline": true,
+      "socialHeadline": "Dunkin' Donut's Girl Scout-cookie coffees an unholy alliance of two great things",
+      "sponsored": false,
+      "staffIncluded": false,
+      "status": "PUBLISHED",
+      "storyType": Object {
+        "blogId": 1636140418,
+        "canonical": "taste-test",
+        "content": "Standard",
+        "id": 648,
+        "title": "Taste Test",
+      },
+      "tags": Array [
+        Object {
+          "canonical": "coffee",
+          "displayName": "Coffee",
+          "urlName": "coffee",
+        },
+        Object {
+          "canonical": "dunkindonuts",
+          "displayName": "Dunkin Donuts",
+          "urlName": "dunkin-donuts",
+        },
+        Object {
+          "canonical": "girlscoutcookies",
+          "displayName": "girl scout cookies",
+          "urlName": "girl-scout-cookies",
+        },
+      ],
+      "twitterCardType": "summary_large_image",
+      "videos": Array [],
+    }
+  }
+>
+  <RelatedStoryItem
+    dragEvents={null}
+    imageSize="KinjaCenteredLargeAuto"
+    post={
+      Object {
+        "adSenseDisabled": false,
+        "adZone": "",
+        "allowReplies": true,
+        "author": Object {
+          "avatar": Object {
+            "format": "png",
+            "id": "agjhwjvlo30g5y0waupr",
+          },
+          "displayName": "Gwen Ihnat",
+          "id": "5876237249237148581",
+          "screenName": "gihnat",
+        },
+        "authorScreenName": "gihnat",
+        "authors": Array [
+          Object {
+            "avatar": Object {
+              "format": "png",
+              "id": "agjhwjvlo30g5y0waupr",
+            },
+            "displayName": "Gwen Ihnat",
+            "id": "5876237249237148581",
+            "screenName": "gihnat",
+          },
+        ],
+        "byline": "",
+        "defaultBlogId": "1636140418",
+        "discussionSettings": null,
+        "doNotCrawl": false,
+        "facebookImage": Object {
+          "format": "jpg",
+          "height": 357,
+          "id": "tvnxv27jcjrydfrhg2sg",
+          "src": "https://i.kinja-img.com/gawker-media/image/upload/s--BL3btY6Z--/c_fit,fl_progressive,q_80,w_636/tvnxv27jcjrydfrhg2sg.jpg",
+          "width": 636,
+        },
+        "featuredMedia": null,
+        "first100Characters": "Unlike your Starbucks specialty drinks with froths of whipped cream and differently themed sprinkles",
+        "firstSentence": "Unlike your Starbucks specialty drinks with froths of whipped cream and differently themed sprinkles",
+        "gaDimensions": Object {
+          "gaVideoIds": "",
+          "wordCount": 684,
+          "wordCountBucket": "600 - 800",
+        },
+        "hasFeaturedVideo": false,
+        "headline": "Dunkin' Donut's Girl Scout-cookie coffees an unholy alliance of two great things",
+        "id": 1823443790,
+        "images": Array [
+          Object {
+            "format": "jpg",
+            "height": 357,
+            "id": "tvnxv27jcjrydfrhg2sg",
+            "src": "https://i.kinja-img.com/gawker-media/image/upload/s--BL3btY6Z--/c_fit,fl_progressive,q_80,w_636/tvnxv27jcjrydfrhg2sg.jpg",
+            "width": 636,
+          },
+        ],
+        "isFeatured": false,
+        "isStarter": true,
+        "isVideo": false,
+        "mainMedia": Object {
+          "alignment": "Bleed",
+          "attribution": Array [
+            Object {
+              "credit": Array [
+                Object {
+                  "styles": Array [],
+                  "type": "Text",
+                  "value": "Kevin Pang",
+                },
+              ],
+              "label": "Photo",
+              "source": Array [],
+            },
+          ],
+          "caption": Array [],
+          "format": "jpg",
+          "height": 2268,
+          "id": "tvnxv27jcjrydfrhg2sg",
+          "lightbox": true,
+          "syndicationRights": true,
+          "type": "Image",
+          "width": 4032,
+        },
+        "permalink": "https://thetakeout.com/dunkin-donuts-girl-scout-cookie-coffees-an-unholy-allia-1823443790",
+        "plaintext": "Unlike your Starbucks specialty drinks with froths of whipped cream and differently themed sprinkles, Dunkin’ Donuts’ new lineup of Girl Scout-cookie flavored coffee drinks is pretty straightforward. No candy bits or adds of any kind, just flavored coffee that taste like three popular Girl Scout cookies: Thin Mint, Peanut Butter Chocolate (Tagalongs), and Coconut Chocolate (Samoas), available either hot or iced. Why Thin Mints is the only Dunkin Donuts coffee able to be termed by its actual Girl Scout cookie name is for greater legal minds than ours to figure out. Since I’ve been eating these cookies steadily at home for weeks now, and never ever start the day without coffee, I considered my palate expert enough to be able to judge the new lineup.",
+        "publishTimeISO": "2018-03-02T04:25:00.790Z",
+        "publishTimeMillis": 1519964700790,
+        "qaMembers": Array [],
+        "qaParticipants": Array [],
+        "qaStatus": null,
+        "replyCount": 1,
+        "securePermalink": "https://thetakeout.com/dunkin-donuts-girl-scout-cookie-coffees-an-unholy-allia-1823443790",
+        "showByline": true,
+        "socialHeadline": "Dunkin' Donut's Girl Scout-cookie coffees an unholy alliance of two great things",
+        "sponsored": false,
+        "staffIncluded": false,
+        "status": "PUBLISHED",
+        "storyType": Object {
+          "blogId": 1636140418,
+          "canonical": "taste-test",
+          "content": "Standard",
+          "id": 648,
+          "title": "Taste Test",
+        },
+        "tags": Array [
+          Object {
+            "canonical": "coffee",
+            "displayName": "Coffee",
+            "urlName": "coffee",
+          },
+          Object {
+            "canonical": "dunkindonuts",
+            "displayName": "Dunkin Donuts",
+            "urlName": "dunkin-donuts",
+          },
+          Object {
+            "canonical": "girlscoutcookies",
+            "displayName": "girl scout cookies",
+            "urlName": "girl-scout-cookies",
+          },
+        ],
+        "twitterCardType": "summary_large_image",
+        "videos": Array [],
+      }
+    }
+  >
+    <EnsureDefaultTheme>
+      <ThemeProvider
+        theme={[Function]}
+      >
+        <relatedStoryItem__StoryItem
+          data-index={1823443790}
+        >
+          <StyledComponent
+            data-index={1823443790}
+            forwardedComponent={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": Array [],
+                "componentStyle": ComponentStyle {
+                  "componentId": "relatedStoryItem__StoryItem-z08xvi-1",
+                  "isStatic": true,
+                  "lastClassName": "c0",
+                  "rules": Array [
+                    "flex:0 1 31.5%;text-align:left;position:relative;width:100%;&:hover{",
+                    ".c3",
+                    "{visibility:visible;}}",
+                  ],
+                },
+                "displayName": "relatedStoryItem__StoryItem",
+                "foldedComponentIds": Array [],
+                "render": [Function],
+                "styledComponentId": "relatedStoryItem__StoryItem-z08xvi-1",
+                "target": "div",
+                "toString": [Function],
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={null}
+          >
+            <div
+              className="c0"
+              data-index={1823443790}
+            >
+              <relatedStoryItem__PlaceholderWrapper>
+                <StyledComponent
+                  forwardedComponent={
+                    Object {
+                      "$$typeof": Symbol(react.forward_ref),
+                      "attrs": Array [],
+                      "componentStyle": ComponentStyle {
+                        "componentId": "relatedStoryItem__PlaceholderWrapper-z08xvi-3",
+                        "isStatic": true,
+                        "lastClassName": "c1",
+                        "rules": Array [
+                          "margin-bottom:1.125rem;",
+                        ],
+                      },
+                      "displayName": "relatedStoryItem__PlaceholderWrapper",
+                      "foldedComponentIds": Array [],
+                      "render": [Function],
+                      "styledComponentId": "relatedStoryItem__PlaceholderWrapper-z08xvi-3",
+                      "target": "div",
+                      "toString": [Function],
+                      "warnTooManyClasses": [Function],
+                      "withComponent": [Function],
+                    }
+                  }
+                  forwardedRef={null}
+                >
+                  <div
+                    className="c1"
+                  >
+                    <relatedStoryItem__PlaceholderImage>
+                      <StyledComponent
+                        forwardedComponent={
+                          Object {
+                            "$$typeof": Symbol(react.forward_ref),
+                            "attrs": Array [],
+                            "componentStyle": ComponentStyle {
+                              "componentId": "relatedStoryItem__PlaceholderImage-z08xvi-4",
+                              "isStatic": false,
+                              "lastClassName": "c2",
+                              "rules": Array [
+                                "display:block;height:112.5px;background-repeat:repeat;cursor:pointer;",
+                                "background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAJElEQVQYV2M8c+bMfxMTE0YGJADmoEvAVSBLoGiDSaAIwowCABA7E2lSU+vhAAAAAElFTkSuQmCC);",
+                                " ",
+                                [Function],
+                              ],
+                            },
+                            "displayName": "relatedStoryItem__PlaceholderImage",
+                            "foldedComponentIds": Array [],
+                            "render": [Function],
+                            "styledComponentId": "relatedStoryItem__PlaceholderImage-z08xvi-4",
+                            "target": "div",
+                            "toString": [Function],
+                            "warnTooManyClasses": [Function],
+                            "withComponent": [Function],
+                          }
+                        }
+                        forwardedRef={null}
+                      >
+                        <div
+                          className="c2"
+                        />
+                      </StyledComponent>
+                    </relatedStoryItem__PlaceholderImage>
+                  </div>
+                </StyledComponent>
+              </relatedStoryItem__PlaceholderWrapper>
+            </div>
+          </StyledComponent>
+        </relatedStoryItem__StoryItem>
+      </ThemeProvider>
+    </EnsureDefaultTheme>
+  </RelatedStoryItem>
+</DragAndDrop(RelatedStoryItem)>
+`;

@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Radio /> should render properly 1`] = `
+<ClickOutside(CollapsibleBox)
+  close={[Function]}
+  icon={<FlameIcon />}
+  isOpen={true}
+  title="COD: Modern Warfare"
+  toggle={[Function]}
+>
+  <OnScreenHOC
+    id="bwzkuqvhcw6feobrn3z3"
+  />
+</ClickOutside(CollapsibleBox)>
+`;

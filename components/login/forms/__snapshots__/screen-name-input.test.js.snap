@@ -1,0 +1,55 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ScreenNameInput /> should display username taken error 1`] = `
+<EnsureDefaultTheme>
+  <Textfield18
+    blogTheme="default"
+    error="The user name is taken, please choose another."
+    name="screenName"
+    onChange={[Function]}
+  />
+</EnsureDefaultTheme>
+`;
+
+exports[`<ScreenNameInput /> should return error on invalid characters 1`] = `
+<EnsureDefaultTheme>
+  <Textfield18
+    blogTheme="default"
+    error="Your user name can only contain letters of the English alphabet, numbers and dashes"
+    name="screenName"
+    onChange={[Function]}
+  />
+</EnsureDefaultTheme>
+`;
+
+exports[`<ScreenNameInput /> should return error on short username 1`] = `
+<EnsureDefaultTheme>
+  <Textfield18
+    blogTheme="default"
+    error="Your user name must be between 3 and 63 characters"
+    name="screenName"
+    onChange={[Function]}
+  />
+</EnsureDefaultTheme>
+`;
+
+exports[`<ScreenNameInput /> should return error on starting dash 1`] = `
+<EnsureDefaultTheme>
+  <Textfield18
+    blogTheme="default"
+    error="Your user name can't start with a dash"
+    name="screenName"
+    onChange={[Function]}
+  />
+</EnsureDefaultTheme>
+`;
+
+exports[`<ScreenNameInput /> should return with no errors 1`] = `
+<EnsureDefaultTheme>
+  <Textfield18
+    blogTheme="default"
+    name="screenName"
+    onChange={[Function]}
+  />
+</EnsureDefaultTheme>
+`;

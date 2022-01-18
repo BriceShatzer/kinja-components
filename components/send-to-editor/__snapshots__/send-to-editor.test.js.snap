@@ -1,0 +1,116 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<SendToEditor /> should render component with default state "Freelancer Filed" selected 1`] = `
+<div
+  className="send-to-editor-form"
+>
+  <h2
+    className="modal-title"
+  >
+    Send to Editors
+  </h2>
+  <div
+    className="form-group flex-row flex-row--align-middle"
+  >
+    <div
+      className="flex-row__column small-4"
+    >
+      <h3
+        className="form-group_label"
+      >
+        Article Status
+      </h3>
+    </div>
+    <div
+      className="flex-row__column small-8"
+    >
+      <ButtonGroup
+        onChange={[Function]}
+      >
+        <ButtonGroupItem
+          label="Freelancer Filed"
+          selected={true}
+          value="Freelancer Filed"
+        />
+        <ButtonGroupItem
+          label="Ready for Copy Desk"
+          value="Ready for Copy Desk"
+        />
+      </ButtonGroup>
+    </div>
+  </div>
+  <div
+    className="form-group flex-row"
+  >
+    <div
+      className="flex-row__column small-4"
+    >
+      <h3
+        className="form-group_label"
+      >
+        Additional Notes
+      </h3>
+    </div>
+    <div
+      className="flex-row__column small-8"
+    >
+      <Textarea
+        label="Run date, word count, graphics, photo credit, etc."
+        name="notes"
+        onChange={[Function]}
+        rows={5}
+        value=""
+      />
+    </div>
+  </div>
+  <footer
+    className="form-buttons"
+  >
+    <Button
+      className="form-button"
+      label="Cancel"
+      onClick={[MockFunction]}
+      type="button"
+      weight="secondary"
+    />
+    <Button
+      className="form-button"
+      label="Send"
+      onClick={[Function]}
+      type="submit"
+      weight="primary"
+    />
+  </footer>
+</div>
+`;
+
+exports[`<SendToEditor /> should set notes after changing notes 1`] = `
+Array [
+  Object {
+    "notes": "muhaha",
+    "status": "Freelancer Filed",
+  },
+]
+`;
+
+exports[`<SendToEditor /> should set notes from initialValues 1`] = `
+<SendToEditorForm
+  initialValues={
+    Object {
+      "notes": "sic transit gloria mundi",
+    }
+  }
+  language="en-US"
+  onCancel={[MockFunction]}
+  onSubmit={[MockFunction]}
+/>
+`;
+
+exports[`<SendToEditor /> should set status after changing the ButtonGroup 1`] = `
+Array [
+  Object {
+    "notes": "",
+    "status": "Ready for Copy Desk",
+  },
+]
+`;

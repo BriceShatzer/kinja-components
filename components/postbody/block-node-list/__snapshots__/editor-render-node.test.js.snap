@@ -1,0 +1,728 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`editorRenderNode embeds DailyMotion 1`] = `
+<aside
+  class="embed-inset embed-inset--show-overlay align--bleed video-embed"
+  contenteditable="false"
+  data-thumb-format="jpg"
+  data-thumb-id="ep4iblc3majmypvxbplf"
+>
+  <kinja-sandbox
+    class="wysiwyg-embed flex-video widescreen"
+    contenteditable="false"
+    id="dm-x44enl7"
+  >
+    <iframe
+      allowfullscreen=""
+      data-insecure="false"
+      frameborder="0"
+      height="448"
+      src="/ajax/inset/iframe?id=dm-x44enl7"
+      width="640"
+      x-loaded="1"
+    />
+  </kinja-sandbox>
+</aside>
+`;
+
+exports[`editorRenderNode embeds Facebook 1`] = `
+<aside
+  class="embed-inset embed-inset--show-overlay"
+  contenteditable="false"
+>
+  <kinja-sandbox
+    class="wysiwyg-embed non-flex-video"
+    contenteditable="false"
+    id="fb-10153915420718967"
+  >
+    <iframe
+      allowfullscreen=""
+      data-insecure="false"
+      frameborder="0"
+      height="360"
+      src="/ajax/inset/iframe?autosize=1&id=fb-10153915420718967"
+      width="640"
+      x-loaded="1"
+    />
+  </kinja-sandbox>
+</aside>
+`;
+
+exports[`editorRenderNode embeds Imgur 1`] = `
+<aside
+  class="embed-inset embed-inset--show-overlay"
+  contenteditable="false"
+>
+  <kinja-sandbox
+    class="wysiwyg-embed"
+    contenteditable="false"
+    id="imgur-243598"
+  >
+    <iframe
+      allowfullscreen=""
+      data-insecure="false"
+      frameborder="0"
+      src="/ajax/inset/iframe?autosize=1&id=imgur-243598"
+      width="800"
+      x-loaded="1"
+    />
+  </kinja-sandbox>
+</aside>
+`;
+
+exports[`editorRenderNode embeds Instagram 1`] = `
+<aside
+  class="embed-inset embed-inset--show-overlay"
+  contenteditable="false"
+>
+  <kinja-sandbox
+    class="wysiwyg-embed non-flex-video centered-frame"
+    contenteditable="false"
+    id="instagram-BInFir8jHbf"
+  >
+    <iframe
+      allowfullscreen=""
+      data-insecure="false"
+      frameborder="0"
+      height="676"
+      src="/ajax/inset/iframe?autosize=1&id=instagram-BInFir8jHbf"
+      width="598"
+      x-loaded="1"
+    />
+  </kinja-sandbox>
+</aside>
+`;
+
+exports[`editorRenderNode embeds KinjaVideo no caption 1`] = `
+<aside
+  class="embed-inset embed-inset--show-overlay align--bleed video-embed"
+  contenteditable="false"
+  data-thumb-format="jpg"
+  data-thumb-id="gkoszxli4iwxrvxaomts"
+>
+  <kinja-sandbox
+    class="wysiwyg-embed flex-video widescreen"
+    contenteditable="false"
+    id="kinjavideo-3279772"
+  >
+    <iframe
+      allowfullscreen=""
+      data-insecure="false"
+      frameborder="0"
+      height="450"
+      src="/ajax/inset/iframe?cloudinaryImageOverride=gkoszxli4iwxrvxaomts&cloudinaryImageOverrideFormat=jpg&id=kinjavideo-3279772&platform=editor"
+      width="800"
+      x-loaded="1"
+    />
+  </kinja-sandbox>
+</aside>
+`;
+
+exports[`editorRenderNode embeds KinjaVideo with caption 1`] = `
+.c1 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0 {
+  color: #222;
+  -webkit-transition: color 0.1s ease-out;
+  transition: color 0.1s ease-out;
+  box-shadow: inset 0 -2px 0 #0A7BC2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0:hover {
+  color: #0A7BC2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+<aside
+  class="embed-inset embed-inset--show-overlay align--bleed video-embed"
+  contenteditable="false"
+  data-thumb-format="jpg"
+  data-thumb-id="gkoszxli4iwxrvxaomts"
+>
+  <kinja-sandbox
+    class="wysiwyg-embed flex-video widescreen"
+    contenteditable="false"
+    id="kinjavideo-3279772"
+  >
+    <iframe
+      allowfullscreen=""
+      data-insecure="false"
+      frameborder="0"
+      height="450"
+      src="/ajax/inset/iframe?cloudinaryImageOverride=gkoszxli4iwxrvxaomts&cloudinaryImageOverrideFormat=jpg&id=kinjavideo-3279772&platform=editor"
+      width="800"
+      x-loaded="1"
+    />
+  </kinja-sandbox>
+  <footer
+    contenteditable="true"
+  >
+    ICE COLD! (
+    <span>
+      <a
+        class="c0 js_link c1"
+        data-ga="[[\\"Embedded Url\\",\\"External link\\",\\"https://example.com\\",{\\"metric25\\":1}]]"
+        href="https://example.com"
+        rel="noopener noreferrer"
+        target="_blank"
+      >
+        Flickr: Ben
+      </a>
+    </span>
+    )
+  </footer>
+</aside>
+`;
+
+exports[`editorRenderNode embeds Megaphone 1`] = `
+<aside
+  class="embed-inset embed-inset--show-overlay"
+  contenteditable="false"
+>
+  <kinja-sandbox
+    class="wysiwyg-embed megaphone"
+    contenteditable="false"
+    id="megaphone-DMO8510552889"
+  >
+    <iframe
+      allowfullscreen=""
+      data-insecure="false"
+      frameborder="0"
+      height="150"
+      src="/ajax/inset/iframe?id=megaphone-DMO8510552889"
+      width="640"
+      x-loaded="1"
+    />
+  </kinja-sandbox>
+</aside>
+`;
+
+exports[`editorRenderNode embeds Mixcloud 1`] = `
+<p>
+  <iframe
+    allowfullscreen=""
+    class="custom"
+    frameborder="0"
+    height="180"
+    mozallowfullscreen="mozallowfullscreen"
+    scrolling="no"
+    src="//www.mixcloud.com/widget/iframe/?feed=%2Fdj-echo%2Fecho-100%2F&hide_tracklist=1&hide_cover=1&embed_type=widget_standard"
+    webkitallowfullscreen="webkitAllowFullScreen"
+    width="100%"
+  />
+</p>
+`;
+
+exports[`editorRenderNode embeds Ooyala 1`] = `
+<aside
+  class="embed-inset embed-inset--show-overlay align--bleed video-embed"
+  contenteditable="false"
+  data-thumb-format="png"
+  data-thumb-id="Thumbnail_Not_Found_p0odsy"
+>
+  <kinja-sandbox
+    class="wysiwyg-embed flex-video widescreen"
+    contenteditable="false"
+    id="ooyala-hocDU4NzE62S9bTYEuXDBGbPRYLsE2yT/e94d1153704449a897d545a2af16e53c"
+  >
+    <iframe
+      allowfullscreen=""
+      data-insecure="false"
+      frameborder="0"
+      height="450"
+      src="/ajax/inset/iframe?id=ooyala-hocDU4NzE62S9bTYEuXDBGbPRYLsE2yT%2Fe94d1153704449a897d545a2af16e53c"
+      width="800"
+      x-loaded="1"
+    />
+  </kinja-sandbox>
+</aside>
+`;
+
+exports[`editorRenderNode embeds Qzzr 1`] = `
+<p>
+  <iframe
+    allowfullscreen=""
+    class="custom qzzr"
+    frameborder="0"
+    height="500"
+    mozallowfullscreen="mozallowfullscreen"
+    scrolling="no"
+    src="//www.qzzr.com/widget/quiz/165300"
+    webkitallowfullscreen="webkitAllowFullScreen"
+    width="100%"
+  />
+</p>
+`;
+
+exports[`editorRenderNode embeds Soundcloud 1`] = `
+<aside
+  class="embed-inset embed-inset--show-overlay"
+  contenteditable="false"
+>
+  <kinja-sandbox
+    class="wysiwyg-embed non-flex-video soundcloud"
+    contenteditable="false"
+    id="soundcloud-220076771"
+  >
+    <iframe
+      allowfullscreen=""
+      data-insecure="false"
+      frameborder="0"
+      height="166"
+      src="/ajax/inset/iframe?id=soundcloud-220076771"
+      width="640"
+      x-loaded="1"
+    />
+  </kinja-sandbox>
+</aside>
+`;
+
+exports[`editorRenderNode embeds Soundcloud playlist 1`] = `
+<aside
+  class="embed-inset embed-inset--show-overlay"
+  contenteditable="false"
+>
+  <kinja-sandbox
+    class="wysiwyg-embed non-flex-video soundcloud"
+    contenteditable="false"
+    id="soundcloud-playlist-40033455"
+  >
+    <iframe
+      allowfullscreen=""
+      data-insecure="false"
+      frameborder="0"
+      height="450"
+      src="/ajax/inset/iframe?id=soundcloud-playlist-40033455"
+      width="640"
+      x-loaded="1"
+    />
+  </kinja-sandbox>
+</aside>
+`;
+
+exports[`editorRenderNode embeds Tumblr 1`] = `
+<aside
+  class="embed-inset embed-inset--show-overlay"
+  contenteditable="false"
+>
+  <kinja-sandbox
+    class="wysiwyg-embed"
+    contenteditable="false"
+    id="tumblr-post-147955529854-gazs"
+  >
+    <iframe
+      allowfullscreen=""
+      data-insecure="false"
+      frameborder="0"
+      height="800"
+      src="/ajax/inset/iframe?autosize=1&id=tumblr-post-147955529854-gazs"
+      width="640"
+      x-loaded="1"
+    />
+  </kinja-sandbox>
+</aside>
+`;
+
+exports[`editorRenderNode embeds TwitchStream 1`] = `
+<aside
+  class="embed-inset embed-inset--show-overlay align--bleed video-embed"
+  contenteditable="false"
+>
+  <kinja-sandbox
+    class="wysiwyg-embed flex-video widescreen"
+    contenteditable="false"
+    id="twitch-stream-gosugamers"
+  >
+    <iframe
+      allowfullscreen=""
+      data-insecure="false"
+      frameborder="0"
+      height="360"
+      src="/ajax/inset/iframe?id=twitch-stream-gosugamers"
+      width="640"
+      x-loaded="1"
+    />
+  </kinja-sandbox>
+</aside>
+`;
+
+exports[`editorRenderNode embeds TwitchVideo 1`] = `
+<aside
+  class="embed-inset embed-inset--show-overlay align--bleed video-embed"
+  contenteditable="false"
+>
+  <kinja-sandbox
+    class="wysiwyg-embed flex-video widescreen"
+    contenteditable="false"
+    id="twitch-video-69248712"
+  >
+    <iframe
+      allowfullscreen=""
+      data-insecure="false"
+      frameborder="0"
+      height="360"
+      src="/ajax/inset/iframe?id=twitch-video-69248712"
+      width="640"
+      x-loaded="1"
+    />
+  </kinja-sandbox>
+</aside>
+`;
+
+exports[`editorRenderNode embeds Twitter 1`] = `
+<aside
+  class="embed-inset embed-inset--show-overlay"
+  contenteditable="false"
+>
+  <kinja-sandbox
+    class="wysiwyg-embed twitter-embed"
+    contenteditable="false"
+    id="twitter-739490015772839936"
+  >
+    <iframe
+      allowfullscreen=""
+      data-insecure="false"
+      frameborder="0"
+      height="159"
+      src="/ajax/inset/iframe?autosize=1&id=twitter-739490015772839936"
+      width="500"
+      x-loaded="1"
+    />
+  </kinja-sandbox>
+</aside>
+`;
+
+exports[`editorRenderNode embeds Typeform 1`] = `
+<aside
+  class="embed-inset embed-inset--show-overlay"
+  contenteditable="false"
+>
+  <kinja-sandbox
+    class="wysiwyg-embed"
+    contenteditable="false"
+    id="typeform-clickhole-Zh9XTz"
+  >
+    <iframe
+      allowfullscreen=""
+      data-insecure="false"
+      frameborder="0"
+      height="640"
+      src="/ajax/inset/iframe?id=typeform-clickhole-Zh9XTz"
+      width="640"
+      x-loaded="1"
+    />
+  </kinja-sandbox>
+</aside>
+`;
+
+exports[`editorRenderNode embeds Ustream 1`] = `
+<aside
+  class="embed-inset embed-inset--show-overlay align--bleed video-embed"
+  contenteditable="false"
+  data-thumb-format="jpg"
+  data-thumb-id="tvwixnozf8bjj19wbolp"
+>
+  <kinja-sandbox
+    class="wysiwyg-embed flex-video widescreen"
+    contenteditable="false"
+    id="ustream-video-84781321"
+  >
+    <iframe
+      allowfullscreen=""
+      data-insecure="false"
+      frameborder="0"
+      height="360"
+      src="/ajax/inset/iframe?id=ustream-video-84781321"
+      width="640"
+      x-loaded="1"
+    />
+  </kinja-sandbox>
+</aside>
+`;
+
+exports[`editorRenderNode embeds UstreamLive 1`] = `
+<aside
+  class="embed-inset embed-inset--show-overlay align--bleed video-embed"
+  contenteditable="false"
+>
+  <kinja-sandbox
+    class="wysiwyg-embed flex-video widescreen"
+    contenteditable="false"
+    id="ustream-channel-1041782"
+  >
+    <iframe
+      allowfullscreen=""
+      data-insecure="false"
+      frameborder="0"
+      height="360"
+      src="/ajax/inset/iframe?id=ustream-channel-1041782"
+      width="640"
+      x-loaded="1"
+    />
+  </kinja-sandbox>
+</aside>
+`;
+
+exports[`editorRenderNode embeds Viddler 1`] = `
+<aside
+  class="embed-inset embed-inset--show-overlay"
+  contenteditable="false"
+>
+  <kinja-sandbox
+    class="wysiwyg-embed flex-video widescreen"
+    contenteditable="false"
+    id="viddler-e5b3acca"
+  >
+    <iframe
+      allowfullscreen=""
+      data-insecure="false"
+      frameborder="0"
+      height="360"
+      src="/ajax/inset/iframe?id=viddler-e5b3acca"
+      width="640"
+      x-loaded="1"
+    />
+  </kinja-sandbox>
+</aside>
+`;
+
+exports[`editorRenderNode embeds Vimeo 1`] = `
+<aside
+  class="embed-inset embed-inset--show-overlay align--bleed video-embed"
+  contenteditable="false"
+  data-thumb-format="jpg"
+  data-thumb-id="eydjkgrhuxwb76jhjcgl"
+>
+  <kinja-sandbox
+    class="wysiwyg-embed flex-video widescreen"
+    contenteditable="false"
+    id="vimeo-159069175"
+  >
+    <iframe
+      allowfullscreen=""
+      data-insecure="false"
+      frameborder="0"
+      height="450"
+      src="/ajax/inset/iframe?id=vimeo-159069175"
+      width="800"
+      x-loaded="1"
+    />
+  </kinja-sandbox>
+</aside>
+`;
+
+exports[`editorRenderNode embeds Vine 1`] = `
+<aside
+  class="embed-inset embed-inset--show-overlay"
+  contenteditable="false"
+>
+  <kinja-sandbox
+    class="wysiwyg-embed non-flex-video"
+    contenteditable="false"
+    id="vine-5WvdIEvMOap"
+  >
+    <iframe
+      allowfullscreen=""
+      data-insecure="false"
+      frameborder="0"
+      height="786"
+      src="/ajax/inset/iframe?autosize=1&id=vine-5WvdIEvMOap"
+      width="640"
+      x-loaded="1"
+    />
+  </kinja-sandbox>
+</aside>
+`;
+
+exports[`editorRenderNode embeds Waywire 1`] = `
+<aside
+  class="embed-inset embed-inset--show-overlay align--bleed video-embed"
+  contenteditable="false"
+  data-thumb-format="jpg"
+  data-thumb-id="ruplt40wtxxw5uqb0ycy"
+>
+  <kinja-sandbox
+    class="wysiwyg-embed flex-video widescreen"
+    contenteditable="false"
+    id="waywire-W265Z105JY8H0V1G"
+  >
+    <iframe
+      allowfullscreen=""
+      data-insecure="false"
+      frameborder="0"
+      height="450"
+      src="/ajax/inset/iframe?id=waywire-W265Z105JY8H0V1G"
+      width="800"
+      x-loaded="1"
+    />
+  </kinja-sandbox>
+</aside>
+`;
+
+exports[`editorRenderNode embeds Youtube should render to embed with specified start time 1`] = `
+<aside
+  class="embed-inset embed-inset--show-overlay align--bleed video-embed"
+  contenteditable="false"
+  data-start-time="424"
+  data-thumb-format="jpg"
+  data-thumb-id="bf8kw10mbuxnux7ttolf"
+>
+  <kinja-sandbox
+    class="wysiwyg-embed flex-video widescreen"
+    contenteditable="false"
+    id="youtube-video-1Y1ya-yF35g"
+  >
+    <iframe
+      allowfullscreen=""
+      data-insecure="false"
+      frameborder="0"
+      height="450"
+      src="/ajax/inset/iframe?id=youtube-video-1Y1ya-yF35g&start=424"
+      width="800"
+      x-loaded="1"
+    />
+  </kinja-sandbox>
+</aside>
+`;
+
+exports[`editorRenderNode embeds Youtube should render to embed with the expected caption 1`] = `
+.c1 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0 {
+  color: #222;
+  -webkit-transition: color 0.1s ease-out;
+  transition: color 0.1s ease-out;
+  box-shadow: inset 0 -2px 0 #0A7BC2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0:hover {
+  color: #0A7BC2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+<aside
+  class="embed-inset embed-inset--show-overlay align--bleed video-embed"
+  contenteditable="false"
+  data-thumb-format="jpg"
+  data-thumb-id="bf8kw10mbuxnux7ttolf"
+>
+  <kinja-sandbox
+    class="wysiwyg-embed flex-video widescreen"
+    contenteditable="false"
+    id="youtube-video-1Y1ya-yF35g"
+  >
+    <iframe
+      allowfullscreen=""
+      data-insecure="false"
+      frameborder="0"
+      height="450"
+      src="/ajax/inset/iframe?id=youtube-video-1Y1ya-yF35g"
+      width="800"
+      x-loaded="1"
+    />
+  </kinja-sandbox>
+  <footer
+    contenteditable="true"
+  >
+    ICE COLD! (
+    <span>
+      <a
+        class="c0 js_link c1"
+        data-ga="[[\\"Embedded Url\\",\\"External link\\",\\"https://example.com\\",{\\"metric25\\":1}]]"
+        href="https://example.com"
+        rel="noopener noreferrer"
+        target="_blank"
+      >
+        Flickr: Ben
+      </a>
+    </span>
+    )
+  </footer>
+</aside>
+`;
+
+exports[`editorRenderNode embeds YoutubePlaylist 1`] = `
+<aside
+  class="embed-inset embed-inset--show-overlay align--bleed video-embed"
+  contenteditable="false"
+  data-data-initial-video="ndXwTPAFjSU"
+  data-start-time="0"
+  data-thumb-format="jpg"
+  data-thumb-id="zvwm06tma1hyehmettpd"
+>
+  <kinja-sandbox
+    class="wysiwyg-embed flex-video widescreen"
+    contenteditable="false"
+    id="youtube-list-ndXwTPAFjSU/RDndXwTPAFjSU"
+  >
+    <iframe
+      allowfullscreen=""
+      data-insecure="false"
+      frameborder="0"
+      height="450"
+      src="/ajax/inset/iframe?id=youtube-list-ndXwTPAFjSU%2FRDndXwTPAFjSU"
+      width="800"
+      x-loaded="1"
+    />
+  </kinja-sandbox>
+</aside>
+`;
+
+exports[`editorRenderNode should render a link in place of a LinkPreview inset 1`] = `
+<p>
+  <a
+    href="url"
+    x-inset="1"
+    x-inset-variant="normal"
+  >
+    url
+  </a>
+</p>
+`;
+
+exports[`editorRenderNode should render a link in place of a LinkPreview inset with CommerceCondensed style 1`] = `
+<p>
+  <a
+    href="url"
+    x-inset="1"
+    x-inset-variant="condensed"
+  >
+    url
+  </a>
+</p>
+`;
+
+exports[`editorRenderNode should render a link in place of a LinkPreview inset with CommerceList style 1`] = `
+<p>
+  <a
+    href="url"
+    x-inset="1"
+    x-inset-variant="list"
+  >
+    url
+  </a>
+</p>
+`;
+
+exports[`editorRenderNode should render a link in place of a ReplyInset 1`] = `
+<p>
+  <a
+    href="url"
+    x-inset="1"
+  >
+    url
+  </a>
+</p>
+`;

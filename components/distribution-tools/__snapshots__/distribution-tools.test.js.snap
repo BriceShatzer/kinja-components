@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<DistributionTools /> should render by default 1`] = `
+<DistributionTools
+  externalAPI={
+    Object {
+      "imageUploader": [Function],
+      "updatePostModel": [Function],
+    }
+  }
+  ga={[Function]}
+  gaNamespaced={[Function]}
+  sharingMainImage={
+    Object {
+      "format": "jpg",
+      "id": "ajmqmj59hnjhldutwhkn",
+    }
+  }
+/>
+`;

@@ -1,0 +1,44 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<CommerceDisclaimer /> should render with default props 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin-bottom: 20px;
+}
+
+.c0 span {
+  margin-left: 10px;
+}
+
+.c0::before {
+  content: '';
+  border-left: 2px solid #0A7BC2;
+  margin: 4px 0 6px;
+}
+
+.c1 {
+  color: #0A7BC2;
+}
+
+.c1:hover {
+  color: #0A7BC2;
+}
+
+<div
+  class="c0"
+>
+  <span>
+    Commerce Content is independent of Editorial and Advertising, and if you buy something through our posts, we may get a small share of the sale. 
+    <a
+      class="c1"
+      href="https://theinventory.com/welcome-to-the-inventory-1825927863?_ga=2.160038781.1759048496.1559637839-2127544484.1559637839"
+    >
+       Click here
+    </a>
+     for more.
+  </span>
+</div>
+`;

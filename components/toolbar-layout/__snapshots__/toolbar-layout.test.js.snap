@@ -1,0 +1,48 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<LayoutToolbar /> should render the list of toolbar items 1`] = `
+<EnsureDefaultTheme>
+  <toolbar-layout__Wrapper>
+    <toolbar-layout__LayoutToolbarWrapper
+      active={true}
+      childrenLength={3}
+    >
+      <span
+        className="first-item"
+      >
+        <ToolbarItem
+          icon="left"
+          onClick={[Function]}
+          showtitle={true}
+          title="Noop"
+        />
+      </span>
+      <toolbar-layout__LayoutToolbarSubWrapper
+        active={true}
+      >
+        <ToolbarItem
+          icon="left"
+          key="toolbar-item-noop-0"
+          onClick={[Function]}
+          showtitle={true}
+          title="noop"
+        />
+        <ToolbarItem
+          icon="left"
+          key="toolbar-item-noop-1"
+          onClick={[Function]}
+          showtitle={true}
+          title="noop"
+        />
+        <ToolbarItem
+          icon="left"
+          key="toolbar-item-noop-2"
+          onClick={[Function]}
+          showtitle={true}
+          title="noop"
+        />
+      </toolbar-layout__LayoutToolbarSubWrapper>
+    </toolbar-layout__LayoutToolbarWrapper>
+  </toolbar-layout__Wrapper>
+</EnsureDefaultTheme>
+`;

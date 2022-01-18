@@ -1,0 +1,184 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Read more link appendReadMoreLink appends a read more link to a paragraph 1`] = `
+Object {
+  "containers": Array [],
+  "type": "Paragraph",
+  "value": Array [
+    Object {
+      "styles": Array [],
+      "type": "Text",
+      "value": "Short paragraph",
+    },
+    Object {
+      "styles": Array [],
+      "type": "Text",
+      "value": " ",
+    },
+    Object {
+      "events": Array [
+        Array [
+          "ga",
+          "event",
+        ],
+      ],
+      "reference": "url",
+      "type": "Link",
+      "value": Array [
+        Object {
+          "styles": Array [],
+          "type": "Text",
+          "value": "Read more",
+        },
+      ],
+    },
+  ],
+}
+`;
+
+exports[`Read more link correctly displays Read more when the post is truncated, has no headline or image 1`] = `
+Array [
+  Object {
+    "containers": Array [],
+    "type": "Paragraph",
+    "value": Array [
+      Object {
+        "styles": Array [],
+        "type": "Text",
+        "value": "This paragraph is more than 320 characters long!",
+      },
+      Object {
+        "styles": Array [],
+        "type": "Text",
+        "value": "…",
+      },
+      Object {
+        "styles": Array [],
+        "type": "Text",
+        "value": " ",
+      },
+      Object {
+        "events": Array [
+          Array [
+            "Front page click",
+            "stream post click - 4",
+            "gizmodo.com/somepermalinkurl",
+            Object {
+              "metric19": 1,
+            },
+          ],
+        ],
+        "reference": "gizmodo.com/somepermalinkurl",
+        "type": "Link",
+        "value": Array [
+          Object {
+            "styles": Array [],
+            "type": "Text",
+            "value": "Read more",
+          },
+        ],
+      },
+    ],
+  },
+]
+`;
+
+exports[`Read more link displays Read more when there is no headline or image, but there are more paragraphs 1`] = `
+Array [
+  Object {
+    "containers": Array [],
+    "type": "Paragraph",
+    "value": Array [
+      Object {
+        "styles": Array [],
+        "type": "Text",
+        "value": "Short paragraph",
+      },
+      Object {
+        "styles": Array [],
+        "type": "Text",
+        "value": " ",
+      },
+      Object {
+        "events": Array [
+          Array [
+            "Front page click",
+            "stream post click - 4",
+            "",
+            Object {
+              "metric19": 1,
+            },
+          ],
+        ],
+        "reference": "",
+        "type": "Link",
+        "value": Array [
+          Object {
+            "styles": Array [],
+            "type": "Text",
+            "value": "Read more",
+          },
+        ],
+      },
+    ],
+  },
+]
+`;
+
+exports[`Read more link doesn't display Read more when the post has a headline 1`] = `
+Array [
+  Object {
+    "containers": Array [],
+    "type": "Paragraph",
+    "value": Array [
+      Object {
+        "styles": Array [],
+        "type": "Text",
+        "value": "This paragraph is more than 320 characters long!",
+      },
+      Object {
+        "styles": Array [],
+        "type": "Text",
+        "value": "…",
+      },
+    ],
+  },
+]
+`;
+
+exports[`Read more link doesn't display Read more when the post has an image 1`] = `
+Array [
+  Object {
+    "containers": Array [],
+    "type": "Paragraph",
+    "value": Array [
+      Object {
+        "styles": Array [],
+        "type": "Text",
+        "value": "This paragraph is more than 320 characters long!",
+      },
+      Object {
+        "styles": Array [],
+        "type": "Text",
+        "value": "…",
+      },
+    ],
+  },
+]
+`;
+
+exports[`Read more link doesn't display Read more when the post is not truncated 1`] = `
+Array [
+  Object {
+    "containers": Array [],
+    "type": "Paragraph",
+    "value": Array [
+      Object {
+        "styles": Array [],
+        "type": "Text",
+        "value": "Short paragraph",
+      },
+    ],
+  },
+]
+`;

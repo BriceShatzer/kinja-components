@@ -1,0 +1,1853 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<TimeBox /> should render properly 1`] = `
+.c2 {
+  display: grid;
+  grid-auto-columns: 32px;
+  grid-row-gap: 10px;
+  grid-column-gap: calc((100% - 6 * 32px) / 5);
+}
+
+.c4 {
+  grid-row: 1;
+  grid-column: 1 / 7;
+  width: 100%;
+  font-size: 20px;
+  text-align: center;
+  padding-bottom: 4px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c5 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  grid-row: 2 / span 1;
+  width: 32px;
+  height: 32px;
+  font-size: 16px;
+  line-height: 19px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  cursor: pointer;
+}
+
+.c6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  grid-row: 2 / span 1;
+  width: 32px;
+  height: 32px;
+  font-size: 16px;
+  line-height: 19px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  cursor: pointer;
+}
+
+.c7 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  grid-row: 3 / span 1;
+  width: 32px;
+  height: 32px;
+  font-size: 16px;
+  line-height: 19px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  cursor: pointer;
+}
+
+.c9 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  grid-row: 3 / span 1;
+  width: 32px;
+  height: 32px;
+  font-size: 16px;
+  line-height: 19px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  cursor: pointer;
+}
+
+.c8 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  grid-row: 3 / span 1;
+  width: 32px;
+  height: 32px;
+  font-size: 16px;
+  line-height: 19px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  cursor: pointer;
+  border-radius: 50%;
+  color: #FFF;
+  background-color: #0A7BC2;
+}
+
+.c10 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  grid-row: 2 / span 1;
+  width: 32px;
+  height: 32px;
+  font-size: 16px;
+  line-height: 19px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  cursor: pointer;
+  border-radius: 50%;
+  color: #FFF;
+  background-color: #0A7BC2;
+}
+
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+
+.c0 .c1:first-child {
+  padding-bottom: 18px;
+  border-bottom: 1px solid #CCC;
+}
+
+.c0 .c1:last-child {
+  padding-top: 30px;
+}
+
+@media only screen and (min-width:37.37em) {
+  .c5 {
+    grid-row: 2 / span 1;
+  }
+}
+
+@media only screen and (min-width:37.37em) {
+  .c6 {
+    grid-row: 3 / span 1;
+  }
+}
+
+@media only screen and (min-width:37.37em) {
+  .c7 {
+    grid-row: 4 / span 1;
+  }
+}
+
+@media only screen and (min-width:37.37em) {
+  .c9 {
+    grid-row: 5 / span 1;
+  }
+}
+
+@media only screen and (min-width:37.37em) {
+  .c8 {
+    grid-row: 4 / span 1;
+  }
+}
+
+@media only screen and (min-width:37.37em) {
+  .c10 {
+    grid-row: 2 / span 1;
+  }
+}
+
+@media only screen and (min-width:37.37em) {
+  .c0 {
+    width: 310px;
+    display: grid;
+    grid-template-columns: 50% 50%;
+  }
+
+  .c0 .c1:first-child {
+    padding-right: 27px;
+    padding-bottom: 0;
+    border-right: 1px solid #CCC;
+    border-bottom: none;
+  }
+
+  .c0 .c1:last-child {
+    grid-column-gap: 14px;
+    padding-top: 0;
+    padding-left: 27px;
+  }
+
+  .c0 .c3 {
+    grid-column: 1 / 4;
+  }
+}
+
+<TimeBox
+  locale="en-US"
+  onTimeChange={[MockFunction]}
+  timemillis={1548943757728}
+  timezone="America/New_York"
+>
+  <EnsureDefaultTheme>
+    <ThemeProvider
+      theme={[Function]}
+    >
+      <TimeBox__Container>
+        <StyledComponent
+          forwardedComponent={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": Array [],
+              "componentStyle": ComponentStyle {
+                "componentId": "TimeBox__Container-sc-10dhhye-4",
+                "isStatic": false,
+                "lastClassName": "c0",
+                "rules": Array [
+                  "display:flex;flex-direction:column;",
+                  ".c1",
+                  ":first-child{padding-bottom:18px;border-bottom:1px solid ",
+                  [Function],
+                  ";}",
+                  ".c1",
+                  ":last-child{padding-top:30px;}",
+                  "@media only screen and ",
+                  "(min-width: 37.37em)",
+                  "{",
+                  "
+		width: 310px;
+		display: grid;
+		grid-template-columns: 50% 50%;
+
+		",
+                  ".c1",
+                  ":first-child {
+			padding-right: 27px;
+			padding-bottom: 0;
+			border-right: 1px solid ",
+                  [Function],
+                  ";
+			border-bottom: none;
+		}
+
+		",
+                  ".c1",
+                  ":last-child {
+			grid-column-gap: 14px;
+			padding-top: 0;
+			padding-left: 27px;
+		}
+
+		",
+                  ".c3",
+                  " {
+			grid-column: 1 / 4;
+		}
+	",
+                  "}",
+                ],
+              },
+              "displayName": "TimeBox__Container",
+              "foldedComponentIds": Array [],
+              "render": [Function],
+              "styledComponentId": "TimeBox__Container-sc-10dhhye-4",
+              "target": "div",
+              "toString": [Function],
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+        >
+          <div
+            className="c0"
+          >
+            <TimeBox__TimeWrapper>
+              <StyledComponent
+                forwardedComponent={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": Array [],
+                    "componentStyle": ComponentStyle {
+                      "componentId": "c1",
+                      "isStatic": true,
+                      "lastClassName": "c2",
+                      "rules": Array [
+                        "display:grid;grid-auto-columns:",
+                        "32px",
+                        ";grid-row-gap:10px;grid-column-gap:calc((100% - 6 * ",
+                        "32px",
+                        ") / 5);",
+                      ],
+                    },
+                    "displayName": "TimeBox__TimeWrapper",
+                    "foldedComponentIds": Array [],
+                    "render": [Function],
+                    "styledComponentId": "c1",
+                    "target": "div",
+                    "toString": [Function],
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+              >
+                <div
+                  className="c1 c2"
+                >
+                  <TimeBox__Title>
+                    <StyledComponent
+                      forwardedComponent={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "attrs": Array [],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "c3",
+                            "isStatic": true,
+                            "lastClassName": "c4",
+                            "rules": Array [
+                              "grid-row:1;grid-column:1 / 7;width:100%;font-size:20px;text-align:center;padding-bottom:4px;user-select:none;",
+                            ],
+                          },
+                          "displayName": "TimeBox__Title",
+                          "foldedComponentIds": Array [],
+                          "render": [Function],
+                          "styledComponentId": "c3",
+                          "target": "div",
+                          "toString": [Function],
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                    >
+                      <div
+                        className="c3 c4"
+                      >
+                        Hours
+                      </div>
+                    </StyledComponent>
+                  </TimeBox__Title>
+                  <TimeBox__Time
+                    index={0}
+                    key="1"
+                    onClick={[Function]}
+                  >
+                    <StyledComponent
+                      forwardedComponent={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "attrs": Array [],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "TimeBox__Time-sc-10dhhye-2",
+                            "isStatic": false,
+                            "lastClassName": "c9",
+                            "rules": Array [
+                              "display:flex;align-items:center;justify-content:center;grid-row:",
+                              [Function],
+                              " / span 1;width:",
+                              "32px",
+                              ";height:",
+                              "32px",
+                              ";font-size:16px;line-height:19px;user-select:none;cursor:pointer;",
+                              "@media only screen and ",
+                              "(min-width: 37.37em)",
+                              "{",
+                              "
+		grid-row: ",
+                              [Function],
+                              " / span 1;
+	",
+                              "}",
+                              ";",
+                            ],
+                          },
+                          "displayName": "TimeBox__Time",
+                          "foldedComponentIds": Array [],
+                          "render": [Function],
+                          "styledComponentId": "TimeBox__Time-sc-10dhhye-2",
+                          "target": "span",
+                          "toString": [Function],
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                      index={0}
+                      onClick={[Function]}
+                    >
+                      <span
+                        className="c5"
+                        onClick={[Function]}
+                      >
+                        1
+                      </span>
+                    </StyledComponent>
+                  </TimeBox__Time>
+                  <TimeBox__Time
+                    index={1}
+                    key="2"
+                    onClick={[Function]}
+                  >
+                    <StyledComponent
+                      forwardedComponent={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "attrs": Array [],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "TimeBox__Time-sc-10dhhye-2",
+                            "isStatic": false,
+                            "lastClassName": "c9",
+                            "rules": Array [
+                              "display:flex;align-items:center;justify-content:center;grid-row:",
+                              [Function],
+                              " / span 1;width:",
+                              "32px",
+                              ";height:",
+                              "32px",
+                              ";font-size:16px;line-height:19px;user-select:none;cursor:pointer;",
+                              "@media only screen and ",
+                              "(min-width: 37.37em)",
+                              "{",
+                              "
+		grid-row: ",
+                              [Function],
+                              " / span 1;
+	",
+                              "}",
+                              ";",
+                            ],
+                          },
+                          "displayName": "TimeBox__Time",
+                          "foldedComponentIds": Array [],
+                          "render": [Function],
+                          "styledComponentId": "TimeBox__Time-sc-10dhhye-2",
+                          "target": "span",
+                          "toString": [Function],
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                      index={1}
+                      onClick={[Function]}
+                    >
+                      <span
+                        className="c5"
+                        onClick={[Function]}
+                      >
+                        2
+                      </span>
+                    </StyledComponent>
+                  </TimeBox__Time>
+                  <TimeBox__Time
+                    index={2}
+                    key="3"
+                    onClick={[Function]}
+                  >
+                    <StyledComponent
+                      forwardedComponent={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "attrs": Array [],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "TimeBox__Time-sc-10dhhye-2",
+                            "isStatic": false,
+                            "lastClassName": "c9",
+                            "rules": Array [
+                              "display:flex;align-items:center;justify-content:center;grid-row:",
+                              [Function],
+                              " / span 1;width:",
+                              "32px",
+                              ";height:",
+                              "32px",
+                              ";font-size:16px;line-height:19px;user-select:none;cursor:pointer;",
+                              "@media only screen and ",
+                              "(min-width: 37.37em)",
+                              "{",
+                              "
+		grid-row: ",
+                              [Function],
+                              " / span 1;
+	",
+                              "}",
+                              ";",
+                            ],
+                          },
+                          "displayName": "TimeBox__Time",
+                          "foldedComponentIds": Array [],
+                          "render": [Function],
+                          "styledComponentId": "TimeBox__Time-sc-10dhhye-2",
+                          "target": "span",
+                          "toString": [Function],
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                      index={2}
+                      onClick={[Function]}
+                    >
+                      <span
+                        className="c5"
+                        onClick={[Function]}
+                      >
+                        3
+                      </span>
+                    </StyledComponent>
+                  </TimeBox__Time>
+                  <TimeBox__Time
+                    index={3}
+                    key="4"
+                    onClick={[Function]}
+                  >
+                    <StyledComponent
+                      forwardedComponent={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "attrs": Array [],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "TimeBox__Time-sc-10dhhye-2",
+                            "isStatic": false,
+                            "lastClassName": "c9",
+                            "rules": Array [
+                              "display:flex;align-items:center;justify-content:center;grid-row:",
+                              [Function],
+                              " / span 1;width:",
+                              "32px",
+                              ";height:",
+                              "32px",
+                              ";font-size:16px;line-height:19px;user-select:none;cursor:pointer;",
+                              "@media only screen and ",
+                              "(min-width: 37.37em)",
+                              "{",
+                              "
+		grid-row: ",
+                              [Function],
+                              " / span 1;
+	",
+                              "}",
+                              ";",
+                            ],
+                          },
+                          "displayName": "TimeBox__Time",
+                          "foldedComponentIds": Array [],
+                          "render": [Function],
+                          "styledComponentId": "TimeBox__Time-sc-10dhhye-2",
+                          "target": "span",
+                          "toString": [Function],
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                      index={3}
+                      onClick={[Function]}
+                    >
+                      <span
+                        className="c6"
+                        onClick={[Function]}
+                      >
+                        4
+                      </span>
+                    </StyledComponent>
+                  </TimeBox__Time>
+                  <TimeBox__Time
+                    index={4}
+                    key="5"
+                    onClick={[Function]}
+                  >
+                    <StyledComponent
+                      forwardedComponent={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "attrs": Array [],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "TimeBox__Time-sc-10dhhye-2",
+                            "isStatic": false,
+                            "lastClassName": "c9",
+                            "rules": Array [
+                              "display:flex;align-items:center;justify-content:center;grid-row:",
+                              [Function],
+                              " / span 1;width:",
+                              "32px",
+                              ";height:",
+                              "32px",
+                              ";font-size:16px;line-height:19px;user-select:none;cursor:pointer;",
+                              "@media only screen and ",
+                              "(min-width: 37.37em)",
+                              "{",
+                              "
+		grid-row: ",
+                              [Function],
+                              " / span 1;
+	",
+                              "}",
+                              ";",
+                            ],
+                          },
+                          "displayName": "TimeBox__Time",
+                          "foldedComponentIds": Array [],
+                          "render": [Function],
+                          "styledComponentId": "TimeBox__Time-sc-10dhhye-2",
+                          "target": "span",
+                          "toString": [Function],
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                      index={4}
+                      onClick={[Function]}
+                    >
+                      <span
+                        className="c6"
+                        onClick={[Function]}
+                      >
+                        5
+                      </span>
+                    </StyledComponent>
+                  </TimeBox__Time>
+                  <TimeBox__Time
+                    index={5}
+                    key="6"
+                    onClick={[Function]}
+                  >
+                    <StyledComponent
+                      forwardedComponent={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "attrs": Array [],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "TimeBox__Time-sc-10dhhye-2",
+                            "isStatic": false,
+                            "lastClassName": "c9",
+                            "rules": Array [
+                              "display:flex;align-items:center;justify-content:center;grid-row:",
+                              [Function],
+                              " / span 1;width:",
+                              "32px",
+                              ";height:",
+                              "32px",
+                              ";font-size:16px;line-height:19px;user-select:none;cursor:pointer;",
+                              "@media only screen and ",
+                              "(min-width: 37.37em)",
+                              "{",
+                              "
+		grid-row: ",
+                              [Function],
+                              " / span 1;
+	",
+                              "}",
+                              ";",
+                            ],
+                          },
+                          "displayName": "TimeBox__Time",
+                          "foldedComponentIds": Array [],
+                          "render": [Function],
+                          "styledComponentId": "TimeBox__Time-sc-10dhhye-2",
+                          "target": "span",
+                          "toString": [Function],
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                      index={5}
+                      onClick={[Function]}
+                    >
+                      <span
+                        className="c6"
+                        onClick={[Function]}
+                      >
+                        6
+                      </span>
+                    </StyledComponent>
+                  </TimeBox__Time>
+                  <TimeBox__Time
+                    index={6}
+                    key="7"
+                    onClick={[Function]}
+                  >
+                    <StyledComponent
+                      forwardedComponent={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "attrs": Array [],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "TimeBox__Time-sc-10dhhye-2",
+                            "isStatic": false,
+                            "lastClassName": "c9",
+                            "rules": Array [
+                              "display:flex;align-items:center;justify-content:center;grid-row:",
+                              [Function],
+                              " / span 1;width:",
+                              "32px",
+                              ";height:",
+                              "32px",
+                              ";font-size:16px;line-height:19px;user-select:none;cursor:pointer;",
+                              "@media only screen and ",
+                              "(min-width: 37.37em)",
+                              "{",
+                              "
+		grid-row: ",
+                              [Function],
+                              " / span 1;
+	",
+                              "}",
+                              ";",
+                            ],
+                          },
+                          "displayName": "TimeBox__Time",
+                          "foldedComponentIds": Array [],
+                          "render": [Function],
+                          "styledComponentId": "TimeBox__Time-sc-10dhhye-2",
+                          "target": "span",
+                          "toString": [Function],
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                      index={6}
+                      onClick={[Function]}
+                    >
+                      <span
+                        className="c7"
+                        onClick={[Function]}
+                      >
+                        7
+                      </span>
+                    </StyledComponent>
+                  </TimeBox__Time>
+                  <TimeBox__Time
+                    index={7}
+                    key="8"
+                    onClick={[Function]}
+                  >
+                    <StyledComponent
+                      forwardedComponent={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "attrs": Array [],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "TimeBox__Time-sc-10dhhye-2",
+                            "isStatic": false,
+                            "lastClassName": "c9",
+                            "rules": Array [
+                              "display:flex;align-items:center;justify-content:center;grid-row:",
+                              [Function],
+                              " / span 1;width:",
+                              "32px",
+                              ";height:",
+                              "32px",
+                              ";font-size:16px;line-height:19px;user-select:none;cursor:pointer;",
+                              "@media only screen and ",
+                              "(min-width: 37.37em)",
+                              "{",
+                              "
+		grid-row: ",
+                              [Function],
+                              " / span 1;
+	",
+                              "}",
+                              ";",
+                            ],
+                          },
+                          "displayName": "TimeBox__Time",
+                          "foldedComponentIds": Array [],
+                          "render": [Function],
+                          "styledComponentId": "TimeBox__Time-sc-10dhhye-2",
+                          "target": "span",
+                          "toString": [Function],
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                      index={7}
+                      onClick={[Function]}
+                    >
+                      <span
+                        className="c7"
+                        onClick={[Function]}
+                      >
+                        8
+                      </span>
+                    </StyledComponent>
+                  </TimeBox__Time>
+                  <TimeBox__SelectedTime
+                    index={8}
+                    key="9"
+                    onClick={[Function]}
+                  >
+                    <StyledComponent
+                      forwardedComponent={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "attrs": Array [],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "TimeBox__SelectedTime-sc-10dhhye-3",
+                            "isStatic": false,
+                            "lastClassName": "c10",
+                            "rules": Array [
+                              "display:flex;align-items:center;justify-content:center;grid-row:",
+                              [Function],
+                              " / span 1;width:",
+                              "32px",
+                              ";height:",
+                              "32px",
+                              ";font-size:16px;line-height:19px;user-select:none;cursor:pointer;",
+                              "@media only screen and ",
+                              "(min-width: 37.37em)",
+                              "{",
+                              "
+		grid-row: ",
+                              [Function],
+                              " / span 1;
+	",
+                              "}",
+                              ";",
+                              "border-radius:50%;color:",
+                              [Function],
+                              ";background-color:",
+                              [Function],
+                              ";",
+                            ],
+                          },
+                          "displayName": "TimeBox__SelectedTime",
+                          "foldedComponentIds": Array [
+                            "TimeBox__Time-sc-10dhhye-2",
+                          ],
+                          "render": [Function],
+                          "styledComponentId": "TimeBox__SelectedTime-sc-10dhhye-3",
+                          "target": "span",
+                          "toString": [Function],
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                      index={8}
+                      onClick={[Function]}
+                    >
+                      <span
+                        className="c8"
+                        onClick={[Function]}
+                      >
+                        9
+                      </span>
+                    </StyledComponent>
+                  </TimeBox__SelectedTime>
+                  <TimeBox__Time
+                    index={9}
+                    key="10"
+                    onClick={[Function]}
+                  >
+                    <StyledComponent
+                      forwardedComponent={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "attrs": Array [],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "TimeBox__Time-sc-10dhhye-2",
+                            "isStatic": false,
+                            "lastClassName": "c9",
+                            "rules": Array [
+                              "display:flex;align-items:center;justify-content:center;grid-row:",
+                              [Function],
+                              " / span 1;width:",
+                              "32px",
+                              ";height:",
+                              "32px",
+                              ";font-size:16px;line-height:19px;user-select:none;cursor:pointer;",
+                              "@media only screen and ",
+                              "(min-width: 37.37em)",
+                              "{",
+                              "
+		grid-row: ",
+                              [Function],
+                              " / span 1;
+	",
+                              "}",
+                              ";",
+                            ],
+                          },
+                          "displayName": "TimeBox__Time",
+                          "foldedComponentIds": Array [],
+                          "render": [Function],
+                          "styledComponentId": "TimeBox__Time-sc-10dhhye-2",
+                          "target": "span",
+                          "toString": [Function],
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                      index={9}
+                      onClick={[Function]}
+                    >
+                      <span
+                        className="c9"
+                        onClick={[Function]}
+                      >
+                        10
+                      </span>
+                    </StyledComponent>
+                  </TimeBox__Time>
+                  <TimeBox__Time
+                    index={10}
+                    key="11"
+                    onClick={[Function]}
+                  >
+                    <StyledComponent
+                      forwardedComponent={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "attrs": Array [],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "TimeBox__Time-sc-10dhhye-2",
+                            "isStatic": false,
+                            "lastClassName": "c9",
+                            "rules": Array [
+                              "display:flex;align-items:center;justify-content:center;grid-row:",
+                              [Function],
+                              " / span 1;width:",
+                              "32px",
+                              ";height:",
+                              "32px",
+                              ";font-size:16px;line-height:19px;user-select:none;cursor:pointer;",
+                              "@media only screen and ",
+                              "(min-width: 37.37em)",
+                              "{",
+                              "
+		grid-row: ",
+                              [Function],
+                              " / span 1;
+	",
+                              "}",
+                              ";",
+                            ],
+                          },
+                          "displayName": "TimeBox__Time",
+                          "foldedComponentIds": Array [],
+                          "render": [Function],
+                          "styledComponentId": "TimeBox__Time-sc-10dhhye-2",
+                          "target": "span",
+                          "toString": [Function],
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                      index={10}
+                      onClick={[Function]}
+                    >
+                      <span
+                        className="c9"
+                        onClick={[Function]}
+                      >
+                        11
+                      </span>
+                    </StyledComponent>
+                  </TimeBox__Time>
+                  <TimeBox__Time
+                    index={11}
+                    key="12"
+                    onClick={[Function]}
+                  >
+                    <StyledComponent
+                      forwardedComponent={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "attrs": Array [],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "TimeBox__Time-sc-10dhhye-2",
+                            "isStatic": false,
+                            "lastClassName": "c9",
+                            "rules": Array [
+                              "display:flex;align-items:center;justify-content:center;grid-row:",
+                              [Function],
+                              " / span 1;width:",
+                              "32px",
+                              ";height:",
+                              "32px",
+                              ";font-size:16px;line-height:19px;user-select:none;cursor:pointer;",
+                              "@media only screen and ",
+                              "(min-width: 37.37em)",
+                              "{",
+                              "
+		grid-row: ",
+                              [Function],
+                              " / span 1;
+	",
+                              "}",
+                              ";",
+                            ],
+                          },
+                          "displayName": "TimeBox__Time",
+                          "foldedComponentIds": Array [],
+                          "render": [Function],
+                          "styledComponentId": "TimeBox__Time-sc-10dhhye-2",
+                          "target": "span",
+                          "toString": [Function],
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                      index={11}
+                      onClick={[Function]}
+                    >
+                      <span
+                        className="c9"
+                        onClick={[Function]}
+                      >
+                        12
+                      </span>
+                    </StyledComponent>
+                  </TimeBox__Time>
+                </div>
+              </StyledComponent>
+            </TimeBox__TimeWrapper>
+            <TimeBox__TimeWrapper>
+              <StyledComponent
+                forwardedComponent={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": Array [],
+                    "componentStyle": ComponentStyle {
+                      "componentId": "c1",
+                      "isStatic": true,
+                      "lastClassName": "c2",
+                      "rules": Array [
+                        "display:grid;grid-auto-columns:",
+                        "32px",
+                        ";grid-row-gap:10px;grid-column-gap:calc((100% - 6 * ",
+                        "32px",
+                        ") / 5);",
+                      ],
+                    },
+                    "displayName": "TimeBox__TimeWrapper",
+                    "foldedComponentIds": Array [],
+                    "render": [Function],
+                    "styledComponentId": "c1",
+                    "target": "div",
+                    "toString": [Function],
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+              >
+                <div
+                  className="c1 c2"
+                >
+                  <TimeBox__Title>
+                    <StyledComponent
+                      forwardedComponent={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "attrs": Array [],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "c3",
+                            "isStatic": true,
+                            "lastClassName": "c4",
+                            "rules": Array [
+                              "grid-row:1;grid-column:1 / 7;width:100%;font-size:20px;text-align:center;padding-bottom:4px;user-select:none;",
+                            ],
+                          },
+                          "displayName": "TimeBox__Title",
+                          "foldedComponentIds": Array [],
+                          "render": [Function],
+                          "styledComponentId": "c3",
+                          "target": "div",
+                          "toString": [Function],
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                    >
+                      <div
+                        className="c3 c4"
+                      >
+                        Minutes
+                      </div>
+                    </StyledComponent>
+                  </TimeBox__Title>
+                  <TimeBox__Time
+                    index={0}
+                    key="0"
+                    onClick={[Function]}
+                  >
+                    <StyledComponent
+                      forwardedComponent={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "attrs": Array [],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "TimeBox__Time-sc-10dhhye-2",
+                            "isStatic": false,
+                            "lastClassName": "c9",
+                            "rules": Array [
+                              "display:flex;align-items:center;justify-content:center;grid-row:",
+                              [Function],
+                              " / span 1;width:",
+                              "32px",
+                              ";height:",
+                              "32px",
+                              ";font-size:16px;line-height:19px;user-select:none;cursor:pointer;",
+                              "@media only screen and ",
+                              "(min-width: 37.37em)",
+                              "{",
+                              "
+		grid-row: ",
+                              [Function],
+                              " / span 1;
+	",
+                              "}",
+                              ";",
+                            ],
+                          },
+                          "displayName": "TimeBox__Time",
+                          "foldedComponentIds": Array [],
+                          "render": [Function],
+                          "styledComponentId": "TimeBox__Time-sc-10dhhye-2",
+                          "target": "span",
+                          "toString": [Function],
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                      index={0}
+                      onClick={[Function]}
+                    >
+                      <span
+                        className="c5"
+                        onClick={[Function]}
+                      >
+                        :
+                        00
+                      </span>
+                    </StyledComponent>
+                  </TimeBox__Time>
+                  <TimeBox__Time
+                    index={1}
+                    key="5"
+                    onClick={[Function]}
+                  >
+                    <StyledComponent
+                      forwardedComponent={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "attrs": Array [],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "TimeBox__Time-sc-10dhhye-2",
+                            "isStatic": false,
+                            "lastClassName": "c9",
+                            "rules": Array [
+                              "display:flex;align-items:center;justify-content:center;grid-row:",
+                              [Function],
+                              " / span 1;width:",
+                              "32px",
+                              ";height:",
+                              "32px",
+                              ";font-size:16px;line-height:19px;user-select:none;cursor:pointer;",
+                              "@media only screen and ",
+                              "(min-width: 37.37em)",
+                              "{",
+                              "
+		grid-row: ",
+                              [Function],
+                              " / span 1;
+	",
+                              "}",
+                              ";",
+                            ],
+                          },
+                          "displayName": "TimeBox__Time",
+                          "foldedComponentIds": Array [],
+                          "render": [Function],
+                          "styledComponentId": "TimeBox__Time-sc-10dhhye-2",
+                          "target": "span",
+                          "toString": [Function],
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                      index={1}
+                      onClick={[Function]}
+                    >
+                      <span
+                        className="c5"
+                        onClick={[Function]}
+                      >
+                        :
+                        05
+                      </span>
+                    </StyledComponent>
+                  </TimeBox__Time>
+                  <TimeBox__SelectedTime
+                    index={2}
+                    key="10"
+                    onClick={[Function]}
+                  >
+                    <StyledComponent
+                      forwardedComponent={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "attrs": Array [],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "TimeBox__SelectedTime-sc-10dhhye-3",
+                            "isStatic": false,
+                            "lastClassName": "c10",
+                            "rules": Array [
+                              "display:flex;align-items:center;justify-content:center;grid-row:",
+                              [Function],
+                              " / span 1;width:",
+                              "32px",
+                              ";height:",
+                              "32px",
+                              ";font-size:16px;line-height:19px;user-select:none;cursor:pointer;",
+                              "@media only screen and ",
+                              "(min-width: 37.37em)",
+                              "{",
+                              "
+		grid-row: ",
+                              [Function],
+                              " / span 1;
+	",
+                              "}",
+                              ";",
+                              "border-radius:50%;color:",
+                              [Function],
+                              ";background-color:",
+                              [Function],
+                              ";",
+                            ],
+                          },
+                          "displayName": "TimeBox__SelectedTime",
+                          "foldedComponentIds": Array [
+                            "TimeBox__Time-sc-10dhhye-2",
+                          ],
+                          "render": [Function],
+                          "styledComponentId": "TimeBox__SelectedTime-sc-10dhhye-3",
+                          "target": "span",
+                          "toString": [Function],
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                      index={2}
+                      onClick={[Function]}
+                    >
+                      <span
+                        className="c10"
+                        onClick={[Function]}
+                      >
+                        :
+                        10
+                      </span>
+                    </StyledComponent>
+                  </TimeBox__SelectedTime>
+                  <TimeBox__Time
+                    index={3}
+                    key="15"
+                    onClick={[Function]}
+                  >
+                    <StyledComponent
+                      forwardedComponent={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "attrs": Array [],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "TimeBox__Time-sc-10dhhye-2",
+                            "isStatic": false,
+                            "lastClassName": "c9",
+                            "rules": Array [
+                              "display:flex;align-items:center;justify-content:center;grid-row:",
+                              [Function],
+                              " / span 1;width:",
+                              "32px",
+                              ";height:",
+                              "32px",
+                              ";font-size:16px;line-height:19px;user-select:none;cursor:pointer;",
+                              "@media only screen and ",
+                              "(min-width: 37.37em)",
+                              "{",
+                              "
+		grid-row: ",
+                              [Function],
+                              " / span 1;
+	",
+                              "}",
+                              ";",
+                            ],
+                          },
+                          "displayName": "TimeBox__Time",
+                          "foldedComponentIds": Array [],
+                          "render": [Function],
+                          "styledComponentId": "TimeBox__Time-sc-10dhhye-2",
+                          "target": "span",
+                          "toString": [Function],
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                      index={3}
+                      onClick={[Function]}
+                    >
+                      <span
+                        className="c6"
+                        onClick={[Function]}
+                      >
+                        :
+                        15
+                      </span>
+                    </StyledComponent>
+                  </TimeBox__Time>
+                  <TimeBox__Time
+                    index={4}
+                    key="20"
+                    onClick={[Function]}
+                  >
+                    <StyledComponent
+                      forwardedComponent={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "attrs": Array [],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "TimeBox__Time-sc-10dhhye-2",
+                            "isStatic": false,
+                            "lastClassName": "c9",
+                            "rules": Array [
+                              "display:flex;align-items:center;justify-content:center;grid-row:",
+                              [Function],
+                              " / span 1;width:",
+                              "32px",
+                              ";height:",
+                              "32px",
+                              ";font-size:16px;line-height:19px;user-select:none;cursor:pointer;",
+                              "@media only screen and ",
+                              "(min-width: 37.37em)",
+                              "{",
+                              "
+		grid-row: ",
+                              [Function],
+                              " / span 1;
+	",
+                              "}",
+                              ";",
+                            ],
+                          },
+                          "displayName": "TimeBox__Time",
+                          "foldedComponentIds": Array [],
+                          "render": [Function],
+                          "styledComponentId": "TimeBox__Time-sc-10dhhye-2",
+                          "target": "span",
+                          "toString": [Function],
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                      index={4}
+                      onClick={[Function]}
+                    >
+                      <span
+                        className="c6"
+                        onClick={[Function]}
+                      >
+                        :
+                        20
+                      </span>
+                    </StyledComponent>
+                  </TimeBox__Time>
+                  <TimeBox__Time
+                    index={5}
+                    key="25"
+                    onClick={[Function]}
+                  >
+                    <StyledComponent
+                      forwardedComponent={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "attrs": Array [],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "TimeBox__Time-sc-10dhhye-2",
+                            "isStatic": false,
+                            "lastClassName": "c9",
+                            "rules": Array [
+                              "display:flex;align-items:center;justify-content:center;grid-row:",
+                              [Function],
+                              " / span 1;width:",
+                              "32px",
+                              ";height:",
+                              "32px",
+                              ";font-size:16px;line-height:19px;user-select:none;cursor:pointer;",
+                              "@media only screen and ",
+                              "(min-width: 37.37em)",
+                              "{",
+                              "
+		grid-row: ",
+                              [Function],
+                              " / span 1;
+	",
+                              "}",
+                              ";",
+                            ],
+                          },
+                          "displayName": "TimeBox__Time",
+                          "foldedComponentIds": Array [],
+                          "render": [Function],
+                          "styledComponentId": "TimeBox__Time-sc-10dhhye-2",
+                          "target": "span",
+                          "toString": [Function],
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                      index={5}
+                      onClick={[Function]}
+                    >
+                      <span
+                        className="c6"
+                        onClick={[Function]}
+                      >
+                        :
+                        25
+                      </span>
+                    </StyledComponent>
+                  </TimeBox__Time>
+                  <TimeBox__Time
+                    index={6}
+                    key="30"
+                    onClick={[Function]}
+                  >
+                    <StyledComponent
+                      forwardedComponent={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "attrs": Array [],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "TimeBox__Time-sc-10dhhye-2",
+                            "isStatic": false,
+                            "lastClassName": "c9",
+                            "rules": Array [
+                              "display:flex;align-items:center;justify-content:center;grid-row:",
+                              [Function],
+                              " / span 1;width:",
+                              "32px",
+                              ";height:",
+                              "32px",
+                              ";font-size:16px;line-height:19px;user-select:none;cursor:pointer;",
+                              "@media only screen and ",
+                              "(min-width: 37.37em)",
+                              "{",
+                              "
+		grid-row: ",
+                              [Function],
+                              " / span 1;
+	",
+                              "}",
+                              ";",
+                            ],
+                          },
+                          "displayName": "TimeBox__Time",
+                          "foldedComponentIds": Array [],
+                          "render": [Function],
+                          "styledComponentId": "TimeBox__Time-sc-10dhhye-2",
+                          "target": "span",
+                          "toString": [Function],
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                      index={6}
+                      onClick={[Function]}
+                    >
+                      <span
+                        className="c7"
+                        onClick={[Function]}
+                      >
+                        :
+                        30
+                      </span>
+                    </StyledComponent>
+                  </TimeBox__Time>
+                  <TimeBox__Time
+                    index={7}
+                    key="35"
+                    onClick={[Function]}
+                  >
+                    <StyledComponent
+                      forwardedComponent={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "attrs": Array [],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "TimeBox__Time-sc-10dhhye-2",
+                            "isStatic": false,
+                            "lastClassName": "c9",
+                            "rules": Array [
+                              "display:flex;align-items:center;justify-content:center;grid-row:",
+                              [Function],
+                              " / span 1;width:",
+                              "32px",
+                              ";height:",
+                              "32px",
+                              ";font-size:16px;line-height:19px;user-select:none;cursor:pointer;",
+                              "@media only screen and ",
+                              "(min-width: 37.37em)",
+                              "{",
+                              "
+		grid-row: ",
+                              [Function],
+                              " / span 1;
+	",
+                              "}",
+                              ";",
+                            ],
+                          },
+                          "displayName": "TimeBox__Time",
+                          "foldedComponentIds": Array [],
+                          "render": [Function],
+                          "styledComponentId": "TimeBox__Time-sc-10dhhye-2",
+                          "target": "span",
+                          "toString": [Function],
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                      index={7}
+                      onClick={[Function]}
+                    >
+                      <span
+                        className="c7"
+                        onClick={[Function]}
+                      >
+                        :
+                        35
+                      </span>
+                    </StyledComponent>
+                  </TimeBox__Time>
+                  <TimeBox__Time
+                    index={8}
+                    key="40"
+                    onClick={[Function]}
+                  >
+                    <StyledComponent
+                      forwardedComponent={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "attrs": Array [],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "TimeBox__Time-sc-10dhhye-2",
+                            "isStatic": false,
+                            "lastClassName": "c9",
+                            "rules": Array [
+                              "display:flex;align-items:center;justify-content:center;grid-row:",
+                              [Function],
+                              " / span 1;width:",
+                              "32px",
+                              ";height:",
+                              "32px",
+                              ";font-size:16px;line-height:19px;user-select:none;cursor:pointer;",
+                              "@media only screen and ",
+                              "(min-width: 37.37em)",
+                              "{",
+                              "
+		grid-row: ",
+                              [Function],
+                              " / span 1;
+	",
+                              "}",
+                              ";",
+                            ],
+                          },
+                          "displayName": "TimeBox__Time",
+                          "foldedComponentIds": Array [],
+                          "render": [Function],
+                          "styledComponentId": "TimeBox__Time-sc-10dhhye-2",
+                          "target": "span",
+                          "toString": [Function],
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                      index={8}
+                      onClick={[Function]}
+                    >
+                      <span
+                        className="c7"
+                        onClick={[Function]}
+                      >
+                        :
+                        40
+                      </span>
+                    </StyledComponent>
+                  </TimeBox__Time>
+                  <TimeBox__Time
+                    index={9}
+                    key="45"
+                    onClick={[Function]}
+                  >
+                    <StyledComponent
+                      forwardedComponent={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "attrs": Array [],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "TimeBox__Time-sc-10dhhye-2",
+                            "isStatic": false,
+                            "lastClassName": "c9",
+                            "rules": Array [
+                              "display:flex;align-items:center;justify-content:center;grid-row:",
+                              [Function],
+                              " / span 1;width:",
+                              "32px",
+                              ";height:",
+                              "32px",
+                              ";font-size:16px;line-height:19px;user-select:none;cursor:pointer;",
+                              "@media only screen and ",
+                              "(min-width: 37.37em)",
+                              "{",
+                              "
+		grid-row: ",
+                              [Function],
+                              " / span 1;
+	",
+                              "}",
+                              ";",
+                            ],
+                          },
+                          "displayName": "TimeBox__Time",
+                          "foldedComponentIds": Array [],
+                          "render": [Function],
+                          "styledComponentId": "TimeBox__Time-sc-10dhhye-2",
+                          "target": "span",
+                          "toString": [Function],
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                      index={9}
+                      onClick={[Function]}
+                    >
+                      <span
+                        className="c9"
+                        onClick={[Function]}
+                      >
+                        :
+                        45
+                      </span>
+                    </StyledComponent>
+                  </TimeBox__Time>
+                  <TimeBox__Time
+                    index={10}
+                    key="50"
+                    onClick={[Function]}
+                  >
+                    <StyledComponent
+                      forwardedComponent={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "attrs": Array [],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "TimeBox__Time-sc-10dhhye-2",
+                            "isStatic": false,
+                            "lastClassName": "c9",
+                            "rules": Array [
+                              "display:flex;align-items:center;justify-content:center;grid-row:",
+                              [Function],
+                              " / span 1;width:",
+                              "32px",
+                              ";height:",
+                              "32px",
+                              ";font-size:16px;line-height:19px;user-select:none;cursor:pointer;",
+                              "@media only screen and ",
+                              "(min-width: 37.37em)",
+                              "{",
+                              "
+		grid-row: ",
+                              [Function],
+                              " / span 1;
+	",
+                              "}",
+                              ";",
+                            ],
+                          },
+                          "displayName": "TimeBox__Time",
+                          "foldedComponentIds": Array [],
+                          "render": [Function],
+                          "styledComponentId": "TimeBox__Time-sc-10dhhye-2",
+                          "target": "span",
+                          "toString": [Function],
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                      index={10}
+                      onClick={[Function]}
+                    >
+                      <span
+                        className="c9"
+                        onClick={[Function]}
+                      >
+                        :
+                        50
+                      </span>
+                    </StyledComponent>
+                  </TimeBox__Time>
+                  <TimeBox__Time
+                    index={11}
+                    key="55"
+                    onClick={[Function]}
+                  >
+                    <StyledComponent
+                      forwardedComponent={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "attrs": Array [],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "TimeBox__Time-sc-10dhhye-2",
+                            "isStatic": false,
+                            "lastClassName": "c9",
+                            "rules": Array [
+                              "display:flex;align-items:center;justify-content:center;grid-row:",
+                              [Function],
+                              " / span 1;width:",
+                              "32px",
+                              ";height:",
+                              "32px",
+                              ";font-size:16px;line-height:19px;user-select:none;cursor:pointer;",
+                              "@media only screen and ",
+                              "(min-width: 37.37em)",
+                              "{",
+                              "
+		grid-row: ",
+                              [Function],
+                              " / span 1;
+	",
+                              "}",
+                              ";",
+                            ],
+                          },
+                          "displayName": "TimeBox__Time",
+                          "foldedComponentIds": Array [],
+                          "render": [Function],
+                          "styledComponentId": "TimeBox__Time-sc-10dhhye-2",
+                          "target": "span",
+                          "toString": [Function],
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                      index={11}
+                      onClick={[Function]}
+                    >
+                      <span
+                        className="c9"
+                        onClick={[Function]}
+                      >
+                        :
+                        55
+                      </span>
+                    </StyledComponent>
+                  </TimeBox__Time>
+                </div>
+              </StyledComponent>
+            </TimeBox__TimeWrapper>
+          </div>
+        </StyledComponent>
+      </TimeBox__Container>
+    </ThemeProvider>
+  </EnsureDefaultTheme>
+</TimeBox>
+`;

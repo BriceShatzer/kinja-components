@@ -1,0 +1,324 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<NormalLinkPreview /> should read with all information available 1`] = `
+.c5 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 20px;
+  height: 20px;
+}
+
+.c5 .SVGInline-svg {
+  display: none;
+}
+
+.c5 svg {
+  max-width: 100%;
+  width: inherit;
+  height: inherit;
+}
+
+.c2 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c9 {
+  font-family: ProximaNovaCond,sans-serif;
+  font-size: 16px;
+  color: #000;
+  box-shadow: inset 0 -2px 0 #B12460;
+  line-height: 18px;
+}
+
+.c9 .hostname {
+  font-weight: bold;
+}
+
+.c9:hover {
+  color: #B12460;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c4 {
+  padding-bottom: 56.2%;
+}
+
+.c4 video,
+.c4 img,
+.c4 amp-img {
+  position: absolute;
+  width: 100%;
+}
+
+.c1 {
+  display: block;
+  position: relative;
+  margin: -1.125rem -1.125rem 1rem;
+}
+
+.c1 .c3 {
+  margin: 0;
+  position: relative;
+  border-bottom: 5px solid #FBC000;
+}
+
+.c1 > span {
+  position: relative;
+  top: -20px;
+}
+
+.c7 {
+  font-size: 20px;
+  line-height: 24px;
+  margin-bottom: 10px;
+}
+
+.c8.c8 {
+  font-size: 15px;
+  line-height: 25px;
+  margin-bottom: 0.6rem;
+}
+
+.c0 {
+  clear: both;
+  margin: 2rem auto;
+  border: #E5E5E5 1px solid;
+  border-radius: 5px;
+  box-shadow: #E5E5E5 0 2px 5px;
+  max-width: 636px;
+}
+
+.c6 {
+  padding: 1.125rem;
+}
+
+.c6 a,
+.c6 a:hover {
+  color: #000;
+}
+
+@media only screen and (min-width:37.37em) {
+  .c1 {
+    width: 25%;
+    min-width: 25%;
+    padding: 1.125rem 0 0 1.125rem;
+    margin: 0;
+    float: left;
+  }
+}
+
+@media only screen and (max-width:49.94em) {
+  .c1 {
+    margin: auto;
+  }
+
+  .c1 .c3 img {
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+  }
+}
+
+@media only screen and (min-width:50em) and (max-width:63.69em) {
+  .c0 {
+    max-width: 636px;
+  }
+}
+
+@media only screen and (min-width:63.75em) and (max-width:85.19em) {
+  .c0 {
+    max-width: 636px;
+  }
+}
+
+@media only screen and (min-width:85.25em) {
+  .c0 {
+    max-width: 636px;
+  }
+}
+
+@media only screen and (min-width:37.37em) {
+  .c0 {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+  }
+}
+
+<aside
+  class="inset--story branded-item branded-item--kotaku c0"
+  data-commerce-source="inset"
+>
+  <a
+    class="inset--story__thumb c1 js_link c2"
+    data-ga="[[\\"Permalink page click\\",\\"Permalink page click - inset photo\\"]]"
+    href="url"
+    rel="noopener noreferrer"
+    target="_blank"
+  >
+    <div
+      class="js_lazy-image c3 c4"
+    >
+      <div>
+        <img
+          data-anim-src=""
+          data-chomp-id="img-id"
+          data-format="jpg"
+          data-srcset="https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_180,q_80,w_320/img-id.jpg 320w, https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_264,q_80,w_470/img-id.jpg 470w, https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_450,q_80,w_800/img-id.jpg 800w, https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,q_80,w_1200/img-id.jpg 1200w, https://i.kinja-img.com/gawker-media/image/upload/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/img-id.jpg 1600w, https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_80,q_80,w_80/img-id.jpg 80w"
+          draggable="auto"
+          sizes="(max-width: 480px) 200px, 260px"
+          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+        />
+      </div>
+    </div>
+    <span
+      class="c5"
+    >
+      <svg
+        aria-label="Kotaku avatar"
+        height="64"
+        viewBox="0 0 64 64"
+        width="64"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <g
+          fill="none"
+          fill-rule="evenodd"
+        >
+          <path
+            d="M0 0h64v64H0z"
+            fill="#FBC000"
+          />
+          <path
+            d="M16.8 49.62l3.67-.14c4.05-.15 7.76-3.2 8.35-6.78l4.13-24.65-10.3-.3-5.84 31.87zM43.19 29.1c3.57.02 4.95 1.29 5.93 3.27l6.84 16.84c-1.73 1.54-9.79 1-12.08-5.04l-2.5-6.72h-1.15c-3.8.06-9.2-2.78-8.03-8.4l11 .05zm-22.2-11.38l-5.59-.16c-7.78-.22-9.93 5.3-9.28 8.88l13.26.13 1.6-8.85zm31.55 7.69c2.62-1.66 3.74-7.65 1.9-9.4l-13.51 3.4c-2.3 1.28-4.94 5.01-2.33 9.15l13.94-3.15z"
+            fill="#FFF"
+          />
+        </g>
+      </svg>
+    </span>
+  </a>
+  <div
+    class="c6"
+  >
+    <a
+      class="js_link c2"
+      data-ga="[[\\"Permalink page click\\",\\"Permalink page click - inset headline\\"]]"
+      href="url"
+      rel="noopener noreferrer"
+      target="_blank"
+    >
+      <h6
+        class="c7"
+      >
+        Headline
+      </h6>
+    </a>
+    <p
+      class="c8"
+    >
+      shortDescription
+    </p>
+    <a
+      class="js_readmore inset--story__readmore c9 js_link c2"
+      data-ga="[[\\"Permalink page click\\",\\"Permalink page click - inset read more link\\"]]"
+      href="url"
+      rel="noopener noreferrer"
+      target="_blank"
+    >
+      Read more
+    </a>
+  </div>
+</aside>
+`;
+
+exports[`<NormalLinkPreview /> should render by default 1`] = `
+.c4 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c3 {
+  font-family: ProximaNovaCond,sans-serif;
+  font-size: 16px;
+}
+
+.c3 .hostname {
+  font-weight: bold;
+}
+
+.c2.c2 {
+  font-size: 15px;
+  line-height: 25px;
+  margin-bottom: 0.6rem;
+}
+
+.c0 {
+  clear: both;
+  margin: 2rem auto;
+  border: #E5E5E5 1px solid;
+  border-radius: 5px;
+  box-shadow: #E5E5E5 0 2px 5px;
+  max-width: 636px;
+}
+
+.c1 {
+  padding: 1.125rem;
+}
+
+.c1 a,
+.c1 a:hover {
+  color: #000;
+}
+
+@media only screen and (min-width:50em) and (max-width:63.69em) {
+  .c0 {
+    max-width: 636px;
+  }
+}
+
+@media only screen and (min-width:63.75em) and (max-width:85.19em) {
+  .c0 {
+    max-width: 636px;
+  }
+}
+
+@media only screen and (min-width:85.25em) {
+  .c0 {
+    max-width: 636px;
+  }
+}
+
+@media only screen and (min-width:37.37em) {
+  .c0 {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+  }
+}
+
+<aside
+  class="inset--story branded-item branded-item--kinja c0"
+  data-commerce-source="inset"
+>
+  <div
+    class="c1"
+  >
+    <p
+      class="c2"
+    />
+    <a
+      class="js_readmore inset--story__readmore c3 js_link c4"
+      data-ga="[[\\"Permalink page click\\",\\"Permalink page click - inset read more link\\"]]"
+      rel="noopener noreferrer"
+      target="_blank"
+    >
+      Read more
+    </a>
+  </div>
+</aside>
+`;

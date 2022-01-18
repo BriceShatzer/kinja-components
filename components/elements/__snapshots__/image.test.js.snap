@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Image elements data attributes are present data-srcset 1`] = `"https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_80,q_80,w_80/test_image_id.jpg 80w, https://i.kinja-img.com/gawker-media/image/upload/c_fit,fl_progressive,q_80,w_320/test_image_id.jpg 320w, https://i.kinja-img.com/gawker-media/image/upload/c_fit,f_auto,fl_progressive,q_80,w_470/test_image_id.jpg 470w, https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,q_80,w_800/test_image_id.jpg 800w"`;
+
+exports[`Image elements should render a responsive image 1`] = `
+<img
+  data-anim-src=""
+  data-chomp-id="test_image_id"
+  data-format="jpg"
+  draggable="auto"
+  src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+  srcSet="https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_80,q_80,w_80/test_image_id.jpg 80w, https://i.kinja-img.com/gawker-media/image/upload/c_fit,fl_progressive,q_80,w_320/test_image_id.jpg 320w, https://i.kinja-img.com/gawker-media/image/upload/c_fit,f_auto,fl_progressive,q_80,w_470/test_image_id.jpg 470w, https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,q_80,w_800/test_image_id.jpg 800w"
+/>
+`;

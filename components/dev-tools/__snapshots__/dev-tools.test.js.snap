@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<DevTools /> should render by default 1`] = `
+<EnsureDefaultTheme>
+  <dev-tools__FixedContainer>
+    <dev-tools__GearButton
+      icon={<GearIcon />}
+      onClick={[Function]}
+    />
+  </dev-tools__FixedContainer>
+</EnsureDefaultTheme>
+`;
+
+exports[`<DevTools /> should render when open 1`] = `
+<EnsureDefaultTheme>
+  <dev-tools__FixedContainer>
+    <div>
+      <dev-tools__Dock
+        location="right"
+      >
+        <FeatureSwitcher />
+        <AdSwitch />
+        <EnvSwitch />
+        <DockSwitch
+          updateDockLocation={[Function]}
+        />
+      </dev-tools__Dock>
+      <dev-tools__CloseButton
+        icon={<CloseIcon />}
+        variant="tertiary"
+      />
+    </div>
+  </dev-tools__FixedContainer>
+</EnsureDefaultTheme>
+`;

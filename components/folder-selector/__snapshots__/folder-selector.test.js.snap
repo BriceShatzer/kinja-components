@@ -1,0 +1,271 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<FolderSelector/> should render 1`] = `
+<ClickOutside(FolderSelector)
+  close={[Function]}
+  handleClickOutside={[Function]}
+  isOpen={true}
+  levels={
+    Array [
+      Object {
+        "displayName": "Blogs",
+        "getItems": [Function],
+        "id": "blogs",
+        "items": Array [
+          Object {
+            "icon": <BlogAvatar
+              name="gizmodo"
+              size={18}
+            />,
+            "id": "1",
+            "name": "Giz",
+          },
+          Object {
+            "id": "2",
+            "name": "AV",
+          },
+        ],
+        "required": true,
+        "selection": "1",
+      },
+      Object {
+        "displayName": "Story Types",
+        "getItems": [Function],
+        "id": "storyTypes",
+        "items": Array [
+          Object {
+            "id": "1",
+            "name": "Some story type",
+          },
+          Object {
+            "id": "2",
+            "name": "Some other story type",
+          },
+        ],
+        "selection": "2",
+      },
+      Object {
+        "displayName": "Categories",
+        "getItems": [Function],
+        "id": "categories",
+        "items": Array [
+          Object {
+            "id": "1",
+            "name": "Some category",
+          },
+          Object {
+            "id": "2",
+            "name": "Some other category with a really long name",
+          },
+        ],
+        "selection": "1",
+      },
+      Object {
+        "displayName": "Sub-categories",
+        "getItems": [Function],
+        "id": "subcategories",
+      },
+    ]
+  }
+  onCancel={[MockFunction]}
+  onSelect={[MockFunction]}
+  toggle={[Function]}
+/>
+`;
+
+exports[`<FolderSelector/> should render 2`] = `
+<ClickOutside(FolderSelector)
+  close={[Function]}
+  handleClickOutside={[Function]}
+  isOpen={true}
+  levels={
+    Array [
+      Object {
+        "displayName": "Blogs",
+        "getItems": [Function],
+        "id": "blogs",
+        "items": Array [
+          Object {
+            "icon": <BlogAvatar
+              name="gizmodo"
+              size={18}
+            />,
+            "id": "1",
+            "name": "Giz",
+          },
+          Object {
+            "id": "2",
+            "name": "AV",
+          },
+        ],
+        "required": true,
+        "selection": "1",
+      },
+      Object {
+        "displayName": "Story Types",
+        "getItems": [Function],
+        "id": "storyTypes",
+        "items": Array [
+          Object {
+            "id": "1",
+            "name": "Some story type",
+          },
+          Object {
+            "id": "2",
+            "name": "Some other story type",
+          },
+        ],
+        "selection": "2",
+      },
+      Object {
+        "displayName": "Categories",
+        "getItems": [Function],
+        "id": "categories",
+        "items": Array [
+          Object {
+            "id": "1",
+            "name": "Some category",
+          },
+          Object {
+            "id": "2",
+            "name": "Some other category with a really long name",
+          },
+        ],
+        "selection": "1",
+      },
+      Object {
+        "displayName": "Sub-categories",
+        "getItems": [Function],
+        "id": "subcategories",
+      },
+    ]
+  }
+  onCancel={[MockFunction]}
+  onSelect={[MockFunction]}
+  toggle={[Function]}
+/>
+`;
+
+exports[`<FolderSelector/> should render with only one level 1`] = `
+<ClickOutside(FolderSelector)
+  close={[Function]}
+  handleClickOutside={[Function]}
+  isOpen={true}
+  levels={
+    Array [
+      Object {
+        "displayName": "Blogs",
+        "getItems": [Function],
+        "id": "blogs",
+        "items": Array [
+          Object {
+            "icon": <BlogAvatar
+              name="gizmodo"
+              size={18}
+            />,
+            "id": "1",
+            "name": "Giz",
+          },
+          Object {
+            "id": "2",
+            "name": "AV",
+          },
+        ],
+        "required": true,
+        "selection": "1",
+      },
+      Object {
+        "displayName": "Story Types",
+        "getItems": [Function],
+        "id": "storyTypes",
+      },
+      Object {
+        "displayName": "Categories",
+        "getItems": [Function],
+        "id": "categories",
+      },
+      Object {
+        "displayName": "Sub-categories",
+        "getItems": [Function],
+        "id": "subcategories",
+      },
+    ]
+  }
+  onCancel={[MockFunction]}
+  onSelect={[MockFunction]}
+  toggle={[Function]}
+/>
+`;
+
+exports[`<FolderSelector/> should toggle visibility by clicking the dropdown 1`] = `
+<ClickOutside(FolderSelector)
+  close={[Function]}
+  handleClickOutside={[Function]}
+  isOpen={false}
+  levels={
+    Array [
+      Object {
+        "displayName": "Blogs",
+        "getItems": [Function],
+        "id": "blogs",
+        "items": Array [
+          Object {
+            "icon": <BlogAvatar
+              name="gizmodo"
+              size={18}
+            />,
+            "id": "1",
+            "name": "Giz",
+          },
+          Object {
+            "id": "2",
+            "name": "AV",
+          },
+        ],
+        "required": true,
+        "selection": "1",
+      },
+      Object {
+        "displayName": "Story Types",
+        "getItems": [Function],
+        "id": "storyTypes",
+        "items": Array [
+          Object {
+            "id": "1",
+            "name": "Some story type",
+          },
+          Object {
+            "id": "2",
+            "name": "Some other story type",
+          },
+        ],
+        "selection": "2",
+      },
+      Object {
+        "displayName": "Categories",
+        "getItems": [Function],
+        "id": "categories",
+        "items": Array [
+          Object {
+            "id": "1",
+            "name": "Some category",
+          },
+          Object {
+            "id": "2",
+            "name": "Some other category with a really long name",
+          },
+        ],
+        "selection": "1",
+      },
+      Object {
+        "displayName": "Sub-categories",
+        "getItems": [Function],
+        "id": "subcategories",
+      },
+    ]
+  }
+  onCancel={[MockFunction]}
+  onSelect={[MockFunction]}
+  toggle={[Function]}
+/>
+`;

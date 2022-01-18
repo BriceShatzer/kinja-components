@@ -1,0 +1,950 @@
+{
+	"parent": null,
+	"largeOnStream": false,
+	"parentAuthorId": null,
+	"adSettings": null,
+	"videos": [],
+	"body": [
+		{
+			"containers": [],
+			"type": "Paragraph",
+			"value": [
+				{
+					"styles": [
+						"Italic"
+					],
+					"type": "Text",
+					"value": "Welcome to another season of "
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "Game Of Thrones"
+				},
+				{
+					"styles": [
+						"Italic"
+					],
+					"type": "Text",
+					"value": " reviews for those who have not read the books the series is based on. Since critics won’t be receiving screeners this season, each week we’ll publish the episode page once the broadcast ends and add the review to the page when finished. That way newbies have a  place to discuss the episode as soon as possible.  Have you read the books and want to discuss what happens? That’s what our "
+				},
+				{
+					"reference": "http://www.avclub.com/tv/game-of-thrones-experts/",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Italic"
+							],
+							"type": "Text",
+							"value": "experts reviews"
+						}
+					],
+					"target": "_blank"
+				},
+				{
+					"styles": [
+						"Italic"
+					],
+					"type": "Text",
+					"value": " are for."
+				}
+			]
+		},
+		{
+			"containers": [],
+			"type": "Paragraph",
+			"value": [
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "All hail Bran the Broken, First of his Name, King of the Andals and of the First Men, Lord of the Six Kingdoms and Protector of the Realm. We’re a long way from democracy in the land of Westeros—such a ludicrous suggestion will get you laughed back into your seat, as Samwell Tarly well knows—but this is a ruler chosen for intelligence, not blood, and that’s not nothing. Then again, maybe it’s also not much."
+				}
+			]
+		},
+		{
+			"score": "B",
+			"image": {
+				"id": "wobub2emjx9kfxjfxzhn",
+				"format": "jpg"
+			},
+			"hide": false,
+			"text": [
+				{
+					"label": "Episode ",
+					"value": "6"
+				}
+			],
+			"alignment": "Fullbleed",
+			"title": "\"The Iron Throne\"",
+			"type": "ReviewBox"
+		},
+		{
+			"containers": [],
+			"type": "Paragraph",
+			"value": [
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "This hasn’t been "
+				},
+				{
+					"styles": [
+						"Italic"
+					],
+					"type": "Text",
+					"value": "Game Of Thrones"
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "’ finest season by any metric, yet it’s far from the disaster some make it out to be. It’s fascinating to see a show wrap up in a manner wherein many of the flaws so clearly occur offscreen rather than on; the plague of season eight hasn’t been lackluster episodes, for the most part (though “"
+				},
+				{
+					"reference": "https://tv.avclub.com/campaigns-are-waged-on-and-off-the-game-of-thrones-batt-1834536681",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [],
+							"type": "Text",
+							"value": "The Last Of The Starks"
+						}
+					]
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "” was a definite low point). It’s been what takes place between episodes, even between scenes: a dearth of cogently defined pacing and structure that’s been cast aside in the race to the finish. What would’ve felt methodical and precise in early seasons has slowly transitioned to rushed and messy. "
+				}
+			]
+		},
+		{
+			"containers": [],
+			"type": "Paragraph",
+			"value": [
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "But the problem wasn’t, for example, Euron Greyjoy getting the drop on Dany and her fleet in a manner that suggested no one had bothered to do a simple reconnoiter. It was the way in which the breakneck pace implied it hadn’t even been considered. Plenty of past seasons’ events could look ill-conceived in the critical eye of Monday-morning quarterbacking, but previously, the show had earned the benefit of the doubt that missteps on the part of supposedly intelligent characters were a plausible lack of in-world foresight. In the wake of the accelerated pacing, such generous assessments seem lacking, regardless of intentions. Individual episodes are still thrilling and often quite striking, give or take "
+				},
+				{
+					"reference": "https://tv.avclub.com/game-of-thrones-suffers-the-fog-of-war-in-the-battle-ag-1834367999?_ga=2.228210523.733162550.1558311218-1837692940.1524526623",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [],
+							"type": "Text",
+							"value": "some pitch-black battle scenes"
+						}
+					]
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": ". But the gradual ramping up of the plotting that has grown steadily in the past three seasons crossed some invisible Maginot line this year, where "
+				},
+				{
+					"reference": "https://www.avclub.com/this-season-of-game-of-thrones-was-illogical-dumb-and-1798505721",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [],
+							"type": "Text",
+							"value": "the formerly acceptable trade-offs of focus for fun"
+						}
+					]
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": " are no longer quite so taken for granted. The lurid storytelling and expensive-looking action can’t compensate for what seems to be missing—namely, that elaborate narrative connective tissue lending emotional firmament to the strength of the separate installments."
+				}
+			]
+		},
+		{
+			"lightbox": true,
+			"syndicationRights": false,
+			"format": "jpg",
+			"width": 3733,
+			"attribution": [
+				{
+					"label": "Photo",
+					"credit": [
+						{
+							"styles": [],
+							"type": "Text",
+							"value": "Helen Sloan"
+						}
+					],
+					"source": [
+						{
+							"styles": [],
+							"type": "Text",
+							"value": "HBO"
+						}
+					]
+				}
+			],
+			"caption": [],
+			"id": "o0kxz4sgug5kendvgxei",
+			"alignment": "Bleed",
+			"type": "Image",
+			"height": 2100
+		},
+		{
+			"containers": [],
+			"type": "Paragraph",
+			"value": [
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "“The Iron Throne” fares the best, in some ways, of any episode this season. Freed from the necessity to do anything else, it simply concludes the story of Daenerys Targaryen and the Stark family’s adventures in Westeros. It didn’t stretch too hard attempting to wrap everything up in a bow, but instead focused narrowly on two moments: The aftermath of Daenerys’ brutal violence, and the weeks-later meeting of the rulers of the lands to determine a course of action. This isn’t to say the episode was superlative—it was too uneven to be great—but the  simplicity of scope was refreshing, admittedly an ironic statement given it was literally about deciding the fate of the realm."
+				},
+				{
+					"type": "LineBreak"
+				}
+			]
+		},
+		{
+			"containers": [],
+			"type": "Paragraph",
+			"value": [
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "Dany didn’t necessarily have to die, but letting her live would’ve been an assessment of humanity so bleak that even George R.R. Martin, it seems, wants to hope for something better. Faced with the zeal of an autocrat so total that “submit or die” has been revised in her mind to a wholly justified “submit and maybe die anyway,” Jon Snow finds the commitment to duty needed to spare further loss of life. In some ways having Jon be the one to kill Dany was actually the least interesting option, but the symbolic weight of the truest believer finishing her off made sense. This is a core concept of Martin’s philosophy, the idea that wannabe saviors (and the fervent belief in them) lead to the greatest calamities. The faith in destiny and moral certainty claimed by would-be liberators brooks no resistance, and to register objections to their devotion is to be seen as the enemy of rightness. If the person is just, then any disagreement must de facto be unjust. “You’re either with me or you’re against me” became Dany’s credo, and those against her were an ever-changing multitude to be determined solely by her whims. "
+				}
+			]
+		},
+		{
+			"lightbox": true,
+			"syndicationRights": false,
+			"format": "jpg",
+			"width": 3150,
+			"attribution": [
+				{
+					"label": "Photo",
+					"credit": [
+						{
+							"styles": [],
+							"type": "Text",
+							"value": "Helen Sloan"
+						}
+					],
+					"source": [
+						{
+							"styles": [],
+							"type": "Text",
+							"value": "HBO"
+						}
+					]
+				}
+			],
+			"caption": [],
+			"id": "ytku0bafjvl22z9dfnl5",
+			"alignment": "Bleed",
+			"type": "Image",
+			"height": 1771
+		},
+		{
+			"containers": [],
+			"type": "Paragraph",
+			"value": [
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "Jon isn’t lying when he tells her she will always be his queen, right before plunging a knife into her. He genuinely swore obedience, and sees himself as a traitor when he commits the deeds. He may have been swayed to action by the conversation with Tyrion, but the fact is, Jon already knew the right thing to do—he simply can’t accept that such actions, no matter how justified, can be forgiven, and he already felt torn to shreds by the weight of responsibility. In the wake of her destruction of King’s Landing, Daenerys takes to her pulpit and thanks her loyal followers, but quickly goes beyond gratitude. Whether swept up in the moment or not, her exhortations to continue this bloodshed, to purge the world of everyone she finds unworthy, are the hallmark of the tyrant. The look exchanged by Jon and Tyrion after the latter tosses his Hand brooch down the steps in a public refusal of her rule conveys all too well that both know where this path leads. But Tyrion already made his play to save people from her vengeance, so he knows Jon has to finish the job."
+				},
+				{
+					"type": "LineBreak"
+				}
+			]
+		},
+		{
+			"containers": [],
+			"type": "Paragraph",
+			"value": [
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "It’s an engaging talk the two of them share, one that explicitly lays out many of the show’s themes without feeling like they’ve been shoehorned in. After all, this is literally about confronting the mistakes of belief, and what we owe other people despite our own emotions. If Jon refuses the idea of fate, as he insists he does, then he also has to accept Tyrion’s point—if we make our own decisions of right and wrong, no prior obligations should stand in the way of the ethical choice now. “It doesn’t matter what I’d do,” Jon lamely protests when Tyrion correctly notes the former bastard would never have burned all those innocents alive. “It matters more than anything,” Tyrion rebukes. The embrace of moral absolutism is the death of morality itself. A variant on Nietzsche’s old axiom about being careful when fighting monsters not to become one yourself (more popularly known these days from "
+				},
+				{
+					"reference": "https://film.avclub.com/the-dark-knight-1798204595",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Italic"
+							],
+							"type": "Text",
+							"value": "The Dark Knight"
+						}
+					]
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "’s “You either die a hero or live long enough to see yourself become the villain” reworking), Tyrion nonetheless ends up taking another tack. The conversation’s smartest beat (screenplay by showrunners Benioff and Weiss) is its final one, when, after seeming to fail to convince Jon that his duty to the people should trump his feelings of love, the imprisoned Lannister instead swaps one love for another. “Your sisters?” he asks Jon, wondering what will happen when they inevitably refuse to bend the knee. Sometimes even the most noble of men are susceptible to emotional appeal, just like the rest of us. "
+				},
+				{
+					"type": "LineBreak"
+				}
+			]
+		},
+		{
+			"lightbox": true,
+			"syndicationRights": false,
+			"format": "jpg",
+			"width": 3150,
+			"attribution": [
+				{
+					"label": "Photo",
+					"credit": [
+						{
+							"styles": [],
+							"type": "Text",
+							"value": "Helen Sloan"
+						}
+					],
+					"source": [
+						{
+							"styles": [],
+							"type": "Text",
+							"value": "HBO"
+						}
+					]
+				}
+			],
+			"caption": [],
+			"id": "rrkzujbhammph5vbszd6",
+			"alignment": "Bleed",
+			"type": "Image",
+			"height": 1771
+		},
+		{
+			"containers": [],
+			"type": "Paragraph",
+			"value": [
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "What makes that such an effective undercutting of high-minded rationality is the way it ties to the second half of the episode, after we fade to black following Drogon’s departure with his mother’s body, and pick up weeks later, with Tyrion brought before the rulers of the realm by Grey Worm to figure out what’s to be done. There’s an enjoyable irony  in Grey Worm’s insistence that Tyrion has done far too much talking already, only to stand back and watch as his former ally holds court at length, convincing everyone around him that Bran Stark should be the new king of Westeros. After the camera pans around and we welcome back a lot of familiar faces (Edmure Tully! Yara Greyjoy! Brienne!), the themes of opposition to fate, emotional appeals, and ethical duty get an even better workout."
+				},
+				{
+					"type": "LineBreak"
+				}
+			]
+		},
+		{
+			"containers": [],
+			"type": "Paragraph",
+			"value": [
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "“What unites people?” Tyrion asks. “Stories.” As I "
+				},
+				{
+					"reference": "https://tv.avclub.com/game-of-thrones-drinks-talks-and-readies-for-war-in-a-1834203274",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [],
+							"type": "Text",
+							"value": "discussed back in episode two"
+						}
+					]
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": " of this season, "
+				},
+				{
+					"styles": [
+						"Italic"
+					],
+					"type": "Text",
+					"value": "Game Of Thrones"
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": " has always been a story about stories, a narrative about narratives, and in letting Tyrion articulate his theory regarding what brings people together in common ideology, the show properly swallows its own tail, coming full circle to put its  practice to use in service of  its internal story. What makes it effective is precisely the way it peels back the bones of Tyrion’s narrative to expose the sneaky tactical efficacy of his rhetoric. Bran does indeed have one hell of a story, one that could inspire the kind of support and widespread conviction that Tyrion hopes it will. But here’s the thing: properly articulated, so does Sansa Stark. With the right eloquence, Arya Stark does, too. Hell, string together enough honeyed words, and you could make the ordeals undergone by Samwell Tarly or Edmure Tully sound like the makings of a true king. It’s the story that matters. "
+				}
+			]
+		},
+		{
+			"lightbox": true,
+			"syndicationRights": false,
+			"format": "jpg",
+			"width": 3150,
+			"attribution": [
+				{
+					"label": "Photo",
+					"credit": [
+						{
+							"styles": [],
+							"type": "Text",
+							"value": "Helen Sloan"
+						}
+					],
+					"source": [
+						{
+							"styles": [],
+							"type": "Text",
+							"value": "HBO"
+						}
+					]
+				}
+			],
+			"caption": [],
+			"id": "qvuyvr0hg46wgt7ufsij",
+			"alignment": "Bleed",
+			"type": "Image",
+			"height": 1771
+		},
+		{
+			"containers": [],
+			"type": "Paragraph",
+			"value": [
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "Ultimately, however, that’s also why Bran’s story comes out on top. His isn’t just a tale of extraordinary actions and overcoming adversity. It’s literally the tale of a man who holds their shared history in his mind, who knows more than anyone in the land about just what Westeros and its people have endured through the generations and conflicts that  shaped it. Bran isn’t just a great story—he’s literally the repository of all the stories. He’s the living embodiment of the land and its cultural memory. In selecting Bran Stark, the lords of Westeros are choosing to value these stories and memories above whatever other qualities might make a good ruler, and more specifically, put an end to the caprices of heritage that have allowed bloodlines to wreak havoc on good stewardship of these kingdoms. It allows them to embrace the best of Daenerys’ vision—breaking the wheel that spun kingships onto sons, qualified lords off to their unqualified progeny—while still retaining the aristocratic tendencies that shape their current existence. Progress is never all at once, and given Martin’s pessimistic view of our cultural evolution, enlightened elitism may be the best he dare hope for."
+				},
+				{
+					"type": "LineBreak"
+				}
+			]
+		},
+		{
+			"containers": [],
+			"type": "Paragraph",
+			"value": [
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "This season has been mirroring the first from its opening scenes, but here we get a clever inversion of the first half of the episode in the second, where Jon’s visit to Tyrion’s cell is replayed, this time with the Lannister now the recalcitrant supporter coming to visit the comrade in chains. Whereas their first conversation was about rejecting fate and embracing the individual choice to do good, this time around the discussion is the flip side of the coin: accepting the fate delivered by your actions, and finding the good in your position, even when it’s been taken out of your own hands. “The world will always need a home for bastards and broken men,” Tyrion tells Jon about the latter’s return to the Night’s Watch, and it’s thematically fitting that Jon, the “true” heir to the now-melted Iron Throne (or Iron Theme, really), should find himself back among his self-chosen people, the rightful Targaryen descendent to the crown stripped of any honorifics. And his final act—leaving the Watch to accompany Tormund and the Wildlings back into the woods North of the wall—no longer seems like a dereliction of duty. It’s the recovery of duty, found by a man who feels he betrayed his queen, who thinks there’s no longer a place for him in these lands. He’s trying to find a new story. Tyrion may suspect their paths will meet again, but Jon is actively choosing his own trail, somewhere else. "
+				}
+			]
+		},
+		{
+			"lightbox": true,
+			"syndicationRights": false,
+			"format": "jpg",
+			"width": 3150,
+			"attribution": [
+				{
+					"label": "Photo",
+					"credit": [
+						{
+							"styles": [],
+							"type": "Text",
+							"value": "Helen Sloan"
+						}
+					],
+					"source": [
+						{
+							"styles": [],
+							"type": "Text",
+							"value": "HBO"
+						}
+					]
+				}
+			],
+			"caption": [],
+			"id": "q5fyoggrzxgk3dqfrgv6",
+			"alignment": "Bleed",
+			"type": "Image",
+			"height": 1771
+		},
+		{
+			"containers": [],
+			"type": "Paragraph",
+			"value": [
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "The stories continue within the story. Brienne intervenes in the story of Jaime Lannister, adding to his legend with the exploits she believes paint the picture of him that deserves to live on. Her words are a far cry from those Jaime used to describe himself at their last encounter, instead recounting his deeds and ending with the simple, “He died protecting his queen,” a sentence that belies the complicated mix of nobility and tragedy entwined in his actions. She gives him the due he would never afford himself. And Sam presents Tyrion with "
+				},
+				{
+					"styles": [
+						"Italic"
+					],
+					"type": "Text",
+					"value": "A Song Of Ice And Fire"
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": ", a tome in which Tyrion’s own role, far from that of the clever hero or Machiavellian snake, doesn’t even exist. His actions have been excised from the record, for good or ill. In other words, Tyrion doesn’t have a past that now needs atoning for, outside the memories of himself and those who know him. His story is yet to be written. That little twist helped this scene avoid coming off as some cutesy “here’s the book of what you just saw!” nudge in the ribs to viewers, instead reminding them that stories are forever competing for our attention and our belief."
+				},
+				{
+					"type": "LineBreak"
+				}
+			]
+		},
+		{
+			"containers": [],
+			"type": "Paragraph",
+			"value": [
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "Each character, in turn, sets off to continue their own story. Grey Worm, in the most bittersweet ending, fulfills his promise to Missandei: He’s taking his soldiers to her home of Naath, just where she told him she wanted the two of them to go after the war was concluded. He had sworn to bring the Unsullied along to ensure the peace-loving isle would never be exploited again, and he means to keep that vow. Sam, Bronn, Davos, and Brienne join Tyrion on the Small Council, each one hoping to build the better world they had envisioned all this time. (Okay, so maybe Bronn is a bigger fan of creating a brothel-filled world he himself would like to live in.) Sansa takes her place as ruler of the North, a free and independent land no longer subservient to anywhere else. And Arya does what she’s always done best: Make her own way, literally leaving everything she knows behind to see what’s over the next horizon. "
+				}
+			]
+		},
+		{
+			"containers": [],
+			"type": "Paragraph",
+			"value": [
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "The tragedy is that so much of what happens could have been part of a world with Dany in it. But like a Greek myth, her tragic flaw was her inability to see any future not molded in her image, submissive to her absolute rule. She brought dragons back into this world, and with her death, the last dragons have again departed. She brought fire and death and chaos upon Westeros, yet through her very actions, she may just have made the realm a far better place. (It remains to be seen—“Ask me again in ten years,” as Tyrion tells Jon.) She brought out the best in those who joined her, only for them to end up having to be their best selves in opposition to her. "
+				},
+				{
+					"styles": [
+						"Italic"
+					],
+					"type": "Text",
+					"value": "Game Of Thrones"
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": " was ultimately about the futility and fraudulence lurking in even the most well-intentioned desire for power, yet it also displayed a surprising sentimentalism for those who could endure the cruelties of life without becoming cruel themselves. It found the potential for a better life in the darkest of places. As the Wildlings can attest, there’s already new life even north of the wall, poking up through the ice. Winter only lasts so long."
+				}
+			]
+		},
+		{
+			"level": 2,
+			"containers": [],
+			"alignment": "Left",
+			"type": "Header",
+			"value": [
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "Stray observations"
+				}
+			]
+		},
+		{
+			"containers": [
+				{
+					"style": "Bullet",
+					"type": "List"
+				}
+			],
+			"type": "Paragraph",
+			"value": [
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "Benioff and Weiss aren’t the strongest visual stylists, but there were some lovely shots in this episode. The wide shot of Drogon as he rouses himself to sniff Jon before settling back into the snow; the shock of color in Tyrion’s eyes open as he lies on his side, awaiting Grey Worm to bring him to that decisive meeting; even the closing montage finding the symmetry in Jon, Sansa, and Arya’s movements had a kind of simple elegance. "
+				}
+			]
+		},
+		{
+			"containers": [
+				{
+					"style": "Bullet",
+					"type": "List"
+				}
+			],
+			"type": "Paragraph",
+			"value": [
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "It was also nice to get some comedy in this last episode. Bronn is always a welcome presence, but nothing tops Edmure Tully trying to make some pretentious statement about leadership, only for Sansa to cut him off with an, “Uncle. Please sit.” His sword bonking the ground as he returned to his seat was just icing on the cake. Good old Sir Bonks-A-Lot."
+				}
+			]
+		},
+		{
+			"containers": [
+				{
+					"style": "Bullet",
+					"type": "List"
+				}
+			],
+			"type": "Paragraph",
+			"value": [
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "Bran stares straight through Jon as he takes his leave on the boat to the Night’s Watch, the wheelchair-bound king an off-putting weirdo right to the  end. "
+				}
+			]
+		},
+		{
+			"containers": [
+				{
+					"style": "Bullet",
+					"type": "List"
+				}
+			],
+			"type": "Paragraph",
+			"value": [
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "Congratulations to Podrick on his new job, The Guy Who Pushes Bran Around. "
+				}
+			]
+		},
+		{
+			"containers": [
+				{
+					"style": "Bullet",
+					"type": "List"
+				}
+			],
+			"type": "Paragraph",
+			"value": [
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "Some of the sentiment didn’t really land, but Drogon nudging his mother’s lifeless body really got to me. "
+				}
+			]
+		},
+		{
+			"containers": [
+				{
+					"style": "Bullet",
+					"type": "List"
+				}
+			],
+			"type": "Paragraph",
+			"value": [
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "Tyrion straightening all the chairs on the Small Council was a nice callback to one of "
+				},
+				{
+					"reference": "https://youtu.be/scxmOWOHYjQ",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [],
+							"type": "Text",
+							"value": "the best scenes of the entire series"
+						}
+					]
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": ". "
+				}
+			]
+		},
+		{
+			"containers": [
+				{
+					"style": "Bullet",
+					"type": "List"
+				}
+			],
+			"type": "Paragraph",
+			"value": [
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "Cue anyone looking to continue the story of "
+				},
+				{
+					"styles": [
+						"Italic"
+					],
+					"type": "Text",
+					"value": "Game Of Thrones"
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": " via fan fiction: Drogon has vanished, but as Bran, the Three-Eyed Raven, casually mentions, “Perhaps I can find him.” "
+				}
+			]
+		},
+		{
+			"containers": [
+				{
+					"style": "Bullet",
+					"type": "List"
+				}
+			],
+			"type": "Paragraph",
+			"value": [
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "Thank you Jon, for getting back to your friend and ours, Ghost."
+				}
+			]
+		},
+		{
+			"containers": [
+				{
+					"style": "Bullet",
+					"type": "List"
+				}
+			],
+			"type": "Paragraph",
+			"value": [
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "More importantly, thanks, all, for joining me in this final season of what is easily one of the most culturally significant shows of the era. Time will tell what its influence will be or what role it plays later on, but it’s been fascinating to watch and discuss with all of you a series that has often felt like one of the defining mythos/folktales of our time. I’m grateful to you for reading; I hope you enjoyed the company of everyone in these comments as much as I did."
+				}
+			]
+		}
+	],
+	"approved": true,
+	"starterId": 1834878199,
+	"isRoundup": false,
+	"isBlip": false,
+	"id": 1834878199,
+	"isFeatured": true,
+	"aboveHeadline": {
+		"src": "UNUSED",
+		"isAnimated": false,
+		"id": "jbxi4tj1fygag3eogxvo",
+		"width": 3733,
+		"height": 2100,
+		"format": "jpg",
+		"frozenFormat": "jpg"
+	},
+	"images": [
+		{
+			"id": "o0kxz4sgug5kendvgxei",
+			"width": 3733,
+			"height": 2100,
+			"format": "jpg"
+		},
+		{
+			"id": "ytku0bafjvl22z9dfnl5",
+			"width": 3150,
+			"height": 1771,
+			"format": "jpg"
+		},
+		{
+			"id": "rrkzujbhammph5vbszd6",
+			"width": 3150,
+			"height": 1771,
+			"format": "jpg"
+		},
+		{
+			"id": "qvuyvr0hg46wgt7ufsij",
+			"width": 3150,
+			"height": 1771,
+			"format": "jpg"
+		},
+		{
+			"id": "q5fyoggrzxgk3dqfrgv6",
+			"width": 3150,
+			"height": 1771,
+			"format": "jpg"
+		}
+	],
+	"author": null,
+	"postId": 1834878199,
+	"mainMedia": null,
+	"tags": [
+		{
+			"canonical": "recap",
+			"urlName": "recap",
+			"displayName": "Recap"
+		},
+		{
+			"canonical": "gameofthrones",
+			"urlName": "game-of-thrones",
+			"displayName": "Game Of Thrones"
+		},
+		{
+			"canonical": "season8",
+			"urlName": "season-8",
+			"displayName": "Season 8"
+		},
+		{
+			"canonical": "seriesfinale",
+			"urlName": "series-finale",
+			"displayName": "Series Finale"
+		}
+	],
+	"permalinkHost": "https://tv.avclub.com",
+	"permalinkPath": "/the-final-game-of-thrones-brings-a-pensive-and-dark-med-1834878199",
+	"deprecatedFullPlainText": "Welcome to another season of Game Of Thrones reviews for those who have not read the books the series is based on. Since critics won’t be receiving screeners this season, each week we’ll publish the episode page once the broadcast ends and add the review to the page when finished. That way newbies have a  place to discuss the episode as soon as possible.  Have you read the books and want to discuss what happens? That’s what our experts reviews are for. All hail Bran the Broken, First of his Name, King of the Andals and of the First Men, Lord of the Six Kingdoms and Protector of the Realm. We’re a long way from democracy in the land of Westeros—such a ludicrous suggestion will get you laughed back into your seat, as Samwell Tarly well knows—but this is a ruler chosen for intelligence, not blood, and that’s not nothing. Then again, maybe it’s also not much. This hasn’t been Game Of Thrones’ finest season by any metric, yet it’s far from the disaster some make it out to be. It’s fascinating to see a show wrap up in a manner wherein many of the flaws so clearly occur offscreen rather than on; the plague of season eight hasn’t been lackluster episodes, for the most part (though “The Last Of The Starks” was a definite low point). It’s been what takes place between episodes, even between scenes: a dearth of cogently defined pacing and structure that’s been cast aside in the race to the finish. What would’ve felt methodical and precise in early seasons has slowly transitioned to rushed and messy.  But the problem wasn’t, for example, Euron Greyjoy getting the drop on Dany and her fleet in a manner that suggested no one had bothered to do a simple reconnoiter. It was the way in which the breakneck pace implied it hadn’t even been considered. Plenty of past seasons’ events could look ill-conceived in the critical eye of Monday-morning quarterbacking, but previously, the show had earned the benefit of the doubt that missteps on the part of supposedly intelligent characters were a plausible lack of in-world foresight. In the wake of the accelerated pacing, such generous assessments seem lacking, regardless of intentions. Individual episodes are still thrilling and often quite striking, give or take some pitch-black battle scenes. But the gradual ramping up of the plotting that has grown steadily in the past three seasons crossed some invisible Maginot line this year, where the formerly acceptable trade-offs of focus for fun are no longer quite so taken for granted. The lurid storytelling and expensive-looking action can’t compensate for what seems to be missing—namely, that elaborate narrative connective tissue lending emotional firmament to the strength of the separate installments. “The Iron Throne” fares the best, in some ways, of any episode this season. Freed from the necessity to do anything else, it simply concludes the story of Daenerys Targaryen and the Stark family’s adventures in Westeros. It didn’t stretch too hard attempting to wrap everything up in a bow, but instead focused narrowly on two moments: The aftermath of Daenerys’ brutal violence, and the weeks-later meeting of the rulers of the lands to determine a course of action. This isn’t to say the episode was superlative—it was too uneven to be great—but the  simplicity of scope was refreshing, admittedly an ironic statement given it was literally about deciding the fate of the realm. Dany didn’t necessarily have to die, but letting her live would’ve been an assessment of humanity so bleak that even George R.R. Martin, it seems, wants to hope for something better. Faced with the zeal of an autocrat so total that “submit or die” has been revised in her mind to a wholly justified “submit and maybe die anyway,” Jon Snow finds the commitment to duty needed to spare further loss of life. In some ways having Jon be the one to kill Dany was actually the least interesting option, but the symbolic weight of the truest believer finishing her off made sense. This is a core concept of Martin’s philosophy, the idea that wannabe saviors (and the fervent belief in them) lead to the greatest calamities. The faith in destiny and moral certainty claimed by would-be liberators brooks no resistance, and to register objections to their devotion is to be seen as the enemy of rightness. If the person is just, then any disagreement must de facto be unjust. “You’re either with me or you’re against me” became Dany’s credo, and those against her were an ever-changing multitude to be determined solely by her whims.  Jon isn’t lying when he tells her she will always be his queen, right before plunging a knife into her. He genuinely swore obedience, and sees himself as a traitor when he commits the deeds. He may have been swayed to action by the conversation with Tyrion, but the fact is, Jon already knew the right thing to do—he simply can’t accept that such actions, no matter how justified, can be forgiven, and he already felt torn to shreds by the weight of responsibility. In the wake of her destruction of King’s Landing, Daenerys takes to her pulpit and thanks her loyal followers, but quickly goes beyond gratitude. Whether swept up in the moment or not, her exhortations to continue this bloodshed, to purge the world of everyone she finds unworthy, are the hallmark of the tyrant. The look exchanged by Jon and Tyrion after the latter tosses his Hand brooch down the steps in a public refusal of her rule conveys all too well that both know where this path leads. But Tyrion already made his play to save people from her vengeance, so he knows Jon has to finish the job. It’s an engaging talk the two of them share, one that explicitly lays out many of the show’s themes without feeling like they’ve been shoehorned in. After all, this is literally about confronting the mistakes of belief, and what we owe other people despite our own emotions. If Jon refuses the idea of fate, as he insists he does, then he also has to accept Tyrion’s point—if we make our own decisions of right and wrong, no prior obligations should stand in the way of the ethical choice now. “It doesn’t matter what I’d do,” Jon lamely protests when Tyrion correctly notes the former bastard would never have burned all those innocents alive. “It matters more than anything,” Tyrion rebukes. The embrace of moral absolutism is the death of morality itself. A variant on Nietzsche’s old axiom about being careful when fighting monsters not to become one yourself (more popularly known these days from The Dark Knight’s “You either die a hero or live long enough to see yourself become the villain” reworking), Tyrion nonetheless ends up taking another tack. The conversation’s smartest beat (screenplay by showrunners Benioff and Weiss) is its final one, when, after seeming to fail to convince Jon that his duty to the people should trump his feelings of love, the imprisoned Lannister instead swaps one love for another. “Your sisters?” he asks Jon, wondering what will happen when they inevitably refuse to bend the knee. Sometimes even the most noble of men are susceptible to emotional appeal, just like the rest of us.  What makes that such an effective undercutting of high-minded rationality is the way it ties to the second half of the episode, after we fade to black following Drogon’s departure with his mother’s body, and pick up weeks later, with Tyrion brought before the rulers of the realm by Grey Worm to figure out what’s to be done. There’s an enjoyable irony  in Grey Worm’s insistence that Tyrion has done far too much talking already, only to stand back and watch as his former ally holds court at length, convincing everyone around him that Bran Stark should be the new king of Westeros. After the camera pans around and we welcome back a lot of familiar faces (Edmure Tully! Yara Greyjoy! Brienne!), the themes of opposition to fate, emotional appeals, and ethical duty get an even better workout. “What unites people?” Tyrion asks. “Stories.” As I discussed back in episode two of this season, Game Of Thrones has always been a story about stories, a narrative about narratives, and in letting Tyrion articulate his theory regarding what brings people together in common ideology, the show properly swallows its own tail, coming full circle to put its  practice to use in service of  its internal story. What makes it effective is precisely the way it peels back the bones of Tyrion’s narrative to expose the sneaky tactical efficacy of his rhetoric. Bran does indeed have one hell of a story, one that could inspire the kind of support and widespread conviction that Tyrion hopes it will. But here’s the thing: properly articulated, so does Sansa Stark. With the right eloquence, Arya Stark does, too. Hell, string together enough honeyed words, and you could make the ordeals undergone by Samwell Tarly or Edmure Tully sound like the makings of a true king. It’s the story that matters.  Ultimately, however, that’s also why Bran’s story comes out on top. His isn’t just a tale of extraordinary actions and overcoming adversity. It’s literally the tale of a man who holds their shared history in his mind, who knows more than anyone in the land about just what Westeros and its people have endured through the generations and conflicts that  shaped it. Bran isn’t just a great story—he’s literally the repository of all the stories. He’s the living embodiment of the land and its cultural memory. In selecting Bran Stark, the lords of Westeros are choosing to value these stories and memories above whatever other qualities might make a good ruler, and more specifically, put an end to the caprices of heritage that have allowed bloodlines to wreak havoc on good stewardship of these kingdoms. It allows them to embrace the best of Daenerys’ vision—breaking the wheel that spun kingships onto sons, qualified lords off to their unqualified progeny—while still retaining the aristocratic tendencies that shape their current existence. Progress is never all at once, and given Martin’s pessimistic view of our cultural evolution, enlightened elitism may be the best he dare hope for. This season has been mirroring the first from its opening scenes, but here we get a clever inversion of the first half of the episode in the second, where Jon’s visit to Tyrion’s cell is replayed, this time with the Lannister now the recalcitrant supporter coming to visit the comrade in chains. Whereas their first conversation was about rejecting fate and embracing the individual choice to do good, this time around the discussion is the flip side of the coin: accepting the fate delivered by your actions, and finding the good in your position, even when it’s been taken out of your own hands. “The world will always need a home for bastards and broken men,” Tyrion tells Jon about the latter’s return to the Night’s Watch, and it’s thematically fitting that Jon, the “true” heir to the now-melted Iron Throne (or Iron Theme, really), should find himself back among his self-chosen people, the rightful Targaryen descendent to the crown stripped of any honorifics. And his final act—leaving the Watch to accompany Tormund and the Wildlings back into the woods North of the wall—no longer seems like a dereliction of duty. It’s the recovery of duty, found by a man who feels he betrayed his queen, who thinks there’s no longer a place for him in these lands. He’s trying to find a new story. Tyrion may suspect their paths will meet again, but Jon is actively choosing his own trail, somewhere else.  The stories continue within the story. Brienne intervenes in the story of Jaime Lannister, adding to his legend with the exploits she believes paint the picture of him that deserves to live on. Her words are a far cry from those Jaime used to describe himself at their last encounter, instead recounting his deeds and ending with the simple, “He died protecting his queen,” a sentence that belies the complicated mix of nobility and tragedy entwined in his actions. She gives him the due he would never afford himself. And Sam presents Tyrion with A Song Of Ice And Fire, a tome in which Tyrion’s own role, far from that of the clever hero or Machiavellian snake, doesn’t even exist. His actions have been excised from the record, for good or ill. In other words, Tyrion doesn’t have a past that now needs atoning for, outside the memories of himself and those who know him. His story is yet to be written. That little twist helped this scene avoid coming off as some cutesy “here’s the book of what you just saw!” nudge in the ribs to viewers, instead reminding them that stories are forever competing for our attention and our belief. Each character, in turn, sets off to continue their own story. Grey Worm, in the most bittersweet ending, fulfills his promise to Missandei: He’s taking his soldiers to her home of Naath, just where she told him she wanted the two of them to go after the war was concluded. He had sworn to bring the Unsullied along to ensure the peace-loving isle would never be exploited again, and he means to keep that vow. Sam, Bronn, Davos, and Brienne join Tyrion on the Small Council, each one hoping to build the better world they had envisioned all this time. (Okay, so maybe Bronn is a bigger fan of creating a brothel-filled world he himself would like to live in.) Sansa takes her place as ruler of the North, a free and independent land no longer subservient to anywhere else. And Arya does what she’s always done best: Make her own way, literally leaving everything she knows behind to see what’s over the next horizon.  The tragedy is that so much of what happens could have been part of a world with Dany in it. But like a Greek myth, her tragic flaw was her inability to see any future not molded in her image, submissive to her absolute rule. She brought dragons back into this world, and with her death, the last dragons have again departed. She brought fire and death and chaos upon Westeros, yet through her very actions, she may just have made the realm a far better place. (It remains to be seen—“Ask me again in ten years,” as Tyrion tells Jon.) She brought out the best in those who joined her, only for them to end up having to be their best selves in opposition to her. Game Of Thrones was ultimately about the futility and fraudulence lurking in even the most well-intentioned desire for power, yet it also displayed a surprising sentimentalism for those who could endure the cruelties of life without becoming cruel themselves. It found the potential for a better life in the darkest of places. As the Wildlings can attest, there’s already new life even north of the wall, poking up through the ice. Winter only lasts so long. Stray observations Benioff and Weiss aren’t the strongest visual stylists, but there were some lovely shots in this episode. The wide shot of Drogon as he rouses himself to sniff Jon before settling back into the snow; the shock of color in Tyrion’s eyes open as he lies on his side, awaiting Grey Worm to bring him to that decisive meeting; even the closing montage finding the symmetry in Jon, Sansa, and Arya’s movements had a kind of simple elegance.  It was also nice to get some comedy in this last episode. Bronn is always a welcome presence, but nothing tops Edmure Tully trying to make some pretentious statement about leadership, only for Sansa to cut him off with an, “Uncle. Please sit.” His sword bonking the ground as he returned to his seat was just icing on the cake. Good old Sir Bonks-A-Lot. Bran stares straight through Jon as he takes his leave on the boat to the Night’s Watch, the wheelchair-bound king an off-putting weirdo right to the  end.  Congratulations to Podrick on his new job, The Guy Who Pushes Bran Around.  Some of the sentiment didn’t really land, but Drogon nudging his mother’s lifeless body really got to me.  Tyrion straightening all the chairs on the Small Council was a nice callback to one of the best scenes of the entire series.  Cue anyone looking to continue the story of Game Of Thrones via fan fiction: Drogon has vanished, but as Bran, the Three-Eyed Raven, casually mentions, “Perhaps I can find him.”  Thank you Jon, for getting back to your friend and ours, Ghost. More importantly, thanks, all, for joining me in this final season of what is easily one of the most culturally significant shows of the era. Time will tell what its influence will be or what role it plays later on, but it’s been fascinating to watch and discuss with all of you a series that has often felt like one of the defining mythos/folktales of our time. I’m grateful to you for reading; I hope you enjoyed the company of everyone in these comments as much as I did.",
+	"firstSentence": "Welcome to another season of Game Of Thrones reviews for those who have not read the books the serie",
+	"relatedPosts": [
+		{
+			"id": 1834879182,
+			"headline": "In the end, <i>Game Of Thrones </i>sings a song of ice, fire, and thematic consistency (experts)",
+			"sharingMainImage": {
+				"src": "UNUSED",
+				"isAnimated": false,
+				"id": "qtrzbcwdzweywunpsvct",
+				"width": 800,
+				"height": 450,
+				"format": "jpg",
+				"frozenFormat": "jpg"
+			},
+			"permalink": "https://tv.avclub.com/in-the-end-game-of-thrones-sings-a-song-of-ice-fire-1834879182",
+			"permalinkHost": "https://tv.avclub.com",
+			"permalinkPath": "/in-the-end-game-of-thrones-sings-a-song-of-ice-fire-1834879182",
+			"defaultBlogId": "1636140416"
+		},
+		{
+			"id": 1834874486,
+			"headline": "Elizabeth Olsen could&#39;ve been our Khaleesi if her audition hadn&#39;t been so bad",
+			"sharingMainImage": {
+				"src": "UNUSED",
+				"isAnimated": false,
+				"id": "wpu1wofveavonegrv5nh",
+				"width": 800,
+				"height": 446,
+				"format": "jpg",
+				"frozenFormat": "jpg",
+				"type": "image"
+			},
+			"permalink": "https://news.avclub.com/elizabeth-olsen-couldve-been-our-khaleesi-if-her-auditi-1834874486",
+			"permalinkHost": "https://news.avclub.com",
+			"permalinkPath": "/elizabeth-olsen-couldve-been-our-khaleesi-if-her-auditi-1834874486",
+			"defaultBlogId": "1636140425"
+		},
+		{
+			"id": 1834861744,
+			"headline": "<i>The Late Show</i>&#39;s Jon Batiste sings us a questionably useful <i>Game Of Thrones</i> recap",
+			"sharingMainImage": {
+				"src": "UNUSED",
+				"isAnimated": false,
+				"id": "hy71mdoozpakvawohy24",
+				"width": 800,
+				"height": 450,
+				"format": "png",
+				"frozenFormat": "png"
+			},
+			"permalink": "https://news.avclub.com/the-late-shows-jon-batiste-sings-us-a-questionably-usef-1834861744",
+			"permalinkHost": "https://news.avclub.com",
+			"permalinkPath": "/the-late-shows-jon-batiste-sings-us-a-questionably-usef-1834861744",
+			"defaultBlogId": "1636140425"
+		}
+	],
+	"storyTypeId": 169,
+	"showAuthorBio": true,
+	"storyType": {
+		"id": 169,
+		"blogId": 1636027099,
+		"canonical": "tv-review",
+		"title": "TV Reviews",
+		"content": "Standard",
+		"description": "Recaps from The A.V. Club's TV experts",
+		"boilerplate": "All of our TV reviews in one convenient place.",
+		"createdAt": "2017-08-01T14:02:00.47-04:00[America/New_York]"
+	},
+	"subcategory": {
+		"id": 6015,
+		"storyTypeId": 169,
+		"canonicalName": "season-8",
+		"displayName": "Season 8",
+		"parentId": 1336
+	},
+	"permalink": "https://tv.avclub.com/the-final-game-of-thrones-brings-a-pensive-and-dark-med-1834878199",
+	"status": "PUBLISHED",
+	"authors": [],
+	"relatedModule": {
+		"headline": "More in Game of Thrones",
+		"posts": [
+			{
+				"id": 1834879182
+			},
+			{
+				"id": 1834874486
+			},
+			{
+				"id": 1834861744
+			}
+		],
+		"storyTypes": [],
+		"tags": [
+			"gameofthrones"
+		]
+	},
+	"permalinkRedirect": null,
+	"timezone": "America/Chicago",
+	"showByline": true,
+	"parentAuthorIds": [],
+	"salesAvatar": null,
+	"leftOfHeadline": {
+		"src": "UNUSED",
+		"isAnimated": false,
+		"id": "o0kxz4sgug5kendvgxei",
+		"width": 320,
+		"height": 180,
+		"format": "jpg",
+		"frozenFormat": "jpg",
+		"type": "image"
+	},
+	"lastUpdateTimeMillis": 1558335396176,
+	"sharingMainImage": {
+		"src": "UNUSED",
+		"isAnimated": false,
+		"id": "jbxi4tj1fygag3eogxvo",
+		"width": 800,
+		"height": 450,
+		"format": "jpg",
+		"frozenFormat": "jpg"
+	},
+	"publishTimeMillis": 1558318800199,
+	"byline": "",
+	"headline": "The final <i>Game Of Thrones</i> brings a pensive but simple meditation about stories (newbies)",
+	"authorIds": [
+		"5876237249237148583"
+	],
+	"starter": null,
+	"defaultBlogId": "1636140416",
+	"length": 16639,
+	"isVideo": false,
+	"sponsored": false,
+	"plaintext": "Welcome to another season of Game Of Thrones reviews for those who have not read the books the series is based on. Since critics won’t be receiving screeners this season, each week we’ll publish the episode page once the broadcast ends and add the review to the page when finished. That way newbies have a  place to discuss the episode as soon as possible.  Have you read the books and want to discuss what happens? That’s what our experts reviews are for.",
+	"allowReplies": true,
+	"authorId": "5876237249237148583",
+	"parentId": null,
+	"sharedUrl": null,
+	"featuredMedia": {
+		"syndicationRights": false,
+		"format": "jpg",
+		"width": 3733,
+		"attribution": [
+			{
+				"label": "Photo",
+				"credit": [],
+				"source": [
+					{
+						"styles": [],
+						"type": "Text",
+						"value": "HBO"
+					}
+				]
+			}
+		],
+		"caption": [],
+		"id": "jbxi4tj1fygag3eogxvo",
+		"alignment": "Bleed",
+		"type": "Image",
+		"height": 2100
+	},
+	"category": {
+		"id": 1336,
+		"storyTypeId": 169,
+		"canonicalName": "game-of-thrones-newbies",
+		"displayName": "Game Of Thrones (newbies)"
+	},
+	"properties": "{\"headTitleTag\":\"Game Of Thrones review: A final episode brings darkness and hope\",\"sharingMainImageSetInDistTools\":true,\"hideFromRss\":false,\"socialDescription\":\"The epic tale concludes on a somber but simple note, with an episode that meaningfully incorporates the heart and soul of George R.R. Martin&#39;s themes of power and belief, and which cleverly uses the show&#39;s &quot;a story about stories&quot; tactic to potent effect.\",\"dropCapEnabled\":false,\"autoRepostDisabled\":false,\"impactHeader\":{\"titleAlignment\":\"BottomLeft\",\"overlay\":\"Black\"},\"isEmbiggened\":true,\"featuredHeaderLayout\":\"Default\"}"
+}

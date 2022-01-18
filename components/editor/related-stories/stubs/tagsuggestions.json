@@ -1,0 +1,63 @@
+{
+    "meta": {
+        "error": null,
+        "warnings": []
+    },
+    "data": {
+        "relevantTags": [{
+            "canonical": "gadgets",
+            "urlName": "gadgets",
+            "displayName": "Gadgets",
+            "featured": true,
+            "count": 15136
+        }, {
+            "canonical": "gadgetdealz",
+            "urlName": "gadget-dealz",
+            "displayName": "Gadget Dealz",
+            "featured": false,
+            "count": 1069
+        }],
+        "relatedTags": [{
+            "canonical": "homeentertainment",
+            "urlName": "home-entertainment",
+            "displayName": "Home Entertainment",
+            "featured": false,
+            "count": 1241
+        }, {
+            "canonical": "dealzmodo",
+            "urlName": "dealzmodo",
+            "displayName": "Dealzmodo",
+            "featured": true,
+            "count": 1233
+        }, {
+            "canonical": "deals",
+            "urlName": "deals",
+            "displayName": "Deals",
+            "featured": false,
+            "count": 1171
+        }, {
+            "canonical": "top",
+            "urlName": "top",
+            "displayName": "Top",
+            "featured": false,
+            "count": 1107
+        }, {
+            "canonical": "portablemedia",
+            "urlName": "portable-media",
+            "displayName": "Portable Media",
+            "featured": false,
+            "count": 1098
+        }],
+        "storyTypes": [{
+            "id": 134,
+            "blogId": 4,
+            "canonical": "gadgets",
+            "title": "Gadgets",
+            "content": "Standard",
+            "description": "Gadgets & Tech, Science, and Culture News, Photos, Videos & More.",
+            "createdAt": "2017-08-01T12:01:21.785-04:00[America/New_York]",
+            "featured": false,
+            "count": 13387
+        }]
+    }
+}

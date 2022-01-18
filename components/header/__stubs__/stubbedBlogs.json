@@ -1,0 +1,186 @@
+[{
+	"id": 1636831677,
+	"name": "onionsocialnews",
+	"displayName": "OnionSocial.com In The News",
+	"canonicalHost": "onionsocialnews.kinja.com",
+	"hosts": [],
+	"status": "ENABLED",
+	"createTimeMillis": 1529343721903,
+	"lastUpdateTimeMillis": 1529445381322,
+	"createdById": "481757999",
+	"ownerId": "481757999",
+	"description": "Join the social media revolution.",
+	"timezone": "America/New_York",
+	"timezoneOffset": -14400000,
+	"avatar": {
+		"id": "wfahd2v5l8z9aduv4y66",
+		"format": "png"
+	},
+	"logo": {
+		"id": "urbrh7md6pymbxlq6xvl",
+		"format": "png"
+	},
+	"navBackground": null,
+	"properties": {
+		"robotsAllowed": true,
+		"isLiveCustomKinja": true,
+		"background": {
+			"background": {
+				"id": "hycpl3an0etifur2csy3",
+				"format": "jpg"
+			},
+			"mode": "tiled"
+		}
+	}
+}, {
+	"id": 1637175172,
+	"name": "oscars-2019",
+	"displayName": "The Onion’s Guide To The Oscars",
+	"canonicalHost": "oscars-2019.kinja.com",
+	"hosts": [],
+	"status": "ENABLED",
+	"createTimeMillis": 1549300168512,
+	"lastUpdateTimeMillis": 1550772175415,
+	"createdById": "481757999",
+	"ownerId": "481757999",
+	"description": "The Onion's Guide To The Oscars",
+	"timezone": "America/New_York",
+	"timezoneOffset": -14400000,
+	"avatar": null,
+	"logo": null,
+	"navBackground": null,
+	"properties": {
+		"robotsAllowed": true,
+		"isLiveCustomKinja": true
+	}
+}, {
+	"id": 1637324829,
+	"name": "gorving",
+	"displayName": "Travel curated by Go RVing",
+	"canonicalHost": "gorving.kinja.com",
+	"hosts": [],
+	"status": "ENABLED",
+	"createTimeMillis": 1555014833725,
+	"lastUpdateTimeMillis": 1555014833725,
+	"createdById": "5876237249236982525",
+	"ownerId": "5876237249236982525",
+	"description": null,
+	"timezone": "America/New_York",
+	"timezoneOffset": -14400000,
+	"avatar": null,
+	"logo": null,
+	"navBackground": null,
+	"properties": {
+		"robotsAllowed": true,
+		"isLiveCustomKinja": true
+	}
+}, {
+	"id": 1637338032,
+	"name": "marijuana-guide",
+	"displayName": "Unpacking The Bowl",
+	"canonicalHost": "marijuana-guide.kinja.com",
+	"hosts": [],
+	"status": "ENABLED",
+	"createTimeMillis": 1555426425657,
+	"lastUpdateTimeMillis": 1555694470116,
+	"createdById": "481757999",
+	"ownerId": "481757999",
+	"description": "An editorial series on marijuana legalization.",
+	"timezone": "America/New_York",
+	"timezoneOffset": -14400000,
+	"avatar": null,
+	"logo": null,
+	"navBackground": null,
+	"properties": {
+		"robotsAllowed": true,
+		"isLiveCustomKinja": true
+	}
+}, {
+	"id": 1538697436,
+	"name": "cosplay",
+	"displayName": "Cosplay",
+	"canonicalHost": "cosplay.kotaku.com",
+	"hosts": ["cosplay.kinja.com"],
+	"status": "ENABLED",
+	"timezone": "America/New_York",
+	"timezoneOffset": -14400000,
+	"createTimeMillis": 1394211618953,
+	"ownerId": "5724032494550896668",
+	"description": "The Best in Costume Play.",
+	"properties": {
+		"facebookScreenName": "kotaku",
+		"groupBlog": true,
+		"logoLink": "https://x.kinja-static.com/assets/images/logos/newsletter/kotaku-500px.png",
+		"aboutPostId": 458637663,
+		"navigationGroup": "fmg",
+		"robotsAllowed": true,
+		"isGmgBlog": true,
+		"youtubeUrl": "https://www.youtube.com/kotaku",
+		"recircGroup": "fmgNonSatire",
+		"twitterScreenName": "@CosplayKotaku",
+		"instagramScreenName": "kotakudotcom",
+		"blogGroup": "kotaku",
+		"facebookPixelId": "574907642841384",
+		"singleOptIn": true,
+		"sourcepointDomain": "mms.kotaku.com",
+		"googleAnalyticsID": "UA-142218-8",
+		"autoRepostToParent": false,
+		"cxenseSiteId": "1141876438685671428",
+		"metaDescription": "Kotaku brings you the best cosplay.",
+		"campaignMonitorNewsletterName": "Kotaku_Daily",
+		"newsletter": false,
+		"adsTxtEnabled": false
+	},
+	"avatar": {
+		"id": "ezm8ghxeumvswd9ksrmi",
+		"format": "png"
+	},
+	"logo": {
+		"id": "yttdv4nkz4idfw7zv13r",
+		"format": "png"
+	}
+}, {
+	"id": 1633980057,
+	"name": "thebests",
+	"displayName": "The Bests",
+	"canonicalHost": "thebests.kotaku.com",
+	"hosts": ["thebests.kinja.com", "thebest.kotaku.com"],
+	"status": "ENABLED",
+	"timezone": "America/New_York",
+	"timezoneOffset": -14400000,
+	"createTimeMillis": 1412780152178,
+	"ownerId": "5724319325347612106",
+	"description": "Our Favorite Games On Every Platform.",
+	"properties": {
+		"facebookScreenName": "kotaku",
+		"groupBlog": true,
+		"logoLink": "https://x.kinja-static.com/assets/images/logos/newsletter/kotaku-500px.png",
+		"aboutPostId": 458637663,
+		"navigationGroup": "fmg",
+		"robotsAllowed": true,
+		"isGmgBlog": true,
+		"youtubeUrl": "https://www.youtube.com/kotaku",
+		"recircGroup": "fmgNonSatire",
+		"twitterScreenName": "@kotaku",
+		"instagramScreenName": "kotakudotcom",
+		"blogGroup": "kotaku",
+		"facebookPixelId": "574907642841384",
+		"singleOptIn": true,
+		"sourcepointDomain": "mms.kotaku.com",
+		"googleAnalyticsID": "UA-142218-8",
+		"autoRepostToParent": false,
+		"cxenseSiteId": "1141876438685671428",
+		"metaDescription": "Kotaku's list of the 12 best games on every gaming device. ",
+		"campaignMonitorNewsletterName": "Kotaku_Daily",
+		"newsletter": false,
+		"adsTxtEnabled": false
+	},
+	"avatar": {
+		"id": "ncjew2plpihk2rfdipe2",
+		"format": "png"
+	},
+	"logo": {
+		"id": "lchvqt8nlkklhhkhebw2",
+		"format": "png"
+	}
+}]

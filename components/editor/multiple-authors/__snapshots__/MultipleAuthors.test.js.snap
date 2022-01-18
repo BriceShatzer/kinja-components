@@ -1,0 +1,2491 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<MultipleAuthors /> Delete Author should not delete first author when it is clicked 1`] = `
+.c3 {
+  -webkit-box-flex: 1;
+  -webkit-flex-grow: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+  position: relative;
+}
+
+.c3:focus {
+  outline: 0;
+}
+
+.c3 ul {
+  position: absolute;
+  width: auto;
+  min-width: 170px;
+  top: 27px;
+}
+
+.c3 ul:empty {
+  display: none;
+}
+
+.c4 {
+  width: 100%;
+  border: 0;
+  font-size: 16px;
+  font-family: ProximaNovaCond,sans-serif;
+}
+
+.c4:focus {
+  outline: 0;
+  color: #0A7BC2;
+}
+
+.c2 {
+  outline: 0;
+}
+
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-flow: row wrap;
+  -ms-flex-flow: row wrap;
+  flex-flow: row wrap;
+  width: auto%;
+}
+
+.c0:hover {
+  cursor: text;
+}
+
+.c0:focus {
+  outline: none;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c1:focus {
+  outline: none;
+}
+
+.c1:first-child {
+  cursor: default;
+}
+
+.c1:not(:first-child) span:first-child:hover {
+  color: #D24A1D;
+  -webkit-text-decoration: line-through;
+  text-decoration: line-through;
+  cursor: pointer;
+}
+
+.c1:not(:first-child) span:first-child:focus {
+  outline: 0;
+}
+
+<Toggle(MultipleAuthors)
+  authors={
+    Array [
+      Object {
+        "avatar": Object {
+          "format": "png",
+          "id": "sample",
+        },
+        "displayName": "BoJack Horseman",
+        "id": "60061e",
+        "screenName": "borsejackhorseman",
+      },
+    ]
+  }
+  authorsList={
+    Array [
+      Object {
+        "avatar": Object {
+          "format": "png",
+          "id": "17jcxk0ml1k8qpng",
+        },
+        "displayName": "Zoltán Balázs",
+        "id": 0,
+        "screenName": "zoltnbalzs",
+      },
+      Object {
+        "avatar": Object {
+          "format": "png",
+          "id": "17jcxk0ml1k8qpng",
+        },
+        "displayName": "Lauren Bertolini",
+        "id": 30000,
+        "screenName": "laurenbertolini",
+      },
+      Object {
+        "avatar": Object {
+          "format": "png",
+          "id": "17jcxk0ml1k8qpng",
+        },
+        "displayName": "István Bodnár",
+        "id": 60000,
+        "screenName": "istvnbodnr",
+      },
+    ]
+  }
+  onChange={[Function]}
+  onClose={[Function]}
+>
+  <ClickOutside(MultipleAuthors)
+    authors={
+      Array [
+        Object {
+          "avatar": Object {
+            "format": "png",
+            "id": "sample",
+          },
+          "displayName": "BoJack Horseman",
+          "id": "60061e",
+          "screenName": "borsejackhorseman",
+        },
+      ]
+    }
+    authorsList={
+      Array [
+        Object {
+          "avatar": Object {
+            "format": "png",
+            "id": "17jcxk0ml1k8qpng",
+          },
+          "displayName": "Zoltán Balázs",
+          "id": 0,
+          "screenName": "zoltnbalzs",
+        },
+        Object {
+          "avatar": Object {
+            "format": "png",
+            "id": "17jcxk0ml1k8qpng",
+          },
+          "displayName": "Lauren Bertolini",
+          "id": 30000,
+          "screenName": "laurenbertolini",
+        },
+        Object {
+          "avatar": Object {
+            "format": "png",
+            "id": "17jcxk0ml1k8qpng",
+          },
+          "displayName": "István Bodnár",
+          "id": 60000,
+          "screenName": "istvnbodnr",
+        },
+      ]
+    }
+    close={[Function]}
+    handleClickOutside={[Function]}
+    isOpen={true}
+    onChange={[Function]}
+    onClose={[Function]}
+    toggle={[Function]}
+  >
+    <MultipleAuthors
+      authors={
+        Array [
+          Object {
+            "avatar": Object {
+              "format": "png",
+              "id": "sample",
+            },
+            "displayName": "BoJack Horseman",
+            "id": "60061e",
+            "screenName": "borsejackhorseman",
+          },
+        ]
+      }
+      authorsList={
+        Array [
+          Object {
+            "avatar": Object {
+              "format": "png",
+              "id": "17jcxk0ml1k8qpng",
+            },
+            "displayName": "Zoltán Balázs",
+            "id": 0,
+            "screenName": "zoltnbalzs",
+          },
+          Object {
+            "avatar": Object {
+              "format": "png",
+              "id": "17jcxk0ml1k8qpng",
+            },
+            "displayName": "Lauren Bertolini",
+            "id": 30000,
+            "screenName": "laurenbertolini",
+          },
+          Object {
+            "avatar": Object {
+              "format": "png",
+              "id": "17jcxk0ml1k8qpng",
+            },
+            "displayName": "István Bodnár",
+            "id": 60000,
+            "screenName": "istvnbodnr",
+          },
+        ]
+      }
+      close={[Function]}
+      insideReference={[Function]}
+      isOpen={true}
+      onChange={[Function]}
+      onClose={[Function]}
+      toggle={[Function]}
+    >
+      <EnsureDefaultTheme>
+        <ThemeProvider
+          theme={[Function]}
+        >
+          <MultipleAuthors__MultipleAuthorsWrapper
+            onClick={[Function]}
+            tabIndex={0}
+          >
+            <StyledComponent
+              forwardedComponent={
+                Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "attrs": Array [
+                    Object {
+                      "role": "button",
+                    },
+                  ],
+                  "componentStyle": ComponentStyle {
+                    "componentId": "MultipleAuthors__MultipleAuthorsWrapper-av9rtc-0",
+                    "isStatic": true,
+                    "lastClassName": "c0",
+                    "rules": Array [
+                      "display:flex;flex-flow:row wrap;width:auto%;&:hover{cursor:text;}&:focus{outline:none;}",
+                    ],
+                  },
+                  "displayName": "MultipleAuthors__MultipleAuthorsWrapper",
+                  "foldedComponentIds": Array [],
+                  "render": [Function],
+                  "styledComponentId": "MultipleAuthors__MultipleAuthorsWrapper-av9rtc-0",
+                  "target": "div",
+                  "toString": [Function],
+                  "warnTooManyClasses": [Function],
+                  "withComponent": [Function],
+                }
+              }
+              forwardedRef={[Function]}
+              onClick={[Function]}
+              tabIndex={0}
+            >
+              <div
+                className="c0"
+                onClick={[Function]}
+                role="button"
+                tabIndex={0}
+              >
+                <MultipleAuthors__MultipleAuthorsElementEditor
+                  key="60061e"
+                >
+                  <StyledComponent
+                    forwardedComponent={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": Array [],
+                        "componentStyle": ComponentStyle {
+                          "componentId": "MultipleAuthors__MultipleAuthorsElementEditor-av9rtc-1",
+                          "isStatic": false,
+                          "lastClassName": "c1",
+                          "rules": Array [
+                            "display:flex;&:focus{outline:none;}",
+                            "&:first-child{cursor:default;}&:not(:first-child){span:first-child{&:hover{color:",
+                            [Function],
+                            ";text-decoration:line-through;cursor:pointer;}&:focus{outline:0;}}}",
+                          ],
+                        },
+                        "displayName": "MultipleAuthors__MultipleAuthorsElementEditor",
+                        "foldedComponentIds": Array [
+                          "styledElements__MultipleAuthorsElement-sc-1mep9y1-0",
+                        ],
+                        "render": [Function],
+                        "styledComponentId": "MultipleAuthors__MultipleAuthorsElementEditor-av9rtc-1",
+                        "target": "div",
+                        "toString": [Function],
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                  >
+                    <div
+                      className="c1"
+                    >
+                      <styledElements__AuthorElement
+                        onClick={[Function]}
+                        tabIndex={0}
+                      >
+                        <StyledComponent
+                          forwardedComponent={
+                            Object {
+                              "$$typeof": Symbol(react.forward_ref),
+                              "attrs": Array [
+                                Object {
+                                  "role": "button",
+                                },
+                              ],
+                              "componentStyle": ComponentStyle {
+                                "componentId": "styledElements__AuthorElement-sc-1mep9y1-1",
+                                "isStatic": true,
+                                "lastClassName": "c2",
+                                "rules": Array [
+                                  "outline:0;",
+                                ],
+                              },
+                              "displayName": "styledElements__AuthorElement",
+                              "foldedComponentIds": Array [],
+                              "render": [Function],
+                              "styledComponentId": "styledElements__AuthorElement-sc-1mep9y1-1",
+                              "target": "span",
+                              "toString": [Function],
+                              "warnTooManyClasses": [Function],
+                              "withComponent": [Function],
+                            }
+                          }
+                          forwardedRef={null}
+                          onClick={[Function]}
+                          tabIndex={0}
+                        >
+                          <span
+                            className="c2"
+                            onClick={[Function]}
+                            role="button"
+                            tabIndex={0}
+                          >
+                            BoJack Horseman
+                          </span>
+                        </StyledComponent>
+                      </styledElements__AuthorElement>
+                      <span>
+                        , 
+                      </span>
+                    </div>
+                  </StyledComponent>
+                </MultipleAuthors__MultipleAuthorsElementEditor>
+                <AuthorInput
+                  authorsList={
+                    Array [
+                      Object {
+                        "avatar": Object {
+                          "format": "png",
+                          "id": "17jcxk0ml1k8qpng",
+                        },
+                        "displayName": "Zoltán Balázs",
+                        "id": 0,
+                        "screenName": "zoltnbalzs",
+                      },
+                      Object {
+                        "avatar": Object {
+                          "format": "png",
+                          "id": "17jcxk0ml1k8qpng",
+                        },
+                        "displayName": "Lauren Bertolini",
+                        "id": 30000,
+                        "screenName": "laurenbertolini",
+                      },
+                      Object {
+                        "avatar": Object {
+                          "format": "png",
+                          "id": "17jcxk0ml1k8qpng",
+                        },
+                        "displayName": "István Bodnár",
+                        "id": 60000,
+                        "screenName": "istvnbodnr",
+                      },
+                    ]
+                  }
+                  onBackspaceDown={[Function]}
+                  onSelect={[Function]}
+                >
+                  <EnsureDefaultTheme>
+                    <ThemeProvider
+                      theme={[Function]}
+                    >
+                      <AuthorInput__AuthorSelector>
+                        <StyledComponent
+                          forwardedComponent={
+                            Object {
+                              "$$typeof": Symbol(react.forward_ref),
+                              "attrs": Array [],
+                              "componentStyle": ComponentStyle {
+                                "componentId": "AuthorInput__AuthorSelector-ruvwiq-0",
+                                "isStatic": true,
+                                "lastClassName": "c3",
+                                "rules": Array [
+                                  "flex-grow:1;position:relative;&:focus{outline:0;}ul{position:absolute;width:auto;min-width:170px;top:27px;&:empty{display:none;}}",
+                                ],
+                              },
+                              "displayName": "AuthorInput__AuthorSelector",
+                              "foldedComponentIds": Array [],
+                              "render": [Function],
+                              "styledComponentId": "AuthorInput__AuthorSelector-ruvwiq-0",
+                              "target": "div",
+                              "toString": [Function],
+                              "warnTooManyClasses": [Function],
+                              "withComponent": [Function],
+                            }
+                          }
+                          forwardedRef={null}
+                        >
+                          <div
+                            className="c3"
+                          >
+                            <AuthorInput__AuthorInputWrapper
+                              autoFocus={true}
+                              onChange={[Function]}
+                              onFocus={[Function]}
+                              onKeyDown={[Function]}
+                              value=""
+                            >
+                              <StyledComponent
+                                autoFocus={true}
+                                forwardedComponent={
+                                  Object {
+                                    "$$typeof": Symbol(react.forward_ref),
+                                    "attrs": Array [],
+                                    "componentStyle": ComponentStyle {
+                                      "componentId": "AuthorInput__AuthorInputWrapper-ruvwiq-1",
+                                      "isStatic": false,
+                                      "lastClassName": "c4",
+                                      "rules": Array [
+                                        "width:100%;border:0;font-size:16px;font-family:",
+                                        [Function],
+                                        ";&:focus{outline:0;color:",
+                                        [Function],
+                                        ";}",
+                                      ],
+                                    },
+                                    "displayName": "AuthorInput__AuthorInputWrapper",
+                                    "foldedComponentIds": Array [],
+                                    "render": [Function],
+                                    "styledComponentId": "AuthorInput__AuthorInputWrapper-ruvwiq-1",
+                                    "target": "input",
+                                    "toString": [Function],
+                                    "warnTooManyClasses": [Function],
+                                    "withComponent": [Function],
+                                  }
+                                }
+                                forwardedRef={null}
+                                onChange={[Function]}
+                                onFocus={[Function]}
+                                onKeyDown={[Function]}
+                                value=""
+                              >
+                                <input
+                                  autoFocus={true}
+                                  className="c4"
+                                  onChange={[Function]}
+                                  onFocus={[Function]}
+                                  onKeyDown={[Function]}
+                                  value=""
+                                />
+                              </StyledComponent>
+                            </AuthorInput__AuthorInputWrapper>
+                          </div>
+                        </StyledComponent>
+                      </AuthorInput__AuthorSelector>
+                    </ThemeProvider>
+                  </EnsureDefaultTheme>
+                </AuthorInput>
+              </div>
+            </StyledComponent>
+          </MultipleAuthors__MultipleAuthorsWrapper>
+        </ThemeProvider>
+      </EnsureDefaultTheme>
+    </MultipleAuthors>
+  </ClickOutside(MultipleAuthors)>
+</Toggle(MultipleAuthors)>
+`;
+
+exports[`<MultipleAuthors /> should appear with dropdown with filtered authors 1`] = `
+.c5 {
+  background: white;
+  border: 1px solid #e5e5e5;
+  width: 100%;
+  overflow-y: scroll;
+  z-index: 501;
+  position: relative;
+  margin: 0;
+  max-height: 400px;
+}
+
+.c6 {
+  padding: 5px 10px;
+  color: #222;
+  cursor: pointer;
+  outline: none;
+  background: #e5e5e5;
+}
+
+.c6:hover {
+  background: #e5e5e5;
+}
+
+.c3 {
+  -webkit-box-flex: 1;
+  -webkit-flex-grow: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+  position: relative;
+}
+
+.c3:focus {
+  outline: 0;
+}
+
+.c3 ul {
+  position: absolute;
+  width: auto;
+  min-width: 170px;
+  top: 27px;
+}
+
+.c3 ul:empty {
+  display: none;
+}
+
+.c4 {
+  width: 100%;
+  border: 0;
+  font-size: 16px;
+  font-family: ProximaNovaCond,sans-serif;
+}
+
+.c4:focus {
+  outline: 0;
+  color: #0A7BC2;
+}
+
+.c2 {
+  outline: 0;
+}
+
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-flow: row wrap;
+  -ms-flex-flow: row wrap;
+  flex-flow: row wrap;
+  width: auto%;
+}
+
+.c0:hover {
+  cursor: text;
+}
+
+.c0:focus {
+  outline: none;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c1:focus {
+  outline: none;
+}
+
+.c1:first-child {
+  cursor: default;
+}
+
+.c1:not(:first-child) span:first-child:hover {
+  color: #D24A1D;
+  -webkit-text-decoration: line-through;
+  text-decoration: line-through;
+  cursor: pointer;
+}
+
+.c1:not(:first-child) span:first-child:focus {
+  outline: 0;
+}
+
+<Toggle(MultipleAuthors)
+  authors={
+    Array [
+      Object {
+        "avatar": Object {
+          "format": "png",
+          "id": "sample",
+        },
+        "displayName": "BoJack Horseman",
+        "id": "60061e",
+        "screenName": "borsejackhorseman",
+      },
+    ]
+  }
+  authorsList={
+    Array [
+      Object {
+        "avatar": Object {
+          "format": "png",
+          "id": "17jcxk0ml1k8qpng",
+        },
+        "displayName": "Zoltán Balázs",
+        "id": 0,
+        "screenName": "zoltnbalzs",
+      },
+      Object {
+        "avatar": Object {
+          "format": "png",
+          "id": "17jcxk0ml1k8qpng",
+        },
+        "displayName": "Lauren Bertolini",
+        "id": 30000,
+        "screenName": "laurenbertolini",
+      },
+      Object {
+        "avatar": Object {
+          "format": "png",
+          "id": "17jcxk0ml1k8qpng",
+        },
+        "displayName": "István Bodnár",
+        "id": 60000,
+        "screenName": "istvnbodnr",
+      },
+    ]
+  }
+  onChange={[Function]}
+  onClose={[Function]}
+>
+  <ClickOutside(MultipleAuthors)
+    authors={
+      Array [
+        Object {
+          "avatar": Object {
+            "format": "png",
+            "id": "sample",
+          },
+          "displayName": "BoJack Horseman",
+          "id": "60061e",
+          "screenName": "borsejackhorseman",
+        },
+      ]
+    }
+    authorsList={
+      Array [
+        Object {
+          "avatar": Object {
+            "format": "png",
+            "id": "17jcxk0ml1k8qpng",
+          },
+          "displayName": "Zoltán Balázs",
+          "id": 0,
+          "screenName": "zoltnbalzs",
+        },
+        Object {
+          "avatar": Object {
+            "format": "png",
+            "id": "17jcxk0ml1k8qpng",
+          },
+          "displayName": "Lauren Bertolini",
+          "id": 30000,
+          "screenName": "laurenbertolini",
+        },
+        Object {
+          "avatar": Object {
+            "format": "png",
+            "id": "17jcxk0ml1k8qpng",
+          },
+          "displayName": "István Bodnár",
+          "id": 60000,
+          "screenName": "istvnbodnr",
+        },
+      ]
+    }
+    close={[Function]}
+    handleClickOutside={[Function]}
+    isOpen={true}
+    onChange={[Function]}
+    onClose={[Function]}
+    toggle={[Function]}
+  >
+    <MultipleAuthors
+      authors={
+        Array [
+          Object {
+            "avatar": Object {
+              "format": "png",
+              "id": "sample",
+            },
+            "displayName": "BoJack Horseman",
+            "id": "60061e",
+            "screenName": "borsejackhorseman",
+          },
+        ]
+      }
+      authorsList={
+        Array [
+          Object {
+            "avatar": Object {
+              "format": "png",
+              "id": "17jcxk0ml1k8qpng",
+            },
+            "displayName": "Zoltán Balázs",
+            "id": 0,
+            "screenName": "zoltnbalzs",
+          },
+          Object {
+            "avatar": Object {
+              "format": "png",
+              "id": "17jcxk0ml1k8qpng",
+            },
+            "displayName": "Lauren Bertolini",
+            "id": 30000,
+            "screenName": "laurenbertolini",
+          },
+          Object {
+            "avatar": Object {
+              "format": "png",
+              "id": "17jcxk0ml1k8qpng",
+            },
+            "displayName": "István Bodnár",
+            "id": 60000,
+            "screenName": "istvnbodnr",
+          },
+        ]
+      }
+      close={[Function]}
+      insideReference={[Function]}
+      isOpen={true}
+      onChange={[Function]}
+      onClose={[Function]}
+      toggle={[Function]}
+    >
+      <EnsureDefaultTheme>
+        <ThemeProvider
+          theme={[Function]}
+        >
+          <MultipleAuthors__MultipleAuthorsWrapper
+            onClick={[Function]}
+            tabIndex={0}
+          >
+            <StyledComponent
+              forwardedComponent={
+                Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "attrs": Array [
+                    Object {
+                      "role": "button",
+                    },
+                  ],
+                  "componentStyle": ComponentStyle {
+                    "componentId": "MultipleAuthors__MultipleAuthorsWrapper-av9rtc-0",
+                    "isStatic": true,
+                    "lastClassName": "c0",
+                    "rules": Array [
+                      "display:flex;flex-flow:row wrap;width:auto%;&:hover{cursor:text;}&:focus{outline:none;}",
+                    ],
+                  },
+                  "displayName": "MultipleAuthors__MultipleAuthorsWrapper",
+                  "foldedComponentIds": Array [],
+                  "render": [Function],
+                  "styledComponentId": "MultipleAuthors__MultipleAuthorsWrapper-av9rtc-0",
+                  "target": "div",
+                  "toString": [Function],
+                  "warnTooManyClasses": [Function],
+                  "withComponent": [Function],
+                }
+              }
+              forwardedRef={[Function]}
+              onClick={[Function]}
+              tabIndex={0}
+            >
+              <div
+                className="c0"
+                onClick={[Function]}
+                role="button"
+                tabIndex={0}
+              >
+                <MultipleAuthors__MultipleAuthorsElementEditor
+                  key="60061e"
+                >
+                  <StyledComponent
+                    forwardedComponent={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": Array [],
+                        "componentStyle": ComponentStyle {
+                          "componentId": "MultipleAuthors__MultipleAuthorsElementEditor-av9rtc-1",
+                          "isStatic": false,
+                          "lastClassName": "c1",
+                          "rules": Array [
+                            "display:flex;&:focus{outline:none;}",
+                            "&:first-child{cursor:default;}&:not(:first-child){span:first-child{&:hover{color:",
+                            [Function],
+                            ";text-decoration:line-through;cursor:pointer;}&:focus{outline:0;}}}",
+                          ],
+                        },
+                        "displayName": "MultipleAuthors__MultipleAuthorsElementEditor",
+                        "foldedComponentIds": Array [
+                          "styledElements__MultipleAuthorsElement-sc-1mep9y1-0",
+                        ],
+                        "render": [Function],
+                        "styledComponentId": "MultipleAuthors__MultipleAuthorsElementEditor-av9rtc-1",
+                        "target": "div",
+                        "toString": [Function],
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                  >
+                    <div
+                      className="c1"
+                    >
+                      <styledElements__AuthorElement
+                        onClick={[Function]}
+                        tabIndex={0}
+                      >
+                        <StyledComponent
+                          forwardedComponent={
+                            Object {
+                              "$$typeof": Symbol(react.forward_ref),
+                              "attrs": Array [
+                                Object {
+                                  "role": "button",
+                                },
+                              ],
+                              "componentStyle": ComponentStyle {
+                                "componentId": "styledElements__AuthorElement-sc-1mep9y1-1",
+                                "isStatic": true,
+                                "lastClassName": "c2",
+                                "rules": Array [
+                                  "outline:0;",
+                                ],
+                              },
+                              "displayName": "styledElements__AuthorElement",
+                              "foldedComponentIds": Array [],
+                              "render": [Function],
+                              "styledComponentId": "styledElements__AuthorElement-sc-1mep9y1-1",
+                              "target": "span",
+                              "toString": [Function],
+                              "warnTooManyClasses": [Function],
+                              "withComponent": [Function],
+                            }
+                          }
+                          forwardedRef={null}
+                          onClick={[Function]}
+                          tabIndex={0}
+                        >
+                          <span
+                            className="c2"
+                            onClick={[Function]}
+                            role="button"
+                            tabIndex={0}
+                          >
+                            BoJack Horseman
+                          </span>
+                        </StyledComponent>
+                      </styledElements__AuthorElement>
+                      <span>
+                        , 
+                      </span>
+                    </div>
+                  </StyledComponent>
+                </MultipleAuthors__MultipleAuthorsElementEditor>
+                <AuthorInput
+                  authorsList={
+                    Array [
+                      Object {
+                        "avatar": Object {
+                          "format": "png",
+                          "id": "17jcxk0ml1k8qpng",
+                        },
+                        "displayName": "Zoltán Balázs",
+                        "id": 0,
+                        "screenName": "zoltnbalzs",
+                      },
+                      Object {
+                        "avatar": Object {
+                          "format": "png",
+                          "id": "17jcxk0ml1k8qpng",
+                        },
+                        "displayName": "Lauren Bertolini",
+                        "id": 30000,
+                        "screenName": "laurenbertolini",
+                      },
+                      Object {
+                        "avatar": Object {
+                          "format": "png",
+                          "id": "17jcxk0ml1k8qpng",
+                        },
+                        "displayName": "István Bodnár",
+                        "id": 60000,
+                        "screenName": "istvnbodnr",
+                      },
+                    ]
+                  }
+                  onBackspaceDown={[Function]}
+                  onSelect={[Function]}
+                >
+                  <EnsureDefaultTheme>
+                    <ThemeProvider
+                      theme={[Function]}
+                    >
+                      <AuthorInput__AuthorSelector>
+                        <StyledComponent
+                          forwardedComponent={
+                            Object {
+                              "$$typeof": Symbol(react.forward_ref),
+                              "attrs": Array [],
+                              "componentStyle": ComponentStyle {
+                                "componentId": "AuthorInput__AuthorSelector-ruvwiq-0",
+                                "isStatic": true,
+                                "lastClassName": "c3",
+                                "rules": Array [
+                                  "flex-grow:1;position:relative;&:focus{outline:0;}ul{position:absolute;width:auto;min-width:170px;top:27px;&:empty{display:none;}}",
+                                ],
+                              },
+                              "displayName": "AuthorInput__AuthorSelector",
+                              "foldedComponentIds": Array [],
+                              "render": [Function],
+                              "styledComponentId": "AuthorInput__AuthorSelector-ruvwiq-0",
+                              "target": "div",
+                              "toString": [Function],
+                              "warnTooManyClasses": [Function],
+                              "withComponent": [Function],
+                            }
+                          }
+                          forwardedRef={null}
+                        >
+                          <div
+                            className="c3"
+                          >
+                            <AuthorInput__AuthorInputWrapper
+                              autoFocus={true}
+                              onChange={[Function]}
+                              onFocus={[Function]}
+                              onKeyDown={[Function]}
+                              value="L"
+                            >
+                              <StyledComponent
+                                autoFocus={true}
+                                forwardedComponent={
+                                  Object {
+                                    "$$typeof": Symbol(react.forward_ref),
+                                    "attrs": Array [],
+                                    "componentStyle": ComponentStyle {
+                                      "componentId": "AuthorInput__AuthorInputWrapper-ruvwiq-1",
+                                      "isStatic": false,
+                                      "lastClassName": "c4",
+                                      "rules": Array [
+                                        "width:100%;border:0;font-size:16px;font-family:",
+                                        [Function],
+                                        ";&:focus{outline:0;color:",
+                                        [Function],
+                                        ";}",
+                                      ],
+                                    },
+                                    "displayName": "AuthorInput__AuthorInputWrapper",
+                                    "foldedComponentIds": Array [],
+                                    "render": [Function],
+                                    "styledComponentId": "AuthorInput__AuthorInputWrapper-ruvwiq-1",
+                                    "target": "input",
+                                    "toString": [Function],
+                                    "warnTooManyClasses": [Function],
+                                    "withComponent": [Function],
+                                  }
+                                }
+                                forwardedRef={null}
+                                onChange={[Function]}
+                                onFocus={[Function]}
+                                onKeyDown={[Function]}
+                                value="L"
+                              >
+                                <input
+                                  autoFocus={true}
+                                  className="c4"
+                                  onChange={[Function]}
+                                  onFocus={[Function]}
+                                  onKeyDown={[Function]}
+                                  value="L"
+                                />
+                              </StyledComponent>
+                            </AuthorInput__AuthorInputWrapper>
+                            <ListWithSelection
+                              allowNavigation={true}
+                              onSelect={[Function]}
+                              selectionKeys={
+                                Array [
+                                  ",",
+                                  "ArrowRight",
+                                ]
+                              }
+                            >
+                              <list-with-selection__List>
+                                <StyledComponent
+                                  forwardedComponent={
+                                    Object {
+                                      "$$typeof": Symbol(react.forward_ref),
+                                      "attrs": Array [],
+                                      "componentStyle": ComponentStyle {
+                                        "componentId": "list-with-selection__List-otg3vd-0",
+                                        "isStatic": false,
+                                        "lastClassName": "c5",
+                                        "rules": Array [
+                                          "background:white;border:1px solid #e5e5e5;width:100%;overflow-y:scroll;z-index:501;position:relative;margin:0;",
+                                          [Function],
+                                        ],
+                                      },
+                                      "displayName": "list-with-selection__List",
+                                      "foldedComponentIds": Array [],
+                                      "render": [Function],
+                                      "styledComponentId": "list-with-selection__List-otg3vd-0",
+                                      "target": "ul",
+                                      "toString": [Function],
+                                      "warnTooManyClasses": [Function],
+                                      "withComponent": [Function],
+                                    }
+                                  }
+                                  forwardedRef={[Function]}
+                                >
+                                  <ul
+                                    className="c5"
+                                  >
+                                    <list-with-selection__ListItem
+                                      aria-selected={true}
+                                      isSelected={true}
+                                      key=".$30000"
+                                      onClick={[Function]}
+                                      role="option"
+                                      tabIndex="-1"
+                                    >
+                                      <StyledComponent
+                                        aria-selected={true}
+                                        forwardedComponent={
+                                          Object {
+                                            "$$typeof": Symbol(react.forward_ref),
+                                            "attrs": Array [],
+                                            "componentStyle": ComponentStyle {
+                                              "componentId": "list-with-selection__ListItem-otg3vd-1",
+                                              "isStatic": false,
+                                              "lastClassName": "c6",
+                                              "rules": Array [
+                                                "padding:5px 10px;color:#222;cursor:pointer;outline:none;&:hover{background:#e5e5e5;}",
+                                                [Function],
+                                              ],
+                                            },
+                                            "displayName": "list-with-selection__ListItem",
+                                            "foldedComponentIds": Array [],
+                                            "render": [Function],
+                                            "styledComponentId": "list-with-selection__ListItem-otg3vd-1",
+                                            "target": "li",
+                                            "toString": [Function],
+                                            "warnTooManyClasses": [Function],
+                                            "withComponent": [Function],
+                                          }
+                                        }
+                                        forwardedRef={[Function]}
+                                        isSelected={true}
+                                        onClick={[Function]}
+                                        role="option"
+                                        tabIndex="-1"
+                                      >
+                                        <li
+                                          aria-selected={true}
+                                          className="c6"
+                                          onClick={[Function]}
+                                          role="option"
+                                          tabIndex="-1"
+                                        >
+                                          <span
+                                            key="30000"
+                                            value={
+                                              Object {
+                                                "avatar": Object {
+                                                  "format": "png",
+                                                  "id": "17jcxk0ml1k8qpng",
+                                                },
+                                                "displayName": "Lauren Bertolini",
+                                                "id": 30000,
+                                                "screenName": "laurenbertolini",
+                                              }
+                                            }
+                                          >
+                                            Lauren Bertolini
+                                          </span>
+                                        </li>
+                                      </StyledComponent>
+                                    </list-with-selection__ListItem>
+                                  </ul>
+                                </StyledComponent>
+                              </list-with-selection__List>
+                            </ListWithSelection>
+                          </div>
+                        </StyledComponent>
+                      </AuthorInput__AuthorSelector>
+                    </ThemeProvider>
+                  </EnsureDefaultTheme>
+                </AuthorInput>
+              </div>
+            </StyledComponent>
+          </MultipleAuthors__MultipleAuthorsWrapper>
+        </ThemeProvider>
+      </EnsureDefaultTheme>
+    </MultipleAuthors>
+  </ClickOutside(MultipleAuthors)>
+</Toggle(MultipleAuthors)>
+`;
+
+exports[`<MultipleAuthors /> should appear with input field, when active 1`] = `
+.c3 {
+  -webkit-box-flex: 1;
+  -webkit-flex-grow: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+  position: relative;
+}
+
+.c3:focus {
+  outline: 0;
+}
+
+.c3 ul {
+  position: absolute;
+  width: auto;
+  min-width: 170px;
+  top: 27px;
+}
+
+.c3 ul:empty {
+  display: none;
+}
+
+.c4 {
+  width: 100%;
+  border: 0;
+  font-size: 16px;
+  font-family: ProximaNovaCond,sans-serif;
+}
+
+.c4:focus {
+  outline: 0;
+  color: #0A7BC2;
+}
+
+.c2 {
+  outline: 0;
+}
+
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-flow: row wrap;
+  -ms-flex-flow: row wrap;
+  flex-flow: row wrap;
+  width: auto%;
+}
+
+.c0:hover {
+  cursor: text;
+}
+
+.c0:focus {
+  outline: none;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c1:focus {
+  outline: none;
+}
+
+.c1:first-child {
+  cursor: default;
+}
+
+.c1:not(:first-child) span:first-child:hover {
+  color: #D24A1D;
+  -webkit-text-decoration: line-through;
+  text-decoration: line-through;
+  cursor: pointer;
+}
+
+.c1:not(:first-child) span:first-child:focus {
+  outline: 0;
+}
+
+<Toggle(MultipleAuthors)
+  authors={
+    Array [
+      Object {
+        "avatar": Object {
+          "format": "png",
+          "id": "sample",
+        },
+        "displayName": "BoJack Horseman",
+        "id": "60061e",
+        "screenName": "borsejackhorseman",
+      },
+    ]
+  }
+  authorsList={
+    Array [
+      Object {
+        "avatar": Object {
+          "format": "png",
+          "id": "17jcxk0ml1k8qpng",
+        },
+        "displayName": "Zoltán Balázs",
+        "id": 0,
+        "screenName": "zoltnbalzs",
+      },
+      Object {
+        "avatar": Object {
+          "format": "png",
+          "id": "17jcxk0ml1k8qpng",
+        },
+        "displayName": "Lauren Bertolini",
+        "id": 30000,
+        "screenName": "laurenbertolini",
+      },
+      Object {
+        "avatar": Object {
+          "format": "png",
+          "id": "17jcxk0ml1k8qpng",
+        },
+        "displayName": "István Bodnár",
+        "id": 60000,
+        "screenName": "istvnbodnr",
+      },
+    ]
+  }
+  onChange={[Function]}
+  onClose={[Function]}
+>
+  <ClickOutside(MultipleAuthors)
+    authors={
+      Array [
+        Object {
+          "avatar": Object {
+            "format": "png",
+            "id": "sample",
+          },
+          "displayName": "BoJack Horseman",
+          "id": "60061e",
+          "screenName": "borsejackhorseman",
+        },
+      ]
+    }
+    authorsList={
+      Array [
+        Object {
+          "avatar": Object {
+            "format": "png",
+            "id": "17jcxk0ml1k8qpng",
+          },
+          "displayName": "Zoltán Balázs",
+          "id": 0,
+          "screenName": "zoltnbalzs",
+        },
+        Object {
+          "avatar": Object {
+            "format": "png",
+            "id": "17jcxk0ml1k8qpng",
+          },
+          "displayName": "Lauren Bertolini",
+          "id": 30000,
+          "screenName": "laurenbertolini",
+        },
+        Object {
+          "avatar": Object {
+            "format": "png",
+            "id": "17jcxk0ml1k8qpng",
+          },
+          "displayName": "István Bodnár",
+          "id": 60000,
+          "screenName": "istvnbodnr",
+        },
+      ]
+    }
+    close={[Function]}
+    handleClickOutside={[Function]}
+    isOpen={true}
+    onChange={[Function]}
+    onClose={[Function]}
+    toggle={[Function]}
+  >
+    <MultipleAuthors
+      authors={
+        Array [
+          Object {
+            "avatar": Object {
+              "format": "png",
+              "id": "sample",
+            },
+            "displayName": "BoJack Horseman",
+            "id": "60061e",
+            "screenName": "borsejackhorseman",
+          },
+        ]
+      }
+      authorsList={
+        Array [
+          Object {
+            "avatar": Object {
+              "format": "png",
+              "id": "17jcxk0ml1k8qpng",
+            },
+            "displayName": "Zoltán Balázs",
+            "id": 0,
+            "screenName": "zoltnbalzs",
+          },
+          Object {
+            "avatar": Object {
+              "format": "png",
+              "id": "17jcxk0ml1k8qpng",
+            },
+            "displayName": "Lauren Bertolini",
+            "id": 30000,
+            "screenName": "laurenbertolini",
+          },
+          Object {
+            "avatar": Object {
+              "format": "png",
+              "id": "17jcxk0ml1k8qpng",
+            },
+            "displayName": "István Bodnár",
+            "id": 60000,
+            "screenName": "istvnbodnr",
+          },
+        ]
+      }
+      close={[Function]}
+      insideReference={[Function]}
+      isOpen={true}
+      onChange={[Function]}
+      onClose={[Function]}
+      toggle={[Function]}
+    >
+      <EnsureDefaultTheme>
+        <ThemeProvider
+          theme={[Function]}
+        >
+          <MultipleAuthors__MultipleAuthorsWrapper
+            onClick={[Function]}
+            tabIndex={0}
+          >
+            <StyledComponent
+              forwardedComponent={
+                Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "attrs": Array [
+                    Object {
+                      "role": "button",
+                    },
+                  ],
+                  "componentStyle": ComponentStyle {
+                    "componentId": "MultipleAuthors__MultipleAuthorsWrapper-av9rtc-0",
+                    "isStatic": true,
+                    "lastClassName": "c0",
+                    "rules": Array [
+                      "display:flex;flex-flow:row wrap;width:auto%;&:hover{cursor:text;}&:focus{outline:none;}",
+                    ],
+                  },
+                  "displayName": "MultipleAuthors__MultipleAuthorsWrapper",
+                  "foldedComponentIds": Array [],
+                  "render": [Function],
+                  "styledComponentId": "MultipleAuthors__MultipleAuthorsWrapper-av9rtc-0",
+                  "target": "div",
+                  "toString": [Function],
+                  "warnTooManyClasses": [Function],
+                  "withComponent": [Function],
+                }
+              }
+              forwardedRef={[Function]}
+              onClick={[Function]}
+              tabIndex={0}
+            >
+              <div
+                className="c0"
+                onClick={[Function]}
+                role="button"
+                tabIndex={0}
+              >
+                <MultipleAuthors__MultipleAuthorsElementEditor
+                  key="60061e"
+                >
+                  <StyledComponent
+                    forwardedComponent={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": Array [],
+                        "componentStyle": ComponentStyle {
+                          "componentId": "MultipleAuthors__MultipleAuthorsElementEditor-av9rtc-1",
+                          "isStatic": false,
+                          "lastClassName": "c1",
+                          "rules": Array [
+                            "display:flex;&:focus{outline:none;}",
+                            "&:first-child{cursor:default;}&:not(:first-child){span:first-child{&:hover{color:",
+                            [Function],
+                            ";text-decoration:line-through;cursor:pointer;}&:focus{outline:0;}}}",
+                          ],
+                        },
+                        "displayName": "MultipleAuthors__MultipleAuthorsElementEditor",
+                        "foldedComponentIds": Array [
+                          "styledElements__MultipleAuthorsElement-sc-1mep9y1-0",
+                        ],
+                        "render": [Function],
+                        "styledComponentId": "MultipleAuthors__MultipleAuthorsElementEditor-av9rtc-1",
+                        "target": "div",
+                        "toString": [Function],
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                  >
+                    <div
+                      className="c1"
+                    >
+                      <styledElements__AuthorElement
+                        onClick={[Function]}
+                        tabIndex={0}
+                      >
+                        <StyledComponent
+                          forwardedComponent={
+                            Object {
+                              "$$typeof": Symbol(react.forward_ref),
+                              "attrs": Array [
+                                Object {
+                                  "role": "button",
+                                },
+                              ],
+                              "componentStyle": ComponentStyle {
+                                "componentId": "styledElements__AuthorElement-sc-1mep9y1-1",
+                                "isStatic": true,
+                                "lastClassName": "c2",
+                                "rules": Array [
+                                  "outline:0;",
+                                ],
+                              },
+                              "displayName": "styledElements__AuthorElement",
+                              "foldedComponentIds": Array [],
+                              "render": [Function],
+                              "styledComponentId": "styledElements__AuthorElement-sc-1mep9y1-1",
+                              "target": "span",
+                              "toString": [Function],
+                              "warnTooManyClasses": [Function],
+                              "withComponent": [Function],
+                            }
+                          }
+                          forwardedRef={null}
+                          onClick={[Function]}
+                          tabIndex={0}
+                        >
+                          <span
+                            className="c2"
+                            onClick={[Function]}
+                            role="button"
+                            tabIndex={0}
+                          >
+                            BoJack Horseman
+                          </span>
+                        </StyledComponent>
+                      </styledElements__AuthorElement>
+                      <span>
+                        , 
+                      </span>
+                    </div>
+                  </StyledComponent>
+                </MultipleAuthors__MultipleAuthorsElementEditor>
+                <AuthorInput
+                  authorsList={
+                    Array [
+                      Object {
+                        "avatar": Object {
+                          "format": "png",
+                          "id": "17jcxk0ml1k8qpng",
+                        },
+                        "displayName": "Zoltán Balázs",
+                        "id": 0,
+                        "screenName": "zoltnbalzs",
+                      },
+                      Object {
+                        "avatar": Object {
+                          "format": "png",
+                          "id": "17jcxk0ml1k8qpng",
+                        },
+                        "displayName": "Lauren Bertolini",
+                        "id": 30000,
+                        "screenName": "laurenbertolini",
+                      },
+                      Object {
+                        "avatar": Object {
+                          "format": "png",
+                          "id": "17jcxk0ml1k8qpng",
+                        },
+                        "displayName": "István Bodnár",
+                        "id": 60000,
+                        "screenName": "istvnbodnr",
+                      },
+                    ]
+                  }
+                  onBackspaceDown={[Function]}
+                  onSelect={[Function]}
+                >
+                  <EnsureDefaultTheme>
+                    <ThemeProvider
+                      theme={[Function]}
+                    >
+                      <AuthorInput__AuthorSelector>
+                        <StyledComponent
+                          forwardedComponent={
+                            Object {
+                              "$$typeof": Symbol(react.forward_ref),
+                              "attrs": Array [],
+                              "componentStyle": ComponentStyle {
+                                "componentId": "AuthorInput__AuthorSelector-ruvwiq-0",
+                                "isStatic": true,
+                                "lastClassName": "c3",
+                                "rules": Array [
+                                  "flex-grow:1;position:relative;&:focus{outline:0;}ul{position:absolute;width:auto;min-width:170px;top:27px;&:empty{display:none;}}",
+                                ],
+                              },
+                              "displayName": "AuthorInput__AuthorSelector",
+                              "foldedComponentIds": Array [],
+                              "render": [Function],
+                              "styledComponentId": "AuthorInput__AuthorSelector-ruvwiq-0",
+                              "target": "div",
+                              "toString": [Function],
+                              "warnTooManyClasses": [Function],
+                              "withComponent": [Function],
+                            }
+                          }
+                          forwardedRef={null}
+                        >
+                          <div
+                            className="c3"
+                          >
+                            <AuthorInput__AuthorInputWrapper
+                              autoFocus={true}
+                              onChange={[Function]}
+                              onFocus={[Function]}
+                              onKeyDown={[Function]}
+                              value=""
+                            >
+                              <StyledComponent
+                                autoFocus={true}
+                                forwardedComponent={
+                                  Object {
+                                    "$$typeof": Symbol(react.forward_ref),
+                                    "attrs": Array [],
+                                    "componentStyle": ComponentStyle {
+                                      "componentId": "AuthorInput__AuthorInputWrapper-ruvwiq-1",
+                                      "isStatic": false,
+                                      "lastClassName": "c4",
+                                      "rules": Array [
+                                        "width:100%;border:0;font-size:16px;font-family:",
+                                        [Function],
+                                        ";&:focus{outline:0;color:",
+                                        [Function],
+                                        ";}",
+                                      ],
+                                    },
+                                    "displayName": "AuthorInput__AuthorInputWrapper",
+                                    "foldedComponentIds": Array [],
+                                    "render": [Function],
+                                    "styledComponentId": "AuthorInput__AuthorInputWrapper-ruvwiq-1",
+                                    "target": "input",
+                                    "toString": [Function],
+                                    "warnTooManyClasses": [Function],
+                                    "withComponent": [Function],
+                                  }
+                                }
+                                forwardedRef={null}
+                                onChange={[Function]}
+                                onFocus={[Function]}
+                                onKeyDown={[Function]}
+                                value=""
+                              >
+                                <input
+                                  autoFocus={true}
+                                  className="c4"
+                                  onChange={[Function]}
+                                  onFocus={[Function]}
+                                  onKeyDown={[Function]}
+                                  value=""
+                                />
+                              </StyledComponent>
+                            </AuthorInput__AuthorInputWrapper>
+                          </div>
+                        </StyledComponent>
+                      </AuthorInput__AuthorSelector>
+                    </ThemeProvider>
+                  </EnsureDefaultTheme>
+                </AuthorInput>
+              </div>
+            </StyledComponent>
+          </MultipleAuthors__MultipleAuthorsWrapper>
+        </ThemeProvider>
+      </EnsureDefaultTheme>
+    </MultipleAuthors>
+  </ClickOutside(MultipleAuthors)>
+</Toggle(MultipleAuthors)>
+`;
+
+exports[`<MultipleAuthors /> should appear without dropdown when input is empty 1`] = `
+.c3 {
+  -webkit-box-flex: 1;
+  -webkit-flex-grow: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+  position: relative;
+}
+
+.c3:focus {
+  outline: 0;
+}
+
+.c3 ul {
+  position: absolute;
+  width: auto;
+  min-width: 170px;
+  top: 27px;
+}
+
+.c3 ul:empty {
+  display: none;
+}
+
+.c4 {
+  width: 100%;
+  border: 0;
+  font-size: 16px;
+  font-family: ProximaNovaCond,sans-serif;
+}
+
+.c4:focus {
+  outline: 0;
+  color: #0A7BC2;
+}
+
+.c2 {
+  outline: 0;
+}
+
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-flow: row wrap;
+  -ms-flex-flow: row wrap;
+  flex-flow: row wrap;
+  width: auto%;
+}
+
+.c0:hover {
+  cursor: text;
+}
+
+.c0:focus {
+  outline: none;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c1:focus {
+  outline: none;
+}
+
+.c1:first-child {
+  cursor: default;
+}
+
+.c1:not(:first-child) span:first-child:hover {
+  color: #D24A1D;
+  -webkit-text-decoration: line-through;
+  text-decoration: line-through;
+  cursor: pointer;
+}
+
+.c1:not(:first-child) span:first-child:focus {
+  outline: 0;
+}
+
+<Toggle(MultipleAuthors)
+  authors={
+    Array [
+      Object {
+        "avatar": Object {
+          "format": "png",
+          "id": "sample",
+        },
+        "displayName": "BoJack Horseman",
+        "id": "60061e",
+        "screenName": "borsejackhorseman",
+      },
+    ]
+  }
+  authorsList={
+    Array [
+      Object {
+        "avatar": Object {
+          "format": "png",
+          "id": "17jcxk0ml1k8qpng",
+        },
+        "displayName": "Zoltán Balázs",
+        "id": 0,
+        "screenName": "zoltnbalzs",
+      },
+      Object {
+        "avatar": Object {
+          "format": "png",
+          "id": "17jcxk0ml1k8qpng",
+        },
+        "displayName": "Lauren Bertolini",
+        "id": 30000,
+        "screenName": "laurenbertolini",
+      },
+      Object {
+        "avatar": Object {
+          "format": "png",
+          "id": "17jcxk0ml1k8qpng",
+        },
+        "displayName": "István Bodnár",
+        "id": 60000,
+        "screenName": "istvnbodnr",
+      },
+    ]
+  }
+  onChange={[Function]}
+  onClose={[Function]}
+>
+  <ClickOutside(MultipleAuthors)
+    authors={
+      Array [
+        Object {
+          "avatar": Object {
+            "format": "png",
+            "id": "sample",
+          },
+          "displayName": "BoJack Horseman",
+          "id": "60061e",
+          "screenName": "borsejackhorseman",
+        },
+      ]
+    }
+    authorsList={
+      Array [
+        Object {
+          "avatar": Object {
+            "format": "png",
+            "id": "17jcxk0ml1k8qpng",
+          },
+          "displayName": "Zoltán Balázs",
+          "id": 0,
+          "screenName": "zoltnbalzs",
+        },
+        Object {
+          "avatar": Object {
+            "format": "png",
+            "id": "17jcxk0ml1k8qpng",
+          },
+          "displayName": "Lauren Bertolini",
+          "id": 30000,
+          "screenName": "laurenbertolini",
+        },
+        Object {
+          "avatar": Object {
+            "format": "png",
+            "id": "17jcxk0ml1k8qpng",
+          },
+          "displayName": "István Bodnár",
+          "id": 60000,
+          "screenName": "istvnbodnr",
+        },
+      ]
+    }
+    close={[Function]}
+    handleClickOutside={[Function]}
+    isOpen={true}
+    onChange={[Function]}
+    onClose={[Function]}
+    toggle={[Function]}
+  >
+    <MultipleAuthors
+      authors={
+        Array [
+          Object {
+            "avatar": Object {
+              "format": "png",
+              "id": "sample",
+            },
+            "displayName": "BoJack Horseman",
+            "id": "60061e",
+            "screenName": "borsejackhorseman",
+          },
+        ]
+      }
+      authorsList={
+        Array [
+          Object {
+            "avatar": Object {
+              "format": "png",
+              "id": "17jcxk0ml1k8qpng",
+            },
+            "displayName": "Zoltán Balázs",
+            "id": 0,
+            "screenName": "zoltnbalzs",
+          },
+          Object {
+            "avatar": Object {
+              "format": "png",
+              "id": "17jcxk0ml1k8qpng",
+            },
+            "displayName": "Lauren Bertolini",
+            "id": 30000,
+            "screenName": "laurenbertolini",
+          },
+          Object {
+            "avatar": Object {
+              "format": "png",
+              "id": "17jcxk0ml1k8qpng",
+            },
+            "displayName": "István Bodnár",
+            "id": 60000,
+            "screenName": "istvnbodnr",
+          },
+        ]
+      }
+      close={[Function]}
+      insideReference={[Function]}
+      isOpen={true}
+      onChange={[Function]}
+      onClose={[Function]}
+      toggle={[Function]}
+    >
+      <EnsureDefaultTheme>
+        <ThemeProvider
+          theme={[Function]}
+        >
+          <MultipleAuthors__MultipleAuthorsWrapper
+            onClick={[Function]}
+            tabIndex={0}
+          >
+            <StyledComponent
+              forwardedComponent={
+                Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "attrs": Array [
+                    Object {
+                      "role": "button",
+                    },
+                  ],
+                  "componentStyle": ComponentStyle {
+                    "componentId": "MultipleAuthors__MultipleAuthorsWrapper-av9rtc-0",
+                    "isStatic": true,
+                    "lastClassName": "c0",
+                    "rules": Array [
+                      "display:flex;flex-flow:row wrap;width:auto%;&:hover{cursor:text;}&:focus{outline:none;}",
+                    ],
+                  },
+                  "displayName": "MultipleAuthors__MultipleAuthorsWrapper",
+                  "foldedComponentIds": Array [],
+                  "render": [Function],
+                  "styledComponentId": "MultipleAuthors__MultipleAuthorsWrapper-av9rtc-0",
+                  "target": "div",
+                  "toString": [Function],
+                  "warnTooManyClasses": [Function],
+                  "withComponent": [Function],
+                }
+              }
+              forwardedRef={[Function]}
+              onClick={[Function]}
+              tabIndex={0}
+            >
+              <div
+                className="c0"
+                onClick={[Function]}
+                role="button"
+                tabIndex={0}
+              >
+                <MultipleAuthors__MultipleAuthorsElementEditor
+                  key="60061e"
+                >
+                  <StyledComponent
+                    forwardedComponent={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": Array [],
+                        "componentStyle": ComponentStyle {
+                          "componentId": "MultipleAuthors__MultipleAuthorsElementEditor-av9rtc-1",
+                          "isStatic": false,
+                          "lastClassName": "c1",
+                          "rules": Array [
+                            "display:flex;&:focus{outline:none;}",
+                            "&:first-child{cursor:default;}&:not(:first-child){span:first-child{&:hover{color:",
+                            [Function],
+                            ";text-decoration:line-through;cursor:pointer;}&:focus{outline:0;}}}",
+                          ],
+                        },
+                        "displayName": "MultipleAuthors__MultipleAuthorsElementEditor",
+                        "foldedComponentIds": Array [
+                          "styledElements__MultipleAuthorsElement-sc-1mep9y1-0",
+                        ],
+                        "render": [Function],
+                        "styledComponentId": "MultipleAuthors__MultipleAuthorsElementEditor-av9rtc-1",
+                        "target": "div",
+                        "toString": [Function],
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                  >
+                    <div
+                      className="c1"
+                    >
+                      <styledElements__AuthorElement
+                        onClick={[Function]}
+                        tabIndex={0}
+                      >
+                        <StyledComponent
+                          forwardedComponent={
+                            Object {
+                              "$$typeof": Symbol(react.forward_ref),
+                              "attrs": Array [
+                                Object {
+                                  "role": "button",
+                                },
+                              ],
+                              "componentStyle": ComponentStyle {
+                                "componentId": "styledElements__AuthorElement-sc-1mep9y1-1",
+                                "isStatic": true,
+                                "lastClassName": "c2",
+                                "rules": Array [
+                                  "outline:0;",
+                                ],
+                              },
+                              "displayName": "styledElements__AuthorElement",
+                              "foldedComponentIds": Array [],
+                              "render": [Function],
+                              "styledComponentId": "styledElements__AuthorElement-sc-1mep9y1-1",
+                              "target": "span",
+                              "toString": [Function],
+                              "warnTooManyClasses": [Function],
+                              "withComponent": [Function],
+                            }
+                          }
+                          forwardedRef={null}
+                          onClick={[Function]}
+                          tabIndex={0}
+                        >
+                          <span
+                            className="c2"
+                            onClick={[Function]}
+                            role="button"
+                            tabIndex={0}
+                          >
+                            BoJack Horseman
+                          </span>
+                        </StyledComponent>
+                      </styledElements__AuthorElement>
+                      <span>
+                        , 
+                      </span>
+                    </div>
+                  </StyledComponent>
+                </MultipleAuthors__MultipleAuthorsElementEditor>
+                <AuthorInput
+                  authorsList={
+                    Array [
+                      Object {
+                        "avatar": Object {
+                          "format": "png",
+                          "id": "17jcxk0ml1k8qpng",
+                        },
+                        "displayName": "Zoltán Balázs",
+                        "id": 0,
+                        "screenName": "zoltnbalzs",
+                      },
+                      Object {
+                        "avatar": Object {
+                          "format": "png",
+                          "id": "17jcxk0ml1k8qpng",
+                        },
+                        "displayName": "Lauren Bertolini",
+                        "id": 30000,
+                        "screenName": "laurenbertolini",
+                      },
+                      Object {
+                        "avatar": Object {
+                          "format": "png",
+                          "id": "17jcxk0ml1k8qpng",
+                        },
+                        "displayName": "István Bodnár",
+                        "id": 60000,
+                        "screenName": "istvnbodnr",
+                      },
+                    ]
+                  }
+                  onBackspaceDown={[Function]}
+                  onSelect={[Function]}
+                >
+                  <EnsureDefaultTheme>
+                    <ThemeProvider
+                      theme={[Function]}
+                    >
+                      <AuthorInput__AuthorSelector>
+                        <StyledComponent
+                          forwardedComponent={
+                            Object {
+                              "$$typeof": Symbol(react.forward_ref),
+                              "attrs": Array [],
+                              "componentStyle": ComponentStyle {
+                                "componentId": "AuthorInput__AuthorSelector-ruvwiq-0",
+                                "isStatic": true,
+                                "lastClassName": "c3",
+                                "rules": Array [
+                                  "flex-grow:1;position:relative;&:focus{outline:0;}ul{position:absolute;width:auto;min-width:170px;top:27px;&:empty{display:none;}}",
+                                ],
+                              },
+                              "displayName": "AuthorInput__AuthorSelector",
+                              "foldedComponentIds": Array [],
+                              "render": [Function],
+                              "styledComponentId": "AuthorInput__AuthorSelector-ruvwiq-0",
+                              "target": "div",
+                              "toString": [Function],
+                              "warnTooManyClasses": [Function],
+                              "withComponent": [Function],
+                            }
+                          }
+                          forwardedRef={null}
+                        >
+                          <div
+                            className="c3"
+                          >
+                            <AuthorInput__AuthorInputWrapper
+                              autoFocus={true}
+                              onChange={[Function]}
+                              onFocus={[Function]}
+                              onKeyDown={[Function]}
+                              value=""
+                            >
+                              <StyledComponent
+                                autoFocus={true}
+                                forwardedComponent={
+                                  Object {
+                                    "$$typeof": Symbol(react.forward_ref),
+                                    "attrs": Array [],
+                                    "componentStyle": ComponentStyle {
+                                      "componentId": "AuthorInput__AuthorInputWrapper-ruvwiq-1",
+                                      "isStatic": false,
+                                      "lastClassName": "c4",
+                                      "rules": Array [
+                                        "width:100%;border:0;font-size:16px;font-family:",
+                                        [Function],
+                                        ";&:focus{outline:0;color:",
+                                        [Function],
+                                        ";}",
+                                      ],
+                                    },
+                                    "displayName": "AuthorInput__AuthorInputWrapper",
+                                    "foldedComponentIds": Array [],
+                                    "render": [Function],
+                                    "styledComponentId": "AuthorInput__AuthorInputWrapper-ruvwiq-1",
+                                    "target": "input",
+                                    "toString": [Function],
+                                    "warnTooManyClasses": [Function],
+                                    "withComponent": [Function],
+                                  }
+                                }
+                                forwardedRef={null}
+                                onChange={[Function]}
+                                onFocus={[Function]}
+                                onKeyDown={[Function]}
+                                value=""
+                              >
+                                <input
+                                  autoFocus={true}
+                                  className="c4"
+                                  onChange={[Function]}
+                                  onFocus={[Function]}
+                                  onKeyDown={[Function]}
+                                  value=""
+                                />
+                              </StyledComponent>
+                            </AuthorInput__AuthorInputWrapper>
+                          </div>
+                        </StyledComponent>
+                      </AuthorInput__AuthorSelector>
+                    </ThemeProvider>
+                  </EnsureDefaultTheme>
+                </AuthorInput>
+              </div>
+            </StyledComponent>
+          </MultipleAuthors__MultipleAuthorsWrapper>
+        </ThemeProvider>
+      </EnsureDefaultTheme>
+    </MultipleAuthors>
+  </ClickOutside(MultipleAuthors)>
+</Toggle(MultipleAuthors)>
+`;
+
+exports[`<MultipleAuthors /> should delete input value when clicked outside 1`] = `
+.c2 {
+  outline: 0;
+}
+
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-flow: row wrap;
+  -ms-flex-flow: row wrap;
+  flex-flow: row wrap;
+  width: auto%;
+}
+
+.c0:hover {
+  cursor: text;
+}
+
+.c0:focus {
+  outline: none;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c1:focus {
+  outline: none;
+}
+
+.c1:first-child {
+  cursor: default;
+}
+
+.c1:not(:first-child) span:first-child:hover {
+  color: #D24A1D;
+  -webkit-text-decoration: line-through;
+  text-decoration: line-through;
+  cursor: pointer;
+}
+
+.c1:not(:first-child) span:first-child:focus {
+  outline: 0;
+}
+
+<Toggle(MultipleAuthors)
+  authors={
+    Array [
+      Object {
+        "avatar": Object {
+          "format": "png",
+          "id": "sample",
+        },
+        "displayName": "BoJack Horseman",
+        "id": "60061e",
+        "screenName": "borsejackhorseman",
+      },
+    ]
+  }
+  authorsList={
+    Array [
+      Object {
+        "avatar": Object {
+          "format": "png",
+          "id": "17jcxk0ml1k8qpng",
+        },
+        "displayName": "Zoltán Balázs",
+        "id": 0,
+        "screenName": "zoltnbalzs",
+      },
+      Object {
+        "avatar": Object {
+          "format": "png",
+          "id": "17jcxk0ml1k8qpng",
+        },
+        "displayName": "Lauren Bertolini",
+        "id": 30000,
+        "screenName": "laurenbertolini",
+      },
+      Object {
+        "avatar": Object {
+          "format": "png",
+          "id": "17jcxk0ml1k8qpng",
+        },
+        "displayName": "István Bodnár",
+        "id": 60000,
+        "screenName": "istvnbodnr",
+      },
+    ]
+  }
+  isOpen={false}
+  onChange={[Function]}
+  onClose={[Function]}
+>
+  <ClickOutside(MultipleAuthors)
+    authors={
+      Array [
+        Object {
+          "avatar": Object {
+            "format": "png",
+            "id": "sample",
+          },
+          "displayName": "BoJack Horseman",
+          "id": "60061e",
+          "screenName": "borsejackhorseman",
+        },
+      ]
+    }
+    authorsList={
+      Array [
+        Object {
+          "avatar": Object {
+            "format": "png",
+            "id": "17jcxk0ml1k8qpng",
+          },
+          "displayName": "Zoltán Balázs",
+          "id": 0,
+          "screenName": "zoltnbalzs",
+        },
+        Object {
+          "avatar": Object {
+            "format": "png",
+            "id": "17jcxk0ml1k8qpng",
+          },
+          "displayName": "Lauren Bertolini",
+          "id": 30000,
+          "screenName": "laurenbertolini",
+        },
+        Object {
+          "avatar": Object {
+            "format": "png",
+            "id": "17jcxk0ml1k8qpng",
+          },
+          "displayName": "István Bodnár",
+          "id": 60000,
+          "screenName": "istvnbodnr",
+        },
+      ]
+    }
+    close={[Function]}
+    handleClickOutside={[Function]}
+    isOpen={false}
+    onChange={[Function]}
+    onClose={[Function]}
+    toggle={[Function]}
+  >
+    <MultipleAuthors
+      authors={
+        Array [
+          Object {
+            "avatar": Object {
+              "format": "png",
+              "id": "sample",
+            },
+            "displayName": "BoJack Horseman",
+            "id": "60061e",
+            "screenName": "borsejackhorseman",
+          },
+        ]
+      }
+      authorsList={
+        Array [
+          Object {
+            "avatar": Object {
+              "format": "png",
+              "id": "17jcxk0ml1k8qpng",
+            },
+            "displayName": "Zoltán Balázs",
+            "id": 0,
+            "screenName": "zoltnbalzs",
+          },
+          Object {
+            "avatar": Object {
+              "format": "png",
+              "id": "17jcxk0ml1k8qpng",
+            },
+            "displayName": "Lauren Bertolini",
+            "id": 30000,
+            "screenName": "laurenbertolini",
+          },
+          Object {
+            "avatar": Object {
+              "format": "png",
+              "id": "17jcxk0ml1k8qpng",
+            },
+            "displayName": "István Bodnár",
+            "id": 60000,
+            "screenName": "istvnbodnr",
+          },
+        ]
+      }
+      close={[Function]}
+      insideReference={[Function]}
+      isOpen={false}
+      onChange={[Function]}
+      onClose={[Function]}
+      toggle={[Function]}
+    >
+      <EnsureDefaultTheme>
+        <ThemeProvider
+          theme={[Function]}
+        >
+          <MultipleAuthors__MultipleAuthorsWrapper
+            onClick={[Function]}
+            tabIndex={0}
+          >
+            <StyledComponent
+              forwardedComponent={
+                Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "attrs": Array [
+                    Object {
+                      "role": "button",
+                    },
+                  ],
+                  "componentStyle": ComponentStyle {
+                    "componentId": "MultipleAuthors__MultipleAuthorsWrapper-av9rtc-0",
+                    "isStatic": true,
+                    "lastClassName": "c0",
+                    "rules": Array [
+                      "display:flex;flex-flow:row wrap;width:auto%;&:hover{cursor:text;}&:focus{outline:none;}",
+                    ],
+                  },
+                  "displayName": "MultipleAuthors__MultipleAuthorsWrapper",
+                  "foldedComponentIds": Array [],
+                  "render": [Function],
+                  "styledComponentId": "MultipleAuthors__MultipleAuthorsWrapper-av9rtc-0",
+                  "target": "div",
+                  "toString": [Function],
+                  "warnTooManyClasses": [Function],
+                  "withComponent": [Function],
+                }
+              }
+              forwardedRef={[Function]}
+              onClick={[Function]}
+              tabIndex={0}
+            >
+              <div
+                className="c0"
+                onClick={[Function]}
+                role="button"
+                tabIndex={0}
+              >
+                <MultipleAuthors__MultipleAuthorsElementEditor
+                  key="60061e"
+                >
+                  <StyledComponent
+                    forwardedComponent={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": Array [],
+                        "componentStyle": ComponentStyle {
+                          "componentId": "MultipleAuthors__MultipleAuthorsElementEditor-av9rtc-1",
+                          "isStatic": false,
+                          "lastClassName": "c1",
+                          "rules": Array [
+                            "display:flex;&:focus{outline:none;}",
+                            "&:first-child{cursor:default;}&:not(:first-child){span:first-child{&:hover{color:",
+                            [Function],
+                            ";text-decoration:line-through;cursor:pointer;}&:focus{outline:0;}}}",
+                          ],
+                        },
+                        "displayName": "MultipleAuthors__MultipleAuthorsElementEditor",
+                        "foldedComponentIds": Array [
+                          "styledElements__MultipleAuthorsElement-sc-1mep9y1-0",
+                        ],
+                        "render": [Function],
+                        "styledComponentId": "MultipleAuthors__MultipleAuthorsElementEditor-av9rtc-1",
+                        "target": "div",
+                        "toString": [Function],
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                  >
+                    <div
+                      className="c1"
+                    >
+                      <styledElements__AuthorElement
+                        onClick={[Function]}
+                        tabIndex={0}
+                      >
+                        <StyledComponent
+                          forwardedComponent={
+                            Object {
+                              "$$typeof": Symbol(react.forward_ref),
+                              "attrs": Array [
+                                Object {
+                                  "role": "button",
+                                },
+                              ],
+                              "componentStyle": ComponentStyle {
+                                "componentId": "styledElements__AuthorElement-sc-1mep9y1-1",
+                                "isStatic": true,
+                                "lastClassName": "c2",
+                                "rules": Array [
+                                  "outline:0;",
+                                ],
+                              },
+                              "displayName": "styledElements__AuthorElement",
+                              "foldedComponentIds": Array [],
+                              "render": [Function],
+                              "styledComponentId": "styledElements__AuthorElement-sc-1mep9y1-1",
+                              "target": "span",
+                              "toString": [Function],
+                              "warnTooManyClasses": [Function],
+                              "withComponent": [Function],
+                            }
+                          }
+                          forwardedRef={null}
+                          onClick={[Function]}
+                          tabIndex={0}
+                        >
+                          <span
+                            className="c2"
+                            onClick={[Function]}
+                            role="button"
+                            tabIndex={0}
+                          >
+                            BoJack Horseman
+                          </span>
+                        </StyledComponent>
+                      </styledElements__AuthorElement>
+                    </div>
+                  </StyledComponent>
+                </MultipleAuthors__MultipleAuthorsElementEditor>
+              </div>
+            </StyledComponent>
+          </MultipleAuthors__MultipleAuthorsWrapper>
+        </ThemeProvider>
+      </EnsureDefaultTheme>
+    </MultipleAuthors>
+  </ClickOutside(MultipleAuthors)>
+</Toggle(MultipleAuthors)>
+`;

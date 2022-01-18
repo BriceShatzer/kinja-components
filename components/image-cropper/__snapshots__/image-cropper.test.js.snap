@@ -1,0 +1,546 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Image Cropper can change aspect ratio 1`] = `
+<image-cropper__ImageCropperWrapper>
+  <image-cropper__ImageCropperRatioSelector>
+    <ButtonGroup
+      onChange={[Function]}
+    >
+      <ButtonGroupItem
+        key="16:9"
+        label="16:9"
+        selected={true}
+        value="16:9"
+      />
+      <ButtonGroupItem
+        key="custom"
+        label="Custom ratio"
+        selected={false}
+        value="custom"
+      />
+    </ButtonGroup>
+  </image-cropper__ImageCropperRatioSelector>
+  <p
+    className="inline-help"
+  >
+    <span>
+      Kinja recirculation modules always use a 16:9 crop.
+    </span>
+  </p>
+  <ReactCrop
+    crop={
+      Object {
+        "aspect": 1.7777777777777777,
+        "height": 100,
+        "width": 100,
+        "x": 0,
+        "y": 0,
+      }
+    }
+    crossorigin="anonymous"
+    disabled={false}
+    imageAlt=""
+    keepSelection={false}
+    maxHeight={100}
+    maxWidth={100}
+    minHeight={0}
+    minWidth={0}
+    onChange={[Function]}
+    onComplete={[Function]}
+    onDragEnd={[Function]}
+    onDragStart={[Function]}
+    onImageError={[Function]}
+    onImageLoaded={[Function]}
+    src="foo.jpg"
+  />
+  <image-cropper__ImageCropperBottom>
+    <image-cropper__ImageCropperInfo
+      className="ImageCropper__info"
+    >
+      Selected area:
+       
+      2000
+       x 
+      2000
+       px
+    </image-cropper__ImageCropperInfo>
+  </image-cropper__ImageCropperBottom>
+</image-cropper__ImageCropperWrapper>
+`;
+
+exports[`Image Cropper can select an area 1`] = `
+<image-cropper__ImageCropperWrapper>
+  <image-cropper__ImageCropperRatioSelector>
+    <ButtonGroup
+      onChange={[Function]}
+    >
+      <ButtonGroupItem
+        key="16:9"
+        label="16:9"
+        selected={false}
+        value="16:9"
+      />
+      <ButtonGroupItem
+        key="custom"
+        label="Custom ratio"
+        selected={false}
+        value="custom"
+      />
+    </ButtonGroup>
+  </image-cropper__ImageCropperRatioSelector>
+  <p
+    className="inline-help"
+  >
+    <span>
+      Kinja recirculation modules always use a 16:9 crop.
+    </span>
+  </p>
+  <ReactCrop
+    crop={
+      Object {
+        "height": 70,
+        "width": 50,
+        "x": 20,
+        "y": 20,
+      }
+    }
+    crossorigin="anonymous"
+    disabled={false}
+    imageAlt=""
+    keepSelection={false}
+    maxHeight={100}
+    maxWidth={100}
+    minHeight={0}
+    minWidth={0}
+    onChange={[Function]}
+    onComplete={[Function]}
+    onDragEnd={[Function]}
+    onDragStart={[Function]}
+    onImageError={[Function]}
+    onImageLoaded={[Function]}
+    src="foo.jpg"
+  />
+  <image-cropper__ImageCropperBottom>
+    <image-cropper__ImageCropperInfo
+      className="ImageCropper__info"
+    >
+      Selected area:
+       
+      1000
+       x 
+      1400
+       px
+    </image-cropper__ImageCropperInfo>
+  </image-cropper__ImageCropperBottom>
+</image-cropper__ImageCropperWrapper>
+`;
+
+exports[`Image Cropper doesn't let you crop below set amounts 1`] = `
+<image-cropper__ImageCropperWrapper>
+  <image-cropper__ImageCropperRatioSelector>
+    <ButtonGroup
+      onChange={[Function]}
+    >
+      <ButtonGroupItem
+        key="16:9"
+        label="16:9"
+        selected={true}
+        value="16:9"
+      />
+      <ButtonGroupItem
+        key="custom"
+        label="Custom ratio"
+        selected={false}
+        value="custom"
+      />
+    </ButtonGroup>
+  </image-cropper__ImageCropperRatioSelector>
+  <p
+    className="inline-help"
+  >
+    <span>
+      Kinja recirculation modules always use a 16:9 crop.
+    </span>
+  </p>
+  <ReactCrop
+    crop={
+      Object {
+        "aspect": 1.7777777777777777,
+        "height": 100,
+        "width": 100,
+        "x": 0,
+        "y": 0,
+      }
+    }
+    crossorigin="anonymous"
+    disabled={false}
+    imageAlt=""
+    keepSelection={false}
+    maxHeight={100}
+    maxWidth={100}
+    minHeight={10}
+    minWidth={10}
+    onChange={[Function]}
+    onComplete={[Function]}
+    onDragEnd={[Function]}
+    onDragStart={[Function]}
+    onImageError={[Function]}
+    onImageLoaded={[Function]}
+    src="foo.jpg"
+  />
+  <image-cropper__ImageCropperBottom>
+    <image-cropper__ImageCropperInfo
+      className="ImageCropper__info"
+    >
+      Selected area:
+       
+      2000
+       x 
+      2000
+       px
+    </image-cropper__ImageCropperInfo>
+  </image-cropper__ImageCropperBottom>
+</image-cropper__ImageCropperWrapper>
+`;
+
+exports[`Image Cropper renders the cropper itself 1`] = `
+<image-cropper__ImageCropperWrapper>
+  <image-cropper__ImageCropperRatioSelector>
+    <ButtonGroup
+      onChange={[Function]}
+    >
+      <ButtonGroupItem
+        key="16:9"
+        label="16:9"
+        selected={true}
+        value="16:9"
+      />
+      <ButtonGroupItem
+        key="custom"
+        label="Custom ratio"
+        selected={false}
+        value="custom"
+      />
+    </ButtonGroup>
+  </image-cropper__ImageCropperRatioSelector>
+  <p
+    className="inline-help"
+  >
+    <span>
+      Kinja recirculation modules always use a 16:9 crop.
+    </span>
+  </p>
+  <ReactCrop
+    crop={
+      Object {
+        "aspect": 1.7777777777777777,
+        "height": 100,
+        "width": 100,
+        "x": 0,
+        "y": 0,
+      }
+    }
+    crossorigin="anonymous"
+    disabled={false}
+    imageAlt=""
+    keepSelection={false}
+    maxHeight={100}
+    maxWidth={100}
+    minHeight={0}
+    minWidth={0}
+    onChange={[Function]}
+    onComplete={[Function]}
+    onDragEnd={[Function]}
+    onDragStart={[Function]}
+    onImageError={[Function]}
+    onImageLoaded={[Function]}
+    src="foo.jpg"
+  />
+  <image-cropper__ImageCropperBottom>
+    <image-cropper__ImageCropperInfo
+      className="ImageCropper__info"
+    >
+      Selected area:
+       
+      2000
+       x 
+      2000
+       px
+    </image-cropper__ImageCropperInfo>
+  </image-cropper__ImageCropperBottom>
+</image-cropper__ImageCropperWrapper>
+`;
+
+exports[`Image Cropper should accept custom aspect ratios 1`] = `
+<image-cropper__ImageCropperWrapper>
+  <image-cropper__ImageCropperRatioSelector>
+    <ButtonGroup
+      onChange={[Function]}
+    >
+      <ButtonGroupItem
+        key="3:2"
+        label="3:2"
+        selected={true}
+        value="3:2"
+      />
+      <ButtonGroupItem
+        key="16:10"
+        label="16:10"
+        selected={false}
+        value="16:10"
+      />
+      <ButtonGroupItem
+        key="custom"
+        label="Custom ratio"
+        selected={false}
+        value="custom"
+      />
+    </ButtonGroup>
+  </image-cropper__ImageCropperRatioSelector>
+  <p
+    className="inline-help"
+  >
+    <span>
+      Kinja recirculation modules always use a 16:9 crop.
+    </span>
+  </p>
+  <ReactCrop
+    crop={
+      Object {
+        "aspect": 1.5,
+        "height": 100,
+        "width": 100,
+        "x": 0,
+        "y": 0,
+      }
+    }
+    crossorigin="anonymous"
+    disabled={false}
+    imageAlt=""
+    keepSelection={false}
+    maxHeight={100}
+    maxWidth={100}
+    minHeight={0}
+    minWidth={0}
+    onChange={[Function]}
+    onComplete={[Function]}
+    onDragEnd={[Function]}
+    onDragStart={[Function]}
+    onImageError={[Function]}
+    onImageLoaded={[Function]}
+    src="foo.jpg"
+  />
+  <p>
+     
+  </p>
+</image-cropper__ImageCropperWrapper>
+`;
+
+exports[`Image Cropper should accept custom aspect ratios 2`] = `
+<image-cropper__ImageCropperWrapper>
+  <image-cropper__ImageCropperRatioSelector>
+    <ButtonGroup
+      onChange={[Function]}
+    >
+      <ButtonGroupItem
+        key="3:2"
+        label="3:2"
+        selected={true}
+        value="3:2"
+      />
+      <ButtonGroupItem
+        key="16:10"
+        label="16:10"
+        selected={false}
+        value="16:10"
+      />
+      <ButtonGroupItem
+        key="custom"
+        label="Custom ratio"
+        selected={false}
+        value="custom"
+      />
+    </ButtonGroup>
+  </image-cropper__ImageCropperRatioSelector>
+  <p
+    className="inline-help"
+  >
+    <span>
+      Kinja recirculation modules always use a 16:9 crop.
+    </span>
+  </p>
+  <ReactCrop
+    crop={
+      Object {
+        "aspect": 1.5,
+        "height": 100,
+        "width": 100,
+        "x": 0,
+        "y": 0,
+      }
+    }
+    crossorigin="anonymous"
+    disabled={false}
+    imageAlt=""
+    keepSelection={false}
+    maxHeight={100}
+    maxWidth={100}
+    minHeight={0}
+    minWidth={0}
+    onChange={[Function]}
+    onComplete={[Function]}
+    onDragEnd={[Function]}
+    onDragStart={[Function]}
+    onImageError={[Function]}
+    onImageLoaded={[Function]}
+    src="foo.jpg"
+  />
+  <p>
+     
+  </p>
+</image-cropper__ImageCropperWrapper>
+`;
+
+exports[`Image Cropper shows a warning if the selected area is too small (both dimensions) 1`] = `
+<image-cropper__ImageCropperWrapper>
+  <image-cropper__ImageCropperRatioSelector>
+    <ButtonGroup
+      onChange={[Function]}
+    >
+      <ButtonGroupItem
+        key="16:9"
+        label="16:9"
+        selected={false}
+        value="16:9"
+      />
+      <ButtonGroupItem
+        key="custom"
+        label="Custom ratio"
+        selected={false}
+        value="custom"
+      />
+    </ButtonGroup>
+  </image-cropper__ImageCropperRatioSelector>
+  <p
+    className="inline-help"
+  >
+    <span>
+      Kinja recirculation modules always use a 16:9 crop.
+    </span>
+  </p>
+  <ReactCrop
+    crop={
+      Object {
+        "height": 49,
+        "width": 49,
+        "x": 20,
+        "y": 20,
+      }
+    }
+    crossorigin="anonymous"
+    disabled={false}
+    imageAlt=""
+    keepSelection={false}
+    maxHeight={100}
+    maxWidth={100}
+    minHeight={0}
+    minWidth={0}
+    onChange={[Function]}
+    onComplete={[Function]}
+    onDragEnd={[Function]}
+    onDragStart={[Function]}
+    onImageError={[Function]}
+    onImageLoaded={[Function]}
+    src="foo.jpg"
+  />
+  <image-cropper__ImageCropperBottom>
+    <image-cropper__ImageCropperInfo
+      className="ImageCropper__info"
+    >
+      Selected area:
+       
+      980
+       x 
+      980
+       px
+    </image-cropper__ImageCropperInfo>
+    <feedback__StyledFeedback
+      arrow="topright"
+      color="alert"
+      text="Choose a bigger area if you want to use this image for social shares."
+    />
+  </image-cropper__ImageCropperBottom>
+</image-cropper__ImageCropperWrapper>
+`;
+
+exports[`Image Cropper shows a warning if the selected area is too small (one dimension) 1`] = `
+<image-cropper__ImageCropperWrapper>
+  <image-cropper__ImageCropperRatioSelector>
+    <ButtonGroup
+      onChange={[Function]}
+    >
+      <ButtonGroupItem
+        key="16:9"
+        label="16:9"
+        selected={false}
+        value="16:9"
+      />
+      <ButtonGroupItem
+        key="custom"
+        label="Custom ratio"
+        selected={false}
+        value="custom"
+      />
+    </ButtonGroup>
+  </image-cropper__ImageCropperRatioSelector>
+  <p
+    className="inline-help"
+  >
+    <span>
+      Kinja recirculation modules always use a 16:9 crop.
+    </span>
+  </p>
+  <ReactCrop
+    crop={
+      Object {
+        "height": 49,
+        "width": 50,
+        "x": 20,
+        "y": 20,
+      }
+    }
+    crossorigin="anonymous"
+    disabled={false}
+    imageAlt=""
+    keepSelection={false}
+    maxHeight={100}
+    maxWidth={100}
+    minHeight={0}
+    minWidth={0}
+    onChange={[Function]}
+    onComplete={[Function]}
+    onDragEnd={[Function]}
+    onDragStart={[Function]}
+    onImageError={[Function]}
+    onImageLoaded={[Function]}
+    src="foo.jpg"
+  />
+  <image-cropper__ImageCropperBottom>
+    <image-cropper__ImageCropperInfo
+      className="ImageCropper__info"
+    >
+      Selected area:
+       
+      1000
+       x 
+      980
+       px
+    </image-cropper__ImageCropperInfo>
+    <feedback__StyledFeedback
+      arrow="topright"
+      color="alert"
+      text="Choose a bigger area if you want to use this image for social shares."
+    />
+  </image-cropper__ImageCropperBottom>
+</image-cropper__ImageCropperWrapper>
+`;

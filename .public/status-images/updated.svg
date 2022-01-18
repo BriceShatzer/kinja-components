@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="72" height="20" viewBox="0 0 72 20">
+  <defs>
+    <rect id="updated-a" width="72" height="20" rx="4"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <mask id="updated-b" fill="#fff">
+      <use xlink:href="#updated-a"/>
+    </mask>
+    <use fill="#FFF" xlink:href="#updated-a"/>
+    <g fill="#0A7BC2" mask="url(#updated-b)">
+      <rect width="72" height="20"/>
+    </g>
+    <g transform="translate(5)">
+      <text fill="#FFF" font-family="ProximaNovaCond-Regular, Proxima Nova Condensed" font-size="14" font-style="condensed" transform="translate(16)">
+        <tspan x="0" y="14">Updated</tspan>
+      </text>
+      <path stroke="#FFF" d="M5.05555556,9.72222222 L5.05555556,0.388888889 M0.388888889,5.05555556 L5.05555556,0.388888889 L9.72222222,5.05555556" transform="translate(2.333 5.333)"/>
+    </g>
+  </g>
+</svg>

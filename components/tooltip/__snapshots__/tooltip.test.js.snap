@@ -1,0 +1,214 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Tooltip /> should match snapshot when fully rendered 1`] = `
+.c3 {
+  position: absolute;
+  box-shadow: 0 2px 10px 0 rgba(0,0,0,0.15);
+  border-radius: 3px;
+  padding: 2px 8px;
+  background: #000;
+  color: #FFF;
+  font-size: 14px;
+  line-height: 20px;
+  text-align: center;
+  white-space: nowrap;
+  z-index: 1000;
+  width: 500px;
+}
+
+.c3::after {
+  content: '';
+  position: absolute;
+  bottom: -5px;
+  left: 50%;
+  display: block;
+  width: 10px;
+  height: 10px;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+  margin-left: -4px;
+  background: #000;
+}
+
+.c2 {
+  position: fixed;
+  z-index: 100;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  pointer-events: none;
+}
+
+.c0 {
+  position: relative;
+}
+
+.c0:hover .c1 {
+  visibility: visible;
+}
+
+<Tooltip
+  content="triggered"
+  elmentRef={null}
+  topOffset={5}
+  width={500}
+>
+  <EnsureDefaultTheme>
+    <ThemeProvider
+      theme={[Function]}
+    >
+      <tooltip__Wrapper>
+        <StyledComponent
+          forwardedComponent={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": Array [],
+              "componentStyle": ComponentStyle {
+                "componentId": "tooltip__Wrapper-sc-1qyqhpz-2",
+                "isStatic": true,
+                "lastClassName": "c0",
+                "rules": Array [
+                  "position:relative;&:hover{",
+                  ".c1",
+                  "{visibility:visible;}}",
+                ],
+              },
+              "displayName": "tooltip__Wrapper",
+              "foldedComponentIds": Array [],
+              "render": [Function],
+              "styledComponentId": "tooltip__Wrapper-sc-1qyqhpz-2",
+              "target": "div",
+              "toString": [Function],
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+        >
+          <div
+            className="c0"
+          >
+            <tooltip__TooltipBubbleWrapper>
+              <StyledComponent
+                forwardedComponent={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": Array [],
+                    "componentStyle": ComponentStyle {
+                      "componentId": "c1",
+                      "isStatic": true,
+                      "lastClassName": "c2",
+                      "rules": Array [
+                        "position:fixed;z-index:100;top:0;right:0;bottom:0;left:0;pointer-events:none;",
+                      ],
+                    },
+                    "displayName": "tooltip__TooltipBubbleWrapper",
+                    "foldedComponentIds": Array [],
+                    "render": [Function],
+                    "styledComponentId": "c1",
+                    "target": "div",
+                    "toString": [Function],
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+              >
+                <div
+                  className="c1 c2"
+                >
+                  <tooltip__TooltipBubble
+                    customWidth={500}
+                  >
+                    <StyledComponent
+                      customWidth={500}
+                      forwardedComponent={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "attrs": Array [],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "tooltip__TooltipBubble-sc-1qyqhpz-0",
+                            "isStatic": false,
+                            "lastClassName": "c3",
+                            "rules": Array [
+                              "position:absolute;box-shadow:0 2px 10px 0 rgba(0,0,0,0.15);border-radius:3px;padding:2px 8px;background:",
+                              [Function],
+                              ";color:",
+                              [Function],
+                              ";font-size:14px;line-height:20px;text-align:center;white-space:nowrap;z-index:1000;&::after{content:'';position:absolute;bottom:-5px;left:50%;display:block;width:10px;height:10px;transform:rotate(45deg);margin-left:-4px;background:",
+                              [Function],
+                              ";}",
+                              [Function],
+                            ],
+                          },
+                          "displayName": "tooltip__TooltipBubble",
+                          "foldedComponentIds": Array [],
+                          "render": [Function],
+                          "styledComponentId": "tooltip__TooltipBubble-sc-1qyqhpz-0",
+                          "target": "div",
+                          "toString": [Function],
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={
+                        Object {
+                          "current": .c0 {
+  position: absolute;
+  box-shadow: 0 2px 10px 0 rgba(0,0,0,0.15);
+  border-radius: 3px;
+  padding: 2px 8px;
+  background: #000;
+  color: #FFF;
+  font-size: 14px;
+  line-height: 20px;
+  text-align: center;
+  white-space: nowrap;
+  z-index: 1000;
+  width: 500px;
+}
+
+.c0::after {
+  content: '';
+  position: absolute;
+  bottom: -5px;
+  left: 50%;
+  display: block;
+  width: 10px;
+  height: 10px;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+  margin-left: -4px;
+  background: #000;
+}
+
+<div
+                            class="c0"
+                          >
+                            triggered
+                          </div>,
+                        }
+                      }
+                    >
+                      <div
+                        className="c3"
+                      >
+                        triggered
+                      </div>
+                    </StyledComponent>
+                  </tooltip__TooltipBubble>
+                </div>
+              </StyledComponent>
+            </tooltip__TooltipBubbleWrapper>
+          </div>
+        </StyledComponent>
+      </tooltip__Wrapper>
+    </ThemeProvider>
+  </EnsureDefaultTheme>
+</Tooltip>
+`;
+
+exports[`<Tooltip /> should return the children without tooltip content 1`] = `""`;

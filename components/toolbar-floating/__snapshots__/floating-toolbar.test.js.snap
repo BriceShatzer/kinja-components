@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Floating toolbar should render a list 1`] = `
+<EnsureDefaultTheme>
+  <floating-toolbar__ToolbarWrapper>
+    <li
+      key="Test/.0"
+    >
+      <ToolbarItem
+        icon="test"
+        onClick={[Function]}
+        title="Test"
+      />
+    </li>
+  </floating-toolbar__ToolbarWrapper>
+</EnsureDefaultTheme>
+`;

@@ -1,0 +1,507 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<LastSharedPanel /> should render properly 1`] = `
+.c9 {
+  fill: currentColor;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c7 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c4 {
+  text-align: center;
+  margin-bottom: 8px;
+}
+
+.c5 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  margin-bottom: 0;
+  font-size: 20px;
+  line-height: 22px;
+  color: #000;
+  cursor: pointer;
+}
+
+.c2 .c6 {
+  color: #0A7BC2;
+}
+
+.c8 {
+  font-size: 16px;
+  line-height: 18px;
+  -webkit-align-self: flex-end;
+  -ms-flex-item-align: end;
+  align-self: flex-end;
+}
+
+.c0 {
+  width: 100%;
+  text-align: left;
+}
+
+@media only screen and (min-width:37.37em) {
+  .c0 .c1 {
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+  }
+
+  .c0 .c3 {
+    margin: 0;
+  }
+
+  .c0 .LastSharedPanel__BlogItem-o5gdo2-8 {
+    -webkit-align-items: flex-end;
+    -webkit-box-align: flex-end;
+    -ms-flex-align: flex-end;
+    align-items: flex-end;
+  }
+
+  .c0 .LastSharedPanel__BlogItem-o5gdo2-8:hover .Button__ButtonWrapper-j48i5d-2 {
+    display: block;
+  }
+
+  .c0 .LastSharedPanel__BlogName-o5gdo2-9 {
+    font-size: 20px;
+  }
+
+  .c0 .LastSharedPanel__BlogSharedTime-o5gdo2-10 {
+    -webkit-align-self: flex-end;
+    -ms-flex-item-align: end;
+    align-self: flex-end;
+  }
+
+  .c0 .LastSharedPanel__IconOnMobile-o5gdo2-7 {
+    display: none;
+  }
+
+  .c0 .LastSharedPanel__IconOnDesktop-o5gdo2-6 {
+    display: block;
+  }
+
+  .c0 .c6 {
+    -webkit-box-pack: start;
+    -webkit-justify-content: flex-start;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+  }
+
+  .c0 .LastSharedPanel__BlogSharedTime-o5gdo2-10 {
+    -webkit-flex: unset;
+    -ms-flex: unset;
+    flex: unset;
+    margin-right: 60px;
+  }
+
+  .c0 .LastSharedPanel__BlogSharedTime-o5gdo2-10 .c6 {
+    width: 180px;
+  }
+}
+
+<LastSharedPanel
+  lastSharedBlogs={
+    Array [
+      Object {
+        "blogGroup": "kotaku",
+        "createTimeMillis": 1552045361570,
+        "displayName": "Cosplay",
+        "id": "1538697436",
+        "repostTimeMillis": 1553045361570,
+      },
+      Object {
+        "blogGroup": "gizmodo",
+        "createTimeMillis": 1551045261570,
+        "displayName": "Earther",
+        "id": "1636390014",
+        "repostTimeMillis": 1553045261570,
+      },
+      Object {
+        "blogGroup": "splinter",
+        "createTimeMillis": 1551045261570,
+        "displayName": "Splinter",
+        "id": "1635895473",
+        "repostTimeMillis": 1551245261570,
+      },
+    ]
+  }
+  locale="en-US"
+  onUnshare={[MockFunction]}
+  timezone="America/New_York"
+>
+  <EnsureDefaultTheme>
+    <ThemeProvider
+      theme={[Function]}
+    >
+      <LastSharedPanel__Container>
+        <StyledComponent
+          forwardedComponent={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": Array [],
+              "componentStyle": ComponentStyle {
+                "componentId": "LastSharedPanel__Container-o5gdo2-11",
+                "isStatic": true,
+                "lastClassName": "c0",
+                "rules": Array [
+                  "width:100%;text-align:left;",
+                  "@media only screen and ",
+                  "(min-width: 37.37em)",
+                  "{",
+                  "
+		",
+                  ".c1",
+                  " {
+			flex-direction: row;
+		}
+
+		",
+                  ".c3",
+                  " {
+			margin: 0;
+		}
+
+		",
+                  ".LastSharedPanel__BlogItem-o5gdo2-8",
+                  " {
+			align-items: flex-end;
+
+			&:hover {
+				",
+                  ".Button__ButtonWrapper-j48i5d-2",
+                  " {
+					display: block;
+				}
+			}
+		}
+
+		",
+                  ".LastSharedPanel__BlogName-o5gdo2-9",
+                  " {
+			font-size: 20px;
+		}
+
+		",
+                  ".LastSharedPanel__BlogSharedTime-o5gdo2-10",
+                  " {
+			align-self: flex-end;
+		}
+
+		",
+                  ".LastSharedPanel__IconOnMobile-o5gdo2-7",
+                  " {
+			display: none;
+		}
+
+		",
+                  ".LastSharedPanel__IconOnDesktop-o5gdo2-6",
+                  " {
+			display: block;
+		}
+
+		",
+                  ".c6",
+                  " {
+			justify-content: flex-start;
+		}
+
+		",
+                  ".LastSharedPanel__BlogSharedTime-o5gdo2-10",
+                  " {
+			flex: unset;
+			margin-right: 60px;
+
+			",
+                  ".c6",
+                  " {
+				width: 180px;
+			}
+		}
+	",
+                  "}",
+                ],
+              },
+              "displayName": "LastSharedPanel__Container",
+              "foldedComponentIds": Array [],
+              "render": [Function],
+              "styledComponentId": "LastSharedPanel__Container-o5gdo2-11",
+              "target": "div",
+              "toString": [Function],
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+        >
+          <div
+            className="c0"
+          >
+            <LastSharedPanel__Title
+              onClick={[Function]}
+            >
+              <StyledComponent
+                forwardedComponent={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": Array [],
+                    "componentStyle": ComponentStyle {
+                      "componentId": "c1",
+                      "isStatic": false,
+                      "lastClassName": "c2",
+                      "rules": Array [
+                        "display:flex;flex-direction:column;margin-bottom:0;font-size:20px;line-height:22px;color:",
+                        [Function],
+                        ";cursor:pointer;",
+                        ".c6",
+                        "{color:",
+                        [Function],
+                        ";}",
+                      ],
+                    },
+                    "displayName": "LastSharedPanel__Title",
+                    "foldedComponentIds": Array [],
+                    "render": [Function],
+                    "styledComponentId": "c1",
+                    "target": "div",
+                    "toString": [Function],
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+                onClick={[Function]}
+              >
+                <div
+                  className="c1 c2"
+                  onClick={[Function]}
+                >
+                  <LastSharedPanel__TitleText>
+                    <StyledComponent
+                      forwardedComponent={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "attrs": Array [],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "c3",
+                            "isStatic": true,
+                            "lastClassName": "c4",
+                            "rules": Array [
+                              "text-align:center;margin-bottom:8px;",
+                            ],
+                          },
+                          "displayName": "LastSharedPanel__TitleText",
+                          "foldedComponentIds": Array [],
+                          "render": [Function],
+                          "styledComponentId": "c3",
+                          "target": "div",
+                          "toString": [Function],
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                    >
+                      <div
+                        className="c3 c4"
+                      >
+                        Was last shared on
+                      </div>
+                    </StyledComponent>
+                  </LastSharedPanel__TitleText>
+                  <LastSharedPanel__TitleTime>
+                    <StyledComponent
+                      forwardedComponent={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "attrs": Array [],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "LastSharedPanel__TitleTime-o5gdo2-2",
+                            "isStatic": true,
+                            "lastClassName": "c5",
+                            "rules": Array [
+                              "display:flex;justify-content:center;",
+                            ],
+                          },
+                          "displayName": "LastSharedPanel__TitleTime",
+                          "foldedComponentIds": Array [],
+                          "render": [Function],
+                          "styledComponentId": "LastSharedPanel__TitleTime-o5gdo2-2",
+                          "target": "div",
+                          "toString": [Function],
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                    >
+                      <div
+                        className="c5"
+                      >
+                        <LastSharedPanel__LastShare>
+                          <StyledComponent
+                            forwardedComponent={
+                              Object {
+                                "$$typeof": Symbol(react.forward_ref),
+                                "attrs": Array [],
+                                "componentStyle": ComponentStyle {
+                                  "componentId": "c6",
+                                  "isStatic": true,
+                                  "lastClassName": "c7",
+                                  "rules": Array [
+                                    "display:flex;",
+                                  ],
+                                },
+                                "displayName": "LastSharedPanel__LastShare",
+                                "foldedComponentIds": Array [],
+                                "render": [Function],
+                                "styledComponentId": "c6",
+                                "target": "div",
+                                "toString": [Function],
+                                "warnTooManyClasses": [Function],
+                                "withComponent": [Function],
+                              }
+                            }
+                            forwardedRef={null}
+                          >
+                            <div
+                              className="c6 c7"
+                            >
+                               
+                              3/08/2019
+                               
+                              at
+                               
+                              6
+                              :
+                              42
+                              am
+                               
+                              <LastSharedPanel__Offset>
+                                <StyledComponent
+                                  forwardedComponent={
+                                    Object {
+                                      "$$typeof": Symbol(react.forward_ref),
+                                      "attrs": Array [],
+                                      "componentStyle": ComponentStyle {
+                                        "componentId": "LastSharedPanel__Offset-o5gdo2-4",
+                                        "isStatic": true,
+                                        "lastClassName": "c8",
+                                        "rules": Array [
+                                          "font-size:16px;line-height:18px;align-self:flex-end;",
+                                        ],
+                                      },
+                                      "displayName": "LastSharedPanel__Offset",
+                                      "foldedComponentIds": Array [],
+                                      "render": [Function],
+                                      "styledComponentId": "LastSharedPanel__Offset-o5gdo2-4",
+                                      "target": "div",
+                                      "toString": [Function],
+                                      "warnTooManyClasses": [Function],
+                                      "withComponent": [Function],
+                                    }
+                                  }
+                                  forwardedRef={null}
+                                >
+                                  <div
+                                    className="c8"
+                                  >
+                                    EST
+                                  </div>
+                                </StyledComponent>
+                              </LastSharedPanel__Offset>
+                            </div>
+                          </StyledComponent>
+                        </LastSharedPanel__LastShare>
+                        <ChevronDownIcon>
+                          <Icon19>
+                            <icon19__IconWrapper>
+                              <StyledComponent
+                                forwardedComponent={
+                                  Object {
+                                    "$$typeof": Symbol(react.forward_ref),
+                                    "attrs": Array [],
+                                    "componentStyle": ComponentStyle {
+                                      "componentId": "icon19__IconWrapper-iyvn34-0",
+                                      "isStatic": true,
+                                      "lastClassName": "c9",
+                                      "rules": Array [
+                                        "fill:currentColor;display:flex;",
+                                      ],
+                                    },
+                                    "displayName": "icon19__IconWrapper",
+                                    "foldedComponentIds": Array [],
+                                    "render": [Function],
+                                    "styledComponentId": "icon19__IconWrapper-iyvn34-0",
+                                    "target": "span",
+                                    "toString": [Function],
+                                    "warnTooManyClasses": [Function],
+                                    "withComponent": [Function],
+                                  }
+                                }
+                                forwardedRef={null}
+                              >
+                                <span
+                                  className="c9"
+                                >
+                                  <ChevronDown
+                                    aria-label="ChevronDown icon"
+                                    height="18"
+                                    viewBox="0 0 18 18"
+                                    width="18"
+                                    xmlns="http://www.w3.org/2000/svg"
+                                  >
+                                    <svg
+                                      aria-label="ChevronDown icon"
+                                      height="18"
+                                      viewBox="0 0 18 18"
+                                      width="18"
+                                      xmlns="http://www.w3.org/2000/svg"
+                                    >
+                                      <path
+                                        d="M3.87 6.16a.5.5 0 0 0-.74.68l5.5 6c.2.21.54.21.74 0l5.5-6a.5.5 0 1 0-.74-.68L9 11.76l-5.13-5.6z"
+                                        fillRule="evenodd"
+                                      />
+                                    </svg>
+                                  </ChevronDown>
+                                </span>
+                              </StyledComponent>
+                            </icon19__IconWrapper>
+                          </Icon19>
+                        </ChevronDownIcon>
+                      </div>
+                    </StyledComponent>
+                  </LastSharedPanel__TitleTime>
+                </div>
+              </StyledComponent>
+            </LastSharedPanel__Title>
+          </div>
+        </StyledComponent>
+      </LastSharedPanel__Container>
+    </ThemeProvider>
+  </EnsureDefaultTheme>
+</LastSharedPanel>
+`;

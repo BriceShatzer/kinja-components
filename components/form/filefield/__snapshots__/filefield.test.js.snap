@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Filefield /> should include name 1`] = `
+<Field
+  error=""
+  label="Test"
+>
+  <filefield__Input
+    description="Test"
+    error=""
+    name="test"
+    onChange={[Function]}
+  />
+</Field>
+`;

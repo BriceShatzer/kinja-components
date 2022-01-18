@@ -1,0 +1,94 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ShareToolbar /> renders horizontally 1`] = `
+.c4 {
+  fill: currentColor;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c2 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  cursor: pointer;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  height: 39px;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  min-width: 39px;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #0A7BC2;
+  -webkit-transition: color 200ms;
+  transition: color 200ms;
+}
+
+.c2:hover {
+  color: #053d61;
+}
+
+.c3 {
+  padding: 0 10px;
+}
+
+.c0 {
+  background-color: #CCC;
+  border-radius: 3px;
+  border: 1px solid #CCC;
+  display: grid;
+  grid-auto-flow: column;
+  grid-gap: 1px;
+}
+
+.c0 > .c1 {
+  background-color: white;
+}
+
+.c0 > .c1:first-child {
+  border-top-left-radius: 3px;
+  border-bottom-left-radius: 3px;
+}
+
+.c0 > .c1:last-child {
+  border-top-right-radius: 3px;
+  border-bottom-right-radius: 3px;
+}
+
+<div
+  class="c0"
+>
+  <a
+    class="c1 c2"
+  >
+    <span
+      class="c3"
+    >
+      <span
+        class="c4"
+      >
+        <svg
+          aria-label="Facebook icon"
+          height="18"
+          viewBox="0 0 18 18"
+          width="18"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M17 9.05A8.02 8.02 0 0 0 9 1C4.58 1 1 4.6 1 9.05A8.04 8.04 0 0 0 7.75 17v-5.62H5.72V9.05h2.03V7.28c0-2.02 1.2-3.14 3.02-3.14.88 0 1.8.16 1.8.16v1.98h-1.02c-.99 0-1.3.62-1.3 1.26v1.5h2.22l-.36 2.34h-1.86V17A8.04 8.04 0 0 0 17 9.05"
+            fill-rule="evenodd"
+          />
+        </svg>
+      </span>
+    </span>
+  </a>
+</div>
+`;

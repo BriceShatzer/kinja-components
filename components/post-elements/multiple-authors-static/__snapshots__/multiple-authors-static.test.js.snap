@@ -1,0 +1,686 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<MultipleAuthorsStatic /> should render properly 1`] = `
+.c1 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  font-size: 14px;
+  line-height: 19px;
+  text-align: left;
+}
+
+.c0:focus {
+  outline: none;
+}
+
+.c0 a {
+  color: #7D7D7D;
+}
+
+.c0 a:hover,
+.c0 a:focus {
+  color: #0A7BC2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  outline: none;
+}
+
+.c0 a:active {
+  color: #085c91;
+}
+
+.c2 {
+  color: #7D7D7D;
+}
+
+<MultipleAuthorsStatic
+  authors={
+    Array [
+      Object {
+        "avatar": Object {
+          "format": "jpg",
+          "id": "ql1l79ncdygfqwckzobr",
+        },
+        "displayName": "Chris Kohler",
+        "id": "5876237249237015770",
+        "screenName": "chriskohler",
+      },
+      Object {
+        "avatar": Object {
+          "format": "jpg",
+          "id": "udtnp2grvcczvcr1ajsc",
+        },
+        "displayName": "Gordon Jackson",
+        "id": "5799958939291581341",
+        "screenName": "gordonmjackson",
+      },
+      Object {
+        "avatar": Object {
+          "format": "jpg",
+          "id": "pi7epaqjwbe9gotsjvs2",
+        },
+        "displayName": "Victoria Song",
+        "id": "5876237249238337793",
+        "screenName": "vsong",
+      },
+    ]
+  }
+  pageType="frontpage"
+  post={
+    Object {
+      "adSenseDisabled": false,
+      "adZone": "",
+      "allowReplies": true,
+      "author": Object {
+        "avatar": Object {
+          "format": "jpg",
+          "id": "ql1l79ncdygfqwckzobr",
+        },
+        "displayName": "Chris Kohler",
+        "id": "5876237249237015770",
+        "screenName": "chriskohler",
+      },
+      "authorScreenName": "chriskohler",
+      "authors": Array [
+        Object {
+          "avatar": Object {
+            "format": "jpg",
+            "id": "ql1l79ncdygfqwckzobr",
+          },
+          "displayName": "Chris Kohler",
+          "id": "5876237249237015770",
+          "screenName": "chriskohler",
+        },
+        Object {
+          "avatar": Object {
+            "format": "jpg",
+            "id": "udtnp2grvcczvcr1ajsc",
+          },
+          "displayName": "Gordon Jackson",
+          "id": "5799958939291581341",
+          "screenName": "gordonmjackson",
+        },
+        Object {
+          "avatar": Object {
+            "format": "jpg",
+            "id": "pi7epaqjwbe9gotsjvs2",
+          },
+          "displayName": "Victoria Song",
+          "id": "5876237249238337793",
+          "screenName": "vsong",
+        },
+      ],
+      "byline": "",
+      "defaultBlogId": "9",
+      "discussionSettings": null,
+      "doNotCrawl": false,
+      "facebookImage": Object {
+        "format": "jpg",
+        "height": 357,
+        "id": "cjnv04lsotvdabk32tyt",
+        "src": "https://i.kinja-img.com/gawker-media/image/upload/s--0QXBj7yU--/c_fit,fl_progressive,q_80,w_636/cjnv04lsotvdabk32tyt.jpg",
+        "width": 636,
+      },
+      "first100Characters": "For Mario, 3D used to mean freedom. In 1996, Super Mario 64 broke Nintendo’s mascot from the shackle",
+      "firstSentence": "For Mario, 3D used to mean freedom. ",
+      "gaDimensions": Object {
+        "gaVideoIds": "kinjavideo-3384608",
+        "wordCount": 1757,
+        "wordCountBucket": "1600 - 1800",
+      },
+      "hasFeaturedVideo": false,
+      "headline": "<i>Super Mario Odyssey</i>: The Kotaku Review",
+      "id": 1819856086,
+      "images": Array [
+        Object {
+          "format": "jpg",
+          "height": 357,
+          "id": "w5tdejxht9bd9azy1tdl",
+          "src": "https://i.kinja-img.com/gawker-media/image/upload/s--RQQBbVuY--/c_fit,fl_progressive,q_80,w_636/w5tdejxht9bd9azy1tdl.jpg",
+          "width": 636,
+        },
+        Object {
+          "format": "jpg",
+          "height": 357,
+          "id": "gu6pddl55kstu2wvysjr",
+          "src": "https://i.kinja-img.com/gawker-media/image/upload/s--l9JaggL4--/c_fit,fl_progressive,q_80,w_636/gu6pddl55kstu2wvysjr.jpg",
+          "width": 636,
+        },
+        Object {
+          "format": "jpg",
+          "height": 357,
+          "id": "rl8v2eeugbmgxyrqttlm",
+          "src": "https://i.kinja-img.com/gawker-media/image/upload/s--m0HXlpAU--/c_fit,fl_progressive,q_80,w_636/rl8v2eeugbmgxyrqttlm.jpg",
+          "width": 636,
+        },
+        Object {
+          "format": "jpg",
+          "height": 357,
+          "id": "bdxxiezrhvq6ogx1an0j",
+          "src": "https://i.kinja-img.com/gawker-media/image/upload/s--XS4zIJDG--/c_fit,fl_progressive,q_80,w_636/bdxxiezrhvq6ogx1an0j.jpg",
+          "width": 636,
+        },
+        Object {
+          "format": "jpg",
+          "height": 357,
+          "id": "xs8w3sqz25mkk69g3qgg",
+          "src": "https://i.kinja-img.com/gawker-media/image/upload/s--j1goHN8N--/c_fit,fl_progressive,q_80,w_636/xs8w3sqz25mkk69g3qgg.jpg",
+          "width": 636,
+        },
+      ],
+      "isFeatured": true,
+      "isStarter": true,
+      "isVideo": false,
+      "mainMedia": null,
+      "permalink": "https://kotaku.com/super-mario-odyssey-the-kotaku-review-1819856086",
+      "plaintext": "For Mario, 3D used to mean freedom. In 1996, Super Mario 64 broke Nintendo’s mascot from the shackles of having to run in a straight line, letting the player choose their own path. But for quite some time now—no matter how 3D the graphics may have been—Mario’s adventures have reverted back to running on a straight line. With Super Mario Odyssey, that changes once more, and it’s a glorious thing.",
+      "publishTimeMillis": 1509022800086,
+      "qaMembers": Array [],
+      "qaParticipants": Array [],
+      "qaStatus": null,
+      "replyCount": 405,
+      "securePermalink": "https://kotaku.com/super-mario-odyssey-the-kotaku-review-1819856086",
+      "sharingMainImage": Object {
+        "src": "https://i.kinja-img.com/gawker-media/image/upload/s--RQQBbVuY--/c_fit,fl_progressive,q_80,w_636/w5tdejxht9bd9azy1tdl.jpg",
+      },
+      "showByline": true,
+      "socialHeadline": "Super Mario Odyssey: The Kotaku Review",
+      "sponsored": false,
+      "staffIncluded": false,
+      "status": "PUBLISHED",
+      "storyType": Object {
+        "blogId": 9,
+        "canonical": "review",
+        "content": "Standard",
+        "id": 69,
+        "title": "Review",
+      },
+      "tags": Array [
+        Object {
+          "canonical": "supermarioodyssey",
+          "displayName": "Super Mario Odyssey",
+          "urlName": "super-mario-odyssey",
+        },
+        Object {
+          "canonical": "review",
+          "displayName": "Review",
+          "urlName": "review",
+        },
+        Object {
+          "canonical": "nintendoswitch",
+          "displayName": "Nintendo Switch",
+          "urlName": "nintendo-switch",
+        },
+        Object {
+          "canonical": "nintendo",
+          "displayName": "Nintendo",
+          "urlName": "nintendo",
+        },
+        Object {
+          "canonical": "mario",
+          "displayName": "Mario",
+          "urlName": "mario",
+        },
+        Object {
+          "canonical": "kotakucore",
+          "displayName": "kotakucore",
+          "urlName": "kotakucore",
+        },
+      ],
+      "timezone": "America/New_York",
+      "twitterCardType": "summary_large_image",
+      "videos": Array [
+        Object {
+          "embedCode": null,
+          "height": null,
+          "id": null,
+          "src": "kinjavideo://3384608",
+          "thumbnails": Array [
+            Object {
+              "format": "jpg",
+              "id": "d7decixzdvsos96keany",
+            },
+          ],
+          "type": "kinjavideo",
+          "width": null,
+        },
+      ],
+    }
+  }
+>
+  <EnsureDefaultTheme>
+    <ThemeProvider
+      theme={[Function]}
+    >
+      <multiple-authors-static__MultipleAuthorsStaticElement
+        key="5876237249237015770"
+      >
+        <StyledComponent
+          forwardedComponent={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": Array [],
+              "componentStyle": ComponentStyle {
+                "componentId": "multiple-authors-static__MultipleAuthorsStaticElement-sc-1ixdk2y-0",
+                "isStatic": false,
+                "lastClassName": "c0",
+                "rules": Array [
+                  "display:flex;&:focus{outline:none;}",
+                  "display:inline-flex;font-size:14px;line-height:19px;text-align:left;a{color:",
+                  [Function],
+                  ";:hover,:focus{color:",
+                  [Function],
+                  ";text-decoration:none;outline:none;}:active{color:",
+                  [Function],
+                  ";}}",
+                ],
+              },
+              "displayName": "multiple-authors-static__MultipleAuthorsStaticElement",
+              "foldedComponentIds": Array [
+                "styledElements__MultipleAuthorsElement-sc-1mep9y1-0",
+              ],
+              "render": [Function],
+              "styledComponentId": "multiple-authors-static__MultipleAuthorsStaticElement-sc-1ixdk2y-0",
+              "target": "div",
+              "toString": [Function],
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+        >
+          <div
+            className="c0"
+          >
+            <Link
+              events={
+                Array [
+                  Array [
+                    "Front page click",
+                    "stream author click - undefined",
+                    "https://kinja.com/chriskohler",
+                    Object {
+                      "metric19": 1,
+                    },
+                  ],
+                ]
+              }
+              href="https://kinja.com/chriskohler"
+            >
+              <link__Anchor
+                className="js_link"
+                dangerouslySetInnerHTML={null}
+                data-ga="[[\\"Front page click\\",\\"stream author click - undefined\\",\\"https://kinja.com/chriskohler\\",{\\"metric19\\":1}]]"
+                href="https://kinja.com/chriskohler"
+              >
+                <StyledComponent
+                  className="js_link"
+                  dangerouslySetInnerHTML={null}
+                  data-ga="[[\\"Front page click\\",\\"stream author click - undefined\\",\\"https://kinja.com/chriskohler\\",{\\"metric19\\":1}]]"
+                  forwardedComponent={
+                    Object {
+                      "$$typeof": Symbol(react.forward_ref),
+                      "attrs": Array [],
+                      "componentStyle": ComponentStyle {
+                        "componentId": "link__Anchor-sc-1out364-0",
+                        "isStatic": true,
+                        "lastClassName": "c1",
+                        "rules": Array [
+                          "text-decoration:none;",
+                        ],
+                      },
+                      "displayName": "link__Anchor",
+                      "foldedComponentIds": Array [],
+                      "render": [Function],
+                      "styledComponentId": "link__Anchor-sc-1out364-0",
+                      "target": "a",
+                      "toString": [Function],
+                      "warnTooManyClasses": [Function],
+                      "withComponent": [Function],
+                    }
+                  }
+                  forwardedRef={null}
+                  href="https://kinja.com/chriskohler"
+                >
+                  <a
+                    className="js_link c1"
+                    dangerouslySetInnerHTML={null}
+                    data-ga="[[\\"Front page click\\",\\"stream author click - undefined\\",\\"https://kinja.com/chriskohler\\",{\\"metric19\\":1}]]"
+                    href="https://kinja.com/chriskohler"
+                  >
+                    Chris Kohler
+                  </a>
+                </StyledComponent>
+              </link__Anchor>
+            </Link>
+            <multiple-authors-static__Divider>
+              <StyledComponent
+                forwardedComponent={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": Array [],
+                    "componentStyle": ComponentStyle {
+                      "componentId": "multiple-authors-static__Divider-sc-1ixdk2y-1",
+                      "isStatic": false,
+                      "lastClassName": "c2",
+                      "rules": Array [
+                        "color:",
+                        [Function],
+                        ";",
+                      ],
+                    },
+                    "displayName": "multiple-authors-static__Divider",
+                    "foldedComponentIds": Array [],
+                    "render": [Function],
+                    "styledComponentId": "multiple-authors-static__Divider-sc-1ixdk2y-1",
+                    "target": "span",
+                    "toString": [Function],
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+              >
+                <span
+                  className="c2"
+                >
+                  , 
+                </span>
+              </StyledComponent>
+            </multiple-authors-static__Divider>
+          </div>
+        </StyledComponent>
+      </multiple-authors-static__MultipleAuthorsStaticElement>
+      <multiple-authors-static__MultipleAuthorsStaticElement
+        key="5799958939291581341"
+      >
+        <StyledComponent
+          forwardedComponent={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": Array [],
+              "componentStyle": ComponentStyle {
+                "componentId": "multiple-authors-static__MultipleAuthorsStaticElement-sc-1ixdk2y-0",
+                "isStatic": false,
+                "lastClassName": "c0",
+                "rules": Array [
+                  "display:flex;&:focus{outline:none;}",
+                  "display:inline-flex;font-size:14px;line-height:19px;text-align:left;a{color:",
+                  [Function],
+                  ";:hover,:focus{color:",
+                  [Function],
+                  ";text-decoration:none;outline:none;}:active{color:",
+                  [Function],
+                  ";}}",
+                ],
+              },
+              "displayName": "multiple-authors-static__MultipleAuthorsStaticElement",
+              "foldedComponentIds": Array [
+                "styledElements__MultipleAuthorsElement-sc-1mep9y1-0",
+              ],
+              "render": [Function],
+              "styledComponentId": "multiple-authors-static__MultipleAuthorsStaticElement-sc-1ixdk2y-0",
+              "target": "div",
+              "toString": [Function],
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+        >
+          <div
+            className="c0"
+          >
+            <Link
+              events={
+                Array [
+                  Array [
+                    "Front page click",
+                    "stream author click - undefined",
+                    "https://kinja.com/gordonmjackson",
+                    Object {
+                      "metric19": 1,
+                    },
+                  ],
+                ]
+              }
+              href="https://kinja.com/gordonmjackson"
+            >
+              <link__Anchor
+                className="js_link"
+                dangerouslySetInnerHTML={null}
+                data-ga="[[\\"Front page click\\",\\"stream author click - undefined\\",\\"https://kinja.com/gordonmjackson\\",{\\"metric19\\":1}]]"
+                href="https://kinja.com/gordonmjackson"
+              >
+                <StyledComponent
+                  className="js_link"
+                  dangerouslySetInnerHTML={null}
+                  data-ga="[[\\"Front page click\\",\\"stream author click - undefined\\",\\"https://kinja.com/gordonmjackson\\",{\\"metric19\\":1}]]"
+                  forwardedComponent={
+                    Object {
+                      "$$typeof": Symbol(react.forward_ref),
+                      "attrs": Array [],
+                      "componentStyle": ComponentStyle {
+                        "componentId": "link__Anchor-sc-1out364-0",
+                        "isStatic": true,
+                        "lastClassName": "c1",
+                        "rules": Array [
+                          "text-decoration:none;",
+                        ],
+                      },
+                      "displayName": "link__Anchor",
+                      "foldedComponentIds": Array [],
+                      "render": [Function],
+                      "styledComponentId": "link__Anchor-sc-1out364-0",
+                      "target": "a",
+                      "toString": [Function],
+                      "warnTooManyClasses": [Function],
+                      "withComponent": [Function],
+                    }
+                  }
+                  forwardedRef={null}
+                  href="https://kinja.com/gordonmjackson"
+                >
+                  <a
+                    className="js_link c1"
+                    dangerouslySetInnerHTML={null}
+                    data-ga="[[\\"Front page click\\",\\"stream author click - undefined\\",\\"https://kinja.com/gordonmjackson\\",{\\"metric19\\":1}]]"
+                    href="https://kinja.com/gordonmjackson"
+                  >
+                    Gordon Jackson
+                  </a>
+                </StyledComponent>
+              </link__Anchor>
+            </Link>
+            <multiple-authors-static__Divider>
+              <StyledComponent
+                forwardedComponent={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": Array [],
+                    "componentStyle": ComponentStyle {
+                      "componentId": "multiple-authors-static__Divider-sc-1ixdk2y-1",
+                      "isStatic": false,
+                      "lastClassName": "c2",
+                      "rules": Array [
+                        "color:",
+                        [Function],
+                        ";",
+                      ],
+                    },
+                    "displayName": "multiple-authors-static__Divider",
+                    "foldedComponentIds": Array [],
+                    "render": [Function],
+                    "styledComponentId": "multiple-authors-static__Divider-sc-1ixdk2y-1",
+                    "target": "span",
+                    "toString": [Function],
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+              >
+                <span
+                  className="c2"
+                >
+                  , 
+                </span>
+              </StyledComponent>
+            </multiple-authors-static__Divider>
+          </div>
+        </StyledComponent>
+      </multiple-authors-static__MultipleAuthorsStaticElement>
+      <multiple-authors-static__MultipleAuthorsStaticElement
+        key="5876237249238337793"
+      >
+        <StyledComponent
+          forwardedComponent={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": Array [],
+              "componentStyle": ComponentStyle {
+                "componentId": "multiple-authors-static__MultipleAuthorsStaticElement-sc-1ixdk2y-0",
+                "isStatic": false,
+                "lastClassName": "c0",
+                "rules": Array [
+                  "display:flex;&:focus{outline:none;}",
+                  "display:inline-flex;font-size:14px;line-height:19px;text-align:left;a{color:",
+                  [Function],
+                  ";:hover,:focus{color:",
+                  [Function],
+                  ";text-decoration:none;outline:none;}:active{color:",
+                  [Function],
+                  ";}}",
+                ],
+              },
+              "displayName": "multiple-authors-static__MultipleAuthorsStaticElement",
+              "foldedComponentIds": Array [
+                "styledElements__MultipleAuthorsElement-sc-1mep9y1-0",
+              ],
+              "render": [Function],
+              "styledComponentId": "multiple-authors-static__MultipleAuthorsStaticElement-sc-1ixdk2y-0",
+              "target": "div",
+              "toString": [Function],
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+        >
+          <div
+            className="c0"
+          >
+            <multiple-authors-static__Divider>
+              <StyledComponent
+                forwardedComponent={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": Array [],
+                    "componentStyle": ComponentStyle {
+                      "componentId": "multiple-authors-static__Divider-sc-1ixdk2y-1",
+                      "isStatic": false,
+                      "lastClassName": "c2",
+                      "rules": Array [
+                        "color:",
+                        [Function],
+                        ";",
+                      ],
+                    },
+                    "displayName": "multiple-authors-static__Divider",
+                    "foldedComponentIds": Array [],
+                    "render": [Function],
+                    "styledComponentId": "multiple-authors-static__Divider-sc-1ixdk2y-1",
+                    "target": "span",
+                    "toString": [Function],
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+              >
+                <span
+                  className="c2"
+                >
+                  and 
+                </span>
+              </StyledComponent>
+            </multiple-authors-static__Divider>
+            <Link
+              events={
+                Array [
+                  Array [
+                    "Front page click",
+                    "stream author click - undefined",
+                    "https://kinja.com/vsong",
+                    Object {
+                      "metric19": 1,
+                    },
+                  ],
+                ]
+              }
+              href="https://kinja.com/vsong"
+            >
+              <link__Anchor
+                className="js_link"
+                dangerouslySetInnerHTML={null}
+                data-ga="[[\\"Front page click\\",\\"stream author click - undefined\\",\\"https://kinja.com/vsong\\",{\\"metric19\\":1}]]"
+                href="https://kinja.com/vsong"
+              >
+                <StyledComponent
+                  className="js_link"
+                  dangerouslySetInnerHTML={null}
+                  data-ga="[[\\"Front page click\\",\\"stream author click - undefined\\",\\"https://kinja.com/vsong\\",{\\"metric19\\":1}]]"
+                  forwardedComponent={
+                    Object {
+                      "$$typeof": Symbol(react.forward_ref),
+                      "attrs": Array [],
+                      "componentStyle": ComponentStyle {
+                        "componentId": "link__Anchor-sc-1out364-0",
+                        "isStatic": true,
+                        "lastClassName": "c1",
+                        "rules": Array [
+                          "text-decoration:none;",
+                        ],
+                      },
+                      "displayName": "link__Anchor",
+                      "foldedComponentIds": Array [],
+                      "render": [Function],
+                      "styledComponentId": "link__Anchor-sc-1out364-0",
+                      "target": "a",
+                      "toString": [Function],
+                      "warnTooManyClasses": [Function],
+                      "withComponent": [Function],
+                    }
+                  }
+                  forwardedRef={null}
+                  href="https://kinja.com/vsong"
+                >
+                  <a
+                    className="js_link c1"
+                    dangerouslySetInnerHTML={null}
+                    data-ga="[[\\"Front page click\\",\\"stream author click - undefined\\",\\"https://kinja.com/vsong\\",{\\"metric19\\":1}]]"
+                    href="https://kinja.com/vsong"
+                  >
+                    Victoria Song
+                  </a>
+                </StyledComponent>
+              </link__Anchor>
+            </Link>
+          </div>
+        </StyledComponent>
+      </multiple-authors-static__MultipleAuthorsStaticElement>
+    </ThemeProvider>
+  </EnsureDefaultTheme>
+</MultipleAuthorsStatic>
+`;

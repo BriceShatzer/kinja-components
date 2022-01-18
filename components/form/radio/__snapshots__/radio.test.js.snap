@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Radio /> should render properly 1`] = `
+<EnsureDefaultTheme>
+  <radio__Wrapper
+    htmlFor="value"
+    onClick={[Function]}
+  >
+    <radio__Input
+      checked={false}
+      id="value"
+      name="name"
+      readOnly={true}
+      value="value"
+    />
+    <radio__Checkmark />
+    <radio__Label>
+      label
+    </radio__Label>
+  </radio__Wrapper>
+</EnsureDefaultTheme>
+`;

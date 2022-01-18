@@ -1,0 +1,1088 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<SearchBar /> should render and match snapshot 1`] = `
+.c4.c4 {
+  color: #666;
+  font-size: 16px;
+  line-height: 21px;
+}
+
+.c2 {
+  margin-bottom: 32px;
+  -webkit-flex-basis: 100%;
+  -ms-flex-preferred-size: 100%;
+  flex-basis: 100%;
+}
+
+.c2:hover .c3 {
+  color: #222;
+}
+
+.c2:focus-within .c3 {
+  color: #0A7BC2;
+}
+
+.c2 .c14 {
+  margin-top: 8px;
+}
+
+.c8.c8 {
+  border-bottom: 1px solid #7D7D7D;
+  color: #222 !important;
+  font-size: 18px;
+  line-height: 23px;
+  padding: 6px 0;
+  width: 100%;
+}
+
+.c8.c8.c8:hover,
+.c8.c8.c8:active,
+.c8.c8.c8:focus {
+  color: #222;
+}
+
+.c8:hover {
+  border-bottom-color: #666;
+}
+
+.c8.c8.c8:focus,
+.c8.c8.c8:active {
+  border-bottom-color: #0A7BC2;
+}
+
+.c8:disabled {
+  border-bottom-color: #CCC;
+  cursor: not-allowed;
+}
+
+.c6 {
+  position: relative;
+}
+
+.c6:hover {
+  border-bottom-color: #666;
+}
+
+.c6:hover .c5:focus,
+.c6:hover .c6:active {
+  border-bottom-color: #0A7BC2;
+}
+
+.c6:hover .c5:disabled {
+  border-bottom-color: #CCC;
+  cursor: not-allowed;
+}
+
+.c6 .c17 {
+  padding: 0;
+}
+
+.c6 .c15 {
+  top: 9px;
+}
+
+.c12 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c12 + svg,
+.c12 + .c13 {
+  margin-left: 4px;
+}
+
+.c11 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  width: 100%;
+  white-space: nowrap;
+  pointer-events: none;
+}
+
+.c11 svg + span {
+  margin-left: 4px;
+}
+
+.c11 .c13 + span {
+  margin-left: 4px;
+}
+
+.c9 {
+  width: auto;
+  height: 34px;
+  padding: 0 2rem;
+  border: transparent 1px solid;
+  border-radius: 34px;
+  border-color: #0A7BC2;
+  color: #0A7BC2;
+  font-size: 14px;
+  text-align: center;
+  line-height: 34px;
+  background-color: #FFF;
+  -webkit-transition: background-color 0.2s ease-out,border-color 0.2s ease-out,color 0.2s ease-out;
+  transition: background-color 0.2s ease-out,border-color 0.2s ease-out,color 0.2s ease-out;
+}
+
+.c9 .c10 > svg {
+  margin-bottom: 2px;
+}
+
+.c9 .c13 {
+  margin-bottom: 2px;
+}
+
+.c9:hover,
+.c9:active,
+.c9:focus {
+  color: #053d61;
+  border-color: #053d61;
+  background-color: #fff;
+}
+
+.c9:hover .c10 > svg,
+.c9:active .c10 > svg,
+.c9:focus .c10 > svg {
+  stroke: #085c91;
+}
+
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: end;
+  -webkit-justify-content: flex-end;
+  -ms-flex-pack: end;
+  justify-content: flex-end;
+  margin-bottom: 24px;
+  width: 100%;
+}
+
+.c0 .c1 {
+  width: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c0 .c5 {
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+}
+
+.c0 .c16 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0 15px 0 0;
+}
+
+.c0 .c7 {
+  -webkit-align-self: flex-end;
+  -ms-flex-item-align: end;
+  align-self: flex-end;
+  padding-right: 0;
+}
+
+<SearchBar
+  placeholder="Test"
+>
+  <EnsureDefaultTheme>
+    <ThemeProvider
+      theme={[Function]}
+    >
+      <SearchBar__SearchBarWrapper
+        className="js_searchbar"
+      >
+        <StyledComponent
+          className="js_searchbar"
+          forwardedComponent={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": Array [],
+              "componentStyle": ComponentStyle {
+                "componentId": "SearchBar__SearchBarWrapper-sc-1vrprhi-0",
+                "isStatic": true,
+                "lastClassName": "c0",
+                "rules": Array [
+                  "display:flex;justify-content:flex-end;margin-bottom:24px;width:100%;",
+                  ".c1",
+                  "{width:100%;display:flex;}",
+                  ".c5",
+                  "{flex:1;}",
+                  ".c16",
+                  "{display:flex;margin:0 15px 0 0;}",
+                  ".c7",
+                  "{align-self:flex-end;padding-right:0;}",
+                ],
+              },
+              "displayName": "SearchBar__SearchBarWrapper",
+              "foldedComponentIds": Array [],
+              "render": [Function],
+              "styledComponentId": "SearchBar__SearchBarWrapper-sc-1vrprhi-0",
+              "target": "div",
+              "toString": [Function],
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+        >
+          <div
+            className="js_searchbar c0"
+          >
+            <Textfield18
+              blogTheme="default"
+              fullWidth={true}
+              inputRef={
+                Object {
+                  "current": .c1.c1 {
+  border-bottom: 1px solid #7D7D7D;
+  color: #222 !important;
+  font-size: 18px;
+  line-height: 23px;
+  padding: 6px 0;
+  width: 100%;
+}
+
+.c1.c1.c1:hover,
+.c1.c1.c1:active,
+.c1.c1.c1:focus {
+  color: #222;
+}
+
+.c1:hover {
+  border-bottom-color: #666;
+}
+
+.c1.c1.c1:focus,
+.c1.c1.c1:active {
+  border-bottom-color: #0A7BC2;
+}
+
+.c1:disabled {
+  border-bottom-color: #CCC;
+  cursor: not-allowed;
+}
+
+.c2 .c0 {
+  -webkit-align-self: flex-end;
+  -ms-flex-item-align: end;
+  align-self: flex-end;
+  padding-right: 0;
+}
+
+<input
+                    class="c0 c1"
+                    id="search-bar"
+                    name="search-bar"
+                    placeholder="Test"
+                    type="text"
+                    value=""
+                  />,
+                }
+              }
+              name="search-bar"
+              onChange={[Function]}
+              onIconClick={[Function]}
+              onKeyDown={[Function]}
+              placeholder="Test"
+              value=""
+            >
+              <Theme
+                blog="default"
+                theme={
+                  Object {
+                    "breakpointBanner": "969px",
+                    "breakpointMedium": "53.125em",
+                    "color": Object {
+                      "alert": "#EEB544",
+                      "amazon": "#F5C056",
+                      "backgroundLayer": "rgba(0,0,0,0.45)",
+                      "backgroundLight": "#E6F2F8",
+                      "black": "#000",
+                      "blackOverlay": "rgba(0,0,0,0.7)",
+                      "bodytext": "#222",
+                      "commerce": "#72AD75",
+                      "darkBlackOverlay": "rgba(0,0,0,0.9)",
+                      "darkgray": "#666",
+                      "darksmoke": "#222",
+                      "error": "#D24A1D",
+                      "facebook": "#1877F2",
+                      "foregroundLayer": "rgba(0,0,0,0.4)",
+                      "google": "#DB4437",
+                      "gray": "#7D7D7D",
+                      "instagram": "#C32AA3",
+                      "lightgray": "#E5E5E5",
+                      "linkedin": "#0077B5",
+                      "logo": "#000",
+                      "midgray": "#CCC",
+                      "primary": "#0A7BC2",
+                      "primaryLight": "#0C91E4",
+                      "rss": "#7D7D7D",
+                      "secondarytext": "#7D7D7D",
+                      "success": "#23891F",
+                      "twitter": "#1DA1F2",
+                      "white": "#FFF",
+                      "whiteOverlay": "rgba(255,255,255,0.7)",
+                      "whitesmoke": "#F5F5F5",
+                      "youtube": "#FF0000",
+                    },
+                    "columnGutter": "2.25rem",
+                    "columnGutter19": Object {
+                      "largeUp": "1.5rem",
+                      "small19": "1rem",
+                      "xlargeUp": "2rem",
+                    },
+                    "columnPadding": "1.125rem",
+                    "columnPadding19": Object {
+                      "largeUp": "0.75rem",
+                      "small19": "0.5rem",
+                      "xlargeUp": "1rem",
+                    },
+                    "featuredContentWidth": "1024px",
+                    "globalNavHeight": "80px",
+                    "linkTransition": "0.1s ease-out",
+                    "mainContainerWidth": "66.5%",
+                    "mainContentMaxWidth": "800px",
+                    "pageWidth": "1336px",
+                    "postContentMaxWidth": "636px",
+                    "scrollbackNavHeight": "60px",
+                    "sidebarContainerWidth": "33.5%",
+                    "sidebarContentMaxWidth": "360px",
+                    "sidebarContentMinWidth": "300px",
+                    "slideshowTransitionDuration": "0.2s",
+                    "typography": Object {
+                      "body": Object {
+                        "fontFamily": "ElizabethSerif, Georgia, serif",
+                        "fontSizes": Object {
+                          "large": "27px",
+                          "medium": "19px",
+                          "small": "15px",
+                          "xlarge": "30px",
+                          "xsmall": "14px",
+                        },
+                        "lineHeights": Object {
+                          "large": "40px",
+                          "medium": "32px",
+                          "small": "24px",
+                          "xlarge": "44px",
+                          "xsmall": "24px",
+                        },
+                      },
+                      "embiggenedHeadlineSize": "34px",
+                      "headline": Object {
+                        "fontFamily": "ProximaNovaCond, sans-serif",
+                        "fontSizes": Object {
+                          "large": "32px",
+                          "medium": "24px",
+                          "small": "19px",
+                          "xlarge": "37px",
+                          "xsmall": "16px",
+                        },
+                        "lineHeights": Object {
+                          "large": "40px",
+                          "medium": "32px",
+                          "small": "24px",
+                          "xlarge": "44px",
+                          "xsmall": "24px",
+                        },
+                      },
+                      "headlineLineHeight": "1.3",
+                      "headlineSize": "24px",
+                      "permalinkHeadlineLineHeight": "1.2",
+                      "permalinkHeadlineSize": Object {
+                        "mediumUp": "2.5rem",
+                        "small": "2rem",
+                        "xxxlargeUp": "3rem",
+                      },
+                      "primary": Object {
+                        "fontFamily": "ProximaNovaCond, sans-serif",
+                        "fontSizes": Object {
+                          "large": "32px",
+                          "medium": "24px",
+                          "small": "19px",
+                          "xlarge": "37px",
+                          "xsmall": "16px",
+                        },
+                        "lineHeights": Object {
+                          "large": "40px",
+                          "medium": "32px",
+                          "small": "24px",
+                          "xlarge": "44px",
+                          "xsmall": "24px",
+                        },
+                      },
+                      "serif": Object {
+                        "fontFamily": "ElizabethSerif, Georgia, serif",
+                        "fontSizes": Object {
+                          "large": "27px",
+                          "medium": "19px",
+                          "small": "15px",
+                          "xlarge": "30px",
+                          "xsmall": "14px",
+                        },
+                        "lineHeights": Object {
+                          "large": "40px",
+                          "medium": "32px",
+                          "small": "24px",
+                          "xlarge": "44px",
+                          "xsmall": "24px",
+                        },
+                      },
+                      "tertiary": Object {
+                        "fontFamily": "FiraSans, sans-serif",
+                        "fontSizes": Object {
+                          "large": "29px",
+                          "medium": "21px",
+                          "small": "17px",
+                          "xlarge": "35px",
+                          "xsmall": "15px",
+                        },
+                        "lineHeights": Object {
+                          "large": "40px",
+                          "medium": "32px",
+                          "small": "24px",
+                          "xlarge": "44px",
+                          "xsmall": "24px",
+                        },
+                      },
+                      "utility": Object {
+                        "fontFamily": "ProximaNovaCond, sans-serif",
+                        "fontSizes": Object {
+                          "large": "32px",
+                          "medium": "24px",
+                          "small": "19px",
+                          "xlarge": "37px",
+                          "xsmall": "16px",
+                        },
+                        "lineHeights": Object {
+                          "large": "40px",
+                          "medium": "32px",
+                          "small": "24px",
+                          "xlarge": "44px",
+                          "xsmall": "24px",
+                        },
+                      },
+                    },
+                  }
+                }
+              >
+                <ThemeProvider
+                  theme={
+                    Object {
+                      "blog": "default",
+                      "breakpointBanner": "969px",
+                      "breakpointMedium": "53.125em",
+                      "color": Object {
+                        "alert": "#EEB544",
+                        "amazon": "#F5C056",
+                        "backgroundLayer": "rgba(0,0,0,0.45)",
+                        "backgroundLight": "#E6F2F8",
+                        "black": "#000",
+                        "blackOverlay": "rgba(0,0,0,0.7)",
+                        "bodytext": "#222",
+                        "commerce": "#72AD75",
+                        "darkBlackOverlay": "rgba(0,0,0,0.9)",
+                        "darkgray": "#666",
+                        "darksmoke": "#222",
+                        "error": "#D24A1D",
+                        "facebook": "#1877F2",
+                        "foregroundLayer": "rgba(0,0,0,0.4)",
+                        "google": "#DB4437",
+                        "gray": "#7D7D7D",
+                        "instagram": "#C32AA3",
+                        "lightgray": "#E5E5E5",
+                        "linkedin": "#0077B5",
+                        "logo": "#000",
+                        "midgray": "#CCC",
+                        "primary": "#0A7BC2",
+                        "primaryLight": "#0C91E4",
+                        "rss": "#7D7D7D",
+                        "secondarytext": "#7D7D7D",
+                        "success": "#23891F",
+                        "twitter": "#1DA1F2",
+                        "white": "#FFF",
+                        "whiteOverlay": "rgba(255,255,255,0.7)",
+                        "whitesmoke": "#F5F5F5",
+                        "youtube": "#FF0000",
+                      },
+                      "columnGutter": "2.25rem",
+                      "columnGutter19": Object {
+                        "largeUp": "1.5rem",
+                        "small19": "1rem",
+                        "xlargeUp": "2rem",
+                      },
+                      "columnPadding": "1.125rem",
+                      "columnPadding19": Object {
+                        "largeUp": "0.75rem",
+                        "small19": "0.5rem",
+                        "xlargeUp": "1rem",
+                      },
+                      "featuredContentWidth": "1024px",
+                      "globalNavHeight": "80px",
+                      "linkTransition": "0.1s ease-out",
+                      "mainContainerWidth": "66.5%",
+                      "mainContentMaxWidth": "800px",
+                      "pageWidth": "1336px",
+                      "postContentMaxWidth": "636px",
+                      "scrollbackNavHeight": "60px",
+                      "sidebarContainerWidth": "33.5%",
+                      "sidebarContentMaxWidth": "360px",
+                      "sidebarContentMinWidth": "300px",
+                      "slideshowTransitionDuration": "0.2s",
+                      "typography": Object {
+                        "body": Object {
+                          "fontFamily": "ElizabethSerif, Georgia, serif",
+                          "fontSizes": Object {
+                            "large": "27px",
+                            "medium": "19px",
+                            "small": "15px",
+                            "xlarge": "30px",
+                            "xsmall": "14px",
+                          },
+                          "lineHeights": Object {
+                            "large": "40px",
+                            "medium": "32px",
+                            "small": "24px",
+                            "xlarge": "44px",
+                            "xsmall": "24px",
+                          },
+                        },
+                        "embiggenedHeadlineSize": "34px",
+                        "headline": Object {
+                          "fontFamily": "ProximaNovaCond, sans-serif",
+                          "fontSizes": Object {
+                            "large": "32px",
+                            "medium": "24px",
+                            "small": "19px",
+                            "xlarge": "37px",
+                            "xsmall": "16px",
+                          },
+                          "lineHeights": Object {
+                            "large": "40px",
+                            "medium": "32px",
+                            "small": "24px",
+                            "xlarge": "44px",
+                            "xsmall": "24px",
+                          },
+                        },
+                        "headlineLineHeight": "1.3",
+                        "headlineSize": "24px",
+                        "permalinkHeadlineLineHeight": "1.2",
+                        "permalinkHeadlineSize": Object {
+                          "mediumUp": "2.5rem",
+                          "small": "2rem",
+                          "xxxlargeUp": "3rem",
+                        },
+                        "primary": Object {
+                          "fontFamily": "ProximaNovaCond, sans-serif",
+                          "fontSizes": Object {
+                            "large": "32px",
+                            "medium": "24px",
+                            "small": "19px",
+                            "xlarge": "37px",
+                            "xsmall": "16px",
+                          },
+                          "lineHeights": Object {
+                            "large": "40px",
+                            "medium": "32px",
+                            "small": "24px",
+                            "xlarge": "44px",
+                            "xsmall": "24px",
+                          },
+                        },
+                        "serif": Object {
+                          "fontFamily": "ElizabethSerif, Georgia, serif",
+                          "fontSizes": Object {
+                            "large": "27px",
+                            "medium": "19px",
+                            "small": "15px",
+                            "xlarge": "30px",
+                            "xsmall": "14px",
+                          },
+                          "lineHeights": Object {
+                            "large": "40px",
+                            "medium": "32px",
+                            "small": "24px",
+                            "xlarge": "44px",
+                            "xsmall": "24px",
+                          },
+                        },
+                        "tertiary": Object {
+                          "fontFamily": "FiraSans, sans-serif",
+                          "fontSizes": Object {
+                            "large": "29px",
+                            "medium": "21px",
+                            "small": "17px",
+                            "xlarge": "35px",
+                            "xsmall": "15px",
+                          },
+                          "lineHeights": Object {
+                            "large": "40px",
+                            "medium": "32px",
+                            "small": "24px",
+                            "xlarge": "44px",
+                            "xsmall": "24px",
+                          },
+                        },
+                        "utility": Object {
+                          "fontFamily": "ProximaNovaCond, sans-serif",
+                          "fontSizes": Object {
+                            "large": "32px",
+                            "medium": "24px",
+                            "small": "19px",
+                            "xlarge": "37px",
+                            "xsmall": "16px",
+                          },
+                          "lineHeights": Object {
+                            "large": "40px",
+                            "medium": "32px",
+                            "small": "24px",
+                            "xlarge": "44px",
+                            "xsmall": "24px",
+                          },
+                        },
+                      },
+                    }
+                  }
+                >
+                  <textfield__KinjaFormFieldWrapper>
+                    <StyledComponent
+                      forwardedComponent={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "attrs": Array [],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "c1",
+                            "isStatic": false,
+                            "lastClassName": "c2",
+                            "rules": Array [
+                              "margin-bottom:32px;flex-basis:100%;&:hover{",
+                              ".c3",
+                              "{color:",
+                              [Function],
+                              ";}}&:focus-within{",
+                              ".c3",
+                              "{color:",
+                              [Function],
+                              ";}}",
+                              [Function],
+                              " ",
+                              ".c14",
+                              "{margin-top:8px;}",
+                            ],
+                          },
+                          "displayName": "textfield__KinjaFormFieldWrapper",
+                          "foldedComponentIds": Array [],
+                          "render": [Function],
+                          "styledComponentId": "c1",
+                          "target": "div",
+                          "toString": [Function],
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                    >
+                      <div
+                        className="c1 c2"
+                      >
+                        <textfield__KinjaLabel
+                          htmlFor="search-bar"
+                        >
+                          <StyledComponent
+                            forwardedComponent={
+                              Object {
+                                "$$typeof": Symbol(react.forward_ref),
+                                "attrs": Array [],
+                                "componentStyle": ComponentStyle {
+                                  "componentId": "c3",
+                                  "isStatic": false,
+                                  "lastClassName": "c4",
+                                  "rules": Array [
+                                    "&&{color:",
+                                    [Function],
+                                    ";font-size:16px;line-height:21px;}",
+                                  ],
+                                },
+                                "displayName": "textfield__KinjaLabel",
+                                "foldedComponentIds": Array [],
+                                "render": [Function],
+                                "styledComponentId": "c3",
+                                "target": "label",
+                                "toString": [Function],
+                                "warnTooManyClasses": [Function],
+                                "withComponent": [Function],
+                              }
+                            }
+                            forwardedRef={null}
+                            htmlFor="search-bar"
+                          >
+                            <label
+                              className="c3 c4"
+                              htmlFor="search-bar"
+                            />
+                          </StyledComponent>
+                        </textfield__KinjaLabel>
+                        <textfield__KinjaTextFieldWrapper
+                          hasCustomIcon={false}
+                          status="default"
+                        >
+                          <StyledComponent
+                            forwardedComponent={
+                              Object {
+                                "$$typeof": Symbol(react.forward_ref),
+                                "attrs": Array [],
+                                "componentStyle": ComponentStyle {
+                                  "componentId": "c5",
+                                  "isStatic": false,
+                                  "lastClassName": "c6",
+                                  "rules": Array [
+                                    "position:relative;&:hover{border-bottom-color:",
+                                    [Function],
+                                    ";}&:hover &:focus,&:hover &:active{border-bottom-color:",
+                                    [Function],
+                                    ";}&:hover &:disabled{border-bottom-color:",
+                                    [Function],
+                                    ";cursor:not-allowed;}",
+                                    ".c17",
+                                    "{padding:0;",
+                                    [Function],
+                                    "}",
+                                    ".c7",
+                                    ",",
+                                    ".c17",
+                                    "{",
+                                    [Function],
+                                    " ",
+                                    [Function],
+                                    "}",
+                                    ".c15",
+                                    "{top:9px;}",
+                                  ],
+                                },
+                                "displayName": "textfield__KinjaTextFieldWrapper",
+                                "foldedComponentIds": Array [],
+                                "render": [Function],
+                                "styledComponentId": "c5",
+                                "target": "div",
+                                "toString": [Function],
+                                "warnTooManyClasses": [Function],
+                                "withComponent": [Function],
+                              }
+                            }
+                            forwardedRef={null}
+                            hasCustomIcon={false}
+                            status="default"
+                          >
+                            <div
+                              className="c5 c6"
+                            >
+                              <textfield__KinjaTextField
+                                fullWidth={true}
+                                id="search-bar"
+                                name="search-bar"
+                                onChange={[Function]}
+                                onKeyDown={[Function]}
+                                placeholder="Test"
+                                status="default"
+                                type="text"
+                                value=""
+                              >
+                                <StyledComponent
+                                  forwardedComponent={
+                                    Object {
+                                      "$$typeof": Symbol(react.forward_ref),
+                                      "attrs": Array [],
+                                      "componentStyle": ComponentStyle {
+                                        "componentId": "c7",
+                                        "isStatic": false,
+                                        "lastClassName": "c8",
+                                        "rules": Array [
+                                          "&&{border-bottom:1px solid ",
+                                          [Function],
+                                          ";color:",
+                                          [Function],
+                                          " !important;font-size:18px;line-height:23px;padding:6px 0;width:100%;}&&&:hover,&&&:active,&&&:focus{color:",
+                                          [Function],
+                                          ";}&:hover{border-bottom-color:",
+                                          [Function],
+                                          ";}&&&:focus,&&&:active{border-bottom-color:",
+                                          [Function],
+                                          ";}&:disabled{border-bottom-color:",
+                                          [Function],
+                                          ";cursor:not-allowed;}",
+                                          ";",
+                                        ],
+                                      },
+                                      "displayName": "textfield__KinjaTextField",
+                                      "foldedComponentIds": Array [],
+                                      "render": [Function],
+                                      "styledComponentId": "c7",
+                                      "target": "input",
+                                      "toString": [Function],
+                                      "warnTooManyClasses": [Function],
+                                      "withComponent": [Function],
+                                    }
+                                  }
+                                  forwardedRef={
+                                    Object {
+                                      "current": <input
+                                        class="c7 c8"
+                                        id="search-bar"
+                                        name="search-bar"
+                                        placeholder="Test"
+                                        type="text"
+                                        value=""
+                                      />,
+                                    }
+                                  }
+                                  fullWidth={true}
+                                  id="search-bar"
+                                  name="search-bar"
+                                  onChange={[Function]}
+                                  onKeyDown={[Function]}
+                                  placeholder="Test"
+                                  status="default"
+                                  type="text"
+                                  value=""
+                                >
+                                  <input
+                                    className="c7 c8"
+                                    id="search-bar"
+                                    name="search-bar"
+                                    onChange={[Function]}
+                                    onKeyDown={[Function]}
+                                    placeholder="Test"
+                                    type="text"
+                                    value=""
+                                  />
+                                </StyledComponent>
+                              </textfield__KinjaTextField>
+                            </div>
+                          </StyledComponent>
+                        </textfield__KinjaTextFieldWrapper>
+                      </div>
+                    </StyledComponent>
+                  </textfield__KinjaFormFieldWrapper>
+                </ThemeProvider>
+              </Theme>
+            </Textfield18>
+            <Button
+              label="Search"
+              onClick={[Function]}
+              small={true}
+              weight="secondary"
+            >
+              <EnsureDefaultTheme>
+                <ThemeProvider
+                  theme={[Function]}
+                >
+                  <Button__ButtonWrapper
+                    onClick={[Function]}
+                    small={true}
+                    weight="secondary"
+                  >
+                    <StyledComponent
+                      forwardedComponent={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "attrs": Array [],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "Button__ButtonWrapper-j48i5d-2",
+                            "isStatic": false,
+                            "lastClassName": "c9",
+                            "rules": Array [
+                              "width:",
+                              [Function],
+                              ";height:",
+                              [Function],
+                              ";padding:",
+                              [Function],
+                              ";border:transparent 1px solid;border-radius:",
+                              [Function],
+                              ";border-color:",
+                              [Function],
+                              ";color:",
+                              [Function],
+                              ";font-size:",
+                              [Function],
+                              ";text-align:",
+                              [Function],
+                              ";line-height:",
+                              [Function],
+                              ";background-color:",
+                              [Function],
+                              ";transition:",
+                              [Function],
+                              ";",
+                              [Function],
+                              ";",
+                              [Function],
+                              ";",
+                              ".c10",
+                              " > svg{margin-bottom:2px;",
+                              [Function],
+                              " ",
+                              [Function],
+                              " ",
+                              [Function],
+                              " ",
+                              [Function],
+                              " ",
+                              [Function],
+                              " ",
+                              [Function],
+                              "}",
+                              ".c13",
+                              "{margin-bottom:2px;}&:hover,&:active,&:focus{color:",
+                              [Function],
+                              ";border-color:",
+                              [Function],
+                              ";background-color:",
+                              [Function],
+                              ";",
+                              [Function],
+                              " ",
+                              [Function],
+                              " ",
+                              ".c10",
+                              " > svg{",
+                              [Function],
+                              " ",
+                              [Function],
+                              " ",
+                              [Function],
+                              " ",
+                              [Function],
+                              "}}",
+                              "@media only screen and ",
+                              "(max-width: 49.94em)",
+                              "{",
+                              "
+		",
+                              [Function],
+                              "
+	",
+                              "}",
+                            ],
+                          },
+                          "displayName": "Button__ButtonWrapper",
+                          "foldedComponentIds": Array [],
+                          "render": [Function],
+                          "styledComponentId": "Button__ButtonWrapper-j48i5d-2",
+                          "target": "button",
+                          "toString": [Function],
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                      onClick={[Function]}
+                      small={true}
+                      weight="secondary"
+                    >
+                      <button
+                        className="c9"
+                        onClick={[Function]}
+                      >
+                        <Button__ButtonInner>
+                          <StyledComponent
+                            forwardedComponent={
+                              Object {
+                                "$$typeof": Symbol(react.forward_ref),
+                                "attrs": Array [],
+                                "componentStyle": ComponentStyle {
+                                  "componentId": "c10",
+                                  "isStatic": false,
+                                  "lastClassName": "c11",
+                                  "rules": Array [
+                                    "align-items:center;display:flex;justify-content:center;width:100%;white-space:nowrap;pointer-events:none;svg{",
+                                    [Function],
+                                    " + span{margin-left:4px;}}",
+                                    ".c13",
+                                    "{+ span{margin-left:4px;}}",
+                                  ],
+                                },
+                                "displayName": "Button__ButtonInner",
+                                "foldedComponentIds": Array [],
+                                "render": [Function],
+                                "styledComponentId": "c10",
+                                "target": "div",
+                                "toString": [Function],
+                                "warnTooManyClasses": [Function],
+                                "withComponent": [Function],
+                              }
+                            }
+                            forwardedRef={null}
+                          >
+                            <div
+                              className="c10 c11"
+                            >
+                              <Button__Label>
+                                <StyledComponent
+                                  forwardedComponent={
+                                    Object {
+                                      "$$typeof": Symbol(react.forward_ref),
+                                      "attrs": Array [],
+                                      "componentStyle": ComponentStyle {
+                                        "componentId": "Button__Label-j48i5d-0",
+                                        "isStatic": true,
+                                        "lastClassName": "c12",
+                                        "rules": Array [
+                                          "display:flex;+ svg,+ ",
+                                          ".c13",
+                                          "{margin-left:4px;}",
+                                        ],
+                                      },
+                                      "displayName": "Button__Label",
+                                      "foldedComponentIds": Array [],
+                                      "render": [Function],
+                                      "styledComponentId": "Button__Label-j48i5d-0",
+                                      "target": "span",
+                                      "toString": [Function],
+                                      "warnTooManyClasses": [Function],
+                                      "withComponent": [Function],
+                                    }
+                                  }
+                                  forwardedRef={null}
+                                >
+                                  <span
+                                    className="c12"
+                                  >
+                                    Search
+                                  </span>
+                                </StyledComponent>
+                              </Button__Label>
+                            </div>
+                          </StyledComponent>
+                        </Button__ButtonInner>
+                      </button>
+                    </StyledComponent>
+                  </Button__ButtonWrapper>
+                </ThemeProvider>
+              </EnsureDefaultTheme>
+            </Button>
+          </div>
+        </StyledComponent>
+      </SearchBar__SearchBarWrapper>
+    </ThemeProvider>
+  </EnsureDefaultTheme>
+</SearchBar>
+`;

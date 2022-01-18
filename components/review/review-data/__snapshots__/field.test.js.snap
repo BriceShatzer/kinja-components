@@ -1,0 +1,44 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ReviewDataField /> renders fields based on data 1`] = `
+<field__Wrapper
+  className="flex-row"
+>
+  <div
+    className="flex-row__column medium-4"
+  >
+    <Textfield18
+      blogTheme="default"
+      inputRef={[Function]}
+      label="Label"
+      name="test-label"
+      onChange={[Function]}
+      value="foo"
+    />
+  </div>
+  <div
+    className="flex-row__column"
+  >
+    <Textfield18
+      blogTheme="default"
+      inputRef={[Function]}
+      label="Value"
+      name="test-value"
+      onChange={[Function]}
+      onKeyDown={[Function]}
+      value="bar"
+    />
+  </div>
+  <div
+    className="flex-row__column flex-row__column--fixed"
+  >
+    <Button
+      icon={<TrashcanIcon />}
+      onClick={[MockFunction]}
+      small={true}
+      type="button"
+      weight="secondary"
+    />
+  </div>
+</field__Wrapper>
+`;

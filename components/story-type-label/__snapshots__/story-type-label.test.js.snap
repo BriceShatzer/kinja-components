@@ -1,0 +1,117 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<StoryTypeLabel /> should render by default 1`] = `
+.c0 {
+  font-family: ProximaNovaCond,sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #0A7BC2;
+  cursor: pointer;
+}
+
+.c0:hover {
+  color: #085c91;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+<span
+  class="c0"
+>
+  Reviews
+</span>
+`;
+
+exports[`<StoryTypeLabel /> should render featured 1`] = `
+.c0 {
+  font-family: ProximaNovaCond,sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #FFF;
+  cursor: pointer;
+}
+
+.c0:hover {
+  color: #085c91;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  background-color: #FFF;
+  color: #000;
+}
+
+<span
+  class="c0"
+>
+  Reviews
+</span>
+`;
+
+exports[`<StoryTypeLabel /> should render outlined 1`] = `
+.c0 {
+  font-family: ProximaNovaCond,sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #0A7BC2;
+  cursor: pointer;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  border: 1px solid #0A7BC2;
+  font-weight: normal;
+  margin-right: 8px;
+  padding: 5px 8px 3px;
+  font-size: 14px;
+  line-height: 16px;
+}
+
+.c0:hover {
+  color: #085c91;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+<span
+  class="c0"
+>
+  Reviews
+</span>
+`;
+
+exports[`<StoryTypeLabel /> should render outlined featured 1`] = `
+.c0 {
+  font-family: ProximaNovaCond,sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #FFF;
+  cursor: pointer;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  border: 1px solid #FFF;
+  font-weight: normal;
+  margin-right: 8px;
+  padding: 5px 8px 3px;
+  font-size: 14px;
+  line-height: 16px;
+}
+
+.c0:hover {
+  color: #085c91;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  background-color: #FFF;
+  color: #000;
+}
+
+<span
+  class="c0"
+>
+  Reviews
+</span>
+`;

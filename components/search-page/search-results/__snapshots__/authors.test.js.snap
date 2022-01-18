@@ -1,0 +1,1793 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Authors /> should render and match snapshot 1`] = `
+.c11 {
+  fill: currentColor;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin-right: 10px;
+}
+
+.c6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  padding-top: 2px;
+}
+
+.c9 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+
+.c8 {
+  font-weight: normal;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin-bottom: 0.5rem;
+}
+
+.c3 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  padding: 10px 25px 15px 0;
+  cursor: pointer;
+}
+
+.c3:hover .c7 {
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+}
+
+.c10 {
+  width: 16px;
+  height: 16px;
+  color: #7D7D7D;
+  margin-right: 5px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-self: baseline;
+  -ms-flex-item-align: baseline;
+  align-self: baseline;
+}
+
+.c5 {
+  border-radius: 50%;
+}
+
+.c12 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  font-size: 14px;
+  color: #7D7D7D;
+  line-height: 1rem;
+}
+
+.c0 {
+  font-weight: normal;
+}
+
+.c1 {
+  font-size: 0.875rem;
+  line-height: 1.125rem;
+  color: #7d7d7d;
+}
+
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+
+<Authors
+  items={
+    Array [
+      Object {
+        "avatar": Object {
+          "id": "gdxk7p8bwzz4adbfoklv",
+        },
+        "displayName": "Booker Simpson Long Name",
+        "id": "123456",
+        "screenName": "booker-a",
+      },
+      Object {
+        "avatar": Object {
+          "id": "gdxk7p8bwzz4adbfoklv",
+        },
+        "displayName": "Booker Simpson Long Name",
+        "id": "125456",
+        "screenName": "booker-b",
+      },
+      Object {
+        "avatar": Object {
+          "id": "gdxk7p8bwzz4adbfoklv",
+        },
+        "displayName": "Booker Simpson Long Name",
+        "id": "123452",
+        "screenName": "booker-c",
+      },
+    ]
+  }
+  locale="en-US"
+  maxLength={3}
+  redirectHandler={[MockFunction]}
+>
+  <Theme
+    theme={
+      Object {
+        "breakpointBanner": "969px",
+        "breakpointMedium": "53.125em",
+        "color": Object {
+          "alert": "#EEB544",
+          "amazon": "#F5C056",
+          "backgroundLayer": "rgba(0,0,0,0.45)",
+          "backgroundLight": "#E6F2F8",
+          "black": "#000",
+          "blackOverlay": "rgba(0,0,0,0.7)",
+          "bodytext": "#222",
+          "commerce": "#72AD75",
+          "darkBlackOverlay": "rgba(0,0,0,0.9)",
+          "darkgray": "#666",
+          "darksmoke": "#222",
+          "error": "#D24A1D",
+          "facebook": "#1877F2",
+          "foregroundLayer": "rgba(0,0,0,0.4)",
+          "google": "#DB4437",
+          "gray": "#7D7D7D",
+          "instagram": "#C32AA3",
+          "lightgray": "#E5E5E5",
+          "linkedin": "#0077B5",
+          "logo": "#000",
+          "midgray": "#CCC",
+          "primary": "#0A7BC2",
+          "primaryLight": "#0C91E4",
+          "rss": "#7D7D7D",
+          "secondarytext": "#7D7D7D",
+          "success": "#23891F",
+          "twitter": "#1DA1F2",
+          "white": "#FFF",
+          "whiteOverlay": "rgba(255,255,255,0.7)",
+          "whitesmoke": "#F5F5F5",
+          "youtube": "#FF0000",
+        },
+        "columnGutter": "2.25rem",
+        "columnGutter19": Object {
+          "largeUp": "1.5rem",
+          "small19": "1rem",
+          "xlargeUp": "2rem",
+        },
+        "columnPadding": "1.125rem",
+        "columnPadding19": Object {
+          "largeUp": "0.75rem",
+          "small19": "0.5rem",
+          "xlargeUp": "1rem",
+        },
+        "featuredContentWidth": "1024px",
+        "globalNavHeight": "80px",
+        "linkTransition": "0.1s ease-out",
+        "mainContainerWidth": "66.5%",
+        "mainContentMaxWidth": "800px",
+        "pageWidth": "1336px",
+        "postContentMaxWidth": "636px",
+        "scrollbackNavHeight": "60px",
+        "sidebarContainerWidth": "33.5%",
+        "sidebarContentMaxWidth": "360px",
+        "sidebarContentMinWidth": "300px",
+        "slideshowTransitionDuration": "0.2s",
+        "typography": Object {
+          "body": Object {
+            "fontFamily": "ElizabethSerif, Georgia, serif",
+            "fontSizes": Object {
+              "large": "27px",
+              "medium": "19px",
+              "small": "15px",
+              "xlarge": "30px",
+              "xsmall": "14px",
+            },
+            "lineHeights": Object {
+              "large": "40px",
+              "medium": "32px",
+              "small": "24px",
+              "xlarge": "44px",
+              "xsmall": "24px",
+            },
+          },
+          "embiggenedHeadlineSize": "34px",
+          "headline": Object {
+            "fontFamily": "ProximaNovaCond, sans-serif",
+            "fontSizes": Object {
+              "large": "32px",
+              "medium": "24px",
+              "small": "19px",
+              "xlarge": "37px",
+              "xsmall": "16px",
+            },
+            "lineHeights": Object {
+              "large": "40px",
+              "medium": "32px",
+              "small": "24px",
+              "xlarge": "44px",
+              "xsmall": "24px",
+            },
+          },
+          "headlineLineHeight": "1.3",
+          "headlineSize": "24px",
+          "permalinkHeadlineLineHeight": "1.2",
+          "permalinkHeadlineSize": Object {
+            "mediumUp": "2.5rem",
+            "small": "2rem",
+            "xxxlargeUp": "3rem",
+          },
+          "primary": Object {
+            "fontFamily": "ProximaNovaCond, sans-serif",
+            "fontSizes": Object {
+              "large": "32px",
+              "medium": "24px",
+              "small": "19px",
+              "xlarge": "37px",
+              "xsmall": "16px",
+            },
+            "lineHeights": Object {
+              "large": "40px",
+              "medium": "32px",
+              "small": "24px",
+              "xlarge": "44px",
+              "xsmall": "24px",
+            },
+          },
+          "serif": Object {
+            "fontFamily": "ElizabethSerif, Georgia, serif",
+            "fontSizes": Object {
+              "large": "27px",
+              "medium": "19px",
+              "small": "15px",
+              "xlarge": "30px",
+              "xsmall": "14px",
+            },
+            "lineHeights": Object {
+              "large": "40px",
+              "medium": "32px",
+              "small": "24px",
+              "xlarge": "44px",
+              "xsmall": "24px",
+            },
+          },
+          "tertiary": Object {
+            "fontFamily": "FiraSans, sans-serif",
+            "fontSizes": Object {
+              "large": "29px",
+              "medium": "21px",
+              "small": "17px",
+              "xlarge": "35px",
+              "xsmall": "15px",
+            },
+            "lineHeights": Object {
+              "large": "40px",
+              "medium": "32px",
+              "small": "24px",
+              "xlarge": "44px",
+              "xsmall": "24px",
+            },
+          },
+          "utility": Object {
+            "fontFamily": "ProximaNovaCond, sans-serif",
+            "fontSizes": Object {
+              "large": "32px",
+              "medium": "24px",
+              "small": "19px",
+              "xlarge": "37px",
+              "xsmall": "16px",
+            },
+            "lineHeights": Object {
+              "large": "40px",
+              "medium": "32px",
+              "small": "24px",
+              "xlarge": "44px",
+              "xsmall": "24px",
+            },
+          },
+        },
+      }
+    }
+  >
+    <ThemeProvider
+      theme={
+        Object {
+          "breakpointBanner": "969px",
+          "breakpointMedium": "53.125em",
+          "color": Object {
+            "alert": "#EEB544",
+            "amazon": "#F5C056",
+            "backgroundLayer": "rgba(0,0,0,0.45)",
+            "backgroundLight": "#E6F2F8",
+            "black": "#000",
+            "blackOverlay": "rgba(0,0,0,0.7)",
+            "bodytext": "#222",
+            "commerce": "#72AD75",
+            "darkBlackOverlay": "rgba(0,0,0,0.9)",
+            "darkgray": "#666",
+            "darksmoke": "#222",
+            "error": "#D24A1D",
+            "facebook": "#1877F2",
+            "foregroundLayer": "rgba(0,0,0,0.4)",
+            "google": "#DB4437",
+            "gray": "#7D7D7D",
+            "instagram": "#C32AA3",
+            "lightgray": "#E5E5E5",
+            "linkedin": "#0077B5",
+            "logo": "#000",
+            "midgray": "#CCC",
+            "primary": "#0A7BC2",
+            "primaryLight": "#0C91E4",
+            "rss": "#7D7D7D",
+            "secondarytext": "#7D7D7D",
+            "success": "#23891F",
+            "twitter": "#1DA1F2",
+            "white": "#FFF",
+            "whiteOverlay": "rgba(255,255,255,0.7)",
+            "whitesmoke": "#F5F5F5",
+            "youtube": "#FF0000",
+          },
+          "columnGutter": "2.25rem",
+          "columnGutter19": Object {
+            "largeUp": "1.5rem",
+            "small19": "1rem",
+            "xlargeUp": "2rem",
+          },
+          "columnPadding": "1.125rem",
+          "columnPadding19": Object {
+            "largeUp": "0.75rem",
+            "small19": "0.5rem",
+            "xlargeUp": "1rem",
+          },
+          "featuredContentWidth": "1024px",
+          "globalNavHeight": "80px",
+          "linkTransition": "0.1s ease-out",
+          "mainContainerWidth": "66.5%",
+          "mainContentMaxWidth": "800px",
+          "pageWidth": "1336px",
+          "postContentMaxWidth": "636px",
+          "scrollbackNavHeight": "60px",
+          "sidebarContainerWidth": "33.5%",
+          "sidebarContentMaxWidth": "360px",
+          "sidebarContentMinWidth": "300px",
+          "slideshowTransitionDuration": "0.2s",
+          "typography": Object {
+            "body": Object {
+              "fontFamily": "ElizabethSerif, Georgia, serif",
+              "fontSizes": Object {
+                "large": "27px",
+                "medium": "19px",
+                "small": "15px",
+                "xlarge": "30px",
+                "xsmall": "14px",
+              },
+              "lineHeights": Object {
+                "large": "40px",
+                "medium": "32px",
+                "small": "24px",
+                "xlarge": "44px",
+                "xsmall": "24px",
+              },
+            },
+            "embiggenedHeadlineSize": "34px",
+            "headline": Object {
+              "fontFamily": "ProximaNovaCond, sans-serif",
+              "fontSizes": Object {
+                "large": "32px",
+                "medium": "24px",
+                "small": "19px",
+                "xlarge": "37px",
+                "xsmall": "16px",
+              },
+              "lineHeights": Object {
+                "large": "40px",
+                "medium": "32px",
+                "small": "24px",
+                "xlarge": "44px",
+                "xsmall": "24px",
+              },
+            },
+            "headlineLineHeight": "1.3",
+            "headlineSize": "24px",
+            "permalinkHeadlineLineHeight": "1.2",
+            "permalinkHeadlineSize": Object {
+              "mediumUp": "2.5rem",
+              "small": "2rem",
+              "xxxlargeUp": "3rem",
+            },
+            "primary": Object {
+              "fontFamily": "ProximaNovaCond, sans-serif",
+              "fontSizes": Object {
+                "large": "32px",
+                "medium": "24px",
+                "small": "19px",
+                "xlarge": "37px",
+                "xsmall": "16px",
+              },
+              "lineHeights": Object {
+                "large": "40px",
+                "medium": "32px",
+                "small": "24px",
+                "xlarge": "44px",
+                "xsmall": "24px",
+              },
+            },
+            "serif": Object {
+              "fontFamily": "ElizabethSerif, Georgia, serif",
+              "fontSizes": Object {
+                "large": "27px",
+                "medium": "19px",
+                "small": "15px",
+                "xlarge": "30px",
+                "xsmall": "14px",
+              },
+              "lineHeights": Object {
+                "large": "40px",
+                "medium": "32px",
+                "small": "24px",
+                "xlarge": "44px",
+                "xsmall": "24px",
+              },
+            },
+            "tertiary": Object {
+              "fontFamily": "FiraSans, sans-serif",
+              "fontSizes": Object {
+                "large": "29px",
+                "medium": "21px",
+                "small": "17px",
+                "xlarge": "35px",
+                "xsmall": "15px",
+              },
+              "lineHeights": Object {
+                "large": "40px",
+                "medium": "32px",
+                "small": "24px",
+                "xlarge": "44px",
+                "xsmall": "24px",
+              },
+            },
+            "utility": Object {
+              "fontFamily": "ProximaNovaCond, sans-serif",
+              "fontSizes": Object {
+                "large": "32px",
+                "medium": "24px",
+                "small": "19px",
+                "xlarge": "37px",
+                "xsmall": "16px",
+              },
+              "lineHeights": Object {
+                "large": "40px",
+                "medium": "32px",
+                "small": "24px",
+                "xlarge": "44px",
+                "xsmall": "24px",
+              },
+            },
+          },
+        }
+      }
+    >
+      <authors__AuthorsHeading>
+        <StyledComponent
+          forwardedComponent={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": Array [],
+              "componentStyle": ComponentStyle {
+                "componentId": "authors__AuthorsHeading-l9psfm-0",
+                "isStatic": true,
+                "lastClassName": "c0",
+                "rules": Array [
+                  "font-weight:normal;",
+                ],
+              },
+              "displayName": "authors__AuthorsHeading",
+              "foldedComponentIds": Array [],
+              "render": [Function],
+              "styledComponentId": "authors__AuthorsHeading-l9psfm-0",
+              "target": "h4",
+              "toString": [Function],
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+        >
+          <h4
+            className="c0"
+          >
+            Authors
+             
+            <authors__AuthorsCount>
+              <StyledComponent
+                forwardedComponent={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": Array [],
+                    "componentStyle": ComponentStyle {
+                      "componentId": "authors__AuthorsCount-l9psfm-1",
+                      "isStatic": true,
+                      "lastClassName": "c1",
+                      "rules": Array [
+                        "font-size:0.875rem;line-height:1.125rem;color:#7d7d7d;",
+                      ],
+                    },
+                    "displayName": "authors__AuthorsCount",
+                    "foldedComponentIds": Array [],
+                    "render": [Function],
+                    "styledComponentId": "authors__AuthorsCount-l9psfm-1",
+                    "target": "span",
+                    "toString": [Function],
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+              >
+                <span
+                  className="c1"
+                >
+                  3
+                   
+                  results
+                </span>
+              </StyledComponent>
+            </authors__AuthorsCount>
+          </h4>
+        </StyledComponent>
+      </authors__AuthorsHeading>
+      <authors__AuthorsWrapper>
+        <StyledComponent
+          forwardedComponent={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": Array [],
+              "componentStyle": ComponentStyle {
+                "componentId": "authors__AuthorsWrapper-l9psfm-2",
+                "isStatic": true,
+                "lastClassName": "c2",
+                "rules": Array [
+                  "display:flex;flex-wrap:wrap;",
+                ],
+              },
+              "displayName": "authors__AuthorsWrapper",
+              "foldedComponentIds": Array [],
+              "render": [Function],
+              "styledComponentId": "authors__AuthorsWrapper-l9psfm-2",
+              "target": "div",
+              "toString": [Function],
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+        >
+          <div
+            className="c2"
+          >
+            <AuthorCard
+              avatar={
+                Object {
+                  "id": "gdxk7p8bwzz4adbfoklv",
+                }
+              }
+              clickHandler={[Function]}
+              displayName="Booker Simpson Long Name"
+              hide={false}
+              id="123456"
+              key="123456-booker-a"
+              screenName="booker-a"
+            >
+              <EnsureDefaultTheme>
+                <ThemeProvider
+                  theme={[Function]}
+                >
+                  <author-card__AuthorWrapper
+                    hide={false}
+                    onClick={[Function]}
+                  >
+                    <StyledComponent
+                      forwardedComponent={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "attrs": Array [],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "author-card__AuthorWrapper-sc-1bbhm76-4",
+                            "isStatic": false,
+                            "lastClassName": "c3",
+                            "rules": Array [
+                              "display:",
+                              [Function],
+                              ";flex-direction:row;flex-wrap:wrap;padding:10px 25px 15px 0;cursor:pointer;&:hover ",
+                              ".c7",
+                              "{text-decoration:underline;}",
+                            ],
+                          },
+                          "displayName": "author-card__AuthorWrapper",
+                          "foldedComponentIds": Array [],
+                          "render": [Function],
+                          "styledComponentId": "author-card__AuthorWrapper-sc-1bbhm76-4",
+                          "target": "div",
+                          "toString": [Function],
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                      hide={false}
+                      onClick={[Function]}
+                    >
+                      <div
+                        className="c3"
+                        onClick={[Function]}
+                      >
+                        <author-card__AuthorAvatar>
+                          <StyledComponent
+                            forwardedComponent={
+                              Object {
+                                "$$typeof": Symbol(react.forward_ref),
+                                "attrs": Array [],
+                                "componentStyle": ComponentStyle {
+                                  "componentId": "author-card__AuthorAvatar-sc-1bbhm76-0",
+                                  "isStatic": true,
+                                  "lastClassName": "c4",
+                                  "rules": Array [
+                                    "display:flex;margin-right:10px;",
+                                  ],
+                                },
+                                "displayName": "author-card__AuthorAvatar",
+                                "foldedComponentIds": Array [],
+                                "render": [Function],
+                                "styledComponentId": "author-card__AuthorAvatar-sc-1bbhm76-0",
+                                "target": "div",
+                                "toString": [Function],
+                                "warnTooManyClasses": [Function],
+                                "withComponent": [Function],
+                              }
+                            }
+                            forwardedRef={null}
+                          >
+                            <div
+                              className="c4"
+                            >
+                              <author-card__AuthorMask
+                                height={50}
+                                id="gdxk7p8bwzz4adbfoklv"
+                                transform="AvatarSmallAuto"
+                                width={50}
+                              >
+                                <StyledComponent
+                                  forwardedComponent={
+                                    Object {
+                                      "$$typeof": Symbol(react.forward_ref),
+                                      "attrs": Array [],
+                                      "componentStyle": ComponentStyle {
+                                        "componentId": "author-card__AuthorMask-sc-1bbhm76-6",
+                                        "isStatic": true,
+                                        "lastClassName": "c5",
+                                        "rules": Array [
+                                          "border-radius:50%;",
+                                        ],
+                                      },
+                                      "displayName": "author-card__AuthorMask",
+                                      "foldedComponentIds": Array [],
+                                      "render": [Function],
+                                      "styledComponentId": "author-card__AuthorMask-sc-1bbhm76-6",
+                                      "target": [Function],
+                                      "toString": [Function],
+                                      "warnTooManyClasses": [Function],
+                                      "withComponent": [Function],
+                                      Symbol(Symbol.hasInstance): [Function],
+                                    }
+                                  }
+                                  forwardedRef={null}
+                                  height={50}
+                                  id="gdxk7p8bwzz4adbfoklv"
+                                  transform="AvatarSmallAuto"
+                                  width={50}
+                                >
+                                  <OnScreenHOC
+                                    className="c5"
+                                    height={50}
+                                    id="gdxk7p8bwzz4adbfoklv"
+                                    transform="AvatarSmallAuto"
+                                    width={50}
+                                  >
+                                    <TrackVisibility
+                                      offset={100}
+                                      once={false}
+                                      partialVisibility={false}
+                                      tag="div"
+                                      throttleInterval={150}
+                                    >
+                                      <div>
+                                        <Image
+                                          className="c5"
+                                          height={50}
+                                          id="gdxk7p8bwzz4adbfoklv"
+                                          isVisible={false}
+                                          key=".0"
+                                          transform="AvatarSmallAuto"
+                                          width={50}
+                                        >
+                                          <img
+                                            className="c5"
+                                            height={50}
+                                            src="https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_80,q_80,w_80/gdxk7p8bwzz4adbfoklv.jpg"
+                                            width={50}
+                                          />
+                                        </Image>
+                                      </div>
+                                    </TrackVisibility>
+                                  </OnScreenHOC>
+                                </StyledComponent>
+                              </author-card__AuthorMask>
+                            </div>
+                          </StyledComponent>
+                        </author-card__AuthorAvatar>
+                        <author-card__CardWrapper>
+                          <StyledComponent
+                            forwardedComponent={
+                              Object {
+                                "$$typeof": Symbol(react.forward_ref),
+                                "attrs": Array [],
+                                "componentStyle": ComponentStyle {
+                                  "componentId": "author-card__CardWrapper-sc-1bbhm76-1",
+                                  "isStatic": true,
+                                  "lastClassName": "c6",
+                                  "rules": Array [
+                                    "display:flex;flex-direction:column;flex:1;padding-top:2px;",
+                                  ],
+                                },
+                                "displayName": "author-card__CardWrapper",
+                                "foldedComponentIds": Array [],
+                                "render": [Function],
+                                "styledComponentId": "author-card__CardWrapper-sc-1bbhm76-1",
+                                "target": "div",
+                                "toString": [Function],
+                                "warnTooManyClasses": [Function],
+                                "withComponent": [Function],
+                              }
+                            }
+                            forwardedRef={null}
+                          >
+                            <div
+                              className="c6"
+                            >
+                              <author-card__AuthorsHeading>
+                                <StyledComponent
+                                  forwardedComponent={
+                                    Object {
+                                      "$$typeof": Symbol(react.forward_ref),
+                                      "attrs": Array [],
+                                      "componentStyle": ComponentStyle {
+                                        "componentId": "c7",
+                                        "isStatic": true,
+                                        "lastClassName": "c8",
+                                        "rules": Array [
+                                          "font-weight:normal;display:flex;margin-bottom:0.5rem;",
+                                        ],
+                                      },
+                                      "displayName": "author-card__AuthorsHeading",
+                                      "foldedComponentIds": Array [],
+                                      "render": [Function],
+                                      "styledComponentId": "c7",
+                                      "target": "h6",
+                                      "toString": [Function],
+                                      "warnTooManyClasses": [Function],
+                                      "withComponent": [Function],
+                                    }
+                                  }
+                                  forwardedRef={null}
+                                >
+                                  <h6
+                                    className="c7 c8"
+                                  >
+                                    Booker Simpson Long Name
+                                  </h6>
+                                </StyledComponent>
+                              </author-card__AuthorsHeading>
+                              <author-card__CardInnerWrapper>
+                                <StyledComponent
+                                  forwardedComponent={
+                                    Object {
+                                      "$$typeof": Symbol(react.forward_ref),
+                                      "attrs": Array [],
+                                      "componentStyle": ComponentStyle {
+                                        "componentId": "author-card__CardInnerWrapper-sc-1bbhm76-2",
+                                        "isStatic": true,
+                                        "lastClassName": "c9",
+                                        "rules": Array [
+                                          "display:flex;flex-direction:row;flex-wrap:wrap;",
+                                        ],
+                                      },
+                                      "displayName": "author-card__CardInnerWrapper",
+                                      "foldedComponentIds": Array [],
+                                      "render": [Function],
+                                      "styledComponentId": "author-card__CardInnerWrapper-sc-1bbhm76-2",
+                                      "target": "div",
+                                      "toString": [Function],
+                                      "warnTooManyClasses": [Function],
+                                      "withComponent": [Function],
+                                    }
+                                  }
+                                  forwardedRef={null}
+                                >
+                                  <div
+                                    className="c9"
+                                  >
+                                    <author-card__AuthorIcon>
+                                      <StyledComponent
+                                        forwardedComponent={
+                                          Object {
+                                            "$$typeof": Symbol(react.forward_ref),
+                                            "attrs": Array [],
+                                            "componentStyle": ComponentStyle {
+                                              "componentId": "author-card__AuthorIcon-sc-1bbhm76-5",
+                                              "isStatic": false,
+                                              "lastClassName": "c10",
+                                              "rules": Array [
+                                                "width:16px;height:16px;color:",
+                                                [Function],
+                                                ";margin-right:5px;display:flex;align-self:baseline;",
+                                              ],
+                                            },
+                                            "displayName": "author-card__AuthorIcon",
+                                            "foldedComponentIds": Array [],
+                                            "render": [Function],
+                                            "styledComponentId": "author-card__AuthorIcon-sc-1bbhm76-5",
+                                            "target": [Function],
+                                            "toString": [Function],
+                                            "warnTooManyClasses": [Function],
+                                            "withComponent": [Function],
+                                            Symbol(Symbol.hasInstance): [Function],
+                                          }
+                                        }
+                                        forwardedRef={null}
+                                      >
+                                        <UserIcon
+                                          className="c10"
+                                        >
+                                          <Icon19
+                                            className="c10"
+                                          >
+                                            <icon19__IconWrapper
+                                              className="c10"
+                                            >
+                                              <StyledComponent
+                                                className="c10"
+                                                forwardedComponent={
+                                                  Object {
+                                                    "$$typeof": Symbol(react.forward_ref),
+                                                    "attrs": Array [],
+                                                    "componentStyle": ComponentStyle {
+                                                      "componentId": "icon19__IconWrapper-iyvn34-0",
+                                                      "isStatic": true,
+                                                      "lastClassName": "c11",
+                                                      "rules": Array [
+                                                        "fill:currentColor;display:flex;",
+                                                      ],
+                                                    },
+                                                    "displayName": "icon19__IconWrapper",
+                                                    "foldedComponentIds": Array [],
+                                                    "render": [Function],
+                                                    "styledComponentId": "icon19__IconWrapper-iyvn34-0",
+                                                    "target": "span",
+                                                    "toString": [Function],
+                                                    "warnTooManyClasses": [Function],
+                                                    "withComponent": [Function],
+                                                  }
+                                                }
+                                                forwardedRef={null}
+                                              >
+                                                <span
+                                                  className="c10 c11"
+                                                >
+                                                  <User
+                                                    aria-label="User icon"
+                                                    height="18"
+                                                    viewBox="0 0 18 18"
+                                                    width="18"
+                                                    xmlns="http://www.w3.org/2000/svg"
+                                                  >
+                                                    <svg
+                                                      aria-label="User icon"
+                                                      height="18"
+                                                      viewBox="0 0 18 18"
+                                                      width="18"
+                                                      xmlns="http://www.w3.org/2000/svg"
+                                                    >
+                                                      <path
+                                                        d="M9 1c1.4 0 2.27.5 3.02 1.57a6.04 6.04 0 0 1 .57 5.3 8.82 8.82 0 0 1-.96 1.88l-.06.09-.21.33-.02.05.03.02.16.08.04.03c.11.06.7.31 1.84.77l.02.01c1.85.75 1.93.78 2.06.88a3 3 0 0 1 1.24 2.01 17.97 17.97 0 0 1 .23 1.99l.04.44a.5.5 0 0 1-.5.54L1.5 17a.5.5 0 0 1-.5-.54 50.27 50.27 0 0 1 .28-2.48 3 3 0 0 1 1.23-1.97c.13-.1.7-.34 2.01-.88l.06-.02 1.94-.8c.13-.05.16-.06.16-.1a37.57 37.57 0 0 1-.52-.78 9.75 9.75 0 0 1-.76-1.55c-.66-1.7-.4-3.9.56-5.3C6.75 1.44 7.53 1 9 1zm0 1c-1.12 0-1.6.28-2.2 1.14a5.05 5.05 0 0 0-.46 4.37c.39.99.56 1.28 1.2 2.2l.07.12c.23.66-.08 1.14-.7 1.4l-1.95.8-.06.03c-1 .4-1.78.74-1.81.76a2.01 2.01 0 0 0-.83 1.34A16.17 16.17 0 0 0 2.05 16l13.9-.01a50.3 50.3 0 0 0-.2-1.8 2.09 2.09 0 0 0-.84-1.37c-.02-.02-.57-.24-1.85-.76l-.03-.01a23.58 23.58 0 0 1-2.23-.98c-.48-.24-.6-.64-.35-1.31l.28-.46.06-.09a8 8 0 0 0 .87-1.7 5.05 5.05 0 0 0-.46-4.37A2.35 2.35 0 0 0 9 2z"
+                                                        fillRule="evenodd"
+                                                      />
+                                                    </svg>
+                                                  </User>
+                                                </span>
+                                              </StyledComponent>
+                                            </icon19__IconWrapper>
+                                          </Icon19>
+                                        </UserIcon>
+                                      </StyledComponent>
+                                    </author-card__AuthorIcon>
+                                    <author-card__AuthorUserCard>
+                                      <StyledComponent
+                                        forwardedComponent={
+                                          Object {
+                                            "$$typeof": Symbol(react.forward_ref),
+                                            "attrs": Array [],
+                                            "componentStyle": ComponentStyle {
+                                              "componentId": "author-card__AuthorUserCard-sc-1bbhm76-7",
+                                              "isStatic": false,
+                                              "lastClassName": "c12",
+                                              "rules": Array [
+                                                "display:flex;font-size:14px;color:",
+                                                [Function],
+                                                ";line-height:1rem;",
+                                              ],
+                                            },
+                                            "displayName": "author-card__AuthorUserCard",
+                                            "foldedComponentIds": Array [],
+                                            "render": [Function],
+                                            "styledComponentId": "author-card__AuthorUserCard-sc-1bbhm76-7",
+                                            "target": "div",
+                                            "toString": [Function],
+                                            "warnTooManyClasses": [Function],
+                                            "withComponent": [Function],
+                                          }
+                                        }
+                                        forwardedRef={null}
+                                      >
+                                        <div
+                                          className="c12"
+                                        >
+                                          booker-a
+                                        </div>
+                                      </StyledComponent>
+                                    </author-card__AuthorUserCard>
+                                  </div>
+                                </StyledComponent>
+                              </author-card__CardInnerWrapper>
+                            </div>
+                          </StyledComponent>
+                        </author-card__CardWrapper>
+                      </div>
+                    </StyledComponent>
+                  </author-card__AuthorWrapper>
+                </ThemeProvider>
+              </EnsureDefaultTheme>
+            </AuthorCard>
+            <AuthorCard
+              avatar={
+                Object {
+                  "id": "gdxk7p8bwzz4adbfoklv",
+                }
+              }
+              clickHandler={[Function]}
+              displayName="Booker Simpson Long Name"
+              hide={false}
+              id="125456"
+              key="125456-booker-b"
+              screenName="booker-b"
+            >
+              <EnsureDefaultTheme>
+                <ThemeProvider
+                  theme={[Function]}
+                >
+                  <author-card__AuthorWrapper
+                    hide={false}
+                    onClick={[Function]}
+                  >
+                    <StyledComponent
+                      forwardedComponent={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "attrs": Array [],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "author-card__AuthorWrapper-sc-1bbhm76-4",
+                            "isStatic": false,
+                            "lastClassName": "c3",
+                            "rules": Array [
+                              "display:",
+                              [Function],
+                              ";flex-direction:row;flex-wrap:wrap;padding:10px 25px 15px 0;cursor:pointer;&:hover ",
+                              ".c7",
+                              "{text-decoration:underline;}",
+                            ],
+                          },
+                          "displayName": "author-card__AuthorWrapper",
+                          "foldedComponentIds": Array [],
+                          "render": [Function],
+                          "styledComponentId": "author-card__AuthorWrapper-sc-1bbhm76-4",
+                          "target": "div",
+                          "toString": [Function],
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                      hide={false}
+                      onClick={[Function]}
+                    >
+                      <div
+                        className="c3"
+                        onClick={[Function]}
+                      >
+                        <author-card__AuthorAvatar>
+                          <StyledComponent
+                            forwardedComponent={
+                              Object {
+                                "$$typeof": Symbol(react.forward_ref),
+                                "attrs": Array [],
+                                "componentStyle": ComponentStyle {
+                                  "componentId": "author-card__AuthorAvatar-sc-1bbhm76-0",
+                                  "isStatic": true,
+                                  "lastClassName": "c4",
+                                  "rules": Array [
+                                    "display:flex;margin-right:10px;",
+                                  ],
+                                },
+                                "displayName": "author-card__AuthorAvatar",
+                                "foldedComponentIds": Array [],
+                                "render": [Function],
+                                "styledComponentId": "author-card__AuthorAvatar-sc-1bbhm76-0",
+                                "target": "div",
+                                "toString": [Function],
+                                "warnTooManyClasses": [Function],
+                                "withComponent": [Function],
+                              }
+                            }
+                            forwardedRef={null}
+                          >
+                            <div
+                              className="c4"
+                            >
+                              <author-card__AuthorMask
+                                height={50}
+                                id="gdxk7p8bwzz4adbfoklv"
+                                transform="AvatarSmallAuto"
+                                width={50}
+                              >
+                                <StyledComponent
+                                  forwardedComponent={
+                                    Object {
+                                      "$$typeof": Symbol(react.forward_ref),
+                                      "attrs": Array [],
+                                      "componentStyle": ComponentStyle {
+                                        "componentId": "author-card__AuthorMask-sc-1bbhm76-6",
+                                        "isStatic": true,
+                                        "lastClassName": "c5",
+                                        "rules": Array [
+                                          "border-radius:50%;",
+                                        ],
+                                      },
+                                      "displayName": "author-card__AuthorMask",
+                                      "foldedComponentIds": Array [],
+                                      "render": [Function],
+                                      "styledComponentId": "author-card__AuthorMask-sc-1bbhm76-6",
+                                      "target": [Function],
+                                      "toString": [Function],
+                                      "warnTooManyClasses": [Function],
+                                      "withComponent": [Function],
+                                      Symbol(Symbol.hasInstance): [Function],
+                                    }
+                                  }
+                                  forwardedRef={null}
+                                  height={50}
+                                  id="gdxk7p8bwzz4adbfoklv"
+                                  transform="AvatarSmallAuto"
+                                  width={50}
+                                >
+                                  <OnScreenHOC
+                                    className="c5"
+                                    height={50}
+                                    id="gdxk7p8bwzz4adbfoklv"
+                                    transform="AvatarSmallAuto"
+                                    width={50}
+                                  >
+                                    <TrackVisibility
+                                      offset={100}
+                                      once={false}
+                                      partialVisibility={false}
+                                      tag="div"
+                                      throttleInterval={150}
+                                    >
+                                      <div>
+                                        <Image
+                                          className="c5"
+                                          height={50}
+                                          id="gdxk7p8bwzz4adbfoklv"
+                                          isVisible={false}
+                                          key=".0"
+                                          transform="AvatarSmallAuto"
+                                          width={50}
+                                        >
+                                          <img
+                                            className="c5"
+                                            height={50}
+                                            src="https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_80,q_80,w_80/gdxk7p8bwzz4adbfoklv.jpg"
+                                            width={50}
+                                          />
+                                        </Image>
+                                      </div>
+                                    </TrackVisibility>
+                                  </OnScreenHOC>
+                                </StyledComponent>
+                              </author-card__AuthorMask>
+                            </div>
+                          </StyledComponent>
+                        </author-card__AuthorAvatar>
+                        <author-card__CardWrapper>
+                          <StyledComponent
+                            forwardedComponent={
+                              Object {
+                                "$$typeof": Symbol(react.forward_ref),
+                                "attrs": Array [],
+                                "componentStyle": ComponentStyle {
+                                  "componentId": "author-card__CardWrapper-sc-1bbhm76-1",
+                                  "isStatic": true,
+                                  "lastClassName": "c6",
+                                  "rules": Array [
+                                    "display:flex;flex-direction:column;flex:1;padding-top:2px;",
+                                  ],
+                                },
+                                "displayName": "author-card__CardWrapper",
+                                "foldedComponentIds": Array [],
+                                "render": [Function],
+                                "styledComponentId": "author-card__CardWrapper-sc-1bbhm76-1",
+                                "target": "div",
+                                "toString": [Function],
+                                "warnTooManyClasses": [Function],
+                                "withComponent": [Function],
+                              }
+                            }
+                            forwardedRef={null}
+                          >
+                            <div
+                              className="c6"
+                            >
+                              <author-card__AuthorsHeading>
+                                <StyledComponent
+                                  forwardedComponent={
+                                    Object {
+                                      "$$typeof": Symbol(react.forward_ref),
+                                      "attrs": Array [],
+                                      "componentStyle": ComponentStyle {
+                                        "componentId": "c7",
+                                        "isStatic": true,
+                                        "lastClassName": "c8",
+                                        "rules": Array [
+                                          "font-weight:normal;display:flex;margin-bottom:0.5rem;",
+                                        ],
+                                      },
+                                      "displayName": "author-card__AuthorsHeading",
+                                      "foldedComponentIds": Array [],
+                                      "render": [Function],
+                                      "styledComponentId": "c7",
+                                      "target": "h6",
+                                      "toString": [Function],
+                                      "warnTooManyClasses": [Function],
+                                      "withComponent": [Function],
+                                    }
+                                  }
+                                  forwardedRef={null}
+                                >
+                                  <h6
+                                    className="c7 c8"
+                                  >
+                                    Booker Simpson Long Name
+                                  </h6>
+                                </StyledComponent>
+                              </author-card__AuthorsHeading>
+                              <author-card__CardInnerWrapper>
+                                <StyledComponent
+                                  forwardedComponent={
+                                    Object {
+                                      "$$typeof": Symbol(react.forward_ref),
+                                      "attrs": Array [],
+                                      "componentStyle": ComponentStyle {
+                                        "componentId": "author-card__CardInnerWrapper-sc-1bbhm76-2",
+                                        "isStatic": true,
+                                        "lastClassName": "c9",
+                                        "rules": Array [
+                                          "display:flex;flex-direction:row;flex-wrap:wrap;",
+                                        ],
+                                      },
+                                      "displayName": "author-card__CardInnerWrapper",
+                                      "foldedComponentIds": Array [],
+                                      "render": [Function],
+                                      "styledComponentId": "author-card__CardInnerWrapper-sc-1bbhm76-2",
+                                      "target": "div",
+                                      "toString": [Function],
+                                      "warnTooManyClasses": [Function],
+                                      "withComponent": [Function],
+                                    }
+                                  }
+                                  forwardedRef={null}
+                                >
+                                  <div
+                                    className="c9"
+                                  >
+                                    <author-card__AuthorIcon>
+                                      <StyledComponent
+                                        forwardedComponent={
+                                          Object {
+                                            "$$typeof": Symbol(react.forward_ref),
+                                            "attrs": Array [],
+                                            "componentStyle": ComponentStyle {
+                                              "componentId": "author-card__AuthorIcon-sc-1bbhm76-5",
+                                              "isStatic": false,
+                                              "lastClassName": "c10",
+                                              "rules": Array [
+                                                "width:16px;height:16px;color:",
+                                                [Function],
+                                                ";margin-right:5px;display:flex;align-self:baseline;",
+                                              ],
+                                            },
+                                            "displayName": "author-card__AuthorIcon",
+                                            "foldedComponentIds": Array [],
+                                            "render": [Function],
+                                            "styledComponentId": "author-card__AuthorIcon-sc-1bbhm76-5",
+                                            "target": [Function],
+                                            "toString": [Function],
+                                            "warnTooManyClasses": [Function],
+                                            "withComponent": [Function],
+                                            Symbol(Symbol.hasInstance): [Function],
+                                          }
+                                        }
+                                        forwardedRef={null}
+                                      >
+                                        <UserIcon
+                                          className="c10"
+                                        >
+                                          <Icon19
+                                            className="c10"
+                                          >
+                                            <icon19__IconWrapper
+                                              className="c10"
+                                            >
+                                              <StyledComponent
+                                                className="c10"
+                                                forwardedComponent={
+                                                  Object {
+                                                    "$$typeof": Symbol(react.forward_ref),
+                                                    "attrs": Array [],
+                                                    "componentStyle": ComponentStyle {
+                                                      "componentId": "icon19__IconWrapper-iyvn34-0",
+                                                      "isStatic": true,
+                                                      "lastClassName": "c11",
+                                                      "rules": Array [
+                                                        "fill:currentColor;display:flex;",
+                                                      ],
+                                                    },
+                                                    "displayName": "icon19__IconWrapper",
+                                                    "foldedComponentIds": Array [],
+                                                    "render": [Function],
+                                                    "styledComponentId": "icon19__IconWrapper-iyvn34-0",
+                                                    "target": "span",
+                                                    "toString": [Function],
+                                                    "warnTooManyClasses": [Function],
+                                                    "withComponent": [Function],
+                                                  }
+                                                }
+                                                forwardedRef={null}
+                                              >
+                                                <span
+                                                  className="c10 c11"
+                                                >
+                                                  <User
+                                                    aria-label="User icon"
+                                                    height="18"
+                                                    viewBox="0 0 18 18"
+                                                    width="18"
+                                                    xmlns="http://www.w3.org/2000/svg"
+                                                  >
+                                                    <svg
+                                                      aria-label="User icon"
+                                                      height="18"
+                                                      viewBox="0 0 18 18"
+                                                      width="18"
+                                                      xmlns="http://www.w3.org/2000/svg"
+                                                    >
+                                                      <path
+                                                        d="M9 1c1.4 0 2.27.5 3.02 1.57a6.04 6.04 0 0 1 .57 5.3 8.82 8.82 0 0 1-.96 1.88l-.06.09-.21.33-.02.05.03.02.16.08.04.03c.11.06.7.31 1.84.77l.02.01c1.85.75 1.93.78 2.06.88a3 3 0 0 1 1.24 2.01 17.97 17.97 0 0 1 .23 1.99l.04.44a.5.5 0 0 1-.5.54L1.5 17a.5.5 0 0 1-.5-.54 50.27 50.27 0 0 1 .28-2.48 3 3 0 0 1 1.23-1.97c.13-.1.7-.34 2.01-.88l.06-.02 1.94-.8c.13-.05.16-.06.16-.1a37.57 37.57 0 0 1-.52-.78 9.75 9.75 0 0 1-.76-1.55c-.66-1.7-.4-3.9.56-5.3C6.75 1.44 7.53 1 9 1zm0 1c-1.12 0-1.6.28-2.2 1.14a5.05 5.05 0 0 0-.46 4.37c.39.99.56 1.28 1.2 2.2l.07.12c.23.66-.08 1.14-.7 1.4l-1.95.8-.06.03c-1 .4-1.78.74-1.81.76a2.01 2.01 0 0 0-.83 1.34A16.17 16.17 0 0 0 2.05 16l13.9-.01a50.3 50.3 0 0 0-.2-1.8 2.09 2.09 0 0 0-.84-1.37c-.02-.02-.57-.24-1.85-.76l-.03-.01a23.58 23.58 0 0 1-2.23-.98c-.48-.24-.6-.64-.35-1.31l.28-.46.06-.09a8 8 0 0 0 .87-1.7 5.05 5.05 0 0 0-.46-4.37A2.35 2.35 0 0 0 9 2z"
+                                                        fillRule="evenodd"
+                                                      />
+                                                    </svg>
+                                                  </User>
+                                                </span>
+                                              </StyledComponent>
+                                            </icon19__IconWrapper>
+                                          </Icon19>
+                                        </UserIcon>
+                                      </StyledComponent>
+                                    </author-card__AuthorIcon>
+                                    <author-card__AuthorUserCard>
+                                      <StyledComponent
+                                        forwardedComponent={
+                                          Object {
+                                            "$$typeof": Symbol(react.forward_ref),
+                                            "attrs": Array [],
+                                            "componentStyle": ComponentStyle {
+                                              "componentId": "author-card__AuthorUserCard-sc-1bbhm76-7",
+                                              "isStatic": false,
+                                              "lastClassName": "c12",
+                                              "rules": Array [
+                                                "display:flex;font-size:14px;color:",
+                                                [Function],
+                                                ";line-height:1rem;",
+                                              ],
+                                            },
+                                            "displayName": "author-card__AuthorUserCard",
+                                            "foldedComponentIds": Array [],
+                                            "render": [Function],
+                                            "styledComponentId": "author-card__AuthorUserCard-sc-1bbhm76-7",
+                                            "target": "div",
+                                            "toString": [Function],
+                                            "warnTooManyClasses": [Function],
+                                            "withComponent": [Function],
+                                          }
+                                        }
+                                        forwardedRef={null}
+                                      >
+                                        <div
+                                          className="c12"
+                                        >
+                                          booker-b
+                                        </div>
+                                      </StyledComponent>
+                                    </author-card__AuthorUserCard>
+                                  </div>
+                                </StyledComponent>
+                              </author-card__CardInnerWrapper>
+                            </div>
+                          </StyledComponent>
+                        </author-card__CardWrapper>
+                      </div>
+                    </StyledComponent>
+                  </author-card__AuthorWrapper>
+                </ThemeProvider>
+              </EnsureDefaultTheme>
+            </AuthorCard>
+            <AuthorCard
+              avatar={
+                Object {
+                  "id": "gdxk7p8bwzz4adbfoklv",
+                }
+              }
+              clickHandler={[Function]}
+              displayName="Booker Simpson Long Name"
+              hide={false}
+              id="123452"
+              key="123452-booker-c"
+              screenName="booker-c"
+            >
+              <EnsureDefaultTheme>
+                <ThemeProvider
+                  theme={[Function]}
+                >
+                  <author-card__AuthorWrapper
+                    hide={false}
+                    onClick={[Function]}
+                  >
+                    <StyledComponent
+                      forwardedComponent={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "attrs": Array [],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "author-card__AuthorWrapper-sc-1bbhm76-4",
+                            "isStatic": false,
+                            "lastClassName": "c3",
+                            "rules": Array [
+                              "display:",
+                              [Function],
+                              ";flex-direction:row;flex-wrap:wrap;padding:10px 25px 15px 0;cursor:pointer;&:hover ",
+                              ".c7",
+                              "{text-decoration:underline;}",
+                            ],
+                          },
+                          "displayName": "author-card__AuthorWrapper",
+                          "foldedComponentIds": Array [],
+                          "render": [Function],
+                          "styledComponentId": "author-card__AuthorWrapper-sc-1bbhm76-4",
+                          "target": "div",
+                          "toString": [Function],
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                      hide={false}
+                      onClick={[Function]}
+                    >
+                      <div
+                        className="c3"
+                        onClick={[Function]}
+                      >
+                        <author-card__AuthorAvatar>
+                          <StyledComponent
+                            forwardedComponent={
+                              Object {
+                                "$$typeof": Symbol(react.forward_ref),
+                                "attrs": Array [],
+                                "componentStyle": ComponentStyle {
+                                  "componentId": "author-card__AuthorAvatar-sc-1bbhm76-0",
+                                  "isStatic": true,
+                                  "lastClassName": "c4",
+                                  "rules": Array [
+                                    "display:flex;margin-right:10px;",
+                                  ],
+                                },
+                                "displayName": "author-card__AuthorAvatar",
+                                "foldedComponentIds": Array [],
+                                "render": [Function],
+                                "styledComponentId": "author-card__AuthorAvatar-sc-1bbhm76-0",
+                                "target": "div",
+                                "toString": [Function],
+                                "warnTooManyClasses": [Function],
+                                "withComponent": [Function],
+                              }
+                            }
+                            forwardedRef={null}
+                          >
+                            <div
+                              className="c4"
+                            >
+                              <author-card__AuthorMask
+                                height={50}
+                                id="gdxk7p8bwzz4adbfoklv"
+                                transform="AvatarSmallAuto"
+                                width={50}
+                              >
+                                <StyledComponent
+                                  forwardedComponent={
+                                    Object {
+                                      "$$typeof": Symbol(react.forward_ref),
+                                      "attrs": Array [],
+                                      "componentStyle": ComponentStyle {
+                                        "componentId": "author-card__AuthorMask-sc-1bbhm76-6",
+                                        "isStatic": true,
+                                        "lastClassName": "c5",
+                                        "rules": Array [
+                                          "border-radius:50%;",
+                                        ],
+                                      },
+                                      "displayName": "author-card__AuthorMask",
+                                      "foldedComponentIds": Array [],
+                                      "render": [Function],
+                                      "styledComponentId": "author-card__AuthorMask-sc-1bbhm76-6",
+                                      "target": [Function],
+                                      "toString": [Function],
+                                      "warnTooManyClasses": [Function],
+                                      "withComponent": [Function],
+                                      Symbol(Symbol.hasInstance): [Function],
+                                    }
+                                  }
+                                  forwardedRef={null}
+                                  height={50}
+                                  id="gdxk7p8bwzz4adbfoklv"
+                                  transform="AvatarSmallAuto"
+                                  width={50}
+                                >
+                                  <OnScreenHOC
+                                    className="c5"
+                                    height={50}
+                                    id="gdxk7p8bwzz4adbfoklv"
+                                    transform="AvatarSmallAuto"
+                                    width={50}
+                                  >
+                                    <TrackVisibility
+                                      offset={100}
+                                      once={false}
+                                      partialVisibility={false}
+                                      tag="div"
+                                      throttleInterval={150}
+                                    >
+                                      <div>
+                                        <Image
+                                          className="c5"
+                                          height={50}
+                                          id="gdxk7p8bwzz4adbfoklv"
+                                          isVisible={false}
+                                          key=".0"
+                                          transform="AvatarSmallAuto"
+                                          width={50}
+                                        >
+                                          <img
+                                            className="c5"
+                                            height={50}
+                                            src="https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_80,q_80,w_80/gdxk7p8bwzz4adbfoklv.jpg"
+                                            width={50}
+                                          />
+                                        </Image>
+                                      </div>
+                                    </TrackVisibility>
+                                  </OnScreenHOC>
+                                </StyledComponent>
+                              </author-card__AuthorMask>
+                            </div>
+                          </StyledComponent>
+                        </author-card__AuthorAvatar>
+                        <author-card__CardWrapper>
+                          <StyledComponent
+                            forwardedComponent={
+                              Object {
+                                "$$typeof": Symbol(react.forward_ref),
+                                "attrs": Array [],
+                                "componentStyle": ComponentStyle {
+                                  "componentId": "author-card__CardWrapper-sc-1bbhm76-1",
+                                  "isStatic": true,
+                                  "lastClassName": "c6",
+                                  "rules": Array [
+                                    "display:flex;flex-direction:column;flex:1;padding-top:2px;",
+                                  ],
+                                },
+                                "displayName": "author-card__CardWrapper",
+                                "foldedComponentIds": Array [],
+                                "render": [Function],
+                                "styledComponentId": "author-card__CardWrapper-sc-1bbhm76-1",
+                                "target": "div",
+                                "toString": [Function],
+                                "warnTooManyClasses": [Function],
+                                "withComponent": [Function],
+                              }
+                            }
+                            forwardedRef={null}
+                          >
+                            <div
+                              className="c6"
+                            >
+                              <author-card__AuthorsHeading>
+                                <StyledComponent
+                                  forwardedComponent={
+                                    Object {
+                                      "$$typeof": Symbol(react.forward_ref),
+                                      "attrs": Array [],
+                                      "componentStyle": ComponentStyle {
+                                        "componentId": "c7",
+                                        "isStatic": true,
+                                        "lastClassName": "c8",
+                                        "rules": Array [
+                                          "font-weight:normal;display:flex;margin-bottom:0.5rem;",
+                                        ],
+                                      },
+                                      "displayName": "author-card__AuthorsHeading",
+                                      "foldedComponentIds": Array [],
+                                      "render": [Function],
+                                      "styledComponentId": "c7",
+                                      "target": "h6",
+                                      "toString": [Function],
+                                      "warnTooManyClasses": [Function],
+                                      "withComponent": [Function],
+                                    }
+                                  }
+                                  forwardedRef={null}
+                                >
+                                  <h6
+                                    className="c7 c8"
+                                  >
+                                    Booker Simpson Long Name
+                                  </h6>
+                                </StyledComponent>
+                              </author-card__AuthorsHeading>
+                              <author-card__CardInnerWrapper>
+                                <StyledComponent
+                                  forwardedComponent={
+                                    Object {
+                                      "$$typeof": Symbol(react.forward_ref),
+                                      "attrs": Array [],
+                                      "componentStyle": ComponentStyle {
+                                        "componentId": "author-card__CardInnerWrapper-sc-1bbhm76-2",
+                                        "isStatic": true,
+                                        "lastClassName": "c9",
+                                        "rules": Array [
+                                          "display:flex;flex-direction:row;flex-wrap:wrap;",
+                                        ],
+                                      },
+                                      "displayName": "author-card__CardInnerWrapper",
+                                      "foldedComponentIds": Array [],
+                                      "render": [Function],
+                                      "styledComponentId": "author-card__CardInnerWrapper-sc-1bbhm76-2",
+                                      "target": "div",
+                                      "toString": [Function],
+                                      "warnTooManyClasses": [Function],
+                                      "withComponent": [Function],
+                                    }
+                                  }
+                                  forwardedRef={null}
+                                >
+                                  <div
+                                    className="c9"
+                                  >
+                                    <author-card__AuthorIcon>
+                                      <StyledComponent
+                                        forwardedComponent={
+                                          Object {
+                                            "$$typeof": Symbol(react.forward_ref),
+                                            "attrs": Array [],
+                                            "componentStyle": ComponentStyle {
+                                              "componentId": "author-card__AuthorIcon-sc-1bbhm76-5",
+                                              "isStatic": false,
+                                              "lastClassName": "c10",
+                                              "rules": Array [
+                                                "width:16px;height:16px;color:",
+                                                [Function],
+                                                ";margin-right:5px;display:flex;align-self:baseline;",
+                                              ],
+                                            },
+                                            "displayName": "author-card__AuthorIcon",
+                                            "foldedComponentIds": Array [],
+                                            "render": [Function],
+                                            "styledComponentId": "author-card__AuthorIcon-sc-1bbhm76-5",
+                                            "target": [Function],
+                                            "toString": [Function],
+                                            "warnTooManyClasses": [Function],
+                                            "withComponent": [Function],
+                                            Symbol(Symbol.hasInstance): [Function],
+                                          }
+                                        }
+                                        forwardedRef={null}
+                                      >
+                                        <UserIcon
+                                          className="c10"
+                                        >
+                                          <Icon19
+                                            className="c10"
+                                          >
+                                            <icon19__IconWrapper
+                                              className="c10"
+                                            >
+                                              <StyledComponent
+                                                className="c10"
+                                                forwardedComponent={
+                                                  Object {
+                                                    "$$typeof": Symbol(react.forward_ref),
+                                                    "attrs": Array [],
+                                                    "componentStyle": ComponentStyle {
+                                                      "componentId": "icon19__IconWrapper-iyvn34-0",
+                                                      "isStatic": true,
+                                                      "lastClassName": "c11",
+                                                      "rules": Array [
+                                                        "fill:currentColor;display:flex;",
+                                                      ],
+                                                    },
+                                                    "displayName": "icon19__IconWrapper",
+                                                    "foldedComponentIds": Array [],
+                                                    "render": [Function],
+                                                    "styledComponentId": "icon19__IconWrapper-iyvn34-0",
+                                                    "target": "span",
+                                                    "toString": [Function],
+                                                    "warnTooManyClasses": [Function],
+                                                    "withComponent": [Function],
+                                                  }
+                                                }
+                                                forwardedRef={null}
+                                              >
+                                                <span
+                                                  className="c10 c11"
+                                                >
+                                                  <User
+                                                    aria-label="User icon"
+                                                    height="18"
+                                                    viewBox="0 0 18 18"
+                                                    width="18"
+                                                    xmlns="http://www.w3.org/2000/svg"
+                                                  >
+                                                    <svg
+                                                      aria-label="User icon"
+                                                      height="18"
+                                                      viewBox="0 0 18 18"
+                                                      width="18"
+                                                      xmlns="http://www.w3.org/2000/svg"
+                                                    >
+                                                      <path
+                                                        d="M9 1c1.4 0 2.27.5 3.02 1.57a6.04 6.04 0 0 1 .57 5.3 8.82 8.82 0 0 1-.96 1.88l-.06.09-.21.33-.02.05.03.02.16.08.04.03c.11.06.7.31 1.84.77l.02.01c1.85.75 1.93.78 2.06.88a3 3 0 0 1 1.24 2.01 17.97 17.97 0 0 1 .23 1.99l.04.44a.5.5 0 0 1-.5.54L1.5 17a.5.5 0 0 1-.5-.54 50.27 50.27 0 0 1 .28-2.48 3 3 0 0 1 1.23-1.97c.13-.1.7-.34 2.01-.88l.06-.02 1.94-.8c.13-.05.16-.06.16-.1a37.57 37.57 0 0 1-.52-.78 9.75 9.75 0 0 1-.76-1.55c-.66-1.7-.4-3.9.56-5.3C6.75 1.44 7.53 1 9 1zm0 1c-1.12 0-1.6.28-2.2 1.14a5.05 5.05 0 0 0-.46 4.37c.39.99.56 1.28 1.2 2.2l.07.12c.23.66-.08 1.14-.7 1.4l-1.95.8-.06.03c-1 .4-1.78.74-1.81.76a2.01 2.01 0 0 0-.83 1.34A16.17 16.17 0 0 0 2.05 16l13.9-.01a50.3 50.3 0 0 0-.2-1.8 2.09 2.09 0 0 0-.84-1.37c-.02-.02-.57-.24-1.85-.76l-.03-.01a23.58 23.58 0 0 1-2.23-.98c-.48-.24-.6-.64-.35-1.31l.28-.46.06-.09a8 8 0 0 0 .87-1.7 5.05 5.05 0 0 0-.46-4.37A2.35 2.35 0 0 0 9 2z"
+                                                        fillRule="evenodd"
+                                                      />
+                                                    </svg>
+                                                  </User>
+                                                </span>
+                                              </StyledComponent>
+                                            </icon19__IconWrapper>
+                                          </Icon19>
+                                        </UserIcon>
+                                      </StyledComponent>
+                                    </author-card__AuthorIcon>
+                                    <author-card__AuthorUserCard>
+                                      <StyledComponent
+                                        forwardedComponent={
+                                          Object {
+                                            "$$typeof": Symbol(react.forward_ref),
+                                            "attrs": Array [],
+                                            "componentStyle": ComponentStyle {
+                                              "componentId": "author-card__AuthorUserCard-sc-1bbhm76-7",
+                                              "isStatic": false,
+                                              "lastClassName": "c12",
+                                              "rules": Array [
+                                                "display:flex;font-size:14px;color:",
+                                                [Function],
+                                                ";line-height:1rem;",
+                                              ],
+                                            },
+                                            "displayName": "author-card__AuthorUserCard",
+                                            "foldedComponentIds": Array [],
+                                            "render": [Function],
+                                            "styledComponentId": "author-card__AuthorUserCard-sc-1bbhm76-7",
+                                            "target": "div",
+                                            "toString": [Function],
+                                            "warnTooManyClasses": [Function],
+                                            "withComponent": [Function],
+                                          }
+                                        }
+                                        forwardedRef={null}
+                                      >
+                                        <div
+                                          className="c12"
+                                        >
+                                          booker-c
+                                        </div>
+                                      </StyledComponent>
+                                    </author-card__AuthorUserCard>
+                                  </div>
+                                </StyledComponent>
+                              </author-card__CardInnerWrapper>
+                            </div>
+                          </StyledComponent>
+                        </author-card__CardWrapper>
+                      </div>
+                    </StyledComponent>
+                  </author-card__AuthorWrapper>
+                </ThemeProvider>
+              </EnsureDefaultTheme>
+            </AuthorCard>
+          </div>
+        </StyledComponent>
+      </authors__AuthorsWrapper>
+    </ThemeProvider>
+  </Theme>
+</Authors>
+`;

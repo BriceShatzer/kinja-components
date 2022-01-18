@@ -1,0 +1,155 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Slideshow <Slide /> should not be displaying the image if load is set to false 1`] = `
+<Slide
+  aspectRatio="Photo"
+  fullscreenEnabled={true}
+  image={
+    Object {
+      "id": "something",
+    }
+  }
+  load={false}
+  onLoad={[Function]}
+/>
+`;
+
+exports[`Slideshow <Slide /> should render caption 1`] = `
+<EnsureDefaultTheme>
+  <slide__KinjaSlide>
+    <slide__SlideInner>
+      <slide__SlideContainer
+        wide={false}
+      >
+        <slide__SlideImageContainer>
+          <slide__SlideBlurBackground
+            hidden={true}
+            loaded={true}
+            url="https://i.kinja-img.com/gawker-media/image/upload/something.jpg"
+          />
+          <slide__SlideFullscreenIndicator>
+            <FullscreenIcon />
+          </slide__SlideFullscreenIndicator>
+          <slide__SlideImage
+            hidden={true}
+          >
+            <source
+              media="(max-width: 599px)"
+              srcSet="https://i.kinja-img.com/gawker-media/image/upload/something.jpg"
+            />
+            <img
+              alt="Sample caption"
+              data-chomp-id="something"
+              draggable={false}
+              onLoad={[Function]}
+              src="https://i.kinja-img.com/gawker-media/image/upload/something.jpg"
+            />
+          </slide__SlideImage>
+          <Loading />
+        </slide__SlideImageContainer>
+      </slide__SlideContainer>
+      <slide__SlideCaption>
+        <MaybeCaption />
+        <MaybeAttribution />
+      </slide__SlideCaption>
+    </slide__SlideInner>
+  </slide__KinjaSlide>
+</EnsureDefaultTheme>
+`;
+
+exports[`Slideshow <Slide /> should render differently after the image has loaded 1`] = `
+<EnsureDefaultTheme>
+  <slide__KinjaSlide>
+    <slide__SlideInner>
+      <slide__SlideContainer
+        wide={false}
+      >
+        <slide__SlideImageContainer>
+          <slide__SlideBlurBackground
+            hidden={false}
+            loaded={true}
+            url="https://i.kinja-img.com/gawker-media/image/upload/something.jpg"
+          />
+          <slide__SlideFullscreenIndicator>
+            <FullscreenIcon />
+          </slide__SlideFullscreenIndicator>
+          <slide__SlideImage
+            hidden={false}
+          >
+            <source
+              media="(max-width: 599px)"
+              srcSet="https://i.kinja-img.com/gawker-media/image/upload/something.jpg"
+            />
+            <img
+              data-chomp-id="something"
+              draggable={false}
+              onLoad={[Function]}
+              src="https://i.kinja-img.com/gawker-media/image/upload/something.jpg"
+            />
+          </slide__SlideImage>
+        </slide__SlideImageContainer>
+      </slide__SlideContainer>
+      <slide__SlideCaption>
+        <MaybeCaption />
+        <MaybeAttribution />
+      </slide__SlideCaption>
+    </slide__SlideInner>
+  </slide__KinjaSlide>
+</EnsureDefaultTheme>
+`;
+
+exports[`Slideshow <Slide /> should render with Photo aspect ratio by default 1`] = `
+<EnsureDefaultTheme>
+  <slide__KinjaSlide>
+    <slide__SlideInner>
+      <slide__SlideContainer
+        wide={false}
+      >
+        <slide__SlideImageContainer>
+          <slide__SlideBlurBackground
+            hidden={true}
+            loaded={true}
+            url="https://i.kinja-img.com/gawker-media/image/upload/something.jpg"
+          />
+          <slide__SlideFullscreenIndicator>
+            <FullscreenIcon />
+          </slide__SlideFullscreenIndicator>
+          <slide__SlideImage
+            hidden={true}
+          >
+            <source
+              media="(max-width: 599px)"
+              srcSet="https://i.kinja-img.com/gawker-media/image/upload/something.jpg"
+            />
+            <img
+              data-chomp-id="something"
+              draggable={false}
+              onLoad={[Function]}
+              src="https://i.kinja-img.com/gawker-media/image/upload/something.jpg"
+            />
+          </slide__SlideImage>
+          <Loading />
+        </slide__SlideImageContainer>
+      </slide__SlideContainer>
+      <slide__SlideCaption>
+        <MaybeCaption />
+        <MaybeAttribution />
+      </slide__SlideCaption>
+    </slide__SlideInner>
+  </slide__KinjaSlide>
+</EnsureDefaultTheme>
+`;
+
+exports[`Slideshow <Slide /> should render with Wide aspect ratio if set 1`] = `
+<Slide
+  aspectRatio="Wide"
+  fullscreenEnabled={true}
+  image={
+    Object {
+      "id": "something",
+    }
+  }
+  load={true}
+  onLoad={[Function]}
+/>
+`;

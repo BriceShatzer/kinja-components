@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<PostTools /> should render move ad slots when callback is passed in 1`] = `
+<ThemeProvider
+  theme={[Function]}
+>
+  <DropdownItem
+    icon={<MoveVerticalIcon />}
+    onClick={[Function]}
+    title="Move Ad Slots"
+  />
+</ThemeProvider>
+`;

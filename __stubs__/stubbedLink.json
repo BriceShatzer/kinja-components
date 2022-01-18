@@ -1,0 +1,42 @@
+{
+    "meta": {
+        "error": null,
+        "warnings": []
+    },
+    "data": [
+        {
+            "url": "https://www.amazon.com/dp/B07PW2QD5W?linkCode=ogi&th=1&psc=1&smid=A3D5F77D7ECD33",
+            "provider": "amazon",
+            "headline": "OC Sports Cleveland Indians MLB Home Two Tone C Logo Hat Cap Adult Men's Adjustable",
+            "description": null,
+            "thumbnails": [
+                "https://m.media-amazon.com/images/I/41UMjl+Rg3L.jpg"
+            ],
+            "images": [
+                {
+                    "id": "vcxlvzclk1kxe55spys1",
+                    "format": "jpg",
+                    "uri": "https://m.media-amazon.com/images/I/41UMjl+Rg3L.jpg",
+                    "width": 500,
+                    "height": 380,
+                    "originalWidth": 500,
+                    "originalHeight": 380
+                }
+            ],
+            "meta": {
+                "asin": "B07PW2QD5W",
+                "price": "11.33"
+            },
+            "type": "none",
+            "height": null,
+            "width": null,
+            "sizeClass": "flex-video widescreen",
+            "autoReisize": false,
+            "isSecure": true,
+            "insetId": null,
+            "originalUrl": "https://www.amazon.com/OC-Sports-Cleveland-Indians-Adjustable/dp/B07PW2QD5W",
+            "shortDescription": null,
+            "startTime": null
+        }
+    ]
+}

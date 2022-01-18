@@ -1,0 +1,655 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[` 1`] = `
+<EnsureDefaultTheme>
+  <footerNetwork__FooterNetworkWrap>
+    <footerNetwork__FooterNetworkLabel>
+      More from our network
+    </footerNetwork__FooterNetworkLabel>
+    <footerLinks__FooterList>
+      <li
+        key="avclub"
+      >
+        <Link
+          events={
+            Array [
+              Array [
+                "Footer",
+                "click",
+                "avclub logo",
+                Object {
+                  "metric21": 1,
+                },
+              ],
+            ]
+          }
+          href="//avclub.com"
+          onClick={[Function]}
+          rel="noopener"
+          target="_blank"
+        >
+          <footerNetwork__FooterNetworkBrand>
+            <BlogAvatar
+              monochrome={true}
+              name="avclub"
+              size={22}
+            />
+          </footerNetwork__FooterNetworkBrand>
+        </Link>
+      </li>
+      <li
+        key="deadspin"
+      >
+        <Link
+          events={
+            Array [
+              Array [
+                "Footer",
+                "click",
+                "deadspin logo",
+                Object {
+                  "metric21": 1,
+                },
+              ],
+            ]
+          }
+          href="//deadspin.com"
+          onClick={[Function]}
+          rel="noopener"
+          target="_blank"
+        >
+          <footerNetwork__FooterNetworkBrand>
+            <BlogAvatar
+              monochrome={true}
+              name="deadspin"
+              size={22}
+            />
+          </footerNetwork__FooterNetworkBrand>
+        </Link>
+      </li>
+      <li
+        key="gizmodo"
+      >
+        <Link
+          events={
+            Array [
+              Array [
+                "Footer",
+                "click",
+                "gizmodo logo",
+                Object {
+                  "metric21": 1,
+                },
+              ],
+            ]
+          }
+          href="//gizmodo.com"
+          onClick={[Function]}
+          rel="noopener"
+          target="_blank"
+        >
+          <footerNetwork__FooterNetworkBrand>
+            <BlogAvatar
+              monochrome={true}
+              name="gizmodo"
+              size={22}
+            />
+          </footerNetwork__FooterNetworkBrand>
+        </Link>
+      </li>
+      <li
+        key="jalopnik"
+      >
+        <Link
+          events={
+            Array [
+              Array [
+                "Footer",
+                "click",
+                "jalopnik logo",
+                Object {
+                  "metric21": 1,
+                },
+              ],
+            ]
+          }
+          href="//jalopnik.com"
+          onClick={[Function]}
+          rel="noopener"
+          target="_blank"
+        >
+          <footerNetwork__FooterNetworkBrand>
+            <BlogAvatar
+              monochrome={true}
+              name="jalopnik"
+              size={22}
+            />
+          </footerNetwork__FooterNetworkBrand>
+        </Link>
+      </li>
+      <li
+        key="jezebel"
+      >
+        <Link
+          events={
+            Array [
+              Array [
+                "Footer",
+                "click",
+                "jezebel logo",
+                Object {
+                  "metric21": 1,
+                },
+              ],
+            ]
+          }
+          href="//jezebel.com"
+          onClick={[Function]}
+          rel="noopener"
+          target="_blank"
+        >
+          <footerNetwork__FooterNetworkBrand>
+            <BlogAvatar
+              monochrome={true}
+              name="jezebel"
+              size={22}
+            />
+          </footerNetwork__FooterNetworkBrand>
+        </Link>
+      </li>
+      <li
+        key="kotaku"
+      >
+        <Link
+          events={
+            Array [
+              Array [
+                "Footer",
+                "click",
+                "kotaku logo",
+                Object {
+                  "metric21": 1,
+                },
+              ],
+            ]
+          }
+          href="//kotaku.com"
+          onClick={[Function]}
+          rel="noopener"
+          target="_blank"
+        >
+          <footerNetwork__FooterNetworkBrand>
+            <BlogAvatar
+              monochrome={true}
+              name="kotaku"
+              size={22}
+            />
+          </footerNetwork__FooterNetworkBrand>
+        </Link>
+      </li>
+      <li
+        key="lifehacker"
+      >
+        <Link
+          events={
+            Array [
+              Array [
+                "Footer",
+                "click",
+                "lifehacker logo",
+                Object {
+                  "metric21": 1,
+                },
+              ],
+            ]
+          }
+          href="//lifehacker.com"
+          onClick={[Function]}
+          rel="noopener"
+          target="_blank"
+        >
+          <footerNetwork__FooterNetworkBrand>
+            <BlogAvatar
+              monochrome={true}
+              name="lifehacker"
+              size={22}
+            />
+          </footerNetwork__FooterNetworkBrand>
+        </Link>
+      </li>
+      <li
+        key="theroot"
+      >
+        <Link
+          events={
+            Array [
+              Array [
+                "Footer",
+                "click",
+                "theroot logo",
+                Object {
+                  "metric21": 1,
+                },
+              ],
+            ]
+          }
+          href="//theroot.com"
+          onClick={[Function]}
+          rel="noopener"
+          target="_blank"
+        >
+          <footerNetwork__FooterNetworkBrand>
+            <BlogAvatar
+              monochrome={true}
+              name="theroot"
+              size={22}
+            />
+          </footerNetwork__FooterNetworkBrand>
+        </Link>
+      </li>
+      <li
+        key="thetakeout"
+      >
+        <Link
+          events={
+            Array [
+              Array [
+                "Footer",
+                "click",
+                "thetakeout logo",
+                Object {
+                  "metric21": 1,
+                },
+              ],
+            ]
+          }
+          href="//thetakeout.com"
+          onClick={[Function]}
+          rel="noopener"
+          target="_blank"
+        >
+          <footerNetwork__FooterNetworkBrand>
+            <BlogAvatar
+              monochrome={true}
+              name="thetakeout"
+              size={22}
+            />
+          </footerNetwork__FooterNetworkBrand>
+        </Link>
+      </li>
+      <li
+        key="theonion"
+      >
+        <Link
+          events={
+            Array [
+              Array [
+                "Footer",
+                "click",
+                "theonion logo",
+                Object {
+                  "metric21": 1,
+                },
+              ],
+            ]
+          }
+          href="//theonion.com"
+          onClick={[Function]}
+          rel="noopener"
+          target="_blank"
+        >
+          <footerNetwork__FooterNetworkBrand>
+            <BlogAvatar
+              monochrome={true}
+              name="theonion"
+              size={22}
+            />
+          </footerNetwork__FooterNetworkBrand>
+        </Link>
+      </li>
+      <li
+        key="theinventory"
+      >
+        <Link
+          events={
+            Array [
+              Array [
+                "Footer",
+                "click",
+                "theinventory logo",
+                Object {
+                  "metric21": 1,
+                },
+              ],
+            ]
+          }
+          href="//theinventory.com"
+          onClick={[Function]}
+          rel="noopener"
+          target="_blank"
+        >
+          <footerNetwork__FooterNetworkBrand>
+            <BlogAvatar
+              monochrome={true}
+              name="theinventory"
+              size={22}
+            />
+          </footerNetwork__FooterNetworkBrand>
+        </Link>
+      </li>
+    </footerLinks__FooterList>
+  </footerNetwork__FooterNetworkWrap>
+</EnsureDefaultTheme>
+`;
+
+exports[`<FooterNetwork /> doesn't render a network link to the current blog 1`] = `
+<EnsureDefaultTheme>
+  <footerNetwork__FooterNetworkWrap>
+    <footerNetwork__FooterNetworkLabel>
+      More from our network
+    </footerNetwork__FooterNetworkLabel>
+    <footerLinks__FooterList>
+      <li
+        key="avclub"
+      >
+        <Link
+          events={
+            Array [
+              Array [
+                "Footer",
+                "click",
+                "avclub logo",
+                Object {
+                  "metric21": 1,
+                },
+              ],
+            ]
+          }
+          href="//avclub.com"
+          onClick={[Function]}
+          rel="noopener"
+          target="_blank"
+        >
+          <footerNetwork__FooterNetworkBrand>
+            <BlogAvatar
+              monochrome={true}
+              name="avclub"
+              size={22}
+            />
+          </footerNetwork__FooterNetworkBrand>
+        </Link>
+      </li>
+      <li
+        key="gizmodo"
+      >
+        <Link
+          events={
+            Array [
+              Array [
+                "Footer",
+                "click",
+                "gizmodo logo",
+                Object {
+                  "metric21": 1,
+                },
+              ],
+            ]
+          }
+          href="//gizmodo.com"
+          onClick={[Function]}
+          rel="noopener"
+          target="_blank"
+        >
+          <footerNetwork__FooterNetworkBrand>
+            <BlogAvatar
+              monochrome={true}
+              name="gizmodo"
+              size={22}
+            />
+          </footerNetwork__FooterNetworkBrand>
+        </Link>
+      </li>
+      <li
+        key="jalopnik"
+      >
+        <Link
+          events={
+            Array [
+              Array [
+                "Footer",
+                "click",
+                "jalopnik logo",
+                Object {
+                  "metric21": 1,
+                },
+              ],
+            ]
+          }
+          href="//jalopnik.com"
+          onClick={[Function]}
+          rel="noopener"
+          target="_blank"
+        >
+          <footerNetwork__FooterNetworkBrand>
+            <BlogAvatar
+              monochrome={true}
+              name="jalopnik"
+              size={22}
+            />
+          </footerNetwork__FooterNetworkBrand>
+        </Link>
+      </li>
+      <li
+        key="jezebel"
+      >
+        <Link
+          events={
+            Array [
+              Array [
+                "Footer",
+                "click",
+                "jezebel logo",
+                Object {
+                  "metric21": 1,
+                },
+              ],
+            ]
+          }
+          href="//jezebel.com"
+          onClick={[Function]}
+          rel="noopener"
+          target="_blank"
+        >
+          <footerNetwork__FooterNetworkBrand>
+            <BlogAvatar
+              monochrome={true}
+              name="jezebel"
+              size={22}
+            />
+          </footerNetwork__FooterNetworkBrand>
+        </Link>
+      </li>
+      <li
+        key="kotaku"
+      >
+        <Link
+          events={
+            Array [
+              Array [
+                "Footer",
+                "click",
+                "kotaku logo",
+                Object {
+                  "metric21": 1,
+                },
+              ],
+            ]
+          }
+          href="//kotaku.com"
+          onClick={[Function]}
+          rel="noopener"
+          target="_blank"
+        >
+          <footerNetwork__FooterNetworkBrand>
+            <BlogAvatar
+              monochrome={true}
+              name="kotaku"
+              size={22}
+            />
+          </footerNetwork__FooterNetworkBrand>
+        </Link>
+      </li>
+      <li
+        key="lifehacker"
+      >
+        <Link
+          events={
+            Array [
+              Array [
+                "Footer",
+                "click",
+                "lifehacker logo",
+                Object {
+                  "metric21": 1,
+                },
+              ],
+            ]
+          }
+          href="//lifehacker.com"
+          onClick={[Function]}
+          rel="noopener"
+          target="_blank"
+        >
+          <footerNetwork__FooterNetworkBrand>
+            <BlogAvatar
+              monochrome={true}
+              name="lifehacker"
+              size={22}
+            />
+          </footerNetwork__FooterNetworkBrand>
+        </Link>
+      </li>
+      <li
+        key="theroot"
+      >
+        <Link
+          events={
+            Array [
+              Array [
+                "Footer",
+                "click",
+                "theroot logo",
+                Object {
+                  "metric21": 1,
+                },
+              ],
+            ]
+          }
+          href="//theroot.com"
+          onClick={[Function]}
+          rel="noopener"
+          target="_blank"
+        >
+          <footerNetwork__FooterNetworkBrand>
+            <BlogAvatar
+              monochrome={true}
+              name="theroot"
+              size={22}
+            />
+          </footerNetwork__FooterNetworkBrand>
+        </Link>
+      </li>
+      <li
+        key="thetakeout"
+      >
+        <Link
+          events={
+            Array [
+              Array [
+                "Footer",
+                "click",
+                "thetakeout logo",
+                Object {
+                  "metric21": 1,
+                },
+              ],
+            ]
+          }
+          href="//thetakeout.com"
+          onClick={[Function]}
+          rel="noopener"
+          target="_blank"
+        >
+          <footerNetwork__FooterNetworkBrand>
+            <BlogAvatar
+              monochrome={true}
+              name="thetakeout"
+              size={22}
+            />
+          </footerNetwork__FooterNetworkBrand>
+        </Link>
+      </li>
+      <li
+        key="theonion"
+      >
+        <Link
+          events={
+            Array [
+              Array [
+                "Footer",
+                "click",
+                "theonion logo",
+                Object {
+                  "metric21": 1,
+                },
+              ],
+            ]
+          }
+          href="//theonion.com"
+          onClick={[Function]}
+          rel="noopener"
+          target="_blank"
+        >
+          <footerNetwork__FooterNetworkBrand>
+            <BlogAvatar
+              monochrome={true}
+              name="theonion"
+              size={22}
+            />
+          </footerNetwork__FooterNetworkBrand>
+        </Link>
+      </li>
+      <li
+        key="theinventory"
+      >
+        <Link
+          events={
+            Array [
+              Array [
+                "Footer",
+                "click",
+                "theinventory logo",
+                Object {
+                  "metric21": 1,
+                },
+              ],
+            ]
+          }
+          href="//theinventory.com"
+          onClick={[Function]}
+          rel="noopener"
+          target="_blank"
+        >
+          <footerNetwork__FooterNetworkBrand>
+            <BlogAvatar
+              monochrome={true}
+              name="theinventory"
+              size={22}
+            />
+          </footerNetwork__FooterNetworkBrand>
+        </Link>
+      </li>
+    </footerLinks__FooterList>
+  </footerNetwork__FooterNetworkWrap>
+</EnsureDefaultTheme>
+`;

@@ -1,0 +1,111 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Page layout/Horizontal ad container should render 1`] = `
+<HorizontalAdContainer>
+  <EnsureDefaultTheme>
+    <ThemeProvider
+      theme={[Function]}
+    />
+  </EnsureDefaultTheme>
+</HorizontalAdContainer>
+`;
+
+exports[`Page layout/Horizontal ad container should render with an ad 1`] = `
+.c0 {
+  background-color: inherit;
+}
+
+.c0 .ad-container[data-ad-load-state=loaded] div iframe {
+  margin: 0 auto;
+}
+
+.c0 .ad-container[data-ad-load-state=loaded] > div {
+  width: 100% !important;
+}
+
+@media only screen and (max-width:63.69em) {
+  .c0 {
+    display: none;
+  }
+}
+
+<HorizontalAdContainer
+  desktopAd={<SplashyTop />}
+>
+  <EnsureDefaultTheme>
+    <ThemeProvider
+      theme={[Function]}
+    >
+      <horizontal-ad-container__DesktopHorizontalAdContainer>
+        <StyledComponent
+          forwardedComponent={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": Array [],
+              "componentStyle": ComponentStyle {
+                "componentId": "horizontal-ad-container__DesktopHorizontalAdContainer-sc-1jotqfp-2",
+                "isStatic": false,
+                "lastClassName": "c0",
+                "rules": Array [
+                  "background-color:",
+                  [Function],
+                  ";",
+                  [Function],
+                  ";& .ad-container[data-ad-load-state=loaded] div iframe{margin:0 auto;}& .ad-container[data-ad-load-state=loaded] > div{width:100% !important;}",
+                  "@media only screen and ",
+                  "(max-width: 63.69em)",
+                  "{",
+                  "
+		display: none;
+	",
+                  "}",
+                ],
+              },
+              "displayName": "horizontal-ad-container__DesktopHorizontalAdContainer",
+              "foldedComponentIds": Array [
+                "horizontal-ad-container__Wrapper-sc-1jotqfp-0",
+              ],
+              "render": [Function],
+              "styledComponentId": "horizontal-ad-container__DesktopHorizontalAdContainer-sc-1jotqfp-2",
+              "target": "div",
+              "toString": [Function],
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+        >
+          <div
+            className="c0"
+          >
+            <SplashyTop>
+              <div
+                className="splashy-ad-container no-overflow"
+                id="splashy-ad-container-top"
+                style={
+                  Object {
+                    "display": "none",
+                  }
+                }
+              >
+                <AdSlot
+                  cssClass="splashy-top"
+                  position="splashytop"
+                  type="SPLASHY_TOP"
+                >
+                  <div
+                    class="ad-container dfp dfp-slot-SPLASHY_TOP ad-splashy-top"
+                    data-ad-unit="SPLASHY_TOP"
+                    data-targeting="{\\"pos\\":\\"splashytop\\"}"
+                    is="bulbs-dfp"
+                  />
+                </AdSlot>
+              </div>
+            </SplashyTop>
+          </div>
+        </StyledComponent>
+      </horizontal-ad-container__DesktopHorizontalAdContainer>
+    </ThemeProvider>
+  </EnsureDefaultTheme>
+</HorizontalAdContainer>
+`;

@@ -1,0 +1,63 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<VideoPlaylistDetail /> should render by default 1`] = `
+<video-playlist-detail__DetailContainer>
+  <video-playlist-detail__LeftItems>
+    <video-playlist-detail__LeftItemsActions>
+      <video-playlist-detail__ItemAction
+        icon={<ArrowLeftIcon />}
+        label="Back to playlists"
+        labelPosition="after"
+        onClick={[Function]}
+        variant="secondary"
+      />
+      <video-playlist-detail__PlaylistName>
+        Evergreen vids
+      </video-playlist-detail__PlaylistName>
+      <video-playlist-detail__ItemAction
+        icon={<CheckmarkIcon />}
+        label="Save"
+        labelPosition="after"
+        onClick={[Function]}
+        variant="primary"
+      />
+    </video-playlist-detail__LeftItemsActions>
+    <video-playlist-detail__LeftItemsStats>
+      <video-playlist-detail__LeftItemStatsColumn>
+        <video-playlist-detail__LeftItemTitle>
+          Length
+        </video-playlist-detail__LeftItemTitle>
+        <video-playlist-detail__LeftItemTitle>
+          Last updated
+        </video-playlist-detail__LeftItemTitle>
+        <video-playlist-detail__LeftItemTitle>
+          Oldest video
+        </video-playlist-detail__LeftItemTitle>
+      </video-playlist-detail__LeftItemStatsColumn>
+      <video-playlist-detail__LeftItemStatsColumn>
+        <video-playlist-detail__PlaylistLength>
+          1s
+           (
+          8
+           videos)
+        </video-playlist-detail__PlaylistLength>
+        <video-playlist-detail__PlaylistLastUpdated>
+          10/31/19 1:30PM
+        </video-playlist-detail__PlaylistLastUpdated>
+        <video-playlist-detail__PlaylistOldestVideo>
+          -698 days old
+        </video-playlist-detail__PlaylistOldestVideo>
+      </video-playlist-detail__LeftItemStatsColumn>
+    </video-playlist-detail__LeftItemsStats>
+  </video-playlist-detail__LeftItems>
+  <video-playlist-detail__RightItems>
+    <video-playlist-detail__ItemAction
+      icon={<PlusIcon />}
+      label="Add video"
+      labelPosition="after"
+      onClick={[Function]}
+      variant="primary"
+    />
+  </video-playlist-detail__RightItems>
+</video-playlist-detail__DetailContainer>
+`;

@@ -1,0 +1,707 @@
+{
+  "membership": [
+    {
+      "authorId": "961802763",
+      "userId": "961802763",
+      "blogId": 961802773,
+      "role": "OWNER",
+      "blog": {
+        "id": 961802773,
+        "name": "moimikey",
+        "displayName": "MSH",
+        "blogGroup": null,
+        "canonicalHost": "moimikey.kinja.com",
+        "hosts": [],
+        "status": "ENABLED",
+        "timezone": "America/New_York",
+        "timezoneOffset": -18000000,
+        "avatar": null,
+        "isGmgBlog": false
+      }
+    },
+    {
+      "authorId": "961802763",
+      "userId": "961802763",
+      "blogId": 9,
+      "role": "ADMIN",
+      "blog": {
+        "id": 9,
+        "name": "kotaku",
+        "displayName": "Kotaku",
+        "blogGroup": "kotaku",
+        "canonicalHost": "kotaku.com",
+        "hosts": [
+          "ru.kotaku.com",
+          "au.kotaku.com",
+          "de.kotaku.com",
+          "uk.kotaku.com",
+          "kotaku.kinja.com",
+          "us.kotaku.com",
+          "br.kotaku.com",
+          "pl.kotaku.com",
+          "blog.kotaku.com",
+          "nl.kotaku.com",
+          "ca.kotaku.com",
+          "kotak.us",
+          "www.kotaku.com",
+          "es.kotaku.com",
+          "fetch.kotaku.com",
+          "m.kotaku.com",
+          "assets.kotaku.com"
+        ],
+        "status": "ENABLED",
+        "timezone": "America/New_York",
+        "timezoneOffset": -18000000,
+        "avatar": {
+          "id": "q7zwusd8shuags0nnpk5",
+          "format": "png"
+        },
+        "isGmgBlog": true
+      }
+    },
+    {
+      "authorId": "961802763",
+      "userId": "961802763",
+      "blogId": 1633980057,
+      "role": "AUTHOR",
+      "blog": {
+        "id": 1633980057,
+        "name": "thebests",
+        "displayName": "The Bests",
+        "blogGroup": "kotaku",
+        "canonicalHost": "thebests.kotaku.com",
+        "hosts": [
+          "thebests.kinja.com",
+          "thebest.kotaku.com"
+        ],
+        "status": "ENABLED",
+        "timezone": "America/New_York",
+        "timezoneOffset": -18000000,
+        "avatar": {
+          "id": "ncjew2plpihk2rfdipe2",
+          "format": "png"
+        },
+        "isGmgBlog": false
+      }
+    },
+    {
+      "authorId": "961802763",
+      "userId": "961802763",
+      "blogId": 1634338914,
+      "role": "AUTHOR",
+      "blog": {
+        "id": 1634338914,
+        "name": "steamed",
+        "displayName": "Steamed",
+        "blogGroup": "kotaku",
+        "canonicalHost": "steamed.kotaku.com",
+        "hosts": [
+          "steamed.kinja.com"
+        ],
+        "status": "ENABLED",
+        "timezone": "America/New_York",
+        "timezoneOffset": -18000000,
+        "avatar": {
+          "id": "niekctpx6cqb1sizlvgl",
+          "format": "png"
+        },
+        "isGmgBlog": false
+      }
+    },
+    {
+      "authorId": "961802763",
+      "userId": "961802763",
+      "blogId": 1538697436,
+      "role": "AUTHOR",
+      "blog": {
+        "id": 1538697436,
+        "name": "cosplay",
+        "displayName": "Cosplay",
+        "blogGroup": "kotaku",
+        "canonicalHost": "cosplay.kotaku.com",
+        "hosts": [
+          "cosplay.kinja.com"
+        ],
+        "status": "ENABLED",
+        "timezone": "America/New_York",
+        "timezoneOffset": -18000000,
+        "avatar": {
+          "id": "ezm8ghxeumvswd9ksrmi",
+          "format": "png"
+        },
+        "isGmgBlog": false
+      }
+    },
+    {
+      "authorId": "961802763",
+      "userId": "961802763",
+      "blogId": 1635878282,
+      "role": "OWNER",
+      "blog": {
+        "id": 1635878282,
+        "name": "testblog666",
+        "displayName": "testblog666",
+        "blogGroup": null,
+        "canonicalHost": "testblog666.kinja.com",
+        "hosts": [],
+        "status": "ENABLED",
+        "timezone": "America/New_York",
+        "timezoneOffset": -18000000,
+        "avatar": null,
+        "isGmgBlog": false
+      }
+    },
+    {
+      "authorId": "961802763",
+      "userId": "961802763",
+      "blogId": 464,
+      "role": "ADMIN",
+      "blog": {
+        "id": 464,
+        "name": "test",
+        "displayName": "Test",
+        "blogGroup": "test",
+        "canonicalHost": "test.kinja.com",
+        "hosts": [],
+        "status": "ENABLED",
+        "timezone": "America/New_York",
+        "timezoneOffset": -18000000,
+        "avatar": {
+          "id": "knzcmreugycbyzgzpzyy",
+          "format": "png"
+        },
+        "isGmgBlog": true
+      }
+    },
+    {
+      "authorId": "961802763",
+      "userId": "961802763",
+      "blogId": 1635889143,
+      "role": "AUTHOR",
+      "blog": {
+        "id": 1635889143,
+        "name": "compete",
+        "displayName": "Compete",
+        "blogGroup": "kotaku",
+        "canonicalHost": "compete.kotaku.com",
+        "hosts": [
+          "compete.kinja.com"
+        ],
+        "status": "ENABLED",
+        "timezone": "America/New_York",
+        "timezoneOffset": -18000000,
+        "avatar": {
+          "id": "vubzifzigsnqlmsbkeew",
+          "format": "png"
+        },
+        "isGmgBlog": false
+      }
+    },
+    {
+      "authorId": "961802763",
+      "userId": "961802763",
+      "blogId": 1636001274,
+      "role": "OWNER",
+      "blog": {
+        "id": 1636001274,
+        "name": "i-test-cthulhu",
+        "displayName": "i-test-cthulhu",
+        "blogGroup": null,
+        "canonicalHost": "i-test-cthulhu.kinja.com",
+        "hosts": [],
+        "status": "ENABLED",
+        "timezone": "America/New_York",
+        "timezoneOffset": -18000000,
+        "avatar": null,
+        "isGmgBlog": false
+      }
+    },
+    {
+      "authorId": "961802763",
+      "userId": "961802763",
+      "blogId": 1636001275,
+      "role": "OWNER",
+      "blog": {
+        "id": 1636001275,
+        "name": "testing15",
+        "displayName": "testing15",
+        "blogGroup": null,
+        "canonicalHost": "testing15.kinja.com",
+        "hosts": [],
+        "status": "ENABLED",
+        "timezone": "America/New_York",
+        "timezoneOffset": -18000000,
+        "avatar": null,
+        "isGmgBlog": false
+      }
+    },
+    {
+      "authorId": "961802763",
+      "userId": "961802763",
+      "blogId": 1636470406,
+      "role": "OWNER",
+      "blog": {
+        "id": 1636470406,
+        "name": "cthulhu-central",
+        "displayName": "Cthulhu Central",
+        "blogGroup": null,
+        "canonicalHost": "cthulhu-central.kinja.com",
+        "hosts": [],
+        "status": "ENABLED",
+        "timezone": "America/New_York",
+        "timezoneOffset": -18000000,
+        "avatar": null,
+        "isGmgBlog": false
+      }
+    },
+    {
+      "authorId": "961802763",
+      "userId": "961802763",
+      "blogId": 1636136519,
+      "role": "AUTHOR",
+      "blog": {
+        "id": 1636136519,
+        "name": "verysmartbrothas",
+        "displayName": "Very Smart Brothas",
+        "blogGroup": "theroot",
+        "canonicalHost": "verysmartbrothas.theroot.com",
+        "hosts": [
+          "verysmartbrothas.kinja.com",
+          "verysmartbrothas.com"
+        ],
+        "status": "ENABLED",
+        "timezone": "America/New_York",
+        "timezoneOffset": -18000000,
+        "avatar": {
+          "id": "mrxkrd0k9eyejiyzqwzf",
+          "format": "png"
+        },
+        "isGmgBlog": true
+      }
+    },
+    {
+      "authorId": "961802763",
+      "userId": "961802763",
+      "blogId": 1635821517,
+      "role": "AUTHOR",
+      "blog": {
+        "id": 1635821517,
+        "name": "theroot",
+        "displayName": "The Root",
+        "blogGroup": "theroot",
+        "canonicalHost": "www.theroot.com",
+        "hosts": [
+          "theroot.com",
+          "theroot.kinja.com"
+        ],
+        "status": "ENABLED",
+        "timezone": "America/New_York",
+        "timezoneOffset": -18000000,
+        "avatar": {
+          "id": "f5zr3vuc90hrpnmx0nme",
+          "format": "png"
+        },
+        "isGmgBlog": true
+      }
+    },
+    {
+      "authorId": "961802763",
+      "userId": "961802763",
+      "blogId": 1635821522,
+      "role": "AUTHOR",
+      "blog": {
+        "id": 1635821522,
+        "name": "journalisms",
+        "displayName": "Journal-isms",
+        "blogGroup": "theroot",
+        "canonicalHost": "journalisms.theroot.com",
+        "hosts": [
+          "journalisms.kinja.com"
+        ],
+        "status": "ENABLED",
+        "timezone": "America/New_York",
+        "timezoneOffset": -18000000,
+        "avatar": {
+          "id": "zvz9reyveszwcyzpnzya",
+          "format": "png"
+        },
+        "isGmgBlog": false
+      }
+    },
+    {
+      "authorId": "961802763",
+      "userId": "961802763",
+      "blogId": 1635821520,
+      "role": "AUTHOR",
+      "blog": {
+        "id": 1635821520,
+        "name": "thegrapevine",
+        "displayName": "The Grapevine",
+        "blogGroup": "theroot",
+        "canonicalHost": "thegrapevine.theroot.com",
+        "hosts": [
+          "thegrapevine.kinja.com"
+        ],
+        "status": "ENABLED",
+        "timezone": "America/New_York",
+        "timezoneOffset": -18000000,
+        "avatar": {
+          "id": "efwyyktzi0a3tvjdgowk",
+          "format": "png"
+        },
+        "isGmgBlog": true
+      }
+    },
+    {
+      "authorId": "961802763",
+      "userId": "961802763",
+      "blogId": 1635905622,
+      "role": "AUTHOR",
+      "blog": {
+        "id": 1635905622,
+        "name": "youngfuturists",
+        "displayName": "Young Futurists",
+        "blogGroup": "theroot",
+        "canonicalHost": "youngfuturists.theroot.com",
+        "hosts": [
+          "youngfuturists.kinja.com"
+        ],
+        "status": "ENABLED",
+        "timezone": "America/New_York",
+        "timezoneOffset": -18000000,
+        "avatar": null,
+        "isGmgBlog": false
+      }
+    },
+    {
+      "authorId": "961802763",
+      "userId": "961802763",
+      "blogId": 1636460307,
+      "role": "ADMIN",
+      "blog": {
+        "id": 1636460307,
+        "name": "catapult",
+        "displayName": "Catapult",
+        "blogGroup": null,
+        "canonicalHost": "catapult.kinja.com",
+        "hosts": [],
+        "status": "ENABLED",
+        "timezone": "America/New_York",
+        "timezoneOffset": -18000000,
+        "avatar": {
+          "id": "yhwo6ncvohgoz0jvmwae",
+          "format": "png"
+        },
+        "isGmgBlog": true
+      }
+    },
+    {
+      "authorId": "961802763",
+      "userId": "961802763",
+      "blogId": 1535289086,
+      "role": "ADMIN",
+      "blog": {
+        "id": 1535289086,
+        "name": "twocents",
+        "displayName": "Two Cents",
+        "blogGroup": "lifehacker",
+        "canonicalHost": "twocents.lifehacker.com",
+        "hosts": [
+          "twocents.kinja.com"
+        ],
+        "status": "ENABLED",
+        "timezone": "America/New_York",
+        "timezoneOffset": -18000000,
+        "avatar": {
+          "id": "bj3uelb6lpo9ilwi2bgf",
+          "format": "png"
+        },
+        "isGmgBlog": false
+      }
+    },
+    {
+      "authorId": "961802763",
+      "userId": "961802763",
+      "blogId": 17,
+      "role": "ADMIN",
+      "blog": {
+        "id": 17,
+        "name": "lifehacker",
+        "displayName": "Lifehacker",
+        "blogGroup": "lifehacker",
+        "canonicalHost": "lifehacker.com",
+        "hosts": [
+          "lifehacker.kinja.com",
+          "m.lifehacker.com",
+          "pl.lifehacker.com",
+          "ca.lifehacker.com",
+          "uk.lifehacker.com",
+          "br.lifehacker.com",
+          "lifehacker.co.in",
+          "www.lifehacker.com",
+          "de.lifehacker.com",
+          "au.lifehacker.com",
+          "es.lifehacker.com",
+          "ru.lifehacker.com",
+          "blog.lifehacker.com",
+          "nl.lifehacker.com",
+          "assets.lifehacker.com",
+          "us.lifehacker.com",
+          "fetch.lifehacker.com"
+        ],
+        "status": "ENABLED",
+        "timezone": "America/New_York",
+        "timezoneOffset": -18000000,
+        "avatar": {
+          "id": "u0939doeuioaqhspkjyc",
+          "format": "png"
+        },
+        "isGmgBlog": true
+      }
+    },
+    {
+      "authorId": "961802763",
+      "userId": "961802763",
+      "blogId": 1634294947,
+      "role": "ADMIN",
+      "blog": {
+        "id": 1634294947,
+        "name": "vitals",
+        "displayName": "Vitals",
+        "blogGroup": "lifehacker",
+        "canonicalHost": "vitals.lifehacker.com",
+        "hosts": [
+          "vitals.kinja.com"
+        ],
+        "status": "ENABLED",
+        "timezone": "America/New_York",
+        "timezoneOffset": -18000000,
+        "avatar": {
+          "id": "xqca8m8uizcp653gvdzp",
+          "format": "png"
+        },
+        "isGmgBlog": false
+      }
+    },
+    {
+      "authorId": "961802763",
+      "userId": "961802763",
+      "blogId": 1458353822,
+      "role": "ADMIN",
+      "blog": {
+        "id": 1458353822,
+        "name": "gear",
+        "displayName": "Gear",
+        "blogGroup": "lifehacker",
+        "canonicalHost": "gear.lifehacker.com",
+        "hosts": [
+          "gear.kinja.com",
+          "bestsellers.kinja.com",
+          "co-op.kinja.com"
+        ],
+        "status": "ENABLED",
+        "timezone": "America/New_York",
+        "timezoneOffset": -18000000,
+        "avatar": {
+          "id": "nnak0ogtqbt96hhn2yzn",
+          "format": "png"
+        },
+        "isGmgBlog": true
+      }
+    },
+    {
+      "authorId": "961802763",
+      "userId": "961802763",
+      "blogId": 1634384901,
+      "role": "ADMIN",
+      "blog": {
+        "id": 1634384901,
+        "name": "lhskillet",
+        "displayName": "Skillet",
+        "blogGroup": "lifehacker",
+        "canonicalHost": "skillet.lifehacker.com",
+        "hosts": [
+          "lhskillet.lifehacker.com",
+          "skillet.kinja.com"
+        ],
+        "status": "ENABLED",
+        "timezone": "America/New_York",
+        "timezoneOffset": -18000000,
+        "avatar": {
+          "id": "tb7re29cf292ybd4smoo",
+          "format": "png"
+        },
+        "isGmgBlog": false
+      }
+    },
+    {
+      "authorId": "961802763",
+      "userId": "961802763",
+      "blogId": 1636040027,
+      "role": "ADMIN",
+      "blog": {
+        "id": 1636040027,
+        "name": "offspring",
+        "displayName": "Offspring",
+        "blogGroup": "lifehacker",
+        "canonicalHost": "offspring.lifehacker.com",
+        "hosts": [
+          "offspring.kinja.com"
+        ],
+        "status": "ENABLED",
+        "timezone": "America/New_York",
+        "timezoneOffset": -18000000,
+        "avatar": {
+          "id": "q5hdvrljln682yskss8v",
+          "format": "png"
+        },
+        "isGmgBlog": false
+      }
+    },
+    {
+      "authorId": "961802763",
+      "userId": "961802763",
+      "blogId": 1636140418,
+      "role": "ADMIN",
+      "blog": {
+        "id": 1636140418,
+        "name": "thetakeout",
+        "displayName": "The Takeout",
+        "blogGroup": "thetakeout",
+        "canonicalHost": "thetakeout.com",
+        "hosts": [
+          "food.avclub.com",
+          "thetakeout.kinja.com",
+          "avfood.kinja.com"
+        ],
+        "status": "ENABLED",
+        "timezone": "America/Chicago",
+        "timezoneOffset": -21600000,
+        "avatar": {
+          "id": "j59upeyynundqjvbmcwj",
+          "format": "png"
+        },
+        "isGmgBlog": true
+      }
+    },
+    {
+      "authorId": "961802763",
+      "userId": "961802763",
+      "blogId": 12,
+      "role": "ADMIN",
+      "blog": {
+        "id": 12,
+        "name": "jalopnik",
+        "displayName": "Jalopnik",
+        "blogGroup": "jalopnik",
+        "canonicalHost": "jalopnik.com",
+        "hosts": [
+          "de.jalopnik.com",
+          "m.jalopnik.com",
+          "jalopnik.kinja.com",
+          "es.jalopnik.com",
+          "assets.jalopnik.com",
+          "uk.jalopnik.com",
+          "ca.jalopnik.com",
+          "nl.jalopnik.com",
+          "fetch.jalopnik.com",
+          "br.jalopnik.com",
+          "blog.jalopnik.com",
+          "www.jalopnik.com",
+          "ru.jalopnik.com",
+          "pl.jalopnik.com",
+          "au.jalopnik.com",
+          "us.jalopnik.com"
+        ],
+        "status": "ENABLED",
+        "timezone": "America/New_York",
+        "timezoneOffset": -18000000,
+        "avatar": {
+          "id": "aqhdzcldymb9mkltfhxh",
+          "format": "png"
+        },
+        "isGmgBlog": true
+      }
+    },
+    {
+      "authorId": "961802763",
+      "userId": "961802763",
+      "blogId": 1527265188,
+      "role": "ADMIN",
+      "blog": {
+        "id": 1527265188,
+        "name": "foxtrotalpha",
+        "displayName": "Foxtrot Alpha",
+        "blogGroup": "jalopnik",
+        "canonicalHost": "foxtrotalpha.jalopnik.com",
+        "hosts": [
+          "foxtrotalpha.kinja.com"
+        ],
+        "status": "ENABLED",
+        "timezone": "America/New_York",
+        "timezoneOffset": -18000000,
+        "avatar": {
+          "id": "vhag2zwbtvwjv8iyhzpp",
+          "format": "png"
+        },
+        "isGmgBlog": false
+      }
+    },
+    {
+      "authorId": "961802763",
+      "userId": "961802763",
+      "blogId": 1636464432,
+      "role": "AUTHOR",
+      "blog": {
+        "id": 1636464432,
+        "name": "theglowup",
+        "displayName": "The Glow Up",
+        "blogGroup": "theroot",
+        "canonicalHost": "theglowup.theroot.com",
+        "hosts": [
+          "theglowup.kinja.com"
+        ],
+        "status": "ENABLED",
+        "timezone": "America/New_York",
+        "timezoneOffset": -18000000,
+        "avatar": {
+          "id": "zbppt0tcszexcjy16opj",
+          "format": "png"
+        },
+        "isGmgBlog": true
+      }
+    }
+  ],
+  "id": "961802763",
+  "displayName": "aDisplayName",
+  "screenName": "moimikey",
+  "followedBlogIds": [],
+  "followedAuthorIds": [
+    "5876237249237685552"
+  ],
+  "avatar": {
+    "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,fl_progressive,g_center,h_120,q_80,w_120/e8hjzrywjyu8eyhkeppp.jpg",
+    "id": "e8hjzrywjyu8eyhkeppp",
+    "format": "jpg"
+  },
+  "authorId": "961802763",
+  "authType": 1,
+  "authName": "facebook",
+  "createdMillis": 1375193384000,
+  "updatedMillis": 1519678055000,
+  "status": "enabled",
+  "defaultBlogId": 961802773,
+  "isSuperuser": true,
+  "isSales": false,
+  "isGmgMember": true,
+  "remotes": {
+    "facebook": {
+      "enabled": true
+    },
+    "google": {
+      "enabled": true
+    }
+  },
+  "confirmedEmail": "mshertzberg@gmail.com",
+  "token": "7e995c76-f0ae-4494-b235-b6dc7040a629-0-c0aa8d933a04aa70ac978d7bed61c64cfaab0569"
+}

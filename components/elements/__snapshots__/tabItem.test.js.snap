@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tabs should contain count 1`] = `
+<tabItem__TabListElement>
+  <tabItem__TabLink
+    onClick={[Function]}
+    role="link"
+    tabIndex={1}
+    value=""
+  >
+    angry men
+     (12)
+  </tabItem__TabLink>
+</tabItem__TabListElement>
+`;
+
+exports[`Tabs should not contain count 1`] = `
+<tabItem__TabListElement>
+  <tabItem__TabLink
+    onClick={[Function]}
+    role="link"
+    tabIndex={1}
+    value=""
+  >
+    angry men
+  </tabItem__TabLink>
+</tabItem__TabListElement>
+`;
+
+exports[`Tabs should not render when hidden 1`] = `""`;
+
+exports[`Tabs should render an item 1`] = `
+<tabItem__TabListElement>
+  <tabItem__TabLink
+    onClick={[Function]}
+    role="link"
+    tabIndex={1}
+    value="test"
+  >
+    hello
+  </tabItem__TabLink>
+</tabItem__TabListElement>
+`;

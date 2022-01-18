@@ -1,0 +1,144 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Iframe /> in editor should render custom dimensions iframe 1`] = `
+<aside
+  class="embed-iframe embed-inset--show-overlay"
+  contenteditable="false"
+>
+  <kinja-sandbox
+    class="wysiwyg-embed"
+    contenteditable="false"
+  >
+    <iframe
+      class="custom"
+      height="450px"
+      scrolling="no"
+      src="/proxy/iframe?url=https%3A%2F%2Fexample.com"
+      width="800px"
+    />
+  </kinja-sandbox>
+</aside>
+`;
+
+exports[`<Iframe /> in editor should render custom dimensions iframe, percentage width 1`] = `
+<aside
+  class="embed-iframe embed-inset--show-overlay"
+  contenteditable="false"
+>
+  <kinja-sandbox
+    class="wysiwyg-embed"
+    contenteditable="false"
+  >
+    <iframe
+      class="custom"
+      height="450px"
+      scrolling="auto"
+      src="/proxy/iframe?url=https%3A%2F%2Fexample.com"
+      width="100%"
+    />
+  </kinja-sandbox>
+</aside>
+`;
+
+exports[`<Iframe /> in editor should render custom dimensions iframe, scrollable 1`] = `
+<aside
+  class="embed-iframe embed-inset--show-overlay"
+  contenteditable="false"
+>
+  <kinja-sandbox
+    class="wysiwyg-embed"
+    contenteditable="false"
+  >
+    <iframe
+      class="custom"
+      height="450px"
+      scrolling="auto"
+      src="/proxy/iframe?url=https%3A%2F%2Fexample.com"
+      width="800px"
+    />
+  </kinja-sandbox>
+</aside>
+`;
+
+exports[`<Iframe /> in editor should render fixed aspect-ratio iframe 1`] = `
+<aside
+  class="embed-iframe embed-inset--show-overlay"
+  contenteditable="false"
+>
+  <kinja-sandbox
+    class="wysiwyg-embed"
+    contenteditable="false"
+  >
+    <iframe
+      class="aspect custom"
+      height="450px"
+      scrolling="no"
+      src="/proxy/iframe?url=https%3A%2F%2Fexample.com"
+      width="800px"
+    />
+  </kinja-sandbox>
+</aside>
+`;
+
+exports[`<Iframe /> in editor should render flex-video iframe 1`] = `
+<aside
+  class="embed-iframe embed-inset--show-overlay"
+  contenteditable="false"
+>
+  <kinja-sandbox
+    class="wysiwyg-embed"
+    contenteditable="false"
+  >
+    <iframe
+      class="flex"
+      height="450px"
+      scrolling="no"
+      src="/proxy/iframe?url=https%3A%2F%2Fexample.com"
+      width="800px"
+    />
+  </kinja-sandbox>
+</aside>
+`;
+
+exports[`<Iframe /> in editor should render flex-video iframe with thumbnail 1`] = `
+<aside
+  class="embed-iframe embed-inset--show-overlay"
+  contenteditable="false"
+  data-thumb-format="jpg"
+  data-thumb-id="image_id"
+>
+  <kinja-sandbox
+    class="wysiwyg-embed"
+    contenteditable="false"
+  >
+    <iframe
+      class="flex"
+      height="450px"
+      scrolling="no"
+      src="/proxy/iframe?imageExt=jpg&imageId=image_id&url=https%3A%2F%2Fexample.com"
+      width="800px"
+    />
+  </kinja-sandbox>
+</aside>
+`;
+
+exports[`<Iframe /> in editor should render flex-video iframe, insecure domain 1`] = `
+<aside
+  class="embed-iframe embed-inset--show-overlay embed-iframe__non-ssl"
+  contenteditable="false"
+>
+  <kinja-sandbox
+    class="wysiwyg-embed non-ssl-iframe"
+    contenteditable="false"
+  >
+    <iframe
+      class="flex"
+      data-insecure="true"
+      height="450px"
+      scrolling="no"
+      src="/proxy/iframe?url=http%3A%2F%2Fexample.com"
+      width="800px"
+    />
+  </kinja-sandbox>
+</aside>
+`;

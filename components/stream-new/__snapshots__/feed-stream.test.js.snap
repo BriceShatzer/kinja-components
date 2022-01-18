@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<FeedStream /> renders the feed correctly 1`] = `
+Array [
+  "<div class=\\"inline-ad-container inline-ad-container__OuterAdContainer-sc-1uhi1fe-0 fBJfjM\\"><p>Advertisement</p><div class=\\"inline-ad-container__FlexAdContainer-sc-1uhi1fe-2 DQzcX\\"><div><span type=\\"mobile ad\\"></span></div></div></div>",
+  "<div type=\\"post\\" position=\\"0\\"></div>",
+  "<div class=\\"inline-ad-container inline-ad-container__OuterAdContainer-sc-1uhi1fe-0 fBJfjM\\"><p>Advertisement</p><div class=\\"inline-ad-container__FlexAdContainer-sc-1uhi1fe-2 DQzcX\\"><div><span type=\\"mobile ad\\"></span></div></div></div>",
+  "<div class=\\"feed-stream__RecentVideoWrapper-cf6bg2-3 hLlOPn\\"><div class=\\"feed-stream__AsideContainer-cf6bg2-2 dLpdYx\\"><span class=\\"icon19__IconWrapper-iyvn34-0 ehKSmt\\"><svg xmlns=\\"http://www.w3.org/2000/svg\\" width=\\"24\\" height=\\"24\\" aria-label=\\"Video24 icon\\" viewBox=\\"0 0 24 24\\"><path fill-rule=\\"evenodd\\" d=\\"M21.47 1C22.87 1 24 2.12 24 3.5v16a2.5 2.5 0 0 1-2.53 2.5H2.53A2.51 2.51 0 0 1 0 19.5v-16A2.5 2.5 0 0 1 2.53 1h18.94zm0 1H2.53A1.5 1.5 0 0 0 1 3.5v16c0 .83.68 1.5 1.52 1.5h18.94A1.5 1.5 0 0 0 23 19.5v-16c0-.83-.68-1.5-1.52-1.5zM8.17 7.34c0-.95.8-1.4 1.6-.91l7.3 4.5c.61.36.61 1.11 0 1.48l-7.3 4.5c-.8.49-1.6.03-1.6-.91zm1.08-.06c-.13-.08-.08-.11-.08.06V16c0 .16-.05.13.08.05l7.13-4.38z\\"></path></svg></span></div><span type=\\"recent video\\"></span></div>",
+  "<div class=\\"feed-stream__NativeAdContainer-cf6bg2-0 tJLpv\\"><span type=\\"promotion\\" position=\\"1\\"></span></div>",
+  "<div type=\\"post\\" position=\\"1\\"></div>",
+  "<div class=\\"feed-stream__NativeAdContainer-cf6bg2-0 tJLpv\\"><span type=\\"promotion\\" position=\\"2\\"></span></div>",
+  "<div type=\\"post\\" position=\\"2\\"></div>",
+]
+`;

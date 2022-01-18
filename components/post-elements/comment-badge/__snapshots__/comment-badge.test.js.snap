@@ -1,0 +1,127 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<CommentBadge /> renders a comment icon with a count of 1K when \`count\` is 1000 1`] = `
+.c2 {
+  fill: currentColor;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.c4 {
+  font-size: 14px;
+  line-height: 18px;
+  color: #0A7BC2;
+}
+
+.c3 {
+  margin-left: 2px;
+}
+
+.c1 {
+  color: #0A7BC2;
+}
+
+<div
+  class="c0"
+>
+  <span
+    class="c1 c2"
+  >
+    <svg
+      aria-label="Bubble icon"
+      height="18"
+      viewBox="0 0 18 18"
+      width="18"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M5.59 12.69c.84.49.73 1.4-.08 2.95l.13-.1c.8-.58 1.84-1.47 1.96-1.65l.16-.23.28.05c.7.12 2.63 0 4.15-.54 2.4-.84 3.85-2.5 3.95-5.28.04-3.28-2.98-6.05-6.64-6.05-3.67 0-6.64 2.72-6.64 6.06 0 2.01.93 3.61 2.72 4.78zm-.46.71A6.33 6.33 0 0 1 2 7.9C2 4.08 5.36 1 9.5 1c4.13 0 7.55 3.14 7.5 6.91-.12 3.15-1.8 5.1-4.52 6.05-1.52.54-3.4.7-4.35.6-.4.41-1.25 1.13-1.98 1.66a5.6 5.6 0 0 1-1.19.72c-.78.26-.96-.38-.6-1.01.88-1.5 1.09-2.27.83-2.5l-.06-.03z"
+        fill-rule="evenodd"
+      />
+    </svg>
+  </span>
+  <div
+    class="c3"
+  />
+  <div
+    class="c4"
+  >
+    1.0K
+  </div>
+</div>
+`;
+
+exports[`<CommentBadge /> renders a comment icon without a count when zero 1`] = `
+.c2 {
+  fill: currentColor;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.c1 {
+  color: #0A7BC2;
+}
+
+<div
+  class="c0"
+>
+  <span
+    class="c1 c2"
+  >
+    <svg
+      aria-label="Bubble icon"
+      height="18"
+      viewBox="0 0 18 18"
+      width="18"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M5.59 12.69c.84.49.73 1.4-.08 2.95l.13-.1c.8-.58 1.84-1.47 1.96-1.65l.16-.23.28.05c.7.12 2.63 0 4.15-.54 2.4-.84 3.85-2.5 3.95-5.28.04-3.28-2.98-6.05-6.64-6.05-3.67 0-6.64 2.72-6.64 6.06 0 2.01.93 3.61 2.72 4.78zm-.46.71A6.33 6.33 0 0 1 2 7.9C2 4.08 5.36 1 9.5 1c4.13 0 7.55 3.14 7.5 6.91-.12 3.15-1.8 5.1-4.52 6.05-1.52.54-3.4.7-4.35.6-.4.41-1.25 1.13-1.98 1.66a5.6 5.6 0 0 1-1.19.72c-.78.26-.96-.38-.6-1.01.88-1.5 1.09-2.27.83-2.5l-.06-.03z"
+        fill-rule="evenodd"
+      />
+    </svg>
+  </span>
+</div>
+`;

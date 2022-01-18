@@ -1,0 +1,285 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<StoryTypeLabelWrapper /> should render by default 1`] = `
+.c2 {
+  font-family: ProximaNovaCond,sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #0A7BC2;
+  cursor: pointer;
+}
+
+.c2:hover {
+  color: #085c91;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  max-width: 100%;
+  overflow: hidden;
+}
+
+.c0:last-child {
+  margin-right: 0;
+}
+
+.c0 .c1 {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+<div
+  class="c0"
+>
+  <span
+    class="c1 c2"
+  />
+</div>
+`;
+
+exports[`<StoryTypeLabelWrapper /> should render with huge margin 1`] = `
+.c2 {
+  font-family: ProximaNovaCond,sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #0A7BC2;
+  cursor: pointer;
+}
+
+.c2:hover {
+  color: #085c91;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c3 .c1 {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.c4 .c1 {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.c5 .c1 {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.c6 .c1 {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  max-width: 100%;
+  overflow: hidden;
+  margin-bottom: 20px;
+}
+
+.c0:last-child {
+  margin-right: 0;
+}
+
+.c0 .c1 {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+<div
+  class="c0"
+>
+  <span
+    class="c1 c2"
+  />
+</div>
+`;
+
+exports[`<StoryTypeLabelWrapper /> should render with large margin 1`] = `
+.c2 {
+  font-family: ProximaNovaCond,sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #0A7BC2;
+  cursor: pointer;
+}
+
+.c2:hover {
+  color: #085c91;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c3 .c1 {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.c4 .c1 {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.c5 .c1 {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  max-width: 100%;
+  overflow: hidden;
+  margin-bottom: 15px;
+}
+
+.c0:last-child {
+  margin-right: 0;
+}
+
+.c0 .c1 {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+<div
+  class="c0"
+>
+  <span
+    class="c1 c2"
+  />
+</div>
+`;
+
+exports[`<StoryTypeLabelWrapper /> should render with medium margin 1`] = `
+.c2 {
+  font-family: ProximaNovaCond,sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #0A7BC2;
+  cursor: pointer;
+}
+
+.c2:hover {
+  color: #085c91;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c3 .c1 {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.c4 .c1 {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  max-width: 100%;
+  overflow: hidden;
+  margin-bottom: 10px;
+}
+
+.c0:last-child {
+  margin-right: 0;
+}
+
+.c0 .c1 {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+<div
+  class="c0"
+>
+  <span
+    class="c1 c2"
+  />
+</div>
+`;
+
+exports[`<StoryTypeLabelWrapper /> should render with small margin 1`] = `
+.c2 {
+  font-family: ProximaNovaCond,sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #0A7BC2;
+  cursor: pointer;
+}
+
+.c2:hover {
+  color: #085c91;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c3 .c1 {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  max-width: 100%;
+  overflow: hidden;
+  margin-bottom: 5px;
+}
+
+.c0:last-child {
+  margin-right: 0;
+}
+
+.c0 .c1 {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+<div
+  class="c0"
+>
+  <span
+    class="c1 c2"
+  />
+</div>
+`;

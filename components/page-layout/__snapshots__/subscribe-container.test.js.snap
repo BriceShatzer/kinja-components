@@ -1,0 +1,72 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Page layout/Subscribe container should render 1`] = `
+.c0 {
+  background-color: #F5F5F5;
+  border-top: 1px solid #E5E5E5;
+}
+
+.c0 .c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  padding: 26px 30px;
+}
+
+<SubscribeContainer>
+  <EnsureDefaultTheme>
+    <ThemeProvider
+      theme={[Function]}
+    >
+      <subscribe-container__SubscribeFormWrapper
+        className="js_subscribe"
+      >
+        <StyledComponent
+          className="js_subscribe"
+          forwardedComponent={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": Array [],
+              "componentStyle": ComponentStyle {
+                "componentId": "subscribe-container__SubscribeFormWrapper-sc-1cfejv7-0",
+                "isStatic": false,
+                "lastClassName": "c0",
+                "rules": Array [
+                  "background-color:",
+                  [Function],
+                  ";border-top:1px solid ",
+                  [Function],
+                  ";",
+                  ".c1",
+                  "{display:flex;flex-direction:column;align-items:center;padding:26px 30px;}",
+                ],
+              },
+              "displayName": "subscribe-container__SubscribeFormWrapper",
+              "foldedComponentIds": Array [],
+              "render": [Function],
+              "styledComponentId": "subscribe-container__SubscribeFormWrapper-sc-1cfejv7-0",
+              "target": "div",
+              "toString": [Function],
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+        >
+          <div
+            className="js_subscribe c0"
+          />
+        </StyledComponent>
+      </subscribe-container__SubscribeFormWrapper>
+    </ThemeProvider>
+  </EnsureDefaultTheme>
+</SubscribeContainer>
+`;

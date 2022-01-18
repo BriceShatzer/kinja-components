@@ -1,0 +1,3788 @@
+{
+	"meta": {
+		"error": null,
+		"warnings": []
+	},
+	"data": [{
+			"id": 1823423244,
+			"headline": "Uber Rider Says He Blacked Out, Rode Through Multiple States, Got Exactly the Fare You’d Expect<em></em><em></em><em></em>",
+			"isStarter": true,
+			"isFeatured": false,
+			"isVideo": false,
+			"allowReplies": true,
+			"replyCount": 409,
+			"status": "PUBLISHED",
+			"permalink": "https://gizmodo.com/uber-rider-says-he-blacked-out-rode-through-multiple-s-1823423244",
+			"securePermalink": "https://gizmodo.com/uber-rider-says-he-blacked-out-rode-through-multiple-s-1823423244",
+			"featuredMedia": null,
+			"first100Characters": "A drunk New Jersey native reportedly went out with friends in Morgantown, West Virginia, last Friday",
+			"firstSentence": "A drunk New Jersey native reportedly went out with friends in Morgantown, West Virginia, last Friday",
+			"facebookImage": {
+				"src": "https://i.kinja-img.com/gawker-media/image/upload/s--i-ywV8E4--/c_fit,fl_progressive,q_80,w_636/p2zi45vrc6r0zder8sfq.jpg",
+				"id": "p2zi45vrc6r0zder8sfq",
+				"width": 636,
+				"height": 357,
+				"format": "jpg"
+			},
+			"twitterCardType": "summary_large_image",
+			"plaintext": "A drunk New Jersey native reportedly went out with friends in Morgantown, West Virginia, last Friday, and then called an Uber to take him home. Kenny Bachman says he thought he was going back to the place he was staying during his trip, near the West Virginia University Campus. Except, the Uber driver took Bachman to his home in Gloucester County, New Jersey. ",
+			"author": {
+				"id": "5876237249237125249",
+				"screenName": "tjenningsbrown",
+				"displayName": "Jennings Brown",
+				"avatar": {
+					"id": "drvk0ax1ebzo08m12afq",
+					"format": "png"
+				}
+			},
+			"authors": [{
+				"id": "5876237249237125249",
+				"screenName": "tjenningsbrown",
+				"displayName": "Jennings Brown",
+				"avatar": {
+					"id": "drvk0ax1ebzo08m12afq",
+					"format": "png"
+				}
+			}],
+			"authorScreenName": "tjenningsbrown",
+			"byline": "",
+			"tags": [{
+					"canonical": "uber",
+					"urlName": "uber",
+					"displayName": "Uber"
+				},
+				{
+					"canonical": "oops",
+					"urlName": "oops",
+					"displayName": "Oops"
+				}
+			],
+			"publishTimeMillis": 1519919940244,
+			"publishTimeISO": "2018-03-01T15:59:00.244Z",
+			"adZone": "",
+			"adSenseDisabled": false,
+			"sponsored": false,
+			"doNotCrawl": false,
+			"defaultBlogId": "4",
+			"images": [{
+				"src": "https://i.kinja-img.com/gawker-media/image/upload/s--i-ywV8E4--/c_fit,fl_progressive,q_80,w_636/p2zi45vrc6r0zder8sfq.jpg",
+				"id": "p2zi45vrc6r0zder8sfq",
+				"width": 636,
+				"height": 357,
+				"format": "jpg",
+				"$el": {
+					"0": {
+						"_lazysizesWidth": 800
+					},
+					"length": 1,
+					"prevObject": {
+						"0": {},
+						"context": {},
+						"length": 1
+					},
+					"context": {},
+					"selector": "[data-chomp-id=\"p2zi45vrc6r0zder8sfq\"]"
+				},
+				"type": "image"
+			}],
+			"videos": [],
+			"mainMedia": null,
+			"qaParticipants": [],
+			"qaMembers": [],
+			"qaStatus": null,
+			"showByline": true,
+			"staffIncluded": false,
+			"hasFeaturedVideo": false,
+			"discussionSettings": null,
+			"storyType": null,
+			"socialHeadline": "Uber Rider Says He Blacked Out, Rode Through Multiple States, Got Exactly the Fare You’d Expect",
+			"gaDimensions": {
+				"wordCount": 409,
+				"wordCountBucket": "400 - 600",
+				"gaVideoIds": ""
+			}
+		}, {
+			"id": 1823443790,
+			"headline": "Dunkin' Donut's Girl Scout-cookie coffees an unholy alliance of two great things",
+			"isStarter": true,
+			"isFeatured": false,
+			"isVideo": false,
+			"allowReplies": true,
+			"replyCount": 1,
+			"status": "PUBLISHED",
+			"permalink": "https://thetakeout.com/dunkin-donuts-girl-scout-cookie-coffees-an-unholy-allia-1823443790",
+			"securePermalink": "https://thetakeout.com/dunkin-donuts-girl-scout-cookie-coffees-an-unholy-allia-1823443790",
+			"featuredMedia": null,
+			"first100Characters": "Unlike your Starbucks specialty drinks with froths of whipped cream and differently themed sprinkles",
+			"firstSentence": "Unlike your Starbucks specialty drinks with froths of whipped cream and differently themed sprinkles",
+			"facebookImage": {
+				"src": "https://i.kinja-img.com/gawker-media/image/upload/s--BL3btY6Z--/c_fit,fl_progressive,q_80,w_636/tvnxv27jcjrydfrhg2sg.jpg",
+				"id": "tvnxv27jcjrydfrhg2sg",
+				"width": 636,
+				"height": 357,
+				"format": "jpg"
+			},
+			"twitterCardType": "summary_large_image",
+			"plaintext": "Unlike your Starbucks specialty drinks with froths of whipped cream and differently themed sprinkles, Dunkin’ Donuts’ new lineup of Girl Scout-cookie flavored coffee drinks is pretty straightforward. No candy bits or adds of any kind, just flavored coffee that taste like three popular Girl Scout cookies: Thin Mint, Peanut Butter Chocolate (Tagalongs), and Coconut Chocolate (Samoas), available either hot or iced. Why Thin Mints is the only Dunkin Donuts coffee able to be termed by its actual Girl Scout cookie name is for greater legal minds than ours to figure out. Since I’ve been eating these cookies steadily at home for weeks now, and never ever start the day without coffee, I considered my palate expert enough to be able to judge the new lineup.",
+			"author": {
+				"id": "5876237249237148581",
+				"screenName": "gihnat",
+				"displayName": "Gwen Ihnat",
+				"avatar": {
+					"id": "agjhwjvlo30g5y0waupr",
+					"format": "png"
+				}
+			},
+			"authors": [{
+				"id": "5876237249237148581",
+				"screenName": "gihnat",
+				"displayName": "Gwen Ihnat",
+				"avatar": {
+					"id": "agjhwjvlo30g5y0waupr",
+					"format": "png"
+				}
+			}],
+			"authorScreenName": "gihnat",
+			"byline": "",
+			"tags": [{
+					"canonical": "coffee",
+					"urlName": "coffee",
+					"displayName": "Coffee"
+				},
+				{
+					"canonical": "dunkindonuts",
+					"urlName": "dunkin-donuts",
+					"displayName": "Dunkin Donuts"
+				},
+				{
+					"canonical": "girlscoutcookies",
+					"urlName": "girl-scout-cookies",
+					"displayName": "girl scout cookies"
+				}
+			],
+			"publishTimeMillis": 1519964700790,
+			"publishTimeISO": "2018-03-02T04:25:00.790Z",
+			"adZone": "",
+			"adSenseDisabled": false,
+			"sponsored": false,
+			"doNotCrawl": false,
+			"defaultBlogId": "1636140418",
+			"images": [{
+				"src": "https://i.kinja-img.com/gawker-media/image/upload/s--BL3btY6Z--/c_fit,fl_progressive,q_80,w_636/tvnxv27jcjrydfrhg2sg.jpg",
+				"id": "tvnxv27jcjrydfrhg2sg",
+				"width": 636,
+				"height": 357,
+				"format": "jpg"
+			}],
+			"videos": [],
+			"mainMedia": {
+				"id": "tvnxv27jcjrydfrhg2sg",
+				"format": "jpg",
+				"width": 4032,
+				"height": 2268,
+				"alignment": "Bleed",
+				"caption": [],
+				"syndicationRights": true,
+				"attribution": [{
+					"label": "Photo",
+					"credit": [{
+						"styles": [],
+						"value": "Kevin Pang",
+						"type": "Text"
+					}],
+					"source": []
+				}],
+				"lightbox": true,
+				"type": "Image"
+			},
+			"qaParticipants": [],
+			"qaMembers": [],
+			"qaStatus": null,
+			"showByline": true,
+			"staffIncluded": false,
+			"hasFeaturedVideo": false,
+			"discussionSettings": null,
+			"storyType": {
+				"id": 648,
+				"blogId": 1636140418,
+				"canonical": "taste-test",
+				"title": "Taste Test",
+				"content": "Standard"
+			},
+			"socialHeadline": "Dunkin' Donut's Girl Scout-cookie coffees an unholy alliance of two great things",
+			"gaDimensions": {
+				"wordCount": 684,
+				"wordCountBucket": "600 - 800",
+				"gaVideoIds": ""
+			}
+		}, {
+			"id": 1820752579,
+			"permalink": "https://kotaku.com/14-year-old-video-game-cheater-sued-mom-defends-him-1820752579",
+			"permalinkHost": "https://kotaku.com",
+			"permalinkPath": "/14-year-old-video-game-cheater-sued-mom-defends-him-1820752579",
+			"headline": "14-Year Old Video Game Cheater Sued, Mom Says He&#39;s A Scapegoat",
+			"original": null,
+			"body": [{
+				"id": "knnzlrfrpdypkws4o5tf",
+				"format": "jpg",
+				"width": 1920,
+				"height": 1080,
+				"alignment": "Bleed",
+				"caption": [],
+				"type": "Image"
+			}, {
+				"containers": [],
+				"value": [{
+					"styles": [],
+					"value": "Last month, Epic took the unusual step of not just banning two ",
+					"type": "Text"
+				}, {
+					"styles": ["Italic"],
+					"value": "Fortnite ",
+					"type": "Text"
+				}, {
+					"styles": [],
+					"value": "players from the game for cheating, ",
+					"type": "Text"
+				}, {
+					"reference": "https://kotaku.com/epic-is-suing-two-alleged-fortnite-cheaters-1819403143",
+					"value": [{
+						"styles": [],
+						"value": "but taking them to court",
+						"type": "Text"
+					}],
+					"type": "Link"
+				}, {
+					"styles": [],
+					"value": ". It’s since been revealed that one of the accused is only 14 years old, and his mother is not happy.",
+					"type": "Text"
+				}, {
+					"type": "LineBreak"
+				}],
+				"type": "Paragraph"
+			}, {
+				"url": "https://kotaku.com/epic-is-suing-two-alleged-fortnite-cheaters-1819403143",
+				"style": "Normal",
+				"type": "LinkPreview"
+			}, {
+				"containers": [],
+				"value": [{
+					"styles": [],
+					"value": "She has addressed the court directly through a letter, which attacks Epic’s handling of the case on a number of grounds.",
+					"type": "Text"
+				}],
+				"type": "Paragraph"
+			}, {
+				"containers": [{
+					"style": "Bullet",
+					"type": "List"
+				}],
+				"value": [{
+					"styles": [],
+					"value": "She says that Fortnite’s terms require parental consent for minors, and that she never gave this consent.",
+					"type": "Text"
+				}, {
+					"type": "LineBreak"
+				}],
+				"type": "Paragraph"
+			}, {
+				"containers": [{
+					"style": "Bullet",
+					"type": "List"
+				}],
+				"value": [{
+					"styles": [],
+					"value": "She says the case is based on a loss of profits, but argues that it’s a free-to-play video game, and that in order to prove a loss Epic would need to provide a statement certifying that Rogers’ cheating directly caused a “mass profit loss”.",
+					"type": "Text"
+				}, {
+					"type": "LineBreak"
+				}],
+				"type": "Paragraph"
+			}, {
+				"containers": [{
+					"style": "Bullet",
+					"type": "List"
+				}],
+				"value": [{
+					"styles": [],
+					"value": "She claims that by going after individual players, rather than the websites selling/providing the software necessary to cheat in an online game, Epic is “using a 14 year-old child as a scapegoat”.",
+					"type": "Text"
+				}, {
+					"type": "LineBreak"
+				}],
+				"type": "Paragraph"
+			}, {
+				"containers": [{
+					"style": "Bullet",
+					"type": "List"
+				}],
+				"value": [{
+					"styles": [],
+					"value": "She claims that her son did not, as Epic allege, help create the cheat software, but simply downloaded it as a user, and that Epic “has no capability of proving any form of modification”.",
+					"type": "Text"
+				}],
+				"type": "Paragraph"
+			}, {
+				"containers": [{
+					"style": "Bullet",
+					"type": "List"
+				}],
+				"value": [{
+					"styles": [],
+					"value": "Finally, the mother says that by releasing her son’s name publicly in conjunction with the move that Epic has violated Delaware laws related to the release of information on minors.",
+					"type": "Text"
+				}, {
+					"type": "LineBreak"
+				}],
+				"type": "Paragraph"
+			}, {
+				"containers": [],
+				"value": [{
+					"styles": [],
+					"value": "There’s also the matter, ",
+					"type": "Text"
+				}, {
+					"reference": "https://torrentfreak.com/mom-defends-14-year-old-fortnite-cheater-in-court-171125/",
+					"value": [{
+						"styles": [],
+						"value": "as ",
+						"type": "Text"
+					}, {
+						"styles": ["Italic"],
+						"value": "TorrentFreak ",
+						"type": "Text"
+					}, {
+						"styles": [],
+						"value": "point out",
+						"type": "Text"
+					}],
+					"type": "Link"
+				}, {
+					"styles": [],
+					"value": ", that you can’t actually sue a minor directly, raising the possibility that Epic didn’t know the full identity of the accused before going ahead with the case.",
+					"type": "Text"
+				}],
+				"type": "Paragraph"
+			}, {
+				"containers": [],
+				"value": [{
+					"styles": [],
+					"value": "You can read the letter in full below:",
+					"type": "Text"
+				}],
+				"type": "Paragraph"
+			}, {
+				"id": "ltixqng3zbshm5fwfksr",
+				"format": "jpg",
+				"width": 812,
+				"height": 1264,
+				"alignment": "Bleed",
+				"caption": [],
+				"type": "Image"
+			}, {
+				"containers": [],
+				"value": [{
+					"reference": "https://kotaku.com/epic-is-suing-two-alleged-fortnite-cheaters-1819403143",
+					"value": [{
+						"styles": [],
+						"value": "The cases began last month",
+						"type": "Text"
+					}],
+					"type": "Link"
+				}, {
+					"styles": [],
+					"value": ", when Epic began taking action against individual users who had used (",
+					"type": "Text"
+				}, {
+					"reference": "https://kotaku.com/epic-is-suing-two-alleged-fortnite-cheaters-1819403143",
+					"value": [{
+						"styles": [],
+						"value": "and were allegedly associates of",
+						"type": "Text"
+					}],
+					"type": "Link"
+				}, {
+					"styles": [],
+					"value": ") the site ",
+					"type": "Text"
+				}, {
+					"styles": ["Italic"],
+					"value": "Addicted Cheats",
+					"type": "Text"
+				}, {
+					"styles": [],
+					"value": " to obtain “aimbots” that would give them a competitive edge in the game.",
+					"type": "Text"
+				}],
+				"type": "Paragraph"
+			}, {
+				"containers": [],
+				"value": [{
+					"styles": [],
+					"value": "Those cheat services aren’t free, with players paying between $5-$15 a month for them.",
+					"type": "Text"
+				}],
+				"type": "Paragraph"
+			}, {
+				"containers": [],
+				"value": [{
+					"styles": [],
+					"value": "Epic has decided to take the users to court, rather than just ban them, after deciding that the modification of the game’s code is against ",
+					"type": "Text"
+				}, {
+					"styles": ["Italic"],
+					"value": "Fortnite’s",
+					"type": "Text"
+				}, {
+					"styles": [],
+					"value": " End User License Agreement and the Copyright Act. ",
+					"type": "Text"
+				}],
+				"type": "Paragraph"
+			}, {
+				"containers": [],
+				"value": [{
+					"styles": [],
+					"value": "“This particular lawsuit arose as a result of the defendant filing a DMCA counterclaim to a takedown notice on a YouTube video that exposed and promoted Fortnite Battle Royale cheats and exploits”, Epic says in a statement given to ",
+					"type": "Text"
+				}, {
+					"styles": ["Italic"],
+					"value": "Kotaku",
+					"type": "Text"
+				}, {
+					"styles": [],
+					"value": ". “Under these circumstances, the law requires that we file suit or drop the claim.",
+					"type": "Text"
+				}],
+				"type": "Paragraph"
+			}, {
+				"containers": [],
+				"value": [{
+					"styles": [],
+					"value": "“Epic is not okay with ongoing cheating or copyright infringement from anyone at any age. As stated previously, we take cheating seriously, and we’ll pursue all available options to make sure our games are fun, fair, and competitive for players.”",
+					"type": "Text"
+				}],
+				"type": "Paragraph"
+			}, {
+				"containers": [],
+				"value": [{
+					"styles": ["Small", "Bold"],
+					"value": "UPDATE",
+					"type": "Text"
+				}, {
+					"styles": ["Small"],
+					"value": ": ",
+					"type": "Text"
+				}, {
+					"styles": ["Small", "Italic"],
+					"value": "9:40pm",
+					"type": "Text"
+				}, {
+					"styles": ["Small"],
+					"value": " - ",
+					"type": "Text"
+				}, {
+					"styles": ["Small", "Italic"],
+					"value": "Added more detail to mother’s complaints summary for those unable to see image clearly on mobile.",
+					"type": "Text"
+				}],
+				"type": "Paragraph"
+			}, {
+				"containers": [],
+				"value": [{
+					"styles": ["Small", "Bold"],
+					"value": "UPDATE",
+					"type": "Text"
+				}, {
+					"styles": ["Small", "Italic"],
+					"value": ": 10:50pm - Added statement from Epic",
+					"type": "Text"
+				}],
+				"type": "Paragraph"
+			}],
+			"images": [{
+				"src": "https://i.kinja-img.com/gawker-media/image/upload/s--8dGnpOJJ--/c_fit,fl_progressive,q_80,w_636/knnzlrfrpdypkws4o5tf.jpg",
+				"id": "knnzlrfrpdypkws4o5tf",
+				"width": 636,
+				"height": 357,
+				"format": "jpg"
+			}, {
+				"src": "https://i.kinja-img.com/gawker-media/image/upload/s--r93xOOD---/c_fit,fl_progressive,q_80,w_636/ltixqng3zbshm5fwfksr.jpg",
+				"id": "ltixqng3zbshm5fwfksr",
+				"width": 636,
+				"height": 990,
+				"format": "jpg"
+			}],
+			"videos": [],
+			"mainMedia": {
+				"id": "knnzlrfrpdypkws4o5tf",
+				"format": "jpg",
+				"width": 1920,
+				"height": 1080,
+				"alignment": "Bleed",
+				"caption": [],
+				"type": "Image"
+			},
+			"publishTimeMillis": 1511744400579,
+			"lastUpdateTimeMillis": 1511756743868,
+			"timezone": "America/New_York",
+			"defaultBlogId": "9",
+			"parentId": null,
+			"parentAuthorId": null,
+			"starterId": 1820752579,
+			"salesAvatar": null,
+			"sponsored": true,
+			"sharedUrl": null,
+			"status": "PUBLISHED",
+			"authorId": "5724032494550896668",
+			"authorIds": ["5724032494550896668"],
+			"allowReplies": true,
+			"byline": "",
+			"showByline": true,
+			"properties": "{\"dropCapEnabled\":false}",
+			"showAuthorBio": true,
+			"hideAuthorInfo": false,
+			"approved": true,
+			"publishTime": {
+				"timestamp": 1511744400579,
+				"timezone": "America/New_York",
+				"MdyHm": "11/26/2017 20:00",
+				"MdyatHm": "11/26/2017 at 20:00",
+				"rfc822": "Mon, 27 Nov 2017 01:00:00 GMT",
+				"yMdHmsZ": "2017-11-26T20:00:00-05:00",
+				"hmma": "8:00pm",
+				"day": "Sunday",
+				"Mddyyhmma": "11/26/17 8:00pm",
+				"fullDate": "November 26, 2017",
+				"relative": {
+					"amount": null,
+					"type": "yesterday"
+				}
+			},
+			"author": {
+				"id": "5724032494550896668",
+				"screenName": "lukeplunkett",
+				"displayName": "Luke Plunkett",
+				"avatar": {
+					"id": "znnj54xjqaxov6vbglip",
+					"format": "jpg"
+				}
+			},
+			"authors": [{
+				"id": "5724032494550896668",
+				"screenName": "lukeplunkett",
+				"displayName": "Luke Plunkett",
+				"avatar": {
+					"id": "znnj54xjqaxov6vbglip",
+					"format": "jpg"
+				}
+			}],
+			"tags": [{
+				"canonical": "fortnite",
+				"urlName": "fortnite",
+				"displayName": "fortnite"
+			}, {
+				"canonical": "epicgames",
+				"urlName": "epic-games",
+				"displayName": "epic games"
+			}, {
+				"canonical": "legal",
+				"urlName": "legal",
+				"displayName": "legal"
+			}, {
+				"canonical": "law",
+				"urlName": "law",
+				"displayName": "law"
+			}, {
+				"canonical": "kotakucore",
+				"urlName": "kotaku-core",
+				"displayName": "kotaku core"
+			}],
+			"replyCount": null,
+			"likes": null,
+			"storyTypeId": null,
+			"storyType": null,
+			"parent": null,
+			"starter": null,
+			"isStarter": true,
+			"defaultBlogDisplayName": "Kotaku",
+			"defaultBlogHost": "kotaku.com",
+			"defaultBlogRecircGroup": null,
+			"ads": null,
+			"salesAvatarMap": null,
+			"itemType": "post",
+			"adZone": "",
+			"adSenseDisabled": false,
+			"doNotCrawl": false,
+			"isBillboardPost": false,
+			"gaDimensions": {
+				"wordCount": 482,
+				"wordCountBucket": "400 - 600",
+				"gaVideoIds": ""
+			},
+			"plaintext": "Last month, Epic took the unusual step of not just banning two Fortnite players from the game for cheating, but taking them to court. It’s since been revealed that one of the accused is only 14 years old, and his mother is not happy.\n",
+			"isBlip": false,
+			"aboveHeadline": {
+				"id": "knnzlrfrpdypkws4o5tf",
+				"format": "jpg",
+				"frozenFormat": "jpg",
+				"isVideo": false,
+				"height": 1080,
+				"width": 1920
+			},
+			"leftOfHeadline": {
+				"id": "knnzlrfrpdypkws4o5tf",
+				"format": "jpg",
+				"frozenFormat": "jpg",
+				"isVideo": false,
+				"height": 1080,
+				"width": 1920
+			},
+			"firstSentence": "Last month, Epic took the unusual step of not just banning two Fortnite players from the game for ch",
+			"isFeatured": false,
+			"isVideo": false,
+			"featuredMedia": null,
+			"qaParticipants": [],
+			"qaMembers": [],
+			"qaStatus": null,
+			"staffIncluded": false,
+			"curationImage": null,
+			"relatedPosts": [],
+			"frontpageVideo": null,
+			"hasFeaturedVideo": false,
+			"discussionSettings": null,
+			"categoryData": null,
+			"category": null,
+			"subcategoryData": null,
+			"subcategory": null,
+			"securePermalink": "https://kotaku.com/14-year-old-video-game-cheater-sued-mom-defends-him-1820752579"
+		}, {
+			"id": 1823402460,
+			"headline": "Bee Stings and Cow Kicks Kill Way More Americans Than Sharks<em></em>",
+			"isStarter": true,
+			"isFeatured": false,
+			"isVideo": false,
+			"allowReplies": true,
+			"replyCount": 74,
+			"status": "PUBLISHED",
+			"permalink": "https://earther.com/bee-stings-and-cow-kicks-kill-way-more-americans-than-s-1823402460",
+			"securePermalink": "https://earther.com/bee-stings-and-cow-kicks-kill-way-more-americans-than-s-1823402460",
+			"featuredMedia": null,
+			"first100Characters": "Around 200 people in the U.S. die every year from run-ins with animals, according to a new study, wh",
+			"firstSentence": "Around 200 people in the U.S. die every year from run-ins with animals, according to a new study, wh",
+			"facebookImage": {
+				"src": "https://i.kinja-img.com/gawker-media/image/upload/s---zAm-VSI--/c_fit,fl_progressive,q_80,w_636/gfalodavok1dbcmsct6p.jpg",
+				"id": "gfalodavok1dbcmsct6p",
+				"width": 636,
+				"height": 357,
+				"format": "jpg"
+			},
+			"twitterCardType": "summary_large_image",
+			"plaintext": "Around 200 people in the U.S. die every year from run-ins with animals, according to a new study, which found that over one million emergency room visits and approximately $2 billion in healthcare spending are attributable annually to problematic animal encounters. ",
+			"author": {
+				"id": "5876237249237141162",
+				"screenName": "ari",
+				"displayName": "Ari Phillips",
+				"avatar": {
+					"id": "ned2z8xfty91q7jeocuj",
+					"format": "png"
+				}
+			},
+			"authors": [{
+				"id": "5876237249237141162",
+				"screenName": "ari",
+				"displayName": "Ari Phillips",
+				"avatar": {
+					"id": "ned2z8xfty91q7jeocuj",
+					"format": "png"
+				}
+			}],
+			"authorScreenName": "ari",
+			"byline": "",
+			"tags": [{
+					"canonical": "naturalcauses",
+					"urlName": "natural-causes",
+					"displayName": "natural causes"
+				},
+				{
+					"canonical": "wildlife",
+					"urlName": "wildlife",
+					"displayName": "wildlife"
+				},
+				{
+					"canonical": "dogs",
+					"urlName": "dogs",
+					"displayName": "dogs"
+				},
+				{
+					"canonical": "science",
+					"urlName": "science",
+					"displayName": "science"
+				},
+				{
+					"canonical": "mortality",
+					"urlName": "mortality",
+					"displayName": "mortality"
+				}
+			],
+			"publishTimeMillis": 1519921560460,
+			"publishTimeISO": "2018-03-01T16:26:00.460Z",
+			"adZone": "",
+			"adSenseDisabled": false,
+			"showByline": true,
+			"sponsored": false,
+			"doNotCrawl": false,
+			"defaultBlogId": "1636390014",
+			"images": [{
+				"src": "https://i.kinja-img.com/gawker-media/image/upload/s---zAm-VSI--/c_fit,fl_progressive,q_80,w_636/gfalodavok1dbcmsct6p.jpg",
+				"id": "gfalodavok1dbcmsct6p",
+				"width": 636,
+				"height": 357,
+				"format": "jpg"
+			}],
+			"videos": [],
+			"mainMedia": {
+				"id": "gfalodavok1dbcmsct6p",
+				"format": "jpg",
+				"width": 6016,
+				"height": 3384,
+				"alignment": "Bleed",
+				"caption": [],
+				"syndicationRights": false,
+				"attribution": [{
+					"label": "Photo",
+					"credit": [{
+						"styles": [],
+						"value": "US Air Force",
+						"type": "Text"
+					}],
+					"source": []
+				}],
+				"lightbox": true,
+				"type": "Image"
+			},
+			"qaParticipants": [],
+			"qaMembers": [],
+			"qaStatus": null,
+			"staffIncluded": false,
+			"hasFeaturedVideo": false,
+			"discussionSettings": null,
+			"storyType": {
+				"id": 439,
+				"blogId": 1636390014,
+				"canonical": "science",
+				"title": "Science",
+				"content": "Standard"
+			},
+			"socialHeadline": "Bee Stings and Cow Kicks Kill Way More Americans Than Sharks",
+			"gaDimensions": {
+				"wordCount": 534,
+				"wordCountBucket": "400 - 600",
+				"gaVideoIds": ""
+			}
+		}, {
+			"id": 1820752803,
+			"permalink": "https://lifehacker.dev:9000/how-to-create-a-custom-_-_-shortcut-on-your-mac-1820752803",
+			"permalinkHost": "http://lifehacker.dev:9000",
+			"permalinkPath": "/how-to-create-a-custom-_-_-shortcut-on-your-mac-1820752803",
+			"headline": "How to Create a Custom ¯\\_(ツ)_/¯  Shortcut on Your Mac<em></em>",
+			"original": null,
+			"body": [{
+				"id": "eeuycpnqilpv5u2mvcka",
+				"format": "jpg",
+				"width": 800,
+				"height": 500,
+				"alignment": "Bleed",
+				"caption": [{
+					"styles": [],
+					"value": "Image: Pexels",
+					"type": "Text"
+				}],
+				"type": "Image"
+			}, {
+				"containers": [],
+				"value": [{
+					"styles": [],
+					"value": "Anyone that has spent any time on Slack or any other messaging client with me knows that I love using the shrug emoji. Not the regular emoji, this one: ¯\\_(ツ)_/¯",
+					"type": "Text"
+				}, {
+					"type": "LineBreak"
+				}],
+				"type": "Paragraph"
+			}, {
+				"containers": [],
+				"value": [{
+					"styles": [],
+					"value": "It’s great way to respond to a number of things. There’s just one problem: It’s a huge pain to type out. The first few weeks I used it I would meticulously type it out each time I wanted to use it. Then I got smart and copied it into the Notes app on my Mac so I could quickly copy/paste it.",
+					"type": "Text"
+				}],
+				"type": "Paragraph"
+			}, {
+				"containers": [],
+				"value": [{
+					"styles": [],
+					"value": "Now a year (or several years?) later, ",
+					"type": "Text"
+				}, {
+					"styles": ["Italic"],
+					"value": "Quartz",
+					"type": "Text"
+				}, {
+					"styles": [],
+					"value": " ",
+					"type": "Text"
+				}, {
+					"reference": "https://qz.com/1131602/adding-a-custom-shruggie-button-to-your-keyboard-is-the-only-worthwhile-lifehack/",
+					"value": [{
+						"styles": [],
+						"value": "has made a shrug suggestion",
+						"type": "Text"
+					}],
+					"type": "Link"
+				}, {
+					"styles": [],
+					"value": " that I’m kind of surprised I didn’t come up with on my own: Make it a keyboard shortcut.",
+					"type": "Text"
+				}, {
+					"type": "LineBreak"
+				}],
+				"type": "Paragraph"
+			}, {
+				"containers": [],
+				"value": [{
+					"styles": [],
+					"value": "The Quartz writer actually programmed his external keyboard so there’s an actual shrug button (you can ",
+					"type": "Text"
+				}, {
+					"reference": "https://qz.com/1131602/adding-a-custom-shruggie-button-to-your-keyboard-is-the-only-worthwhile-lifehack/",
+					"value": [{
+						"styles": [],
+						"value": "learn how to do that here",
+						"type": "Text"
+					}],
+					"type": "Link"
+				}, {
+					"styles": [],
+					"value": "). If that’s a little too hardcore for you (it is for me) you can actually just create a shortcut for it on your Mac using the Mac’s Text replacement feature.",
+					"type": "Text"
+				}, {
+					"type": "LineBreak"
+				}],
+				"type": "Paragraph"
+			}, {
+				"containers": [],
+				"value": [{
+					"styles": [],
+					"value": "To make it happen, go into the System Preferences menu on your Mac followed by Keyboard and then Text.",
+					"type": "Text"
+				}, {
+					"type": "LineBreak"
+				}],
+				"type": "Paragraph"
+			}, {
+				"id": "ky85xavcl9iheqfgdsps",
+				"format": "png",
+				"width": 1314,
+				"height": 1158,
+				"alignment": "Center",
+				"caption": [{
+					"styles": [],
+					"value": "Screenshot: E.Price",
+					"type": "Text"
+				}],
+				"type": "Image"
+			}, {
+				"containers": [],
+				"value": [{
+					"styles": [],
+					"value": "You’ll then be at a menu where you can add autocorrects for different phrases. For instance, you can have your computer always type “On my way!” When you type omw. For the shrug, Just press the + button at the bottom of the page and add whatever you’d like.",
+					"type": "Text"
+				}, {
+					"type": "LineBreak"
+				}],
+				"type": "Paragraph"
+			}, {
+				"containers": [],
+				"value": [{
+					"styles": [],
+					"value": "In the case of the shrug, and easy solution is to make it so /shrug autocorrects to ¯\\_(ツ)_/¯ . Slack also uses /shrug for the ¯\\_(ツ)_/¯ , so it keeps things simple and consistent, and it also makes it so you don’t ever have to remember how to type out that ¯\\_(ツ)_/¯ again.",
+					"type": "Text"
+				}, {
+					"type": "LineBreak"
+				}],
+				"type": "Paragraph"
+			}],
+			"images": [{
+				"src": "https://i.ytimg.com/vi/BLouxprAHtQ/maxresdefault.jpg",
+				"id": "eeuycpnqilpv5u2mvcka",
+				"width": 636,
+				"height": 397,
+				"format": "jpg"
+			}, {
+				"src": "https://i.kinja-img.com/gawker-media/image/upload/s--rCZaDeLf--/c_fit,fl_progressive,q_80,w_636/ky85xavcl9iheqfgdsps.png",
+				"id": "ky85xavcl9iheqfgdsps",
+				"width": 636,
+				"height": 560,
+				"format": "png"
+			}],
+			"videos": [],
+			"mainMedia": {
+				"id": "eeuycpnqilpv5u2mvcka",
+				"format": "jpg",
+				"width": 800,
+				"height": 500,
+				"alignment": "Bleed",
+				"caption": [{
+					"styles": [],
+					"value": "Image: Pexels",
+					"type": "Text"
+				}],
+				"type": "Image"
+			},
+			"publishTimeMillis": 1511743082511,
+			"lastUpdateTimeMillis": 1511743082511,
+			"timezone": "America/New_York",
+			"defaultBlogId": "17",
+			"parentId": null,
+			"parentAuthorId": null,
+			"starterId": 1820752803,
+			"salesAvatar": null,
+			"sponsored": true,
+			"sharedUrl": null,
+			"status": "PUBLISHED",
+			"authorId": "1550368777",
+			"authorIds": ["1550368777"],
+			"allowReplies": true,
+			"byline": "",
+			"showByline": true,
+			"properties": "{\"dropCapEnabled\":false}",
+			"showAuthorBio": true,
+			"hideAuthorInfo": false,
+			"approved": true,
+			"publishTime": {
+				"timestamp": 1511743082511,
+				"timezone": "America/New_York",
+				"MdyHm": "11/26/2017 19:38",
+				"MdyatHm": "11/26/2017 at 19:38",
+				"rfc822": "Mon, 27 Nov 2017 00:38:02 GMT",
+				"yMdHmsZ": "2017-11-26T19:38:02-05:00",
+				"hmma": "7:38pm",
+				"day": "Sunday",
+				"Mddyyhmma": "11/26/17 7:38pm",
+				"fullDate": "November 26, 2017",
+				"relative": {
+					"amount": null,
+					"type": "yesterday"
+				}
+			},
+			"author": {
+				"id": "1550368777",
+				"screenName": "emilyprice123",
+				"displayName": "Emily Price",
+				"avatar": {
+					"id": "ftpvgykl9q0xvb8qto2c",
+					"format": "jpg"
+				}
+			},
+			"authors": [{
+				"id": "1550368777",
+				"screenName": "emilyprice123",
+				"displayName": "Emily Price",
+				"avatar": {
+					"id": "ftpvgykl9q0xvb8qto2c",
+					"format": "jpg"
+				}
+			}],
+			"tags": [{
+				"canonical": "keyboard",
+				"urlName": "keyboard",
+				"displayName": "keyboard"
+			}, {
+				"canonical": "computers",
+				"urlName": "computers",
+				"displayName": "Computers"
+			}, {
+				"canonical": "mac",
+				"urlName": "mac",
+				"displayName": "Mac"
+			}],
+			"replyCount": null,
+			"likes": null,
+			"storyTypeId": null,
+			"storyType": null,
+			"parent": null,
+			"starter": null,
+			"isStarter": true,
+			"defaultBlogDisplayName": "Lifehacker",
+			"defaultBlogHost": "lifehacker.com",
+			"defaultBlogRecircGroup": null,
+			"ads": null,
+			"salesAvatarMap": null,
+			"itemType": "post",
+			"adZone": "",
+			"adSenseDisabled": false,
+			"doNotCrawl": false,
+			"isBillboardPost": false,
+			"gaDimensions": {
+				"wordCount": 301,
+				"wordCountBucket": "200 - 400",
+				"gaVideoIds": ""
+			},
+			"plaintext": "Anyone that has spent any time on Slack or any other messaging client with me knows that I love using the shrug emoji. Not the regular emoji, this one: ¯\\_(ツ)_/¯\n",
+			"isBlip": false,
+			"aboveHeadline": {
+				"id": "eeuycpnqilpv5u2mvcka",
+				"format": "jpg",
+				"frozenFormat": "jpg",
+				"isVideo": false,
+				"height": 500,
+				"width": 800
+			},
+			"leftOfHeadline": {
+				"id": "eeuycpnqilpv5u2mvcka",
+				"format": "jpg",
+				"frozenFormat": "jpg",
+				"isVideo": false,
+				"height": 500,
+				"width": 800
+			},
+			"firstSentence": "Anyone that has spent any time on Slack or any other messaging client with me knows that I love usin",
+			"isFeatured": false,
+			"isVideo": false,
+			"featuredMedia": null,
+			"qaParticipants": [],
+			"qaMembers": [],
+			"qaStatus": null,
+			"staffIncluded": false,
+			"curationImage": null,
+			"relatedPosts": [],
+			"frontpageVideo": null,
+			"hasFeaturedVideo": false,
+			"discussionSettings": null,
+			"categoryData": null,
+			"category": null,
+			"subcategoryData": null,
+			"subcategory": null,
+			"securePermalink": "https://lifehacker.dev:9000/how-to-create-a-custom-_-_-shortcut-on-your-mac-1820752803"
+		}, {
+			"id": 5952365,
+			"permalink": "http://jalopnik.dev:9000/5952365/this-ferrari-328-gts-is-the-best-kind-of-used-car/",
+			"permalinkHost": "http://jalopnik.dev:9000",
+			"permalinkPath": "/5952365/this-ferrari-328-gts-is-the-best-kind-of-used-car/",
+			"headline": "This Ferrari 328 GTS Is The Best Kind Of Used Car",
+			"original": null,
+			"body": [{
+				"id": "182e98rybjnqojpg",
+				"format": "jpg",
+				"width": 1600,
+				"height": 900,
+				"alignment": "Bleed",
+				"caption": [],
+				"type": "Image"
+			}, {
+				"containers": [],
+				"value": [{
+					"styles": [],
+					"value": "Welcome to ",
+					"type": "Text"
+				}, {
+					"reference": "https://jalopnik.com/found-around-town/",
+					"value": [{
+						"styles": [],
+						"value": "Found Around Town",
+						"type": "Text"
+					}],
+					"type": "Link"
+				}, {
+					"styles": [],
+					"value": ", where we feature cars we find in a city where interesting ones are rare because everyone drives a Prius or rides a bicycle: Austin, Texas.",
+					"type": "Text"
+				}],
+				"type": "Paragraph"
+			}, {
+				"containers": [],
+				"value": [{
+					"styles": [],
+					"value": "If you're like me, you're always wondering what kind of car you're going to buy next. Even though I'm very happy with my current whip and I plan on keeping it until it dies, I'm kind of always wondering what else is out there. Call it natural car curiosity.",
+					"type": "Text"
+				}],
+				"type": "Paragraph"
+			}, {
+				"containers": [],
+				"value": [{
+					"styles": [],
+					"value": "But ever since I found this very red and very pretty Ferrari 328 GTS near downtown Austin, I stopped wondering. ",
+					"type": "Text"
+				}, {
+					"styles": ["Italic"],
+					"value": "I want a used Ferrari next.",
+					"type": "Text"
+				}, {
+					"styles": [],
+					"value": " Go big or go home, right? Forget reliability, insanely expensive maintenance and parts, ",
+					"type": "Text"
+				}, {
+					"reference": "https://jalopnik.com/5937499/the-jalopnik-guide-to-burning-supercars/gallery/1",
+					"value": [{
+						"styles": [],
+						"value": "lots and lots of fires",
+						"type": "Text"
+					}],
+					"type": "Link"
+				}, {
+					"styles": [],
+					"value": ", or the fact that you may come off looking like a douche. Nobody ever bought a Ferrari purely for left-brain reasons. And after seeing it, my girlfriend also declared that we need one, so I've got that going for me too. So what better place to start than this 328?",
+					"type": "Text"
+				}],
+				"type": "Paragraph"
+			}, {
+				"url": "https://jalopnik.com/5937499/the-jalopnik-guide-to-burning-supercars/gallery/1",
+				"style": "Normal",
+				"type": "LinkPreview"
+			}, {
+				"containers": [],
+				"value": [{
+					"styles": [],
+					"value": "Sold between 1985 and 1989, the 328 was the replacement for the 308 of ",
+					"type": "Text"
+				}, {
+					"styles": ["Italic"],
+					"value": "Magnum, P.I.",
+					"type": "Text"
+				}, {
+					"styles": [],
+					"value": " fame. The 328 GTS packed a mid-engine V8 good for 270 horsepower at 7,000 RPM and could do the zero to 60 mph dash in about 5.5 seconds. Quick by modern standards, extremely fast by 80s standards.",
+					"type": "Text"
+				}],
+				"type": "Paragraph"
+			}, {
+				"containers": [],
+				"value": [{
+					"reference": "https://www.forbes.com/2002/09/03/0902vow.html",
+					"value": [{
+						"styles": [],
+						"value": "This ",
+						"type": "Text"
+					}, {
+						"styles": ["Italic"],
+						"value": "Forbes",
+						"type": "Text"
+					}, {
+						"styles": [],
+						"value": " article",
+						"type": "Text"
+					}],
+					"type": "Link"
+				}, {
+					"styles": [],
+					"value": " gives some great insight into why it's an excellent used car buy. They report that it's one of the most reliable Ferraris ever built (though it's surely no Honda Civic), and the technology it has won't overwhelm the average mechanic.",
+					"type": "Text"
+				}],
+				"type": "Paragraph"
+			}, {
+				"containers": [],
+				"value": [{
+					"styles": [],
+					"value": "This may explain why we found this 328 GTS in such great shape. It's a Ferrari with pop-up headlights! And it's red, too! What more could you want?",
+					"type": "Text"
+				}],
+				"type": "Paragraph"
+			}, {
+				"containers": [],
+				"value": [{
+					"styles": [],
+					"value": "Unfortunately, there is one barrier to my dream of old-school Ferrari ownership: cost. A search on cars.com reveals that the 328 GTS has held its value very well, with some models topping $60,000. So while it's still cheaper than a new Ferrari, it's out of my range for now. Someone buy me one!",
+					"type": "Text"
+				}],
+				"type": "Paragraph"
+			}, {
+				"containers": [],
+				"value": [{
+					"styles": [],
+					"value": "What used Ferrari would you put in your garage?",
+					"type": "Text"
+				}],
+				"type": "Paragraph"
+			}, {
+				"id": "182e9id8q6kj3jpg",
+				"format": "jpg",
+				"width": 1600,
+				"height": 900,
+				"alignment": "Bleed",
+				"caption": [],
+				"type": "Image"
+			}, {
+				"id": "182e9jasggwgkjpg",
+				"format": "jpg",
+				"width": 1600,
+				"height": 900,
+				"alignment": "Bleed",
+				"caption": [],
+				"type": "Image"
+			}, {
+				"id": "182e9kaazacdijpg",
+				"format": "jpg",
+				"width": 1600,
+				"height": 900,
+				"alignment": "Bleed",
+				"caption": [],
+				"type": "Image"
+			}, {
+				"id": "182e9l1x7yj95jpg",
+				"format": "jpg",
+				"width": 1600,
+				"height": 900,
+				"alignment": "Bleed",
+				"caption": [],
+				"type": "Image"
+			}, {
+				"id": "182e9lplm1k46jpg",
+				"format": "jpg",
+				"width": 1600,
+				"height": 900,
+				"alignment": "Bleed",
+				"caption": [],
+				"type": "Image"
+			}, {
+				"id": "182e9mf95mu88jpg",
+				"format": "jpg",
+				"width": 1600,
+				"height": 900,
+				"alignment": "Bleed",
+				"caption": [],
+				"type": "Image"
+			}, {
+				"id": "182e9n2xkwunqjpg",
+				"format": "jpg",
+				"width": 1600,
+				"height": 900,
+				"alignment": "Bleed",
+				"caption": [],
+				"type": "Image"
+			}],
+			"images": [{
+				"src": "https://i.kinja-img.com/gawker-media/image/upload/s--d3BDpPdw--/c_fit,fl_progressive,q_80,w_636/182e98rybjnqojpg.jpg",
+				"id": "182e98rybjnqojpg",
+				"width": 636,
+				"height": 357,
+				"format": "jpg"
+			}, {
+				"src": "https://i.kinja-img.com/gawker-media/image/upload/s--uJkecUDI--/c_fit,fl_progressive,q_80,w_636/182e9id8q6kj3jpg.jpg",
+				"id": "182e9id8q6kj3jpg",
+				"width": 636,
+				"height": 357,
+				"format": "jpg"
+			}, {
+				"src": "https://i.kinja-img.com/gawker-media/image/upload/s--DOxJChm1--/c_fit,fl_progressive,q_80,w_636/182e9jasggwgkjpg.jpg",
+				"id": "182e9jasggwgkjpg",
+				"width": 636,
+				"height": 357,
+				"format": "jpg"
+			}, {
+				"src": "https://i.kinja-img.com/gawker-media/image/upload/s--5bXTdcFt--/c_fit,fl_progressive,q_80,w_636/182e9kaazacdijpg.jpg",
+				"id": "182e9kaazacdijpg",
+				"width": 636,
+				"height": 357,
+				"format": "jpg"
+			}, {
+				"src": "https://i.kinja-img.com/gawker-media/image/upload/s--kiK5sGbY--/c_fit,fl_progressive,q_80,w_636/182e9l1x7yj95jpg.jpg",
+				"id": "182e9l1x7yj95jpg",
+				"width": 636,
+				"height": 357,
+				"format": "jpg"
+			}, {
+				"src": "https://i.kinja-img.com/gawker-media/image/upload/s--JmFw9G-k--/c_fit,fl_progressive,q_80,w_636/182e9lplm1k46jpg.jpg",
+				"id": "182e9lplm1k46jpg",
+				"width": 636,
+				"height": 357,
+				"format": "jpg"
+			}, {
+				"src": "https://i.kinja-img.com/gawker-media/image/upload/s--REWTCSmj--/c_fit,fl_progressive,q_80,w_636/182e9mf95mu88jpg.jpg",
+				"id": "182e9mf95mu88jpg",
+				"width": 636,
+				"height": 357,
+				"format": "jpg"
+			}, {
+				"src": "https://i.kinja-img.com/gawker-media/image/upload/s--h9Sipbyi--/c_fit,fl_progressive,q_80,w_636/182e9n2xkwunqjpg.jpg",
+				"id": "182e9n2xkwunqjpg",
+				"width": 636,
+				"height": 357,
+				"format": "jpg"
+			}],
+			"videos": [],
+			"mainMedia": null,
+			"publishTimeMillis": 1350824400107,
+			"lastUpdateTimeMillis": 1371527834539,
+			"timezone": "America/New_York",
+			"defaultBlogId": "12",
+			"parentId": null,
+			"parentAuthorId": null,
+			"starterId": 5952365,
+			"salesAvatar": null,
+			"sponsored": false,
+			"sharedUrl": null,
+			"status": "PUBLISHED",
+			"authorId": "5741308974721495331",
+			"authorIds": ["5741308974721495331"],
+			"allowReplies": true,
+			"byline": "",
+			"showByline": true,
+			"properties": "",
+			"showAuthorBio": false,
+			"hideAuthorInfo": false,
+			"approved": true,
+			"publishTime": {
+				"timestamp": 1350824400107,
+				"timezone": "America/New_York",
+				"MdyHm": "10/21/2012 09:00",
+				"MdyatHm": "10/21/2012 at 09:00",
+				"rfc822": "Sun, 21 Oct 2012 13:00:00 GMT",
+				"yMdHmsZ": "2012-10-21T09:00:00-04:00",
+				"hmma": "9:00am",
+				"day": "Sunday",
+				"Mddyyhmma": "10/21/12 9:00am",
+				"fullDate": "October 21, 2012",
+				"relative": {
+					"amount": null,
+					"type": "greaterthanweek"
+				}
+			},
+			"author": {
+				"id": "5741308974721495331",
+				"screenName": "pgeorge",
+				"displayName": "Patrick George",
+				"avatar": {
+					"id": "onskwowrikmyz6femzlf",
+					"format": "jpg"
+				}
+			},
+			"authors": [{
+				"id": "5741308974721495331",
+				"screenName": "pgeorge",
+				"displayName": "Patrick George",
+				"avatar": {
+					"id": "onskwowrikmyz6femzlf",
+					"format": "jpg"
+				}
+			}],
+			"tags": [{
+				"canonical": "foundaroundtown",
+				"urlName": "found-around-town",
+				"displayName": "Found Around Town"
+			}, {
+				"canonical": "ferrari",
+				"urlName": "ferrari",
+				"displayName": "Ferrari"
+			}, {
+				"canonical": "328",
+				"urlName": "328",
+				"displayName": "328"
+			}, {
+				"canonical": "gts",
+				"urlName": "gts",
+				"displayName": "Gts"
+			}, {
+				"canonical": "ferrari328",
+				"urlName": "ferrari-328",
+				"displayName": "Ferrari 328"
+			}, {
+				"canonical": "fb",
+				"urlName": "fb",
+				"displayName": "Fb"
+			}],
+			"replyCount": null,
+			"likes": null,
+			"storyTypeId": null,
+			"storyType": null,
+			"parent": null,
+			"starter": null,
+			"isStarter": true,
+			"defaultBlogDisplayName": "Jalopnik",
+			"defaultBlogHost": "jalopnik.com",
+			"defaultBlogRecircGroup": null,
+			"ads": null,
+			"salesAvatarMap": null,
+			"itemType": "post",
+			"adZone": "",
+			"adSenseDisabled": false,
+			"doNotCrawl": false,
+			"isBillboardPost": false,
+			"gaDimensions": {
+				"wordCount": 365,
+				"wordCountBucket": "200 - 400",
+				"gaVideoIds": ""
+			},
+			"plaintext": "Welcome to Found Around Town, where we feature cars we find in a city where interesting ones are rare because everyone drives a Prius or rides a bicycle: Austin, Texas.",
+			"isBlip": false,
+			"aboveHeadline": null,
+			"leftOfHeadline": {
+				"id": "182e98rybjnqojpg",
+				"format": "jpg",
+				"frozenFormat": "jpg",
+				"isVideo": false,
+				"height": 900,
+				"width": 1600
+			},
+			"firstSentence": "Welcome to Found Around Town, where we feature cars we find in a city where interesting ones are rar",
+			"isFeatured": false,
+			"isVideo": false,
+			"featuredMedia": null,
+			"qaParticipants": [],
+			"qaMembers": [],
+			"qaStatus": null,
+			"staffIncluded": false,
+			"curationImage": null,
+			"relatedPosts": [],
+			"frontpageVideo": null,
+			"hasFeaturedVideo": false,
+			"discussionSettings": null,
+			"categoryData": null,
+			"category": null,
+			"subcategoryData": null,
+			"subcategory": null,
+			"securePermalink": "http://jalopnik.dev:9000/5952365/this-ferrari-328-gts-is-the-best-kind-of-used-car/"
+		}, {
+			"id": 5805167,
+			"permalink": "https://deadspin.dev:9000/5805167/the-dead-wrestler-of-the-week-archive",
+			"permalinkHost": "http://deadspin.dev:9000",
+			"permalinkPath": "/5805167/the-dead-wrestler-of-the-week-archive",
+			"headline": "The Dead Wrestler Of The Week Archive",
+			"original": null,
+			"body": [{
+				"id": "17h5bxlmjm9v8jpg",
+				"format": "jpg",
+				"width": 1000,
+				"height": 566,
+				"alignment": "Bleed",
+				"caption": [],
+				"type": "Image"
+			}, {
+				"containers": [],
+				"value": [{
+					"reference": "http://deadsp.in/gx0LZpo",
+					"value": [{
+						"styles": [],
+						"value": "Brian \"Crush\" Adams (1964-2007):",
+						"type": "Text"
+					}],
+					"type": "Link"
+				}, {
+					"styles": [],
+					"value": " He played so many archetypes of '90s wrestling mythology that he became legendary at none, moving from persona to persona without fully leaving the last behind. No mention of his previous lives was made. He was a man without a history, unstuck in time. ",
+					"type": "Text"
+				}, {
+					"reference": "http://deadsp.in/gx0LZpo",
+					"value": [{
+						"styles": [],
+						"value": "READ »",
+						"type": "Text"
+					}],
+					"type": "Link"
+				}],
+				"type": "Paragraph"
+			}, {
+				"containers": [],
+				"value": [{
+					"reference": "http://deadsp.in/BQsp49n",
+					"value": [{
+						"styles": [],
+						"value": "The Undertaker (1965-):",
+						"type": "Text"
+					}],
+					"type": "Link"
+				}, {
+					"styles": [],
+					"value": " To take nothing away from Undertaker's sui generis legacy, it's probably a net positive that the most popular figure in wrestling — an industry defined as of late by real-life death — isn't so wholly defined by fake-life death. ",
+					"type": "Text"
+				}, {
+					"reference": "http://deadsp.in/BQsp49n",
+					"value": [{
+						"styles": [],
+						"value": "READ »",
+						"type": "Text"
+					}],
+					"type": "Link"
+				}],
+				"type": "Paragraph"
+			}, {
+				"containers": [],
+				"value": [{
+					"reference": "http://deadsp.in/a2DVV0l",
+					"value": [{
+						"styles": [],
+						"value": "\"Macho Man\" Randy Savage (1952-2011):",
+						"type": "Text"
+					}],
+					"type": "Link"
+				}, {
+					"styles": [],
+					"value": " He was engaging even at his most reprehensible, which had everything to do with the unexpected note of pathos in his character, an oddly relatable paranoid streak: We the viewers were suspicious, too. ",
+					"type": "Text"
+				}, {
+					"reference": "http://deadsp.in/a2DVV0l",
+					"value": [{
+						"styles": [],
+						"value": "READ »",
+						"type": "Text"
+					}],
+					"type": "Link"
+				}],
+				"type": "Paragraph"
+			}, {
+				"containers": [],
+				"value": [{
+					"reference": "http://deadsp.in/yKFXc3l",
+					"value": [{
+						"styles": [],
+						"value": "Captain Lou Albano (1933-2009):",
+						"type": "Text"
+					}],
+					"type": "Link"
+				}, {
+					"styles": [],
+					"value": " He kicked open the doors for wrestling's erratic modern era, his dissociative personality spreading to his sport at large. In retrospect, it's paradoxical that a performer footed in the Golden Age of wrestling would incite its unraveling. ",
+					"type": "Text"
+				}, {
+					"reference": "http://deadsp.in/yKFXc3l",
+					"value": [{
+						"styles": [],
+						"value": "READ »",
+						"type": "Text"
+					}],
+					"type": "Link"
+				}],
+				"type": "Paragraph"
+			}, {
+				"containers": [],
+				"value": [{
+					"reference": "http://deadsp.in/djQqoig",
+					"value": [{
+						"styles": [],
+						"value": "\"Ravishing\" Rick Rude (1958-1999):",
+						"type": "Text"
+					}],
+					"type": "Link"
+				}, {
+					"styles": [],
+					"value": " Rude wasn't so much a heel who happened to be attractive as a concentrate of machismo and self-absorption, a Lothario for his own sake. ",
+					"type": "Text"
+				}, {
+					"reference": "http://deadsp.in/djQqoig",
+					"value": [{
+						"styles": [],
+						"value": "READ »",
+						"type": "Text"
+					}],
+					"type": "Link"
+				}],
+				"type": "Paragraph"
+			}, {
+				"containers": [],
+				"value": [{
+					"reference": "http://deadsp.in/sBo6xmj",
+					"value": [{
+						"styles": [],
+						"value": "Owen Hart (1965-1999):",
+						"type": "Text"
+					}],
+					"type": "Link"
+				}, {
+					"styles": [],
+					"value": " His death allowed us to see how indelicately we had been treating reality — ",
+					"type": "Text"
+				}, {
+					"styles": ["Italic"],
+					"value": "this is as real as real can be here",
+					"type": "Text"
+				}, {
+					"styles": [],
+					"value": " — how McMahon and the WWE and all its fans had become cynical and callous. ",
+					"type": "Text"
+				}, {
+					"reference": "http://deadsp.in/sBo6xmj",
+					"value": [{
+						"styles": [],
+						"value": "READ »",
+						"type": "Text"
+					}],
+					"type": "Link"
+				}],
+				"type": "Paragraph"
+			}, {
+				"containers": [],
+				"value": [{
+					"reference": "http://deadsp.in/OuSYAG8",
+					"value": [{
+						"styles": [],
+						"value": "Lance Cade (1981-2010):",
+						"type": "Text"
+					}],
+					"type": "Link"
+				}, {
+					"styles": [],
+					"value": " Because his death came in the midst of former WWE CEO Linda McMahon's bid for the Senate, and because it could be put to immediate political use, Lance Cade's fate has touched on a deeper symbolism: the failure of leadership. ",
+					"type": "Text"
+				}, {
+					"reference": "http://deadsp.in/OuSYAG8",
+					"value": [{
+						"styles": [],
+						"value": "READ »",
+						"type": "Text"
+					}],
+					"type": "Link"
+				}],
+				"type": "Paragraph"
+			}, {
+				"containers": [],
+				"value": [{
+					"reference": "http://deadsp.in/7734gbb",
+					"value": [{
+						"styles": [],
+						"value": "Road Warrior Hawk (1957-2003):",
+						"type": "Text"
+					}],
+					"type": "Link"
+				}, {
+					"styles": [],
+					"value": " The Road Warriors were antiheroes for a Marvelized audience that had acclimated itself to rooting for eccentric baddies. ",
+					"type": "Text"
+				}, {
+					"reference": "http://deadsp.in/7734gbb",
+					"value": [{
+						"styles": [],
+						"value": "READ »",
+						"type": "Text"
+					}],
+					"type": "Link"
+				}],
+				"type": "Paragraph"
+			}, {
+				"containers": [],
+				"value": [{
+					"reference": "http://deadsp.in/jDhkuI9",
+					"value": [{
+						"styles": [],
+						"value": "Extreme Championship Wrestling (1992-2001):",
+						"type": "Text"
+					}],
+					"type": "Link"
+				}, {
+					"styles": [],
+					"value": " ECW did away with a lot of the ironic distancing and comic frou-frou of a mainstream wrestling industry that had grown staid, hokey, and otherworldly, and instead reduced the sport to its essence: fighting. ",
+					"type": "Text"
+				}, {
+					"reference": "http://deadsp.in/jDhkuI9",
+					"value": [{
+						"styles": [],
+						"value": "READ »",
+						"type": "Text"
+					}],
+					"type": "Link"
+				}],
+				"type": "Paragraph"
+			}, {
+				"containers": [],
+				"value": [{
+					"reference": "http://deadsp.in/Ce4zk62",
+					"value": [{
+						"styles": [],
+						"value": "Junkyard Dog (1952-1998):",
+						"type": "Text"
+					}],
+					"type": "Link"
+				}, {
+					"styles": [],
+					"value": " Even with the chains, what Junkyard Dog was doing was a sort of inversion of the racial stereotype act. By playing up the antipathy inherent in racist sentiment, wrestling got the audience to cheer for JYD ",
+					"type": "Text"
+				}, {
+					"styles": ["Italic"],
+					"value": "because",
+					"type": "Text"
+				}, {
+					"styles": [],
+					"value": " he was black. ",
+					"type": "Text"
+				}, {
+					"reference": "http://deadsp.in/Ce4zk62",
+					"value": [{
+						"styles": [],
+						"value": "READ »",
+						"type": "Text"
+					}],
+					"type": "Link"
+				}],
+				"type": "Paragraph"
+			}, {
+				"containers": [],
+				"value": [{
+					"reference": "http://deadsp.in/aKyejn0",
+					"value": [{
+						"styles": [],
+						"value": "Yokozuna (1966-2000):",
+						"type": "Text"
+					}],
+					"type": "Link"
+				}, {
+					"styles": [],
+					"value": " He was a grotesque, a caricature, and his career straddled an old-school wrestling world in which racial/ethnic stereotyping was the norm and a new era in which a new style of un-PC excess reigned. ",
+					"type": "Text"
+				}, {
+					"reference": "http://deadsp.in/aKyejn0",
+					"value": [{
+						"styles": [],
+						"value": "READ »",
+						"type": "Text"
+					}],
+					"type": "Link"
+				}],
+				"type": "Paragraph"
+			}, {
+				"containers": [],
+				"value": [{
+					"reference": "http://deadsp.in/4BdNV8s",
+					"value": [{
+						"styles": [],
+						"value": "Chris Kanyon (1970-2010):",
+						"type": "Text"
+					}],
+					"type": "Link"
+				}, {
+					"styles": [],
+					"value": " One can hardly get past the headline of any of the multitude of Kanyon obits without being confronted with Kanyon's \"idiosyncrasy\" — which is to say, his apparent homosexuality. The irony is that Kanyon was never a particularly eccentric on-screen personality. ",
+					"type": "Text"
+				}, {
+					"reference": "http://deadsp.in/4BdNV8s",
+					"value": [{
+						"styles": [],
+						"value": "READ »",
+						"type": "Text"
+					}],
+					"type": "Link"
+				}],
+				"type": "Paragraph"
+			}, {
+				"containers": [],
+				"value": [{
+					"reference": "http://deadsp.in/ntc2r4S",
+					"value": [{
+						"styles": [],
+						"value": "The Ultimate Warrior (1959-?):",
+						"type": "Text"
+					}],
+					"type": "Link"
+				}, {
+					"styles": [],
+					"value": " The story of the Ultimate Warrior, whether or not you take his death as fact, is one of these metatextual games — it's basically Nabokov with muscles and facepaint. ",
+					"type": "Text"
+				}, {
+					"reference": "http://deadsp.in/ntc2r4S",
+					"value": [{
+						"styles": [],
+						"value": "READ »",
+						"type": "Text"
+					}],
+					"type": "Link"
+				}],
+				"type": "Paragraph"
+			}, {
+				"containers": [],
+				"value": [{
+					"reference": "http://deadsp.in/cBqjIu2",
+					"value": [{
+						"styles": [],
+						"value": "André the Giant (1946-1993):",
+						"type": "Text"
+					}],
+					"type": "Link"
+				}, {
+					"styles": [],
+					"value": " He was an icon of a different era, the last in a long line of real men — William Wallace, Vlad the Impaler, Davy Crockett, etc. — who became gods in the retelling of their tales. ",
+					"type": "Text"
+				}, {
+					"reference": "http://deadsp.in/cBqjIu2",
+					"value": [{
+						"styles": [],
+						"value": "READ »",
+						"type": "Text"
+					}],
+					"type": "Link"
+				}],
+				"type": "Paragraph"
+			}, {
+				"containers": [],
+				"value": [{
+					"reference": "http://deadsp.in/DxJbUxF",
+					"value": [{
+						"styles": [],
+						"value": "\"The Big Boss Man\" Ray Traylor (1963-2004):",
+						"type": "Text"
+					}],
+					"type": "Link"
+				}, {
+					"styles": [],
+					"value": " Ray Traylor was an average guy who achieved his place in the pantheon for being just that, if a little better. ",
+					"type": "Text"
+				}, {
+					"reference": "http://deadsp.in/DxJbUxF",
+					"value": [{
+						"styles": [],
+						"value": "READ »",
+						"type": "Text"
+					}],
+					"type": "Link"
+				}],
+				"type": "Paragraph"
+			}, {
+				"containers": [],
+				"value": [{
+					"reference": "http://deadsp.in/ML9t66h",
+					"value": [{
+						"styles": [],
+						"value": "Miss Elizabeth (1960-2003):",
+						"type": "Text"
+					}],
+					"type": "Link"
+				}, {
+					"styles": [],
+					"value": " Above all, Miss Elizabeth wasn't a woman. She was a symbol — a signifier of ideal beauty, of the perfect woman. ",
+					"type": "Text"
+				}, {
+					"reference": "http://deadsp.in/ML9t66h",
+					"value": [{
+						"styles": [],
+						"value": "READ »",
+						"type": "Text"
+					}],
+					"type": "Link"
+				}],
+				"type": "Paragraph"
+			}, {
+				"containers": [],
+				"value": [{
+					"reference": "http://deadsp.in/TwJpl5r",
+					"value": [{
+						"styles": [],
+						"value": "Dino Bravo (1948-1993):",
+						"type": "Text"
+					}],
+					"type": "Link"
+				}, {
+					"styles": [],
+					"value": " He was archetypal of an outmoded sort of bad-guy wrestler in a number of ways: the bleached hair, the weaselly managers, the my-buddy's-strong-dad physique. That he died in such a theatrically bad-guy sort of way was a lesson in wrestling's happy unreality. ",
+					"type": "Text"
+				}, {
+					"reference": "http://deadsp.in/TwJpl5r",
+					"value": [{
+						"styles": [],
+						"value": "READ »",
+						"type": "Text"
+					}],
+					"type": "Link"
+				}],
+				"type": "Paragraph"
+			}, {
+				"containers": [],
+				"value": [{
+					"reference": "http://deadsp.in/mtAGi7t",
+					"value": [{
+						"styles": [],
+						"value": "\"Mr. Perfect\" Curt Hennig (1958-2003):",
+						"type": "Text"
+					}],
+					"type": "Link"
+				}, {
+					"styles": [],
+					"value": " He was the harbinger for a generation of jackassery, of smart-guy sarcasm and holier-than-thou snark. We are the Mr. Perfect generation. ",
+					"type": "Text"
+				}, {
+					"reference": "http://deadsp.in/mtAGi7t",
+					"value": [{
+						"styles": [],
+						"value": "READ »",
+						"type": "Text"
+					}],
+					"type": "Link"
+				}],
+				"type": "Paragraph"
+			}, {
+				"containers": [],
+				"value": [{
+					"reference": "http://deadsp.in/YxiB3Qr",
+					"value": [{
+						"styles": [],
+						"value": "\"Dr. Death\" Steve Williams (1960-2009):",
+						"type": "Text"
+					}],
+					"type": "Link"
+				}, {
+					"styles": [],
+					"value": " Williams was frightening precisely because he didn't need to fool anybody — we knew that Williams really could kick anybody's ass. ",
+					"type": "Text"
+				}, {
+					"reference": "http://deadsp.in/YxiB3Qr",
+					"value": [{
+						"styles": [],
+						"value": "READ »",
+						"type": "Text"
+					}],
+					"type": "Link"
+				}],
+				"type": "Paragraph"
+			}, {
+				"containers": [],
+				"value": [{
+					"reference": "http://deadsp.in/ca5AIXI",
+					"value": [{
+						"styles": [],
+						"value": "Ludvig Borga (1963-2010):",
+						"type": "Text"
+					}],
+					"type": "Link"
+				}, {
+					"styles": [],
+					"value": " Like Ivan Drago in ",
+					"type": "Text"
+				}, {
+					"styles": ["Italic"],
+					"value": "Rocky IV",
+					"type": "Text"
+				}, {
+					"styles": [],
+					"value": ", Borga was genetically engineered with the sole purpose of striking fear in the hearts of an American audience — but not so much fear that you ever really questioned the ending. ",
+					"type": "Text"
+				}, {
+					"reference": "http://deadsp.in/ca5AIXI",
+					"value": [{
+						"styles": [],
+						"value": "READ »",
+						"type": "Text"
+					}],
+					"type": "Link"
+				}],
+				"type": "Paragraph"
+			}],
+			"images": [{
+				"src": "https://i.kinja-img.com/gawker-media/image/upload/s--ojdAqxbL--/c_fit,fl_progressive,q_80,w_636/17h5bxlmjm9v8jpg.jpg",
+				"id": "17h5bxlmjm9v8jpg",
+				"width": 636,
+				"height": 359,
+				"format": "jpg"
+			}],
+			"videos": [],
+			"mainMedia": null,
+			"publishTimeMillis": 1306265100883,
+			"lastUpdateTimeMillis": 1383324654809,
+			"timezone": "America/New_York",
+			"defaultBlogId": "11",
+			"parentId": null,
+			"parentAuthorId": null,
+			"starterId": 5805167,
+			"salesAvatar": {
+				"id": "17jcxm3lnjqwmpng",
+				"format": "jpg"
+			},
+			"sponsored": false,
+			"sharedUrl": null,
+			"status": "PUBLISHED",
+			"authorId": "5722116879008087946",
+			"authorIds": ["5722116879008087946"],
+			"allowReplies": false,
+			"byline": "The Masked Man",
+			"showByline": true,
+			"properties": "",
+			"showAuthorBio": false,
+			"hideAuthorInfo": false,
+			"approved": true,
+			"publishTime": {
+				"timestamp": 1306265100883,
+				"timezone": "America/New_York",
+				"MdyHm": "05/24/2011 15:25",
+				"MdyatHm": "05/24/2011 at 15:25",
+				"rfc822": "Tue, 24 May 2011 19:25:00 GMT",
+				"yMdHmsZ": "2011-05-24T15:25:00-04:00",
+				"hmma": "3:25pm",
+				"day": "Tuesday",
+				"Mddyyhmma": "5/24/11 3:25pm",
+				"fullDate": "May 24, 2011",
+				"relative": {
+					"amount": null,
+					"type": "greaterthanweek"
+				}
+			},
+			"author": {
+				"id": "5722116879008087946",
+				"screenName": "tcraggs22",
+				"displayName": "Tommy Craggs",
+				"avatar": {
+					"id": "18s47l51ymx1rjpg",
+					"format": "jpg"
+				}
+			},
+			"authors": [{
+				"id": "5722116879008087946",
+				"screenName": "tcraggs22",
+				"displayName": "Tommy Craggs",
+				"avatar": {
+					"id": "18s47l51ymx1rjpg",
+					"format": "jpg"
+				}
+			}],
+			"tags": [{
+				"canonical": "dwotw",
+				"urlName": "dwotw",
+				"displayName": "DWotW"
+			}, {
+				"canonical": "deadwrestleroftheweek",
+				"urlName": "dead-wrestler-of-the-week",
+				"displayName": "Dead Wrestler of the Week"
+			}, {
+				"canonical": "deadwrestleroftheweekarchive",
+				"urlName": "dead-wrestler-of-the-week-archive",
+				"displayName": "Dead wrestler of the week archive"
+			}, {
+				"canonical": "roundup",
+				"urlName": "roundup",
+				"displayName": "Roundup"
+			}],
+			"replyCount": null,
+			"likes": null,
+			"storyTypeId": null,
+			"storyType": null,
+			"parent": null,
+			"starter": null,
+			"isStarter": true,
+			"defaultBlogDisplayName": "Deadspin",
+			"defaultBlogHost": "deadspin.com",
+			"defaultBlogRecircGroup": null,
+			"ads": null,
+			"salesAvatarMap": {
+				"src": "https://i.kinja-img.com/gawker-media/image/upload/s--CNRkvlyf--/c_fit,fl_progressive,q_80,w_636/17jcxm3lnjqwmpng.jpg",
+				"id": "17jcxm3lnjqwmpng",
+				"width": 636,
+				"height": null,
+				"format": "jpg"
+			},
+			"itemType": "post",
+			"adZone": "",
+			"adSenseDisabled": false,
+			"doNotCrawl": false,
+			"isBillboardPost": false,
+			"gaDimensions": {
+				"wordCount": 789,
+				"wordCountBucket": "600 - 800",
+				"gaVideoIds": ""
+			},
+			"plaintext": "Brian &quot;Crush&quot; Adams (1964-2007): He played so many archetypes of &#39;90s wrestling mythology that he became legendary at none, moving from persona to persona without fully leaving the last behind. No mention of his previous lives was made. He was a man without a history, unstuck in time. READ »",
+			"isBlip": false,
+			"aboveHeadline": null,
+			"leftOfHeadline": {
+				"id": "17h5bxlmjm9v8jpg",
+				"format": "jpg",
+				"frozenFormat": "jpg",
+				"isVideo": false,
+				"height": 566,
+				"width": 1000
+			},
+			"firstSentence": "Brian &quot;Crush&quot; Adams (1964-2007): He played so many archetypes of &#39;90s wrestling mythol",
+			"isFeatured": false,
+			"isVideo": false,
+			"featuredMedia": null,
+			"qaParticipants": [],
+			"qaMembers": [],
+			"qaStatus": null,
+			"staffIncluded": false,
+			"curationImage": null,
+			"relatedPosts": [],
+			"frontpageVideo": null,
+			"hasFeaturedVideo": false,
+			"discussionSettings": null,
+			"categoryData": null,
+			"category": null,
+			"subcategoryData": null,
+			"subcategory": null,
+			"securePermalink": "https://deadspin.dev:9000/5805167/the-dead-wrestler-of-the-week-archive"
+		}, {
+			"id": 1820757295,
+			"permalink": "https://theslot.jezebel.dev:9000/melania-trump-definitely-did-not-want-to-be-first-lady-1820757295",
+			"permalinkHost": "http://theslot.jezebel.dev:9000",
+			"permalinkPath": "/melania-trump-definitely-did-not-want-to-be-first-lady-1820757295",
+			"headline": "Melania Trump Definitely Did Not Want to Be First Lady, New Report Confirms Again",
+			"original": null,
+			"body": [{
+				"id": "v75unvvj0ywuki176iim",
+				"format": "jpg",
+				"width": 5000,
+				"height": 2813,
+				"alignment": "Bleed",
+				"caption": [{
+					"styles": [],
+					"value": "Image via AP. ",
+					"type": "Text"
+				}],
+				"type": "Image"
+			}, {
+				"containers": [],
+				"value": [{
+					"styles": [],
+					"value": "It appears that ",
+					"type": "Text"
+				}, {
+					"styles": ["Italic"],
+					"value": "no one",
+					"type": "Text"
+				}, {
+					"styles": [],
+					"value": " in the Trump household had any desire for its demented ",
+					"type": "Text"
+				}, {
+					"styles": ["Italic"],
+					"value": "paterfamilias",
+					"type": "Text"
+				}, {
+					"styles": [],
+					"value": " to become president, including—but ",
+					"type": "Text"
+				}, {
+					"reference": "https://theconcourse.deadspin.com/donald-trump-doesnt-like-this-any-more-than-you-do-1788862854",
+					"value": [{
+						"styles": [],
+						"value": "not limited",
+						"type": "Text"
+					}],
+					"type": "Link"
+				}, {
+					"styles": [],
+					"value": " to—his wife Melania, according to a new ",
+					"type": "Text"
+				}, {
+					"reference": "https://www.vanityfair.com/news/2017/11/flotus-melania-trump-east-wing-first-lady",
+					"value": [{
+						"styles": [],
+						"value": "profile",
+						"type": "Text"
+					}],
+					"type": "Link"
+				}, {
+					"styles": [],
+					"value": " in ",
+					"type": "Text"
+				}, {
+					"styles": ["Italic"],
+					"value": "Vanity Fair",
+					"type": "Text"
+				}, {
+					"styles": [],
+					"value": ", as well as piles of empirical evidence.",
+					"type": "Text"
+				}, {
+					"type": "LineBreak"
+				}],
+				"type": "Paragraph"
+			}, {
+				"containers": [],
+				"value": [{
+					"styles": [],
+					"value": "Melania declined to be interviewed for the writeup, though discussions with White House staff and “friends” (do friends agree to go on the record for damning stories about their friends’ misery?) reveal once again that Mrs. Trump is not a happy camper. ",
+					"type": "Text"
+				}],
+				"type": "Paragraph"
+			}, {
+				"containers": [{
+					"type": "BlockQuote"
+				}],
+				"value": [{
+					"styles": [],
+					"value": "“This isn’t something she wanted and it isn’t something he ever thought he’d win,” one longtime friend of the Trumps’ told me. “She didn’t want this come hell or high water. I don’t think she thought it was going to happen.”",
+					"type": "Text"
+				}],
+				"type": "Paragraph"
+			}, {
+				"containers": [],
+				"value": [{
+					"styles": [],
+					"value": "Well, no shit. Remember ",
+					"type": "Text"
+				}, {
+					"reference": "https://theslot.jezebel.com/melania-and-barron-trump-have-moved-into-white-house-an-1796006769",
+					"value": [{
+						"styles": [],
+						"value": "how excited",
+						"type": "Text"
+					}],
+					"type": "Link"
+				}, {
+					"styles": [],
+					"value": " she was to move into the White House? And with what relish ",
+					"type": "Text"
+				}, {
+					"reference": "https://theslot.jezebel.com/melania-trump-condemns-bullying-in-harsh-terms-without-1818605808#_ga=2.18057337.1927913321.1511738724-523356152.1502060994",
+					"value": [{
+						"styles": [],
+						"value": "she’s jumped",
+						"type": "Text"
+					}],
+					"type": "Link"
+				}, {
+					"styles": [],
+					"value": " into her role as First Lady? Remember how much ",
+					"type": "Text"
+				}, {
+					"reference": "https://theslot.jezebel.com/everybody-had-a-blast-at-the-vatican-why-do-you-ask-1795503128",
+					"value": [{
+						"styles": [],
+						"value": "fun",
+						"type": "Text"
+					}],
+					"type": "Link"
+				}, {
+					"styles": [],
+					"value": " she had at the Vatican? And how much ",
+					"type": "Text"
+				}, {
+					"reference": "https://theslot.jezebel.com/melania-wont-hold-donalds-hand-can-you-blame-her-1795430446#_ga=2.56815338.1927913321.1511738724-523356152.1502060994",
+					"value": [{
+						"styles": [],
+						"value": "she loves",
+						"type": "Text"
+					}],
+					"type": "Link"
+				}, {
+					"styles": [],
+					"value": " her husband? And ",
+					"type": "Text"
+				}, {
+					"reference": "https://theslot.jezebel.com/melania-wont-hold-donalds-hand-can-you-blame-her-1795430446#_ga=2.258179786.1927913321.1511738724-523356152.1502060994",
+					"value": [{
+						"styles": [],
+						"value": "touching",
+						"type": "Text"
+					}],
+					"type": "Link"
+				}, {
+					"styles": [],
+					"value": " his little paw? ",
+					"type": "Text"
+				}],
+				"type": "Paragraph"
+			}, {
+				"containers": [],
+				"value": [{
+					"styles": [],
+					"value": "Another alleged friend added that it was “old news” that Melania and the pastrami to which she’s married “live essentially separate lives;” even her staunchest defenders couldn’t argue with a straight face that she’s content with her current existence. Paolo Zampolli, the modeling agent who introduced Melania to Trump, argued that she ",
+					"type": "Text"
+				}, {
+					"styles": ["Italic"],
+					"value": "must",
+					"type": "Text"
+				}, {
+					"styles": [],
+					"value": " be happy on the basis that “to be the most famous person in the world is not that bad.” Then, he hedges:",
+					"type": "Text"
+				}],
+				"type": "Paragraph"
+			}, {
+				"containers": [{
+					"type": "BlockQuote"
+				}],
+				"value": [{
+					"styles": [],
+					"value": " Still, he acknowledged that it had taken her some time to get used to the role. In what he characterized as “personal speculation,” he told me that “in the beginning it was not pleasant,” owing to the scrutiny of the campaign. Now, Zampolli concluded, she is warming to the role. “She knows what she wants.”",
+					"type": "Text"
+				}],
+				"type": "Paragraph"
+			}, {
+				"containers": [],
+				"value": [{
+					"styles": [],
+					"value": "The story comes just seven months after the magazine’s last ",
+					"type": "Text"
+				}, {
+					"reference": "https://theslot.jezebel.com/vanity-fairs-big-mean-spirited-melania-story-is-here-1794545848",
+					"value": [{
+						"styles": [],
+						"value": "deep dive",
+						"type": "Text"
+					}],
+					"type": "Link"
+				}, {
+					"styles": [],
+					"value": " into Melania’s vacant psyche, suggesting that ",
+					"type": "Text"
+				}, {
+					"styles": ["Italic"],
+					"value": "Vanity Fair",
+					"type": "Text"
+				}, {
+					"styles": [],
+					"value": " has successfully cornered “Melania Is Miserable” beat. But if they keep writing ‘em, I’ll keep reading ‘em, right up until the day my eyeballs ossify into marbles. Which can’t come soon enough. ",
+					"type": "Text"
+				}, {
+					"type": "LineBreak"
+				}],
+				"type": "Paragraph"
+			}],
+			"images": [{
+				"src": "https://i.kinja-img.com/gawker-media/image/upload/s--grmdoqta--/c_fit,fl_progressive,q_80,w_636/v75unvvj0ywuki176iim.jpg",
+				"id": "v75unvvj0ywuki176iim",
+				"width": 636,
+				"height": 357,
+				"format": "jpg"
+			}],
+			"videos": [],
+			"mainMedia": {
+				"id": "v75unvvj0ywuki176iim",
+				"format": "jpg",
+				"width": 5000,
+				"height": 2813,
+				"alignment": "Bleed",
+				"caption": [{
+					"styles": [],
+					"value": "Image via AP. ",
+					"type": "Text"
+				}],
+				"type": "Image"
+			},
+			"publishTimeMillis": 1511763960295,
+			"lastUpdateTimeMillis": 1511764746019,
+			"timezone": "America/New_York",
+			"defaultBlogId": "1634876795",
+			"parentId": null,
+			"parentAuthorId": null,
+			"starterId": 1820757295,
+			"salesAvatar": null,
+			"sponsored": false,
+			"sharedUrl": null,
+			"status": "PUBLISHED",
+			"authorId": "5876237249236298543",
+			"authorIds": ["5876237249236298543"],
+			"allowReplies": true,
+			"byline": "",
+			"showByline": true,
+			"properties": "{\"dropCapEnabled\":false}",
+			"showAuthorBio": true,
+			"hideAuthorInfo": false,
+			"approved": true,
+			"publishTime": {
+				"timestamp": 1511763960295,
+				"timezone": "America/New_York",
+				"MdyHm": "11/27/2017 01:26",
+				"MdyatHm": "11/27/2017 at 01:26",
+				"rfc822": "Mon, 27 Nov 2017 06:26:00 GMT",
+				"yMdHmsZ": "2017-11-27T01:26:00-05:00",
+				"hmma": "1:26am",
+				"day": "Monday",
+				"Mddyyhmma": "11/27/17 1:26am",
+				"fullDate": "November 27, 2017",
+				"relative": {
+					"amount": null,
+					"type": "today"
+				}
+			},
+			"author": {
+				"id": "5876237249236298543",
+				"screenName": "laurennicholeevans",
+				"displayName": "Lauren Evans",
+				"avatar": {
+					"id": "hfnnrjxf1xjzukb3irfx",
+					"format": "png"
+				}
+			},
+			"authors": [{
+				"id": "5876237249236298543",
+				"screenName": "laurennicholeevans",
+				"displayName": "Lauren Evans",
+				"avatar": {
+					"id": "hfnnrjxf1xjzukb3irfx",
+					"format": "png"
+				}
+			}],
+			"tags": [{
+				"canonical": "melaniatrump",
+				"urlName": "melania-trump",
+				"displayName": "melania trump"
+			}, {
+				"canonical": "vanityfair",
+				"urlName": "vanity-fair",
+				"displayName": "vanity fair"
+			}],
+			"replyCount": null,
+			"likes": null,
+			"storyTypeId": null,
+			"storyType": null,
+			"parent": null,
+			"starter": null,
+			"isStarter": true,
+			"defaultBlogDisplayName": "The Slot",
+			"defaultBlogHost": "theslot.jezebel.com",
+			"defaultBlogRecircGroup": null,
+			"ads": null,
+			"salesAvatarMap": null,
+			"itemType": "post",
+			"adZone": "",
+			"adSenseDisabled": false,
+			"doNotCrawl": false,
+			"isBillboardPost": false,
+			"gaDimensions": {
+				"wordCount": 369,
+				"wordCountBucket": "200 - 400",
+				"gaVideoIds": ""
+			},
+			"plaintext": "It appears that no one in the Trump household had any desire for its demented paterfamilias to become president, including—but not limited to—his wife Melania, according to a new profile in Vanity Fair, as well as piles of empirical evidence.\n",
+			"isBlip": false,
+			"aboveHeadline": {
+				"id": "v75unvvj0ywuki176iim",
+				"format": "jpg",
+				"frozenFormat": "jpg",
+				"isVideo": false,
+				"height": 2813,
+				"width": 5000
+			},
+			"leftOfHeadline": {
+				"id": "v75unvvj0ywuki176iim",
+				"format": "jpg",
+				"frozenFormat": "jpg",
+				"isVideo": false,
+				"height": 2813,
+				"width": 5000
+			},
+			"firstSentence": "It appears that no one in the Trump household had any desire for its demented paterfamilias to becom",
+			"isFeatured": false,
+			"isVideo": false,
+			"featuredMedia": null,
+			"qaParticipants": [],
+			"qaMembers": [],
+			"qaStatus": null,
+			"staffIncluded": false,
+			"curationImage": null,
+			"relatedPosts": [],
+			"frontpageVideo": null,
+			"hasFeaturedVideo": false,
+			"discussionSettings": null,
+			"categoryData": null,
+			"category": null,
+			"subcategoryData": null,
+			"subcategory": null,
+			"securePermalink": "https://theslot.jezebel.dev:9000/melania-trump-definitely-did-not-want-to-be-first-lady-1820757295"
+		}, {
+			"id": 1830080989,
+			"permalinkRedirect": null,
+			"parentId": null,
+			"parentAuthorId": null,
+			"parentAuthorIds": [],
+			"starterId": 1830080989,
+			"publishTimeMillis": 1540903560989,
+			"lastUpdateTimeMillis": 1540903931261,
+			"timezone": "America/New_York",
+			"sharedUrl": null,
+			"salesAvatar": null,
+			"sponsored": false,
+			"adSettings": null,
+			"status": "PUBLISHED",
+			"authorId": "5876237249236316792",
+			"authorIds": ["5876237249236316792"],
+			"allowReplies": true,
+			"showAuthorBio": true,
+			"byline": "",
+			"showByline": true,
+			"properties": "{\"headTitleTag\":\"Apple iPad Pro Event Liveblog 2018: iPad Pros and MacBooks\",\"sharingMainImageSetInDistTools\":true,\"hideFromRss\":false,\"socialHeadline\":\"Apple iPad Pro Event Liveblog 2018: iPad Pros and MacBooks\",\"socialDescription\":\"\",\"autoRepostDisabled\":false,\"impactHeader\":{}}",
+			"isFeatured": false,
+			"isVideo": false,
+			"relatedModule": {
+				"posts": [{
+					"id": 1830027302
+				}, {
+					"id": 1788278944
+				}, {
+					"id": 1823514598
+				}, {
+					"id": 1822332466
+				}, {
+					"id": 1829954276
+				}, {
+					"id": 1829912968
+				}],
+				"storyTypes": [],
+				"tags": []
+			},
+			"defaultBlogId": "4",
+			"approved": true,
+			"headline": "Our Apple iPad Pro Event Liveblog Is Right Here",
+			"body": [{
+				"id": "gb60pz6qv8intctzfqfd",
+				"format": "gif",
+				"width": 800,
+				"height": 450,
+				"alignment": "Bleed",
+				"caption": [],
+				"syndicationRights": true,
+				"attribution": [{
+					"label": "Gif",
+					"credit": [{
+						"styles": [],
+						"value": "Apple",
+						"type": "Text"
+					}],
+					"source": []
+				}],
+				"lightbox": true,
+				"type": "Image"
+			}, {
+				"containers": [],
+				"value": [{
+					"styles": [],
+					"value": "I know, it may seem like we never shut up about Apple, but I promise this is likely the last Apple event of 2018, and for techie nerds, it promises to be a good one. ",
+					"type": "Text"
+				}, {
+					"reference": "https://gizmodo.com/what-to-actually-expect-from-apples-ipad-and-macbook-ev-1829954276#_ga=2.33397430.963540373.1540833172-2135808592.1525885870",
+					"value": [{
+						"styles": [],
+						"value": "Apple is expected to announce a new iPad Pro with an extremely narrow bezel, Face ID, and hopefully some software solutions to compensate for the lack of a home button",
+						"type": "Text"
+					}],
+					"type": "Link"
+				}, {
+					"styles": [],
+					"value": ".",
+					"type": "Text"
+				}, {
+					"type": "LineBreak"
+				}],
+				"type": "Paragraph"
+			}, {
+				"containers": [],
+				"value": [{
+					"styles": [],
+					"value": "But while that is the main event it likely won’t be the only thing Apple announces at the event held at the Brooklyn Academy of Music, just a few miles from Gizmodo HQ.",
+					"type": "Text"
+				}],
+				"type": "Paragraph"
+			}, {
+				"containers": [],
+				"value": [{
+					"styles": [],
+					"value": "Apple is also expected to announce a new MacBook product, that could be cheaper than what’s available now, and ",
+					"type": "Text"
+				}, {
+					"reference": "https://gizmodo.com/please-put-the-macbook-air-out-of-its-misery-1830027302",
+					"value": [{
+						"styles": [],
+						"value": "could be a replacement for the MacBook Air",
+						"type": "Text"
+					}],
+					"type": "Link"
+				}, {
+					"styles": [],
+					"value": ".",
+					"type": "Text"
+				}],
+				"type": "Paragraph"
+			}, {
+				"containers": [],
+				"value": [{
+					"styles": [],
+					"value": "I’ll be on site at BAM to cover the announcement and have my longest camera lens all ready to go. Meanwhile, Adam Clark Estes will be chained to his computer in a remote facility picking up any of the news I miss and checking the quagmire that is Twitter so you and I don’t have to.",
+					"type": "Text"
+				}],
+				"type": "Paragraph"
+			}, {
+				"containers": [],
+				"value": [{
+					"styles": [],
+					"value": "If you’d like to follow along the event starts tomorrow October 30 at 10 a.m. ET and 7 a.m. PT. We’ll blogging from here starting maybe an hour before. I know, it’s early. Anyone got a coffee recommendation near BAM?",
+					"type": "Text"
+				}],
+				"type": "Paragraph"
+			}],
+			"tags": [{
+				"canonical": "appleipadproday2018",
+				"urlName": "apple-ipad-pro-day-2018",
+				"displayName": "Apple iPad Pro Day 2018"
+			}, {
+				"canonical": "ipadpro",
+				"urlName": "ipad-pro",
+				"displayName": "iPad Pro"
+			}, {
+				"canonical": "appleliveblog",
+				"urlName": "apple-liveblog",
+				"displayName": "Apple Liveblog"
+			}, {
+				"canonical": "macbook",
+				"urlName": "macbook",
+				"displayName": "MacBook"
+			}],
+			"images": [{
+				"id": "gb60pz6qv8intctzfqfd",
+				"width": 800,
+				"height": 450,
+				"format": "gif"
+			}],
+			"videos": [],
+			"featuredMedia": null,
+			"mainMedia": {
+				"id": "gb60pz6qv8intctzfqfd",
+				"format": "gif",
+				"width": 800,
+				"height": 450,
+				"alignment": "Bleed",
+				"caption": [],
+				"syndicationRights": true,
+				"attribution": [{
+					"label": "Gif",
+					"credit": [{
+						"styles": [],
+						"value": "Apple",
+						"type": "Text"
+					}],
+					"source": []
+				}],
+				"lightbox": true,
+				"type": "Image"
+			},
+			"largeOnStream": true,
+			"relatedPosts": [{
+				"id": 1830027302,
+				"headline": "Please Put the MacBook Air Out of Its Misery",
+				"sharingMainImage": {
+					"src": "UNUSED",
+					"isAnimated": false,
+					"id": "l2zs2krzdzs6ep8azo6w",
+					"width": 800,
+					"height": 450,
+					"format": "jpg",
+					"frozenFormat": "jpg"
+				},
+				"permalink": "https://gizmodo.com/please-put-the-macbook-air-out-of-its-misery-1830027302",
+				"blogGroup": "gizmodo",
+				"defaultBlogId": "4",
+				"defaultBlogDisplayName": "Gizmodo",
+				"defaultBlogRecircGroup": "fmgNonSatire"
+			}, {
+				"id": 1788278944,
+				"headline": "RIP MacBook Air?",
+				"sharingMainImage": {
+					"src": "UNUSED",
+					"isAnimated": false,
+					"id": "m6cujxceyq84vnknphq2",
+					"width": 800,
+					"height": 506,
+					"format": "jpg",
+					"frozenFormat": "jpg"
+				},
+				"permalink": "https://gizmodo.com/rip-the-macbook-air-1788278944",
+				"blogGroup": "gizmodo",
+				"defaultBlogId": "4",
+				"defaultBlogDisplayName": "Gizmodo",
+				"defaultBlogRecircGroup": "fmgNonSatire"
+			}, {
+				"id": 1823514598,
+				"headline": "Apple, Please Ignore the Latest Rumor and Let the MacBook Air Die ",
+				"sharingMainImage": {
+					"src": "UNUSED",
+					"isAnimated": false,
+					"id": "ttyklz8bm5ub9zvvtagx",
+					"width": 800,
+					"height": 450,
+					"format": "jpg",
+					"frozenFormat": "jpg",
+					"type": "image"
+				},
+				"permalink": "https://gizmodo.com/apple-please-ignore-the-latest-rumor-and-let-the-macbo-1823514598",
+				"blogGroup": "gizmodo",
+				"defaultBlogId": "4",
+				"defaultBlogDisplayName": "Gizmodo",
+				"defaultBlogRecircGroup": "fmgNonSatire"
+			}, {
+				"id": 1822332466,
+				"headline": "Apple Might Finally—FINALLY—Kill the MacBook Air",
+				"sharingMainImage": {
+					"src": "UNUSED",
+					"isAnimated": false,
+					"id": "yrmczfpdpf4lgsodgxdh",
+					"width": 800,
+					"height": 450,
+					"format": "jpg",
+					"frozenFormat": "jpg"
+				},
+				"permalink": "https://gizmodo.com/apple-might-finally-finally-kill-the-macbook-air-1822332466",
+				"blogGroup": "gizmodo",
+				"defaultBlogId": "4",
+				"defaultBlogDisplayName": "Gizmodo",
+				"defaultBlogRecircGroup": "fmgNonSatire"
+			}, {
+				"id": 1829954276,
+				"headline": "What&#39;s Apple Going to Announce at Its iPad and MacBook Event Next Week?",
+				"sharingMainImage": {
+					"src": "UNUSED",
+					"isAnimated": true,
+					"id": "kafvz9spm6sg55qanzhr",
+					"width": 800,
+					"height": 450,
+					"format": "gif",
+					"frozenFormat": "jpg"
+				},
+				"permalink": "https://gizmodo.com/what-to-actually-expect-from-apples-ipad-and-macbook-ev-1829954276",
+				"blogGroup": "gizmodo",
+				"defaultBlogId": "4",
+				"defaultBlogDisplayName": "Gizmodo",
+				"defaultBlogRecircGroup": "fmgNonSatire"
+			}, {
+				"id": 1829912968,
+				"headline": "iPhone XR Review: Affordability Done Right",
+				"sharingMainImage": {
+					"src": "UNUSED",
+					"isAnimated": false,
+					"id": "j7kvd6ttdf3feange72y",
+					"width": 800,
+					"height": 450,
+					"format": "jpg",
+					"frozenFormat": "jpg"
+				},
+				"permalink": "https://gizmodo.com/the-iphone-xr-is-apples-new-real-big-deal-1829912968",
+				"blogGroup": "gizmodo",
+				"defaultBlogId": "4",
+				"defaultBlogDisplayName": "Gizmodo",
+				"defaultBlogRecircGroup": "fmgNonSatire"
+			}],
+			"firstSentence": "I know, it may seem like we never shut up about Apple, but I promise this is likely the last Apple e",
+			"isBlip": false,
+			"length": 1154,
+			"postId": 1830080989,
+			"aboveHeadline": {
+				"src": "UNUSED",
+				"isAnimated": true,
+				"id": "gb60pz6qv8intctzfqfd",
+				"width": 800,
+				"height": 450,
+				"format": "gif",
+				"frozenFormat": "jpg",
+				"type": "image"
+			},
+			"leftOfHeadline": {
+				"src": "UNUSED",
+				"isAnimated": true,
+				"id": "gb60pz6qv8intctzfqfd",
+				"width": 320,
+				"height": 180,
+				"format": "gif",
+				"frozenFormat": "jpg",
+				"type": "image"
+			},
+			"sharingMainImage": {
+				"src": "UNUSED",
+				"isAnimated": true,
+				"id": "gb60pz6qv8intctzfqfd",
+				"width": 800,
+				"height": 450,
+				"format": "gif",
+				"frozenFormat": "jpg"
+			},
+			"plaintext": "I know, it may seem like we never shut up about Apple, but I promise this is likely the last Apple event of 2018, and for techie nerds, it promises to be a good one. Apple is expected to announce a new iPad Pro with an extremely narrow bezel, Face ID, and hopefully some software solutions to compensate for the lack of a home button.",
+			"author": null,
+			"authors": [],
+			"parent": null,
+			"starter": null,
+			"storyTypeId": 128,
+			"permalink": "https://gizmodo.com/this-will-be-the-gizmodo-apple-ipad-pro-event-liveblog-1830080989",
+			"permalinkHost": "https://gizmodo.com",
+			"permalinkPath": "/this-will-be-the-gizmodo-apple-ipad-pro-event-liveblog-1830080989",
+			"publishTime": {
+				"timestamp": 1540903560989,
+				"timezone": "America/New_York",
+				"MdyHm": "10/30/2018 08:46",
+				"MdyatHm": "10/30/2018 at 08:46",
+				"rfc822": "Tue, 30 Oct 2018 12:46:00 GMT",
+				"yMdHmsZ": "2018-10-30T08:46:00-04:00",
+				"hmma": "8:46am",
+				"day": "Tuesday",
+				"Mddyyhmma": "10/30/18 8:46am",
+				"fullDate": "October 30, 2018",
+				"relative": {
+					"amount": null,
+					"type": "pastweek"
+				}
+			}
+		},
+		{
+			"id": 1830170399,
+			"permalinkRedirect": null,
+			"parentId": null,
+			"parentAuthorId": null,
+			"parentAuthorIds": [],
+			"starterId": 1830170399,
+			"publishTimeMillis": 1541131800399,
+			"lastUpdateTimeMillis": 1541161547005,
+			"timezone": "America/New_York",
+			"sharedUrl": null,
+			"salesAvatar": null,
+			"sponsored": false,
+			"adSettings": null,
+			"status": "PUBLISHED",
+			"authorId": "5876237249235091913",
+			"authorIds": ["5876237249235091913"],
+			"allowReplies": true,
+			"showAuthorBio": true,
+			"byline": "",
+			"showByline": true,
+			"properties": "{\"headTitleTag\":\"Colorado Gov. and Presidential Candidate Honors Saudi Lobbyists\",\"sharingMainImageSetInDistTools\":true,\"socialHeadline\":\"\",\"socialDescription\":\"\",\"autoRepostDisabled\":false,\"impactHeader\":{}}",
+			"isFeatured": false,
+			"isVideo": false,
+			"relatedModule": {
+				"posts": [{
+					"id": 1829821436
+				}, {
+					"id": 1829888027
+				}, {
+					"id": 1829868809
+				}],
+				"storyTypes": [],
+				"tags": []
+			},
+			"defaultBlogId": "1635895473",
+			"approved": true,
+			"headline": "Colorado Governor All But Confirms 2020 Run, Then Honors Lobbying Firm Representing Saudi Arabia",
+			"body": [{
+				"id": "b0ldfkkvh6fjsndbvljl",
+				"format": "jpg",
+				"width": 4000,
+				"height": 2670,
+				"alignment": "Bleed",
+				"caption": [],
+				"syndicationRights": false,
+				"attribution": [{
+					"label": "Photo",
+					"credit": [],
+					"source": [{
+						"styles": [],
+						"value": "Riccardo Savi/Getty",
+						"type": "Text"
+					}]
+				}],
+				"lightbox": true,
+				"type": "Image"
+			}, {
+				"containers": [],
+				"value": [{
+					"styles": [],
+					"value": "Colorado Governor John Hickenlooper ",
+					"type": "Text"
+				}, {
+					"reference": "https://www.cbsnews.com/news/colorado-gov-john-hickenlooper-says-hes-running-for-president-walks-it-back/",
+					"value": [{
+						"styles": [],
+						"value": "said yesterday",
+						"type": "Text"
+					}],
+					"type": "Link"
+				}, {
+					"styles": [],
+					"value": " he was “leaning strongly” towards running for president, ",
+					"type": "Text"
+				}, {
+					"styles": [],
+					"value": "all but confirming a bid in the 2020 Democratic primary. Colorado limits their governors to two terms in office, so he won’t be running for reelection in this year’s midterms.",
+					"type": "Text"
+				}, {
+					"type": "LineBreak"
+				}],
+				"type": "Paragraph"
+			}, {
+				"containers": [],
+				"value": [{
+					"styles": [],
+					"value": "One day after his announcement, Hickenlooper named November 1st Brownstein Hyatt Farber Schreck 50th Anniversary Day, after the Denver lobbying firm ",
+					"type": "Text"
+				}, {
+					"reference": "https://twitter.com/BrownsteinHyatt/status/1058124717180125184",
+					"value": [{
+						"styles": [],
+						"value": "according to a tweet",
+						"type": "Text"
+					}],
+					"type": "Link"
+				}, {
+					"styles": [],
+					"value": " by the firm. BHFS said last week that ",
+					"type": "Text"
+				}, {
+					"reference": "https://www.9news.com/article/news/local/next/denver-law-firm-still-lobbying-for-saudi-arabia-after-journalists-killing/73-608494164",
+					"value": [{
+						"styles": [],
+						"value": "they have no plans",
+						"type": "Text"
+					}],
+					"type": "Link"
+				}, {
+					"styles": [],
+					"value": " to stop representing Saudi Arabia after the kingdom ",
+					"type": "Text"
+				}, {
+					"reference": "https://splinternews.com/everything-you-need-to-know-about-the-disappearance-and-1829821436",
+					"value": [{
+						"styles": [],
+						"value": "allegedly planned and carried out the murder of journalist Jamal Khashoggi",
+						"type": "Text"
+					}],
+					"type": "Link"
+				}, {
+					"styles": [],
+					"value": " last month.",
+					"type": "Text"
+				}],
+				"type": "Paragraph"
+			}, {
+				"containers": [],
+				"value": [{
+					"styles": [],
+					"value": "The announcement from BHFS was noticed and pointed out by journalist David Sirota on Twitter.",
+					"type": "Text"
+				}],
+				"type": "Paragraph"
+			}, {
+				"id": "1058176562560782336",
+				"type": "Twitter"
+			}, {
+				"containers": [],
+				"value": [{
+					"styles": [],
+					"value": "Hickenlooper, a Democrat, has been in office since 2011. He’s overseen the legalization of cannabis in Colorado, which has brought ",
+					"type": "Text"
+				}, {
+					"reference": "https://www.colorado.gov/pacific/revenue/colorado-marijuana-tax-data",
+					"value": [{
+						"styles": [],
+						"value": "millions of dollars",
+						"type": "Text"
+					}],
+					"type": "Link"
+				}, {
+					"styles": [],
+					"value": " of tax revenue and ",
+					"type": "Text"
+				}, {
+					"reference": "https://www.washingtonpost.com/news/wonk/wp/2016/10/27/the-marijuana-industry-created-over-18000-new-jobs-in-colorado-last-year/",
+					"value": [{
+						"styles": [],
+						"value": "more than 18,000 jobs",
+						"type": "Text"
+					}],
+					"type": "Link"
+				}, {
+					"styles": [],
+					"value": " to the state. However, Hickenlooper, a partial owner of Wynkoop Brewing Company,  opposed legalization ",
+					"type": "Text"
+				}, {
+					"reference": "http://www.latimes.com/nation/la-na-hickenlooper-marijuana-20160516-20160516-snap-story.html",
+					"value": [{
+						"styles": [],
+						"value": "until recently",
+						"type": "Text"
+					}],
+					"type": "Link"
+				}, {
+					"styles": [],
+					"value": ".",
+					"type": "Text"
+				}],
+				"type": "Paragraph"
+			}, {
+				"containers": [],
+				"value": [{
+					"styles": [],
+					"value": "The outcry over Khashoggi’s death has driven some businesses to distance themselves from Saudi Arabia. Many lobbying groups have ",
+					"type": "Text"
+				}, {
+					"reference": "https://www.washingtonpost.com/politics/two-more-washington-lobbying-firms-drop-their-representation-of-saudi-arabia-in-wake-of-alleged-killing-of-jamal-khashoggi/2018/10/15/97ef1a38-d0b6-11e8-b2d2-f397227b43f0_story.html",
+					"value": [{
+						"styles": [],
+						"value": "backed away from the kingdom",
+						"type": "Text"
+					}],
+					"type": "Link"
+				}, {
+					"styles": [],
+					"value": " in response to the continued controversy, but BHFS has held firm. They’ve recently lobbied on behalf of the Saudis in opposition to a bill known as ",
+					"type": "Text"
+				}, {
+					"reference": "http://fortune.com/2018/07/17/oil-opec-nopec-trump-price-fixing/",
+					"value": [{
+						"styles": [],
+						"value": "NOPEC",
+						"type": "Text"
+					}],
+					"type": "Link"
+				}, {
+					"styles": [],
+					"value": ", would allow the U.S. to sue Saudi Arabia and other OPEC members for fixing oil prices. ",
+					"type": "Text"
+				}, {
+					"type": "LineBreak"
+				}],
+				"type": "Paragraph"
+			}, {
+				"containers": [],
+				"value": [{
+					"styles": [],
+					"value": "In addition to their alleged involvement in Khashoggi’s killing, Saudi Arabia is also under fire for the civilian death toll in their ",
+					"type": "Text"
+				}, {
+					"reference": "https://www.ft.com/content/822261a6-dce6-11e8-9f04-38d397e6661c",
+					"value": [{
+						"styles": [],
+						"value": "ongoing war with Yemen",
+						"type": "Text"
+					}],
+					"type": "Link"
+				}, {
+					"styles": [],
+					"value": ", a war that ",
+					"type": "Text"
+				}, {
+					"reference": "https://www.theatlantic.com/international/archive/2018/09/iran-yemen-saudi-arabia/571465/",
+					"value": [{
+						"styles": [],
+						"value": "the U.S. has supported",
+						"type": "Text"
+					}],
+					"type": "Link"
+				}, {
+					"styles": [],
+					"value": ", including with arms sales and mid-air jet refueling. An American bomb was used in the Saudi mission that ",
+					"type": "Text"
+				}, {
+					"reference": "https://splinternews.com/after-saudi-air-strike-kills-44-children-members-of-co-1828375785",
+					"value": [{
+						"styles": [],
+						"value": "killed 44 children",
+						"type": "Text"
+					}],
+					"type": "Link"
+				}, {
+					"styles": [],
+					"value": " in a Yemeni school bus this August.",
+					"type": "Text"
+				}],
+				"type": "Paragraph"
+			}, {
+				"containers": [],
+				"value": [{
+					"styles": [],
+					"value": "We’ve reached out to Hickenlooper’s office for comment.",
+					"type": "Text"
+				}, {
+					"type": "LineBreak"
+				}],
+				"type": "Paragraph"
+			}, {
+				"containers": [],
+				"value": [{
+					"styles": ["Italic", "Bold"],
+					"value": "Update, 11/2/118, 8:25 a.m. ET: ",
+					"type": "Text"
+				}, {
+					"styles": ["Italic"],
+					"value": "The headline of this post has been updated.",
+					"type": "Text"
+				}],
+				"type": "Paragraph"
+			}],
+			"tags": [{
+				"canonical": "johnhickenlooper",
+				"urlName": "john-hickenlooper",
+				"displayName": "john hickenlooper"
+			}, {
+				"canonical": "2020",
+				"urlName": "2020",
+				"displayName": "2020"
+			}, {
+				"canonical": "saudiarabia",
+				"urlName": "saudi-arabia",
+				"displayName": "saudi arabia"
+			}, {
+				"canonical": "brownsteinhyattfarberschreck",
+				"urlName": "brownstein-hyatt-farber-schreck",
+				"displayName": "Brownstein Hyatt Farber Schreck"
+			}, {
+				"canonical": "colorado",
+				"urlName": "colorado",
+				"displayName": "colorado"
+			}],
+			"images": [{
+				"id": "b0ldfkkvh6fjsndbvljl",
+				"width": 4000,
+				"height": 2670,
+				"format": "jpg"
+			}],
+			"videos": [],
+			"featuredMedia": null,
+			"mainMedia": {
+				"id": "b0ldfkkvh6fjsndbvljl",
+				"format": "jpg",
+				"width": 4000,
+				"height": 2670,
+				"alignment": "Bleed",
+				"caption": [],
+				"syndicationRights": false,
+				"attribution": [{
+					"label": "Photo",
+					"credit": [],
+					"source": [{
+						"styles": [],
+						"value": "Riccardo Savi/Getty",
+						"type": "Text"
+					}]
+				}],
+				"lightbox": true,
+				"type": "Image"
+			},
+			"largeOnStream": true,
+			"relatedPosts": [{
+				"id": 1829821436,
+				"headline": "Everything You Need to Know About the Disappearance and Apparent Murder of Jamal Khashoggi",
+				"sharingMainImage": {
+					"src": "UNUSED",
+					"isAnimated": false,
+					"id": "igc2mnr4bqkzodx9ylgc",
+					"width": 800,
+					"height": 533,
+					"format": "jpg",
+					"frozenFormat": "jpg",
+					"type": "image"
+				},
+				"permalink": "https://splinternews.com/everything-you-need-to-know-about-the-disappearance-and-1829821436",
+				"blogGroup": "splinter",
+				"defaultBlogId": "1635895473",
+				"defaultBlogDisplayName": "Splinter",
+				"defaultBlogRecircGroup": "fmgNonSatire"
+			}, {
+				"id": 1829888027,
+				"headline": "Fox News Analyst Calls Saudi\nArabia ‘One of the Safest Places to Be a Journalist’<em></em>",
+				"sharingMainImage": {
+					"src": "UNUSED",
+					"isAnimated": false,
+					"id": "w5btj7szfbdsxi7m1nwt",
+					"width": 3000,
+					"height": 2000,
+					"format": "jpg",
+					"frozenFormat": "jpg"
+				},
+				"permalink": "https://splinternews.com/fox-news-analyst-calls-saudi-arabia-one-of-the-safest-1829888027",
+				"blogGroup": "splinter",
+				"defaultBlogId": "1635895473",
+				"defaultBlogDisplayName": "Splinter",
+				"defaultBlogRecircGroup": "fmgNonSatire"
+			}, {
+				"id": 1829868809,
+				"headline": "Looks Like Steve Mnuchin Is Gonna Go Chill in Saudi Arabia After All",
+				"sharingMainImage": {
+					"src": "UNUSED",
+					"isAnimated": false,
+					"id": "n5bh49zzxycppf9s3l7d",
+					"width": 800,
+					"height": 523,
+					"format": "jpg",
+					"frozenFormat": "jpg",
+					"type": "image"
+				},
+				"permalink": "https://splinternews.com/looks-like-steve-mnuchin-is-gonna-go-chill-in-saudi-ara-1829868809",
+				"blogGroup": "splinter",
+				"defaultBlogId": "1635895473",
+				"defaultBlogDisplayName": "Splinter",
+				"defaultBlogRecircGroup": "fmgNonSatire"
+			}],
+			"firstSentence": "Colorado Governor John Hickenlooper said yesterday he was “leaning strongly” towards running for pre",
+			"isBlip": false,
+			"length": 1933,
+			"postId": 1830170399,
+			"aboveHeadline": {
+				"src": "UNUSED",
+				"isAnimated": false,
+				"id": "b0ldfkkvh6fjsndbvljl",
+				"width": 800,
+				"height": 534,
+				"format": "jpg",
+				"frozenFormat": "jpg",
+				"type": "image"
+			},
+			"leftOfHeadline": {
+				"src": "UNUSED",
+				"isAnimated": false,
+				"id": "b0ldfkkvh6fjsndbvljl",
+				"width": 320,
+				"height": 180,
+				"format": "jpg",
+				"frozenFormat": "jpg",
+				"type": "image"
+			},
+			"sharingMainImage": {
+				"src": "UNUSED",
+				"isAnimated": false,
+				"id": "b0ldfkkvh6fjsndbvljl",
+				"width": 800,
+				"height": 534,
+				"format": "jpg",
+				"frozenFormat": "jpg"
+			},
+			"plaintext": "Colorado Governor John Hickenlooper said yesterday he was “leaning strongly” towards running for president, all but confirming a bid in the 2020 Democratic primary. Colorado limits their governors to two terms in office, so he won’t be running for reelection in this year’s midterms.",
+			"author": null,
+			"authors": [],
+			"parent": null,
+			"starter": null,
+			"storyTypeId": 1036,
+			"permalink": "https://splinternews.com/colorado-governor-after-announcing-presidential-run-g-1830170399",
+			"permalinkHost": "https://splinternews.com",
+			"permalinkPath": "/colorado-governor-after-announcing-presidential-run-g-1830170399",
+			"publishTime": {
+				"timestamp": 1541131800399,
+				"timezone": "America/New_York",
+				"MdyHm": "11/02/2018 00:10",
+				"MdyatHm": "11/02/2018 at 00:10",
+				"rfc822": "Fri, 02 Nov 2018 04:10:00 GMT",
+				"yMdHmsZ": "2018-11-02T00:10:00-04:00",
+				"hmma": "0:10am",
+				"day": "Friday",
+				"Mddyyhmma": "11/02/18 12:10am",
+				"fullDate": "November 2, 2018",
+				"relative": {
+					"amount": null,
+					"type": "today"
+				}
+			}
+		},
+		{
+			"id": 1829941828,
+			"permalinkRedirect": null,
+			"parentId": null,
+			"parentAuthorId": null,
+			"parentAuthorIds": [],
+			"starterId": 1829941828,
+			"publishTimeMillis": 1540321500828,
+			"lastUpdateTimeMillis": 1540328239036,
+			"timezone": "America/New_York",
+			"sharedUrl": null,
+			"salesAvatar": null,
+			"sponsored": false,
+			"adSettings": null,
+			"status": "PUBLISHED",
+			"authorId": "462119157",
+			"authorIds": ["462119157"],
+			"allowReplies": true,
+			"showAuthorBio": true,
+			"byline": "",
+			"showByline": true,
+			"properties": "{\"headTitleTag\":\"White House Releases Report About the 'Costs' of Socialism\",\"sharingMainImageSetInDistTools\":true,\"socialHeadline\":\"The White House Has Apparently Decided It's Time for Another Red Scare\",\"socialDescription\":\"\",\"autoRepostDisabled\":false,\"impactHeader\":{}}",
+			"isFeatured": false,
+			"isVideo": false,
+			"relatedModule": {
+				"posts": [{
+					"id": 1828303582
+				}, {
+					"id": 1827162334
+				}, {
+					"id": 1827797600
+				}],
+				"storyTypes": [],
+				"tags": []
+			},
+			"defaultBlogId": "1635895473",
+			"approved": true,
+			"headline": "The White House Has Apparently Decided It&#39;s Time for Another Red Scare",
+			"body": [{
+				"id": "rwnnfgphwa3rn14z6fk9",
+				"format": "jpg",
+				"width": 3000,
+				"height": 2311,
+				"alignment": "Bleed",
+				"caption": [{
+					"styles": [],
+					"value": "Photo: Herbert K. White (AP)",
+					"type": "Text"
+				}],
+				"syndicationRights": false,
+				"attribution": [],
+				"lightbox": true,
+				"type": "Image"
+			}, {
+				"containers": [],
+				"value": [{
+					"styles": [],
+					"value": "President Donald Trump’s Council of Economic Advisers has a new report out today. No, it’s not about how Republicans have ",
+					"type": "Text"
+				}, {
+					"reference": "https://itep.org/tax-policies-have-increased-inequality-and-so-would-entitlement-cuts/",
+					"value": [{
+						"styles": [],
+						"value": "robbed poor and working class people to pay for tax cuts",
+						"type": "Text"
+					}],
+					"type": "Link"
+				}, {
+					"styles": [],
+					"value": ", or about how ",
+					"type": "Text"
+				}, {
+					"reference": "http://www.pewresearch.org/fact-tank/2018/08/07/for-most-us-workers-real-wages-have-barely-budged-for-decades/",
+					"value": [{
+						"styles": [],
+						"value": "real wage growth has been stagnant for decades",
+						"type": "Text"
+					}],
+					"type": "Link"
+				}, {
+					"styles": [],
+					"value": ". Nope, this report is about the ",
+					"type": "Text"
+				}, {
+					"reference": "https://www.whitehouse.gov/wp-content/uploads/2018/10/The-Opportunity-Costs-of-Socialism.pdf",
+					"value": [{
+						"styles": [],
+						"value": "dangers of socialism",
+						"type": "Text"
+					}],
+					"type": "Link"
+				}, {
+					"styles": [],
+					"value": ". What year is it again?",
+					"type": "Text"
+				}],
+				"type": "Paragraph"
+			}, {
+				"containers": [],
+				"value": [{
+					"styles": [],
+					"value": "In recent months, Trump and the GOP—which has spent much of the past decade labeling avowed capitalists like Barack Obama, Hillary Clinton, and Nancy Pelosi as socialists—have kicked the tires on a new Red Scare. This has featured ",
+					"type": "Text"
+				}, {
+					"reference": "https://www.fox23.com/news/trending-now/trump-says-florida-will-become-another-venezuela-under-gop-opponent-in-gov-race/849287326",
+					"value": [{
+						"styles": [],
+						"value": "constant references to Venezuela",
+						"type": "Text"
+					}],
+					"type": "Link"
+				}, {
+					"styles": [],
+					"value": ", attacks on ",
+					"type": "Text"
+				}, {
+					"reference": "https://www.youtube.com/watch?v=u-2V_6Vf2ho",
+					"value": [{
+						"styles": [],
+						"value": "people standing up to fascists in their neighborhoods",
+						"type": "Text"
+					}],
+					"type": "Link"
+				}, {
+					"styles": [],
+					"value": ", and Trump himself taking a shot at the ",
+					"type": "Text"
+				}, {
+					"reference": "https://www.usatoday.com/story/opinion/2018/10/10/donald-trump-democrats-open-borders-medicare-all-single-payer-column/1560533002/",
+					"value": [{
+						"styles": [],
+						"value": "Medicare for All proposal",
+						"type": "Text"
+					}],
+					"type": "Link"
+				}, {
+					"styles": [],
+					"value": " by Sen. Bernie Sanders.",
+					"type": "Text"
+				}],
+				"type": "Paragraph"
+			}, {
+				"containers": [],
+				"value": [{
+					"styles": [],
+					"value": " And now we have this, a ",
+					"type": "Text"
+				}, {
+					"reference": "https://www.whitehouse.gov/wp-content/uploads/2018/10/The-Opportunity-Costs-of-Socialism.pdf",
+					"value": [{
+						"styles": [],
+						"value": "72-page report",
+						"type": "Text"
+					}],
+					"type": "Link"
+				}, {
+					"styles": [],
+					"value": " released on Tuesday, in which the CEA tries its very best to validate every GOP talking point about everything and everyone socialist, from Venezuela to Joseph Stalin to Elizabeth “",
+					"type": "Text"
+				}, {
+					"reference": "https://splinternews.com/heres-me-giving-elizabeth-warren-major-side-eye-1828561719#_ga=2.120912204.57935078.1540212101-142353312.1520295533",
+					"value": [{
+						"styles": [],
+						"value": "I believe in markets",
+						"type": "Text"
+					}],
+					"type": "Link"
+				}, {
+					"styles": [],
+					"value": "” Warren.",
+					"type": "Text"
+				}],
+				"type": "Paragraph"
+			}, {
+				"containers": [],
+				"value": [{
+					"styles": [],
+					"value": "Some of the highlights (emphasis mine):",
+					"type": "Text"
+				}],
+				"type": "Paragraph"
+			}, {
+				"containers": [{
+					"style": "Bullet",
+					"type": "List"
+				}],
+				"value": [{
+					"styles": [],
+					"value": "This whole passage: “The Chinese leader ",
+					"type": "Text"
+				}, {
+					"styles": ["Bold"],
+					"value": "Mao Zedong",
+					"type": "Text"
+				}, {
+					"styles": [],
+					"value": ", who cited Marxism as the model for his country, described “the ruthless economic exploitation and political oppression of the peasants by the landlord class.” ",
+					"type": "Text"
+				}, {
+					"styles": ["Bold"],
+					"value": "Expressing similar concerns",
+					"type": "Text"
+				}, {
+					"styles": [],
+					"value": ", current American senators ",
+					"type": "Text"
+				}, {
+					"styles": ["Bold"],
+					"value": "Bernie Sanders and Elizabeth Warren",
+					"type": "Text"
+				}, {
+					"styles": [],
+					"value": " have stated that “large corporations . . . exploit human misery and insecurity, and turn them into huge profits” and “giant corporations . . . exploit workers just to boost their own profits.” (It’s fairly safe to say that no Democratic politician—democratic socialists like Sanders and Congressional candidates Alexandria Ocasio-Cortez and Rashida Tlaib included—is agitating for an American Great Leap Forward.)",
+					"type": "Text"
+				}],
+				"type": "Paragraph"
+			}, {
+				"containers": [{
+					"style": "Bullet",
+					"type": "List"
+				}],
+				"value": [{
+					"styles": [],
+					"value": "“Living standards in the Nordic countries are at least 15 percent lower than in the United States,” a statement for which there appears to be no citation whatsoever.",
+					"type": "Text"
+				}],
+				"type": "Paragraph"
+			}, {
+				"containers": [{
+					"style": "Bullet",
+					"type": "List"
+				}],
+				"value": [{
+					"styles": [],
+					"value": "The report says that Iceland is the only Nordic country that “forces single-payer on the entire nation,” but counteracts that by saying it has a smaller population than the least-populated U.S. state, Alaska. Except Alaska isn’t the least-populated state—",
+					"type": "Text"
+				}, {
+					"reference": "https://trib.com/news/state-and-regional/defining-small-town-wyoming-in-the-country-s-least-populous/article_ab118833-27af-5a09-ad98-6003c2f03cc0.html",
+					"value": [{
+						"styles": [],
+						"value": "Wyoming is",
+						"type": "Text"
+					}],
+					"type": "Link"
+				}, {
+					"styles": [],
+					"value": ". These people are supposed to be good at statistics!",
+					"type": "Text"
+				}],
+				"type": "Paragraph"
+			}, {
+				"containers": [{
+					"style": "Bullet",
+					"type": "List"
+				}],
+				"value": [{
+					"styles": [],
+					"value": "If Medicare for All were adopted, the report says, “GDP would fall by 9 percent, or about $7,000 per person in 2022, due to high tax rates that would reduce incentives to supply the factors of production.” Its reference for this is the CEA’s own numbers.",
+					"type": "Text"
+				}],
+				"type": "Paragraph"
+			}, {
+				"id": "rhe6defuzw4yspyiwkdh",
+				"format": "png",
+				"width": 1420,
+				"height": 420,
+				"alignment": "Bleed",
+				"caption": [{
+					"styles": [],
+					"value": "Screenshot: Council of Economic Advisers",
+					"type": "Text"
+				}],
+				"syndicationRights": false,
+				"attribution": [],
+				"lightbox": true,
+				"type": "Image"
+			}, {
+				"containers": [{
+					"style": "Bullet",
+					"type": "List"
+				}],
+				"value": [{
+					"styles": [],
+					"value": "The report cites the infamous Mercatus study, which accidentally found that Medicare for All ",
+					"type": "Text"
+				}, {
+					"reference": "https://jacobinmag.com/2018/07/medicare-for-all-mercatus-center-report",
+					"value": [{
+						"styles": [],
+						"value": "would save $2 trillion in national health expenditures",
+						"type": "Text"
+					}],
+					"type": "Link"
+				}, {
+					"styles": [],
+					"value": " over the course of 10 years.",
+					"type": "Text"
+				}, {
+					"type": "LineBreak"
+				}],
+				"type": "Paragraph"
+			}, {
+				"containers": [{
+					"style": "Bullet",
+					"type": "List"
+				}],
+				"value": [{
+					"styles": [],
+					"value": "There are 30 mentions of Venezuela, not including citations. I counted. The word “",
+					"type": "Text"
+				}, {
+					"reference": "https://fair.org/home/exonerating-the-empire-in-venezuela/",
+					"value": [{
+						"styles": [],
+						"value": "sanctions",
+						"type": "Text"
+					}],
+					"type": "Link"
+				}, {
+					"styles": [],
+					"value": ",” however, is conspicuously absent. ",
+					"type": "Text"
+				}],
+				"type": "Paragraph"
+			}, {
+				"containers": [{
+					"style": "Bullet",
+					"type": "List"
+				}],
+				"value": [{
+					"styles": [],
+					"value": "This:",
+					"type": "Text"
+				}],
+				"type": "Paragraph"
+			}, {
+				"id": "1054735913295769600",
+				"type": "Twitter"
+			}, {
+				"containers": [],
+				"value": [{
+					"styles": [],
+					"value": "The whole thing is first and foremost a nakedly political attempt to scare the Republican base and swing voters who remember the Cold War into voting, but it does show that the GOP views the growing socialist movement in the United States as a tangible threat to its",
+					"type": "Text"
+				}, {
+					"styles": [],
+					"value": " power. With any luck it one day will be, but, uh, I don’t think we’re quite at the level where it warrants an official White House report.",
+					"type": "Text"
+				}],
+				"type": "Paragraph"
+			}],
+			"tags": [{
+				"canonical": "venezuela",
+				"urlName": "venezuela",
+				"displayName": "Venezuela"
+			}, {
+				"canonical": "berniesanders",
+				"urlName": "bernie-sanders",
+				"displayName": "Bernie Sanders"
+			}, {
+				"canonical": "venezuelaagain",
+				"urlName": "venezuela-again",
+				"displayName": "Venezuela again"
+			}, {
+				"canonical": "elizabethwarren",
+				"urlName": "elizabeth-warren",
+				"displayName": "Elizabeth Warren"
+			}, {
+				"canonical": "socialism",
+				"urlName": "socialism",
+				"displayName": "Socialism"
+			}, {
+				"canonical": "donaldtrump",
+				"urlName": "donald-trump",
+				"displayName": "Donald Trump"
+			}, {
+				"canonical": "gop",
+				"urlName": "gop",
+				"displayName": "GOP"
+			}, {
+				"canonical": "councilofeconomicadvisers",
+				"urlName": "council-of-economic-advisers",
+				"displayName": "Council of Economic Advisers"
+			}, {
+				"canonical": "medicareforall",
+				"urlName": "medicare-for-all",
+				"displayName": "Medicare for All"
+			}, {
+				"canonical": "didwementionvenezuela",
+				"urlName": "did-we-mention-venezuela",
+				"displayName": "Did we mention Venezuela?"
+			}],
+			"images": [{
+				"id": "rwnnfgphwa3rn14z6fk9",
+				"width": 3000,
+				"height": 2311,
+				"format": "jpg"
+			}, {
+				"id": "rhe6defuzw4yspyiwkdh",
+				"width": 1420,
+				"height": 420,
+				"format": "png"
+			}],
+			"videos": [],
+			"featuredMedia": null,
+			"mainMedia": {
+				"id": "rwnnfgphwa3rn14z6fk9",
+				"format": "jpg",
+				"width": 3000,
+				"height": 2311,
+				"alignment": "Bleed",
+				"caption": [{
+					"styles": [],
+					"value": "Photo: Herbert K. White (AP)",
+					"type": "Text"
+				}],
+				"syndicationRights": false,
+				"attribution": [],
+				"lightbox": true,
+				"type": "Image"
+			},
+			"largeOnStream": true,
+			"relatedPosts": [{
+				"id": 1828303582,
+				"headline": "More and More Democrats Are Realizing That Capitalism Sucks<em></em>",
+				"sharingMainImage": {
+					"src": "UNUSED",
+					"isAnimated": false,
+					"id": "eghurbojdynxcaytd1iz",
+					"width": 800,
+					"height": 449,
+					"format": "jpg",
+					"frozenFormat": "jpg",
+					"type": "image"
+				},
+				"permalink": "https://splinternews.com/more-and-more-democrats-are-realizing-that-capitalism-s-1828303582",
+				"blogGroup": "splinter",
+				"defaultBlogId": "1635895473",
+				"defaultBlogDisplayName": "Splinter",
+				"defaultBlogRecircGroup": "fmgNonSatire"
+			}, {
+				"id": 1827162334,
+				"headline": "This Is How We Win",
+				"sharingMainImage": {
+					"src": "UNUSED",
+					"isAnimated": false,
+					"id": "mcfqngtennbg7mwlwd2m",
+					"width": 800,
+					"height": 445,
+					"format": "png",
+					"frozenFormat": "png",
+					"type": "image"
+				},
+				"permalink": "https://splinternews.com/this-is-how-we-win-1827162334",
+				"blogGroup": "splinter",
+				"defaultBlogId": "1635895473",
+				"defaultBlogDisplayName": "Splinter",
+				"defaultBlogRecircGroup": "fmgNonSatire"
+			}, {
+				"id": 1827797600,
+				"headline": "I&#39;m Gonna Say Don&#39;t Take Advice From This Guy",
+				"sharingMainImage": {
+					"src": "UNUSED",
+					"isAnimated": false,
+					"id": "fxjmvyjvznwtvugxdmct",
+					"width": 800,
+					"height": 539,
+					"format": "jpg",
+					"frozenFormat": "jpg",
+					"type": "image"
+				},
+				"permalink": "https://splinternews.com/im-gonna-say-dont-take-advice-from-this-guy-1827797600",
+				"blogGroup": "splinter",
+				"defaultBlogId": "1635895473",
+				"defaultBlogDisplayName": "Splinter",
+				"defaultBlogRecircGroup": "fmgNonSatire"
+			}],
+			"firstSentence": "President Donald Trump’s Council of Economic Advisers has a new report out today. ",
+			"isBlip": false,
+			"length": 3190,
+			"postId": 1829941828,
+			"aboveHeadline": {
+				"src": "UNUSED",
+				"isAnimated": false,
+				"id": "rwnnfgphwa3rn14z6fk9",
+				"width": 800,
+				"height": 616,
+				"format": "jpg",
+				"frozenFormat": "jpg",
+				"type": "image"
+			},
+			"leftOfHeadline": {
+				"src": "UNUSED",
+				"isAnimated": false,
+				"id": "rwnnfgphwa3rn14z6fk9",
+				"width": 320,
+				"height": 180,
+				"format": "jpg",
+				"frozenFormat": "jpg",
+				"type": "image"
+			},
+			"sharingMainImage": {
+				"src": "UNUSED",
+				"isAnimated": false,
+				"id": "rwnnfgphwa3rn14z6fk9",
+				"width": 800,
+				"height": 616,
+				"format": "jpg",
+				"frozenFormat": "jpg"
+			},
+			"plaintext": "President Donald Trump’s Council of Economic Advisers has a new report out today. No, it’s not about how Republicans have robbed poor and working class people to pay for tax cuts, or about how real wage growth has been stagnant for decades. Nope, this report is about the dangers of socialism. What year is it again?",
+			"author": null,
+			"authors": [],
+			"parent": null,
+			"starter": null,
+			"storyTypeId": 1040,
+			"permalink": "https://splinternews.com/the-white-house-has-apparently-decided-its-time-for-ano-1829941828",
+			"permalinkHost": "https://splinternews.com",
+			"permalinkPath": "/the-white-house-has-apparently-decided-its-time-for-ano-1829941828",
+			"publishTime": {
+				"timestamp": 1540321500828,
+				"timezone": "America/New_York",
+				"MdyHm": "10/23/2018 15:05",
+				"MdyatHm": "10/23/2018 at 15:05",
+				"rfc822": "Tue, 23 Oct 2018 19:05:00 GMT",
+				"yMdHmsZ": "2018-10-23T15:05:00-04:00",
+				"hmma": "15:05pm",
+				"day": "Tuesday",
+				"Mddyyhmma": "10/23/18 3:05pm",
+				"fullDate": "October 23, 2018",
+				"relative": {
+					"amount": null,
+					"type": "greaterthanweek"
+				}
+			}
+		}
+	]
+}

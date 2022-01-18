@@ -1,0 +1,3457 @@
+{
+	"__comment": "API: https://kinja.com/api/core/feed/views/public?blog=gizmodo&maxReturned=10",
+	"items": [
+	  {
+		"id": 1830532120,
+		"timestamp": 1542624600120,
+		"post": {
+		  "id": 1830532120,
+		  "permalinkRedirect": null,
+		  "parentId": null,
+		  "parentAuthorId": null,
+		  "parentAuthorIds": [],
+		  "starterId": 1830532120,
+		  "publishTimeMillis": 1542624600120,
+		  "lastUpdateTimeMillis": 1542629176582,
+		  "timezone": "America/New_York",
+		  "sharedUrl": null,
+		  "salesAvatar": null,
+		  "sponsored": false,
+		  "adSettings": null,
+		  "status": "PUBLISHED",
+		  "authorId": "489539437",
+		  "authorIds": [
+			"489539437"
+		  ],
+		  "allowReplies": true,
+		  "showAuthorBio": true,
+		  "byline": "",
+		  "showByline": true,
+		  "properties": "{\"headTitleTag\":\"\",\"sharingMainImageSetInDistTools\":true,\"socialHeadline\":\"\",\"socialDescription\":\"\",\"autoRepostDisabled\":false,\"impactHeader\":{}, \"isEmbiggened\": \"true\"}",
+		  "isFeatured": false,
+		  "isVideo": false,
+		  "relatedModule": {
+			"posts": [
+			  {
+				"id": 1830516283
+			  },
+			  {
+				"id": 1830526573
+			  },
+			  {
+				"id": 1830524170
+			  },
+			  {
+				"id": 1795252252
+			  },
+			  {
+				"id": 1795236079
+			  },
+			  {
+				"id": 1795113847
+			  }
+			],
+			"storyTypes": [],
+			"tags": []
+		  },
+		  "defaultBlogId": "4",
+		  "approved": true,
+		  "headline": "Finns Mock President Trump by Posting &#39;Forest Raking&#39; Photos Online",
+		  "body": [
+			{
+			  "id": "vkdq4robrqus35qphfgh",
+			  "format": "jpg",
+			  "width": 910,
+			  "height": 600,
+			  "alignment": "Bleed",
+			  "caption": [],
+			  "syndicationRights": true,
+			  "attribution": [
+				{
+				  "label": "Image",
+				  "credit": [],
+				  "source": [
+					{
+					  "styles": [],
+					  "value": "Twitter",
+					  "type": "Text"
+					}
+				  ]
+				}
+			  ],
+			  "lightbox": true,
+			  "type": "Image"
+			},
+			{
+			  "containers": [],
+			  "value": [
+				{
+				  "styles": [],
+				  "value": "President Donald Trump stood near the charred remains of Paradise, California on Saturday (he called it “",
+				  "type": "Text"
+				},
+				{
+				  "reference": "https://www.theguardian.com/us-news/video/2018/nov/19/pleasure-what-a-name-trump-confused-over-fire-hit-town-paradise-video",
+				  "value": [
+					{
+					  "styles": [],
+					  "value": "Pleasure",
+					  "type": "Text"
+					}
+				  ],
+				  "type": "Link"
+				},
+				{
+				  "styles": [],
+				  "value": "”) and said that Finland doesn’t have problems with destructive wildfires because that country “rakes” ",
+				  "type": "Text"
+				},
+				{
+				  "reference": "https://earther.gizmodo.com/trump-suggests-california-wildfires-can-be-avoided-by-r-1830516283#_ga=2.229833500.1811214315.1541766634-93556896.1526630054",
+				  "value": [
+					{
+					  "styles": [],
+					  "value": "the forest",
+					  "type": "Text"
+					}
+				  ],
+				  "type": "Link"
+				},
+				{
+				  "styles": [],
+				  "value": ". No one, including the ",
+				  "type": "Text"
+				},
+				{
+				  "reference": "https://earther.gizmodo.com/finlands-president-denies-having-conversation-about-rak-1830526573",
+				  "value": [
+					{
+					  "styles": [],
+					  "value": "president of Finland",
+					  "type": "Text"
+					}
+				  ],
+				  "type": "Link"
+				},
+				{
+				  "styles": [],
+				  "value": ", had any idea what Trump was talking about. But the comment did spark a new internet craze, leading virtually the entire country to get outside and do their “haravointi,” which is Finnish for “raking.”",
+				  "type": "Text"
+				},
+				{
+				  "type": "LineBreak"
+				}
+			  ],
+			  "type": "Paragraph"
+			},
+			{
+			  "containers": [],
+			  "value": [
+				{
+				  "styles": [],
+				  "value": "“You gotta take care of the floors. You know the floors of the forest, very important,” President Trump said as others around him looked baffled. “I was with the President of Finland [...] he called it a forest nation and they spent a lot of time on raking and cleaning and doing things and they don’t have any problem.”",
+				  "type": "Text"
+				}
+			  ],
+			  "type": "Paragraph"
+			},
+			{
+			  "containers": [],
+			  "value": [
+				{
+				  "styles": [],
+				  "value": "The ",
+				  "type": "Text"
+				},
+				{
+				  "reference": "https://twitter.com/hashtag/haravointi?src=hash",
+				  "value": [
+					{
+					  "styles": [],
+					  "value": "hashtag on Twitter",
+					  "type": "Text"
+					}
+				  ],
+				  "type": "Link"
+				},
+				{
+				  "styles": [],
+				  "value": " is really something to behold. Virtually the entire country is mocking President Trump for his ignorant comments. But President Trump should be getting used to this by now. World leaders at the UN laughed in his face when he proclaimed that his presidency had accomplished more than almost any other ",
+				  "type": "Text"
+				},
+				{
+				  "reference": "https://www.vox.com/policy-and-politics/2018/9/25/17900980/un-trump-laughed-at",
+				  "value": [
+					{
+					  "styles": [],
+					  "value": "in history",
+					  "type": "Text"
+					}
+				  ],
+				  "type": "Link"
+				},
+				{
+				  "styles": [],
+				  "value": ".",
+				  "type": "Text"
+				}
+			  ],
+			  "type": "Paragraph"
+			}
+		  ],
+		  "featuredMedia": null,
+		  "mainMedia": {
+			"id": "vkdq4robrqus35qphfgh",
+			"format": "jpg",
+			"width": 910,
+			"height": 600,
+			"alignment": "Bleed",
+			"caption": [],
+			"syndicationRights": true,
+			"attribution": [
+			  {
+				"label": "Image",
+				"credit": [],
+				"source": [
+				  {
+					"styles": [],
+					"value": "Twitter",
+					"type": "Text"
+				  }
+				]
+			  }
+			],
+			"lightbox": true,
+			"type": "Image"
+		  },
+		  "largeOnStream": true,
+		  "relatedPosts": [],
+		  "firstSentence": "President Donald Trump stood near the charred remains of Paradise, California on Saturday (he called",
+		  "isBlip": false,
+		  "length": 2711,
+		  "postId": 1830532120,
+		  "aboveHeadline": {
+			"src": "UNUSED",
+			"isAnimated": false,
+			"id": "vkdq4robrqus35qphfgh",
+			"width": 800,
+			"height": 527,
+			"format": "jpg",
+			"frozenFormat": "jpg",
+			"type": "image"
+		  },
+		  "leftOfHeadline": {
+			"src": "UNUSED",
+			"isAnimated": false,
+			"id": "vkdq4robrqus35qphfgh",
+			"width": 320,
+			"height": 180,
+			"format": "jpg",
+			"frozenFormat": "jpg",
+			"type": "image"
+		  },
+		  "sharingMainImage": {
+			"src": "UNUSED",
+			"isAnimated": false,
+			"id": "vkdq4robrqus35qphfgh",
+			"width": 800,
+			"height": 527,
+			"format": "jpg",
+			"frozenFormat": "jpg"
+		  },
+		  "plaintext": "President Donald Trump stood near the charred remains of Paradise, California on Saturday (he called it “Pleasure”) and said that Finland doesn’t have problems with destructive wildfires because that country “rakes” the forest. No one, including the president of Finland, had any idea what Trump was talking about. But the comment did spark a new internet craze, leading virtually the entire country to get outside and do their “haravointi,” which is Finnish for “raking.”",
+		  "author": null,
+		  "authors": [
+			{
+				"id": "489539437",
+				"screenName": "mattnovak",
+				"displayName": "Matt Novak",
+				"authType": 3,
+				"authName": "google",
+				"createdMillis": 1367610858000,
+				"updatedMillis": 1529061167000,
+				"lastLoginMillis": 1529061167000,
+				"status": "enabled",
+				"avatar": {
+				  "id": "18mk8augnk3a5jpg",
+				  "format": "jpg"
+				},
+				"isSuperuser": false
+			}
+		  ],
+		  "parent": null,
+		  "starter": null,
+		  "storyTypeId": 125,
+		  "permalink": "https://gizmodo.com/finns-mock-president-trump-by-posting-forest-raking-pho-1830532120",
+		  "permalinkHost": "https://gizmodo.com",
+		  "permalinkPath": "/finns-mock-president-trump-by-posting-forest-raking-pho-1830532120",
+		  "publishTime": {
+			"timestamp": 1542624600120,
+			"timezone": "America/New_York",
+			"MdyHm": "11/19/2018 05:50",
+			"MdyatHm": "11/19/2018 at 05:50",
+			"rfc822": "Mon, 19 Nov 2018 10:50:00 GMT",
+			"yMdHmsZ": "2018-11-19T05:50:00-05:00",
+			"hmma": "5:50am",
+			"day": "Monday",
+			"Mddyyhmma": "11/19/18 5:50am",
+			"fullDate": "November 19, 2018",
+			"relative": {
+			  "amount": null,
+			  "type": "today"
+			}
+		  }
+		},
+		"repost": null
+	  },
+	  {
+		"id": 1830527118,
+		"timestamp": 1542603300000,
+		"post": {
+			"id": 1830527118,
+			"permalinkRedirect": null,
+			"parentId": null,
+			"parentAuthorId": null,
+			"parentAuthorIds": [],
+			"starterId": 1830527118,
+			"publishTimeMillis": 1542593400118,
+			"lastUpdateTimeMillis": 1542593400267,
+			"timezone": "America/New_York",
+			"sharedUrl": null,
+			"salesAvatar": null,
+			"sponsored": false,
+			"adSettings": null,
+			"status": "PUBLISHED",
+			"authorId": "5724542002230561815",
+			"authorIds": [
+				"5724542002230561815"
+			],
+			"allowReplies": true,
+			"showAuthorBio": true,
+			"byline": "",
+			"showByline": true,
+			"properties": "{\"autoRepostDisabled\":false,\"headTitleTag\":\"Doctor Who Spoiler Thread: \\\"Kerblam!\\\"\",\"socialDescription\":\"\",\"socialHeadline\":\"\"}",
+			"isFeatured": false,
+			"isVideo": false,
+			"relatedModule": {
+				"headline": "Some Prime Doctor Who Blogs",
+				"posts": [
+				{
+					"id": 1830512049
+				},
+				{
+					"id": 1830439545
+				},
+				{
+					"id": 1830370490
+				},
+				{
+					"id": 1830235083
+				},
+				{
+					"id": 1830213064
+				},
+				{
+					"id": 1830176266
+				}
+				],
+				"storyTypes": [],
+				"tags": []
+			},
+			"defaultBlogId": "8",
+			"approved": true,
+			"headline": "Your Spoiler-Packed <i>Doctor Who</i> Open Thread, Express Delivered to Your Eyeballs",
+			"body": [
+				{
+				"id": "bnlxdk7b9h0c4vkzod8s",
+				"format": "png",
+				"width": 800,
+				"height": 450,
+				"alignment": "Bleed",
+				"caption": [
+					{
+					"styles": [],
+					"value": "Yaz has a dangerous encounter with the robo-postie.",
+					"type": "Text"
+					}
+				],
+				"syndicationRights": false,
+				"attribution": [
+					{
+					"label": "Photo",
+					"credit": [],
+					"source": [
+						{
+						"styles": [],
+						"value": "BBC",
+						"type": "Text"
+						}
+					]
+					}
+				],
+				"lightbox": true,
+				"type": "Image"
+				},
+				{
+				"containers": [],
+				"value": [
+					{
+					"styles": [
+						"Italic"
+					],
+					"value": "Bah",
+					"type": "Text"
+					},
+					{
+					"styles": [],
+					"value": ". Who needs teleporting, creepy-looking robot deliverymen when you can just put something on the internet? Much quicker for open threads to talk about ",
+					"type": "Text"
+					},
+					{
+					"styles": [
+						"Italic"
+					],
+					"value": "Doctor Who",
+					"type": "Text"
+					},
+					{
+					"styles": [],
+					"value": ", that!",
+					"type": "Text"
+					},
+					{
+					"type": "LineBreak"
+					}
+				],
+				"type": "Paragraph"
+				}
+			],
+			"tags": [
+				{
+				"canonical": "openchannel",
+				"urlName": "open-channel",
+				"displayName": "Open Channel"
+				},
+				{
+				"canonical": "doctorwho",
+				"urlName": "doctor-who",
+				"displayName": "Doctor Who"
+				},
+				{
+				"canonical": "bbc",
+				"urlName": "bbc",
+				"displayName": "BBC"
+				},
+				{
+				"canonical": "bbcamerica",
+				"urlName": "bbc-america",
+				"displayName": "BBC America"
+				}
+			],
+			"images": [
+				{
+				"id": "bnlxdk7b9h0c4vkzod8s",
+				"width": 800,
+				"height": 450,
+				"format": "png"
+				},
+				{
+				"id": "x8aim7wcf9lfyn6lbxxx",
+				"width": 800,
+				"height": 88,
+				"format": "png"
+				}
+			],
+			"videos": [],
+			"featuredMedia": null,
+			"mainMedia": {
+				"id": "bnlxdk7b9h0c4vkzod8s",
+				"format": "png",
+				"width": 800,
+				"height": 450,
+				"alignment": "Bleed",
+				"caption": [
+				{
+					"styles": [],
+					"value": "Yaz has a dangerous encounter with the robo-postie.",
+					"type": "Text"
+				}
+				],
+				"syndicationRights": false,
+				"attribution": [
+				{
+					"label": "Photo",
+					"credit": [],
+					"source": [
+					{
+						"styles": [],
+						"value": "BBC",
+						"type": "Text"
+					}
+					]
+				}
+				],
+				"lightbox": true,
+				"type": "Image"
+			},
+			"largeOnStream": true,
+			"relatedPosts": [],
+			"firstSentence": "Bah. ",
+			"isBlip": false,
+			"length": 1995,
+			"postId": 1830527118,
+			"aboveHeadline": {
+				"src": "UNUSED",
+				"isAnimated": false,
+				"id": "bnlxdk7b9h0c4vkzod8s",
+				"width": 800,
+				"height": 450,
+				"format": "png",
+				"frozenFormat": "png",
+				"type": "image"
+			},
+			"leftOfHeadline": {
+				"src": "UNUSED",
+				"isAnimated": false,
+				"id": "bnlxdk7b9h0c4vkzod8s",
+				"width": 320,
+				"height": 180,
+				"format": "png",
+				"frozenFormat": "png",
+				"type": "image"
+			},
+			"sharingMainImage": {
+				"src": "UNUSED",
+				"isAnimated": false,
+				"id": "bnlxdk7b9h0c4vkzod8s",
+				"width": 800,
+				"height": 450,
+				"format": "png",
+				"frozenFormat": "png",
+				"type": "image"
+			},
+			"plaintext": "Bah. Who needs teleporting, creepy-looking robot deliverymen when you can just put something on the internet? Much quicker for open threads to talk about Doctor Who, that!",
+			"author": null,
+			"authors": [
+				{
+					"id": "489539437",
+					"screenName": "mattnovak",
+					"displayName": "Matt Novak",
+					"authType": 3,
+					"authName": "google",
+					"createdMillis": 1367610858000,
+					"updatedMillis": 1529061167000,
+					"lastLoginMillis": 1529061167000,
+					"status": "enabled",
+					"avatar": {
+					"id": "18mk8augnk3a5jpg",
+					"format": "jpg"
+					},
+					"isSuperuser": false
+				}
+			],
+			"parent": null,
+			"starter": null,
+			"storyTypeId": 140,
+			"permalink": "https://io9.gizmodo.com/your-spoiler-packed-doctor-who-open-thread-express-del-1830527118",
+			"permalinkHost": "https://io9.gizmodo.com",
+			"permalinkPath": "/your-spoiler-packed-doctor-who-open-thread-express-del-1830527118",
+			"publishTime": {
+				"timestamp": 1542593400118,
+				"timezone": "America/New_York",
+				"MdyHm": "11/18/2018 21:10",
+				"MdyatHm": "11/18/2018 at 21:10",
+				"rfc822": "Mon, 19 Nov 2018 02:10:00 GMT",
+				"yMdHmsZ": "2018-11-18T21:10:00-05:00",
+				"hmma": "21:10pm",
+				"day": "Sunday",
+				"Mddyyhmma": "11/18/18 9:10pm",
+				"fullDate": "November 18, 2018",
+				"relative": {
+				"amount": null,
+				"type": "yesterday"
+				}
+			}
+		},
+		"repost": {
+			"id": "1792333656",
+			"postId": "1830527118",
+			"authorId": "5876237249237171272",
+			"blogId": "4",
+			"createTimeMillis": 1542603300000,
+			"repostTimeMillis": 1542603300000,
+			"scheduled": false,
+			"properties": {}
+		}
+	  },
+	  {
+		"id": 1830481415,
+		"timestamp": 1542601800000,
+		"post": {
+			"id": 1830481415,
+			"permalinkRedirect": null,
+			"parentId": null,
+			"parentAuthorId": null,
+			"parentAuthorIds": [],
+			"starterId": 1830481415,
+			"publishTimeMillis": 1542596700415,
+			"lastUpdateTimeMillis": 1542596701082,
+			"timezone": "America/New_York",
+			"sharedUrl": null,
+			"salesAvatar": null,
+			"sponsored": false,
+			"adSettings": null,
+			"status": "PUBLISHED",
+			"authorId": "5807447700114263044",
+			"authorIds": [
+				"5807447700114263044"
+			],
+			"allowReplies": true,
+			"showAuthorBio": true,
+			"byline": "",
+			"showByline": true,
+			"properties": "{\"headTitleTag\":\"The Walking Dead Stradivarius Recap: Something's Wrong Michonne\",\"socialHeadline\":\"\",\"socialDescription\":\"\",\"autoRepostDisabled\":false,\"impactHeader\":{}}",
+			"isFeatured": false,
+			"isVideo": false,
+			"relatedModule": {
+				"headline": "Season 9 of The Walking Dead",
+				"posts": [
+				{
+					"id": 1830309646
+				},
+				{
+					"id": 1830179507
+				},
+				{
+					"id": 1829982969
+				},
+				{
+					"id": 1829840496
+				},
+				{
+					"id": 1829666004
+				},
+				{
+					"id": 1829511127
+				}
+				],
+				"storyTypes": [],
+				"tags": []
+			},
+			"defaultBlogId": "8",
+			"approved": true,
+			"headline": "Something&#39;s Very Wrong With Michonne on <i>The Walking Dead</i>",
+			"body": [
+				{
+				"id": "hxpwu58hq88qi5zvjgky",
+				"format": "jpg",
+				"width": 4492,
+				"height": 2522,
+				"alignment": "Bleed",
+				"caption": [
+					{
+					"styles": [],
+					"value": "Michonne (Danai Gurira) has made this exact same face for the entirety of two whole episodes.",
+					"type": "Text"
+					}
+				],
+				"syndicationRights": false,
+				"attribution": [
+					{
+					"label": "Photo",
+					"credit": [
+						{
+						"styles": [],
+						"value": "All images: Gene Page",
+						"type": "Text"
+						}
+					],
+					"source": [
+						{
+						"styles": [],
+						"value": "AMC",
+						"type": "Text"
+						}
+					]
+					}
+				],
+				"lightbox": true,
+				"type": "Image"
+				},
+				{
+				"containers": [],
+				"value": [
+					{
+					"styles": [],
+					"value": "Well, here’s the good news: After last week’s ",
+					"type": "Text"
+					},
+					{
+					"reference": "https://io9.gizmodo.com/the-walking-dead-gets-another-fresh-start-but-with-a-m-1830309646#_ga=2.226731933.1241007365.1542039862-stmv968hd",
+					"value": [
+						{
+						"styles": [],
+						"value": "troubling, backpedaling,",
+						"type": "Text"
+						},
+						{
+						"styles": [],
+						"value": " post-Rick, post-timeskip “premiere,”",
+						"type": "Text"
+						}
+					],
+					"type": "Link"
+					},
+					{
+					"styles": [],
+					"value": " ",
+					"type": "Text"
+					},
+					{
+					"styles": [
+						"Italic"
+					],
+					"value": "The Walking Dead",
+					"type": "Text"
+					},
+					{
+					"styles": [],
+					"value": " regained some of its footing tonight to produce a perfectly fine, if not particularly memorable episode. The bad news is that something’s wrong with Michonne, and it’s kind of a bummer.",
+					"type": "Text"
+					},
+					{
+					"type": "LineBreak"
+					}
+				],
+				"type": "Paragraph"
+				}
+			],
+			"images": [
+				{
+				"id": "hxpwu58hq88qi5zvjgky",
+				"width": 4492,
+				"height": 2522,
+				"format": "jpg"
+				},
+				{
+				"id": "brwrfpkzsvjqz4eml0xr",
+				"width": 800,
+				"height": 88,
+				"format": "png"
+				},
+				{
+				"id": "af2p18hyrlzv0qucapsm",
+				"width": 4500,
+				"height": 3000,
+				"format": "jpg"
+				},
+				{
+				"id": "szwbzokkp493p1sxivxs",
+				"width": 4500,
+				"height": 3000,
+				"format": "jpg"
+				},
+				{
+				"id": "ogifkvztmvvydrtf3ifw",
+				"width": 4500,
+				"height": 3003,
+				"format": "jpg"
+				},
+				{
+				"id": "pc549bvcbmqrsjtulwgd",
+				"width": 4500,
+				"height": 3000,
+				"format": "jpg"
+				},
+				{
+				"id": "f6glilgjji3krdtz01vb",
+				"width": 4500,
+				"height": 3000,
+				"format": "jpg"
+				}
+			],
+			"videos": [],
+			"featuredMedia": null,
+			"mainMedia": {
+				"id": "hxpwu58hq88qi5zvjgky",
+				"format": "jpg",
+				"width": 4492,
+				"height": 2522,
+				"alignment": "Bleed",
+				"caption": [
+				{
+					"styles": [],
+					"value": "Michonne (Danai Gurira) has made this exact same face for the entirety of two whole episodes.",
+					"type": "Text"
+				}
+				],
+				"syndicationRights": false,
+				"attribution": [
+				{
+					"label": "Photo",
+					"credit": [
+					{
+						"styles": [],
+						"value": "All images: Gene Page",
+						"type": "Text"
+					}
+					],
+					"source": [
+					{
+						"styles": [],
+						"value": "AMC",
+						"type": "Text"
+					}
+					]
+				}
+				],
+				"lightbox": true,
+				"type": "Image"
+			},
+			"largeOnStream": true,
+			"relatedPosts": [],
+			"firstSentence": "Well, here’s the good news: After last week’s troubling, backpedaling, post-Rick, post-timeskip “pre",
+			"isBlip": false,
+			"length": 13599,
+			"postId": 1830481415,
+			"aboveHeadline": {
+				"src": "UNUSED",
+				"isAnimated": false,
+				"id": "hxpwu58hq88qi5zvjgky",
+				"width": 800,
+				"height": 449,
+				"format": "jpg",
+				"frozenFormat": "jpg",
+				"type": "image"
+			},
+			"leftOfHeadline": {
+				"src": "UNUSED",
+				"isAnimated": false,
+				"id": "hxpwu58hq88qi5zvjgky",
+				"width": 320,
+				"height": 180,
+				"format": "jpg",
+				"frozenFormat": "jpg",
+				"type": "image"
+			},
+			"sharingMainImage": {
+				"src": "UNUSED",
+				"isAnimated": false,
+				"id": "hxpwu58hq88qi5zvjgky",
+				"width": 800,
+				"height": 449,
+				"format": "jpg",
+				"frozenFormat": "jpg",
+				"type": "image"
+			},
+			"plaintext": "Well, here’s the good news: After last week’s troubling, backpedaling, post-Rick, post-timeskip “premiere,” The Walking Dead regained some of its footing tonight to produce a perfectly fine, if not particularly memorable episode. The bad news is that something’s wrong with Michonne, and it’s kind of a bummer.",
+			"author": null,
+			"authors": [
+				{
+					"id": "489539437",
+					"screenName": "mattnovak",
+					"displayName": "Matt Novak",
+					"authType": 3,
+					"authName": "google",
+					"createdMillis": 1367610858000,
+					"updatedMillis": 1529061167000,
+					"lastLoginMillis": 1529061167000,
+					"status": "enabled",
+					"avatar": {
+					"id": "18mk8augnk3a5jpg",
+					"format": "jpg"
+					},
+					"isSuperuser": false
+				}
+			],
+			"parent": null,
+			"starter": null,
+			"storyTypeId": 140,
+			"permalink": "https://io9.gizmodo.com/somethings-very-wrong-with-michonne-on-the-walking-dead-1830481415",
+			"permalinkHost": "https://io9.gizmodo.com",
+			"permalinkPath": "/somethings-very-wrong-with-michonne-on-the-walking-dead-1830481415",
+			"publishTime": {
+				"timestamp": 1542596700415,
+				"timezone": "America/New_York",
+				"MdyHm": "11/18/2018 22:05",
+				"MdyatHm": "11/18/2018 at 22:05",
+				"rfc822": "Mon, 19 Nov 2018 03:05:00 GMT",
+				"yMdHmsZ": "2018-11-18T22:05:00-05:00",
+				"hmma": "22:05pm",
+				"day": "Sunday",
+				"Mddyyhmma": "11/18/18 10:05pm",
+				"fullDate": "November 18, 2018",
+				"relative": {
+				"amount": null,
+				"type": "yesterday"
+				}
+			}
+		},
+		"repost": {
+			"id": "1792333655",
+			"postId": "1830481415",
+			"authorId": "5876237249237171272",
+			"blogId": "4",
+			"repostTimeMillis": 1542601800000,
+			"createTimeMillis": 1542601800000,
+			"scheduled": false,
+			"properties": {}
+		}
+	  },
+	  {
+		"id": 1830528903,
+		"timestamp": 1542598500903,
+		"post": {
+		  "id": 1830528903,
+		  "permalinkRedirect": null,
+		  "parentId": null,
+		  "parentAuthorId": null,
+		  "parentAuthorIds": [],
+		  "starterId": 1830528903,
+		  "publishTimeMillis": 1542598500903,
+		  "lastUpdateTimeMillis": 1542598895511,
+		  "timezone": "America/New_York",
+		  "sharedUrl": null,
+		  "salesAvatar": null,
+		  "sponsored": false,
+		  "adSettings": null,
+		  "status": "PUBLISHED",
+		  "authorId": "5876237249237171272",
+		  "authorIds": [
+			"5876237249237171272"
+		  ],
+		  "allowReplies": true,
+		  "showAuthorBio": true,
+		  "byline": "",
+		  "showByline": true,
+		  "properties": "{\"autoRepostDisabled\":false,\"headTitleTag\":\"\",\"socialDescription\":\"\",\"socialHeadline\":\"\", \"isEmbiggened\": \"true\"}",
+		  "isFeatured": false,
+		  "isVideo": false,
+		  "relatedModule": {
+			"headline": "More news from this weekend",
+			"posts": [
+			  {
+				"id": 1830528321
+			  },
+			  {
+				"id": 1830527714
+			  },
+			  {
+				"id": 1830526573
+			  },
+			  {
+				"id": 1830526666
+			  },
+			  {
+				"id": 1830525250
+			  },
+			  {
+				"id": 1830414749
+			  }
+			],
+			"storyTypes": [],
+			"tags": []
+		  },
+		  "defaultBlogId": "4",
+		  "approved": true,
+		  "headline": "Wildfires, Invasive Snakes, and Saying Goodbye to a Legend: Best Gizmodo Stories of the Week",
+		  "body": [
+			{
+			  "id": "wmfonmcfgosiwcuyjwbw",
+			  "format": "png",
+			  "width": 1600,
+			  "height": 900,
+			  "alignment": "Bleed",
+			  "caption": [],
+			  "syndicationRights": true,
+			  "attribution": [
+				{
+				  "label": "Photo",
+				  "credit": [
+					{
+					  "styles": [],
+					  "value": "Clockwise from top left: Photo: Bjorn Lardner / Photo: HSVC / Photo: AP / Photo: Getty Images",
+					  "type": "Text"
+					}
+				  ],
+				  "source": []
+				}
+			  ],
+			  "lightbox": true,
+			  "type": "Image"
+			},
+			{
+			  "containers": [],
+			  "value": [
+				{
+				  "styles": [],
+				  "value": "It might be the second half of N",
+				  "type": "Text"
+				},
+				{
+				  "styles": [],
+				  "value": "ovember, but ",
+				  "type": "Text"
+				},
+				{
+				  "styles": [],
+				  "value": "the wildfire season in California is ",
+				  "type": "Text"
+				},
+				{
+				  "styles": [],
+				  "value": "now ",
+				  "type": "Text"
+				},
+				{
+				  "styles": [],
+				  "value": "functionally approaching a",
+				  "type": "Text"
+				},
+				{
+				  "styles": [],
+				  "value": " ",
+				  "type": "Text"
+				},
+				{
+				  "reference": "https://www.nbcnews.com/news/us-news/there-s-no-more-typical-wildfire-season-california-it-may-n934521",
+				  "value": [
+					{
+					  "styles": [],
+					  "value": "365-days-a-year crisis",
+					  "type": "Text"
+					}
+				  ],
+				  "type": "Link"
+				},
+				{
+				  "styles": [],
+				  "value": ", with two massive blazes burning down huge swathes of the state. The ",
+				  "type": "Text"
+				},
+				{
+				  "reference": "https://abc7.com/woolsey-fires-containment-reaches-91-percent/4714771/",
+				  "value": [
+					{
+					  "styles": [],
+					  "value": "Woolsey Fire",
+					  "type": "Text"
+					}
+				  ],
+				  "type": "Link"
+				},
+				{
+				  "styles": [],
+				  "value": " and the ",
+				  "type": "Text"
+				},
+				{
+				  "reference": "https://www.cbsnews.com/live-news/fires-in-california-camp-woolsey-paradise-wildfire-evacuations-death-toll-map-2018-11-18-latest/",
+				  "value": [
+					{
+					  "styles": [],
+					  "value": "Camp Fire",
+					  "type": "Text"
+					}
+				  ],
+				  "type": "Link"
+				},
+				{
+				  "styles": [],
+				  "value": " are slowly approaching containment, but not before the former destroyed ",
+				  "type": "Text"
+				},
+				{
+				  "reference": "https://losangeles.cbslocal.com/2018/11/17/malibu-schools-closed-woolsey-fire/",
+				  "value": [
+					{
+					  "styles": [],
+					  "value": "whole sections of Malibu",
+					  "type": "Text"
+					}
+				  ],
+				  "type": "Link"
+				},
+				{
+				  "styles": [],
+				  "value": " and the latter wiped the town of Paradise off the map, resulting in ",
+				  "type": "Text"
+				},
+				{
+				  "reference": "https://www.cnn.com/2018/11/18/us/california-fires-week-two/index.html",
+				  "value": [
+					{
+					  "styles": [],
+					  "value": "over 75 deaths",
+					  "type": "Text"
+					}
+				  ],
+				  "type": "Link"
+				},
+				{
+				  "styles": [],
+				  "value": " and over a thousand names lingering on a list of missing individuals.",
+				  "type": "Text"
+				},
+				{
+				  "type": "LineBreak"
+				}
+			  ],
+			  "type": "Paragraph"
+			}
+		  ],
+		  "tags": [
+			{
+			  "canonical": "bestofgizmodo",
+			  "urlName": "best-of-gizmodo",
+			  "displayName": "Best of Gizmodo"
+			},
+			{
+			  "canonical": "californiawildfires",
+			  "urlName": "california-wildfires",
+			  "displayName": "California Wildfires"
+			},
+			{
+			  "canonical": "wildfires",
+			  "urlName": "wildfires",
+			  "displayName": "Wildfires"
+			},
+			{
+			  "canonical": "amazon",
+			  "urlName": "amazon",
+			  "displayName": "Amazon"
+			},
+			{
+			  "canonical": "hq2",
+			  "urlName": "hq2",
+			  "displayName": "HQ2"
+			},
+			{
+			  "canonical": "malibufire",
+			  "urlName": "malibu-fire",
+			  "displayName": "Malibu Fire"
+			},
+			{
+			  "canonical": "woolseyfire",
+			  "urlName": "woolsey-fire",
+			  "displayName": "Woolsey Fire"
+			},
+			{
+			  "canonical": "campfire",
+			  "urlName": "camp-fire",
+			  "displayName": "Camp Fire"
+			},
+			{
+			  "canonical": "biology",
+			  "urlName": "biology",
+			  "displayName": "Biology"
+			},
+			{
+			  "canonical": "snakes",
+			  "urlName": "snakes",
+			  "displayName": "Snakes"
+			},
+			{
+			  "canonical": "invasivespecies",
+			  "urlName": "invasive-species",
+			  "displayName": "Invasive Species"
+			},
+			{
+			  "canonical": "detectivepikachu",
+			  "urlName": "detective-pikachu",
+			  "displayName": "Detective Pikachu"
+			},
+			{
+			  "canonical": "stanlee",
+			  "urlName": "stan-lee",
+			  "displayName": "Stan Lee"
+			},
+			{
+			  "canonical": "comics",
+			  "urlName": "comics",
+			  "displayName": "Comics"
+			},
+			{
+			  "canonical": "marvel",
+			  "urlName": "marvel",
+			  "displayName": "Marvel"
+			},
+			{
+			  "canonical": "starwars",
+			  "urlName": "star-wars",
+			  "displayName": "Star Wars"
+			},
+			{
+			  "canonical": "ralphbreakstheinternetwreckitralph2",
+			  "urlName": "ralph-breaks-the-internet-wreck-it-ralph-2",
+			  "displayName": "Ralph Breaks the Internet: Wreck-It Ralph 2"
+			},
+			{
+			  "canonical": "wreckitralph",
+			  "urlName": "wreck-it-ralph",
+			  "displayName": "wreck-it ralph"
+			},
+			{
+			  "canonical": "earth",
+			  "urlName": "earth",
+			  "displayName": "Earth"
+			}
+		  ],
+		  "images": [
+			{
+			  "id": "wmfonmcfgosiwcuyjwbw",
+			  "width": 1600,
+			  "height": 900,
+			  "format": "png"
+			}
+		  ],
+		  "videos": [],
+		  "featuredMedia": null,
+		  "mainMedia": {
+			"id": "wmfonmcfgosiwcuyjwbw",
+			"format": "png",
+			"width": 1600,
+			"height": 900,
+			"alignment": "Bleed",
+			"caption": [],
+			"syndicationRights": true,
+			"attribution": [
+			  {
+				"label": "Photo",
+				"credit": [
+				  {
+					"styles": [],
+					"value": "Clockwise from top left: Photo: Bjorn Lardner / Photo: HSVC / Photo: AP / Photo: Getty Images",
+					"type": "Text"
+				  }
+				],
+				"source": []
+			  }
+			],
+			"lightbox": true,
+			"type": "Image"
+		  },
+		  "largeOnStream": true,
+		  "relatedPosts": [],
+		  "firstSentence": "It might be the second half of November, but the wildfire season in California is now functionally a",
+		  "isBlip": false,
+		  "length": 919,
+		  "postId": 1830528903,
+		  "aboveHeadline": {
+			"src": "UNUSED",
+			"isAnimated": false,
+			"id": "wmfonmcfgosiwcuyjwbw",
+			"width": 800,
+			"height": 450,
+			"format": "png",
+			"frozenFormat": "png",
+			"type": "image"
+		  },
+		  "leftOfHeadline": {
+			"src": "UNUSED",
+			"isAnimated": false,
+			"id": "wmfonmcfgosiwcuyjwbw",
+			"width": 320,
+			"height": 180,
+			"format": "png",
+			"frozenFormat": "png",
+			"type": "image"
+		  },
+		  "sharingMainImage": {
+			"src": "UNUSED",
+			"isAnimated": false,
+			"id": "wmfonmcfgosiwcuyjwbw",
+			"width": 800,
+			"height": 450,
+			"format": "png",
+			"frozenFormat": "png",
+			"type": "image"
+		  },
+		  "plaintext": "It might be the second half of November, but the wildfire season in California is now functionally approaching a 365-days-a-year crisis, with two massive blazes burning down huge swathes of the state. The Woolsey Fire and the Camp Fire are slowly approaching containment, but not before the former destroyed whole sections of Malibu and the latter wiped the town of Paradise off the map, resulting in over 75 deaths and over a thousand names lingering on a list of missing individuals.",
+		  "author": null,
+		  "authors": [
+			{
+				"id": "489539437",
+				"screenName": "mattnovak",
+				"displayName": "Matt Novak",
+				"authType": 3,
+				"authName": "google",
+				"createdMillis": 1367610858000,
+				"updatedMillis": 1529061167000,
+				"lastLoginMillis": 1529061167000,
+				"status": "enabled",
+				"avatar": {
+				  "id": "18mk8augnk3a5jpg",
+				  "format": "jpg"
+				},
+				"isSuperuser": false
+			}
+		  ],
+		  "parent": null,
+		  "starter": null,
+		  "permalink": "https://gizmodo.com/wildfires-invasive-snakes-and-saying-goodbye-to-a-leg-1830528903",
+		  "permalinkHost": "https://gizmodo.com",
+		  "permalinkPath": "/wildfires-invasive-snakes-and-saying-goodbye-to-a-leg-1830528903",
+		  "publishTime": {
+			"timestamp": 1542598500903,
+			"timezone": "America/New_York",
+			"MdyHm": "11/18/2018 22:35",
+			"MdyatHm": "11/18/2018 at 22:35",
+			"rfc822": "Mon, 19 Nov 2018 03:35:00 GMT",
+			"yMdHmsZ": "2018-11-18T22:35:00-05:00",
+			"hmma": "22:35pm",
+			"day": "Sunday",
+			"Mddyyhmma": "11/18/18 10:35pm",
+			"fullDate": "November 18, 2018",
+			"relative": {
+			  "amount": null,
+			  "type": "yesterday"
+			}
+		  }
+		},
+		"repost": null
+	  },
+	  {
+		"id": 1830528321,
+		"timestamp": 1542595320321,
+		"post": {
+		  "id": 1830528321,
+		  "permalinkRedirect": null,
+		  "parentId": null,
+		  "parentAuthorId": null,
+		  "parentAuthorIds": [],
+		  "starterId": 1830528321,
+		  "publishTimeMillis": 1542595320321,
+		  "lastUpdateTimeMillis": 1542596514240,
+		  "timezone": "America/New_York",
+		  "sharedUrl": null,
+		  "salesAvatar": null,
+		  "sponsored": false,
+		  "adSettings": null,
+		  "status": "PUBLISHED",
+		  "authorId": "5876237249238304892",
+		  "authorIds": [
+			"5876237249238304892"
+		  ],
+		  "allowReplies": true,
+		  "showAuthorBio": true,
+		  "byline": "",
+		  "showByline": true,
+		  "properties": "{\"headTitleTag\":\"\",\"socialHeadline\":\"\",\"socialDescription\":\"\",\"autoRepostDisabled\":false,\"impactHeader\":{}}",
+		  "isFeatured": false,
+		  "isVideo": false,
+		  "relatedModule": {
+			"posts": [
+			  {
+				"id": 1827646947
+			  },
+			  {
+				"id": 5977636
+			  },
+			  {
+				"id": 1741855590
+			  }
+			],
+			"storyTypes": [],
+			"tags": []
+		  },
+		  "defaultBlogId": "4",
+		  "approved": true,
+		  "headline": "Tumblr App Has Inexplicably<em></em> Disappeared From Apple’s App Store",
+		  "body": [
+			{
+			  "id": "nxa0c4mofceoxbvagrzq",
+			  "format": "jpg",
+			  "width": 5615,
+			  "height": 3158,
+			  "alignment": "Bleed",
+			  "caption": [],
+			  "syndicationRights": false,
+			  "attribution": [
+				{
+				  "label": "Image",
+				  "credit": [
+					{
+					  "styles": [],
+					  "value": "Mark Lennihan",
+					  "type": "Text"
+					}
+				  ],
+				  "source": [
+					{
+					  "styles": [],
+					  "value": "AP",
+					  "type": "Text"
+					}
+				  ]
+				}
+			  ],
+			  "lightbox": true,
+			  "type": "Image"
+			},
+			{
+			  "containers": [],
+			  "value": [
+				{
+				  "styles": [],
+				  "value": "Tumblr has mysteriously vanished from Apple’s App Store, and it’s not clear why.",
+				  "type": "Text"
+				}
+			  ],
+			  "type": "Paragraph"
+			}
+		  ],
+		  "images": [
+			{
+			  "id": "nxa0c4mofceoxbvagrzq",
+			  "width": 5615,
+			  "height": 3158,
+			  "format": "jpg"
+			}
+		  ],
+		  "videos": [],
+		  "featuredMedia": null,
+		  "mainMedia": null,
+		  "largeOnStream": false,
+		  "relatedPosts": [],
+		  "firstSentence": "Tumblr has mysteriously vanished from Apple’s App Store, and it’s not clear why.",
+		  "isBlip": false,
+		  "length": 1728,
+		  "postId": 1830528321,
+		  "aboveHeadline": null,
+		  "leftOfHeadline": {
+			"src": "UNUSED",
+			"isAnimated": false,
+			"id": "nxa0c4mofceoxbvagrzq",
+			"width": 320,
+			"height": 180,
+			"format": "jpg",
+			"frozenFormat": "jpg",
+			"type": "image"
+		  },
+		  "sharingMainImage": {
+			"src": "UNUSED",
+			"isAnimated": false,
+			"id": "nxa0c4mofceoxbvagrzq",
+			"width": 800,
+			"height": 449,
+			"format": "jpg",
+			"frozenFormat": "jpg"
+		  },
+		  "plaintext": "Tumblr has mysteriously vanished from Apple’s App Store, and it’s not clear why.",
+		  "author": null,
+		  "authors": [
+			{
+				"id": "489539437",
+				"screenName": "mattnovak",
+				"displayName": "Matt Novak",
+				"authType": 3,
+				"authName": "google",
+				"createdMillis": 1367610858000,
+				"updatedMillis": 1529061167000,
+				"lastLoginMillis": 1529061167000,
+				"status": "enabled",
+				"avatar": {
+				  "id": "18mk8augnk3a5jpg",
+				  "format": "jpg"
+				},
+				"isSuperuser": false
+			}
+		  ],
+		  "parent": null,
+		  "starter": null,
+		  "storyTypeId": 136,
+		  "permalink": "https://gizmodo.com/tumblr-app-has-inexplicably-disappeared-from-apple-s-ap-1830528321",
+		  "permalinkHost": "https://gizmodo.com",
+		  "permalinkPath": "/tumblr-app-has-inexplicably-disappeared-from-apple-s-ap-1830528321",
+		  "publishTime": {
+			"timestamp": 1542595320321,
+			"timezone": "America/New_York",
+			"MdyHm": "11/18/2018 21:42",
+			"MdyatHm": "11/18/2018 at 21:42",
+			"rfc822": "Mon, 19 Nov 2018 02:42:00 GMT",
+			"yMdHmsZ": "2018-11-18T21:42:00-05:00",
+			"hmma": "21:42pm",
+			"day": "Sunday",
+			"Mddyyhmma": "11/18/18 9:42pm",
+			"fullDate": "November 18, 2018",
+			"relative": {
+			  "amount": null,
+			  "type": "yesterday"
+			}
+		  }
+		},
+		"repost": null
+	  },
+	  {
+		"id": 1830524973,
+		"timestamp": 1542594600000,
+		"post": {
+			"id": 1830524973,
+			"permalinkRedirect": null,
+			"parentId": null,
+			"parentAuthorId": null,
+			"parentAuthorIds": [],
+			"starterId": 1830524973,
+			"publishTimeMillis": 1542572400973,
+			"lastUpdateTimeMillis": 1542577567128,
+			"timezone": "America/New_York",
+			"sharedUrl": null,
+			"salesAvatar": null,
+			"sponsored": false,
+			"adSettings": null,
+			"status": "PUBLISHED",
+			"authorId": "5876237249238248370",
+			"authorIds": [
+				"5876237249238248370"
+			],
+			"allowReplies": true,
+			"showAuthorBio": true,
+			"byline": "",
+			"showByline": true,
+			"properties": "{\"headTitleTag\":\"\",\"sharingMainImageSetInDistTools\":true,\"socialHeadline\":\"\",\"socialDescription\":\"\",\"autoRepostDisabled\":false,\"impactHeader\":{}}",
+			"isFeatured": false,
+			"isVideo": false,
+			"relatedModule": {
+				"posts": [
+				{
+					"id": 1830522696
+				},
+				{
+					"id": 1830412175
+				},
+				{
+					"id": 1830524504
+				}
+				],
+				"storyTypes": [],
+				"tags": []
+			},
+			"defaultBlogId": "11",
+			"approved": true,
+			"headline": "Alex Smith Leaves Game On Stretcher With Gruesome Leg Injury [Update]",
+			"body": [
+				{
+				"id": "iulel5j7srb4udsyaltn",
+				"format": "jpg",
+				"width": 1280,
+				"height": 660,
+				"alignment": "Bleed",
+				"caption": [],
+				"syndicationRights": false,
+				"attribution": [],
+				"lightbox": true,
+				"type": "Image"
+				},
+				{
+				"containers": [],
+				"value": [
+					{
+					"styles": [],
+					"value": "On a third-and-nine play in the third quarter, Kareem Jackson and J.J. Watt of the Houston Texans sacked Washington quarterback Alex Smith in the backfield for a big loss. The sack forced Smith to land awkwardly on his leg and cause an injury painful enough that the quarterback had to be taken off on a stretcher after remaining on the ground for an extended period of time. If you’re not a fan of leg breaks, don’t watch the following video.",
+					"type": "Text"
+					},
+					{
+					"type": "LineBreak"
+					}
+				],
+				"type": "Paragraph"
+				},
+				{
+				"id": "122268",
+				"property": "Deadspin",
+				"thumbnail": {
+					"id": "jq1wxuznfeje7adqnz6j",
+					"format": "jpg"
+				},
+				"alignment": "Bleed",
+				"caption": [],
+				"type": "KinjaVideo"
+				}
+			],
+			"tags": [
+				{
+				"canonical": "injuries",
+				"urlName": "injuries",
+				"displayName": "injuries"
+				},
+				{
+				"canonical": "alexsmith",
+				"urlName": "alex-smith",
+				"displayName": "alex smith"
+				},
+				{
+				"canonical": "washingtonredskins",
+				"urlName": "washington-redskins",
+				"displayName": "Washington Redskins"
+				},
+				{
+				"canonical": "nfl",
+				"urlName": "nfl",
+				"displayName": "nfl"
+				},
+				{
+				"canonical": "football",
+				"urlName": "football",
+				"displayName": "football"
+				}
+			],
+			"images": [
+				{
+				"id": "iulel5j7srb4udsyaltn",
+				"width": 1280,
+				"height": 660,
+				"format": "jpg"
+				}
+			],
+			"videos": [
+				{
+				"id": null,
+				"type": "kinjavideo",
+				"src": "kinjavideo://122268",
+				"embedCode": null,
+				"height": null,
+				"width": null,
+				"thumbnails": [
+					{
+					"id": "jq1wxuznfeje7adqnz6j",
+					"format": "jpg"
+					}
+				]
+				}
+			],
+			"featuredMedia": null,
+			"mainMedia": {
+				"id": "iulel5j7srb4udsyaltn",
+				"format": "jpg",
+				"width": 1280,
+				"height": 660,
+				"alignment": "Bleed",
+				"caption": [],
+				"syndicationRights": false,
+				"attribution": [],
+				"lightbox": true,
+				"type": "Image"
+			},
+			"largeOnStream": true,
+			"relatedPosts": [],
+			"firstSentence": "On a third-and-nine play in the third quarter, Kareem Jackson and J.J. ",
+			"isBlip": false,
+			"length": 958,
+			"postId": 1830524973,
+			"aboveHeadline": {
+				"src": "UNUSED",
+				"isAnimated": false,
+				"id": "iulel5j7srb4udsyaltn",
+				"width": 800,
+				"height": 412,
+				"format": "jpg",
+				"frozenFormat": "jpg",
+				"type": "image"
+			},
+			"leftOfHeadline": {
+				"src": "UNUSED",
+				"isAnimated": false,
+				"id": "iulel5j7srb4udsyaltn",
+				"width": 320,
+				"height": 180,
+				"format": "jpg",
+				"frozenFormat": "jpg",
+				"type": "image"
+			},
+			"sharingMainImage": {
+				"src": "UNUSED",
+				"isAnimated": false,
+				"id": "iulel5j7srb4udsyaltn",
+				"width": 800,
+				"height": 412,
+				"format": "jpg",
+				"frozenFormat": "jpg"
+			},
+			"plaintext": "On a third-and-nine play in the third quarter, Kareem Jackson and J.J. Watt of the Houston Texans sacked Washington quarterback Alex Smith in the backfield for a big loss. The sack forced Smith to land awkwardly on his leg and cause an injury painful enough that the quarterback had to be taken off on a stretcher after remaining on the ground for an extended period of time. If you’re not a fan of leg breaks, don’t watch the following video.",
+			"author": null,
+			"authors": [
+				{
+					"id": "489539437",
+					"screenName": "mattnovak",
+					"displayName": "Matt Novak",
+					"authType": 3,
+					"authName": "google",
+					"createdMillis": 1367610858000,
+					"updatedMillis": 1529061167000,
+					"lastLoginMillis": 1529061167000,
+					"status": "enabled",
+					"avatar": {
+					"id": "18mk8augnk3a5jpg",
+					"format": "jpg"
+					},
+					"isSuperuser": false
+				}
+			],
+			"parent": null,
+			"starter": null,
+			"storyTypeId": 1320,
+			"permalink": "https://deadspin.com/alex-smith-leaves-game-on-stretcher-with-gruesome-leg-i-1830524973",
+			"permalinkHost": "https://deadspin.com",
+			"permalinkPath": "/alex-smith-leaves-game-on-stretcher-with-gruesome-leg-i-1830524973",
+			"publishTime": {
+				"timestamp": 1542572400973,
+				"timezone": "America/New_York",
+				"MdyHm": "11/18/2018 15:20",
+				"MdyatHm": "11/18/2018 at 15:20",
+				"rfc822": "Sun, 18 Nov 2018 20:20:00 GMT",
+				"yMdHmsZ": "2018-11-18T15:20:00-05:00",
+				"hmma": "15:20pm",
+				"day": "Sunday",
+				"Mddyyhmma": "11/18/18 3:20pm",
+				"fullDate": "November 18, 2018",
+				"relative": {
+				"amount": null,
+				"type": "yesterday"
+				}
+			}
+		},
+		"repost": {
+			"id": "1792333650",
+			"postId": "1830524973",
+			"authorId": "5876237249237171272",
+			"blogId": "4",
+			"repostTimeMillis": 1542594600000,
+			"createTimeMillis": 1542594600000,
+			"scheduled": false,
+			"properties": {}
+		}
+	  },
+	  {
+		"id": 1830527714,
+		"timestamp": 1542592500714,
+		"post": {
+		  "id": 1830527714,
+		  "permalinkRedirect": null,
+		  "parentId": null,
+		  "parentAuthorId": null,
+		  "parentAuthorIds": [],
+		  "starterId": 1830527714,
+		  "publishTimeMillis": 1542592500714,
+		  "lastUpdateTimeMillis": 1542592501209,
+		  "timezone": "America/New_York",
+		  "sharedUrl": null,
+		  "salesAvatar": null,
+		  "sponsored": false,
+		  "adSettings": null,
+		  "status": "PUBLISHED",
+		  "authorId": "5876237249237171272",
+		  "authorIds": [
+			"5876237249237171272"
+		  ],
+		  "allowReplies": true,
+		  "showAuthorBio": true,
+		  "byline": "",
+		  "showByline": true,
+		  "properties": "{\"headTitleTag\":\"\",\"socialHeadline\":\"\",\"socialDescription\":\"\",\"autoRepostDisabled\":false,\"impactHeader\":{}}",
+		  "isFeatured": false,
+		  "isVideo": false,
+		  "relatedModule": {
+			"headline": "More on politics",
+			"posts": [
+			  {
+				"id": 1830455147
+			  },
+			  {
+				"id": 1830443177
+			  },
+			  {
+				"id": 1830371309
+			  },
+			  {
+				"id": 1830230878
+			  },
+			  {
+				"id": 1830183295
+			  },
+			  {
+				"id": 1830145867
+			  }
+			],
+			"storyTypes": [],
+			"tags": []
+		  },
+		  "defaultBlogId": "4",
+		  "approved": true,
+		  "headline": "India&#39;s BJP Is Reportedly Using Data From a State-Funded Free Phone Program to Hit Up Voters",
+		  "body": [
+			{
+			  "id": "sdqlc01w1cow4pk4elf0",
+			  "format": "jpg",
+			  "width": 1999,
+			  "height": 1124,
+			  "alignment": "Bleed",
+			  "caption": [
+				{
+				  "styles": [],
+				  "value": "Indian Prime Minister Narendra Modi (then the chief minister of Gujarat province), and Chhattisgarh Chief Minister Raman Singh, seen at the 54th National Development Council meeting in New Delhi in 2007.",
+				  "type": "Text"
+				}
+			  ],
+			  "syndicationRights": true,
+			  "attribution": [
+				{
+				  "label": "Photo",
+				  "credit": [
+					{
+					  "styles": [],
+					  "value": "Mustafa Quraishi",
+					  "type": "Text"
+					}
+				  ],
+				  "source": [
+					{
+					  "styles": [],
+					  "value": "AP",
+					  "type": "Text"
+					}
+				  ]
+				}
+			  ],
+			  "lightbox": true,
+			  "type": "Image"
+			},
+			{
+			  "containers": [],
+			  "value": [
+				{
+				  "styles": [],
+				  "value": "India’s ",
+				  "type": "Text"
+				},
+				{
+				  "reference": "https://www.washingtonpost.com/news/global-opinions/wp/2018/03/05/under-narendra-modi-indias-right-is-finally-winning-the-culture-wars",
+				  "value": [
+					{
+					  "styles": [],
+					  "value": "right-wing",
+					  "type": "Text"
+					}
+				  ],
+				  "type": "Link"
+				},
+				{
+				  "styles": [],
+				  "value": ", ",
+				  "type": "Text"
+				},
+				{
+				  "reference": "https://www.nytimes.com/reuters/2018/11/08/world/asia/08reuters-india-election-religion.html",
+				  "value": [
+					{
+					  "styles": [],
+					  "value": "arch-nationalist",
+					  "type": "Text"
+					}
+				  ],
+				  "type": "Link"
+				},
+				{
+				  "styles": [],
+				  "value": " Bharatiya Janata Party (BJP) is using government-subsidized cell phones that have been handed out to millions of people as a campaign tool, the ",
+				  "type": "Text"
+				},
+				{
+				  "reference": "https://www.nytimes.com/2018/11/18/technology/india-government-free-phones-election.html",
+				  "value": [
+					{
+					  "styles": [],
+					  "value": "New York Times reported",
+					  "type": "Text"
+					}
+				  ],
+				  "type": "Link"
+				},
+				{
+				  "styles": [],
+				  "value": " on Sunday, with the BJP using a $79 million free-phone program in the state of Chhattisgarh to appeal directly to voters.",
+				  "type": "Text"
+				},
+				{
+				  "type": "LineBreak"
+				}
+			  ],
+			  "type": "Paragraph"
+			},
+			{
+			  "containers": [],
+			  "value": [
+				{
+				  "styles": [],
+				  "value": "According to the Times report, the program in Chhattisgarh distributed free phones to 2.9 million people and includes plans to construct hundreds of cell phone towers. Now a small army of “about 350 contractors, originally hired by the state but now paid by the BJP,” are working the phones, dialing the numbers of recipients, collecting data, and then handing it over to party activists working for the state’s ",
+				  "type": "Text"
+				},
+				{
+				  "styles": [],
+				  "value": "BJP chief minister Raman Singh ahead of legislative elections",
+				  "type": "Text"
+				},
+				{
+				  "styles": [],
+				  "value": ":",
+				  "type": "Text"
+				}
+			  ],
+			  "type": "Paragraph"
+			},
+			{
+			  "containers": [
+				{
+				  "type": "BlockQuote"
+				}
+			  ],
+			  "value": [
+				{
+				  "styles": [],
+				  "value": "Reading from a script that pops up on their screens, the callers ask the recipients if they are happy with the device and the mobile service, and also poll them on their satisfaction with other government programs championed by Mr. Singh.",
+				  "type": "Text"
+				}
+			  ],
+			  "type": "Paragraph"
+			},
+			{
+			  "containers": [
+				{
+				  "type": "BlockQuote"
+				}
+			  ],
+			  "value": [
+				{
+				  "styles": [],
+				  "value": "The callers then ask people whether they plan to vote and which party they intend to vote for, according to half a dozen people who made or received the calls.",
+				  "type": "Text"
+				}
+			  ],
+			  "type": "Paragraph"
+			},
+			{
+			  "containers": [
+				{
+				  "type": "BlockQuote"
+				}
+			  ],
+			  "value": [
+				{
+				  "styles": [],
+				  "value": "The state B.J.P. uses the data to steer party activists to visit voters who said they intended to vote for the opposition Indian National Congress or abstain, according to a longtime B.J.P. worker briefed on the strategy. “They are misusing state machinery for personal gains,” said the worker, who requested anonymity before discussing confidential party matters. “When we are in the government and have done so well, why do we need to do this?”",
+				  "type": "Text"
+				}
+			  ],
+			  "type": "Paragraph"
+			},
+			{
+			  "containers": [],
+			  "value": [
+				{
+				  "styles": [],
+				  "value": "According to the Times, the phones distributed via the program also have a photo of Singh’s face as the default background image, as well as come preloaded with apps promoting news releases from Singh and fellow BJP politician Prime Minister Narendra Modi. Using the apps in question prompts the user to share their contact lists as well as other personal data with the BJP, the paper added.",
+				  "type": "Text"
+				}
+			  ],
+			  "type": "Paragraph"
+			},
+			{
+			  "containers": [],
+			  "value": [
+				{
+				  "styles": [],
+				  "value": "The use of the phones and their associated data for political purposes has attracted scrutiny, particularly from the BJP’s opponents in the center-left ",
+				  "type": "Text"
+				},
+				{
+				  "styles": [],
+				  "value": "Congress Party and officials with the state electoral commission. Congress Party members have filed a complaint alleging that the state data should be made available to all parties and accused the call center operator, Magnum Group, of violating laws prohibiting the use of government resources to do election work, the Times wrote. (Magnum Group was originally contracted to “manage customer service” and perform do surveys about service quality, the paper wrote, though the call center has since been hired by individuals unknown to the public.)",
+				  "type": "Text"
+				}
+			  ],
+			  "type": "Paragraph"
+			},
+			{
+			  "containers": [],
+			  "value": [
+				{
+				  "styles": [],
+				  "value": "Chhattisgarh’s top election official, Subrat Sahoo, told the paper that while the call center itself may be legal, the BJP may have improperly accessed lists of who received the phones:",
+				  "type": "Text"
+				}
+			  ],
+			  "type": "Paragraph"
+			},
+			{
+			  "containers": [
+				{
+				  "type": "BlockQuote"
+				}
+			  ],
+			  "value": [
+				{
+				  "styles": [],
+				  "value": "Subrat Sahoo, the chief electoral officer for the state, said in an interview on Saturday that the B.J.P.’s use of Magnum to make calls was legal as long as the party paid the bills. But he said that commission officials in New Delhi were examining whether the B.J.P. was given improper access to the list of phone recipients. Mr. Sahoo wrote the Chhattisgarh agency in charge of the data on Nov. 1 and told it not to share it.",
+				  "type": "Text"
+				}
+			  ],
+			  "type": "Paragraph"
+			},
+			{
+			  "containers": [],
+			  "value": [
+				{
+				  "styles": [],
+				  "value": "A previous piece in the ",
+				  "type": "Text"
+				},
+				{
+				  "reference": "https://economictimes.indiatimes.com/news/politics-and-nation/how-the-mobile-phone-is-shaping-to-be-bjps-most-important-weapon-in-elections/articleshow/65508743.cms",
+				  "value": [
+					{
+					  "styles": [],
+					  "value": "Economic Times",
+					  "type": "Text"
+					}
+				  ],
+				  "type": "Link"
+				},
+				{
+				  "styles": [],
+				  "value": " noted that while “almost all” major political parties in India have invested significantly in data analytics and social media operations, the BJP had invested more time and effort than others. That report noted that ahead of the May 2018 Karnataka Assembly elections, BJP workers and volunteers created at least 23,000 chat groups on WhatsApp, an encrypted chat service and Facebook subsidiary that has become a major political tool in some countries which either lack widespread wireless infrastructure or expensive data rates see residents turn to wi-fi networks (",
+				  "type": "Text"
+				},
+				{
+				  "reference": "https://gizmodo.com/hey-howd-that-facebook-war-room-fare-during-brazils-el-1830089528",
+				  "value": [
+					{
+					  "styles": [],
+					  "value": "such as Brazil",
+					  "type": "Text"
+					}
+				  ],
+				  "type": "Link"
+				},
+				{
+				  "styles": [],
+				  "value": ").",
+				  "type": "Text"
+				}
+			  ],
+			  "type": "Paragraph"
+			},
+			{
+			  "containers": [],
+			  "value": [
+				{
+				  "styles": [],
+				  "value": "Alex Paul Menon, who runs the Chhattisgarh Infotech Promotion Society, which in turn runs the phone",
+				  "type": "Text"
+				},
+				{
+				  "styles": [],
+				  "value": " program, told the Times that it",
+				  "type": "Text"
+				},
+				{
+				  "styles": [],
+				  "value": " was not designed for political purposes and was instead a form of “nation building.” He also told the Times that his agency does not share user data and that the apps that came on the phones were selected by a state committee.",
+				  "type": "Text"
+				}
+			  ],
+			  "type": "Paragraph"
+			},
+			{
+			  "containers": [],
+			  "value": [
+				{
+				  "styles": [],
+				  "value": "According to the Times, polls run by the state show recipients are using the phones for standard purposes—speaking with relatives, browsing the web, and texting—but interviews with a number of locals showed “they were barely using the phones,” which are allegedly poorly built and suffer from a number of technical issues and limited data rates. However, the paper also added that the BJP has also rolled out a similar program in the state of Rajasthan, and it is under consideration elsewhere.",
+				  "type": "Text"
+				}
+			  ],
+			  "type": "Paragraph"
+			},
+			{
+			  "containers": [],
+			  "value": [
+				{
+				  "styles": [],
+				  "value": "[",
+				  "type": "Text"
+				},
+				{
+				  "reference": "https://www.nytimes.com/2018/11/18/technology/india-government-free-phones-election.html",
+				  "value": [
+					{
+					  "styles": [],
+					  "value": "New York Times",
+					  "type": "Text"
+					}
+				  ],
+				  "type": "Link"
+				},
+				{
+				  "styles": [],
+				  "value": "] ",
+				  "type": "Text"
+				},
+				{
+				  "type": "LineBreak"
+				}
+			  ],
+			  "type": "Paragraph"
+			}
+		  ],
+		  "tags": [
+			{
+			  "canonical": "politics",
+			  "urlName": "politics",
+			  "displayName": "Politics"
+			},
+			{
+			  "canonical": "cellphones",
+			  "urlName": "cell-phones",
+			  "displayName": "Cell phones"
+			},
+			{
+			  "canonical": "smartphones",
+			  "urlName": "smartphones",
+			  "displayName": "Smartphones"
+			},
+			{
+			  "canonical": "bjp",
+			  "urlName": "bjp",
+			  "displayName": "BJP"
+			},
+			{
+			  "canonical": "india",
+			  "urlName": "india",
+			  "displayName": "India"
+			},
+			{
+			  "canonical": "techpolicy",
+			  "urlName": "tech-policy",
+			  "displayName": "Tech Policy"
+			},
+			{
+			  "canonical": "technology",
+			  "urlName": "technology",
+			  "displayName": "Technology"
+			},
+			{
+			  "canonical": "elections",
+			  "urlName": "elections",
+			  "displayName": "Elections"
+			}
+		  ],
+		  "images": [
+			{
+			  "id": "sdqlc01w1cow4pk4elf0",
+			  "width": 1999,
+			  "height": 1124,
+			  "format": "jpg"
+			}
+		  ],
+		  "videos": [],
+		  "featuredMedia": null,
+		  "mainMedia": null,
+		  "largeOnStream": false,
+		  "relatedPosts": [],
+		  "firstSentence": "India’s right-wing, arch-nationalist Bharatiya Janata Party (BJP) is using government-subsidized cel",
+		  "isBlip": false,
+		  "length": 4835,
+		  "postId": 1830527714,
+		  "aboveHeadline": null,
+		  "leftOfHeadline": {
+			"src": "UNUSED",
+			"isAnimated": false,
+			"id": "sdqlc01w1cow4pk4elf0",
+			"width": 320,
+			"height": 180,
+			"format": "jpg",
+			"frozenFormat": "jpg",
+			"type": "image"
+		  },
+		  "sharingMainImage": {
+			"src": "UNUSED",
+			"isAnimated": false,
+			"id": "sdqlc01w1cow4pk4elf0",
+			"width": 800,
+			"height": 449,
+			"format": "jpg",
+			"frozenFormat": "jpg"
+		  },
+		  "plaintext": "India’s right-wing, arch-nationalist Bharatiya Janata Party (BJP) is using government-subsidized cell phones that have been handed out to millions of people as a campaign tool, the New York Times reported on Sunday, with the BJP using a $79 million free-phone program in the state of Chhattisgarh to appeal directly to voters.",
+		  "author": null,
+		  "authors": [
+			{
+				"id": "489539437",
+				"screenName": "mattnovak",
+				"displayName": "Matt Novak",
+				"authType": 3,
+				"authName": "google",
+				"createdMillis": 1367610858000,
+				"updatedMillis": 1529061167000,
+				"lastLoginMillis": 1529061167000,
+				"status": "enabled",
+				"avatar": {
+				  "id": "18mk8augnk3a5jpg",
+				  "format": "jpg"
+				},
+				"isSuperuser": false
+			}
+		  ],
+		  "parent": null,
+		  "starter": null,
+		  "storyTypeId": 1343,
+		  "permalink": "https://gizmodo.com/indias-bjp-is-reportedly-using-data-from-a-state-funded-1830527714",
+		  "permalinkHost": "https://gizmodo.com",
+		  "permalinkPath": "/indias-bjp-is-reportedly-using-data-from-a-state-funded-1830527714",
+		  "publishTime": {
+			"timestamp": 1542592500714,
+			"timezone": "America/New_York",
+			"MdyHm": "11/18/2018 20:55",
+			"MdyatHm": "11/18/2018 at 20:55",
+			"rfc822": "Mon, 19 Nov 2018 01:55:00 GMT",
+			"yMdHmsZ": "2018-11-18T20:55:00-05:00",
+			"hmma": "20:55pm",
+			"day": "Sunday",
+			"Mddyyhmma": "11/18/18 8:55pm",
+			"fullDate": "November 18, 2018",
+			"relative": {
+			  "amount": null,
+			  "type": "yesterday"
+			}
+		  }
+		},
+		"repost": null
+	  },
+	  {
+		"id": 1827796483,
+		"timestamp": 1542589188981,
+		"post": {
+			"id": 1827796483,
+			"permalinkRedirect": null,
+			"parentId": null,
+			"parentAuthorId": null,
+			"parentAuthorIds": [],
+			"starterId": 1827796483,
+			"publishTimeMillis": 1542548640483,
+			"lastUpdateTimeMillis": 1542552662342,
+			"timezone": "America/New_York",
+			"sharedUrl": null,
+			"salesAvatar": null,
+			"sponsored": false,
+			"adSettings": null,
+			"status": "PUBLISHED",
+			"authorId": "5727177402741770316",
+			"authorIds": [
+				"5727177402741770316"
+			],
+			"allowReplies": true,
+			"showAuthorBio": true,
+			"byline": "",
+			"showByline": true,
+			"properties": "{\"headTitleTag\":\"\",\"sharingMainImageSetInDistTools\":true,\"socialHeadline\":\"\",\"socialDescription\":\"\",\"autoRepostDisabled\":false,\"impactHeader\":{}}",
+			"isFeatured": false,
+			"isVideo": false,
+			"relatedModule": {
+				"posts": [
+				{
+					"id": 1830518795
+				},
+				{
+					"id": 1828625651
+				},
+				{
+					"id": 1830385085
+				}
+				],
+				"storyTypes": [],
+				"tags": []
+			},
+			"defaultBlogId": "86286",
+			"approved": true,
+			"headline": "Samsung&#39;s Ultra-Fast MicroSD Cards Just Dropped to New Black Friday Price Lows",
+			"body": [
+				{
+				"id": "luppoz5iqvd4fassuuu6",
+				"format": "jpg",
+				"width": 1280,
+				"height": 720,
+				"alignment": "Bleed",
+				"caption": [
+					{
+					"reference": "https://www.amazon.com/gp/product/B06XWN9Q99/",
+					"value": [
+						{
+						"styles": [],
+						"value": "Samsung U3 32GB MicroSD Card",
+						"type": "Text"
+						}
+					],
+					"type": "Link"
+					},
+					{
+					"styles": [],
+					"value": " | $6 | Amazon",
+					"type": "Text"
+					},
+					{
+					"type": "LineBreak"
+					},
+					{
+					"reference": "https://www.amazon.com/Samsung-MicroSDXC-Adapter-MB-ME64GA-AM/dp/B06XX29S9Q",
+					"value": [
+						{
+						"styles": [],
+						"value": "Samsung U3 64GB MicroSD Card",
+						"type": "Text"
+						}
+					],
+					"type": "Link"
+					},
+					{
+					"styles": [],
+					"value": " | $11 | Amazon",
+					"type": "Text"
+					},
+					{
+					"type": "LineBreak"
+					},
+					{
+					"reference": "https://www.amazon.com/Samsung-MicroSDXC-Adapter-MB-ME64GA-AM/dp/B06XWZWYVP",
+					"value": [
+						{
+						"styles": [],
+						"value": "Samsung U3 128GB MicroSD Card",
+						"type": "Text"
+						}
+					],
+					"type": "Link"
+					},
+					{
+					"styles": [],
+					"value": " | $20 | Amazon",
+					"type": "Text"
+					},
+					{
+					"type": "LineBreak"
+					},
+					{
+					"reference": "https://www.amazon.com/dp/B072HRDM55",
+					"value": [
+						{
+						"styles": [],
+						"value": "Samsung U3 256GB MicroSD Card",
+						"type": "Text"
+						}
+					],
+					"type": "Link"
+					},
+					{
+					"styles": [],
+					"value": " | $45 | Amazon",
+					"type": "Text"
+					}
+				],
+				"syndicationRights": true,
+				"attribution": [
+					{
+					"label": "Graphic",
+					"credit": [
+						{
+						"styles": [],
+						"value": "Shep McAllister",
+						"type": "Text"
+						}
+					],
+					"source": []
+					}
+				],
+				"lightbox": true,
+				"type": "Image"
+				},
+				{
+				"containers": [],
+				"value": [
+					{
+					"styles": [],
+					"value": "Samsung’s U3-rated microSD cards are some of the fastest and most popular options out there—I have ",
+					"type": "Text"
+					},
+					{
+					"reference": "https://www.amazon.com/Samsung-MicroSDXC-Adapter-MB-ME64GA-AM/dp/B06XWZWYVP",
+					"value": [
+						{
+						"styles": [],
+						"value": "the 128GB model",
+						"type": "Text"
+						}
+					],
+					"type": "Link"
+					},
+					{
+					"styles": [],
+					"value": " in ",
+					"type": "Text"
+					},
+					{
+					"reference": "https://theinventory.com/the-best-microsd-cards-for-your-nintendo-switch-1826271282#_ga=2.110515136.493605129.1534960491-373317367.1534080509",
+					"value": [
+						{
+						"styles": [],
+						"value": "my own Nintendo Switch",
+						"type": "Text"
+						}
+					],
+					"type": "Link"
+					},
+					{
+					"styles": [],
+					"value": "—and all four sizes are down to all-time low prices today on Amazon.",
+					"type": "Text"
+					}
+				],
+				"type": "Paragraph"
+				},
+				{
+				"containers": [],
+				"value": [
+					{
+					"styles": [],
+					"value": " The ",
+					"type": "Text"
+					},
+					{
+					"reference": "https://www.amazon.com/gp/product/B06XWN9Q99/",
+					"value": [
+						{
+						"styles": [],
+						"value": "32GB card is down to a laughably cheap $6,",
+						"type": "Text"
+						}
+					],
+					"type": "Link"
+					},
+					{
+					"styles": [],
+					"value": " the ",
+					"type": "Text"
+					},
+					{
+					"reference": "https://www.amazon.com/Samsung-MicroSDXC-Adapter-MB-ME64GA-AM/dp/B06XX29S9Q",
+					"value": [
+						{
+						"styles": [],
+						"value": "64GB just dropped $11",
+						"type": "Text"
+						}
+					],
+					"type": "Link"
+					},
+					{
+					"styles": [],
+					"value": ", the ",
+					"type": "Text"
+					},
+					{
+					"reference": "https://www.amazon.com/Samsung-MicroSDXC-Adapter-MB-ME64GA-AM/dp/B06XWZWYVP",
+					"value": [
+						{
+						"styles": [],
+						"value": "128GB went from $25 to $20",
+						"type": "Text"
+						}
+					],
+					"type": "Link"
+					},
+					{
+					"styles": [],
+					"value": ", and the ",
+					"type": "Text"
+					},
+					{
+					"reference": "https://www.amazon.com/dp/B072HRDM55",
+					"value": [
+						{
+						"styles": [],
+						"value": "256GB dropped from $60 all the way to $45",
+						"type": "Text"
+						}
+					],
+					"type": "Link"
+					},
+					{
+					"styles": [],
+					"value": ". ",
+					"type": "Text"
+					}
+				],
+				"type": "Paragraph"
+				},
+				{
+				"containers": [],
+				"value": [
+					{
+					"styles": [],
+					"value": "If you need extra space for your action cam, smartphone, tablet, Switch, or anything else, these are extremely fast cards, and extremely good deals. ",
+					"type": "Text"
+					}
+				],
+				"type": "Paragraph"
+				},
+				{
+				"containers": [
+					{
+					"style": "Commerce",
+					"type": "List"
+					}
+				],
+				"value": [
+					{
+					"reference": "https://www.amazon.com/gp/product/B06XWN9Q99/",
+					"value": [
+						{
+						"styles": [
+							"Bold"
+						],
+						"value": "Samsung 32GB MicroSD Card",
+						"type": "Text"
+						}
+					],
+					"type": "Link"
+					},
+					{
+					"styles": [],
+					"value": " | ",
+					"type": "Text"
+					},
+					{
+					"styles": [
+						"Italic"
+					],
+					"value": "$6",
+					"type": "Text"
+					},
+					{
+					"styles": [],
+					"value": " | Amazon",
+					"type": "Text"
+					},
+					{
+					"type": "LineBreak"
+					}
+				],
+				"type": "Paragraph"
+				},
+				{
+				"url": "https://www.amazon.com/Samsung-MicroSDXC-Adapter-MB-ME64GA-AM/dp/B06XX29S9Q?kinja_price=11",
+				"style": "CommerceCondensed",
+				"type": "LinkPreview"
+				},
+				{
+				"url": "https://www.amazon.com/Samsung-MicroSDXC-Adapter-MB-ME64GA-AM/dp/B06XWZWYVP?kinja_price=20",
+				"style": "CommerceCondensed",
+				"type": "LinkPreview"
+				},
+				{
+				"url": "https://www.amazon.com/dp/B072HRDM55?kinja_price=45",
+				"style": "CommerceCondensed",
+				"type": "LinkPreview"
+				},
+				{
+				"url": "https://theinventory.com/the-best-microsd-cards-for-your-nintendo-switch-1826271282#_ga=2.110515136.493605129.1534960491-373317367.1534080509",
+				"style": "Normal",
+				"type": "LinkPreview"
+				},
+				{
+				"style": "Line",
+				"containers": [],
+				"type": "HorizontalRule"
+				},
+				{
+				"id": "997177489985277952",
+				"type": "Twitter"
+				},
+				{
+				"alignment": "Center",
+				"hide": true,
+				"title": "MicroSD",
+				"text": [],
+				"type": "ReviewBox"
+				}
+			],
+			"tags": [
+				{
+				"canonical": "kinjadeals",
+				"urlName": "kinja-deals",
+				"displayName": "Kinja Deals"
+				},
+				{
+				"canonical": "deals",
+				"urlName": "deals",
+				"displayName": "Deals"
+				},
+				{
+				"canonical": "amazondeals",
+				"urlName": "amazon-deals",
+				"displayName": "Amazon Deals"
+				},
+				{
+				"canonical": "samsungdeals",
+				"urlName": "samsung-deals",
+				"displayName": "Samsung Deals"
+				},
+				{
+				"canonical": "blackfridaydeals",
+				"urlName": "black-friday-deals",
+				"displayName": "black friday deals"
+				},
+				{
+				"canonical": "blackfridaynintendodeals",
+				"urlName": "black-friday-nintendo-deals",
+				"displayName": "Black Friday Nintendo Deals"
+				}
+			],
+			"images": [
+				{
+				"id": "luppoz5iqvd4fassuuu6",
+				"width": 1280,
+				"height": 720,
+				"format": "jpg"
+				}
+			],
+			"videos": [],
+			"featuredMedia": null,
+			"mainMedia": null,
+			"largeOnStream": false,
+			"relatedPosts": [],
+			"firstSentence": "Samsung’s U3-rated microSD cards are some of the fastest and most popular options out there—I have t",
+			"isBlip": false,
+			"length": 554,
+			"postId": 1827796483,
+			"aboveHeadline": null,
+			"leftOfHeadline": {
+				"src": "UNUSED",
+				"isAnimated": false,
+				"id": "luppoz5iqvd4fassuuu6",
+				"width": 320,
+				"height": 180,
+				"format": "jpg",
+				"frozenFormat": "jpg",
+				"type": "image"
+			},
+			"sharingMainImage": {
+				"src": "UNUSED",
+				"isAnimated": false,
+				"id": "luppoz5iqvd4fassuuu6",
+				"width": 800,
+				"height": 450,
+				"format": "jpg",
+				"frozenFormat": "jpg"
+			},
+			"plaintext": "Samsung’s U3-rated microSD cards are some of the fastest and most popular options out there—I have the 128GB model in my own Nintendo Switch—and all four sizes are down to all-time low prices today on Amazon.",
+			"author": null,
+			"authors": [
+				{
+					"id": "489539437",
+					"screenName": "mattnovak",
+					"displayName": "Matt Novak",
+					"authType": 3,
+					"authName": "google",
+					"createdMillis": 1367610858000,
+					"updatedMillis": 1529061167000,
+					"lastLoginMillis": 1529061167000,
+					"status": "enabled",
+					"avatar": {
+					"id": "18mk8augnk3a5jpg",
+					"format": "jpg"
+					},
+					"isSuperuser": false
+				}
+			],
+			"parent": null,
+			"starter": null,
+			"storyTypeId": 852,
+			"permalink": "https://kinjadeals.theinventory.com/all-of-samsungs-ultra-fast-microsd-cards-just-dropped-t-1827796483",
+			"permalinkHost": "https://kinjadeals.theinventory.com",
+			"permalinkPath": "/all-of-samsungs-ultra-fast-microsd-cards-just-dropped-t-1827796483",
+			"publishTime": {
+				"timestamp": 1542548640483,
+				"timezone": "America/New_York",
+				"MdyHm": "11/18/2018 08:44",
+				"MdyatHm": "11/18/2018 at 08:44",
+				"rfc822": "Sun, 18 Nov 2018 13:44:00 GMT",
+				"yMdHmsZ": "2018-11-18T08:44:00-05:00",
+				"hmma": "8:44am",
+				"day": "Sunday",
+				"Mddyyhmma": "11/18/18 8:44am",
+				"fullDate": "November 18, 2018",
+				"relative": {
+				"amount": null,
+				"type": "yesterday"
+				}
+			}
+		},
+		"repost": {
+			"id": "1792333637",
+			"postId": "1827796483",
+			"authorId": "5727177402741770316",
+			"blogId": "4",
+			"repostTimeMillis": 1542589188981,
+			"createTimeMillis": 1542589188981,
+			"scheduled": false,
+			"properties": {}
+		}
+	  },
+	  {
+		"id": 1830526315,
+		"timestamp": 1542587409668,
+		"post": {
+			"id": 1830526315,
+			"permalinkRedirect": null,
+			"parentId": null,
+			"parentAuthorId": null,
+			"parentAuthorIds": [],
+			"starterId": 1830526315,
+			"publishTimeMillis": 1542585600315,
+			"lastUpdateTimeMillis": 1542585601203,
+			"timezone": "America/New_York",
+			"sharedUrl": null,
+			"salesAvatar": null,
+			"sponsored": false,
+			"adSettings": null,
+			"status": "PUBLISHED",
+			"authorId": "5724032494550896668",
+			"authorIds": [
+				"5724032494550896668"
+			],
+			"allowReplies": true,
+			"showAuthorBio": true,
+			"byline": "",
+			"showByline": true,
+			"properties": "{\"dropCapEnabled\":false,\"impactHeader\":{}}",
+			"isFeatured": false,
+			"isVideo": false,
+			"relatedModule": {
+				"posts": [
+				{
+					"id": 1829198017
+				},
+				{
+					"id": 1826847282
+				},
+				{
+					"id": 1825656934
+				}
+				],
+				"storyTypes": [],
+				"tags": []
+			},
+			"defaultBlogId": "9",
+			"approved": true,
+			"headline": "<i>Frostpunk </i>Is About To Become A Proper City-Builder",
+			"body": [
+				{
+				"id": "pmde3nocijw16tsrtluq",
+				"format": "jpg",
+				"width": 1203,
+				"height": 673,
+				"alignment": "Bleed",
+				"caption": [],
+				"syndicationRights": false,
+				"attribution": [],
+				"lightbox": true,
+				"type": "Image"
+				},
+				{
+				"containers": [],
+				"value": [
+					{
+					"styles": [],
+					"value": "One of the few criticisms ",
+					"type": "Text"
+					},
+					{
+					"reference": "https://kotaku.com/tag/frostpunk",
+					"value": [
+						{
+						"styles": [],
+						"value": "levelled at ",
+						"type": "Text"
+						},
+						{
+						"styles": [
+							"Italic"
+						],
+						"value": "Frostpunk ",
+						"type": "Text"
+						}
+					],
+					"type": "Link"
+					},
+					{
+					"styles": [],
+					"value": "was that the city-building game only shipped with curated scenarios, not a more traditional (for the genre) sandbox mode. That’s about to change, with an “Endless Mode” due for release very soon.",
+					"type": "Text"
+					},
+					{
+					"type": "LineBreak"
+					}
+				],
+				"type": "Paragraph"
+				},
+				{
+				"containers": [],
+				"value": [
+					{
+					"styles": [],
+					"value": "Coming as a free update for existing owners of the game, there’ll be two ways to play it:",
+					"type": "Text"
+					}
+				],
+				"type": "Paragraph"
+				},
+				{
+				"containers": [
+					{
+					"type": "BlockQuote"
+					}
+				],
+				"value": [
+					{
+					"styles": [],
+					"value": "“Serenity” for the constructors who enjoy growing the city at their own pace without hard challenges, and “Endurance” for survivalists looking to earn their stripes and see how long they’re able to live in the harsh cold world of Frostpunk.",
+					"type": "Text"
+					}
+				],
+				"type": "Paragraph"
+				},
+				{
+				"containers": [],
+				"value": [
+					{
+					"styles": [],
+					"value": "I’ll take Serenity, thanks. Humanity has been through enough in this game as it is.",
+					"type": "Text"
+					}
+				],
+				"type": "Paragraph"
+				},
+				{
+				"containers": [],
+				"value": [
+					{
+					"styles": [],
+					"value": "In addition to the sandbox mode itself, there’ll also be some new buildings, new random events and new sites to discover in the surrounding icy wastes.",
+					"type": "Text"
+					}
+				],
+				"type": "Paragraph"
+				},
+				{
+				"id": "aln3KJYvwW4",
+				"start": 0,
+				"alignment": "Bleed",
+				"thumbnail": {
+					"id": "hpvl2bqcubxuwbb1yycv",
+					"format": "jpg"
+				},
+				"caption": [],
+				"type": "YoutubeVideo"
+				},
+				{
+				"containers": [],
+				"value": [
+					{
+					"styles": [],
+					"value": "The developers said it would be out “within a couple of days” on November 17, so expect it any minute now.",
+					"type": "Text"
+					}
+				],
+				"type": "Paragraph"
+				}
+			],
+			"tags": [
+				{
+				"canonical": "frostpunk",
+				"urlName": "frostpunk",
+				"displayName": "frostpunk"
+				},
+				{
+				"canonical": "pc",
+				"urlName": "pc",
+				"displayName": "pc"
+				},
+				{
+				"canonical": "kotakucore",
+				"urlName": "kotaku-core",
+				"displayName": "kotaku core"
+				}
+			],
+			"images": [
+				{
+				"id": "pmde3nocijw16tsrtluq",
+				"width": 1203,
+				"height": 673,
+				"format": "jpg"
+				}
+			],
+			"videos": [
+				{
+				"id": null,
+				"type": "youtube",
+				"src": "youtube://aln3KJYvwW4",
+				"embedCode": null,
+				"height": null,
+				"width": null,
+				"thumbnails": [
+					{
+					"id": "hpvl2bqcubxuwbb1yycv",
+					"format": "jpg"
+					}
+				]
+				}
+			],
+			"featuredMedia": null,
+			"mainMedia": {
+				"id": "pmde3nocijw16tsrtluq",
+				"format": "jpg",
+				"width": 1203,
+				"height": 673,
+				"alignment": "Bleed",
+				"caption": [],
+				"syndicationRights": false,
+				"attribution": [],
+				"lightbox": true,
+				"type": "Image"
+			},
+			"largeOnStream": true,
+			"relatedPosts": [],
+			"firstSentence": "One of the few criticisms levelled at Frostpunk was that the city-building game only shipped with cu",
+			"isBlip": false,
+			"length": 912,
+			"postId": 1830526315,
+			"aboveHeadline": {
+				"src": "UNUSED",
+				"isAnimated": false,
+				"id": "pmde3nocijw16tsrtluq",
+				"width": 800,
+				"height": 447,
+				"format": "jpg",
+				"frozenFormat": "jpg",
+				"type": "image"
+			},
+			"leftOfHeadline": {
+				"src": "UNUSED",
+				"isAnimated": false,
+				"id": "pmde3nocijw16tsrtluq",
+				"width": 320,
+				"height": 180,
+				"format": "jpg",
+				"frozenFormat": "jpg",
+				"type": "image"
+			},
+			"sharingMainImage": {
+				"src": "UNUSED",
+				"isAnimated": false,
+				"id": "pmde3nocijw16tsrtluq",
+				"width": 800,
+				"height": 447,
+				"format": "jpg",
+				"frozenFormat": "jpg",
+				"type": "image"
+			},
+			"plaintext": "One of the few criticisms levelled at Frostpunk was that the city-building game only shipped with curated scenarios, not a more traditional (for the genre) sandbox mode. That’s about to change, with an “Endless Mode” due for release very soon.",
+			"author": null,
+			"authors": [
+				{
+					"id": "489539437",
+					"screenName": "mattnovak",
+					"displayName": "Matt Novak",
+					"authType": 3,
+					"authName": "google",
+					"createdMillis": 1367610858000,
+					"updatedMillis": 1529061167000,
+					"lastLoginMillis": 1529061167000,
+					"status": "enabled",
+					"avatar": {
+					"id": "18mk8augnk3a5jpg",
+					"format": "jpg"
+					},
+					"isSuperuser": false
+				}
+			],
+			"parent": null,
+			"starter": null,
+			"permalink": "https://kotaku.com/frostpunk-is-about-to-become-a-proper-city-builder-1830526315",
+			"permalinkHost": "https://kotaku.com",
+			"permalinkPath": "/frostpunk-is-about-to-become-a-proper-city-builder-1830526315",
+			"publishTime": {
+				"timestamp": 1542585600315,
+				"timezone": "America/New_York",
+				"MdyHm": "11/18/2018 19:00",
+				"MdyatHm": "11/18/2018 at 19:00",
+				"rfc822": "Mon, 19 Nov 2018 00:00:00 GMT",
+				"yMdHmsZ": "2018-11-18T19:00:00-05:00",
+				"hmma": "19:00pm",
+				"day": "Sunday",
+				"Mddyyhmma": "11/18/18 7:00pm",
+				"fullDate": "November 18, 2018",
+				"relative": {
+				"amount": null,
+				"type": "yesterday"
+				}
+			}
+		},
+		"repost": {
+			"id": "1792333636",
+			"postId": "1830526315",
+			"authorId": "5876237249237171272",
+			"blogId": "4",
+			"repostTimeMillis": 1542587409668,
+			"createTimeMillis": 1542587409668,
+			"scheduled": false,
+			"properties": {}
+		}
+	  },
+	  {
+		"id": 1830526573,
+		"timestamp": 1542584993328,
+		"post": {
+			"id": 1830526573,
+			"permalinkRedirect": null,
+			"parentId": null,
+			"parentAuthorId": null,
+			"parentAuthorIds": [],
+			"starterId": 1830526573,
+			"publishTimeMillis": 1542584700573,
+			"lastUpdateTimeMillis": 1542585167386,
+			"timezone": "America/New_York",
+			"sharedUrl": null,
+			"salesAvatar": null,
+			"sponsored": false,
+			"adSettings": null,
+			"status": "PUBLISHED",
+			"authorId": "5876237249238304892",
+			"authorIds": [
+				"5876237249238304892"
+			],
+			"allowReplies": true,
+			"showAuthorBio": true,
+			"byline": "",
+			"showByline": true,
+			"properties": "{\"headTitleTag\":\"Finnish President Denies Having Raking Conversation With Trump\",\"sharingMainImageSetInDistTools\":true,\"socialHeadline\":\"\",\"socialDescription\":\"\",\"autoRepostDisabled\":false,\"impactHeader\":{}}",
+			"isFeatured": false,
+			"isVideo": false,
+			"relatedModule": {
+				"posts": [
+				{
+					"id": 1830516283
+				},
+				{
+					"id": 1830358375
+				},
+				{
+					"id": 1830381633
+				}
+				],
+				"storyTypes": [],
+				"tags": []
+			},
+			"defaultBlogId": "1636390014",
+			"approved": true,
+			"headline": "Finland&#39;s President Denies Having Conversation About &#39;Raking&#39; With Trump",
+			"body": [
+				{
+				"id": "bwqpem7o50rlpdq15v7z",
+				"format": "jpg",
+				"width": 3672,
+				"height": 2065,
+				"alignment": "Bleed",
+				"caption": [
+					{
+					"styles": [],
+					"value": "President Donald Trump talks with Gov.-elect Gavin ",
+					"type": "Text"
+					},
+					{
+					"styles": [],
+					"value": "Newsom,",
+					"type": "Text"
+					},
+					{
+					"styles": [],
+					"value": " left, and as California Gov. Jerry Brown listens during a visit to a neighborhood impacted by the wildfires in California.",
+					"type": "Text"
+					}
+				],
+				"syndicationRights": true,
+				"attribution": [
+					{
+					"label": "Photo",
+					"credit": [
+						{
+						"styles": [],
+						"value": "Evan Vucci",
+						"type": "Text"
+						}
+					],
+					"source": [
+						{
+						"styles": [],
+						"value": "AP",
+						"type": "Text"
+						}
+					]
+					}
+				],
+				"lightbox": true,
+				"type": "Image"
+				},
+				{
+				"containers": [],
+				"value": [
+					{
+					"styles": [],
+					"value": "While visiting California this weekend, President Donald Trump said Finnish President Sauli Niinisto told him that “",
+					"type": "Text"
+					},
+					{
+					"reference": "https://earther.gizmodo.com/trump-suggests-california-wildfires-can-be-avoided-by-r-1830516283",
+					"value": [
+						{
+						"styles": [],
+						"value": "raking",
+						"type": "Text"
+						}
+					],
+					"type": "Link"
+					},
+					{
+					"styles": [],
+					"value": "” was part of the country’s forest management before insinuating that it’s something the United States should be doing to mitigate wildfires. The remark was bizarre, to be sure. But now, Niinisto says that no such conversation ever happened.",
+					"type": "Text"
+					}
+				],
+				"type": "Paragraph"
+				},
+				{
+				"containers": [],
+				"value": [
+					{
+					"styles": [],
+					"value": "Answering questions from reporters with California officials about the state’s wildfires on Saturday, Trump said that management of the “floors of the forest” was important for avoiding future environmental catastrophes like the Camp Fire, which has become the state’s ",
+					"type": "Text"
+					},
+					{
+					"reference": "https://earther.gizmodo.com/the-camp-fire-is-now-the-deadliest-in-californias-histo-1830381633",
+					"value": [
+						{
+						"styles": [],
+						"value": "deadliest",
+						"type": "Text"
+						}
+					],
+					"type": "Link"
+					},
+					{
+					"styles": [],
+					"value": " and most ",
+					"type": "Text"
+					},
+					{
+					"reference": "https://earther.gizmodo.com/the-camp-fire-is-officially-the-most-destructive-in-cal-1830358375",
+					"value": [
+						{
+						"styles": [],
+						"value": "destructive",
+						"type": "Text"
+						}
+					],
+					"type": "Link"
+					},
+					{
+					"styles": [],
+					"value": " fire in its history. He then pointed to a conversation he claimed he had with Niinisto.",
+					"type": "Text"
+					}
+				],
+				"type": "Paragraph"
+				},
+				{
+				"containers": [],
+				"value": [
+					{
+					"styles": [],
+					"value": "“You look at other countries where they do it differently and it’s a whole different story,” he said. “I was with the president of Finland and he said, ‘We’re a forest nation.’ He called it a forest nation. And they spend a lot of time on raking and cleaning and doing things. And they don’t have any problem. And when it is, it’s a very small problem.”",
+					"type": "Text"
+					}
+				],
+				"type": "Paragraph"
+				},
+				{
+				"containers": [],
+				"value": [
+					{
+					"styles": [],
+					"value": "It now appears that the conversation never happened. Asked about the remark by Finish newspaper ",
+					"type": "Text"
+					},
+					{
+					"reference": "https://www.is.fi/ulkomaat/art-2000005903733.html",
+					"value": [
+						{
+						"styles": [],
+						"value": "Ilta-Sanomat",
+						"type": "Text"
+						}
+					],
+					"type": "Link"
+					},
+					{
+					"styles": [],
+					"value": ", Niinisto said he didn’t recall a discussion about raking, though he did recall telling the president that “",
+					"type": "Text"
+					},
+					{
+					"styles": [],
+					"value": "we take care of our forests.”",
+					"type": "Text"
+					}
+				],
+				"type": "Paragraph"
+				},
+				{
+				"containers": [],
+				"value": [
+					{
+					"styles": [],
+					"value": "Beyond the fact that Finland’s president insinuated this conversation about raking happened exclusively in Trump’s mind, perhaps at the very ",
+					"type": "Text"
+					},
+					{
+					"styles": [],
+					"value": "moment",
+					"type": "Text"
+					},
+					{
+					"styles": [],
+					"value": " the words fell out of his mouth, it is not the first time Trump has mentioned raking in relation to California’s fires. Just one day before visiting Paradise, the California town that was essentially ",
+					"type": "Text"
+					},
+					{
+					"reference": "https://earther.gizmodo.com/paradise-lost-the-camp-fire-has-reportedly-burned-an-e-1830333145",
+					"value": [
+						{
+						"styles": [],
+						"value": "burned to the ground",
+						"type": "Text"
+						}
+					],
+					"type": "Link"
+					},
+					{
+					"styles": [],
+					"value": " by the Camp Fire, Trump again ",
+					"type": "Text"
+					},
+					{
+					"reference": "https://earther.gizmodo.com/trump-suggests-california-wildfires-can-be-avoided-by-r-1830516283",
+					"value": [
+						{
+						"styles": [],
+						"value": "mentioned raking",
+						"type": "Text"
+						}
+					],
+					"type": "Link"
+					},
+					{
+					"styles": [],
+					"value": ".",
+					"type": "Text"
+					}
+				],
+				"type": "Paragraph"
+				},
+				{
+				"containers": [],
+				"value": [
+					{
+					"styles": [],
+					"value": "As it appears that his cited source now denies any such conversation ever happened, it’s unclear how or why the president has latched onto this bizarre and vastly oversimplified solution to a complex problem.",
+					"type": "Text"
+					}
+				],
+				"type": "Paragraph"
+				},
+				{
+				"containers": [],
+				"value": [
+					{
+					"styles": [],
+					"value": "[",
+					"type": "Text"
+					},
+					{
+					"reference": "https://www.apnews.com/3179a22c09714899aace1c8b6265e9c5",
+					"value": [
+						{
+						"styles": [],
+						"value": "Associated Press",
+						"type": "Text"
+						}
+					],
+					"type": "Link"
+					},
+					{
+					"styles": [],
+					"value": "]",
+					"type": "Text"
+					}
+				],
+				"type": "Paragraph"
+				}
+			],
+			"tags": [
+				{
+				"canonical": "raking",
+				"urlName": "raking",
+				"displayName": "raking"
+				},
+				{
+				"canonical": "campfire",
+				"urlName": "camp-fire",
+				"displayName": "camp fire"
+				},
+				{
+				"canonical": "californiawildfires",
+				"urlName": "california-wildfires",
+				"displayName": "California wildfires"
+				},
+				{
+				"canonical": "california",
+				"urlName": "california",
+				"displayName": "California"
+				},
+				{
+				"canonical": "climatechange",
+				"urlName": "climate-change",
+				"displayName": "Climate Change"
+				},
+				{
+				"canonical": "finland",
+				"urlName": "finland",
+				"displayName": "finland"
+				},
+				{
+				"canonical": "wildfires",
+				"urlName": "wildfires",
+				"displayName": "wildfires"
+				}
+			],
+			"images": [
+				{
+				"id": "bwqpem7o50rlpdq15v7z",
+				"width": 3672,
+				"height": 2065,
+				"format": "jpg"
+				}
+			],
+			"videos": [],
+			"featuredMedia": null,
+			"mainMedia": null,
+			"largeOnStream": false,
+			"relatedPosts": [],
+			"firstSentence": "While visiting California this weekend, President Donald Trump said Finnish President Sauli Niinisto",
+			"isBlip": false,
+			"length": 1991,
+			"postId": 1830526573,
+			"aboveHeadline": null,
+			"leftOfHeadline": {
+				"src": "UNUSED",
+				"isAnimated": false,
+				"id": "bwqpem7o50rlpdq15v7z",
+				"width": 320,
+				"height": 180,
+				"format": "jpg",
+				"frozenFormat": "jpg",
+				"type": "image"
+			},
+			"sharingMainImage": {
+				"src": "UNUSED",
+				"isAnimated": false,
+				"id": "bwqpem7o50rlpdq15v7z",
+				"width": 800,
+				"height": 449,
+				"format": "jpg",
+				"frozenFormat": "jpg"
+			},
+			"plaintext": "While visiting California this weekend, President Donald Trump said Finnish President Sauli Niinisto told him that “raking” was part of the country’s forest management before insinuating that it’s something the United States should be doing to mitigate wildfires. The remark was bizarre, to be sure. But now, Niinisto says that no such conversation ever happened.",
+			"author": null,
+			"authors": [
+				{
+					"id": "489539437",
+					"screenName": "mattnovak",
+					"displayName": "Matt Novak",
+					"authType": 3,
+					"authName": "google",
+					"createdMillis": 1367610858000,
+					"updatedMillis": 1529061167000,
+					"lastLoginMillis": 1529061167000,
+					"status": "enabled",
+					"avatar": {
+					"id": "18mk8augnk3a5jpg",
+					"format": "jpg"
+					},
+					"isSuperuser": false
+				}
+			],
+			"parent": null,
+			"starter": null,
+			"storyTypeId": 1277,
+			"permalink": "https://earther.gizmodo.com/finlands-president-denies-having-conversation-about-rak-1830526573",
+			"permalinkHost": "https://earther.gizmodo.com",
+			"permalinkPath": "/finlands-president-denies-having-conversation-about-rak-1830526573",
+			"publishTime": {
+				"timestamp": 1542584700573,
+				"timezone": "America/New_York",
+				"MdyHm": "11/18/2018 18:45",
+				"MdyatHm": "11/18/2018 at 18:45",
+				"rfc822": "Sun, 18 Nov 2018 23:45:00 GMT",
+				"yMdHmsZ": "2018-11-18T18:45:00-05:00",
+				"hmma": "18:45pm",
+				"day": "Sunday",
+				"Mddyyhmma": "11/18/18 6:45pm",
+				"fullDate": "November 18, 2018",
+				"relative": {
+				"amount": null,
+				"type": "yesterday"
+				}
+			}
+		},
+		"repost": {
+			"id": "1792333634",
+			"postId": "1830526573",
+			"authorId": "5876237249238304892",
+			"blogId": "4",
+			"repostTimeMillis": 1542584993328,
+			"createTimeMillis": 1542584993328,
+			"scheduled": false,
+			"properties": {}
+		}
+	  }
+	],
+	"pagination": {
+	  "curr": {
+		"maxReturned": 10
+	  },
+	  "next": {
+		"startTime": 1542584993327,
+		"maxReturned": 10
+	  }
+	}
+  }

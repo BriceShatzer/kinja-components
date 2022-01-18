@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<PodcastPlayer /> should render podcastplayer 1`] = `
+<podcast-player__PlayerIFrame
+  frameBorder="0"
+  scrolling="no"
+  src="https://playlist.megaphone.fm?p=PPY9140073942&episodes=1"
+/>
+`;

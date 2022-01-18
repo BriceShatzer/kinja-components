@@ -1,0 +1,55 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<VideoUploader /> should accept a file as props 1`] = `
+<div>
+  <file-selector__Headline>
+    Upload a video
+  </file-selector__Headline>
+  <Filefield
+    name="file"
+    onChange={[Function]}
+  />
+  <file-selector__ActionButtonGroup>
+    <CancelButton
+      label="Cancel"
+      onClick={[Function]}
+      small={true}
+      weight="secondary"
+    />
+    <Button
+      disabled={false}
+      label="Insert"
+      onClick={[Function]}
+      small={true}
+      weight="primary"
+    />
+  </file-selector__ActionButtonGroup>
+</div>
+`;
+
+exports[`<VideoUploader /> should render with file selector 1`] = `
+<div>
+  <file-selector__Headline>
+    Upload a video
+  </file-selector__Headline>
+  <Filefield
+    name="file"
+    onChange={[Function]}
+  />
+  <file-selector__ActionButtonGroup>
+    <CancelButton
+      label="Cancel"
+      onClick={[Function]}
+      small={true}
+      weight="secondary"
+    />
+    <Button
+      disabled={true}
+      label="Insert"
+      onClick={[Function]}
+      small={true}
+      weight="primary"
+    />
+  </file-selector__ActionButtonGroup>
+</div>
+`;

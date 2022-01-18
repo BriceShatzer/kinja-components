@@ -1,0 +1,139 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Page layout/Main should render 1`] = `
+.c0 {
+  padding: 0 1.125rem;
+}
+
+.c1 {
+  width: 100%;
+  max-width: 800px;
+  padding-bottom: 40px;
+  margin: 0 auto;
+}
+
+@media only screen and (min-width:63.75em) {
+  .c0 {
+    width: 66.5%;
+    -webkit-order: 1;
+    -ms-flex-order: 1;
+    order: 1;
+  }
+}
+
+@media only screen and (min-width:50em) {
+  .c1 {
+    padding-top: 31px;
+  }
+}
+
+@media only screen and (max-width:49.94em) {
+  .c1 {
+    padding-top: 1.125rem;
+  }
+}
+
+<Main>
+  <EnsureDefaultTheme>
+    <ThemeProvider
+      theme={[Function]}
+    >
+      <main__MainWrapper>
+        <StyledComponent
+          forwardedComponent={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": Array [],
+              "componentStyle": ComponentStyle {
+                "componentId": "main__MainWrapper-sc-11qwj9y-0",
+                "isStatic": false,
+                "lastClassName": "c0",
+                "rules": Array [
+                  "padding:0 ",
+                  [Function],
+                  ";",
+                  "@media only screen and ",
+                  "(min-width: 63.75em)",
+                  "{",
+                  "
+		width: ",
+                  [Function],
+                  ";
+		order: 1;
+	",
+                  "}",
+                ],
+              },
+              "displayName": "main__MainWrapper",
+              "foldedComponentIds": Array [],
+              "render": [Function],
+              "styledComponentId": "main__MainWrapper-sc-11qwj9y-0",
+              "target": "main",
+              "toString": [Function],
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+        >
+          <main
+            className="c0"
+          >
+            <main__MainContent>
+              <StyledComponent
+                forwardedComponent={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": Array [],
+                    "componentStyle": ComponentStyle {
+                      "componentId": "main__MainContent-sc-11qwj9y-1",
+                      "isStatic": false,
+                      "lastClassName": "c1",
+                      "rules": Array [
+                        "width:100%;max-width:",
+                        [Function],
+                        ";padding-bottom:40px;",
+                        "@media only screen and ",
+                        "(min-width: 50em)",
+                        "{",
+                        "
+		padding-top: 31px;
+	",
+                        "}",
+                        " ",
+                        "@media only screen and ",
+                        "(max-width: 49.94em)",
+                        "{",
+                        "
+		padding-top: ",
+                        [Function],
+                        ";
+	",
+                        "}",
+                        " margin:0 auto;",
+                      ],
+                    },
+                    "displayName": "main__MainContent",
+                    "foldedComponentIds": Array [],
+                    "render": [Function],
+                    "styledComponentId": "main__MainContent-sc-11qwj9y-1",
+                    "target": "div",
+                    "toString": [Function],
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+              >
+                <div
+                  className="c1"
+                />
+              </StyledComponent>
+            </main__MainContent>
+          </main>
+        </StyledComponent>
+      </main__MainWrapper>
+    </ThemeProvider>
+  </EnsureDefaultTheme>
+</Main>
+`;

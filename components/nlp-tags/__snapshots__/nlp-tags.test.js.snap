@@ -1,0 +1,138 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<NLPTags /> should render by default 1`] = `
+<EnsureDefaultTheme>
+  <nlp-tags__NLPTagListWrapper>
+    <nlp-tags__NLPTag
+      key="Large Hadron Collider"
+      onClick={[Function]}
+      small={true}
+    >
+      Large Hadron Collider
+      <nlp-tags__NLPSeparatorDot>
+         • 
+      </nlp-tags__NLPSeparatorDot>
+      <nlp-tags__NLPTagScore>
+        10
+      </nlp-tags__NLPTagScore>
+    </nlp-tags__NLPTag>
+    <nlp-tags__NLPTag
+      key="energy"
+      onClick={[Function]}
+      small={true}
+    >
+      energy
+      <nlp-tags__NLPSeparatorDot>
+         • 
+      </nlp-tags__NLPSeparatorDot>
+      <nlp-tags__NLPTagScore>
+        6
+      </nlp-tags__NLPTagScore>
+    </nlp-tags__NLPTag>
+    <nlp-tags__NLPTag
+      key="scientists"
+      onClick={[Function]}
+      small={true}
+    >
+      scientists
+      <nlp-tags__NLPSeparatorDot>
+         • 
+      </nlp-tags__NLPSeparatorDot>
+      <nlp-tags__NLPTagScore>
+        4
+      </nlp-tags__NLPTagScore>
+    </nlp-tags__NLPTag>
+    <nlp-tags__NLPTag
+      key="order"
+      onClick={[Function]}
+      small={true}
+    >
+      order
+      <nlp-tags__NLPSeparatorDot>
+         • 
+      </nlp-tags__NLPSeparatorDot>
+      <nlp-tags__NLPTagScore>
+        2
+      </nlp-tags__NLPTagScore>
+    </nlp-tags__NLPTag>
+    <nlp-tags__NLPTag
+      key="energies"
+      onClick={[Function]}
+      small={true}
+    >
+      energies
+      <nlp-tags__NLPSeparatorDot>
+         • 
+      </nlp-tags__NLPSeparatorDot>
+      <nlp-tags__NLPTagScore>
+        2
+      </nlp-tags__NLPTagScore>
+    </nlp-tags__NLPTag>
+    <nlp-tags__NLPTag
+      key="Plasma Wakefield Acceleration Experiment"
+      onClick={[Function]}
+      small={true}
+    >
+      Plasma Wakefield Acceleration Experiment
+      <nlp-tags__NLPSeparatorDot>
+         • 
+      </nlp-tags__NLPSeparatorDot>
+      <nlp-tags__NLPTagScore>
+        1
+      </nlp-tags__NLPTagScore>
+    </nlp-tags__NLPTag>
+    <nlp-tags__NLPTag
+      key="Particle physics experiments"
+      onClick={[Function]}
+      small={true}
+    >
+      Particle physics experiments
+      <nlp-tags__NLPSeparatorDot>
+         • 
+      </nlp-tags__NLPSeparatorDot>
+      <nlp-tags__NLPTagScore>
+        0
+      </nlp-tags__NLPTagScore>
+    </nlp-tags__NLPTag>
+    <nlp-tags__NLPTag
+      key="particles"
+      onClick={[Function]}
+      small={true}
+    >
+      particles
+      <nlp-tags__NLPSeparatorDot>
+         • 
+      </nlp-tags__NLPSeparatorDot>
+      <nlp-tags__NLPTagScore>
+        0
+      </nlp-tags__NLPTagScore>
+    </nlp-tags__NLPTag>
+    <nlp-tags__NLPTag
+      key="Matthew Wing"
+      onClick={[Function]}
+      small={true}
+    >
+      Matthew Wing
+      <nlp-tags__NLPSeparatorDot>
+         • 
+      </nlp-tags__NLPSeparatorDot>
+      <nlp-tags__NLPTagScore>
+        0
+      </nlp-tags__NLPTagScore>
+    </nlp-tags__NLPTag>
+    <nlp-tags__NLPTag
+      key="kind"
+      onClick={[Function]}
+      small={true}
+    >
+      kind
+      <nlp-tags__NLPSeparatorDot>
+         • 
+      </nlp-tags__NLPSeparatorDot>
+      <nlp-tags__NLPTagScore>
+        0
+      </nlp-tags__NLPTagScore>
+    </nlp-tags__NLPTag>
+  </nlp-tags__NLPTagListWrapper>
+</EnsureDefaultTheme>
+`;

@@ -1,0 +1,14 @@
+export const smallOnly = '(max-width: 37.31em)';
+export const mediumOnly = '(min-width: 37.37em) and (max-width: 49.94em)';
+export const mediumDown = '(max-width: 49.94em)';
+export const mediumUp = '(min-width: 37.37em)';
+export const largeOnly = '(min-width: 50em) and (max-width: 63.69em)';
+export const largeDown = '(max-width: 63.69em)';
+export const largeUp = '(min-width: 50em)';
+export const xlargeOnly = '(min-width: 63.75em) and (max-width: 85.19em)';
+export const xlargeDown = '(max-width: 85.19em)';
+export const xlargeUp = '(min-width: 63.75em)';
+export const xxlargeOnly = '(min-width: 85.25em) and (max-width: 102.4rem)';
+export const xxlargeDown = '(max-width: 102.4rem)';
+export const xxlargeUp = '(min-width: 85.25em)';
+export const xxxlargeUp = '(min-width: 102.5rem)';

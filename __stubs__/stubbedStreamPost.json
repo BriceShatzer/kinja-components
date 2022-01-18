@@ -1,0 +1,614 @@
+{
+	"blog": {
+	  "avatar": {
+		"format": "png",
+		"frozenFormat": "png",
+		"id": "eh1hvjxamru5z6aobgwc",
+		"isAnimated": false
+	  },
+	  "canonicalHost": "io9.gizmodo.com",
+	  "displayName": "io9",
+	  "hosts": [
+		"io9.com"
+	  ],
+	  "id": "8",
+	  "name": "io9",
+	  "properties": {
+		"aboutPostId": 5732042,
+		"adsTxtEnabled": false,
+		"blogGroup": "gizmodo",
+		"facebookPixelId": "852713628239858",
+		"facebookScreenName": "io9com",
+		"fbAppId": 44615671688,
+		"googleAnalyticsID": "UA-142218-3",
+		"googleSiteVerification": "Y4KzRYvFDIszZROrGQfpcKGpEMqT5ncYtgHhRW8D7P0",
+		"instagramScreenName": "gizmodo",
+		"isGmgBlog": true,
+		"mainColor": "#C34B9E",
+		"metaTitle": "We come from the future.",
+		"navigationGroup": "fmg",
+		"noindex": false,
+		"recircGroup": "fmgNonSatire",
+		"robotsAllowed": true,
+		"sourcepointDomain": "mms.gizmodo.com",
+		"template": "gizmodo",
+		"twitterScreenName": "@io9",
+		"youtubeUrl": "https://www.youtube.com/io9"
+	  },
+	  "status": "ENABLED",
+	  "timezone": "America/New_York",
+	  "timezoneOffset": -14400000
+	},
+	"index": 0,
+	"pageType": "categoryStream",
+	"post": {
+	  "allowReplies": true,
+	  "approved": true,
+	  "author": {
+		"avatar": {
+		  "format": "jpg",
+		  "frozenFormat": "jpg",
+		  "id": "hoxn9jxjxkncmtordfok",
+		  "isAnimated": false
+		},
+		"displayName": "Beth Elderkin",
+		"id": "5876237249235885598",
+		"screenName": "bethelderkin",
+		"isSuperuser": false
+	  },
+	  "authorId": "5876237249235885598",
+	  "authorIds": [
+		"5876237249235885598"
+	  ],
+	  "authors": [
+		{
+		  "avatar": {
+			"format": "jpg",
+			"frozenFormat": "jpg",
+			"id": "hoxn9jxjxkncmtordfok",
+			"isAnimated": false
+		  },
+		  "displayName": "Beth Elderkin",
+		  "id": "5876237249235885598",
+		  "screenName": "bethelderkin",
+		  "isSuperuser": false
+		}
+	  ],
+	  "blogIds": [],
+	  "body": [
+		{
+		  "id": "vhwemtjqsfwntjjwjba0",
+		  "format": "jpg",
+		  "width": 1664,
+		  "height": 936,
+		  "alignment": "Bleed",
+		  "lightbox": true,
+		  "caption": [],
+		  "attribution": [],
+		  "syndicationRights": false,
+		  "altText": null,
+		  "type": "Image"
+		},
+		{
+		  "value": [
+			{
+			  "type": "Link",
+			  "value": [
+				{
+				  "type": "Text",
+				  "value": "Brown bears",
+				  "styles": []
+				}
+			  ],
+			  "reference": "https://en.wikipedia.org/wiki/Brown_bear",
+			  "target": null
+			},
+			{
+			  "type": "Text",
+			  "value": " are found in Asia, Europe, and North America, giving them the widest ranges of bear species.",
+			  "styles": []
+			},
+			{
+			  "type": "Text",
+			  "value": " They also inhabited North Africa and the Middle East.",
+			  "styles": []
+			},
+			{
+			  "type": "Text",
+			  "value": " In North America, grizzly bears previously ranged from Alaska down to Mexico and as far east as the western shores of ",
+			  "styles": []
+			},
+			{
+			  "type": "Link",
+			  "value": [
+				{
+				  "type": "Text",
+				  "value": "Hudson Bay",
+				  "styles": []
+				}
+			  ],
+			  "reference": "https://en.wikipedia.org/wiki/Hudson_Bay",
+			  "target": null
+			},
+			{
+			  "type": "Text",
+			  "value": ";",
+			  "styles": []
+			},
+			{
+			  "type": "Text",
+			  "value": " the species is now found in ",
+			  "styles": []
+			},
+			{
+			  "type": "Link",
+			  "value": [
+				{
+				  "type": "Text",
+				  "value": "Alaska",
+				  "styles": []
+				}
+			  ],
+			  "reference": "https://en.wikipedia.org/wiki/Alaska",
+			  "target": null
+			},
+			{
+			  "type": "Text",
+			  "value": ", south through much of western ",
+			  "styles": []
+			},
+			{
+			  "type": "Link",
+			  "value": [
+				{
+				  "type": "Text",
+				  "value": "Canada",
+				  "styles": []
+				}
+			  ],
+			  "reference": "https://en.wikipedia.org/wiki/Canada",
+			  "target": null
+			},
+			{
+			  "type": "Text",
+			  "value": ", and into portions of the ",
+			  "styles": []
+			},
+			{
+			  "type": "Link",
+			  "value": [
+				{
+				  "type": "Text",
+				  "value": "northwestern United States",
+				  "styles": []
+				}
+			  ],
+			  "reference": "https://en.wikipedia.org/wiki/Northwestern_United_States",
+			  "target": null
+			},
+			{
+			  "type": "Text",
+			  "value": " (including ",
+			  "styles": []
+			},
+			{
+			  "type": "Link",
+			  "value": [
+				{
+				  "type": "Text",
+				  "value": "Idaho",
+				  "styles": []
+				}
+			  ],
+			  "reference": "https://en.wikipedia.org/wiki/Idaho",
+			  "target": null
+			},
+			{
+			  "type": "Text",
+			  "value": ", ",
+			  "styles": []
+			},
+			{
+			  "type": "Link",
+			  "value": [
+				{
+				  "type": "Text",
+				  "value": "Montana",
+				  "styles": []
+				}
+			  ],
+			  "reference": "https://en.wikipedia.org/wiki/Montana",
+			  "target": null
+			},
+			{
+			  "type": "Text",
+			  "value": ", ",
+			  "styles": []
+			},
+			{
+			  "type": "Link",
+			  "value": [
+				{
+				  "type": "Text",
+				  "value": "Washington",
+				  "styles": []
+				}
+			  ],
+			  "reference": "https://en.wikipedia.org/wiki/Washington_(state)",
+			  "target": null
+			},
+			{
+			  "type": "Text",
+			  "value": ", and ",
+			  "styles": []
+			},
+			{
+			  "type": "Link",
+			  "value": [
+				{
+				  "type": "Text",
+				  "value": "Wyoming",
+				  "styles": []
+				}
+			  ],
+			  "reference": "https://en.wikipedia.org/wiki/Wyoming",
+			  "target": null
+			},
+			{
+			  "type": "Text",
+			  "value": "), extending as far south as ",
+			  "styles": []
+			},
+			{
+			  "type": "Link",
+			  "value": [
+				{
+				  "type": "Text",
+				  "value": "Yellowstone",
+				  "styles": []
+				}
+			  ],
+			  "reference": "https://en.wikipedia.org/wiki/Yellowstone_National_Park",
+			  "target": null
+			},
+			{
+			  "type": "Text",
+			  "value": " and ",
+			  "styles": []
+			},
+			{
+			  "type": "Link",
+			  "value": [
+				{
+				  "type": "Text",
+				  "value": "Grand Teton National Parks",
+				  "styles": []
+				}
+			  ],
+			  "reference": "https://en.wikipedia.org/wiki/Grand_Teton_National_Park",
+			  "target": null
+			},
+			{
+			  "type": "Text",
+			  "value": ". It is most commonly found in Canada. In Canada, there are approximately 25,000 grizzly bears occupying ",
+			  "styles": []
+			},
+			{
+			  "type": "Link",
+			  "value": [
+				{
+				  "type": "Text",
+				  "value": "British Columbia",
+				  "styles": []
+				}
+			  ],
+			  "reference": "https://en.wikipedia.org/wiki/British_Columbia",
+			  "target": null
+			},
+			{
+			  "type": "Text",
+			  "value": ", ",
+			  "styles": []
+			},
+			{
+			  "type": "Link",
+			  "value": [
+				{
+				  "type": "Text",
+				  "value": "Alberta",
+				  "styles": []
+				}
+			  ],
+			  "reference": "https://en.wikipedia.org/wiki/Alberta",
+			  "target": null
+			},
+			{
+			  "type": "Text",
+			  "value": ", the Yukon, the Northwest Territories, ",
+			  "styles": []
+			},
+			{
+			  "type": "Link",
+			  "value": [
+				{
+				  "type": "Text",
+				  "value": "Nunavut",
+				  "styles": []
+				}
+			  ],
+			  "reference": "https://en.wikipedia.org/wiki/Nunavut",
+			  "target": null
+			},
+			{
+			  "type": "Text",
+			  "value": ", and the northern part of Manitoba.",
+			  "styles": []
+			},
+			{
+			  "type": "Text",
+			  "value": " An article published in 1954 suggested they may be present in the ",
+			  "styles": []
+			},
+			{
+			  "type": "Link",
+			  "value": [
+				{
+				  "type": "Text",
+				  "value": "tundra",
+				  "styles": []
+				}
+			  ],
+			  "reference": "https://en.wikipedia.org/wiki/Tundra",
+			  "target": null
+			},
+			{
+			  "type": "Text",
+			  "value": " areas of the ",
+			  "styles": []
+			},
+			{
+			  "type": "Link",
+			  "value": [
+				{
+				  "type": "Text",
+				  "value": "Ungava Peninsula",
+				  "styles": []
+				}
+			  ],
+			  "reference": "https://en.wikipedia.org/wiki/Ungava_Peninsula",
+			  "target": null
+			},
+			{
+			  "type": "Text",
+			  "value": " and the northern tip of ",
+			  "styles": []
+			},
+			{
+			  "type": "Link",
+			  "value": [
+				{
+				  "type": "Text",
+				  "value": "Labrador",
+				  "styles": []
+				}
+			  ],
+			  "reference": "https://en.wikipedia.org/wiki/Labrador",
+			  "target": null
+			},
+			{
+			  "type": "Text",
+			  "value": "-",
+			  "styles": []
+			},
+			{
+			  "type": "Link",
+			  "value": [
+				{
+				  "type": "Text",
+				  "value": "Quebec",
+				  "styles": []
+				}
+			  ],
+			  "reference": "https://en.wikipedia.org/wiki/Quebec",
+			  "target": null
+			},
+			{
+			  "type": "Text",
+			  "value": ".",
+			  "styles": []
+			},
+			{
+			  "type": "Text",
+			  "value": " In British Columbia, grizzly bears inhabit approximately 90% of their original territory. There were approximately 25,000 grizzly bears in British Columbia when the European settlers arrived.",
+			  "styles": []
+			},
+			{
+			  "type": "Link",
+			  "value": [
+				{
+				  "type": "Text",
+				  "value": "[9]",
+				  "styles": [
+					"Superscript"
+				  ]
+				}
+			  ],
+			  "reference": "https://en.wikipedia.org/wiki/Grizzly_bear#cite_note-Blood-9",
+			  "target": null
+			},
+			{
+			  "type": "Text",
+			  "value": " However, population size has since significantly decreased due to hunting and habitat loss. In 2003, researchers from the University of Alberta spotted a grizzly on ",
+			  "styles": []
+			},
+			{
+			  "type": "Link",
+			  "value": [
+				{
+				  "type": "Text",
+				  "value": "Melville Island",
+				  "styles": []
+				}
+			  ],
+			  "reference": "https://en.wikipedia.org/wiki/Melville_Island_(Northwest_Territories_and_Nunavut)",
+			  "target": null
+			},
+			{
+			  "type": "Text",
+			  "value": " in the high Arctic, which is the most northerly sighting ever documented.",
+			  "styles": []
+			},
+			{
+			  "type": "Text",
+			  "value": " In 2008, it was estimated there were 16,014 grizzly bears. Population estimates for British Columbia are based on hair-snagging, DNA-based inventories, ",
+			  "styles": []
+			},
+			{
+			  "type": "Link",
+			  "value": [
+				{
+				  "type": "Text",
+				  "value": "mark-and-recapture",
+				  "styles": []
+				}
+			  ],
+			  "reference": "https://en.wikipedia.org/wiki/Mark_and_recapture",
+			  "target": null
+			},
+			{
+			  "type": "Text",
+			  "value": ", and a refined multiple regression model.",
+			  "styles": []
+			},
+			{
+			  "type": "Text",
+			  "value": " A revised Grizzly bear count in 2012 for British Columbia was 15,075.",
+			  "styles": []
+			}
+		  ],
+		  "containers": [],
+		  "type": "Paragraph"
+		}
+	  ],
+	  "bylineProperties": {
+		"byline": "",
+		"show": true
+	  },
+	  "category": "io9",
+	  "categoryData": {
+		"canonicalName": "io9",
+		"id": "4984",
+		"image": null,
+		"parentId": null,
+		"valueDisplay": "io9"
+	  },
+	  "defaultBlogId": "8",
+	  "featuredMedia": {
+		"alignment": "Bleed",
+		"caption": [],
+		"id": "3497028",
+		"thumbnail": {
+		  "format": "jpg",
+		  "id": "rau4in4yidwj5mgzotgc"
+		},
+		"isLooping": false,
+		"type": "KinjaVideo"
+	  },
+	  "headline": "Watch: <i>Avengers: Infinity War</i> Should Include Putty Avengers Chowing Down on Some Magnets",
+	  "id": "1824082236",
+	  "images": [],
+	  "isFeatured": false,
+	  "isVideo": true,
+	  "largeOnStream": false,
+	  "lastUpdateTimeMillis": 1522178101764,
+	  "links": null,
+	  "mainMedia": null,
+	  "ownerId": null,
+	  "parent": null,
+	  "parentAuthorId": null,
+	  "parentId": null,
+	  "permalinkHost": "https://io9.gizmodo.com",
+	  "permalinkPath": "/watch-avengers-infinity-war-should-include-putty-aven-1824082236",
+	  "permalinkRedirect": null,
+	  "plaintext": "Avengers: Infinity War is about our beloved superheroes protecting Infinity Stones from an all-powerful villain. But today, they war against some tiny box-shaped magnets that look eerily like Baby Mother Boxes. Just a coincidence, I’m sure! Check out this exclusive video from Backyard VFX artist Joey Shanks, all about what happens when the Avengers come across a truly unstoppable foe. It’s Practical Magic, everyone. ",
+	  "properties": "{\"dropCapEnabled\":false,\"featuredHeaderLayout\":\"Default\",\"hideFromRss\":false,\"impactHeader\":{\"titleAlignment\":\"BottomLeft\",\"overlay\":\"Black\"}}",
+	  "publishTimeMillis": 1522178100236,
+	  "qaMembers": [],
+	  "qaParticipants": [],
+	  "staffIncluded": false,
+	  "relatedModule": { "headline": "More Videos" },
+	  "relatedPosts": [],
+	  "salesAvatar": null,
+	  "sharedUrl": null,
+	  "showAuthorBio": true,
+	  "sponsored": false,
+	  "starter": null,
+	  "starterId": "1824082236",
+	  "status": "PUBLISHED",
+	  "storyTypeId": 139,
+	  "subcategory": "2018",
+	  "subcategoryData": {
+		"canonicalName": "2018",
+		"id": "4985",
+		"image": null,
+		"parentId": "4984",
+		"valueDisplay": "2018"
+	  },
+	  "tags": [
+		{
+		  "canonical": "video",
+		  "displayName": "video",
+		  "urlName": "video"
+		},
+		{
+		  "canonical": "practicalmagic",
+		  "displayName": "practical magic",
+		  "urlName": "practical-magic"
+		},
+		{
+		  "canonical": "vfx",
+		  "displayName": "vfx",
+		  "urlName": "vfx"
+		},
+		{
+		  "canonical": "backyardvfx",
+		  "displayName": "backyard vfx",
+		  "urlName": "backyard-vfx"
+		},
+		{
+		  "canonical": "avengers",
+		  "displayName": "avengers",
+		  "urlName": "avengers"
+		},
+		{
+		  "canonical": "avengersinfinitywar",
+		  "displayName": "avengers: infinity war",
+		  "urlName": "avengers-infinity-war"
+		},
+		{
+		  "canonical": "marvel",
+		  "displayName": "marvel",
+		  "urlName": "marvel"
+		},
+		{
+		  "canonical": "mcu",
+		  "displayName": "mcu",
+		  "urlName": "mcu"
+		},
+		{
+		  "canonical": "magnets",
+		  "displayName": "magnets",
+		  "urlName": "magnets"
+		}
+	  ],
+	  "timezone": "America/New_York",
+	  "videos": []
+	},
+	"postBody": "<p><em>Avengers: Infinity War</em> is about our beloved superheroes protecting Infinity Stones from an all-powerful villain. But…</p>",
+	"storyType": {
+	  "canonical": "movies",
+	  "content": "Standard",
+	  "path": "movies",
+	  "title": "Movies"
+	}
+  }

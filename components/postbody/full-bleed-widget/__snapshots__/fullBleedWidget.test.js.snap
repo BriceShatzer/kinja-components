@@ -1,0 +1,383 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<FullBleedWidget /> Editor should render in the editor 1`] = `
+.c0 {
+  left: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  position: relative;
+  right: 50%;
+  width: 100vw;
+}
+
+<aside
+  class="kinja-full-bleed-image js_full-bleed"
+  contenteditable="false"
+  data-format="jpg"
+>
+  <figure
+    class="full-bleed-widget js_full-bleed-widget"
+  >
+    <div
+      class="full-bleed-container c0"
+    >
+      <img
+        class="full-bleed-image lazyload"
+        data-format="jpg"
+        data-id="4815162342"
+        data-src="https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,q_80,w_1600/4815162342.jpg"
+        src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+      />
+    </div>
+  </figure>
+</aside>
+`;
+
+exports[`<FullBleedWidget /> Image props should render image 1`] = `
+.c1 {
+  -webkit-transition: opacity 1s cubic-bezier(0.6,0.2,0.1,1) 0s;
+  transition: opacity 1s cubic-bezier(0.6,0.2,0.1,1) 0s;
+  opacity: 0;
+}
+
+.c1 img,
+.c1 video {
+  display: block;
+  height: 100%;
+  position: relative;
+  width: 100%;
+}
+
+.c0 {
+  left: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  position: relative;
+  right: 50%;
+  width: 100vw;
+}
+
+<div>
+  <figure
+    class="full-bleed-widget"
+  >
+    <div
+      class="full-bleed-container c0"
+    >
+      <div
+        class="c1"
+      >
+        <img
+          data-anim-src=""
+          data-chomp-id="4815162342"
+          data-format="jpg"
+          draggable="auto"
+          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+          srcset="https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_80,q_80,w_80/4815162342.jpg 80w, https://i.kinja-img.com/gawker-media/image/upload/c_fit,fl_progressive,q_80,w_320/4815162342.jpg 320w, https://i.kinja-img.com/gawker-media/image/upload/c_fit,f_auto,fl_progressive,q_80,w_470/4815162342.jpg 470w, https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,q_80,w_800/4815162342.jpg 800w, https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,q_80,w_1600/4815162342.jpg 1600w"
+        />
+      </div>
+    </div>
+  </figure>
+</div>
+`;
+
+exports[`<FullBleedWidget /> Image props should render overlay 1`] = `
+.c2 {
+  -webkit-tap-highlight-color: transparent;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  bottom: 0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  height: 100%;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 100%;
+  z-index: 2;
+}
+
+.c3 {
+  color: #FFF;
+  max-width: 830px;
+  width: 100%;
+  z-index: 3;
+}
+
+.c4 {
+  -webkit-transition-timing-function: cubic-bezier(0.6,0.2,0.1,1);
+  transition-timing-function: cubic-bezier(0.6,0.2,0.1,1);
+  -webkit-transition-duration: 1s;
+  transition-duration: 1s;
+  -webkit-transition-property: opacity,-webkit-transform;
+  -webkit-transition-property: opacity,transform;
+  transition-property: opacity,transform;
+  opacity: 0;
+  -webkit-transform: translateY(80px) scale(1);
+  -ms-transform: translateY(80px) scale(1);
+  transform: translateY(80px) scale(1);
+  -webkit-transition-delay: 0s;
+  transition-delay: 0s;
+}
+
+.c1 {
+  -webkit-transition: opacity 1s cubic-bezier(0.6,0.2,0.1,1) 0s;
+  transition: opacity 1s cubic-bezier(0.6,0.2,0.1,1) 0s;
+  opacity: 0;
+}
+
+.c1 img,
+.c1 video {
+  display: block;
+  height: 100%;
+  position: relative;
+  width: 100%;
+}
+
+.c0 {
+  left: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  position: relative;
+  right: 50%;
+  width: 100vw;
+}
+
+<div>
+  <figure
+    class="full-bleed-widget"
+  >
+    <div
+      class="full-bleed-container c0"
+    >
+      <div
+        class="c1"
+      >
+        <img
+          data-anim-src=""
+          data-chomp-id="4815162342"
+          data-format="jpg"
+          draggable="auto"
+          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+          srcset="https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_80,q_80,w_80/4815162342.jpg 80w, https://i.kinja-img.com/gawker-media/image/upload/c_fit,fl_progressive,q_80,w_320/4815162342.jpg 320w, https://i.kinja-img.com/gawker-media/image/upload/c_fit,f_auto,fl_progressive,q_80,w_470/4815162342.jpg 470w, https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,q_80,w_800/4815162342.jpg 800w, https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,q_80,w_1600/4815162342.jpg 1600w"
+        />
+      </div>
+      <div
+        class="full-bleed-overlay c2"
+      >
+        <div
+          class="full-bleed-overlay-content c3"
+        >
+          <div
+            class="fade-in-up c4"
+          >
+            <img
+              data-anim-src=""
+              data-chomp-id="1738"
+              data-format="png"
+              draggable="auto"
+              src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+              srcset="https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_80,q_80,w_80/1738.png 80w, https://i.kinja-img.com/gawker-media/image/upload/c_fit,fl_progressive,q_80,w_320/1738.png 320w, https://i.kinja-img.com/gawker-media/image/upload/c_fit,f_auto,fl_progressive,q_80,w_470/1738.png 470w, https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,q_80,w_800/1738.png 800w"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </figure>
+</div>
+`;
+
+exports[`<FullBleedWidget /> InlineNode props should render anchor tag 1`] = `
+.c1 {
+  -webkit-transition: opacity 1s cubic-bezier(0.6,0.2,0.1,1) 0s;
+  transition: opacity 1s cubic-bezier(0.6,0.2,0.1,1) 0s;
+  opacity: 0;
+}
+
+.c1 img,
+.c1 video {
+  display: block;
+  height: 100%;
+  position: relative;
+  width: 100%;
+}
+
+.c0 {
+  left: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  position: relative;
+  right: 50%;
+  width: 100vw;
+}
+
+<div>
+  <figure
+    class="full-bleed-widget anchor-tag"
+    id="anchor"
+  >
+    <div
+      class="full-bleed-container c0"
+    >
+      <div
+        class="c1"
+      >
+        <img
+          data-anim-src=""
+          data-chomp-id="4815162342"
+          data-format="jpg"
+          draggable="auto"
+          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+          srcset="https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_80,q_80,w_80/4815162342.jpg 80w, https://i.kinja-img.com/gawker-media/image/upload/c_fit,fl_progressive,q_80,w_320/4815162342.jpg 320w, https://i.kinja-img.com/gawker-media/image/upload/c_fit,f_auto,fl_progressive,q_80,w_470/4815162342.jpg 470w, https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,q_80,w_800/4815162342.jpg 800w, https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,q_80,w_1600/4815162342.jpg 1600w"
+        />
+      </div>
+    </div>
+  </figure>
+</div>
+`;
+
+exports[`<FullBleedWidget /> InlineNode props should render attribution 1`] = `
+.c2 {
+  margin-top: 0.5rem;
+  font-family: ProximaNovaCond,sans-serif;
+  font-size: 15px;
+  line-height: 21px;
+  color: #7D7D7D;
+}
+
+figcaption + .c2 {
+  margin-top: 0;
+}
+
+.c1 {
+  -webkit-transition: opacity 1s cubic-bezier(0.6,0.2,0.1,1) 0s;
+  transition: opacity 1s cubic-bezier(0.6,0.2,0.1,1) 0s;
+  opacity: 0;
+}
+
+.c1 img,
+.c1 video {
+  display: block;
+  height: 100%;
+  position: relative;
+  width: 100%;
+}
+
+.c0 {
+  left: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  position: relative;
+  right: 50%;
+  width: 100vw;
+}
+
+<div>
+  <figure
+    class="full-bleed-widget"
+  >
+    <div
+      class="full-bleed-container c0"
+    >
+      <div
+        class="c1"
+      >
+        <img
+          data-anim-src=""
+          data-chomp-id="4815162342"
+          data-format="jpg"
+          draggable="auto"
+          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+          srcset="https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_80,q_80,w_80/4815162342.jpg 80w, https://i.kinja-img.com/gawker-media/image/upload/c_fit,fl_progressive,q_80,w_320/4815162342.jpg 320w, https://i.kinja-img.com/gawker-media/image/upload/c_fit,f_auto,fl_progressive,q_80,w_470/4815162342.jpg 470w, https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,q_80,w_800/4815162342.jpg 800w, https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,q_80,w_1600/4815162342.jpg 1600w"
+        />
+      </div>
+    </div>
+    <figcaption
+      class="no-caption c2"
+    >
+      Illustration
+      : 
+      credit
+       (
+      source
+      )
+    </figcaption>
+  </figure>
+</div>
+`;
+
+exports[`<FullBleedWidget /> InlineNode props should render caption 1`] = `
+.c2 {
+  margin-top: 0.5rem;
+  font-family: ProximaNovaCond,sans-serif;
+  font-size: 15px;
+  line-height: 21px;
+  color: #7D7D7D;
+  text-align: left;
+}
+
+figcaption + .c2 {
+  margin-top: 0;
+}
+
+.c1 {
+  -webkit-transition: opacity 1s cubic-bezier(0.6,0.2,0.1,1) 0s;
+  transition: opacity 1s cubic-bezier(0.6,0.2,0.1,1) 0s;
+  opacity: 0;
+}
+
+.c1 img,
+.c1 video {
+  display: block;
+  height: 100%;
+  position: relative;
+  width: 100%;
+}
+
+.c0 {
+  left: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  position: relative;
+  right: 50%;
+  width: 100vw;
+}
+
+<div>
+  <figure
+    class="full-bleed-widget"
+  >
+    <div
+      class="full-bleed-container c0"
+    >
+      <div
+        class="c1"
+      >
+        <img
+          data-anim-src=""
+          data-chomp-id="4815162342"
+          data-format="jpg"
+          draggable="auto"
+          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+          srcset="https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_80,q_80,w_80/4815162342.jpg 80w, https://i.kinja-img.com/gawker-media/image/upload/c_fit,fl_progressive,q_80,w_320/4815162342.jpg 320w, https://i.kinja-img.com/gawker-media/image/upload/c_fit,f_auto,fl_progressive,q_80,w_470/4815162342.jpg 470w, https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,q_80,w_800/4815162342.jpg 800w, https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,q_80,w_1600/4815162342.jpg 1600w"
+        />
+      </div>
+    </div>
+    <figcaption
+      class="caption c2"
+    >
+      This is Patrick.
+    </figcaption>
+  </figure>
+</div>
+`;

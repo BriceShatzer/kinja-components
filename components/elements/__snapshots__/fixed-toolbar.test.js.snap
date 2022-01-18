@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<FixedToolbar /> should render by default 1`] = `
+<EnsureDefaultTheme>
+  <fixed-toolbar__FixedFlex />
+</EnsureDefaultTheme>
+`;

@@ -1,0 +1,766 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<BlockNodeList /> Containers should break the list before and after 1`] = `
+.c0 {
+  position: relative;
+}
+
+.c0 li {
+  padding-left: 2.25rem;
+  margin-bottom: 6px;
+}
+
+.c0 li::before {
+  position: absolute;
+  content: '\\b7';
+  margin: -1px 0 0 -29px;
+  font-weight: bold;
+  font-size: 24px;
+}
+
+<div>
+  <p
+    class=""
+  >
+    <em>
+      Kinja
+    </em>
+  </p>
+  <ul
+    class="c0"
+    data-style="Bullet"
+    data-type="List"
+  >
+    <li>
+      <em>
+        Kinja
+      </em>
+    </li>
+    <li>
+      <em>
+        Kinja
+      </em>
+    </li>
+  </ul>
+  <p
+    class=""
+  >
+    <em>
+      Kinja
+    </em>
+  </p>
+</div>
+`;
+
+exports[`<BlockNodeList /> Containers should not merge Bullet and Commerce lists 1`] = `
+.c0 {
+  position: relative;
+}
+
+.c0 li {
+  padding-left: 2.25rem;
+  margin-bottom: 6px;
+}
+
+.c0 li::before {
+  position: absolute;
+  content: '\\b7';
+  margin: -1px 0 0 -29px;
+  font-weight: bold;
+  font-size: 24px;
+}
+
+<div>
+  <ul
+    class="c0"
+    data-style="Bullet"
+    data-type="List"
+  >
+    <li>
+      <em>
+        Kinja
+      </em>
+    </li>
+  </ul>
+  <ul
+    class="commerce"
+    data-style="Commerce"
+    data-type="List"
+  >
+    <li>
+      <em>
+        Kinja
+      </em>
+    </li>
+  </ul>
+</div>
+`;
+
+exports[`<BlockNodeList /> Containers should not merge different types of containers 1`] = `
+.c0 {
+  clear: both;
+  overflow: visible;
+  font-style: normal;
+  border-radius: 0;
+  border-left: 5px solid #000;
+  padding: 0 0 0 1.125rem;
+  background-color: transparent;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.c0 p {
+  font-size: 15px;
+  line-height: 28px;
+}
+
+.c1 {
+  white-space: normal;
+}
+
+@media only screen and (max-width:37.31em) {
+  .c0 p {
+    font-size: 14px;
+    line-height: 26px;
+  }
+}
+
+@media only screen and (min-width:85.25em) {
+  .c0 p {
+    font-size: 16px;
+    line-height: 29px;
+  }
+}
+
+<div>
+  <p
+    class=""
+  >
+    <em>
+      Kinja
+    </em>
+  </p>
+  <blockquote
+    class="c0"
+    data-type="BlockQuote"
+  >
+    <p
+      class=""
+    >
+      <em>
+        Kinja
+      </em>
+    </p>
+  </blockquote>
+  <pre
+    class="c1"
+    data-type="Code"
+  >
+    <em>
+      Kinja
+    </em>
+  </pre>
+  <p
+    class=""
+  >
+    <em>
+      Kinja
+    </em>
+  </p>
+</div>
+`;
+
+exports[`<BlockNodeList /> Containers should not merge different types of lists 1`] = `
+.c1 {
+  position: relative;
+}
+
+.c1 li {
+  padding-left: 2.25rem;
+  margin-bottom: 6px;
+}
+
+.c1 li::before {
+  position: absolute;
+  content: '\\b7';
+  margin: -1px 0 0 -29px;
+  font-weight: bold;
+  font-size: 24px;
+}
+
+.c0 {
+  position: relative;
+  counter-reset: item;
+}
+
+.c0 li {
+  padding-left: 2.25rem;
+  margin-bottom: 6px;
+}
+
+.c0 li::before {
+  position: absolute;
+  width: 1.125rem;
+  content: counter(item) '. ';
+  counter-increment: item;
+  margin: 0 0 0 -2rem;
+  font-weight: normal;
+  white-space: nowrap;
+}
+
+<div>
+  <ol
+    class="c0"
+    data-style="Number"
+    data-type="List"
+  >
+    <li>
+      <em>
+        Kinja
+      </em>
+    </li>
+  </ol>
+  <ul
+    class="c1"
+    data-style="Bullet"
+    data-type="List"
+  >
+    <li>
+      <em>
+        Kinja
+      </em>
+    </li>
+  </ul>
+</div>
+`;
+
+exports[`<BlockNodeList /> Containers should render a BlockQuoteContainer 1`] = `
+.c0 {
+  clear: both;
+  overflow: visible;
+  font-style: normal;
+  border-radius: 0;
+  border-left: 5px solid #000;
+  padding: 0 0 0 1.125rem;
+  background-color: transparent;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.c0 p {
+  font-size: 15px;
+  line-height: 28px;
+}
+
+@media only screen and (max-width:37.31em) {
+  .c0 p {
+    font-size: 14px;
+    line-height: 26px;
+  }
+}
+
+@media only screen and (min-width:85.25em) {
+  .c0 p {
+    font-size: 16px;
+    line-height: 29px;
+  }
+}
+
+<div>
+  <blockquote
+    class="c0"
+    data-type="BlockQuote"
+  >
+    <p
+      class=""
+    >
+      <em>
+        Kinja
+      </em>
+    </p>
+  </blockquote>
+  <p
+    class=""
+  >
+    <em>
+      Kinja
+    </em>
+  </p>
+  <blockquote
+    class="c0"
+    data-type="BlockQuote"
+  >
+    <p
+      class=""
+    >
+      <em>
+        Kinja
+      </em>
+    </p>
+    <p
+      class=""
+    >
+      <em>
+        Kinja
+      </em>
+    </p>
+  </blockquote>
+  <blockquote
+    class="c0"
+    data-type="BlockQuote"
+  >
+    <p
+      class=""
+    >
+      <em>
+        Kinja
+      </em>
+    </p>
+  </blockquote>
+  <p
+    class=""
+  >
+    <em>
+      Kinja
+    </em>
+  </p>
+  <p
+    class=""
+  >
+    <em>
+      Kinja
+    </em>
+  </p>
+  <blockquote
+    class="c0"
+    data-type="BlockQuote"
+  >
+    <p
+      class=""
+    >
+      <em>
+        Kinja
+      </em>
+    </p>
+  </blockquote>
+</div>
+`;
+
+exports[`<BlockNodeList /> Containers should render a CodeContainer 1`] = `
+.c0 {
+  white-space: normal;
+}
+
+<div>
+  <p
+    class=""
+  >
+    <em>
+      Kinja
+    </em>
+  </p>
+  <pre
+    class="c0"
+    data-type="Code"
+  >
+    <em>
+      KinjaKinja
+    </em>
+  </pre>
+  <p
+    class=""
+  >
+    <em>
+      Kinja
+    </em>
+  </p>
+</div>
+`;
+
+exports[`<BlockNodeList /> Containers should render a bullet list 1`] = `
+.c0 {
+  position: relative;
+}
+
+.c0 li {
+  padding-left: 2.25rem;
+  margin-bottom: 6px;
+}
+
+.c0 li::before {
+  position: absolute;
+  content: '\\b7';
+  margin: -1px 0 0 -29px;
+  font-weight: bold;
+  font-size: 24px;
+}
+
+<ul
+  class="c0"
+  data-style="Bullet"
+  data-type="List"
+>
+  <li>
+    <em>
+      Kinja
+    </em>
+  </li>
+  <li>
+    <em>
+      Kinja
+    </em>
+  </li>
+</ul>
+`;
+
+exports[`<BlockNodeList /> Containers should render a commerce list 1`] = `
+<ul
+  class="commerce"
+  data-style="Commerce"
+  data-type="List"
+>
+  <li>
+    <em>
+      Kinja
+    </em>
+  </li>
+  <li>
+    <em>
+      Kinja
+    </em>
+  </li>
+</ul>
+`;
+
+exports[`<BlockNodeList /> Containers should render a list 1`] = `
+.c0 {
+  position: relative;
+  counter-reset: item;
+}
+
+.c0 li {
+  padding-left: 2.25rem;
+  margin-bottom: 6px;
+}
+
+.c0 li::before {
+  position: absolute;
+  width: 1.125rem;
+  content: counter(item) '. ';
+  counter-increment: item;
+  margin: 0 0 0 -2rem;
+  font-weight: normal;
+  white-space: nowrap;
+}
+
+<ol
+  class="c0"
+  data-style="Number"
+  data-type="List"
+>
+  <li>
+    <em>
+      Kinja
+    </em>
+  </li>
+  <li>
+    <em>
+      Kinja
+    </em>
+  </li>
+  <li>
+    <em>
+      Kinja
+    </em>
+  </li>
+</ol>
+`;
+
+exports[`<BlockNodeList /> Containers should render a list inside a blockquote 1`] = `
+.c0 {
+  clear: both;
+  overflow: visible;
+  font-style: normal;
+  border-radius: 0;
+  border-left: 5px solid #000;
+  padding: 0 0 0 1.125rem;
+  background-color: transparent;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.c0 p {
+  font-size: 15px;
+  line-height: 28px;
+}
+
+.c1 {
+  position: relative;
+  counter-reset: item;
+}
+
+.c1 li {
+  padding-left: 2.25rem;
+  margin-bottom: 6px;
+}
+
+.c1 li::before {
+  position: absolute;
+  width: 1.125rem;
+  content: counter(item) '. ';
+  counter-increment: item;
+  margin: 0 0 0 -2rem;
+  font-weight: normal;
+  white-space: nowrap;
+}
+
+@media only screen and (max-width:37.31em) {
+  .c0 p {
+    font-size: 14px;
+    line-height: 26px;
+  }
+}
+
+@media only screen and (min-width:85.25em) {
+  .c0 p {
+    font-size: 16px;
+    line-height: 29px;
+  }
+}
+
+<div>
+  <blockquote
+    class="c0"
+    data-type="BlockQuote"
+  >
+    <ol
+      class="c1"
+      data-style="Number"
+      data-type="List"
+    >
+      <li>
+        <em>
+          Kinja
+        </em>
+      </li>
+      <li>
+        <em>
+          Kinja
+        </em>
+      </li>
+    </ol>
+  </blockquote>
+</div>
+`;
+
+exports[`<BlockNodeList /> Containers should render list and trailing paragraph inside blockquote 1`] = `
+.c0 {
+  clear: both;
+  overflow: visible;
+  font-style: normal;
+  border-radius: 0;
+  border-left: 5px solid #000;
+  padding: 0 0 0 1.125rem;
+  background-color: transparent;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.c0 p {
+  font-size: 15px;
+  line-height: 28px;
+}
+
+.c1 {
+  position: relative;
+  counter-reset: item;
+}
+
+.c1 li {
+  padding-left: 2.25rem;
+  margin-bottom: 6px;
+}
+
+.c1 li::before {
+  position: absolute;
+  width: 1.125rem;
+  content: counter(item) '. ';
+  counter-increment: item;
+  margin: 0 0 0 -2rem;
+  font-weight: normal;
+  white-space: nowrap;
+}
+
+@media only screen and (max-width:37.31em) {
+  .c0 p {
+    font-size: 14px;
+    line-height: 26px;
+  }
+}
+
+@media only screen and (min-width:85.25em) {
+  .c0 p {
+    font-size: 16px;
+    line-height: 29px;
+  }
+}
+
+<div>
+  <blockquote
+    class="c0"
+    data-type="BlockQuote"
+  >
+    <ol
+      class="c1"
+      data-style="Number"
+      data-type="List"
+    >
+      <li>
+        <em>
+          Kinja
+        </em>
+      </li>
+      <li>
+        <em>
+          Kinja
+        </em>
+      </li>
+    </ol>
+    <p
+      class=""
+    >
+      <em>
+        Kinja
+      </em>
+    </p>
+  </blockquote>
+</div>
+`;
+
+exports[`<BlockNodeList /> Containers should render pre containing list with inner blockquotes 1`] = `
+.c2 {
+  clear: both;
+  overflow: visible;
+  font-style: normal;
+  border-radius: 0;
+  border-left: 5px solid #000;
+  padding: 0 0 0 1.125rem;
+  background-color: transparent;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.c2 p {
+  font-size: 15px;
+  line-height: 28px;
+}
+
+.c1 {
+  position: relative;
+  counter-reset: item;
+}
+
+.c1 li {
+  padding-left: 2.25rem;
+  margin-bottom: 6px;
+}
+
+.c1 li::before {
+  position: absolute;
+  width: 1.125rem;
+  content: counter(item) '. ';
+  counter-increment: item;
+  margin: 0 0 0 -2rem;
+  font-weight: normal;
+  white-space: nowrap;
+}
+
+.c0 {
+  white-space: normal;
+}
+
+@media only screen and (max-width:37.31em) {
+  .c2 p {
+    font-size: 14px;
+    line-height: 26px;
+  }
+}
+
+@media only screen and (min-width:85.25em) {
+  .c2 p {
+    font-size: 16px;
+    line-height: 29px;
+  }
+}
+
+<div>
+  <pre
+    class="c0"
+    data-type="Code"
+  >
+    <ol
+      class="c1"
+      data-style="Number"
+      data-type="List"
+    >
+      <li>
+        <blockquote
+          class="c2"
+          data-type="BlockQuote"
+        >
+          <p
+            class=""
+          >
+            <em>
+              Kinja
+            </em>
+          </p>
+          <p
+            class=""
+          >
+            <em>
+              Kinja
+            </em>
+          </p>
+        </blockquote>
+      </li>
+    </ol>
+  </pre>
+</div>
+`;
+
+exports[`<BlockNodeList /> should render a single paragraph 1`] = `
+<p
+  class=""
+>
+  <em>
+    Kinja
+  </em>
+</p>
+`;
+
+exports[`<BlockNodeList /> should render multiple paragraphs 1`] = `
+<div>
+  <p
+    class=""
+  >
+    <em>
+      Kinja
+    </em>
+  </p>
+  <p
+    class=""
+  >
+    <em>
+      Kinja
+    </em>
+  </p>
+  <p
+    class=""
+  >
+    <em>
+      Kinja
+    </em>
+  </p>
+</div>
+`;

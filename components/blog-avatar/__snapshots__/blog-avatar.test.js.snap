@@ -1,0 +1,62 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<BlogAvatar /> should render avclub avatar 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: inherit;
+  height: inherit;
+}
+
+.c0 .SVGInline-svg {
+  display: none;
+}
+
+.c0 svg {
+  max-width: 100%;
+  width: inherit;
+  height: inherit;
+}
+
+<span
+  class="c0"
+>
+  <svg
+    aria-label="TheAVClub avatar"
+    height="64"
+    viewBox="0 0 64 64"
+    width="64"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <g
+      fill="none"
+      fill-rule="evenodd"
+    >
+      <path
+        d="M0 64h64V0H0"
+        fill="#1C263C"
+      />
+      <path
+        d="M42.66 49.29l-14.8-32.24 7.05.05 7.6 17.92 7.73-17.78 6.48.05H57l-14.34 32zM22.38 32.24l3.38 7.62-7.04-.14 3.66-7.48zM7 48.91l6.82.14 1.88-4.07 12.87.26 1.6 3.94 6.78.06L22.68 17 7 48.9z"
+        fill="#FFF"
+      />
+    </g>
+  </svg>
+</span>
+`;
+
+exports[`<BlogAvatar /> should render avclub avatar with forced 100px square dimensions 1`] = `
+<BlogAvatar
+  name="avclub"
+  size={100}
+/>
+`;
+
+exports[`<BlogAvatar /> should render avclub avatar with the is-anchored class 1`] = `
+<BlogAvatar
+  anchor={true}
+  name="avclub"
+/>
+`;

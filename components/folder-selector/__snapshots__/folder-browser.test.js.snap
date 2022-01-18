@@ -1,0 +1,114 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<FolderBrowser/> should render 1`] = `
+<folder-browser__Wrapper>
+  <folder-browser__InnerWrapper
+    folderNum={3}
+  >
+    <folder-browser__FolderTitleWrapper>
+      <folder-browser__FolderTitle
+        key="blogs"
+      >
+        Blogs
+      </folder-browser__FolderTitle>
+      <folder-browser__FolderTitle
+        key="storyTypes"
+      >
+        Story Types
+      </folder-browser__FolderTitle>
+      <folder-browser__FolderTitle
+        key="categories"
+      >
+        Categories
+      </folder-browser__FolderTitle>
+      <folder-browser__FolderTitle
+        key="subcategories"
+      >
+        Sub-categories
+      </folder-browser__FolderTitle>
+    </folder-browser__FolderTitleWrapper>
+    <folder-browser__Inner>
+      <Folder />
+    </folder-browser__Inner>
+  </folder-browser__InnerWrapper>
+  <FolderSelector
+    currentPath={<CurrentPath />}
+    onCancel={[MockFunction]}
+    onSelect={[MockFunction]}
+  />
+</folder-browser__Wrapper>
+`;
+
+exports[`<FolderBrowser/> should render while disabled 1`] = `
+<folder-browser__Wrapper>
+  <folder-browser__InnerWrapper
+    folderNum={3}
+  >
+    <folder-browser__FolderTitleWrapper>
+      <folder-browser__FolderTitle
+        key="blogs"
+      >
+        Blogs
+      </folder-browser__FolderTitle>
+      <folder-browser__FolderTitle
+        key="storyTypes"
+      >
+        Story Types
+      </folder-browser__FolderTitle>
+      <folder-browser__FolderTitle
+        key="categories"
+      >
+        Categories
+      </folder-browser__FolderTitle>
+      <folder-browser__FolderTitle
+        key="subcategories"
+      >
+        Sub-categories
+      </folder-browser__FolderTitle>
+    </folder-browser__FolderTitleWrapper>
+    <folder-browser__Inner>
+      <Folder />
+    </folder-browser__Inner>
+  </folder-browser__InnerWrapper>
+  <FolderSelector
+    currentPath={<CurrentPath />}
+    onCancel={[MockFunction]}
+    onSelect={[MockFunction]}
+    selectDisabled={true}
+  />
+</folder-browser__Wrapper>
+`;
+
+exports[`<FolderBrowser/> should render with multipleSelection 1`] = `
+<folder-browser__Wrapper>
+  <folder-browser__InnerWrapper
+    folderNum={2}
+  >
+    <folder-browser__FolderTitleWrapper>
+      <folder-browser__FolderTitle
+        key="blogs"
+      >
+        Blogs
+      </folder-browser__FolderTitle>
+      <folder-browser__FolderTitle
+        key="storyTypes"
+      >
+        Story Types
+      </folder-browser__FolderTitle>
+      <folder-browser__FolderTitle
+        key="categories"
+      >
+        Categories
+      </folder-browser__FolderTitle>
+      <folder-browser__FolderTitle
+        key="subcategories"
+      >
+        Sub-categories
+      </folder-browser__FolderTitle>
+    </folder-browser__FolderTitleWrapper>
+    <folder-browser__Inner>
+      <Folder />
+    </folder-browser__Inner>
+  </folder-browser__InnerWrapper>
+</folder-browser__Wrapper>
+`;

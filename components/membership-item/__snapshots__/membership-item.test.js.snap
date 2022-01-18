@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<MembershipItem /> should render by default 1`] = `
+<EnsureDefaultTheme>
+  <membership-item__MembershipItemWrapper>
+    <membership-item__Image
+      alt="Limited Edition Black Hoodie with Deadspin logo"
+      src="//i.kinja-img.com/gawker-media/image/upload/s--bCAlKex3--/c_scale,f_auto,fl_progressive,q_80,w_800/xciiect2tjatxutysymu.png"
+    />
+    <membership-item__Content>
+      <membership-item__SiteTitlePlus>
+        <BlogLogo
+          key="deadspin"
+          name="deadspin"
+        />
+         Plus
+      </membership-item__SiteTitlePlus>
+      <membership-item__Title>
+        Claim your Limited Edition Hoodie!
+      </membership-item__Title>
+      <membership-item__Text>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse laoreet turpis ante, eget congue.
+      </membership-item__Text>
+      <Button
+        label="Redeem"
+        onClick={[Function]}
+        primary={true}
+      />
+    </membership-item__Content>
+  </membership-item__MembershipItemWrapper>
+</EnsureDefaultTheme>
+`;

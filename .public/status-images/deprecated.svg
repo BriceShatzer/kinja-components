@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="89" height="20" viewBox="0 0 89 20">
+  <defs>
+    <rect id="deprecated-a" width="89" height="20" rx="4"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <mask id="deprecated-b" fill="#fff">
+      <use xlink:href="#deprecated-a"/>
+    </mask>
+    <use fill="#FFF" xlink:href="#deprecated-a"/>
+    <g fill="#D24A1D" mask="url(#deprecated-b)">
+      <rect width="89" height="20"/>
+    </g>
+    <g transform="translate(6)">
+      <text fill="#FFF" font-family="ProximaNovaCond-Regular, Proxima Nova Condensed" font-size="14" font-style="condensed" transform="translate(16)">
+        <tspan x="0" y="14">Deprecated</tspan>
+      </text>
+      <path stroke="#FFF" d="M0.333333333,0.333333333 L10.3333333,10.3333333 M10.3333333,0.333333333 L0.333333333,10.3333333" transform="translate(.667 4.667)"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,272 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Lunchbox /> should render an array of text nodes 1`] = `
+<EnsureDefaultTheme>
+  <LunchboxWrapper
+    currentLayout="TextHeaderParagraph"
+    lunchboxProps={
+      Object {
+        "header": Object {
+          "alignment": "Center",
+          "anchorTag": "",
+          "containers": Array [],
+          "level": 2,
+          "type": "Header",
+          "value": Array [
+            Object {
+              "styles": Array [],
+              "type": "Text",
+              "value": "My Dreams of Owning a",
+            },
+            Object {
+              "styles": Array [],
+              "type": "Text",
+              "value": " Phone Can Finally Be Fulfilled",
+            },
+          ],
+        },
+        "layout": "TextHeaderParagraph",
+        "paragraph": LunchboxParagraph {
+          "alignment": "Center",
+          "paragraph": Object {
+            "containers": Array [],
+            "type": "Paragraph",
+            "value": Array [
+              Object {
+                "styles": Array [],
+                "type": "Text",
+                "value": "My Dreams of Owning a",
+              },
+              Object {
+                "styles": Array [],
+                "type": "Text",
+                "value": " Phone Can Finally Be Fulfilled",
+              },
+            ],
+          },
+        },
+      }
+    }
+  >
+    <LunchboxText
+      header={
+        Object {
+          "alignment": "Center",
+          "anchorTag": "",
+          "containers": Array [],
+          "level": 2,
+          "type": "Header",
+          "value": Array [
+            Object {
+              "styles": Array [],
+              "type": "Text",
+              "value": "My Dreams of Owning a",
+            },
+            Object {
+              "styles": Array [],
+              "type": "Text",
+              "value": " Phone Can Finally Be Fulfilled",
+            },
+          ],
+        }
+      }
+      layout="TextHeaderParagraph"
+      paragraph={
+        LunchboxParagraph {
+          "alignment": "Center",
+          "paragraph": Object {
+            "containers": Array [],
+            "type": "Paragraph",
+            "value": Array [
+              Object {
+                "styles": Array [],
+                "type": "Text",
+                "value": "My Dreams of Owning a",
+              },
+              Object {
+                "styles": Array [],
+                "type": "Text",
+                "value": " Phone Can Finally Be Fulfilled",
+              },
+            ],
+          },
+        }
+      }
+    />
+  </LunchboxWrapper>
+</EnsureDefaultTheme>
+`;
+
+exports[`<Lunchbox /> should render an inline image 1`] = `
+<EnsureDefaultTheme>
+  <LunchboxWrapper
+    currentLayout="ImageBleed"
+    lunchboxProps={
+      Object {
+        "image": Object {
+          "alignment": "Bleed",
+          "altText": null,
+          "attribution": Array [],
+          "caption": Array [],
+          "format": "png",
+          "height": 1080,
+          "id": "tscqkiavefq37idpvl5g",
+          "lightbox": true,
+          "syndicationRights": false,
+          "type": "Image",
+          "width": 1920,
+        },
+        "layout": "ImageBleed",
+      }
+    }
+  >
+    <LunchboxImage
+      currentLayout="ImageBleed"
+      image={
+        Object {
+          "alignment": "Bleed",
+          "altText": null,
+          "attribution": Array [],
+          "caption": Array [],
+          "format": "png",
+          "height": 1080,
+          "id": "tscqkiavefq37idpvl5g",
+          "lightbox": true,
+          "syndicationRights": false,
+          "type": "Image",
+          "width": 1920,
+        }
+      }
+    />
+  </LunchboxWrapper>
+</EnsureDefaultTheme>
+`;
+
+exports[`<Lunchbox /> should render both text and image based on a layout prop 1`] = `
+<EnsureDefaultTheme>
+  <LunchboxWrapper
+    currentLayout="ImageTextHeaderParagraphLeft"
+    lunchboxProps={
+      Object {
+        "header": Object {
+          "alignment": "Center",
+          "anchorTag": "",
+          "containers": Array [],
+          "level": 2,
+          "type": "Header",
+          "value": Array [
+            Object {
+              "styles": Array [],
+              "type": "Text",
+              "value": "My Dreams of Owning a",
+            },
+            Object {
+              "styles": Array [],
+              "type": "Text",
+              "value": " Phone Can Finally Be Fulfilled",
+            },
+          ],
+        },
+        "image": Object {
+          "alignment": "Bleed",
+          "altText": null,
+          "attribution": Array [],
+          "caption": Array [],
+          "format": "png",
+          "height": 1080,
+          "id": "tscqkiavefq37idpvl5g",
+          "lightbox": true,
+          "syndicationRights": false,
+          "type": "Image",
+          "width": 1920,
+        },
+        "layout": "ImageTextHeaderParagraphLeft",
+        "paragraph": LunchboxParagraph {
+          "alignment": "Center",
+          "paragraph": Object {
+            "containers": Array [],
+            "type": "Paragraph",
+            "value": Array [
+              Object {
+                "styles": Array [],
+                "type": "Text",
+                "value": "My Dreams of Owning a",
+              },
+              Object {
+                "styles": Array [],
+                "type": "Text",
+                "value": " Phone Can Finally Be Fulfilled",
+              },
+            ],
+          },
+        },
+      }
+    }
+  >
+    <LunchboxText
+      header={
+        Object {
+          "alignment": "Center",
+          "anchorTag": "",
+          "containers": Array [],
+          "level": 2,
+          "type": "Header",
+          "value": Array [
+            Object {
+              "styles": Array [],
+              "type": "Text",
+              "value": "My Dreams of Owning a",
+            },
+            Object {
+              "styles": Array [],
+              "type": "Text",
+              "value": " Phone Can Finally Be Fulfilled",
+            },
+          ],
+        }
+      }
+      layout="ImageTextHeaderParagraphLeft"
+      paragraph={
+        LunchboxParagraph {
+          "alignment": "Center",
+          "paragraph": Object {
+            "containers": Array [],
+            "type": "Paragraph",
+            "value": Array [
+              Object {
+                "styles": Array [],
+                "type": "Text",
+                "value": "My Dreams of Owning a",
+              },
+              Object {
+                "styles": Array [],
+                "type": "Text",
+                "value": " Phone Can Finally Be Fulfilled",
+              },
+            ],
+          },
+        }
+      }
+    />
+    <styles__Gutter />
+    <LunchboxImage
+      currentLayout="ImageTextHeaderParagraphLeft"
+      image={
+        Object {
+          "alignment": "Bleed",
+          "altText": null,
+          "attribution": Array [],
+          "caption": Array [],
+          "format": "png",
+          "height": 1080,
+          "id": "tscqkiavefq37idpvl5g",
+          "lightbox": true,
+          "syndicationRights": false,
+          "type": "Image",
+          "width": 1920,
+        }
+      }
+    />
+  </LunchboxWrapper>
+</EnsureDefaultTheme>
+`;

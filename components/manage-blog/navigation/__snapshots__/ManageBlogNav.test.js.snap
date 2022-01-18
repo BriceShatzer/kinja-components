@@ -1,0 +1,481 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ManageBlogNav /> should render properly 1`] = `
+<EnsureDefaultTheme>
+  <ManageBlogNav__Container>
+    <ManageBlogNav__MenuWrapper>
+      <ManageBlogNav__MenuItem
+        key="Posts"
+        onClick={[Function]}
+        selected={true}
+      >
+        Posts
+      </ManageBlogNav__MenuItem>
+      <ManageBlogNav__MenuItem
+        key="Story Types"
+        onClick={[Function]}
+        selected={false}
+      >
+        Story Types
+      </ManageBlogNav__MenuItem>
+      <ManageBlogNav__MenuItem
+        key="Moderation"
+        onClick={[Function]}
+        selected={false}
+      >
+        Moderation
+      </ManageBlogNav__MenuItem>
+      <ManageBlogNav__MenuItem
+        key="Members"
+        onClick={[Function]}
+        selected={false}
+      >
+        Members
+      </ManageBlogNav__MenuItem>
+      <ManageBlogNav__MenuItem
+        key="Settings"
+        onClick={[Function]}
+        selected={false}
+      >
+        Settings
+      </ManageBlogNav__MenuItem>
+    </ManageBlogNav__MenuWrapper>
+    <Toggle(MenuSelector)
+      activeMenu="Posts"
+      menuList={
+        Array [
+          "Posts",
+          "Story Types",
+          "Moderation",
+          "Members",
+          "Settings",
+        ]
+      }
+      onClick={[Function]}
+    />
+    <ManageBlogNav__SubMenuWrapper>
+      <ManageBlogNav__SubMenuList>
+        <ManageBlogNav__SubMenuItem
+          key="Preview"
+          onClick={[Function]}
+          selected={false}
+        >
+          Preview
+        </ManageBlogNav__SubMenuItem>
+        <ManageBlogNav__SubMenuItem
+          key="Published"
+          onClick={[Function]}
+          selected={true}
+        >
+          Published
+        </ManageBlogNav__SubMenuItem>
+        <ManageBlogNav__SubMenuItem
+          key="Scheduled"
+          onClick={[Function]}
+          selected={false}
+        >
+          Scheduled
+        </ManageBlogNav__SubMenuItem>
+        <ManageBlogNav__SubMenuItem
+          key="Drafts"
+          onClick={[Function]}
+          selected={false}
+        >
+          Drafts
+        </ManageBlogNav__SubMenuItem>
+      </ManageBlogNav__SubMenuList>
+      <SearchBar
+        focusOnMount={true}
+        inputValue=""
+        onInputChanged={[Function]}
+        onSearch={[Function]}
+        placeholder="Search Published Posts"
+      />
+    </ManageBlogNav__SubMenuWrapper>
+  </ManageBlogNav__Container>
+</EnsureDefaultTheme>
+`;
+
+exports[`<ManageBlogNav /> should render properly 2`] = `
+<EnsureDefaultTheme>
+  <ManageBlogNav__Container>
+    <ManageBlogNav__MenuWrapper>
+      <ManageBlogNav__MenuItem
+        key="Posts"
+        onClick={[Function]}
+        selected={true}
+      >
+        Posts
+      </ManageBlogNav__MenuItem>
+      <ManageBlogNav__MenuItem
+        key="Story Types"
+        onClick={[Function]}
+        selected={false}
+      >
+        Story Types
+      </ManageBlogNav__MenuItem>
+      <ManageBlogNav__MenuItem
+        key="Moderation"
+        onClick={[Function]}
+        selected={false}
+      >
+        Moderation
+      </ManageBlogNav__MenuItem>
+      <ManageBlogNav__MenuItem
+        key="Members"
+        onClick={[Function]}
+        selected={false}
+      >
+        Members
+      </ManageBlogNav__MenuItem>
+      <ManageBlogNav__MenuItem
+        key="Settings"
+        onClick={[Function]}
+        selected={false}
+      >
+        Settings
+      </ManageBlogNav__MenuItem>
+    </ManageBlogNav__MenuWrapper>
+    <Toggle(MenuSelector)
+      activeMenu="Posts"
+      menuList={
+        Array [
+          "Posts",
+          "Story Types",
+          "Moderation",
+          "Members",
+          "Settings",
+        ]
+      }
+      onClick={[Function]}
+    />
+    <ManageBlogNav__SubMenuWrapper>
+      <ManageBlogNav__SubMenuList>
+        <ManageBlogNav__SubMenuItem
+          key="Preview"
+          onClick={[Function]}
+          selected={false}
+        >
+          Preview
+        </ManageBlogNav__SubMenuItem>
+        <ManageBlogNav__SubMenuItem
+          key="Published"
+          onClick={[Function]}
+          selected={true}
+        >
+          Published
+        </ManageBlogNav__SubMenuItem>
+        <ManageBlogNav__SubMenuItem
+          key="Scheduled"
+          onClick={[Function]}
+          selected={false}
+        >
+          Scheduled
+        </ManageBlogNav__SubMenuItem>
+        <ManageBlogNav__SubMenuItem
+          key="Drafts"
+          onClick={[Function]}
+          selected={false}
+        >
+          Drafts
+        </ManageBlogNav__SubMenuItem>
+      </ManageBlogNav__SubMenuList>
+      <SearchBar
+        focusOnMount={true}
+        inputValue=""
+        onInputChanged={[Function]}
+        onSearch={[Function]}
+        placeholder="Search Published Posts"
+      />
+    </ManageBlogNav__SubMenuWrapper>
+  </ManageBlogNav__Container>
+</EnsureDefaultTheme>
+`;
+
+exports[`<ManageBlogNav /> should render properly 3`] = `
+<EnsureDefaultTheme>
+  <ManageBlogNav__Container>
+    <ManageBlogNav__MenuWrapper>
+      <ManageBlogNav__MenuItem
+        key="Posts"
+        onClick={[Function]}
+        selected={true}
+      >
+        Posts
+      </ManageBlogNav__MenuItem>
+      <ManageBlogNav__MenuItem
+        key="Story Types"
+        onClick={[Function]}
+        selected={false}
+      >
+        Story Types
+      </ManageBlogNav__MenuItem>
+      <ManageBlogNav__MenuItem
+        key="Moderation"
+        onClick={[Function]}
+        selected={false}
+      >
+        Moderation
+      </ManageBlogNav__MenuItem>
+      <ManageBlogNav__MenuItem
+        key="Members"
+        onClick={[Function]}
+        selected={false}
+      >
+        Members
+      </ManageBlogNav__MenuItem>
+      <ManageBlogNav__MenuItem
+        key="Settings"
+        onClick={[Function]}
+        selected={false}
+      >
+        Settings
+      </ManageBlogNav__MenuItem>
+    </ManageBlogNav__MenuWrapper>
+    <Toggle(MenuSelector)
+      activeMenu="Posts"
+      menuList={
+        Array [
+          "Posts",
+          "Story Types",
+          "Moderation",
+          "Members",
+          "Settings",
+        ]
+      }
+      onClick={[Function]}
+    />
+    <ManageBlogNav__SubMenuWrapper>
+      <ManageBlogNav__SubMenuList>
+        <ManageBlogNav__SubMenuItem
+          key="Preview"
+          onClick={[Function]}
+          selected={false}
+        >
+          Preview
+        </ManageBlogNav__SubMenuItem>
+        <ManageBlogNav__SubMenuItem
+          key="Published"
+          onClick={[Function]}
+          selected={true}
+        >
+          Published
+        </ManageBlogNav__SubMenuItem>
+        <ManageBlogNav__SubMenuItem
+          key="Scheduled"
+          onClick={[Function]}
+          selected={false}
+        >
+          Scheduled
+        </ManageBlogNav__SubMenuItem>
+        <ManageBlogNav__SubMenuItem
+          key="Drafts"
+          onClick={[Function]}
+          selected={false}
+        >
+          Drafts
+        </ManageBlogNav__SubMenuItem>
+      </ManageBlogNav__SubMenuList>
+      <SearchBar
+        focusOnMount={true}
+        inputValue=""
+        onInputChanged={[Function]}
+        onSearch={[Function]}
+        placeholder="Search Published Posts"
+      />
+    </ManageBlogNav__SubMenuWrapper>
+  </ManageBlogNav__Container>
+</EnsureDefaultTheme>
+`;
+
+exports[`<ManageBlogNav /> should render properly 4`] = `
+<EnsureDefaultTheme>
+  <ManageBlogNav__Container>
+    <ManageBlogNav__MenuWrapper>
+      <ManageBlogNav__MenuItem
+        key="Posts"
+        onClick={[Function]}
+        selected={true}
+      >
+        Posts
+      </ManageBlogNav__MenuItem>
+      <ManageBlogNav__MenuItem
+        key="Story Types"
+        onClick={[Function]}
+        selected={false}
+      >
+        Story Types
+      </ManageBlogNav__MenuItem>
+      <ManageBlogNav__MenuItem
+        key="Moderation"
+        onClick={[Function]}
+        selected={false}
+      >
+        Moderation
+      </ManageBlogNav__MenuItem>
+      <ManageBlogNav__MenuItem
+        key="Members"
+        onClick={[Function]}
+        selected={false}
+      >
+        Members
+      </ManageBlogNav__MenuItem>
+      <ManageBlogNav__MenuItem
+        key="Settings"
+        onClick={[Function]}
+        selected={false}
+      >
+        Settings
+      </ManageBlogNav__MenuItem>
+    </ManageBlogNav__MenuWrapper>
+    <Toggle(MenuSelector)
+      activeMenu="Posts"
+      menuList={
+        Array [
+          "Posts",
+          "Story Types",
+          "Moderation",
+          "Members",
+          "Settings",
+        ]
+      }
+      onClick={[Function]}
+    />
+    <ManageBlogNav__SubMenuWrapper>
+      <ManageBlogNav__SubMenuList>
+        <ManageBlogNav__SubMenuItem
+          key="Preview"
+          onClick={[Function]}
+          selected={false}
+        >
+          Preview
+        </ManageBlogNav__SubMenuItem>
+        <ManageBlogNav__SubMenuItem
+          key="Published"
+          onClick={[Function]}
+          selected={true}
+        >
+          Published
+        </ManageBlogNav__SubMenuItem>
+        <ManageBlogNav__SubMenuItem
+          key="Scheduled"
+          onClick={[Function]}
+          selected={false}
+        >
+          Scheduled
+        </ManageBlogNav__SubMenuItem>
+        <ManageBlogNav__SubMenuItem
+          key="Drafts"
+          onClick={[Function]}
+          selected={false}
+        >
+          Drafts
+        </ManageBlogNav__SubMenuItem>
+      </ManageBlogNav__SubMenuList>
+      <SearchBar
+        focusOnMount={true}
+        inputValue=""
+        onInputChanged={[Function]}
+        onSearch={[Function]}
+        placeholder="Search Published Posts"
+      />
+    </ManageBlogNav__SubMenuWrapper>
+  </ManageBlogNav__Container>
+</EnsureDefaultTheme>
+`;
+
+exports[`<ManageBlogNav /> should render properly 5`] = `
+<EnsureDefaultTheme>
+  <ManageBlogNav__Container>
+    <ManageBlogNav__MenuWrapper>
+      <ManageBlogNav__MenuItem
+        key="Posts"
+        onClick={[Function]}
+        selected={true}
+      >
+        Posts
+      </ManageBlogNav__MenuItem>
+      <ManageBlogNav__MenuItem
+        key="Story Types"
+        onClick={[Function]}
+        selected={false}
+      >
+        Story Types
+      </ManageBlogNav__MenuItem>
+      <ManageBlogNav__MenuItem
+        key="Moderation"
+        onClick={[Function]}
+        selected={false}
+      >
+        Moderation
+      </ManageBlogNav__MenuItem>
+      <ManageBlogNav__MenuItem
+        key="Members"
+        onClick={[Function]}
+        selected={false}
+      >
+        Members
+      </ManageBlogNav__MenuItem>
+      <ManageBlogNav__MenuItem
+        key="Settings"
+        onClick={[Function]}
+        selected={false}
+      >
+        Settings
+      </ManageBlogNav__MenuItem>
+    </ManageBlogNav__MenuWrapper>
+    <Toggle(MenuSelector)
+      activeMenu="Posts"
+      menuList={
+        Array [
+          "Posts",
+          "Story Types",
+          "Moderation",
+          "Members",
+          "Settings",
+        ]
+      }
+      onClick={[Function]}
+    />
+    <ManageBlogNav__SubMenuWrapper>
+      <ManageBlogNav__SubMenuList>
+        <ManageBlogNav__SubMenuItem
+          key="Preview"
+          onClick={[Function]}
+          selected={false}
+        >
+          Preview
+        </ManageBlogNav__SubMenuItem>
+        <ManageBlogNav__SubMenuItem
+          key="Published"
+          onClick={[Function]}
+          selected={true}
+        >
+          Published
+        </ManageBlogNav__SubMenuItem>
+        <ManageBlogNav__SubMenuItem
+          key="Scheduled"
+          onClick={[Function]}
+          selected={false}
+        >
+          Scheduled
+        </ManageBlogNav__SubMenuItem>
+        <ManageBlogNav__SubMenuItem
+          key="Drafts"
+          onClick={[Function]}
+          selected={false}
+        >
+          Drafts
+        </ManageBlogNav__SubMenuItem>
+      </ManageBlogNav__SubMenuList>
+      <SearchBar
+        focusOnMount={true}
+        inputValue=""
+        onInputChanged={[Function]}
+        onSearch={[Function]}
+        placeholder="Search Published Posts"
+      />
+    </ManageBlogNav__SubMenuWrapper>
+  </ManageBlogNav__Container>
+</EnsureDefaultTheme>
+`;

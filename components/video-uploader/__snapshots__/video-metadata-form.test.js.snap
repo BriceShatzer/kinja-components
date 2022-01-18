@@ -1,0 +1,160 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<VideoMetadataForm /> should render with fields 1`] = `
+<video-metadata-form__Container>
+  <video-metadata-form__Header>
+    Edit video info
+  </video-metadata-form__Header>
+  <UploadingAnimation
+    stateTransition={true}
+  />
+  <Textfield
+    description="Title"
+    name="title"
+    onChange={[Function]}
+    value=""
+  />
+  <Textarea
+    autogrow={true}
+    label="Description"
+    name="description"
+    onChange={[Function]}
+    value=""
+  />
+  <Tagfield
+    description="Tags"
+    name="tags"
+    onChange={[Function]}
+    placeholderText="Add Tag..."
+    tags={Array []}
+  />
+  <Toggle(Select)
+    description="Program or video series"
+    height={200}
+    labelUnderField={true}
+    onChange={[Function]}
+    predictive={true}
+    value=""
+  >
+    <Option
+      key="default"
+      stringRepresentation="Loading…"
+      value=""
+    />
+  </Toggle(Select)>
+  <Toggle
+    checked={true}
+    label={
+      <ForwardRef(video-metadata-form__ToggleLabel)>
+        Monetizable
+        <div>
+          Monetizable videos can have pre-roll ads and appear in video recirculation modules. We can't monetize content created by others, like clips or screencaps from other channels.
+        </div>
+      </ForwardRef(video-metadata-form__ToggleLabel)>
+    }
+    name="monetizable"
+    onChange={[Function]}
+  />
+  <footer>
+    <video-metadata-form__ButtonGroup>
+      <video-metadata-form__CancelButton
+        label="Fill out later"
+        onClick={[Function]}
+        small={true}
+        weight="secondary"
+      />
+      <Button
+        label="Save video info"
+        onClick={[Function]}
+        small={true}
+        weight="primary"
+      />
+    </video-metadata-form__ButtonGroup>
+  </footer>
+</video-metadata-form__Container>
+`;
+
+exports[`<VideoMetadataForm /> should set errors if invalid 1`] = `
+Object {
+  "description": "Description is required",
+  "programId": "Program or video series is required",
+  "title": "Title is required",
+}
+`;
+
+exports[`<VideoMetadataForm /> should set errors if invalid 2`] = `
+<video-metadata-form__Container>
+  <video-metadata-form__Header>
+    Edit video info
+  </video-metadata-form__Header>
+  <UploadingAnimation
+    stateTransition={true}
+  />
+  <Textfield
+    description="Title"
+    error="Title is required"
+    name="title"
+    onChange={[Function]}
+    value=""
+  />
+  <Textarea
+    autogrow={true}
+    error="Description is required"
+    label="Description"
+    name="description"
+    onChange={[Function]}
+    value=""
+  />
+  <Tagfield
+    description="Tags"
+    name="tags"
+    onChange={[Function]}
+    placeholderText="Add Tag..."
+    tags={Array []}
+  />
+  <Toggle(Select)
+    description="Program or video series"
+    error="Program or video series is required"
+    height={200}
+    labelUnderField={true}
+    onChange={[Function]}
+    predictive={true}
+    value=""
+  >
+    <Option
+      key="default"
+      stringRepresentation="Loading…"
+      value=""
+    />
+  </Toggle(Select)>
+  <Toggle
+    checked={true}
+    label={
+      <ForwardRef(video-metadata-form__ToggleLabel)>
+        Monetizable
+        <div>
+          Monetizable videos can have pre-roll ads and appear in video recirculation modules. We can't monetize content created by others, like clips or screencaps from other channels.
+        </div>
+      </ForwardRef(video-metadata-form__ToggleLabel)>
+    }
+    name="monetizable"
+    onChange={[Function]}
+  />
+  <footer>
+    <video-metadata-form__ButtonGroup>
+      <video-metadata-form__CancelButton
+        label="Fill out later"
+        onClick={[Function]}
+        small={true}
+        weight="secondary"
+      />
+      <Button
+        label="Save video info"
+        onClick={[Function]}
+        small={true}
+        weight="primary"
+      />
+    </video-metadata-form__ButtonGroup>
+  </footer>
+</video-metadata-form__Container>
+`;

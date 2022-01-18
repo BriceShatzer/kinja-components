@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Analytics /> has a prop named \`ga\` 1`] = `
+<Component
+  ga={[Function]}
+  gaNamespaced={[Function]}
+/>
+`;
+
+exports[`<Analytics /> preserves the composed components props 1`] = `
+<Component
+  additionalProp="Hello World!"
+  ga={[Function]}
+  gaNamespaced={[Function]}
+/>
+`;
+
+exports[`<Analytics /> triggers an analytic request with \`sendEvent\` 1`] = `
+Array [
+  "send",
+  "event",
+  "testA",
+  "clickB",
+  "testC",
+]
+`;

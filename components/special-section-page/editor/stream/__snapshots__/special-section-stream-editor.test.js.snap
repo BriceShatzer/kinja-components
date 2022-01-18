@@ -1,0 +1,217 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<SpecialSectionStreamEditor /> renders a list of modules if given props for a module 1`] = `
+<EnsureDefaultTheme>
+  <special-section-stream-editor__SpecialSectionStreamContainer>
+    <WithFloatingToolbar
+      key="Foo"
+      onClick={[Function]}
+      showToolbar={false}
+      toolbarItems={
+        Array [
+          Object {
+            "children": <ForwardRef(special-section-stream-toolbar-config__InputColor)
+              onChange={[Function]}
+              type="color"
+            />,
+            "icon": <ColorPickerIcon />,
+            "onClick": [Function],
+            "showTitle": false,
+            "title": "adjust background color",
+          },
+          Object {
+            "icon": <LinkIcon />,
+            "onClick": [Function],
+            "showTitle": false,
+            "title": "add link to module",
+          },
+          Object {
+            "disabled": true,
+            "icon": <ArrowTopIcon />,
+            "onClick": [Function],
+            "showTitle": false,
+            "title": "move module up",
+          },
+          Object {
+            "disabled": true,
+            "icon": <ArrowBottomIcon />,
+            "onClick": [Function],
+            "showTitle": false,
+            "title": "move module down",
+          },
+          Object {
+            "icon": <TrashcanIcon />,
+            "onClick": [Function],
+            "showTitle": false,
+            "title": "delete module",
+          },
+        ]
+      }
+      toolbarPosition="Center"
+    >
+      <LunchboxEditor
+        deleteImage={[Function]}
+        handleMediaUpload={[Function]}
+        handleUpdateHeader={[Function]}
+        handleUpdateLayout={[Function]}
+        handleUpdateParagraph={[Function]}
+        headerText="Foo"
+        id="Foo"
+        showToolbar={false}
+      />
+    </WithFloatingToolbar>
+    <special-section-stream-editor__AddModuleRegion>
+      <Button
+        icon={<FeaturedHeaderClassicReversedIcon />}
+        label="Add Text or Images"
+        labelPosition="after"
+        onClick={[Function]}
+      />
+    </special-section-stream-editor__AddModuleRegion>
+  </special-section-stream-editor__SpecialSectionStreamContainer>
+</EnsureDefaultTheme>
+`;
+
+exports[`<SpecialSectionStreamEditor /> renders a list of modules if given props for several modules 1`] = `
+<EnsureDefaultTheme>
+  <special-section-stream-editor__SpecialSectionStreamContainer>
+    <WithFloatingToolbar
+      key="first"
+      onClick={[Function]}
+      showToolbar={false}
+      toolbarItems={
+        Array [
+          Object {
+            "children": <ForwardRef(special-section-stream-toolbar-config__InputColor)
+              onChange={[Function]}
+              type="color"
+            />,
+            "icon": <ColorPickerIcon />,
+            "onClick": [Function],
+            "showTitle": false,
+            "title": "adjust background color",
+          },
+          Object {
+            "icon": <LinkIcon />,
+            "onClick": [Function],
+            "showTitle": false,
+            "title": "add link to module",
+          },
+          Object {
+            "disabled": true,
+            "icon": <ArrowTopIcon />,
+            "onClick": [Function],
+            "showTitle": false,
+            "title": "move module up",
+          },
+          Object {
+            "disabled": false,
+            "icon": <ArrowBottomIcon />,
+            "onClick": [Function],
+            "showTitle": false,
+            "title": "move module down",
+          },
+          Object {
+            "icon": <TrashcanIcon />,
+            "onClick": [Function],
+            "showTitle": false,
+            "title": "delete module",
+          },
+        ]
+      }
+      toolbarPosition="Center"
+    >
+      <LunchboxEditor
+        deleteImage={[Function]}
+        handleMediaUpload={[Function]}
+        handleUpdateHeader={[Function]}
+        handleUpdateLayout={[Function]}
+        handleUpdateParagraph={[Function]}
+        headerText="first"
+        id="first"
+        showToolbar={false}
+      />
+    </WithFloatingToolbar>
+    <WithFloatingToolbar
+      key="second"
+      onClick={[Function]}
+      showToolbar={false}
+      toolbarItems={
+        Array [
+          Object {
+            "children": <ForwardRef(special-section-stream-toolbar-config__InputColor)
+              onChange={[Function]}
+              type="color"
+            />,
+            "icon": <ColorPickerIcon />,
+            "onClick": [Function],
+            "showTitle": false,
+            "title": "adjust background color",
+          },
+          Object {
+            "icon": <LinkIcon />,
+            "onClick": [Function],
+            "showTitle": false,
+            "title": "add link to module",
+          },
+          Object {
+            "disabled": false,
+            "icon": <ArrowTopIcon />,
+            "onClick": [Function],
+            "showTitle": false,
+            "title": "move module up",
+          },
+          Object {
+            "disabled": true,
+            "icon": <ArrowBottomIcon />,
+            "onClick": [Function],
+            "showTitle": false,
+            "title": "move module down",
+          },
+          Object {
+            "icon": <TrashcanIcon />,
+            "onClick": [Function],
+            "showTitle": false,
+            "title": "delete module",
+          },
+        ]
+      }
+      toolbarPosition="Center"
+    >
+      <LunchboxEditor
+        deleteImage={[Function]}
+        handleMediaUpload={[Function]}
+        handleUpdateHeader={[Function]}
+        handleUpdateLayout={[Function]}
+        handleUpdateParagraph={[Function]}
+        id="second"
+        paragraphText="SECOND"
+        showToolbar={false}
+      />
+    </WithFloatingToolbar>
+    <special-section-stream-editor__AddModuleRegion>
+      <Button
+        icon={<FeaturedHeaderClassicReversedIcon />}
+        label="Add Text or Images"
+        labelPosition="after"
+        onClick={[Function]}
+      />
+    </special-section-stream-editor__AddModuleRegion>
+  </special-section-stream-editor__SpecialSectionStreamContainer>
+</EnsureDefaultTheme>
+`;
+
+exports[`<SpecialSectionStreamEditor /> renders an Add Module Region if given an empty list of modules 1`] = `
+<EnsureDefaultTheme>
+  <special-section-stream-editor__SpecialSectionStreamContainer>
+    <special-section-stream-editor__AddModuleRegion>
+      <Button
+        icon={<FeaturedHeaderClassicReversedIcon />}
+        label="Add Text or Images"
+        labelPosition="after"
+        onClick={[Function]}
+      />
+    </special-section-stream-editor__AddModuleRegion>
+  </special-section-stream-editor__SpecialSectionStreamContainer>
+</EnsureDefaultTheme>
+`;

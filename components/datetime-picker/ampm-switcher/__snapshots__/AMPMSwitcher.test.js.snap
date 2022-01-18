@@ -1,0 +1,103 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<AMPMSwitcher /> should render properly 1`] = `
+.c0 {
+  width: 22px;
+}
+
+.c1 {
+  padding: 0;
+  border-bottom: 1px solid #000;
+  font-size: 18px;
+  line-height: 23px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  cursor: pointer;
+}
+
+<DateTimePicker
+  onChange={[MockFunction]}
+  timemillis={1549966749571}
+  timezone="America/New_York"
+>
+  <EnsureDefaultTheme>
+    <ThemeProvider
+      theme={[Function]}
+    >
+      <AMPMSwitcher__Container>
+        <StyledComponent
+          forwardedComponent={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": Array [],
+              "componentStyle": ComponentStyle {
+                "componentId": "AMPMSwitcher__Container-sc-3fh4o2-0",
+                "isStatic": true,
+                "lastClassName": "c0",
+                "rules": Array [
+                  "width:22px;",
+                ],
+              },
+              "displayName": "AMPMSwitcher__Container",
+              "foldedComponentIds": Array [],
+              "render": [Function],
+              "styledComponentId": "AMPMSwitcher__Container-sc-3fh4o2-0",
+              "target": "div",
+              "toString": [Function],
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+        >
+          <div
+            className="c0"
+          >
+            <AMPMSwitcher__TextBox
+              onClick={[Function]}
+            >
+              <StyledComponent
+                forwardedComponent={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": Array [],
+                    "componentStyle": ComponentStyle {
+                      "componentId": "AMPMSwitcher__TextBox-sc-3fh4o2-1",
+                      "isStatic": false,
+                      "lastClassName": "c1",
+                      "rules": Array [
+                        "padding:0;border-bottom:1px solid ",
+                        [Function],
+                        ";font-size:18px;line-height:23px;user-select:none;cursor:pointer;",
+                      ],
+                    },
+                    "displayName": "AMPMSwitcher__TextBox",
+                    "foldedComponentIds": Array [],
+                    "render": [Function],
+                    "styledComponentId": "AMPMSwitcher__TextBox-sc-3fh4o2-1",
+                    "target": "div",
+                    "toString": [Function],
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+                onClick={[Function]}
+              >
+                <div
+                  className="c1"
+                  onClick={[Function]}
+                >
+                  am
+                </div>
+              </StyledComponent>
+            </AMPMSwitcher__TextBox>
+          </div>
+        </StyledComponent>
+      </AMPMSwitcher__Container>
+    </ThemeProvider>
+  </EnsureDefaultTheme>
+</DateTimePicker>
+`;

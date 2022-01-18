@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<PostTools /> should render comment & view counts 1`] = `
+<ThemeProvider
+  theme={[Function]}
+>
+  <post-tools__PostToolsContainer>
+    <post-tools-stream__StreamToolContainer>
+      <post-tools-stream__StreamUserTools />
+    </post-tools-stream__StreamToolContainer>
+  </post-tools__PostToolsContainer>
+</ThemeProvider>
+`;

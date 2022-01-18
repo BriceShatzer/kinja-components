@@ -1,0 +1,29 @@
+{
+	"meta": {
+	"error": null,
+	"warnings": []
+	},
+	"data": {
+	"blogId": "4",
+	"amazonInsetsEnabled": true,
+	"amazonAffiliateTag": "gizmodoamzn-20",
+	"adsEnabled": true,
+	"adNetworkId": 4246,
+	"adSiteName": "gm.gizmodo",
+	"tagsExcludedFromPartnerRss": [
+			"nsfw",
+			"metapost",
+			"externalPost"
+		],
+	"tagsForceSynced": [
+			"dyson",
+			"shooting-challenge",
+			"fitmodo"
+		],
+	"adSlotsDisabled": [],
+	"indexExchangeWebSiteId": "12515575323306",
+	"indexExchangeAmpSiteId": "272207",
+	"updatedAt": 1538493067019,
+	"stored": true
+	}
+}

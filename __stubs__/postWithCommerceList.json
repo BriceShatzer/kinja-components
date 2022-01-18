@@ -1,0 +1,4146 @@
+{
+	"parent": null,
+	"largeOnStream": false,
+	"parentAuthorId": null,
+	"adSettings": null,
+	"videos": [],
+	"body": [
+		{
+			"level": 3,
+			"icon": "Tech",
+			"containers": [],
+			"alignment": "Left",
+			"type": "Header",
+			"value": [
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "Tech"
+				}
+			]
+		},
+		{
+			"level": 4,
+			"containers": [],
+			"alignment": "Left",
+			"type": "Header",
+			"value": [
+				{
+					"reference": "https://deals.kinja.com/c/tech-deals/storage",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "Storage"
+						}
+					]
+				}
+			]
+		},
+		{
+			"level": 4,
+			"containers": [],
+			"alignment": "Left",
+			"type": "Header",
+			"value": [
+				{
+					"reference": "https://deals.kinja.com/c/tech-deals/power",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "Power"
+						}
+					]
+				}
+			]
+		},
+		{
+			"containers": [
+				{
+					"style": "Commerce",
+					"type": "List"
+				}
+			],
+			"type": "Paragraph",
+			"value": [
+				{
+					"reference": "http://www.amazon.com/dp/B078YKRCK7/?tag=kinjadeals-20&kinja_price=18",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "Waterproof Charger Portable Charger, Jackery Armor Power Bank 9000mAh External Battery [Water/Shock/Dust Proof] with Emergency LED Flashlight for Camping"
+						},
+						{
+							"styles": [],
+							"type": "Text",
+							"value": " | "
+						},
+						{
+							"styles": [
+								"Italic"
+							],
+							"type": "Text",
+							"value": "$18"
+						}
+					]
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": " | Amazon"
+				}
+			]
+		},
+		{
+			"containers": [
+				{
+					"style": "Commerce",
+					"type": "List"
+				}
+			],
+			"type": "Paragraph",
+			"value": [
+				{
+					"reference": "https://www.amazon.com/dp/B07QV8MRVD?kinja_price=12&kinja_promocode=KINJA207",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "USB C to Lightning Cable RAVPower"
+						}
+					]
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": " | "
+				},
+				{
+					"styles": [
+						"Italic"
+					],
+					"type": "Text",
+					"value": "$10"
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": " | Amazon | Promo code KINJA916"
+				}
+			]
+		},
+		{
+			"containers": [
+				{
+					"style": "Commerce",
+					"type": "List"
+				}
+			],
+			"type": "Paragraph",
+			"value": [
+				{
+					"reference": "http://www.amazon.com/dp/B07D29QNMJ/?tag=kinjadeals-20&kinja_price=187",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "Jackery Portable Power Station Explorer 240, 240Wh Backup Lithium Battery, 110V/200W Pure Sine Wave AC Outlet"
+						},
+						{
+							"styles": [],
+							"type": "Text",
+							"value": " | "
+						},
+						{
+							"styles": [
+								"Italic"
+							],
+							"type": "Text",
+							"value": "$187"
+						}
+					]
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": " | Amazon"
+				}
+			]
+		},
+		{
+			"level": 4,
+			"containers": [],
+			"alignment": "Left",
+			"type": "Header",
+			"value": [
+				{
+					"reference": "https://deals.kinja.com/c/tech-deals/audio",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "Audio"
+						}
+					]
+				}
+			]
+		},
+		{
+			"containers": [
+				{
+					"style": "Commerce",
+					"type": "List"
+				}
+			],
+			"type": "Paragraph",
+			"value": [
+				{
+					"reference": "http://www.amazon.com/dp/B07MVYH9VJ/?tag=kinjadeals-20&kinja_price=99",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "Z606 5.1 Surround Sound Speaker System with Bluetooth"
+						},
+						{
+							"styles": [],
+							"type": "Text",
+							"value": " | "
+						},
+						{
+							"styles": [
+								"Italic"
+							],
+							"type": "Text",
+							"value": "$99"
+						}
+					]
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": " | Amazon"
+				}
+			]
+		},
+		{
+			"containers": [
+				{
+					"style": "Commerce",
+					"type": "List"
+				}
+			],
+			"type": "Paragraph",
+			"value": [
+				{
+					"styles": [
+						"Bold"
+					],
+					"type": "Text",
+					"value": "Beats Solo3 Wireless Headphones "
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "|"
+				},
+				{
+					"styles": [
+						"Italic"
+					],
+					"type": "Text",
+					"value": " $130 "
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "| "
+				},
+				{
+					"reference": "https://www.amazon.com/Beats-Solo3-Wireless-Ear-Headphones/dp/B01LWWY3E2/",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [],
+							"type": "Text",
+							"value": "Amazon "
+						}
+					]
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "and"
+				},
+				{
+					"reference": "https://www.bestbuy.com/site/beats-by-dr-dre-beats-solo-wireless-headphones-black/5577858.p?skuId=5577858",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [],
+							"type": "Text",
+							"value": " Best Buy"
+						}
+					]
+				}
+			]
+		},
+		{
+			"containers": [
+				{
+					"style": "Commerce",
+					"type": "List"
+				}
+			],
+			"type": "Paragraph",
+			"value": [
+				{
+					"reference": "https://www.bestbuy.com/site/the-house-of-marley-no-bounds-portable-bluetooth-speaker-black/6339205.p?skuId=6339205",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "The House of Marley - No Bounds Portable Bluetooth Speaker"
+						},
+						{
+							"styles": [],
+							"type": "Text",
+							"value": " | "
+						},
+						{
+							"styles": [
+								"Italic"
+							],
+							"type": "Text",
+							"value": "$30"
+						}
+					]
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": " | Best Buy"
+				}
+			]
+		},
+		{
+			"level": 4,
+			"containers": [],
+			"alignment": "Left",
+			"type": "Header",
+			"value": [
+				{
+					"reference": "https://deals.kinja.com/c/tech-deals/home-theater",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "Home Theater"
+						}
+					]
+				}
+			]
+		},
+		{
+			"containers": [
+				{
+					"style": "Commerce",
+					"type": "List"
+				}
+			],
+			"type": "Paragraph",
+			"value": [
+				{
+					"reference": "https://www.bestbuy.com/site/orby-tv-satellite-dvr/6321420.p?skuId=6321420",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "Orby TV - Satellite DVR"
+						},
+						{
+							"styles": [],
+							"type": "Text",
+							"value": " | "
+						},
+						{
+							"styles": [
+								"Italic"
+							],
+							"type": "Text",
+							"value": "$100"
+						}
+					]
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": " | Best Buy"
+				}
+			]
+		},
+		{
+			"level": 4,
+			"containers": [],
+			"alignment": "Left",
+			"type": "Header",
+			"value": [
+				{
+					"reference": "https://deals.kinja.com/c/tech-deals/computers-accessories",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "Computers & Accessories"
+						}
+					]
+				}
+			]
+		},
+		{
+			"containers": [
+				{
+					"style": "Commerce",
+					"type": "List"
+				}
+			],
+			"type": "Paragraph",
+			"value": [
+				{
+					"reference": "http://www.amazon.com/dp/B00BXXJDY2/?tag=kinjadeals-20&kinja_price=28",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "SainSmart UNO R3 Starter Kit with 19 Basic Arduino Tutorial Projects"
+						},
+						{
+							"styles": [],
+							"type": "Text",
+							"value": " | "
+						},
+						{
+							"styles": [
+								"Italic"
+							],
+							"type": "Text",
+							"value": "$28"
+						}
+					]
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": " | Amazon"
+				}
+			]
+		},
+		{
+			"containers": [
+				{
+					"style": "Commerce",
+					"type": "List"
+				}
+			],
+			"type": "Paragraph",
+			"value": [
+				{
+					"reference": "https://www.bestbuy.com/site/lenovo-ideapad-130-15-6-laptop-amd-a9-series-4gb-memory-amd-radeon-r5-128gb-solid-state-drive-black/6323661.p?skuId=6323661",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "Lenovo - IdeaPad 130 15.6\" Laptop - AMD A9-Series - 4GB Memory - AMD Radeon R5 - 128GB SSD"
+						},
+						{
+							"styles": [],
+							"type": "Text",
+							"value": " | "
+						},
+						{
+							"styles": [
+								"Italic"
+							],
+							"type": "Text",
+							"value": "$200"
+						}
+					]
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": " | Best Buy"
+				}
+			]
+		},
+		{
+			"containers": [
+				{
+					"style": "Commerce",
+					"type": "List"
+				}
+			],
+			"type": "Paragraph",
+			"value": [
+				{
+					"reference": "https://www.ebay.com/itm/iPhone-11-11-Pro-11-Pro-Max-Case-Spigen-Ultra-Hybrid-Clear-Cover/254355065711",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "Spigen Ultra Hybrid Case For iPhone 11, 11 Pro, and 11 Max"
+						}
+					]
+				},
+				{
+					"styles": [
+						"Bold"
+					],
+					"type": "Text",
+					"value": " "
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "| "
+				},
+				{
+					"styles": [
+						"Italic"
+					],
+					"type": "Text",
+					"value": "$10"
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": " | eBay"
+				}
+			]
+		},
+		{
+			"containers": [
+				{
+					"style": "Commerce",
+					"type": "List"
+				}
+			],
+			"type": "Paragraph",
+			"value": [
+				{
+					"reference": "http://www.amazon.com/dp/B071VHYZ62/?tag=kinjadeals-20&kinja_price=45",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "Logitech K840 Mechanical Keyboard with Romer G mechanical Switches"
+						},
+						{
+							"styles": [],
+							"type": "Text",
+							"value": " | "
+						},
+						{
+							"styles": [
+								"Italic"
+							],
+							"type": "Text",
+							"value": "$45"
+						}
+					]
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": " | Amazon"
+				}
+			]
+		},
+		{
+			"containers": [
+				{
+					"style": "Commerce",
+					"type": "List"
+				}
+			],
+			"type": "Paragraph",
+			"value": [
+				{
+					"reference": "https://sellout.woot.com/offers/tp-link-deco-m5-home-wifi-system-3-pack",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "TP-Link Deco M5 Home WiFi System 3-Pack"
+						},
+						{
+							"styles": [],
+							"type": "Text",
+							"value": " | "
+						},
+						{
+							"styles": [
+								"Italic"
+							],
+							"type": "Text",
+							"value": "$140"
+						}
+					]
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": " | Woot"
+				}
+			]
+		},
+		{
+			"containers": [
+				{
+					"style": "Commerce",
+					"type": "List"
+				}
+			],
+			"type": "Paragraph",
+			"value": [
+				{
+					"reference": "https://www.ebay.com/itm/Asus-OnHub-Wireless-AC1900-Router-with-NAT-Firewall/292223930524",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "Asus - OnHub Wireless AC1900 Router with NAT Firewall"
+						},
+						{
+							"styles": [],
+							"type": "Text",
+							"value": " | "
+						},
+						{
+							"styles": [
+								"Italic"
+							],
+							"type": "Text",
+							"value": "$60"
+						}
+					]
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": " | eBay"
+				}
+			]
+		},
+		{
+			"level": 4,
+			"containers": [],
+			"alignment": "Left",
+			"type": "Header",
+			"value": [
+				{
+					"reference": "https://deals.kinja.com/c/tech-deals/pc-parts",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "PC Parts"
+						}
+					]
+				}
+			]
+		},
+		{
+			"level": 4,
+			"containers": [],
+			"alignment": "Left",
+			"type": "Header",
+			"value": [
+				{
+					"reference": "https://deals.kinja.com/c/tech-deals/mobile-devices",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "Mobile Devices"
+						}
+					]
+				}
+			]
+		},
+		{
+			"containers": [
+				{
+					"style": "Commerce",
+					"type": "List"
+				}
+			],
+			"type": "Paragraph",
+			"value": [
+				{
+					"reference": "http://www.amazon.com/dp/B0148NPH9I/?tag=kinjadeals-20&kinja_price=24",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "Logitech K380 Multi-Device Bluetooth Keyboard"
+						},
+						{
+							"styles": [],
+							"type": "Text",
+							"value": " | "
+						},
+						{
+							"styles": [
+								"Italic"
+							],
+							"type": "Text",
+							"value": "$24"
+						}
+					]
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": " | Amazon"
+				}
+			]
+		},
+		{
+			"containers": [
+				{
+					"style": "Commerce",
+					"type": "List"
+				}
+			],
+			"type": "Paragraph",
+			"value": [
+				{
+					"reference": "https://www.amazon.com/gp/product/B07HQ96S1W?kinja_price=3&kinja_promocode=GLASP299",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "2-Pack iPhone XR/11 Screen Protectors"
+						}
+					]
+				},
+				{
+					"styles": [
+						"Bold"
+					],
+					"type": "Text",
+					"value": " "
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "| "
+				},
+				{
+					"styles": [
+						"Italic"
+					],
+					"type": "Text",
+					"value": "$3"
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": " | Amazon | Promo code GLASP299"
+				}
+			]
+		},
+		{
+			"containers": [
+				{
+					"style": "Commerce",
+					"type": "List"
+				}
+			],
+			"type": "Paragraph",
+			"value": [
+				{
+					"reference": "https://www.amazon.com/gp/product/B07GXDW6LJ?kinja_price=3&kinja_promocode=GLASP299",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "2-Pack iPhone XS Max/11 Pro Max Screen Protectors"
+						}
+					]
+				},
+				{
+					"styles": [
+						"Bold"
+					],
+					"type": "Text",
+					"value": " "
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "| "
+				},
+				{
+					"styles": [
+						"Italic"
+					],
+					"type": "Text",
+					"value": "$3"
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": " | Amazon | Promo code GLASP299"
+				}
+			]
+		},
+		{
+			"level": 4,
+			"containers": [],
+			"alignment": "Left",
+			"type": "Header",
+			"value": [
+				{
+					"reference": "https://deals.kinja.com/c/tech-deals/photography",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "Photography"
+						}
+					]
+				}
+			]
+		},
+		{
+			"level": 3,
+			"icon": "Home",
+			"containers": [],
+			"alignment": "Left",
+			"type": "Header",
+			"value": [
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "HOME"
+				}
+			]
+		},
+		{
+			"level": 4,
+			"containers": [],
+			"alignment": "Left",
+			"type": "Header",
+			"value": [
+				{
+					"reference": "https://deals.kinja.com/c/home-deals/home-goods",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "Home Goods"
+						}
+					]
+				}
+			]
+		},
+		{
+			"containers": [
+				{
+					"style": "Commerce",
+					"type": "List"
+				}
+			],
+			"type": "Paragraph",
+			"value": [
+				{
+					"reference": "http://www.amazon.com/dp/B07B7PVMBB/?tag=kinjadeals-20&kinja_price=30",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "Extra Tall and Extra Wide Outdoor Retractable Baby / Pet Gate"
+						},
+						{
+							"styles": [],
+							"type": "Text",
+							"value": " | "
+						},
+						{
+							"styles": [
+								"Italic"
+							],
+							"type": "Text",
+							"value": "$30"
+						}
+					]
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": " | Amazon"
+				}
+			]
+		},
+		{
+			"containers": [
+				{
+					"style": "Commerce",
+					"type": "List"
+				}
+			],
+			"type": "Paragraph",
+			"value": [
+				{
+					"reference": "https://www.groupon.com/deals/costco-membership-2019",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "1-Year Costco Gold Star Membership"
+						}
+					]
+				},
+				{
+					"styles": [
+						"Bold"
+					],
+					"type": "Text",
+					"value": " "
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "| Groupon"
+				},
+				{
+					"type": "LineBreak"
+				}
+			]
+		},
+		{
+			"containers": [
+				{
+					"style": "Commerce",
+					"type": "List"
+				}
+			],
+			"type": "Paragraph",
+			"value": [
+				{
+					"reference": "https://www.amazon.com/YAMAZAKI-home-Tower-Desk-Bar/dp/B00MX4CZHC",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "Yamazaki Desk Bar"
+						}
+					]
+				},
+				{
+					"styles": [
+						"Bold"
+					],
+					"type": "Text",
+					"value": " "
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "| "
+				},
+				{
+					"styles": [
+						"Italic"
+					],
+					"type": "Text",
+					"value": "$26-$27 "
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "| Amazon"
+				}
+			]
+		},
+		{
+			"containers": [
+				{
+					"style": "Commerce",
+					"type": "List"
+				}
+			],
+			"type": "Paragraph",
+			"value": [
+				{
+					"reference": "https://www.wayfair.com/daily-sales/september-clearance",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "Up to 75% Off Clearance"
+						}
+					]
+				},
+				{
+					"styles": [
+						"Bold"
+					],
+					"type": "Text",
+					"value": " "
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "| Wayfair"
+				}
+			]
+		},
+		{
+			"containers": [
+				{
+					"style": "Commerce",
+					"type": "List"
+				}
+			],
+			"type": "Paragraph",
+			"value": [
+				{
+					"reference": "https://www.lowes.com/pd/Style-Selections-72-in-H-x-47-7-in-W-x-18-in-D-5-Tier-Steel-NSF-Certified-Freestanding-Shelving-Unit/999990408",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "Style Selections 72-in H x 47.7-in W x 18-in D 5-Tier Steel NSF Certified Freestanding Shelving Unit"
+						},
+						{
+							"styles": [],
+							"type": "Text",
+							"value": " | "
+						},
+						{
+							"styles": [
+								"Italic"
+							],
+							"type": "Text",
+							"value": "$70"
+						}
+					]
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": " | Lowes"
+				}
+			]
+		},
+		{
+			"containers": [
+				{
+					"style": "Commerce",
+					"type": "List"
+				}
+			],
+			"type": "Paragraph",
+			"value": [
+				{
+					"reference": "https://www.amazon.com/URPOWER-100%25Waterproof-Hammock-Scratch-Nonslip/dp/B0727Y5ZD7/",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "Dog Seat Cover Car Seat"
+						}
+					]
+				},
+				{
+					"styles": [
+						"Bold"
+					],
+					"type": "Text",
+					"value": " "
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "|"
+				},
+				{
+					"styles": [
+						"Italic"
+					],
+					"type": "Text",
+					"value": " $30"
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": " | Amazon"
+				}
+			]
+		},
+		{
+			"containers": [
+				{
+					"style": "Commerce",
+					"type": "List"
+				}
+			],
+			"type": "Paragraph",
+			"value": [
+				{
+					"reference": "https://www.amazon.com/deal/63d1058d/ref=gbps_tit_s-5_0f49_63d1058d?smid=ATVPDKIKX0DER&pf_rd_p=56beed47-26cb-401c-95f5-738a157f0f49&pf_rd_s=slot-5&pf_rd_t=701&pf_rd_i=gb_main&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=H7ZWPXKAX15MHHB2XZ9B",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "Save on Fall Lawn Care Supplies"
+						}
+					]
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": " | Amazon"
+				}
+			]
+		},
+		{
+			"containers": [
+				{
+					"style": "Commerce",
+					"type": "List"
+				}
+			],
+			"type": "Paragraph",
+			"value": [
+				{
+					"reference": "http://www.amazon.com/dp/B07PJ99DJV/?tag=kinjadeals-20&kinja_price=40",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "MOOSOO Vacuum Cleaner Corded Stick Vacuum with HEPA Filter 17Kpa Powerful Suction 2 in 1 Handheld Vacuum for Hard Floor D600"
+						},
+						{
+							"styles": [],
+							"type": "Text",
+							"value": " | "
+						},
+						{
+							"styles": [
+								"Italic"
+							],
+							"type": "Text",
+							"value": "$40"
+						}
+					]
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": " | Amazon"
+				}
+			]
+		},
+		{
+			"containers": [
+				{
+					"style": "Commerce",
+					"type": "List"
+				}
+			],
+			"type": "Paragraph",
+			"value": [
+				{
+					"reference": "https://www.amazon.com/gp/mpc/A3KVUZ3WWN7HAS",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "30% Off Halter Standing Desks"
+						}
+					]
+				},
+				{
+					"styles": [
+						"Bold"
+					],
+					"type": "Text",
+					"value": " "
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "| Amazon | Discount shown at checkout"
+				}
+			]
+		},
+		{
+			"containers": [
+				{
+					"style": "Commerce",
+					"type": "List"
+				}
+			],
+			"type": "Paragraph",
+			"value": [
+				{
+					"reference": "http://www.amazon.com/dp/B07QJBV557/?tag=kinjadeals-20&kinja_price=103",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "MOOSOO Cordless Vacuum Cleaner 17Kpa Strong Suction 2 in 1 Stick Vacuum Ultra-Quiet Handheld Vacuum with Upgraded LED Floor Head -Brushless Motor Inside"
+						},
+						{
+							"styles": [],
+							"type": "Text",
+							"value": " | "
+						},
+						{
+							"styles": [
+								"Italic"
+							],
+							"type": "Text",
+							"value": "$103"
+						}
+					]
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": " | Amazon"
+				}
+			]
+		},
+		{
+			"level": 4,
+			"containers": [],
+			"alignment": "Left",
+			"type": "Header",
+			"value": [
+				{
+					"reference": "https://deals.kinja.com/c/home-deals/smart-home",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "Smart Home"
+						}
+					]
+				}
+			]
+		},
+		{
+			"containers": [
+				{
+					"style": "Commerce",
+					"type": "List"
+				}
+			],
+			"type": "Paragraph",
+			"value": [
+				{
+					"reference": "https://tools.woot.com/offers/hue-80-led-lightstrip-plus-smart-light-with-40-led-extension-2",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "Hue 80\" LED LightStrip Plus Smart Light with 40\" LED Extension"
+						},
+						{
+							"styles": [],
+							"type": "Text",
+							"value": " | "
+						},
+						{
+							"styles": [
+								"Italic"
+							],
+							"type": "Text",
+							"value": "$52"
+						}
+					]
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": " | Woot"
+				}
+			]
+		},
+		{
+			"level": 4,
+			"containers": [],
+			"alignment": "Left",
+			"type": "Header",
+			"value": [
+				{
+					"reference": "https://deals.kinja.com/c/home-deals/kitchen",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "Kitchen"
+						}
+					]
+				}
+			]
+		},
+		{
+			"containers": [
+				{
+					"style": "Commerce",
+					"type": "List"
+				}
+			],
+			"type": "Paragraph",
+			"value": [
+				{
+					"reference": "http://www.amazon.com/dp/B06XKHNCZW/?tag=kinjadeals-20&kinja_price=6",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "Nabisco Team Favorites Mix - Variety Pack with Cookies & Crackers, 30 Count Box, 30 oz"
+						},
+						{
+							"styles": [],
+							"type": "Text",
+							"value": " | "
+						},
+						{
+							"styles": [
+								"Italic"
+							],
+							"type": "Text",
+							"value": "$6"
+						}
+					]
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": " | Amazon"
+				}
+			]
+		},
+		{
+			"containers": [
+				{
+					"style": "Commerce",
+					"type": "List"
+				}
+			],
+			"type": "Paragraph",
+			"value": [
+				{
+					"reference": "https://www.bestbuy.com/site/kitchenaid-kv25g0xob-professional-500-series-stand-mixer-onyx-black/4598700.p",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "KitchenAid - KV25G0XOB Professional 500 Series Stand Mixer"
+						},
+						{
+							"styles": [],
+							"type": "Text",
+							"value": " | "
+						},
+						{
+							"styles": [
+								"Italic"
+							],
+							"type": "Text",
+							"value": "$240"
+						}
+					]
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": " | Best Buy"
+				}
+			]
+		},
+		{
+			"containers": [
+				{
+					"style": "Commerce",
+					"type": "List"
+				}
+			],
+			"type": "Paragraph",
+			"value": [
+				{
+					"reference": "http://www.amazon.com/dp/B00MJ0AC1Q/?tag=kinjadeals-20&kinja_price=32",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "Mercer Culinary Renaissance Forged Nakiri Vegetable Knife, 7 Inch"
+						},
+						{
+							"styles": [],
+							"type": "Text",
+							"value": " | "
+						},
+						{
+							"styles": [
+								"Italic"
+							],
+							"type": "Text",
+							"value": "$32"
+						}
+					]
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": " | Amazon"
+				}
+			]
+		},
+		{
+			"containers": [
+				{
+					"style": "Commerce",
+					"type": "List"
+				}
+			],
+			"type": "Paragraph",
+			"value": [
+				{
+					"reference": "http://www.amazon.com/dp/B002R178NW/?tag=kinjadeals-20&kinja_price=21",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "Mercer Culinary Renaissance Forged Stiff Boning Knife, 6 Inch"
+						},
+						{
+							"styles": [],
+							"type": "Text",
+							"value": " | "
+						},
+						{
+							"styles": [
+								"Italic"
+							],
+							"type": "Text",
+							"value": "$21"
+						}
+					]
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": " | Amazon"
+				}
+			]
+		},
+		{
+			"containers": [
+				{
+					"style": "Commerce",
+					"type": "List"
+				}
+			],
+			"type": "Paragraph",
+			"value": [
+				{
+					"reference": "http://www.amazon.com/dp/B06XGRXMCX/?tag=kinjadeals-20&kinja_price=14",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "Mercer Culinary Genesis Steak Knife, Non-Serrated Edge"
+						},
+						{
+							"styles": [],
+							"type": "Text",
+							"value": " | "
+						},
+						{
+							"styles": [
+								"Italic"
+							],
+							"type": "Text",
+							"value": "$14"
+						}
+					]
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": " | Amazon"
+				}
+			]
+		},
+		{
+			"containers": [
+				{
+					"style": "Commerce",
+					"type": "List"
+				}
+			],
+			"type": "Paragraph",
+			"value": [
+				{
+					"reference": "http://www.amazon.com/dp/B07FMXKHT3/?tag=kinjadeals-20&kinja_price=8",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "Progressive International PS-47GY Microwave Mini Steamer, Gray"
+						},
+						{
+							"styles": [],
+							"type": "Text",
+							"value": " | "
+						},
+						{
+							"styles": [
+								"Italic"
+							],
+							"type": "Text",
+							"value": "$8"
+						}
+					]
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": " | Amazon"
+				}
+			]
+		},
+		{
+			"containers": [
+				{
+					"style": "Commerce",
+					"type": "List"
+				}
+			],
+			"type": "Paragraph",
+			"value": [
+				{
+					"reference": "https://www.bestbuy.com/site/cuisinart-2-5qt-multi-cooker-brushed-stainless-steel/6290906.p?skuId=6290906",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "Cuisinart - 2.5qt Multi Cooker"
+						},
+						{
+							"styles": [],
+							"type": "Text",
+							"value": " | "
+						},
+						{
+							"styles": [
+								"Italic"
+							],
+							"type": "Text",
+							"value": "$50"
+						}
+					]
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": " | Best Buy"
+				}
+			]
+		},
+		{
+			"containers": [
+				{
+					"style": "Commerce",
+					"type": "List"
+				}
+			],
+			"type": "Paragraph",
+			"value": [
+				{
+					"reference": "https://www.thermoworks.com/TW-Spatula?browse_eid=f0918103-3162-4fdb-930b-be4e5ad22712?tw=GIZMODOMEDIAGROUP",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "40% Off Spatula-Palooza"
+						}
+					]
+				},
+				{
+					"styles": [
+						"Bold"
+					],
+					"type": "Text",
+					"value": " "
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "| ThermoWorks"
+				}
+			]
+		},
+		{
+			"containers": [
+				{
+					"style": "Commerce",
+					"type": "List"
+				}
+			],
+			"type": "Paragraph",
+			"value": [
+				{
+					"reference": "https://home.woot.com/offers/west-bend-stir-crazy-popcorn-maker",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "West Bend Stir Crazy Popcorn Maker"
+						},
+						{
+							"styles": [],
+							"type": "Text",
+							"value": " | "
+						},
+						{
+							"styles": [
+								"Italic"
+							],
+							"type": "Text",
+							"value": "$27"
+						}
+					]
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": " | Woot"
+				}
+			]
+		},
+		{
+			"containers": [
+				{
+					"style": "Commerce",
+					"type": "List"
+				}
+			],
+			"type": "Paragraph",
+			"value": [
+				{
+					"reference": "https://www.homedepot.com/p/Basic-Essentials-3-Piece-Cutting-Board-Set-TPT-V1480/309140195",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "Basic Essentials 3-Piece Cutting Board Set"
+						},
+						{
+							"styles": [],
+							"type": "Text",
+							"value": " | "
+						},
+						{
+							"styles": [
+								"Italic"
+							],
+							"type": "Text",
+							"value": "$6"
+						}
+					]
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": " | Home Depot"
+				}
+			]
+		},
+		{
+			"level": 4,
+			"containers": [],
+			"alignment": "Left",
+			"type": "Header",
+			"value": [
+				{
+					"reference": "https://deals.kinja.com/c/home-deals/tools",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "Tools"
+						}
+					]
+				},
+				{
+					"styles": [
+						"Bold"
+					],
+					"type": "Text",
+					"value": " & "
+				},
+				{
+					"reference": "https://deals.kinja.com/c/home-deals/auto",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "Auto"
+						}
+					]
+				}
+			]
+		},
+		{
+			"containers": [
+				{
+					"style": "Commerce",
+					"type": "List"
+				}
+			],
+			"type": "Paragraph",
+			"value": [
+				{
+					"reference": "https://www.lowes.com/pd/CRAFTSMAN-VERSASTACK-V20-4-Tool-20-volt-Max-Power-Tool-Combo-Kit-with-Hard-Case-Charger-Included-and-2-Batteries-Included/1000769730",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "CRAFTSMAN V20 4-Tool Max Power Combo Kit with Versastack Hard Case (Charger and 2-Batteries Included)"
+						},
+						{
+							"styles": [],
+							"type": "Text",
+							"value": " | "
+						},
+						{
+							"styles": [
+								"Italic"
+							],
+							"type": "Text",
+							"value": "$169"
+						}
+					]
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": " | Lowes"
+				}
+			]
+		},
+		{
+			"containers": [
+				{
+					"style": "Commerce",
+					"type": "List"
+				}
+			],
+			"type": "Paragraph",
+			"value": [
+				{
+					"reference": "https://www.lowes.com/pl/Save-On-Select-Craftsman/829367674",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "Up to 25% Off Select Craftsman Tools and Tool Storage"
+						}
+					]
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": " | Lowes"
+				}
+			]
+		},
+		{
+			"containers": [
+				{
+					"style": "Commerce",
+					"type": "List"
+				}
+			],
+			"type": "Paragraph",
+			"value": [
+				{
+					"reference": "http://www.amazon.com/dp/B00A8DXKXS/?tag=kinjadeals-20&kinja_price=13",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "WEN 2307 Variable Speed Rotary Tool Kit with 100-Piece Accessories"
+						},
+						{
+							"styles": [],
+							"type": "Text",
+							"value": " | "
+						},
+						{
+							"styles": [
+								"Italic"
+							],
+							"type": "Text",
+							"value": "$13"
+						}
+					]
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": " | Amazon"
+				}
+			]
+		},
+		{
+			"containers": [
+				{
+					"style": "Commerce",
+					"type": "List"
+				}
+			],
+			"type": "Paragraph",
+			"value": [
+				{
+					"reference": "https://www.homedepot.com/SpecialBuy/SpecialBuyOfTheDay",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "Up to 40% off Select Outdoor Power and Utility Vehicles"
+						}
+					]
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": " | Home Depot"
+				}
+			]
+		},
+		{
+			"containers": [
+				{
+					"style": "Commerce",
+					"type": "List"
+				}
+			],
+			"type": "Paragraph",
+			"value": [
+				{
+					"reference": "https://www.ebay.com/itm/WG625-20V-MaxLithium-Hydroshot-Cordless-Portable-Power-Cleaner/392304366062",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "WG625 20V MaxLithium Hydroshot Cordless Portable Power Cleaner "
+						},
+						{
+							"styles": [],
+							"type": "Text",
+							"value": "| "
+						},
+						{
+							"styles": [
+								"Italic"
+							],
+							"type": "Text",
+							"value": "$40"
+						}
+					]
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": " | eBay"
+				}
+			]
+		},
+		{
+			"containers": [
+				{
+					"style": "Commerce",
+					"type": "List"
+				}
+			],
+			"type": "Paragraph",
+			"value": [
+				{
+					"reference": "https://www.homedepot.com/p/Massimo-T-Boss-410-4WD-352-cc-UTV-in-Red-T-BOSS410-RED/309737725",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "Massimo T-Boss 410 4WD 352 cc UTV"
+						},
+						{
+							"styles": [],
+							"type": "Text",
+							"value": " | "
+						},
+						{
+							"styles": [
+								"Italic"
+							],
+							"type": "Text",
+							"value": "$6499"
+						}
+					]
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": " | Home Depot"
+				}
+			]
+		},
+		{
+			"level": 4,
+			"containers": [],
+			"alignment": "Left",
+			"type": "Header",
+			"value": [
+				{
+					"reference": "https://deals.kinja.com/c/home-deals/travel",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "Travel"
+						}
+					]
+				}
+			]
+		},
+		{
+			"containers": [
+				{
+					"style": "Commerce",
+					"type": "List"
+				}
+			],
+			"type": "Paragraph",
+			"value": [
+				{
+					"reference": "https://www.ebay.com/itm/Samsonite-Spettro-25-Spinner-Luggage/123884489089",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "Samsonite Spettro 25\" Spinner Luggage"
+						},
+						{
+							"styles": [],
+							"type": "Text",
+							"value": " | "
+						},
+						{
+							"styles": [
+								"Italic"
+							],
+							"type": "Text",
+							"value": "$80"
+						}
+					]
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": " | eBay"
+				}
+			]
+		},
+		{
+			"level": 3,
+			"icon": "Lifestyle",
+			"containers": [],
+			"alignment": "Left",
+			"type": "Header",
+			"value": [
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "LIFESTYLE"
+				}
+			]
+		},
+		{
+			"level": 4,
+			"containers": [],
+			"alignment": "Left",
+			"type": "Header",
+			"value": [
+				{
+					"reference": "https://deals.kinja.com/c/lifestyle-deals/apparel",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "Apparel"
+						}
+					]
+				}
+			]
+		},
+		{
+			"containers": [
+				{
+					"style": "Commerce",
+					"type": "List"
+				}
+			],
+			"type": "Paragraph",
+			"value": [
+				{
+					"reference": "https://www.amazon.com/gp/mpc/A1ASPLZSECLRHU?ie=UTF8&_encoding=UTF8",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "Bruno Marc Shoes"
+						},
+						{
+							"styles": [],
+							"type": "Text",
+							"value": " | "
+						},
+						{
+							"styles": [
+								"Italic"
+							],
+							"type": "Text",
+							"value": "$15"
+						}
+					]
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": " | Amazon | Use code 60W6UQAM"
+				}
+			]
+		},
+		{
+			"containers": [
+				{
+					"style": "Commerce",
+					"type": "List"
+				}
+			],
+			"type": "Paragraph",
+			"value": [
+				{
+					"reference": "https://publicrec.com/",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "10% Off Your Order"
+						}
+					]
+				},
+				{
+					"styles": [
+						"Bold"
+					],
+					"type": "Text",
+					"value": " "
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "| Public Rec | Promo code "
+				},
+				{
+					"styles": [
+						"Bold"
+					],
+					"type": "Text",
+					"value": "KINJA10"
+				}
+			]
+		},
+		{
+			"containers": [
+				{
+					"style": "Commerce",
+					"type": "List"
+				}
+			],
+			"type": "Paragraph",
+			"value": [
+				{
+					"reference": "https://www.columbia.com/web_specials/",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "60% Off Select Styles"
+						}
+					]
+				},
+				{
+					"styles": [
+						"Bold"
+					],
+					"type": "Text",
+					"value": " "
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "| Columbia | Promo code SAVEONDEALS"
+				}
+			]
+		},
+		{
+			"containers": [
+				{
+					"style": "Commerce",
+					"type": "List"
+				}
+			],
+			"type": "Paragraph",
+			"value": [
+				{
+					"reference": "https://www.forever21.com/us/shop/catalog/category/f21/sale_women",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "Extra 50% Off Sale Items, Plus 15% Off Your Entire Purchase"
+						}
+					]
+				},
+				{
+					"styles": [
+						"Bold"
+					],
+					"type": "Text",
+					"value": " "
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "| Forever 21 | Promo code FALLYALL"
+				},
+				{
+					"type": "LineBreak"
+				}
+			]
+		},
+		{
+			"containers": [
+				{
+					"style": "Commerce",
+					"type": "List"
+				}
+			],
+			"type": "Paragraph",
+			"value": [
+				{
+					"reference": "https://www.rei.com/rei-garage/product/163768/mountain-hardwear-canyon-shirt-mens",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "Mountain Hardwear Canyon Shirt - Men’s"
+						},
+						{
+							"styles": [],
+							"type": "Text",
+							"value": " | "
+						},
+						{
+							"styles": [
+								"Italic"
+							],
+							"type": "Text",
+							"value": "$27"
+						}
+					]
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": " | REI"
+				}
+			]
+		},
+		{
+			"containers": [
+				{
+					"style": "Commerce",
+					"type": "List"
+				}
+			],
+			"type": "Paragraph",
+			"value": [
+				{
+					"reference": "https://www.nordstromrack.com/events/310247",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "Men’s"
+						}
+					]
+				},
+				{
+					"styles": [
+						"Bold"
+					],
+					"type": "Text",
+					"value": " and "
+				},
+				{
+					"reference": "https://www.nordstromrack.com/events/319961",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "Women’s Joe’s Jeans Flash Sales"
+						}
+					]
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": " | Nordstrom Rack"
+				}
+			]
+		},
+		{
+			"containers": [
+				{
+					"style": "Commerce",
+					"type": "List"
+				}
+			],
+			"type": "Paragraph",
+			"value": [
+				{
+					"reference": "https://www.originalpenguin.com/collections/exclusives#utm_source=Publisher",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "Fall Savings Event "
+						}
+					]
+				},
+				{
+					"styles": [
+						"Bold"
+					],
+					"type": "Text",
+					"value": "|"
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": " Original Penguin | Promo code OP10"
+				}
+			]
+		},
+		{
+			"level": 4,
+			"containers": [],
+			"alignment": "Left",
+			"type": "Header",
+			"value": [
+				{
+					"reference": "https://deals.kinja.com/c/lifestyle-deals/beauty",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "Beauty"
+						}
+					]
+				},
+				{
+					"styles": [
+						"Bold"
+					],
+					"type": "Text",
+					"value": " & "
+				},
+				{
+					"reference": "https://deals.kinja.com/c/lifestyle-deals/grooming",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "Grooming"
+						}
+					]
+				}
+			]
+		},
+		{
+			"containers": [
+				{
+					"style": "Commerce",
+					"type": "List"
+				}
+			],
+			"type": "Paragraph",
+			"value": [
+				{
+					"reference": "https://www.bestbuy.com/site/conair-true-glow-sonic-facial-brush-pink/6356369.p?skuId=6356369",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "Conair - True Glow Sonic Facial Brush"
+						},
+						{
+							"styles": [],
+							"type": "Text",
+							"value": " | "
+						},
+						{
+							"styles": [
+								"Italic"
+							],
+							"type": "Text",
+							"value": "$40"
+						}
+					]
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": " | Best Buy"
+				}
+			]
+		},
+		{
+			"containers": [
+				{
+					"style": "Commerce",
+					"type": "List"
+				}
+			],
+			"type": "Paragraph",
+			"value": [
+				{
+					"reference": "http://www.butterlondon.com/Collections/Best-Sellers/",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "30% Off Sale Items"
+						}
+					]
+				},
+				{
+					"styles": [
+						"Bold"
+					],
+					"type": "Text",
+					"value": " "
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "| Butter London | Promo code 30SALE"
+				}
+			]
+		},
+		{
+			"level": 4,
+			"containers": [],
+			"alignment": "Left",
+			"type": "Header",
+			"value": [
+				{
+					"reference": "https://deals.kinja.com/c/lifestyle-deals/camping-outdoors",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "Camping & Outdoors"
+						}
+					]
+				}
+			]
+		},
+		{
+			"containers": [
+				{
+					"style": "Commerce",
+					"type": "List"
+				}
+			],
+			"type": "Paragraph",
+			"value": [
+				{
+					"reference": "http://www.amazon.com/dp/B00TI8GSDI/?tag=kinjadeals-20&kinja_price=8",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "Energizer LED Headlamp Flashlight"
+						},
+						{
+							"styles": [],
+							"type": "Text",
+							"value": " | "
+						},
+						{
+							"styles": [
+								"Italic"
+							],
+							"type": "Text",
+							"value": "$8"
+						}
+					]
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": " | Amazon"
+				}
+			]
+		},
+		{
+			"level": 4,
+			"containers": [],
+			"alignment": "Left",
+			"type": "Header",
+			"value": [
+				{
+					"reference": "https://deals.kinja.com/c/lifestyle-deals/fitness",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "Fitness"
+						}
+					]
+				}
+			]
+		},
+		{
+			"containers": [
+				{
+					"style": "Commerce",
+					"type": "List"
+				}
+			],
+			"type": "Paragraph",
+			"value": [
+				{
+					"reference": "http://www.amazon.com/dp/B00J9AANLS/?tag=kinjadeals-20&kinja_price=18",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "Yes4All Exercise Foam Pad L"
+						},
+						{
+							"styles": [],
+							"type": "Text",
+							"value": " | "
+						},
+						{
+							"styles": [
+								"Italic"
+							],
+							"type": "Text",
+							"value": "$18"
+						}
+					]
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": " | Amazon"
+				}
+			]
+		},
+		{
+			"containers": [
+				{
+					"style": "Commerce",
+					"type": "List"
+				}
+			],
+			"type": "Paragraph",
+			"value": [
+				{
+					"reference": "https://www.amazon.com/Massager-Shoulders-Kneading-Lightweight-Flexible/dp/B077ZZLVD3/?kinja_price=34&kinja_promocode=ZAIEWFFE",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "Mynt Shoulder Massager"
+						}
+					]
+				},
+				{
+					"styles": [
+						"Bold"
+					],
+					"type": "Text",
+					"value": " "
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "| "
+				},
+				{
+					"styles": [
+						"Italic"
+					],
+					"type": "Text",
+					"value": "$34"
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": " | Amazon | Promo code ZAIEWFFE"
+				},
+				{
+					"type": "LineBreak"
+				},
+				{
+					"reference": "https://www.amazon.com/Mynt-Shiatsu-Massage-Pillow-Heat/dp/B077ZV988C/ref=sr_1_3?keywords=mynt&qid=1566378521&s=hpc&sr=1-3&kinja_price=30&kinja_promocode=MUVPKH4J",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "Mynt Back Massaging Pillow"
+						}
+					]
+				},
+				{
+					"styles": [
+						"Bold"
+					],
+					"type": "Text",
+					"value": " |"
+				},
+				{
+					"styles": [
+						"Italic"
+					],
+					"type": "Text",
+					"value": " $30"
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": " | Amazon | Promo code MUVPKH4J"
+				},
+				{
+					"type": "LineBreak"
+				},
+				{
+					"reference": "https://www.amazon.com/Mynt-Cordless-Handheld-Percussion-Massager/dp/B077ZYMD3D/ref=sr_1_7?m=A30Z4R20ZS8JZH&s=merchant-items&ie=UTF8&qid=1532400149&sr=1-7&kinja_price=30&kinja_promocode=W2XSX678",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "Mynt Handheld Massager "
+						}
+					]
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "| "
+				},
+				{
+					"styles": [
+						"Italic"
+					],
+					"type": "Text",
+					"value": "$30 "
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "| Amazon | Promo code W2XSX678"
+				}
+			]
+		},
+		{
+			"level": 3,
+			"icon": "Multimedia",
+			"containers": [],
+			"alignment": "Left",
+			"type": "Header",
+			"value": [
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "MEDIA"
+				}
+			]
+		},
+		{
+			"level": 4,
+			"containers": [],
+			"alignment": "Left",
+			"type": "Header",
+			"value": [
+				{
+					"reference": "https://deals.kinja.com/c/media-deals/tv-movies",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "Movies & TV"
+						}
+					]
+				}
+			]
+		},
+		{
+			"level": 4,
+			"containers": [],
+			"alignment": "Left",
+			"type": "Header",
+			"value": [
+				{
+					"reference": "https://deals.kinja.com/c/media-deals/books-comics",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "Books & Comics"
+						}
+					]
+				}
+			]
+		},
+		{
+			"containers": [
+				{
+					"style": "Commerce",
+					"type": "List"
+				}
+			],
+			"type": "Paragraph",
+			"value": [
+				{
+					"reference": "https://storybundle.com/vampires",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "Storybundle The Vampires! DRM-Free eBook Bundle"
+						},
+						{
+							"styles": [],
+							"type": "Text",
+							"value": " | "
+						},
+						{
+							"styles": [
+								"Italic"
+							],
+							"type": "Text",
+							"value": "$15"
+						}
+					]
+				}
+			]
+		},
+		{
+			"level": 4,
+			"containers": [],
+			"alignment": "Left",
+			"type": "Header",
+			"value": [
+				{
+					"reference": "https://deals.kinja.com/c/media-deals/gift-cards",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "Gift Cards"
+						}
+					]
+				}
+			]
+		},
+		{
+			"level": 3,
+			"icon": "Gaming",
+			"containers": [],
+			"alignment": "Left",
+			"type": "Header",
+			"value": [
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "GAMING"
+				}
+			]
+		},
+		{
+			"level": 4,
+			"containers": [],
+			"alignment": "Left",
+			"type": "Header",
+			"value": [
+				{
+					"reference": "https://deals.kinja.com/c/gaming-deals/peripherals",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "Peripherals"
+						}
+					]
+				}
+			]
+		},
+		{
+			"containers": [
+				{
+					"style": "Commerce",
+					"type": "List"
+				}
+			],
+			"type": "Paragraph",
+			"value": [
+				{
+					"reference": "http://www.amazon.com/dp/B071Z8RZHG/?tag=kinjadeals-20&kinja_price=60",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "Logitech MX Master 2S Wireless Mouse"
+						},
+						{
+							"styles": [],
+							"type": "Text",
+							"value": " | "
+						},
+						{
+							"styles": [
+								"Italic"
+							],
+							"type": "Text",
+							"value": "$60"
+						}
+					]
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": " | Amazon"
+				}
+			]
+		},
+		{
+			"containers": [
+				{
+					"style": "Commerce",
+					"type": "List"
+				}
+			],
+			"type": "Paragraph",
+			"value": [
+				{
+					"reference": "http://www.amazon.com/dp/B014H2T84K/?tag=kinjadeals-20&kinja_price=150",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "ASTRO Gaming A40 TR Headset + MixAmp Pro TR for Xbox One (2017 Model)"
+						},
+						{
+							"styles": [],
+							"type": "Text",
+							"value": " | "
+						},
+						{
+							"styles": [
+								"Italic"
+							],
+							"type": "Text",
+							"value": "$150"
+						}
+					]
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": " | Amazon"
+				}
+			]
+		},
+		{
+			"containers": [
+				{
+					"style": "Commerce",
+					"type": "List"
+				}
+			],
+			"type": "Paragraph",
+			"value": [
+				{
+					"reference": "http://www.amazon.com/dp/B013P0K8OE/?tag=kinjadeals-20&kinja_price=50",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "Logitech G633 Artemis Spectrum – RGB 7.1 Dolby and DTS Headphone Surround Sound Gaming Headset"
+						},
+						{
+							"styles": [],
+							"type": "Text",
+							"value": " | "
+						},
+						{
+							"styles": [
+								"Italic"
+							],
+							"type": "Text",
+							"value": "$50"
+						}
+					]
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": " | Amazon"
+				}
+			]
+		},
+		{
+			"containers": [
+				{
+					"style": "Commerce",
+					"type": "List"
+				}
+			],
+			"type": "Paragraph",
+			"value": [
+				{
+					"reference": "http://www.amazon.com/dp/B0731CJ4ZJ/?tag=kinjadeals-20&kinja_price=45",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "RK ROYAL KLUDGE RK61 Wireless 60% Mechanical Gaming Keyboard"
+						},
+						{
+							"styles": [],
+							"type": "Text",
+							"value": " | "
+						},
+						{
+							"styles": [
+								"Italic"
+							],
+							"type": "Text",
+							"value": "$38"
+						}
+					]
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": " | Amazon | After 15% Off Coupon"
+				}
+			]
+		},
+		{
+			"containers": [
+				{
+					"style": "Commerce",
+					"type": "List"
+				}
+			],
+			"type": "Paragraph",
+			"value": [
+				{
+					"reference": "http://www.amazon.com/dp/B01MS4C5WX/?tag=kinjadeals-20&kinja_price=5",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "CORSAIR CH-9100020-WW - Cloth Mouse Pad "
+						},
+						{
+							"styles": [],
+							"type": "Text",
+							"value": "| "
+						},
+						{
+							"styles": [
+								"Italic"
+							],
+							"type": "Text",
+							"value": "$5"
+						}
+					]
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": " | Amazon"
+				}
+			]
+		},
+		{
+			"level": 4,
+			"containers": [],
+			"alignment": "Left",
+			"type": "Header",
+			"value": [
+				{
+					"reference": "https://deals.kinja.com/c/gaming-deals/pc-gaming",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "PC"
+						}
+					]
+				}
+			]
+		},
+		{
+			"containers": [
+				{
+					"style": "Commerce",
+					"type": "List"
+				}
+			],
+			"type": "Paragraph",
+			"value": [
+				{
+					"reference": "https://store.steampowered.com/app/605450/In_Death/",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "In Death"
+						},
+						{
+							"styles": [],
+							"type": "Text",
+							"value": " | "
+						},
+						{
+							"styles": [
+								"Italic"
+							],
+							"type": "Text",
+							"value": "$9"
+						}
+					]
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": " | Steam"
+				}
+			]
+		},
+		{
+			"level": 4,
+			"containers": [],
+			"alignment": "Left",
+			"type": "Header",
+			"value": [
+				{
+					"reference": "https://deals.kinja.com/c/gaming-deals/playstation-4",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "PlayStation 4"
+						}
+					]
+				}
+			]
+		},
+		{
+			"level": 4,
+			"containers": [],
+			"alignment": "Left",
+			"type": "Header",
+			"value": [
+				{
+					"reference": "https://deals.kinja.com/c/gaming-deals/xbox-one",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "Xbox One"
+						}
+					]
+				}
+			]
+		},
+		{
+			"level": 4,
+			"containers": [],
+			"alignment": "Left",
+			"type": "Header",
+			"value": [
+				{
+					"reference": "https://deals.kinja.com/c/gaming-deals/nintendo",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "Nintendo"
+						}
+					]
+				}
+			]
+		},
+		{
+			"containers": [
+				{
+					"style": "Commerce",
+					"type": "List"
+				}
+			],
+			"type": "Paragraph",
+			"value": [
+				{
+					"reference": "http://www.amazon.com/dp/B071JRMKBH/?tag=kinjadeals-20&kinja_price=20",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "Mario + Rabbids Kingdom Battle"
+						},
+						{
+							"styles": [],
+							"type": "Text",
+							"value": " | "
+						},
+						{
+							"styles": [
+								"Italic"
+							],
+							"type": "Text",
+							"value": "$20"
+						}
+					]
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": " | Amazon"
+				}
+			]
+		},
+		{
+			"containers": [
+				{
+					"style": "Commerce",
+					"type": "List"
+				}
+			],
+			"type": "Paragraph",
+			"value": [
+				{
+					"reference": "https://www.ebay.com/itm/Super-Mario-Maker-2-Nintendo-Switch-NEW/192966727763",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "Super Mario Maker 2"
+						}
+					]
+				},
+				{
+					"styles": [
+						"Bold"
+					],
+					"type": "Text",
+					"value": " "
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "| "
+				},
+				{
+					"styles": [
+						"Italic"
+					],
+					"type": "Text",
+					"value": "$47 "
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "| eBay"
+				}
+			]
+		},
+		{
+			"level": 4,
+			"containers": [],
+			"alignment": "Left",
+			"type": "Header",
+			"value": [
+				{
+					"reference": "https://deals.kinja.com/c/gaming-deals/toys-board-games",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "Toys & Board Games"
+						}
+					]
+				}
+			]
+		},
+		{
+			"containers": [
+				{
+					"style": "Commerce",
+					"type": "List"
+				}
+			],
+			"type": "Paragraph",
+			"value": [
+				{
+					"reference": "https://www.amazon.com/deal/74566f2e/ref=gbps_tit_s-5_0f49_74566f2e?showVariations=false&smid=AT4EEBAGS93LR&pf_rd_p=56beed47-26cb-401c-95f5-738a157f0f49&pf_rd_s=slot-5&pf_rd_t=701&pf_rd_i=gb_main&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=H7ZWPXKAX15MHHB2XZ9B",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "Save up to 30% off Brickyard Building Blocks and More"
+						}
+					]
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": " | Amazon"
+				}
+			]
+		},
+		{
+			"containers": [
+				{
+					"style": "Commerce",
+					"type": "List"
+				}
+			],
+			"type": "Paragraph",
+			"value": [
+				{
+					"reference": "http://www.amazon.com/dp/B07C7DQCZG/?tag=kinjadeals-20&kinja_price=100",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "Star Wars The Black Series Mace Windu Ep3 Force FX Lightsaber"
+						},
+						{
+							"styles": [],
+							"type": "Text",
+							"value": " | "
+						},
+						{
+							"styles": [
+								"Italic"
+							],
+							"type": "Text",
+							"value": "$100"
+						}
+					]
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": " | Amazon"
+				}
+			]
+		},
+		{
+			"containers": [
+				{
+					"style": "Commerce",
+					"type": "List"
+				}
+			],
+			"type": "Paragraph",
+			"value": [
+				{
+					"reference": "http://www.amazon.com/dp/B07BKQXCZR/?tag=kinjadeals-20&kinja_price=12",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "LEGO Fantastic Beasts: The Crimes of Grindelwald (132 Pieces)"
+						},
+						{
+							"styles": [],
+							"type": "Text",
+							"value": " | "
+						},
+						{
+							"styles": [
+								"Italic"
+							],
+							"type": "Text",
+							"value": "$12"
+						}
+					]
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": " | Amazon"
+				}
+			]
+		},
+		{
+			"containers": [
+				{
+					"style": "Commerce",
+					"type": "List"
+				}
+			],
+			"type": "Paragraph",
+			"value": [
+				{
+					"reference": "http://www.amazon.com/dp/B075RFBKNS/?tag=kinjadeals-20&kinja_price=10",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "LEGO Creator 3in1 Mythical Creatures 31073 Building Kit (223 Pieces)"
+						},
+						{
+							"styles": [],
+							"type": "Text",
+							"value": " | "
+						},
+						{
+							"styles": [
+								"Italic"
+							],
+							"type": "Text",
+							"value": "$10"
+						}
+					]
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": " | Amazon"
+				}
+			]
+		},
+		{
+			"containers": [
+				{
+					"style": "Commerce",
+					"type": "List"
+				}
+			],
+			"type": "Paragraph",
+			"value": [
+				{
+					"reference": "http://www.amazon.com/dp/B01KKTN9J4/?tag=kinjadeals-20&kinja_price=30",
+					"type": "Link",
+					"value": [
+						{
+							"styles": [
+								"Bold"
+							],
+							"type": "Text",
+							"value": "LEGO City Police Mobile Command Center Truck 60139 Building Toy (374 Pieces)"
+						},
+						{
+							"styles": [],
+							"type": "Text",
+							"value": " | "
+						},
+						{
+							"styles": [
+								"Italic"
+							],
+							"type": "Text",
+							"value": "$30"
+						}
+					]
+				},
+				{
+					"styles": [],
+					"type": "Text",
+					"value": " | Amazon"
+				}
+			]
+		},
+		{
+			"level": 3,
+			"icon": "Top",
+			"containers": [],
+			"alignment": "Left",
+			"type": "Header",
+			"value": [
+				{
+					"styles": [],
+					"type": "Text",
+					"value": "Deals You May Have Missed"
+				}
+			]
+		}
+	],
+	"approved": true,
+	"starterId": 1838246980,
+	"isRoundup": false,
+	"isBlip": false,
+	"id": 1838246980,
+	"isFeatured": false,
+	"aboveHeadline": null,
+	"images": [
+		{
+			"id": "yhw6ojfbvpksi2gam7vf",
+			"width": 1280,
+			"height": 720,
+			"format": "jpg"
+		},
+		{
+			"id": "cmawjid1zyx8qlzg9xvv",
+			"width": 1280,
+			"height": 720,
+			"format": "jpg"
+		},
+		{
+			"id": "urcaaiwm8j96jmux9obj",
+			"width": 1280,
+			"height": 720,
+			"format": "jpg"
+		},
+		{
+			"id": "wnrhnby2bixj1gfyvq9j",
+			"width": 1280,
+			"height": 720,
+			"format": "jpg"
+		},
+		{
+			"id": "mqatacyicedqpl11tv9x",
+			"width": 1280,
+			"height": 720,
+			"format": "jpg"
+		},
+		{
+			"id": "ockb94mg5syzovxj5kx8",
+			"width": 800,
+			"height": 450,
+			"format": "gif"
+		},
+		{
+			"id": "u4ib84sp0eo2jz2rsgxm",
+			"width": 1280,
+			"height": 720,
+			"format": "jpg"
+		},
+		{
+			"id": "zdlrovfe1kdn5hftp2gd",
+			"width": 1280,
+			"height": 720,
+			"format": "jpg"
+		},
+		{
+			"id": "mskxavvg7pbglfqwzu8l",
+			"width": 1280,
+			"height": 720,
+			"format": "jpg"
+		},
+		{
+			"id": "w3vzsvxekejqvkwkkc9j",
+			"width": 1280,
+			"height": 720,
+			"format": "jpg"
+		},
+		{
+			"id": "mvdfbuk5otmdrvokroat",
+			"width": 1280,
+			"height": 720,
+			"format": "jpg"
+		},
+		{
+			"id": "rpfyjbylcgw5terqqoq0",
+			"width": 1280,
+			"height": 720,
+			"format": "jpg"
+		},
+		{
+			"id": "nt8kyblxwyxn0rpxlzmb",
+			"width": 2178,
+			"height": 1086,
+			"format": "png"
+		},
+		{
+			"id": "afkytmk4sezsv2xugp8y",
+			"width": 1280,
+			"height": 720,
+			"format": "jpg"
+		},
+		{
+			"id": "ae6odjdxll9d6shzimln",
+			"width": 1280,
+			"height": 720,
+			"format": "jpg"
+		},
+		{
+			"id": "vhbzgvgnvxcqmrjl55ko",
+			"width": 1280,
+			"height": 720,
+			"format": "jpg"
+		},
+		{
+			"id": "wqxlnzjq6vwayp1cpsyg",
+			"width": 1280,
+			"height": 720,
+			"format": "jpg"
+		},
+		{
+			"id": "ak3axt43dkp8cd4mavbx",
+			"width": 1497,
+			"height": 840,
+			"format": "jpg"
+		},
+		{
+			"id": "su9sy2tt6afqu8jx57yn",
+			"width": 1500,
+			"height": 843,
+			"format": "jpg"
+		},
+		{
+			"id": "ryqn6mxemd1g7aiaj5t3",
+			"width": 1010,
+			"height": 606,
+			"format": "png"
+		},
+		{
+			"id": "geitc3my8wrltbhfgrsl",
+			"width": 1934,
+			"height": 1088,
+			"format": "png"
+		},
+		{
+			"id": "kbjv3qftjaxre1g8uc6z",
+			"width": 1280,
+			"height": 720,
+			"format": "jpg"
+		},
+		{
+			"id": "avsrpdyda9wuoygvu754",
+			"width": 1280,
+			"height": 720,
+			"format": "jpg"
+		},
+		{
+			"id": "hmavsvrjbbdyfvuc3kp4",
+			"width": 1280,
+			"height": 720,
+			"format": "jpg"
+		},
+		{
+			"id": "oomewmvyn7w9xtro1kyu",
+			"width": 1280,
+			"height": 720,
+			"format": "jpg"
+		},
+		{
+			"id": "fhedcvu2pz3kjhlil0da",
+			"width": 1280,
+			"height": 720,
+			"format": "jpg"
+		},
+		{
+			"id": "vocqit2bgsne0fixxuhz",
+			"width": 1280,
+			"height": 720,
+			"format": "jpg"
+		},
+		{
+			"id": "bzgbxhfx6rz98sqautbr",
+			"width": 1280,
+			"height": 720,
+			"format": "jpg"
+		},
+		{
+			"id": "n4zccicygjhbsx5mlynr",
+			"width": 1280,
+			"height": 720,
+			"format": "jpg"
+		},
+		{
+			"id": "d4snqsaktyclm2qmnti7",
+			"width": 1280,
+			"height": 720,
+			"format": "jpg"
+		},
+		{
+			"id": "uwadmp4634gyez5rqnxg",
+			"width": 1280,
+			"height": 720,
+			"format": "jpg"
+		},
+		{
+			"id": "lb59iczdqyogzafahrjv",
+			"width": 1280,
+			"height": 720,
+			"format": "jpg"
+		},
+		{
+			"id": "tsfpn9tywt0fo1wuv7ok",
+			"width": 1280,
+			"height": 720,
+			"format": "jpg"
+		},
+		{
+			"id": "zcfm7ctxhjj9tpbutds6",
+			"width": 1280,
+			"height": 720,
+			"format": "jpg"
+		},
+		{
+			"id": "dyfzye2y7de0labtcdkg",
+			"width": 1280,
+			"height": 720,
+			"format": "jpg"
+		},
+		{
+			"id": "l7qbwckiftcdepu3w0v7",
+			"width": 1280,
+			"height": 720,
+			"format": "jpg"
+		},
+		{
+			"id": "sqorf1sfkzh6ll3fzh7z",
+			"width": 1280,
+			"height": 720,
+			"format": "jpg"
+		},
+		{
+			"id": "fymkltzcwi6u8f94lhzf",
+			"width": 1280,
+			"height": 720,
+			"format": "jpg"
+		},
+		{
+			"id": "e9w5seetlav7wk0ufnwx",
+			"width": 744,
+			"height": 272,
+			"format": "jpg"
+		},
+		{
+			"id": "io2hiwldjohyzgqkuf9v",
+			"width": 1232,
+			"height": 228,
+			"format": "png"
+		},
+		{
+			"id": "buech41qh4mq0rhhubrr",
+			"width": 1280,
+			"height": 720,
+			"format": "jpg"
+		},
+		{
+			"id": "lwdkw882otgpizsq7zyz",
+			"width": 1280,
+			"height": 720,
+			"format": "jpg"
+		},
+		{
+			"id": "fbkqcdym3upvsqki2cb3",
+			"width": 1280,
+			"height": 720,
+			"format": "jpg"
+		},
+		{
+			"id": "kjrdx83xwvvz19irby7z",
+			"width": 1280,
+			"height": 720,
+			"format": "jpg"
+		},
+		{
+			"id": "ckbxmgrlzcvq8hxjsxvh",
+			"width": 1280,
+			"height": 720,
+			"format": "jpg"
+		},
+		{
+			"id": "y9xgnyes0ndftd826gok",
+			"width": 1280,
+			"height": 720,
+			"format": "jpg"
+		},
+		{
+			"id": "xtcphuuwa1xjdd6kl3hs",
+			"width": 1280,
+			"height": 720,
+			"format": "jpg"
+		},
+		{
+			"id": "fn3cmhod8bzuovqgplzf",
+			"width": 1280,
+			"height": 720,
+			"format": "jpg"
+		},
+		{
+			"id": "aeczh9kfle0qwik81ycz",
+			"width": 1280,
+			"height": 720,
+			"format": "jpg"
+		},
+		{
+			"id": "po8raqjrzpqfout2qns9",
+			"width": 1280,
+			"height": 720,
+			"format": "jpg"
+		},
+		{
+			"id": "wbrhuyjcjnq04a8yhev8",
+			"width": 1280,
+			"height": 720,
+			"format": "jpg"
+		},
+		{
+			"id": "wcn7gnhcmqw3rp4puo93",
+			"width": 1280,
+			"height": 720,
+			"format": "jpg"
+		},
+		{
+			"id": "kiezghcqzgw3b9n5836q",
+			"width": 1618,
+			"height": 911,
+			"format": "jpg"
+		},
+		{
+			"id": "bpt6qwkpxjuuo1w6ser7",
+			"width": 1500,
+			"height": 843,
+			"format": "jpg"
+		},
+		{
+			"id": "ghrdwqprwmvd2glrxepx",
+			"width": 1280,
+			"height": 720,
+			"format": "jpg"
+		},
+		{
+			"id": "jsgwqp2i8shx6xarzoca",
+			"width": 1280,
+			"height": 720,
+			"format": "jpg"
+		},
+		{
+			"id": "w8t3ndec6huqi5t86tba",
+			"width": 2515,
+			"height": 1416,
+			"format": "png"
+		},
+		{
+			"id": "g6dklcpynyffxakkqdkj",
+			"width": 1280,
+			"height": 720,
+			"format": "jpg"
+		},
+		{
+			"id": "ezvla5ubjcg1bhrbrttx",
+			"width": 1280,
+			"height": 720,
+			"format": "jpg"
+		},
+		{
+			"id": "naqlopo1ash2jfzmxhil",
+			"width": 1280,
+			"height": 720,
+			"format": "jpg"
+		},
+		{
+			"id": "rauioitua1muid3bhmo7",
+			"width": 1280,
+			"height": 720,
+			"format": "jpg"
+		},
+		{
+			"id": "vqhqdu45tbgc8zogyrwt",
+			"width": 1280,
+			"height": 720,
+			"format": "jpg"
+		},
+		{
+			"id": "olvq971qyricovqanpyj",
+			"width": 1280,
+			"height": 720,
+			"format": "jpg"
+		},
+		{
+			"id": "qjz9q2ztl2dlhp3u8ceq",
+			"width": 1280,
+			"height": 720,
+			"format": "jpg"
+		},
+		{
+			"id": "ryooasmibbe3zcgqno2d",
+			"width": 2718,
+			"height": 1529,
+			"format": "png"
+		},
+		{
+			"id": "foc2raask2fwmccfyvpj",
+			"width": 996,
+			"height": 560,
+			"format": "jpg"
+		},
+		{
+			"id": "xb5tmzsoxtn0mqcjhjul",
+			"width": 997,
+			"height": 562,
+			"format": "jpg"
+		},
+		{
+			"id": "osoi8nudrmfirnprxcfm",
+			"width": 1280,
+			"height": 720,
+			"format": "jpg"
+		},
+		{
+			"id": "iqkacfgams9klkapyz1r",
+			"width": 1280,
+			"height": 720,
+			"format": "jpg"
+		},
+		{
+			"id": "a7s0wih4vvej01n7bshw",
+			"width": 1280,
+			"height": 720,
+			"format": "jpg"
+		},
+		{
+			"id": "f0uacpm1bwyroafcln92",
+			"width": 1024,
+			"height": 538,
+			"format": "jpg"
+		},
+		{
+			"id": "ppdsmtfors4jgbcs95sv",
+			"width": 1027,
+			"height": 578,
+			"format": "png"
+		},
+		{
+			"id": "ax5yiezvwcobe0qhxyts",
+			"width": 1280,
+			"height": 720,
+			"format": "jpg"
+		},
+		{
+			"id": "vxyezihbinrlg7pqgrto",
+			"width": 846,
+			"height": 478,
+			"format": "png"
+		},
+		{
+			"id": "tbaee9gcwejjqmkcfyll",
+			"width": 1280,
+			"height": 720,
+			"format": "jpg"
+		},
+		{
+			"id": "oeidoh2h9of4los5ckq1",
+			"width": 1280,
+			"height": 720,
+			"format": "jpg"
+		}
+	],
+	"author": null,
+	"postId": 1838246980,
+	"mainMedia": null,
+	"tags": [
+		{
+			"canonical": "kinjadeals",
+			"urlName": "kinja-deals",
+			"displayName": "Kinja Deals"
+		},
+		{
+			"canonical": "deals",
+			"urlName": "deals",
+			"displayName": "Deals"
+		}
+	],
+	"permalinkHost": "https://kinjadeals.theinventory.com",
+	"permalinkPath": "/thursdays-best-deals-logitech-clearance-new-iphone-ac-1838246980",
+	"firstSentence": "A Logitech Gold Box, Wayfair Clearance Sale, and 1-Year Costco Gold Star Membership lead off Thursda",
+	"relatedPosts": [],
+	"showAuthorBio": true,
+	"permalink": "https://kinjadeals.theinventory.com/thursdays-best-deals-logitech-clearance-new-iphone-ac-1838246980",
+	"status": "PUBLISHED",
+	"authors": [],
+	"relatedModule": null,
+	"permalinkRedirect": null,
+	"timezone": "America/New_York",
+	"showByline": true,
+	"parentAuthorIds": [],
+	"salesAvatar": null,
+	"leftOfHeadline": {
+		"src": "UNUSED",
+		"isAnimated": false,
+		"id": "yhw6ojfbvpksi2gam7vf",
+		"width": 320,
+		"height": 180,
+		"format": "jpg",
+		"frozenFormat": "jpg",
+		"type": "image"
+	},
+	"lastUpdateTimeMillis": 1568919784930,
+	"sharingMainImage": {
+		"src": "UNUSED",
+		"isAnimated": false,
+		"id": "yhw6ojfbvpksi2gam7vf",
+		"width": 800,
+		"height": 450,
+		"format": "jpg",
+		"frozenFormat": "jpg"
+	},
+	"publishTimeMillis": 1568902500980,
+	"byline": "",
+	"headline": "Thursday&#39;s Best Deals: Logitech Clearance, New iPhone Accessories<i></i>, Costco Membership, and More",
+	"authorIds": [
+		"5876237249238655653",
+		"5876237249238321302",
+		"472972639",
+		"5876237249238355545",
+		"5727177402741770316"
+	],
+	"starter": null,
+	"defaultBlogId": 86286,
+	"length": 41739,
+	"isVideo": false,
+	"sponsored": false,
+	"plaintext": "A Logitech Gold Box, Wayfair Clearance Sale, and 1-Year Costco Gold Star Membership lead off Thursday’s best deals from around the web.",
+	"allowReplies": true,
+	"authorId": "5876237249238655653",
+	"parentId": null,
+	"sharedUrl": null,
+	"featuredMedia": null,
+	"properties": "{\"sharingMainImageSetInDistTools\":true,\"dropCapEnabled\":false,\"autoRepostDisabled\":false,\"impactHeader\":{}}"
+}

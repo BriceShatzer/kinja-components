@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Versioning/> should render 1`] = `
+<EnsureDefaultTheme>
+  <versioning__Wrapper>
+    <versioning__Title>
+      Versions
+    </versioning__Title>
+    <p>
+      Recovering a past version won't delete other saved versions.
+    </p>
+    <versioning__VersionList>
+      Loading...
+    </versioning__VersionList>
+    <versioning__BottomRow
+      className="flex-row flex-row--align-justify"
+    >
+      <versioning__CancelWrapper
+        className="flex-row__column"
+        leftAligned={false}
+      >
+        <Button
+          label="Cancel"
+          onClick={[Function]}
+          small={true}
+          weight="tertiary"
+        />
+      </versioning__CancelWrapper>
+    </versioning__BottomRow>
+  </versioning__Wrapper>
+</EnsureDefaultTheme>
+`;

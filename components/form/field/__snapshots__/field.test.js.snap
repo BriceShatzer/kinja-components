@@ -1,0 +1,478 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Field /> should render properly 1`] = `
+.c0 {
+  position: relative;
+  margin-bottom: 1.5rem;
+  display: block;
+  width: 100%;
+  max-width: 400px;
+}
+
+<Field>
+  <EnsureDefaultTheme>
+    <ThemeProvider
+      theme={[Function]}
+    >
+      <field__Wrapper
+        className="field"
+      >
+        <StyledComponent
+          className="field"
+          forwardedComponent={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": Array [],
+              "componentStyle": ComponentStyle {
+                "componentId": "field__Wrapper-sc-1k7q01z-0",
+                "isStatic": false,
+                "lastClassName": "c0",
+                "rules": Array [
+                  "position:relative;margin-bottom:1.5rem;display:block;width:100%;",
+                  [Function],
+                ],
+              },
+              "displayName": "field__Wrapper",
+              "foldedComponentIds": Array [],
+              "render": [Function],
+              "styledComponentId": "field__Wrapper-sc-1k7q01z-0",
+              "target": "label",
+              "toString": [Function],
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+        >
+          <label
+            className="field c0"
+          >
+            Hello
+          </label>
+        </StyledComponent>
+      </field__Wrapper>
+    </ThemeProvider>
+  </EnsureDefaultTheme>
+</Field>
+`;
+
+exports[`<Field /> should show an error when maximum character limit is reached 1`] = `
+.c1 {
+  position: absolute;
+  top: 0;
+  right: 0;
+  color: #CCC;
+}
+
+.c0 {
+  position: relative;
+  margin-bottom: 1.5rem;
+  display: block;
+  width: 100%;
+  max-width: 400px;
+}
+
+<Field
+  counter={true}
+  value="Value"
+>
+  <EnsureDefaultTheme>
+    <ThemeProvider
+      theme={[Function]}
+    >
+      <field__Wrapper
+        className="field"
+      >
+        <StyledComponent
+          className="field"
+          forwardedComponent={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": Array [],
+              "componentStyle": ComponentStyle {
+                "componentId": "field__Wrapper-sc-1k7q01z-0",
+                "isStatic": false,
+                "lastClassName": "c0",
+                "rules": Array [
+                  "position:relative;margin-bottom:1.5rem;display:block;width:100%;",
+                  [Function],
+                ],
+              },
+              "displayName": "field__Wrapper",
+              "foldedComponentIds": Array [],
+              "render": [Function],
+              "styledComponentId": "field__Wrapper-sc-1k7q01z-0",
+              "target": "label",
+              "toString": [Function],
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+        >
+          <label
+            className="field c0"
+          >
+            Hello
+            <Counter
+              value="Value"
+            >
+              <counter__Span>
+                <StyledComponent
+                  forwardedComponent={
+                    Object {
+                      "$$typeof": Symbol(react.forward_ref),
+                      "attrs": Array [],
+                      "componentStyle": ComponentStyle {
+                        "componentId": "counter__Span-sc-1euqtz3-0",
+                        "isStatic": false,
+                        "lastClassName": "c1",
+                        "rules": Array [
+                          "position:absolute;top:0;right:0;color:",
+                          [Function],
+                          ";",
+                        ],
+                      },
+                      "displayName": "counter__Span",
+                      "foldedComponentIds": Array [],
+                      "render": [Function],
+                      "styledComponentId": "counter__Span-sc-1euqtz3-0",
+                      "target": "span",
+                      "toString": [Function],
+                      "warnTooManyClasses": [Function],
+                      "withComponent": [Function],
+                    }
+                  }
+                  forwardedRef={null}
+                >
+                  <span
+                    className="c1"
+                  >
+                    5
+                  </span>
+                </StyledComponent>
+              </counter__Span>
+            </Counter>
+          </label>
+        </StyledComponent>
+      </field__Wrapper>
+    </ThemeProvider>
+  </EnsureDefaultTheme>
+</Field>
+`;
+
+exports[`<Field /> should show the counter 1`] = `
+.c1 {
+  position: absolute;
+  top: 0;
+  right: 0;
+  color: #CCC;
+}
+
+.c0 {
+  position: relative;
+  margin-bottom: 1.5rem;
+  display: block;
+  width: 100%;
+  max-width: 400px;
+}
+
+<Field
+  counter={true}
+  value="Value"
+>
+  <EnsureDefaultTheme>
+    <ThemeProvider
+      theme={[Function]}
+    >
+      <field__Wrapper
+        className="field"
+      >
+        <StyledComponent
+          className="field"
+          forwardedComponent={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": Array [],
+              "componentStyle": ComponentStyle {
+                "componentId": "field__Wrapper-sc-1k7q01z-0",
+                "isStatic": false,
+                "lastClassName": "c0",
+                "rules": Array [
+                  "position:relative;margin-bottom:1.5rem;display:block;width:100%;",
+                  [Function],
+                ],
+              },
+              "displayName": "field__Wrapper",
+              "foldedComponentIds": Array [],
+              "render": [Function],
+              "styledComponentId": "field__Wrapper-sc-1k7q01z-0",
+              "target": "label",
+              "toString": [Function],
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+        >
+          <label
+            className="field c0"
+          >
+            Hello
+            <Counter
+              value="Value"
+            >
+              <counter__Span>
+                <StyledComponent
+                  forwardedComponent={
+                    Object {
+                      "$$typeof": Symbol(react.forward_ref),
+                      "attrs": Array [],
+                      "componentStyle": ComponentStyle {
+                        "componentId": "counter__Span-sc-1euqtz3-0",
+                        "isStatic": false,
+                        "lastClassName": "c1",
+                        "rules": Array [
+                          "position:absolute;top:0;right:0;color:",
+                          [Function],
+                          ";",
+                        ],
+                      },
+                      "displayName": "counter__Span",
+                      "foldedComponentIds": Array [],
+                      "render": [Function],
+                      "styledComponentId": "counter__Span-sc-1euqtz3-0",
+                      "target": "span",
+                      "toString": [Function],
+                      "warnTooManyClasses": [Function],
+                      "withComponent": [Function],
+                    }
+                  }
+                  forwardedRef={null}
+                >
+                  <span
+                    className="c1"
+                  >
+                    5
+                  </span>
+                </StyledComponent>
+              </counter__Span>
+            </Counter>
+          </label>
+        </StyledComponent>
+      </field__Wrapper>
+    </ThemeProvider>
+  </EnsureDefaultTheme>
+</Field>
+`;
+
+exports[`<Field /> should show the error and hide the label 1`] = `
+.c0 {
+  position: relative;
+  margin-bottom: 1.5rem;
+  display: block;
+  width: 100%;
+  max-width: 400px;
+}
+
+.c1 {
+  font-size: 0.875rem;
+  -webkit-transition: color 0.2s ease-in-out;
+  transition: color 0.2s ease-in-out;
+  color: #7D7D7D;
+  line-height: 23px;
+  margin-bottom: -5px;
+  color: #EEB544;
+}
+
+<Field
+  error="Error"
+  label="Label"
+>
+  <EnsureDefaultTheme>
+    <ThemeProvider
+      theme={[Function]}
+    >
+      <field__Wrapper
+        className="field"
+      >
+        <StyledComponent
+          className="field"
+          forwardedComponent={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": Array [],
+              "componentStyle": ComponentStyle {
+                "componentId": "field__Wrapper-sc-1k7q01z-0",
+                "isStatic": false,
+                "lastClassName": "c0",
+                "rules": Array [
+                  "position:relative;margin-bottom:1.5rem;display:block;width:100%;",
+                  [Function],
+                ],
+              },
+              "displayName": "field__Wrapper",
+              "foldedComponentIds": Array [],
+              "render": [Function],
+              "styledComponentId": "field__Wrapper-sc-1k7q01z-0",
+              "target": "label",
+              "toString": [Function],
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+        >
+          <label
+            className="field c0"
+          >
+            Hello
+            <field_Error>
+              <StyledComponent
+                forwardedComponent={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": Array [],
+                    "componentStyle": ComponentStyle {
+                      "componentId": "field__Error-sc-1k7q01z-2",
+                      "isStatic": false,
+                      "lastClassName": "c1",
+                      "rules": Array [
+                        "font-size:0.875rem;transition:color 0.2s ease-in-out;color:",
+                        [Function],
+                        ";line-height:23px;margin-bottom:-5px;",
+                        "color:",
+                        [Function],
+                        ";",
+                      ],
+                    },
+                    "displayName": "field_Error",
+                    "foldedComponentIds": Array [
+                      "field__Label-sc-1k7q01z-1",
+                    ],
+                    "render": [Function],
+                    "styledComponentId": "field__Error-sc-1k7q01z-2",
+                    "target": "div",
+                    "toString": [Function],
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+              >
+                <div
+                  className="c1"
+                >
+                  Error
+                </div>
+              </StyledComponent>
+            </field_Error>
+          </label>
+        </StyledComponent>
+      </field__Wrapper>
+    </ThemeProvider>
+  </EnsureDefaultTheme>
+</Field>
+`;
+
+exports[`<Field /> should show the label when available 1`] = `
+.c0 {
+  position: relative;
+  margin-bottom: 1.5rem;
+  display: block;
+  width: 100%;
+  max-width: 400px;
+}
+
+.c1 {
+  font-size: 0.875rem;
+  -webkit-transition: color 0.2s ease-in-out;
+  transition: color 0.2s ease-in-out;
+  color: #7D7D7D;
+  line-height: 23px;
+  margin-bottom: -5px;
+}
+
+<Field
+  label="Label"
+>
+  <EnsureDefaultTheme>
+    <ThemeProvider
+      theme={[Function]}
+    >
+      <field__Wrapper
+        className="field"
+      >
+        <StyledComponent
+          className="field"
+          forwardedComponent={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": Array [],
+              "componentStyle": ComponentStyle {
+                "componentId": "field__Wrapper-sc-1k7q01z-0",
+                "isStatic": false,
+                "lastClassName": "c0",
+                "rules": Array [
+                  "position:relative;margin-bottom:1.5rem;display:block;width:100%;",
+                  [Function],
+                ],
+              },
+              "displayName": "field__Wrapper",
+              "foldedComponentIds": Array [],
+              "render": [Function],
+              "styledComponentId": "field__Wrapper-sc-1k7q01z-0",
+              "target": "label",
+              "toString": [Function],
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+        >
+          <label
+            className="field c0"
+          >
+            Hello
+            <field__Label>
+              <StyledComponent
+                forwardedComponent={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": Array [],
+                    "componentStyle": ComponentStyle {
+                      "componentId": "field__Label-sc-1k7q01z-1",
+                      "isStatic": false,
+                      "lastClassName": "c1",
+                      "rules": Array [
+                        "font-size:0.875rem;transition:color 0.2s ease-in-out;color:",
+                        [Function],
+                        ";line-height:23px;margin-bottom:-5px;",
+                      ],
+                    },
+                    "displayName": "field__Label",
+                    "foldedComponentIds": Array [],
+                    "render": [Function],
+                    "styledComponentId": "field__Label-sc-1k7q01z-1",
+                    "target": "div",
+                    "toString": [Function],
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+              >
+                <div
+                  className="c1"
+                >
+                  Label
+                </div>
+              </StyledComponent>
+            </field__Label>
+          </label>
+        </StyledComponent>
+      </field__Wrapper>
+    </ThemeProvider>
+  </EnsureDefaultTheme>
+</Field>
+`;

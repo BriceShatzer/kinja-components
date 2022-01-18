@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Modal /> starts 1`] = `
+<EnsureDefaultTheme>
+  <modal__Container
+    contentDirection="column"
+    fullscreen={true}
+    isLightbox={false}
+    isOpen={true}
+    onClose={[Function]}
+    onDragEnd={[Function]}
+    onDragEnter={[Function]}
+    onDragLeave={[Function]}
+    onDragOver={[Function]}
+    onDragStart={[Function]}
+    onDrop={[Function]}
+    onWheel={[Function]}
+  >
+    <modal__Close
+      onClick={[Function]}
+    >
+      <CloseIcon />
+    </modal__Close>
+    <modal__ChildrenWrapper
+      showChildren={true}
+    />
+  </modal__Container>
+  <modal__FullscreenContainer
+    animatedBackground={true}
+  />
+</EnsureDefaultTheme>
+`;

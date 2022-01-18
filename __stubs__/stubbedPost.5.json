@@ -1,0 +1,110 @@
+{
+  "id": 1820948143,
+  "headline": "Is it safe to eat deli meats with that metallic sheen?",
+  "isStarter": true,
+  "isFeatured": false,
+  "isVideo": false,
+  "allowReplies": true,
+  "replyCount": 0,
+  "status": "PUBLISHED",
+  "permalink": "https://thetakeout.com/is-it-safe-to-eat-deli-meats-with-that-metallic-sheen-1820948143",
+  "securePermalink": "https://thetakeout.com/is-it-safe-to-eat-deli-meats-with-that-metallic-sheen-1820948143",
+  "first100Characters": "In Food Science, Dave McCowan from the University Of Chicago’s Department Of Physics answers our con",
+  "firstSentence": "In Food Science, Dave McCowan from the University Of Chicago’s Department Of Physics answers our con",
+  "facebookImage": {
+    "src": "https://i.kinja-img.com/gawker-media/image/upload/s---vBfkizB--/c_fit,fl_progressive,q_80,w_636/zzc0kwpmt6arhkavcqaa.jpg",
+    "id": "zzc0kwpmt6arhkavcqaa",
+    "width": 636,
+    "height": 357,
+    "format": "jpg"
+  },
+  "twitterCardType": "summary_large_image",
+  "plaintext": "In Food Science, Dave McCowan from the University Of Chicago’s Department Of Physics answers our confounding questions about the mysterious world of food.\n",
+  "author": {
+    "id": "5876237249237173152",
+    "screenName": "ddmccowan",
+    "displayName": "David McCowan",
+    "avatar": {
+      "id": "lzjqtnq5pwb5bky7a7rd",
+      "format": "jpg"
+    }
+  },
+  "authorScreenName": "ddmccowan",
+  "byline": "",
+  "tags": [
+    {
+      "canonical": "foodscience",
+      "urlName": "food-science",
+      "displayName": "Food Science"
+    },
+    {
+      "canonical": "science",
+      "urlName": "science",
+      "displayName": "Science"
+    }
+  ],
+  "publishTimeMillis": 1512475200143,
+  "adZone": "",
+  "adSenseDisabled": false,
+  "sponsored": false,
+  "doNotCrawl": false,
+  "defaultBlogId": "1636140418",
+  "images": [
+    {
+      "src": "https://i.kinja-img.com/gawker-media/image/upload/s---vBfkizB--/c_fit,fl_progressive,q_80,w_636/zzc0kwpmt6arhkavcqaa.jpg",
+      "id": "zzc0kwpmt6arhkavcqaa",
+      "width": 636,
+      "height": 357,
+      "format": "jpg",
+      "$el": {
+        "0": {
+          "_lazysizesWidth": 800
+        },
+        "length": 1,
+        "prevObject": {
+          "0": {},
+          "context": {},
+          "length": 1
+        },
+        "context": {},
+        "selector": "[data-chomp-id=\"zzc0kwpmt6arhkavcqaa\"]"
+      },
+      "type": "image"
+    }
+  ],
+  "videos": [],
+  "mainMedia": {
+    "id": "zzc0kwpmt6arhkavcqaa",
+    "format": "jpg",
+    "width": 2000,
+    "height": 1125,
+    "alignment": "Bleed",
+    "caption": [
+      {
+        "styles": [],
+        "value": "Illustration: Nicole Antonuccio",
+        "type": "Text"
+      }
+    ],
+    "type": "Image"
+  },
+  "qaParticipants": [],
+  "qaMembers": [],
+  "qaStatus": null,
+  "staffIncluded": false,
+  "hasFeaturedVideo": false,
+  "discussionSettings": null,
+  "storyType": {
+    "id": 600,
+    "blogId": 1636140418,
+    "canonical": "food-science",
+    "title": "Food Science",
+    "content": "Standard"
+  },
+  "socialHeadline": "Is it safe to eat deli meats with that metallic sheen?",
+  "gaDimensions": {
+    "wordCount": 1009,
+    "wordCountBucket": "1000 - 1200",
+    "gaVideoIds": ""
+  }
+}

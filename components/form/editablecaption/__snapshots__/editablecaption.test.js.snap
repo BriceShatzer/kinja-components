@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Editable Caption/> should render correctly 1`] = `
+<EnsureDefaultTheme>
+  <div
+    className="source"
+  >
+    <editablecaption__CaptionContainer
+      contentEditable={true}
+      dangerouslySetInnerHTML={
+        Object {
+          "__html": "Test input text",
+        }
+      }
+      onBlur={[Function]}
+      onInput={[Function]}
+    />
+    <editablecaption__FieldDescription
+      error={true}
+    >
+      Error Message
+    </editablecaption__FieldDescription>
+  </div>
+</EnsureDefaultTheme>
+`;

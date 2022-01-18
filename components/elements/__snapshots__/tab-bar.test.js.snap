@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tabs should render properly 1`] = `
+<EnsureDefaultTheme>
+  <tab-bar__TabsContainer>
+    <tab-bar__TabList
+      onChange={[MockFunction]}
+    >
+      <tab-bar__StyledTabItem
+        index={0}
+        key="Music"
+        label="Music"
+        selected={true}
+        value="Music"
+      />
+      <tab-bar__StyledTabItem
+        index={1}
+        key="Video"
+        label="Video"
+        selected={false}
+        value="Video"
+      />
+      <tab-bar__StyledTabItem
+        index={2}
+        key="Text"
+        label="Text"
+        selected={false}
+        value="Text"
+      />
+      <tab-bar__StyledTabItem
+        index={3}
+        key="Image"
+        label="Image"
+        selected={false}
+        value="Image"
+      />
+    </tab-bar__TabList>
+  </tab-bar__TabsContainer>
+</EnsureDefaultTheme>
+`;

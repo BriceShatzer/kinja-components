@@ -1,0 +1,222 @@
+{
+  "blog": {
+    "avatar": {
+      "format": "png",
+      "frozenFormat": "png",
+      "id": "eh1hvjxamru5z6aobgwc",
+      "isAnimated": false
+    },
+    "canonicalHost": "io9.gizmodo.com",
+    "displayName": "io9",
+    "hosts": [
+      "io9.com"
+    ],
+    "id": "8",
+    "name": "io9",
+    "properties": {
+      "aboutPostId": 5732042,
+      "adsTxtEnabled": false,
+      "blogGroup": "gizmodo",
+      "facebookPixelId": "852713628239858",
+      "facebookScreenName": "io9com",
+      "fbAppId": 44615671688,
+      "googleAnalyticsID": "UA-142218-3",
+      "googleSiteVerification": "Y4KzRYvFDIszZROrGQfpcKGpEMqT5ncYtgHhRW8D7P0",
+      "instagramScreenName": "gizmodo",
+      "isGmgBlog": true,
+      "mainColor": "#C34B9E",
+      "metaTitle": "We come from the future.",
+      "navigationGroup": "fmg",
+      "noindex": false,
+      "recircGroup": "fmgNonSatire",
+      "robotsAllowed": true,
+      "sourcepointDomain": "mms.gizmodo.com",
+      "template": "gizmodo",
+      "twitterScreenName": "@io9",
+      "youtubeUrl": "https://www.youtube.com/io9"
+    },
+    "status": "ENABLED",
+    "timezone": "America/New_York",
+    "timezoneOffset": -14400000
+  },
+  "index": 0,
+  "pageType": "categoryStream",
+  "post": {
+    "allowReplies": true,
+    "approved": true,
+    "author": {
+      "avatar": {
+        "format": "jpg",
+        "frozenFormat": "jpg",
+        "id": "hoxn9jxjxkncmtordfok",
+        "isAnimated": false
+      },
+      "displayName": "Beth Elderkin",
+      "id": "5876237249235885598",
+      "screenName": "bethelderkin",
+      "isSuperuser": false
+    },
+    "authorId": "5876237249235885598",
+    "authorIds": [
+      "5876237249235885598"
+    ],
+    "authors": [
+      {
+        "avatar": {
+          "format": "jpg",
+          "frozenFormat": "jpg",
+          "id": "hoxn9jxjxkncmtordfok",
+          "isAnimated": false
+        },
+        "displayName": "Beth Elderkin",
+        "id": "5876237249235885598",
+        "screenName": "bethelderkin",
+        "isSuperuser": false
+      }
+    ],
+    "blogIds": [],
+    "body": [
+      {
+        "containers": [],
+        "type": "Paragraph",
+        "value": [
+          {
+            "styles": [
+              "Italic"
+            ],
+            "type": "Text",
+            "value": "Avengers: Infinity War"
+          },
+          {
+            "styles": [],
+            "type": "Text",
+            "value": " is about our beloved superheroes protecting Infinity Stones from an all-powerful villain. But today, they war against some tiny box-shaped magnets that look eerily like Baby Mother Boxes. Just a coincidence, I’m sure! Check out this exclusive video from Backyard VFX artist Joey Shanks, all about what happens when the Avengers come across a truly unstoppable foe. It’s Practical Magic, everyone. "
+          },
+          {
+            "type": "LineBreak"
+          }
+        ]
+      }
+    ],
+    "bylineProperties": {
+      "byline": "",
+      "show": true
+    },
+    "category": "io9",
+    "categoryData": {
+      "canonicalName": "io9",
+      "id": "4984",
+      "image": null,
+      "parentId": null,
+      "valueDisplay": "io9"
+    },
+    "defaultBlogId": "8",
+    "featuredMedia": {
+      "alignment": "Bleed",
+      "caption": [],
+      "id": "3497028",
+      "thumbnail": {
+        "format": "jpg",
+        "id": "rau4in4yidwj5mgzotgc"
+      },
+      "isLooping": false,
+      "type": "KinjaVideo"
+    },
+    "headline": "Watch: <i>Avengers: Infinity War</i> Should Include Putty Avengers Chowing Down on Some Magnets",
+    "id": "1824082236",
+    "images": [],
+    "isFeatured": false,
+    "isVideo": true,
+    "largeOnStream": false,
+    "lastUpdateTimeMillis": 1522178101764,
+    "links": null,
+    "mainMedia": null,
+    "ownerId": null,
+    "parent": null,
+    "parentAuthorId": null,
+    "parentId": null,
+    "permalinkHost": "https://io9.gizmodo.com",
+    "permalinkPath": "/watch-avengers-infinity-war-should-include-putty-aven-1824082236",
+    "permalinkRedirect": null,
+    "plaintext": "Avengers: Infinity War is about our beloved superheroes protecting Infinity Stones from an all-powerful villain. But today, they war against some tiny box-shaped magnets that look eerily like Baby Mother Boxes. Just a coincidence, I’m sure! Check out this exclusive video from Backyard VFX artist Joey Shanks, all about what happens when the Avengers come across a truly unstoppable foe. It’s Practical Magic, everyone. ",
+    "properties": "{\"dropCapEnabled\":false,\"featuredHeaderLayout\":\"Default\",\"hideFromRss\":false,\"impactHeader\":{\"titleAlignment\":\"BottomLeft\",\"overlay\":\"Black\"}}",
+    "publishTimeMillis": 1522178100236,
+    "qaMembers": [],
+    "qaParticipants": [],
+    "staffIncluded": false,
+    "relatedModule": { "headline": "More Videos" },
+    "relatedPosts": [],
+    "salesAvatar": null,
+    "sharedUrl": null,
+    "showAuthorBio": true,
+    "sponsored": false,
+    "starter": null,
+    "starterId": "1824082236",
+    "status": "PUBLISHED",
+    "storyTypeId": 139,
+    "subcategory": "2018",
+    "subcategoryData": {
+      "canonicalName": "2018",
+      "id": "4985",
+      "image": null,
+      "parentId": "4984",
+      "valueDisplay": "2018"
+    },
+    "tags": [
+      {
+        "canonical": "video",
+        "displayName": "video",
+        "urlName": "video"
+      },
+      {
+        "canonical": "practicalmagic",
+        "displayName": "practical magic",
+        "urlName": "practical-magic"
+      },
+      {
+        "canonical": "vfx",
+        "displayName": "vfx",
+        "urlName": "vfx"
+      },
+      {
+        "canonical": "backyardvfx",
+        "displayName": "backyard vfx",
+        "urlName": "backyard-vfx"
+      },
+      {
+        "canonical": "avengers",
+        "displayName": "avengers",
+        "urlName": "avengers"
+      },
+      {
+        "canonical": "avengersinfinitywar",
+        "displayName": "avengers: infinity war",
+        "urlName": "avengers-infinity-war"
+      },
+      {
+        "canonical": "marvel",
+        "displayName": "marvel",
+        "urlName": "marvel"
+      },
+      {
+        "canonical": "mcu",
+        "displayName": "mcu",
+        "urlName": "mcu"
+      },
+      {
+        "canonical": "magnets",
+        "displayName": "magnets",
+        "urlName": "magnets"
+      }
+    ],
+    "timezone": "America/New_York",
+    "videos": []
+  },
+  "postBody": "<p><em>Avengers: Infinity War</em> is about our beloved superheroes protecting Infinity Stones from an all-powerful villain. But…</p>",
+  "storyType": {
+    "canonical": "movies",
+    "content": "Standard",
+    "path": "movies",
+    "title": "Movies"
+  }
+}

@@ -1,0 +1,54 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Items can be active 1`] = `
+<toolbar-item__ToolbarLink
+  className="active"
+  data-active={true}
+  onClick={[Function]}
+  role="button"
+  tabIndex={-1}
+  title="Test"
+>
+  test
+</toolbar-item__ToolbarLink>
+`;
+
+exports[`Items can be disabled 1`] = `
+<toolbar-item__ToolbarLink
+  className="disabled"
+  disabled={true}
+  onClick={[Function]}
+  role="button"
+  tabIndex={-1}
+  title="Test"
+>
+  test
+</toolbar-item__ToolbarLink>
+`;
+
+exports[`Items can render title 1`] = `
+<toolbar-item__ToolbarLink
+  className=""
+  onClick={[Function]}
+  role="button"
+  tabIndex={-1}
+  title="Test"
+>
+  test
+  <p>
+    Test
+  </p>
+</toolbar-item__ToolbarLink>
+`;
+
+exports[`Items should show their icon 1`] = `
+<toolbar-item__ToolbarLink
+  className=""
+  onClick={[Function]}
+  role="button"
+  tabIndex={-1}
+  title="Test"
+>
+  test
+</toolbar-item__ToolbarLink>
+`;

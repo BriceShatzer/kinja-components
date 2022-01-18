@@ -1,0 +1,2083 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ContentSummary /> renders with a non-Standard content type 1`] = `
+.c11 {
+  fill: currentColor;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c2 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0 {
+  display: block;
+  margin-top: 40px;
+  margin-bottom: 25px;
+  padding-bottom: calc(25px + 12px);
+  border-bottom: 1px solid #d4d4d4;
+  -webkit-flex-flow: column;
+  -ms-flex-flow: column;
+  flex-flow: column;
+  overflow: auto;
+}
+
+.c4 {
+  max-width: 250px;
+  height: calc(250px * 9 / 16);
+}
+
+.c3 {
+  display: block;
+  float: left;
+  border: 0 solid #CCC;
+  padding: 0;
+  margin-left: 0;
+  margin-right: 12px;
+  margin-bottom: 2px;
+  box-shadow: none;
+  color: #0A7BC2;
+  height: auto;
+}
+
+.c3.c3 a {
+  box-shadow: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c5 {
+  display: block;
+  margin-top: 0;
+  width: auto;
+}
+
+.c6 {
+  display: block;
+  font-family: ProximaNovaCond,sans-serif;
+  font-weight: 600;
+  font-size: 22px;
+  color: #222;
+  display: block;
+}
+
+.c6 a {
+  color: #222;
+  -webkit-transition: color 0.1s ease-out;
+  transition: color 0.1s ease-out;
+  box-shadow: inset 0 -2px 0 #0A7BC2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c6 a:hover {
+  color: #0A7BC2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c1 {
+  display: block;
+  font-family: ProximaNovaCond,sans-serif;
+  font-weight: 600;
+  font-size: 22px;
+  color: #222;
+  display: none;
+}
+
+.c1 a {
+  color: #222;
+  -webkit-transition: color 0.1s ease-out;
+  transition: color 0.1s ease-out;
+  box-shadow: inset 0 -2px 0 #0A7BC2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c1 a:hover {
+  color: #0A7BC2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c7 {
+  display: block;
+  font-style: italic;
+  font-size: 14px;
+  line-height: 24px;
+  font-family: ElizabethSerif,Georgia,serif;
+  margin-top: 5px;
+  padding-top: 1px;
+}
+
+.c7 a {
+  color: #0A7BC2;
+}
+
+.c8 {
+  display: block;
+  font-family: ProximaNovaCond,sans-serif;
+  font-size: 15px;
+  margin-top: 6px;
+  line-height: 18px;
+}
+
+.c8 span {
+  color: #7D7D7D;
+}
+
+.c8 a {
+  color: #222;
+  -webkit-transition: color 0.1s ease-out;
+  transition: color 0.1s ease-out;
+  box-shadow: inset 0 -2px 0 #0A7BC2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c8 a:hover {
+  color: #0A7BC2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c8 a span {
+  color: #000;
+}
+
+.c9 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin-left: 8px;
+  margin-bottom: 10px;
+}
+
+.c9:first-of-type {
+  margin-left: 0;
+}
+
+.c10 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  margin-left: -5px;
+}
+
+.c10 svg {
+  color: #000;
+}
+
+.c13 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  margin-right: -5px;
+}
+
+.c13 svg {
+  color: #000;
+}
+
+.c12 {
+  margin: 0 2px;
+}
+
+.c12 svg {
+  -webkit-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  transform: rotate(90deg);
+}
+
+@media only screen and (max-width:37.31em) {
+  .c0 {
+    margin: 0;
+    margin-bottom: 30px;
+    margin-top: 30px;
+  }
+}
+
+@media only screen and (max-width:37.31em) {
+  .c4 {
+    width: 100%;
+    height: auto;
+    max-width: 150px;
+    height: calc(150px * 9 / 16);
+  }
+}
+
+@media only screen and (max-width:37.31em) {
+  .c3 {
+    margin: 6px 18px 1px 0;
+    box-shadow: 0;
+  }
+}
+
+@media only screen and (max-width:37.31em) {
+  .c6 {
+    display: none;
+  }
+}
+
+@media only screen and (max-width:37.31em) {
+  .c1 {
+    display: block;
+    padding: 5px 0;
+  }
+}
+
+@media only screen and (max-width:37.31em) {
+  .c8 {
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-top: 10px;
+  }
+
+  .c8 > div {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+  }
+}
+
+@media only screen and (max-width:37.31em) {
+  .c9 {
+    margin-left: 0;
+    display: block;
+  }
+}
+
+<div
+  class="content-summary__SummaryBox c0"
+>
+  <span
+    class="c1"
+  >
+    <a
+      class="js_link c2"
+      data-ga="[[\\"\\",\\"click\\",\\"https://thetakeout.com/c/the-salty-waitress\\"]]"
+      href="https://thetakeout.com/c/the-salty-waitress"
+    >
+      The Salty Waitress
+    </a>
+  </span>
+  <span
+    class="c3"
+    title="The Salty Waitress"
+  >
+    <a
+      class="js_link c2"
+      data-ga="[[\\"\\",\\"click\\",\\"https://thetakeout.com/c/the-salty-waitress\\"]]"
+      href="https://thetakeout.com/c/the-salty-waitress"
+    >
+      <img
+        class="c4"
+        src="https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_180,q_80,w_320/vwppylx89l4ubmp3xcjc.jpg"
+      />
+    </a>
+  </span>
+  <span
+    class="c5"
+  >
+    <span
+      class="c6"
+    >
+      <a
+        href="https://thetakeout.com/c/the-salty-waitress"
+      >
+        The Salty Waitress
+      </a>
+    </span>
+    <span
+      class="c7"
+    >
+      Are you a server's worst nightmare without even knowing it? We're here to help.
+
+      <a
+        href="//thetakeout.com/c/the-salty-waitress"
+      >
+        The Salty Waitress
+      </a>
+       is The Takeout's advice column from a real-life waitress that
+will teach you how not to behave like a garbage person while dining out—and maybe
+in real life.
+    </span>
+    <div
+      class="content-summary__Pagination c8"
+    >
+      <div
+        class="c9"
+      >
+        <span
+          class="c10"
+        >
+          <span
+            class="c11"
+          >
+            <svg
+              aria-label="ChevronLeft icon"
+              height="18"
+              viewBox="0 0 18 18"
+              width="18"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M11.84 3.87a.5.5 0 1 0-.68-.74l-6 5.5a.5.5 0 0 0 0 .74l6 5.5a.5.5 0 1 0 .68-.74L6.24 9l5.6-5.13z"
+                fill-rule="evenodd"
+              />
+            </svg>
+          </span>
+          <a
+            class="js_link c2"
+            data-ga="[[\\"\\",\\"previous click\\",\\"https://tv.avclub.com/the-expanse-slows-down-and-looks-to-the-past-1826634833\\"]]"
+            href="https://tv.avclub.com/the-expanse-slows-down-and-looks-to-the-past-1826634833"
+          >
+            Prev
+          </a>
+        </span>
+        <span
+          class="c12"
+        >
+          <span
+            class="c11"
+          >
+            <svg
+              aria-label="Minus icon"
+              height="18"
+              viewBox="0 0 18 18"
+              width="18"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M2.5 9.5h13a.5.5 0 1 0 0-1h-13a.5.5 0 0 0 0 1z"
+                fill-rule="evenodd"
+              />
+            </svg>
+          </span>
+        </span>
+        <span
+          class="c13"
+        >
+          <a
+            class="js_link c2"
+            data-ga="[[\\"\\",\\"next click\\",\\"https://tv.avclub.com/the-expanse-slows-down-and-looks-to-the-past-1826634833\\"]]"
+            href="https://tv.avclub.com/the-expanse-slows-down-and-looks-to-the-past-1826634833"
+          >
+            Next
+          </a>
+          <span
+            class="c11"
+          >
+            <svg
+              aria-label="ChevronRight icon"
+              height="18"
+              viewBox="0 0 18 18"
+              width="18"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M6.16 14.13a.5.5 0 1 0 .68.74l6-5.5a.5.5 0 0 0 0-.74l-6-5.5a.5.5 0 1 0-.68.74L11.76 9l-5.6 5.13z"
+                fill-rule="evenodd"
+              />
+            </svg>
+          </span>
+        </span>
+      </div>
+      <div
+        class="c9"
+      >
+        <a
+          class="js_link c2"
+          data-ga="[[\\"\\",\\"category click\\",\\"https://thetakeout.com/c/the-salty-waitress/reviews\\"]]"
+          href="https://thetakeout.com/c/the-salty-waitress/reviews"
+        >
+          More Reviews
+        </a>
+        <span
+          class="c12"
+        >
+          <span
+            class="c11"
+          >
+            <svg
+              aria-label="Minus icon"
+              height="18"
+              viewBox="0 0 18 18"
+              width="18"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M2.5 9.5h13a.5.5 0 1 0 0-1h-13a.5.5 0 0 0 0 1z"
+                fill-rule="evenodd"
+              />
+            </svg>
+          </span>
+        </span>
+        <a
+          class="js_link c2"
+          data-ga="[[\\"\\",\\"story type click\\",\\"https://thetakeout.com/c/the-salty-waitress\\"]]"
+          href="https://thetakeout.com/c/the-salty-waitress"
+        >
+          All The Salty Waitress
+        </a>
+      </div>
+    </div>
+  </span>
+</div>
+`;
+
+exports[`<ContentSummary /> renders with an image 1`] = `
+.c11 {
+  fill: currentColor;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c2 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0 {
+  display: block;
+  margin-top: 40px;
+  margin-bottom: 25px;
+  padding-bottom: calc(25px + 12px);
+  border-bottom: 1px solid #d4d4d4;
+  -webkit-flex-flow: column;
+  -ms-flex-flow: column;
+  flex-flow: column;
+  overflow: auto;
+}
+
+.c4 {
+  max-width: 250px;
+  height: calc(250px * 9 / 16);
+}
+
+.c3 {
+  display: block;
+  float: left;
+  border: 0 solid #CCC;
+  padding: 0;
+  margin-left: 0;
+  margin-right: 12px;
+  margin-bottom: 2px;
+  box-shadow: none;
+  color: #0A7BC2;
+  height: auto;
+}
+
+.c3.c3 a {
+  box-shadow: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c5 {
+  display: block;
+  margin-top: 0;
+  width: auto;
+}
+
+.c6 {
+  display: block;
+  font-family: ProximaNovaCond,sans-serif;
+  font-weight: 600;
+  font-size: 22px;
+  color: #222;
+  display: block;
+}
+
+.c6 a {
+  color: #222;
+  -webkit-transition: color 0.1s ease-out;
+  transition: color 0.1s ease-out;
+  box-shadow: inset 0 -2px 0 #0A7BC2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c6 a:hover {
+  color: #0A7BC2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c1 {
+  display: block;
+  font-family: ProximaNovaCond,sans-serif;
+  font-weight: 600;
+  font-size: 22px;
+  color: #222;
+  display: none;
+}
+
+.c1 a {
+  color: #222;
+  -webkit-transition: color 0.1s ease-out;
+  transition: color 0.1s ease-out;
+  box-shadow: inset 0 -2px 0 #0A7BC2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c1 a:hover {
+  color: #0A7BC2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c7 {
+  display: block;
+  font-style: italic;
+  font-size: 14px;
+  line-height: 24px;
+  font-family: ElizabethSerif,Georgia,serif;
+  margin-top: 5px;
+  padding-top: 1px;
+}
+
+.c7 a {
+  color: #0A7BC2;
+}
+
+.c8 {
+  display: block;
+  font-family: ProximaNovaCond,sans-serif;
+  font-size: 15px;
+  margin-top: 6px;
+  line-height: 18px;
+}
+
+.c8 span {
+  color: #7D7D7D;
+}
+
+.c8 a {
+  color: #222;
+  -webkit-transition: color 0.1s ease-out;
+  transition: color 0.1s ease-out;
+  box-shadow: inset 0 -2px 0 #0A7BC2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c8 a:hover {
+  color: #0A7BC2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c8 a span {
+  color: #000;
+}
+
+.c9 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin-left: 8px;
+  margin-bottom: 10px;
+}
+
+.c9:first-of-type {
+  margin-left: 0;
+}
+
+.c10 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  margin-left: -5px;
+}
+
+.c10 svg {
+  color: #7D7D7D;
+}
+
+.c13 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  margin-right: -5px;
+}
+
+.c13 svg {
+  color: #7D7D7D;
+}
+
+.c12 {
+  margin: 0 2px;
+}
+
+.c12 svg {
+  -webkit-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  transform: rotate(90deg);
+}
+
+@media only screen and (max-width:37.31em) {
+  .c0 {
+    margin: 0;
+    margin-bottom: 30px;
+    margin-top: 30px;
+  }
+}
+
+@media only screen and (max-width:37.31em) {
+  .c4 {
+    width: 100%;
+    height: auto;
+    max-width: 150px;
+    height: calc(150px * 9 / 16);
+  }
+}
+
+@media only screen and (max-width:37.31em) {
+  .c3 {
+    margin: 6px 18px 1px 0;
+    box-shadow: 0;
+  }
+}
+
+@media only screen and (max-width:37.31em) {
+  .c6 {
+    display: none;
+  }
+}
+
+@media only screen and (max-width:37.31em) {
+  .c1 {
+    display: block;
+    padding: 5px 0;
+  }
+}
+
+@media only screen and (max-width:37.31em) {
+  .c8 {
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-top: 10px;
+  }
+
+  .c8 > div {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+  }
+}
+
+@media only screen and (max-width:37.31em) {
+  .c9 {
+    margin-left: 0;
+    display: block;
+  }
+}
+
+<div
+  class="content-summary__SummaryBox c0"
+>
+  <span
+    class="c1"
+  >
+    <a
+      class="js_link c2"
+      data-ga="[[\\"\\",\\"click\\",\\"https://thetakeout.com/c/the-salty-waitress\\"]]"
+      href="https://thetakeout.com/c/the-salty-waitress"
+    >
+      The Salty Waitress
+    </a>
+  </span>
+  <span
+    class="c3"
+    title="The Salty Waitress"
+  >
+    <a
+      class="js_link c2"
+      data-ga="[[\\"\\",\\"click\\",\\"https://thetakeout.com/c/the-salty-waitress\\"]]"
+      href="https://thetakeout.com/c/the-salty-waitress"
+    >
+      <img
+        class="c4"
+        src="https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_180,q_80,w_320/vwppylx89l4ubmp3xcjc.jpg"
+      />
+    </a>
+  </span>
+  <span
+    class="c5"
+  >
+    <span
+      class="c6"
+    >
+      <a
+        href="https://thetakeout.com/c/the-salty-waitress"
+      >
+        The Salty Waitress
+      </a>
+    </span>
+    <span
+      class="c7"
+    >
+      Are you a server's worst nightmare without even knowing it? We're here to help.
+
+      <a
+        href="//thetakeout.com/c/the-salty-waitress"
+      >
+        The Salty Waitress
+      </a>
+       is The Takeout's advice column from a real-life waitress that
+will teach you how not to behave like a garbage person while dining out—and maybe
+in real life.
+    </span>
+    <div
+      class="content-summary__Pagination c8"
+    >
+      <div
+        class="c9"
+      >
+        <span
+          class="c10"
+        >
+          <span
+            class="c11"
+          >
+            <svg
+              aria-label="ChevronLeft icon"
+              height="18"
+              viewBox="0 0 18 18"
+              width="18"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M11.84 3.87a.5.5 0 1 0-.68-.74l-6 5.5a.5.5 0 0 0 0 .74l6 5.5a.5.5 0 1 0 .68-.74L6.24 9l5.6-5.13z"
+                fill-rule="evenodd"
+              />
+            </svg>
+          </span>
+          <span>
+            Prev
+          </span>
+        </span>
+        <span
+          class="c12"
+        >
+          <span
+            class="c11"
+          >
+            <svg
+              aria-label="Minus icon"
+              height="18"
+              viewBox="0 0 18 18"
+              width="18"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M2.5 9.5h13a.5.5 0 1 0 0-1h-13a.5.5 0 0 0 0 1z"
+                fill-rule="evenodd"
+              />
+            </svg>
+          </span>
+        </span>
+        <span
+          class="c13"
+        >
+          <span>
+            Next
+          </span>
+          <span
+            class="c11"
+          >
+            <svg
+              aria-label="ChevronRight icon"
+              height="18"
+              viewBox="0 0 18 18"
+              width="18"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M6.16 14.13a.5.5 0 1 0 .68.74l6-5.5a.5.5 0 0 0 0-.74l-6-5.5a.5.5 0 1 0-.68.74L11.76 9l-5.6 5.13z"
+                fill-rule="evenodd"
+              />
+            </svg>
+          </span>
+        </span>
+        <span
+          class="c12"
+        >
+          <span
+            class="c11"
+          >
+            <svg
+              aria-label="Minus icon"
+              height="18"
+              viewBox="0 0 18 18"
+              width="18"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M2.5 9.5h13a.5.5 0 1 0 0-1h-13a.5.5 0 0 0 0 1z"
+                fill-rule="evenodd"
+              />
+            </svg>
+          </span>
+        </span>
+        <a
+          class="js_link c2"
+          data-ga="[[\\"\\",\\"view all click\\",\\"https://thetakeout.com/c/the-salty-waitress\\"]]"
+          href="https://thetakeout.com/c/the-salty-waitress"
+        >
+          View All 
+        </a>
+      </div>
+      <div
+        class="c9"
+      />
+    </div>
+  </span>
+</div>
+`;
+
+exports[`<ContentSummary /> renders with next and previous pagination 1`] = `
+.c11 {
+  fill: currentColor;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c2 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0 {
+  display: block;
+  margin-top: 40px;
+  margin-bottom: 25px;
+  padding-bottom: calc(25px + 12px);
+  border-bottom: 1px solid #d4d4d4;
+  -webkit-flex-flow: column;
+  -ms-flex-flow: column;
+  flex-flow: column;
+  overflow: auto;
+}
+
+.c4 {
+  max-width: 250px;
+  height: calc(250px * 9 / 16);
+}
+
+.c3 {
+  display: block;
+  float: left;
+  border: 0 solid #CCC;
+  padding: 0;
+  margin-left: 0;
+  margin-right: 12px;
+  margin-bottom: 2px;
+  box-shadow: none;
+  color: #0A7BC2;
+  height: auto;
+}
+
+.c3.c3 a {
+  box-shadow: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c5 {
+  display: block;
+  margin-top: 0;
+  width: auto;
+}
+
+.c6 {
+  display: block;
+  font-family: ProximaNovaCond,sans-serif;
+  font-weight: 600;
+  font-size: 22px;
+  color: #222;
+  display: block;
+}
+
+.c6 a {
+  color: #222;
+  -webkit-transition: color 0.1s ease-out;
+  transition: color 0.1s ease-out;
+  box-shadow: inset 0 -2px 0 #0A7BC2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c6 a:hover {
+  color: #0A7BC2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c1 {
+  display: block;
+  font-family: ProximaNovaCond,sans-serif;
+  font-weight: 600;
+  font-size: 22px;
+  color: #222;
+  display: none;
+}
+
+.c1 a {
+  color: #222;
+  -webkit-transition: color 0.1s ease-out;
+  transition: color 0.1s ease-out;
+  box-shadow: inset 0 -2px 0 #0A7BC2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c1 a:hover {
+  color: #0A7BC2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c7 {
+  display: block;
+  font-style: italic;
+  font-size: 14px;
+  line-height: 24px;
+  font-family: ElizabethSerif,Georgia,serif;
+  margin-top: 5px;
+  padding-top: 1px;
+}
+
+.c7 a {
+  color: #0A7BC2;
+}
+
+.c8 {
+  display: block;
+  font-family: ProximaNovaCond,sans-serif;
+  font-size: 15px;
+  margin-top: 6px;
+  line-height: 18px;
+}
+
+.c8 span {
+  color: #7D7D7D;
+}
+
+.c8 a {
+  color: #222;
+  -webkit-transition: color 0.1s ease-out;
+  transition: color 0.1s ease-out;
+  box-shadow: inset 0 -2px 0 #0A7BC2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c8 a:hover {
+  color: #0A7BC2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c8 a span {
+  color: #000;
+}
+
+.c9 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin-left: 8px;
+  margin-bottom: 10px;
+}
+
+.c9:first-of-type {
+  margin-left: 0;
+}
+
+.c10 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  margin-left: -5px;
+}
+
+.c10 svg {
+  color: #000;
+}
+
+.c13 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  margin-right: -5px;
+}
+
+.c13 svg {
+  color: #000;
+}
+
+.c12 {
+  margin: 0 2px;
+}
+
+.c12 svg {
+  -webkit-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  transform: rotate(90deg);
+}
+
+@media only screen and (max-width:37.31em) {
+  .c0 {
+    margin: 0;
+    margin-bottom: 30px;
+    margin-top: 30px;
+  }
+}
+
+@media only screen and (max-width:37.31em) {
+  .c4 {
+    width: 100%;
+    height: auto;
+    max-width: 150px;
+    height: calc(150px * 9 / 16);
+  }
+}
+
+@media only screen and (max-width:37.31em) {
+  .c3 {
+    margin: 6px 18px 1px 0;
+    box-shadow: 0;
+  }
+}
+
+@media only screen and (max-width:37.31em) {
+  .c6 {
+    display: none;
+  }
+}
+
+@media only screen and (max-width:37.31em) {
+  .c1 {
+    display: block;
+    padding: 5px 0;
+  }
+}
+
+@media only screen and (max-width:37.31em) {
+  .c8 {
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-top: 10px;
+  }
+
+  .c8 > div {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+  }
+}
+
+@media only screen and (max-width:37.31em) {
+  .c9 {
+    margin-left: 0;
+    display: block;
+  }
+}
+
+<div
+  class="content-summary__SummaryBox c0"
+>
+  <span
+    class="c1"
+  >
+    <a
+      class="js_link c2"
+      data-ga="[[\\"\\",\\"click\\",\\"https://thetakeout.com/c/the-salty-waitress\\"]]"
+      href="https://thetakeout.com/c/the-salty-waitress"
+    >
+      The Salty Waitress
+    </a>
+  </span>
+  <span
+    class="c3"
+    title="The Salty Waitress"
+  >
+    <a
+      class="js_link c2"
+      data-ga="[[\\"\\",\\"click\\",\\"https://thetakeout.com/c/the-salty-waitress\\"]]"
+      href="https://thetakeout.com/c/the-salty-waitress"
+    >
+      <img
+        class="c4"
+        src="https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_180,q_80,w_320/vwppylx89l4ubmp3xcjc.jpg"
+      />
+    </a>
+  </span>
+  <span
+    class="c5"
+  >
+    <span
+      class="c6"
+    >
+      <a
+        href="https://thetakeout.com/c/the-salty-waitress"
+      >
+        The Salty Waitress
+      </a>
+    </span>
+    <span
+      class="c7"
+    >
+      Are you a server's worst nightmare without even knowing it? We're here to help.
+
+      <a
+        href="//thetakeout.com/c/the-salty-waitress"
+      >
+        The Salty Waitress
+      </a>
+       is The Takeout's advice column from a real-life waitress that
+will teach you how not to behave like a garbage person while dining out—and maybe
+in real life.
+    </span>
+    <div
+      class="content-summary__Pagination c8"
+    >
+      <div
+        class="c9"
+      >
+        <span
+          class="c10"
+        >
+          <span
+            class="c11"
+          >
+            <svg
+              aria-label="ChevronLeft icon"
+              height="18"
+              viewBox="0 0 18 18"
+              width="18"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M11.84 3.87a.5.5 0 1 0-.68-.74l-6 5.5a.5.5 0 0 0 0 .74l6 5.5a.5.5 0 1 0 .68-.74L6.24 9l5.6-5.13z"
+                fill-rule="evenodd"
+              />
+            </svg>
+          </span>
+          <a
+            class="js_link c2"
+            data-ga="[[\\"\\",\\"previous click\\",\\"https://tv.avclub.com/the-expanse-slows-down-and-looks-to-the-past-1826634833\\"]]"
+            href="https://tv.avclub.com/the-expanse-slows-down-and-looks-to-the-past-1826634833"
+          >
+            Prev
+          </a>
+        </span>
+        <span
+          class="c12"
+        >
+          <span
+            class="c11"
+          >
+            <svg
+              aria-label="Minus icon"
+              height="18"
+              viewBox="0 0 18 18"
+              width="18"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M2.5 9.5h13a.5.5 0 1 0 0-1h-13a.5.5 0 0 0 0 1z"
+                fill-rule="evenodd"
+              />
+            </svg>
+          </span>
+        </span>
+        <span
+          class="c13"
+        >
+          <a
+            class="js_link c2"
+            data-ga="[[\\"\\",\\"next click\\",\\"https://tv.avclub.com/the-expanse-slows-down-and-looks-to-the-past-1826634833\\"]]"
+            href="https://tv.avclub.com/the-expanse-slows-down-and-looks-to-the-past-1826634833"
+          >
+            Next
+          </a>
+          <span
+            class="c11"
+          >
+            <svg
+              aria-label="ChevronRight icon"
+              height="18"
+              viewBox="0 0 18 18"
+              width="18"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M6.16 14.13a.5.5 0 1 0 .68.74l6-5.5a.5.5 0 0 0 0-.74l-6-5.5a.5.5 0 1 0-.68.74L11.76 9l-5.6 5.13z"
+                fill-rule="evenodd"
+              />
+            </svg>
+          </span>
+        </span>
+        <span
+          class="c12"
+        >
+          <span
+            class="c11"
+          >
+            <svg
+              aria-label="Minus icon"
+              height="18"
+              viewBox="0 0 18 18"
+              width="18"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M2.5 9.5h13a.5.5 0 1 0 0-1h-13a.5.5 0 0 0 0 1z"
+                fill-rule="evenodd"
+              />
+            </svg>
+          </span>
+        </span>
+        <a
+          class="js_link c2"
+          data-ga="[[\\"\\",\\"view all click\\",\\"https://thetakeout.com/c/the-salty-waitress\\"]]"
+          href="https://thetakeout.com/c/the-salty-waitress"
+        >
+          View All 
+        </a>
+      </div>
+      <div
+        class="c9"
+      />
+    </div>
+  </span>
+</div>
+`;
+
+exports[`<ContentSummary /> renders with previous pagination only 1`] = `
+.c11 {
+  fill: currentColor;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c2 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0 {
+  display: block;
+  margin-top: 40px;
+  margin-bottom: 25px;
+  padding-bottom: calc(25px + 12px);
+  border-bottom: 1px solid #d4d4d4;
+  -webkit-flex-flow: column;
+  -ms-flex-flow: column;
+  flex-flow: column;
+  overflow: auto;
+}
+
+.c4 {
+  max-width: 250px;
+  height: calc(250px * 9 / 16);
+}
+
+.c3 {
+  display: block;
+  float: left;
+  border: 0 solid #CCC;
+  padding: 0;
+  margin-left: 0;
+  margin-right: 12px;
+  margin-bottom: 2px;
+  box-shadow: none;
+  color: #0A7BC2;
+  height: auto;
+}
+
+.c3.c3 a {
+  box-shadow: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c5 {
+  display: block;
+  margin-top: 0;
+  width: auto;
+}
+
+.c6 {
+  display: block;
+  font-family: ProximaNovaCond,sans-serif;
+  font-weight: 600;
+  font-size: 22px;
+  color: #222;
+  display: block;
+}
+
+.c6 a {
+  color: #222;
+  -webkit-transition: color 0.1s ease-out;
+  transition: color 0.1s ease-out;
+  box-shadow: inset 0 -2px 0 #0A7BC2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c6 a:hover {
+  color: #0A7BC2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c1 {
+  display: block;
+  font-family: ProximaNovaCond,sans-serif;
+  font-weight: 600;
+  font-size: 22px;
+  color: #222;
+  display: none;
+}
+
+.c1 a {
+  color: #222;
+  -webkit-transition: color 0.1s ease-out;
+  transition: color 0.1s ease-out;
+  box-shadow: inset 0 -2px 0 #0A7BC2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c1 a:hover {
+  color: #0A7BC2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c7 {
+  display: block;
+  font-style: italic;
+  font-size: 14px;
+  line-height: 24px;
+  font-family: ElizabethSerif,Georgia,serif;
+  margin-top: 5px;
+  padding-top: 1px;
+}
+
+.c7 a {
+  color: #0A7BC2;
+}
+
+.c8 {
+  display: block;
+  font-family: ProximaNovaCond,sans-serif;
+  font-size: 15px;
+  margin-top: 6px;
+  line-height: 18px;
+}
+
+.c8 span {
+  color: #7D7D7D;
+}
+
+.c8 a {
+  color: #222;
+  -webkit-transition: color 0.1s ease-out;
+  transition: color 0.1s ease-out;
+  box-shadow: inset 0 -2px 0 #0A7BC2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c8 a:hover {
+  color: #0A7BC2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c8 a span {
+  color: #000;
+}
+
+.c9 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin-left: 8px;
+  margin-bottom: 10px;
+}
+
+.c9:first-of-type {
+  margin-left: 0;
+}
+
+.c10 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  margin-left: -5px;
+}
+
+.c10 svg {
+  color: #000;
+}
+
+.c13 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  margin-right: -5px;
+}
+
+.c13 svg {
+  color: #7D7D7D;
+}
+
+.c12 {
+  margin: 0 2px;
+}
+
+.c12 svg {
+  -webkit-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  transform: rotate(90deg);
+}
+
+@media only screen and (max-width:37.31em) {
+  .c0 {
+    margin: 0;
+    margin-bottom: 30px;
+    margin-top: 30px;
+  }
+}
+
+@media only screen and (max-width:37.31em) {
+  .c4 {
+    width: 100%;
+    height: auto;
+    max-width: 150px;
+    height: calc(150px * 9 / 16);
+  }
+}
+
+@media only screen and (max-width:37.31em) {
+  .c3 {
+    margin: 6px 18px 1px 0;
+    box-shadow: 0;
+  }
+}
+
+@media only screen and (max-width:37.31em) {
+  .c6 {
+    display: none;
+  }
+}
+
+@media only screen and (max-width:37.31em) {
+  .c1 {
+    display: block;
+    padding: 5px 0;
+  }
+}
+
+@media only screen and (max-width:37.31em) {
+  .c8 {
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-top: 10px;
+  }
+
+  .c8 > div {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+  }
+}
+
+@media only screen and (max-width:37.31em) {
+  .c9 {
+    margin-left: 0;
+    display: block;
+  }
+}
+
+<div
+  class="content-summary__SummaryBox c0"
+>
+  <span
+    class="c1"
+  >
+    <a
+      class="js_link c2"
+      data-ga="[[\\"\\",\\"click\\",\\"https://thetakeout.com/c/the-salty-waitress\\"]]"
+      href="https://thetakeout.com/c/the-salty-waitress"
+    >
+      The Salty Waitress
+    </a>
+  </span>
+  <span
+    class="c3"
+    title="The Salty Waitress"
+  >
+    <a
+      class="js_link c2"
+      data-ga="[[\\"\\",\\"click\\",\\"https://thetakeout.com/c/the-salty-waitress\\"]]"
+      href="https://thetakeout.com/c/the-salty-waitress"
+    >
+      <img
+        class="c4"
+        src="https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_180,q_80,w_320/vwppylx89l4ubmp3xcjc.jpg"
+      />
+    </a>
+  </span>
+  <span
+    class="c5"
+  >
+    <span
+      class="c6"
+    >
+      <a
+        href="https://thetakeout.com/c/the-salty-waitress"
+      >
+        The Salty Waitress
+      </a>
+    </span>
+    <span
+      class="c7"
+    >
+      Are you a server's worst nightmare without even knowing it? We're here to help.
+
+      <a
+        href="//thetakeout.com/c/the-salty-waitress"
+      >
+        The Salty Waitress
+      </a>
+       is The Takeout's advice column from a real-life waitress that
+will teach you how not to behave like a garbage person while dining out—and maybe
+in real life.
+    </span>
+    <div
+      class="content-summary__Pagination c8"
+    >
+      <div
+        class="c9"
+      >
+        <span
+          class="c10"
+        >
+          <span
+            class="c11"
+          >
+            <svg
+              aria-label="ChevronLeft icon"
+              height="18"
+              viewBox="0 0 18 18"
+              width="18"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M11.84 3.87a.5.5 0 1 0-.68-.74l-6 5.5a.5.5 0 0 0 0 .74l6 5.5a.5.5 0 1 0 .68-.74L6.24 9l5.6-5.13z"
+                fill-rule="evenodd"
+              />
+            </svg>
+          </span>
+          <a
+            class="js_link c2"
+            data-ga="[[\\"\\",\\"previous click\\",\\"https://tv.avclub.com/the-expanse-slows-down-and-looks-to-the-past-1826634833\\"]]"
+            href="https://tv.avclub.com/the-expanse-slows-down-and-looks-to-the-past-1826634833"
+          >
+            Prev
+          </a>
+        </span>
+        <span
+          class="c12"
+        >
+          <span
+            class="c11"
+          >
+            <svg
+              aria-label="Minus icon"
+              height="18"
+              viewBox="0 0 18 18"
+              width="18"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M2.5 9.5h13a.5.5 0 1 0 0-1h-13a.5.5 0 0 0 0 1z"
+                fill-rule="evenodd"
+              />
+            </svg>
+          </span>
+        </span>
+        <span
+          class="c13"
+        >
+          <span>
+            Next
+          </span>
+          <span
+            class="c11"
+          >
+            <svg
+              aria-label="ChevronRight icon"
+              height="18"
+              viewBox="0 0 18 18"
+              width="18"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M6.16 14.13a.5.5 0 1 0 .68.74l6-5.5a.5.5 0 0 0 0-.74l-6-5.5a.5.5 0 1 0-.68.74L11.76 9l-5.6 5.13z"
+                fill-rule="evenodd"
+              />
+            </svg>
+          </span>
+        </span>
+        <span
+          class="c12"
+        >
+          <span
+            class="c11"
+          >
+            <svg
+              aria-label="Minus icon"
+              height="18"
+              viewBox="0 0 18 18"
+              width="18"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M2.5 9.5h13a.5.5 0 1 0 0-1h-13a.5.5 0 0 0 0 1z"
+                fill-rule="evenodd"
+              />
+            </svg>
+          </span>
+        </span>
+        <a
+          class="js_link c2"
+          data-ga="[[\\"\\",\\"view all click\\",\\"https://thetakeout.com/c/the-salty-waitress\\"]]"
+          href="https://thetakeout.com/c/the-salty-waitress"
+        >
+          View All 
+        </a>
+      </div>
+      <div
+        class="c9"
+      />
+    </div>
+  </span>
+</div>
+`;
+
+exports[`<ContentSummary /> renders without an image 1`] = `
+.c9 {
+  fill: currentColor;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c2 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0 {
+  display: block;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  padding-bottom: calc(25px + 12px);
+  border-bottom: 1px solid #d4d4d4;
+  -webkit-flex-flow: column;
+  -ms-flex-flow: column;
+  flex-flow: column;
+  overflow: auto;
+}
+
+.c1 {
+  display: block;
+  float: left;
+  border: 1px solid #CCC;
+  padding: 10px 8px 8px;
+  margin-left: 4px;
+  margin-right: 12px;
+  margin-bottom: 2px;
+  box-shadow: -7px 7px 0 -3px;
+  color: #0A7BC2;
+  height: auto;
+}
+
+.c1.c1 a {
+  box-shadow: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c4 {
+  display: block;
+  margin-top: 0;
+  width: auto;
+}
+
+.c3 {
+  display: block;
+  font-family: ProximaNovaCond,sans-serif;
+  font-weight: 600;
+  font-size: 22px;
+  color: #222;
+}
+
+.c3 a {
+  color: #222;
+  -webkit-transition: color 0.1s ease-out;
+  transition: color 0.1s ease-out;
+  box-shadow: inset 0 -2px 0 #0A7BC2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c3 a:hover {
+  color: #0A7BC2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c5 {
+  display: block;
+  font-style: italic;
+  font-size: 14px;
+  line-height: 24px;
+  font-family: ElizabethSerif,Georgia,serif;
+  margin-top: 0;
+  padding-top: 1px;
+}
+
+.c5 a {
+  color: #0A7BC2;
+}
+
+.c6 {
+  display: block;
+  font-family: ProximaNovaCond,sans-serif;
+  font-size: 15px;
+  margin-top: 6px;
+  line-height: 18px;
+}
+
+.c6 span {
+  color: #7D7D7D;
+}
+
+.c6 a {
+  color: #222;
+  -webkit-transition: color 0.1s ease-out;
+  transition: color 0.1s ease-out;
+  box-shadow: inset 0 -2px 0 #0A7BC2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c6 a:hover {
+  color: #0A7BC2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c6 a span {
+  color: #000;
+}
+
+.c7 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin-left: 8px;
+  margin-bottom: 10px;
+}
+
+.c7:first-of-type {
+  margin-left: 0;
+}
+
+.c8 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  margin-left: -5px;
+}
+
+.c8 svg {
+  color: #7D7D7D;
+}
+
+.c11 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  margin-right: -5px;
+}
+
+.c11 svg {
+  color: #7D7D7D;
+}
+
+.c10 {
+  margin: 0 2px;
+}
+
+.c10 svg {
+  -webkit-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  transform: rotate(90deg);
+}
+
+@media only screen and (max-width:37.31em) {
+  .c0 {
+    margin: 0;
+    margin-bottom: 30px;
+    margin-top: 30px;
+  }
+}
+
+@media only screen and (max-width:37.31em) {
+  .c1 {
+    margin: 0 12px 0 3px;
+    box-shadow: -3px 3px 0 0;
+  }
+}
+
+@media only screen and (max-width:37.31em) {
+  .c6 {
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-top: 10px;
+  }
+
+  .c6 > div {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+  }
+}
+
+@media only screen and (max-width:37.31em) {
+  .c7 {
+    margin-left: 0;
+    display: block;
+  }
+}
+
+<div
+  class="content-summary__SummaryBox c0"
+>
+  <span
+    class="c1"
+    title="The Salty Waitress"
+  >
+    <a
+      class="js_link c2"
+      data-ga="[[\\"\\",\\"click\\",\\"https://thetakeout.com/c/the-salty-waitress\\"]]"
+      href="https://thetakeout.com/c/the-salty-waitress"
+    >
+      <span
+        class="c3"
+      >
+        The Salty Waitress
+      </span>
+    </a>
+  </span>
+  <span
+    class="c4"
+  >
+    <span
+      class="c5"
+    >
+      Are you a server's worst nightmare without even knowing it? We're here to help.
+
+      <a
+        href="//thetakeout.com/c/the-salty-waitress"
+      >
+        The Salty Waitress
+      </a>
+       is The Takeout's advice column from a real-life waitress that
+will teach you how not to behave like a garbage person while dining out—and maybe
+in real life.
+    </span>
+    <div
+      class="content-summary__Pagination c6"
+    >
+      <div
+        class="c7"
+      >
+        <span
+          class="c8"
+        >
+          <span
+            class="c9"
+          >
+            <svg
+              aria-label="ChevronLeft icon"
+              height="18"
+              viewBox="0 0 18 18"
+              width="18"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M11.84 3.87a.5.5 0 1 0-.68-.74l-6 5.5a.5.5 0 0 0 0 .74l6 5.5a.5.5 0 1 0 .68-.74L6.24 9l5.6-5.13z"
+                fill-rule="evenodd"
+              />
+            </svg>
+          </span>
+          <span>
+            Prev
+          </span>
+        </span>
+        <span
+          class="c10"
+        >
+          <span
+            class="c9"
+          >
+            <svg
+              aria-label="Minus icon"
+              height="18"
+              viewBox="0 0 18 18"
+              width="18"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M2.5 9.5h13a.5.5 0 1 0 0-1h-13a.5.5 0 0 0 0 1z"
+                fill-rule="evenodd"
+              />
+            </svg>
+          </span>
+        </span>
+        <span
+          class="c11"
+        >
+          <span>
+            Next
+          </span>
+          <span
+            class="c9"
+          >
+            <svg
+              aria-label="ChevronRight icon"
+              height="18"
+              viewBox="0 0 18 18"
+              width="18"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M6.16 14.13a.5.5 0 1 0 .68.74l6-5.5a.5.5 0 0 0 0-.74l-6-5.5a.5.5 0 1 0-.68.74L11.76 9l-5.6 5.13z"
+                fill-rule="evenodd"
+              />
+            </svg>
+          </span>
+        </span>
+        <span
+          class="c10"
+        >
+          <span
+            class="c9"
+          >
+            <svg
+              aria-label="Minus icon"
+              height="18"
+              viewBox="0 0 18 18"
+              width="18"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M2.5 9.5h13a.5.5 0 1 0 0-1h-13a.5.5 0 0 0 0 1z"
+                fill-rule="evenodd"
+              />
+            </svg>
+          </span>
+        </span>
+        <a
+          class="js_link c2"
+          data-ga="[[\\"\\",\\"view all click\\",\\"https://thetakeout.com/c/the-salty-waitress\\"]]"
+          href="https://thetakeout.com/c/the-salty-waitress"
+        >
+          View All 
+        </a>
+      </div>
+      <div
+        class="c7"
+      />
+    </div>
+  </span>
+</div>
+`;

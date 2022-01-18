@@ -1,0 +1,310 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<PopularPosts /> Headline Popular from blog 1`] = `
+<popular-posts__HeaderText
+  dangerouslySetInnerHTML={
+    Object {
+      "__html": "<strong>Popular</strong> from Blog Display Name",
+    }
+  }
+/>
+`;
+
+exports[`<PopularPosts /> Headline Popular videos from blog 1`] = `
+<popular-posts__HeaderText
+  dangerouslySetInnerHTML={
+    Object {
+      "__html": "<strong>Popular</strong> from Blog Display Name",
+    }
+  }
+/>
+`;
+
+exports[`<PopularPosts /> Headline Recent from more authors 1`] = `
+<popular-posts__HeaderText
+  dangerouslySetInnerHTML={
+    Object {
+      "__html": "<strong>Recent</strong> from these authors",
+    }
+  }
+/>
+`;
+
+exports[`<PopularPosts /> Headline Recent from one author 1`] = `
+<popular-posts__HeaderText
+  dangerouslySetInnerHTML={
+    Object {
+      "__html": "<strong>Recent</strong> from <a href=https://kinja.com/mborlay>Sam Barsanti</a>",
+    }
+  }
+/>
+`;
+
+exports[`<PopularPosts /> Headline Recent from two authors 1`] = `
+<popular-posts__HeaderText
+  dangerouslySetInnerHTML={
+    Object {
+      "__html": "<strong>Recent</strong> from <a href=https://kinja.com/mborlay>Sam Barsanti</a> and <a href=>Clayton Purdom</a>",
+    }
+  }
+/>
+`;
+
+exports[`<PopularPosts /> should render by default 1`] = `
+<ThemeProvider
+  theme={[Function]}
+>
+  <popular-posts__PopularPostsWrapper>
+    <popular-posts__Header>
+      <popular-posts__HeaderText
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<strong>Popular</strong> in your network",
+          }
+        }
+      />
+    </popular-posts__Header>
+    <PopularPostItem
+      gaEvent={[Function]}
+      index={0}
+      key="https://www.avclub.com/it-turns-out-that-people-dont-really-want-to-spend-1-0-1822570336"
+      post={
+        SidebarPost {
+          "amazonPrice": undefined,
+          "amazonPromoCode": undefined,
+          "authorId": "5876237249236221114",
+          "authorNameOrByline": "Sam Barsanti",
+          "authorScreenName": "mborlay",
+          "defaultBlogAvatar": Object {
+            "format": "png",
+            "frozenFormat": "png",
+            "id": "no63bw902mddhwxtjtxh",
+            "isAnimated": false,
+          },
+          "defaultBlogDisplayName": "The A.V. Club",
+          "defaultBlogGroup": "avclub",
+          "defaultBlogHost": "www.avclub.com",
+          "defaultBlogId": "1636027099",
+          "defaultBlogLogo": null,
+          "defaultBlogRecircGroup": undefined,
+          "headline": "It turns out that people don&#39;t really want to spend $1,000 on an iPhone<em></em>",
+          "id": "1822570336",
+          "image": Object {
+            "altText": undefined,
+            "format": "jpg",
+            "frozenFormat": "jpg",
+            "height": 0,
+            "id": "tmc86rcc0hqcrztueilp",
+            "originalHeight": undefined,
+            "originalWidth": undefined,
+            "uid": "tmc86rcc0hqcrztueilp",
+            "width": 0,
+          },
+          "isVideo": undefined,
+          "likeCount": 3,
+          "originalProps": Object {
+            "amazonPrice": undefined,
+            "amazonPromoCode": undefined,
+            "authorId": "5876237249236221114",
+            "authorNameOrByline": "Sam Barsanti",
+            "authorScreenName": "mborlay",
+            "defaultBlogAvatar": Object {
+              "format": "png",
+              "frozenFormat": "png",
+              "id": "no63bw902mddhwxtjtxh",
+              "isAnimated": false,
+            },
+            "defaultBlogDisplayName": "The A.V. Club",
+            "defaultBlogGroup": "avclub",
+            "defaultBlogHost": "www.avclub.com",
+            "defaultBlogId": "1636027099",
+            "defaultBlogLogo": null,
+            "defaultBlogRecircGroup": undefined,
+            "headline": "It turns out that people don&#39;t really want to spend $1,000 on an iPhone<em></em>",
+            "id": "1822570336",
+            "image": Object {
+              "altText": undefined,
+              "format": "jpg",
+              "frozenFormat": "jpg",
+              "height": 0,
+              "id": "tmc86rcc0hqcrztueilp",
+              "originalHeight": undefined,
+              "originalWidth": undefined,
+              "uid": "tmc86rcc0hqcrztueilp",
+              "width": 0,
+            },
+            "isVideo": undefined,
+            "likeCount": 3,
+            "permalink": "https://www.avclub.com/it-turns-out-that-people-dont-really-want-to-spend-1-0-1822570336",
+            "plaintext": undefined,
+            "publishTimeMillis": 1517355780336,
+            "replyCount": 99,
+            "score": 0,
+            "viewCount": 200,
+          },
+          "permalink": "https://www.avclub.com/it-turns-out-that-people-dont-really-want-to-spend-1-0-1822570336",
+          "plaintext": undefined,
+          "publishTimeMillis": 1517355780336,
+          "replyCount": 99,
+          "score": 0,
+          "viewCount": 200,
+        }
+      }
+    />
+    <PopularPostItem
+      gaEvent={[Function]}
+      index={1}
+      key="https://www.avclub.com/deep-learning-technology-is-now-being-used-to-put-nic-c-1822514573"
+      post={
+        SidebarPost {
+          "amazonPrice": undefined,
+          "amazonPromoCode": undefined,
+          "authorId": null,
+          "authorNameOrByline": "Clayton Purdom",
+          "authorScreenName": undefined,
+          "defaultBlogAvatar": Object {
+            "format": "png",
+            "frozenFormat": "png",
+            "id": "no63bw902mddhwxtjtxh",
+            "isAnimated": false,
+          },
+          "defaultBlogDisplayName": "The A.V. Club",
+          "defaultBlogGroup": "avclub",
+          "defaultBlogHost": "www.avclub.com",
+          "defaultBlogId": "1636027099",
+          "defaultBlogLogo": null,
+          "defaultBlogRecircGroup": undefined,
+          "headline": "Deep learning technology is now being used to put Nic Cage in every movie",
+          "id": "1822514573",
+          "image": Object {
+            "altText": undefined,
+            "format": "png",
+            "frozenFormat": "png",
+            "height": 0,
+            "id": "mrahpb6hsh07vuptempx",
+            "originalHeight": undefined,
+            "originalWidth": undefined,
+            "uid": "mrahpb6hsh07vuptempx",
+            "width": 0,
+          },
+          "isVideo": undefined,
+          "likeCount": 5,
+          "originalProps": Object {
+            "amazonPrice": undefined,
+            "amazonPromoCode": undefined,
+            "authorId": null,
+            "authorNameOrByline": "Clayton Purdom",
+            "authorScreenName": undefined,
+            "defaultBlogAvatar": Object {
+              "format": "png",
+              "frozenFormat": "png",
+              "id": "no63bw902mddhwxtjtxh",
+              "isAnimated": false,
+            },
+            "defaultBlogDisplayName": "The A.V. Club",
+            "defaultBlogGroup": "avclub",
+            "defaultBlogHost": "www.avclub.com",
+            "defaultBlogId": "1636027099",
+            "defaultBlogLogo": null,
+            "defaultBlogRecircGroup": undefined,
+            "headline": "Deep learning technology is now being used to put Nic Cage in every movie",
+            "id": "1822514573",
+            "image": Object {
+              "altText": undefined,
+              "format": "png",
+              "frozenFormat": "png",
+              "height": 0,
+              "id": "mrahpb6hsh07vuptempx",
+              "originalHeight": undefined,
+              "originalWidth": undefined,
+              "uid": "mrahpb6hsh07vuptempx",
+              "width": 0,
+            },
+            "isVideo": undefined,
+            "likeCount": 5,
+            "permalink": "https://www.avclub.com/deep-learning-technology-is-now-being-used-to-put-nic-c-1822514573",
+            "plaintext": undefined,
+            "publishTimeMillis": 1517248980573,
+            "replyCount": 69,
+            "score": 0,
+            "viewCount": 5,
+          },
+          "permalink": "https://www.avclub.com/deep-learning-technology-is-now-being-used-to-put-nic-c-1822514573",
+          "plaintext": undefined,
+          "publishTimeMillis": 1517248980573,
+          "replyCount": 69,
+          "score": 0,
+          "viewCount": 5,
+        }
+      }
+    />
+    <PopularPostItem
+      gaEvent={[Function]}
+      index={2}
+      key="https://www.avclub.com/in-this-week-s-savage-love-lesborama-1822515763"
+      post={
+        SidebarPost {
+          "amazonPrice": undefined,
+          "amazonPromoCode": undefined,
+          "authorId": null,
+          "authorNameOrByline": "Dan Savage",
+          "authorScreenName": undefined,
+          "defaultBlogAvatar": Object {
+            "format": "png",
+            "frozenFormat": "png",
+            "id": "no63bw902mddhwxtjtxh",
+            "isAnimated": false,
+          },
+          "defaultBlogDisplayName": "The A.V. Club",
+          "defaultBlogGroup": "avclub",
+          "defaultBlogHost": "www.avclub.com",
+          "defaultBlogId": "1636027099",
+          "defaultBlogLogo": null,
+          "defaultBlogRecircGroup": undefined,
+          "headline": "In this week’s Savage Love: Lesborama",
+          "id": "1822515763",
+          "image": null,
+          "isVideo": undefined,
+          "likeCount": 1,
+          "originalProps": Object {
+            "amazonPrice": undefined,
+            "amazonPromoCode": undefined,
+            "authorId": null,
+            "authorNameOrByline": "Dan Savage",
+            "authorScreenName": undefined,
+            "defaultBlogAvatar": Object {
+              "format": "png",
+              "frozenFormat": "png",
+              "id": "no63bw902mddhwxtjtxh",
+              "isAnimated": false,
+            },
+            "defaultBlogDisplayName": "The A.V. Club",
+            "defaultBlogGroup": "avclub",
+            "defaultBlogHost": "www.avclub.com",
+            "defaultBlogId": "1636027099",
+            "defaultBlogLogo": null,
+            "defaultBlogRecircGroup": undefined,
+            "headline": "In this week’s Savage Love: Lesborama",
+            "id": "1822515763",
+            "image": null,
+            "isVideo": undefined,
+            "likeCount": 1,
+            "permalink": "https://www.avclub.com/in-this-week-s-savage-love-lesborama-1822515763",
+            "plaintext": undefined,
+            "publishTimeMillis": 1517385600763,
+            "replyCount": 2,
+            "score": 0,
+            "viewCount": undefined,
+          },
+          "permalink": "https://www.avclub.com/in-this-week-s-savage-love-lesborama-1822515763",
+          "plaintext": undefined,
+          "publishTimeMillis": 1517385600763,
+          "replyCount": 2,
+          "score": 0,
+          "viewCount": undefined,
+        }
+      }
+    />
+  </popular-posts__PopularPostsWrapper>
+</ThemeProvider>
+`;

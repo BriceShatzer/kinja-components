@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Radio /> should render properly 1`] = `
+<EnsureDefaultTheme>
+  <radio-group__Container>
+    <radio-group__ButtonWrapper
+      hasTitle={false}
+    >
+      <Radio
+        checked={true}
+        key="Shanghai"
+        label="Shanghai"
+        onClick={[Function]}
+        value="Shanghai"
+      />
+      <Radio
+        checked={false}
+        key="Tokyo"
+        label="Tokyo"
+        onClick={[Function]}
+        value="Tokyo"
+      />
+      <Radio
+        checked={false}
+        key="Moscow"
+        label="Moscow"
+        onClick={[Function]}
+        value="Moscow"
+      />
+    </radio-group__ButtonWrapper>
+  </radio-group__Container>
+</EnsureDefaultTheme>
+`;

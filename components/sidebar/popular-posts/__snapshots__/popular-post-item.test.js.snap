@@ -1,0 +1,904 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<PopularPosts /> - PopularPostItem should not show overlay when commentsDisabled, hideRecommendations and viewCount === 0 1`] = `
+<EnsureDefaultTheme>
+  <popular-post-item__SidebarItem>
+    <popular-post-item__LinkContainer
+      events={
+        Array [
+          undefined,
+        ]
+      }
+      href="https://www.avclub.com/it-turns-out-that-people-dont-really-want-to-spend-1-0-1822570336"
+    >
+      <popular-post-item__Byline>
+        <NativeShareLabel
+          blog={
+            Blog {
+              "avatar": Object {
+                "format": "png",
+                "frozenFormat": "png",
+                "id": "fdj3buryz5nuzyf2k620",
+                "isAnimated": false,
+              },
+              "canonicalHost": "gizmodo.com",
+              "createTimeMillis": 1354577350531,
+              "description": "We come from the future.",
+              "displayName": "Gizmodo",
+              "hosts": Array [
+                "doctorwho.io9.com",
+                "animals.kinja.com",
+                "education.gizmodo.com",
+                "doctorwho.gizmodo.com",
+                "nl.gizmodo.com",
+                "toybox.io9.com",
+                "animation.gizmodo.com",
+                "education.kinja.com",
+                "animalsx.kinja.com",
+                "toybox.gizmodo.com",
+                "toybox.kinja.com",
+                "au.gizmodo.com",
+                "ca.gizmodo.com",
+                "gizmodo.kinja.com",
+                "old.gizmodo.com",
+                "fetch.gizmodo.com",
+                "truecrimeio9.kinja.com",
+                "animation.io9.com",
+                "truecrime.gizmodo.com",
+                "001.gizmodo.com",
+                "www.gizmodo.com",
+                "gizmodo.in",
+                "gizmodo.co.in",
+                "assets.gizmodo.com",
+                "io9education.kinja.com",
+                "ru.gizmodo.com",
+                "m.gizmodo.com",
+                "education.io9.com",
+                "blog.gizmodo.com",
+                "animals.gizmodo.com",
+                "upgrade.gizmodo.com",
+                "us.gizmodo.com",
+                "animation.kinja.com",
+                "pl.gizmodo.com",
+                "upgrade.io9.com",
+                "truecrime.io9.com",
+                "br.gizmodo.com",
+                "upgrade.kinja.com",
+                "animals.io9.com",
+                "doctorwhoio9.kinja.com",
+              ],
+              "id": "4",
+              "logo": Object {
+                "format": "png",
+                "frozenFormat": "png",
+                "id": "wvhsuflzmeoo0zr9ex55",
+                "isAnimated": false,
+              },
+              "name": "gizmodo",
+              "ownerId": "5876237249236979260",
+              "parentId": undefined,
+              "properties": Object {
+                "GANJA_IGNORE_GEO": Array [
+                  "us.gizmodo.com",
+                ],
+                "aboutPostId": 5732042,
+                "adsTxtEnabled": true,
+                "blogGroup": "gizmodo",
+                "campaignMonitorNewsletterName": "Gizmodo_Daily",
+                "facebookPixelId": "852713628239858",
+                "facebookScreenName": "gizmodo",
+                "fbAppId": "44615671688",
+                "googleAnalyticsID": "UA-142218-3",
+                "googleSiteVerification": "Sc6OGUq5heWyOLFpCb_2K6mX7vFrWKGANts4QDUmgOY",
+                "instagramScreenName": "gizmodo",
+                "isGmgBlog": true,
+                "logoLink": "https://x.kinja-static.com/assets/images/logos/newsletter/gizmodo-500px.png",
+                "mainColor": "#18AFED",
+                "metaTitle": "Gizmodo, the Gadget Guide",
+                "navigationGroup": "fmg",
+                "newsletter": true,
+                "noindex": false,
+                "pianoProdAid": "ZpCykEM7YO",
+                "pianoSandboxAid": "VFrbPA6HDf",
+                "recircGroup": "fmgNonSatire",
+                "robotsAllowed": true,
+                "singleOptIn": true,
+                "skimLinkId": "33330X911642",
+                "template": "gizmodo",
+                "twitterScreenName": "@gizmodo",
+                "youtubeUrl": "https://www.youtube.com/channel/UCxFmw3IUMDUC1Hh7qDjtjZQ",
+              },
+              "status": "ENABLED",
+              "timezone": "America/New_York",
+              "timezoneOffset": -14400000,
+            }
+          }
+          defaultBlogDisplayName="The A.V. Club"
+          defaultBlogGroup="avclub"
+          showExternalIcon={false}
+          showSharedLabel={true}
+          showViewOnLabel={false}
+        />
+      </popular-post-item__Byline>
+      <SidebarImage
+        blogGroup="gizmodo"
+        commentsDisabled={true}
+        hideRecommendations={true}
+        hideViewcounts={false}
+        post={
+          SidebarPost {
+            "amazonPrice": undefined,
+            "amazonPromoCode": undefined,
+            "authorId": "5876237249236221114",
+            "authorNameOrByline": "Sam Barsanti",
+            "authorScreenName": "mborlay",
+            "defaultBlogAvatar": Object {
+              "format": "png",
+              "frozenFormat": "png",
+              "id": "no63bw902mddhwxtjtxh",
+              "isAnimated": false,
+            },
+            "defaultBlogDisplayName": "The A.V. Club",
+            "defaultBlogGroup": "avclub",
+            "defaultBlogHost": "www.avclub.com",
+            "defaultBlogId": "1636027099",
+            "defaultBlogLogo": null,
+            "defaultBlogRecircGroup": undefined,
+            "headline": "It turns out that people don&#39;t really want to spend $1,000 on an iPhone<em></em>",
+            "id": "1822570336",
+            "image": Object {
+              "altText": undefined,
+              "format": "jpg",
+              "frozenFormat": "jpg",
+              "height": 0,
+              "id": "tmc86rcc0hqcrztueilp",
+              "originalHeight": undefined,
+              "originalWidth": undefined,
+              "uid": "tmc86rcc0hqcrztueilp",
+              "width": 0,
+            },
+            "isVideo": undefined,
+            "likeCount": 3,
+            "originalProps": Object {
+              "amazonPrice": undefined,
+              "amazonPromoCode": undefined,
+              "authorId": "5876237249236221114",
+              "authorNameOrByline": "Sam Barsanti",
+              "authorScreenName": "mborlay",
+              "defaultBlogAvatar": Object {
+                "format": "png",
+                "frozenFormat": "png",
+                "id": "no63bw902mddhwxtjtxh",
+                "isAnimated": false,
+              },
+              "defaultBlogDisplayName": "The A.V. Club",
+              "defaultBlogGroup": "avclub",
+              "defaultBlogHost": "www.avclub.com",
+              "defaultBlogId": "1636027099",
+              "defaultBlogLogo": null,
+              "defaultBlogRecircGroup": undefined,
+              "headline": "It turns out that people don&#39;t really want to spend $1,000 on an iPhone<em></em>",
+              "id": "1822570336",
+              "image": Object {
+                "altText": undefined,
+                "format": "jpg",
+                "frozenFormat": "jpg",
+                "height": 0,
+                "id": "tmc86rcc0hqcrztueilp",
+                "originalHeight": undefined,
+                "originalWidth": undefined,
+                "uid": "tmc86rcc0hqcrztueilp",
+                "width": 0,
+              },
+              "isVideo": undefined,
+              "likeCount": 3,
+              "permalink": "https://www.avclub.com/it-turns-out-that-people-dont-really-want-to-spend-1-0-1822570336",
+              "plaintext": undefined,
+              "publishTimeMillis": 1517355780336,
+              "replyCount": 99,
+              "score": 0,
+              "viewCount": 0,
+            },
+            "permalink": "https://www.avclub.com/it-turns-out-that-people-dont-really-want-to-spend-1-0-1822570336",
+            "plaintext": undefined,
+            "publishTimeMillis": 1517355780336,
+            "replyCount": 99,
+            "score": 0,
+            "viewCount": 0,
+          }
+        }
+        serverSide={false}
+        withOverlay={true}
+      />
+      <popular-post-item__Headline
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "It turns out that people don&#39;t really want to spend $1,000 on an iPhone<em></em>",
+          }
+        }
+        isExternalNativeAd={false}
+      />
+      <div>
+        <popular-post-item__MetaItem>
+          <strong>
+            Sam Barsanti
+          </strong>
+        </popular-post-item__MetaItem>
+        <popular-post-item__PublishTime>
+          1/30/18 6:43PM
+        </popular-post-item__PublishTime>
+      </div>
+    </popular-post-item__LinkContainer>
+  </popular-post-item__SidebarItem>
+</EnsureDefaultTheme>
+`;
+
+exports[`<PopularPosts /> - PopularPostItem should render by default 1`] = `
+<EnsureDefaultTheme>
+  <popular-post-item__SidebarItem>
+    <popular-post-item__LinkContainer
+      events={
+        Array [
+          undefined,
+        ]
+      }
+      href="https://www.avclub.com/it-turns-out-that-people-dont-really-want-to-spend-1-0-1822570336"
+    >
+      <popular-post-item__Byline>
+        <NativeShareLabel
+          blog={
+            Blog {
+              "avatar": Object {
+                "format": "png",
+                "frozenFormat": "png",
+                "id": "fdj3buryz5nuzyf2k620",
+                "isAnimated": false,
+              },
+              "canonicalHost": "gizmodo.com",
+              "createTimeMillis": 1354577350531,
+              "description": "We come from the future.",
+              "displayName": "Gizmodo",
+              "hosts": Array [
+                "doctorwho.io9.com",
+                "animals.kinja.com",
+                "education.gizmodo.com",
+                "doctorwho.gizmodo.com",
+                "nl.gizmodo.com",
+                "toybox.io9.com",
+                "animation.gizmodo.com",
+                "education.kinja.com",
+                "animalsx.kinja.com",
+                "toybox.gizmodo.com",
+                "toybox.kinja.com",
+                "au.gizmodo.com",
+                "ca.gizmodo.com",
+                "gizmodo.kinja.com",
+                "old.gizmodo.com",
+                "fetch.gizmodo.com",
+                "truecrimeio9.kinja.com",
+                "animation.io9.com",
+                "truecrime.gizmodo.com",
+                "001.gizmodo.com",
+                "www.gizmodo.com",
+                "gizmodo.in",
+                "gizmodo.co.in",
+                "assets.gizmodo.com",
+                "io9education.kinja.com",
+                "ru.gizmodo.com",
+                "m.gizmodo.com",
+                "education.io9.com",
+                "blog.gizmodo.com",
+                "animals.gizmodo.com",
+                "upgrade.gizmodo.com",
+                "us.gizmodo.com",
+                "animation.kinja.com",
+                "pl.gizmodo.com",
+                "upgrade.io9.com",
+                "truecrime.io9.com",
+                "br.gizmodo.com",
+                "upgrade.kinja.com",
+                "animals.io9.com",
+                "doctorwhoio9.kinja.com",
+              ],
+              "id": "4",
+              "logo": Object {
+                "format": "png",
+                "frozenFormat": "png",
+                "id": "wvhsuflzmeoo0zr9ex55",
+                "isAnimated": false,
+              },
+              "name": "gizmodo",
+              "ownerId": "5876237249236979260",
+              "parentId": undefined,
+              "properties": Object {
+                "GANJA_IGNORE_GEO": Array [
+                  "us.gizmodo.com",
+                ],
+                "aboutPostId": 5732042,
+                "adsTxtEnabled": true,
+                "blogGroup": "gizmodo",
+                "campaignMonitorNewsletterName": "Gizmodo_Daily",
+                "facebookPixelId": "852713628239858",
+                "facebookScreenName": "gizmodo",
+                "fbAppId": "44615671688",
+                "googleAnalyticsID": "UA-142218-3",
+                "googleSiteVerification": "Sc6OGUq5heWyOLFpCb_2K6mX7vFrWKGANts4QDUmgOY",
+                "instagramScreenName": "gizmodo",
+                "isGmgBlog": true,
+                "logoLink": "https://x.kinja-static.com/assets/images/logos/newsletter/gizmodo-500px.png",
+                "mainColor": "#18AFED",
+                "metaTitle": "Gizmodo, the Gadget Guide",
+                "navigationGroup": "fmg",
+                "newsletter": true,
+                "noindex": false,
+                "pianoProdAid": "ZpCykEM7YO",
+                "pianoSandboxAid": "VFrbPA6HDf",
+                "recircGroup": "fmgNonSatire",
+                "robotsAllowed": true,
+                "singleOptIn": true,
+                "skimLinkId": "33330X911642",
+                "template": "gizmodo",
+                "twitterScreenName": "@gizmodo",
+                "youtubeUrl": "https://www.youtube.com/channel/UCxFmw3IUMDUC1Hh7qDjtjZQ",
+              },
+              "status": "ENABLED",
+              "timezone": "America/New_York",
+              "timezoneOffset": -14400000,
+            }
+          }
+          defaultBlogDisplayName="The A.V. Club"
+          defaultBlogGroup="avclub"
+          showExternalIcon={false}
+          showSharedLabel={true}
+          showViewOnLabel={false}
+        />
+      </popular-post-item__Byline>
+      <SidebarImage
+        blogGroup="gizmodo"
+        commentsDisabled={false}
+        hideRecommendations={false}
+        hideViewcounts={false}
+        post={
+          SidebarPost {
+            "amazonPrice": undefined,
+            "amazonPromoCode": undefined,
+            "authorId": "5876237249236221114",
+            "authorNameOrByline": "Sam Barsanti",
+            "authorScreenName": "mborlay",
+            "defaultBlogAvatar": Object {
+              "format": "png",
+              "frozenFormat": "png",
+              "id": "no63bw902mddhwxtjtxh",
+              "isAnimated": false,
+            },
+            "defaultBlogDisplayName": "The A.V. Club",
+            "defaultBlogGroup": "avclub",
+            "defaultBlogHost": "www.avclub.com",
+            "defaultBlogId": "1636027099",
+            "defaultBlogLogo": null,
+            "defaultBlogRecircGroup": undefined,
+            "headline": "It turns out that people don&#39;t really want to spend $1,000 on an iPhone<em></em>",
+            "id": "1822570336",
+            "image": Object {
+              "altText": undefined,
+              "format": "jpg",
+              "frozenFormat": "jpg",
+              "height": 0,
+              "id": "tmc86rcc0hqcrztueilp",
+              "originalHeight": undefined,
+              "originalWidth": undefined,
+              "uid": "tmc86rcc0hqcrztueilp",
+              "width": 0,
+            },
+            "isVideo": undefined,
+            "likeCount": 3,
+            "originalProps": Object {
+              "amazonPrice": undefined,
+              "amazonPromoCode": undefined,
+              "authorId": "5876237249236221114",
+              "authorNameOrByline": "Sam Barsanti",
+              "authorScreenName": "mborlay",
+              "defaultBlogAvatar": Object {
+                "format": "png",
+                "frozenFormat": "png",
+                "id": "no63bw902mddhwxtjtxh",
+                "isAnimated": false,
+              },
+              "defaultBlogDisplayName": "The A.V. Club",
+              "defaultBlogGroup": "avclub",
+              "defaultBlogHost": "www.avclub.com",
+              "defaultBlogId": "1636027099",
+              "defaultBlogLogo": null,
+              "defaultBlogRecircGroup": undefined,
+              "headline": "It turns out that people don&#39;t really want to spend $1,000 on an iPhone<em></em>",
+              "id": "1822570336",
+              "image": Object {
+                "altText": undefined,
+                "format": "jpg",
+                "frozenFormat": "jpg",
+                "height": 0,
+                "id": "tmc86rcc0hqcrztueilp",
+                "originalHeight": undefined,
+                "originalWidth": undefined,
+                "uid": "tmc86rcc0hqcrztueilp",
+                "width": 0,
+              },
+              "isVideo": undefined,
+              "likeCount": 3,
+              "permalink": "https://www.avclub.com/it-turns-out-that-people-dont-really-want-to-spend-1-0-1822570336",
+              "plaintext": undefined,
+              "publishTimeMillis": 1517355780336,
+              "replyCount": 99,
+              "score": 0,
+              "viewCount": 200,
+            },
+            "permalink": "https://www.avclub.com/it-turns-out-that-people-dont-really-want-to-spend-1-0-1822570336",
+            "plaintext": undefined,
+            "publishTimeMillis": 1517355780336,
+            "replyCount": 99,
+            "score": 0,
+            "viewCount": 200,
+          }
+        }
+        serverSide={false}
+        withOverlay={true}
+      />
+      <popular-post-item__Headline
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "It turns out that people don&#39;t really want to spend $1,000 on an iPhone<em></em>",
+          }
+        }
+        isExternalNativeAd={false}
+      />
+      <div>
+        <popular-post-item__MetaItem>
+          <strong>
+            Sam Barsanti
+          </strong>
+        </popular-post-item__MetaItem>
+        <popular-post-item__PublishTime>
+          1/30/18 6:43PM
+        </popular-post-item__PublishTime>
+      </div>
+    </popular-post-item__LinkContainer>
+  </popular-post-item__SidebarItem>
+</EnsureDefaultTheme>
+`;
+
+exports[`<PopularPosts /> - PopularPostItem should render without authorName 1`] = `
+<EnsureDefaultTheme>
+  <popular-post-item__SidebarItem>
+    <popular-post-item__LinkContainer
+      events={
+        Array [
+          undefined,
+        ]
+      }
+      href="https://www.avclub.com/it-turns-out-that-people-dont-really-want-to-spend-1-0-1822570336"
+    >
+      <popular-post-item__Byline>
+        <NativeShareLabel
+          blog={
+            Blog {
+              "avatar": Object {
+                "format": "png",
+                "frozenFormat": "png",
+                "id": "fdj3buryz5nuzyf2k620",
+                "isAnimated": false,
+              },
+              "canonicalHost": "gizmodo.com",
+              "createTimeMillis": 1354577350531,
+              "description": "We come from the future.",
+              "displayName": "Gizmodo",
+              "hosts": Array [
+                "doctorwho.io9.com",
+                "animals.kinja.com",
+                "education.gizmodo.com",
+                "doctorwho.gizmodo.com",
+                "nl.gizmodo.com",
+                "toybox.io9.com",
+                "animation.gizmodo.com",
+                "education.kinja.com",
+                "animalsx.kinja.com",
+                "toybox.gizmodo.com",
+                "toybox.kinja.com",
+                "au.gizmodo.com",
+                "ca.gizmodo.com",
+                "gizmodo.kinja.com",
+                "old.gizmodo.com",
+                "fetch.gizmodo.com",
+                "truecrimeio9.kinja.com",
+                "animation.io9.com",
+                "truecrime.gizmodo.com",
+                "001.gizmodo.com",
+                "www.gizmodo.com",
+                "gizmodo.in",
+                "gizmodo.co.in",
+                "assets.gizmodo.com",
+                "io9education.kinja.com",
+                "ru.gizmodo.com",
+                "m.gizmodo.com",
+                "education.io9.com",
+                "blog.gizmodo.com",
+                "animals.gizmodo.com",
+                "upgrade.gizmodo.com",
+                "us.gizmodo.com",
+                "animation.kinja.com",
+                "pl.gizmodo.com",
+                "upgrade.io9.com",
+                "truecrime.io9.com",
+                "br.gizmodo.com",
+                "upgrade.kinja.com",
+                "animals.io9.com",
+                "doctorwhoio9.kinja.com",
+              ],
+              "id": "4",
+              "logo": Object {
+                "format": "png",
+                "frozenFormat": "png",
+                "id": "wvhsuflzmeoo0zr9ex55",
+                "isAnimated": false,
+              },
+              "name": "gizmodo",
+              "ownerId": "5876237249236979260",
+              "parentId": undefined,
+              "properties": Object {
+                "GANJA_IGNORE_GEO": Array [
+                  "us.gizmodo.com",
+                ],
+                "aboutPostId": 5732042,
+                "adsTxtEnabled": true,
+                "blogGroup": "gizmodo",
+                "campaignMonitorNewsletterName": "Gizmodo_Daily",
+                "facebookPixelId": "852713628239858",
+                "facebookScreenName": "gizmodo",
+                "fbAppId": "44615671688",
+                "googleAnalyticsID": "UA-142218-3",
+                "googleSiteVerification": "Sc6OGUq5heWyOLFpCb_2K6mX7vFrWKGANts4QDUmgOY",
+                "instagramScreenName": "gizmodo",
+                "isGmgBlog": true,
+                "logoLink": "https://x.kinja-static.com/assets/images/logos/newsletter/gizmodo-500px.png",
+                "mainColor": "#18AFED",
+                "metaTitle": "Gizmodo, the Gadget Guide",
+                "navigationGroup": "fmg",
+                "newsletter": true,
+                "noindex": false,
+                "pianoProdAid": "ZpCykEM7YO",
+                "pianoSandboxAid": "VFrbPA6HDf",
+                "recircGroup": "fmgNonSatire",
+                "robotsAllowed": true,
+                "singleOptIn": true,
+                "skimLinkId": "33330X911642",
+                "template": "gizmodo",
+                "twitterScreenName": "@gizmodo",
+                "youtubeUrl": "https://www.youtube.com/channel/UCxFmw3IUMDUC1Hh7qDjtjZQ",
+              },
+              "status": "ENABLED",
+              "timezone": "America/New_York",
+              "timezoneOffset": -14400000,
+            }
+          }
+          defaultBlogDisplayName="The A.V. Club"
+          defaultBlogGroup="avclub"
+          showExternalIcon={false}
+          showSharedLabel={true}
+          showViewOnLabel={false}
+        />
+      </popular-post-item__Byline>
+      <SidebarImage
+        blogGroup="gizmodo"
+        commentsDisabled={false}
+        hideRecommendations={false}
+        hideViewcounts={false}
+        post={
+          SidebarPost {
+            "amazonPrice": undefined,
+            "amazonPromoCode": undefined,
+            "authorId": "5876237249236221114",
+            "authorNameOrByline": "Sam Barsanti",
+            "authorScreenName": "mborlay",
+            "defaultBlogAvatar": Object {
+              "format": "png",
+              "frozenFormat": "png",
+              "id": "no63bw902mddhwxtjtxh",
+              "isAnimated": false,
+            },
+            "defaultBlogDisplayName": "The A.V. Club",
+            "defaultBlogGroup": "avclub",
+            "defaultBlogHost": "www.avclub.com",
+            "defaultBlogId": "1636027099",
+            "defaultBlogLogo": null,
+            "defaultBlogRecircGroup": undefined,
+            "headline": "It turns out that people don&#39;t really want to spend $1,000 on an iPhone<em></em>",
+            "id": "1822570336",
+            "image": null,
+            "isVideo": undefined,
+            "likeCount": 3,
+            "originalProps": Object {
+              "amazonPrice": undefined,
+              "amazonPromoCode": undefined,
+              "authorId": "5876237249236221114",
+              "authorNameOrByline": "Sam Barsanti",
+              "authorScreenName": "mborlay",
+              "defaultBlogAvatar": Object {
+                "format": "png",
+                "frozenFormat": "png",
+                "id": "no63bw902mddhwxtjtxh",
+                "isAnimated": false,
+              },
+              "defaultBlogDisplayName": "The A.V. Club",
+              "defaultBlogGroup": "avclub",
+              "defaultBlogHost": "www.avclub.com",
+              "defaultBlogId": "1636027099",
+              "defaultBlogLogo": null,
+              "defaultBlogRecircGroup": undefined,
+              "headline": "It turns out that people don&#39;t really want to spend $1,000 on an iPhone<em></em>",
+              "id": "1822570336",
+              "image": null,
+              "isVideo": undefined,
+              "likeCount": 3,
+              "permalink": "https://www.avclub.com/it-turns-out-that-people-dont-really-want-to-spend-1-0-1822570336",
+              "plaintext": undefined,
+              "publishTimeMillis": 1517355780336,
+              "replyCount": 99,
+              "score": 0,
+              "viewCount": 200,
+            },
+            "permalink": "https://www.avclub.com/it-turns-out-that-people-dont-really-want-to-spend-1-0-1822570336",
+            "plaintext": undefined,
+            "publishTimeMillis": 1517355780336,
+            "replyCount": 99,
+            "score": 0,
+            "viewCount": 200,
+          }
+        }
+        serverSide={false}
+        withOverlay={true}
+      />
+      <popular-post-item__Headline
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "It turns out that people don&#39;t really want to spend $1,000 on an iPhone<em></em>",
+          }
+        }
+        isExternalNativeAd={false}
+      />
+      <div>
+        <popular-post-item__MetaItem>
+          <strong>
+            Sam Barsanti
+          </strong>
+        </popular-post-item__MetaItem>
+        <popular-post-item__PublishTime>
+          1/30/18 6:43PM
+        </popular-post-item__PublishTime>
+      </div>
+    </popular-post-item__LinkContainer>
+  </popular-post-item__SidebarItem>
+</EnsureDefaultTheme>
+`;
+
+exports[`<PopularPosts /> - PopularPostItem should render without image 1`] = `
+<EnsureDefaultTheme>
+  <popular-post-item__SidebarItem>
+    <popular-post-item__LinkContainer
+      events={
+        Array [
+          undefined,
+        ]
+      }
+      href="https://www.avclub.com/it-turns-out-that-people-dont-really-want-to-spend-1-0-1822570336"
+    >
+      <popular-post-item__Byline>
+        <NativeShareLabel
+          blog={
+            Blog {
+              "avatar": Object {
+                "format": "png",
+                "frozenFormat": "png",
+                "id": "fdj3buryz5nuzyf2k620",
+                "isAnimated": false,
+              },
+              "canonicalHost": "gizmodo.com",
+              "createTimeMillis": 1354577350531,
+              "description": "We come from the future.",
+              "displayName": "Gizmodo",
+              "hosts": Array [
+                "doctorwho.io9.com",
+                "animals.kinja.com",
+                "education.gizmodo.com",
+                "doctorwho.gizmodo.com",
+                "nl.gizmodo.com",
+                "toybox.io9.com",
+                "animation.gizmodo.com",
+                "education.kinja.com",
+                "animalsx.kinja.com",
+                "toybox.gizmodo.com",
+                "toybox.kinja.com",
+                "au.gizmodo.com",
+                "ca.gizmodo.com",
+                "gizmodo.kinja.com",
+                "old.gizmodo.com",
+                "fetch.gizmodo.com",
+                "truecrimeio9.kinja.com",
+                "animation.io9.com",
+                "truecrime.gizmodo.com",
+                "001.gizmodo.com",
+                "www.gizmodo.com",
+                "gizmodo.in",
+                "gizmodo.co.in",
+                "assets.gizmodo.com",
+                "io9education.kinja.com",
+                "ru.gizmodo.com",
+                "m.gizmodo.com",
+                "education.io9.com",
+                "blog.gizmodo.com",
+                "animals.gizmodo.com",
+                "upgrade.gizmodo.com",
+                "us.gizmodo.com",
+                "animation.kinja.com",
+                "pl.gizmodo.com",
+                "upgrade.io9.com",
+                "truecrime.io9.com",
+                "br.gizmodo.com",
+                "upgrade.kinja.com",
+                "animals.io9.com",
+                "doctorwhoio9.kinja.com",
+              ],
+              "id": "4",
+              "logo": Object {
+                "format": "png",
+                "frozenFormat": "png",
+                "id": "wvhsuflzmeoo0zr9ex55",
+                "isAnimated": false,
+              },
+              "name": "gizmodo",
+              "ownerId": "5876237249236979260",
+              "parentId": undefined,
+              "properties": Object {
+                "GANJA_IGNORE_GEO": Array [
+                  "us.gizmodo.com",
+                ],
+                "aboutPostId": 5732042,
+                "adsTxtEnabled": true,
+                "blogGroup": "gizmodo",
+                "campaignMonitorNewsletterName": "Gizmodo_Daily",
+                "facebookPixelId": "852713628239858",
+                "facebookScreenName": "gizmodo",
+                "fbAppId": "44615671688",
+                "googleAnalyticsID": "UA-142218-3",
+                "googleSiteVerification": "Sc6OGUq5heWyOLFpCb_2K6mX7vFrWKGANts4QDUmgOY",
+                "instagramScreenName": "gizmodo",
+                "isGmgBlog": true,
+                "logoLink": "https://x.kinja-static.com/assets/images/logos/newsletter/gizmodo-500px.png",
+                "mainColor": "#18AFED",
+                "metaTitle": "Gizmodo, the Gadget Guide",
+                "navigationGroup": "fmg",
+                "newsletter": true,
+                "noindex": false,
+                "pianoProdAid": "ZpCykEM7YO",
+                "pianoSandboxAid": "VFrbPA6HDf",
+                "recircGroup": "fmgNonSatire",
+                "robotsAllowed": true,
+                "singleOptIn": true,
+                "skimLinkId": "33330X911642",
+                "template": "gizmodo",
+                "twitterScreenName": "@gizmodo",
+                "youtubeUrl": "https://www.youtube.com/channel/UCxFmw3IUMDUC1Hh7qDjtjZQ",
+              },
+              "status": "ENABLED",
+              "timezone": "America/New_York",
+              "timezoneOffset": -14400000,
+            }
+          }
+          defaultBlogDisplayName="The A.V. Club"
+          defaultBlogGroup="avclub"
+          showExternalIcon={false}
+          showSharedLabel={true}
+          showViewOnLabel={false}
+        />
+      </popular-post-item__Byline>
+      <SidebarImage
+        blogGroup="gizmodo"
+        commentsDisabled={false}
+        hideRecommendations={false}
+        hideViewcounts={false}
+        post={
+          SidebarPost {
+            "amazonPrice": undefined,
+            "amazonPromoCode": undefined,
+            "authorId": "5876237249236221114",
+            "authorNameOrByline": "Sam Barsanti",
+            "authorScreenName": "mborlay",
+            "defaultBlogAvatar": Object {
+              "format": "png",
+              "frozenFormat": "png",
+              "id": "no63bw902mddhwxtjtxh",
+              "isAnimated": false,
+            },
+            "defaultBlogDisplayName": "The A.V. Club",
+            "defaultBlogGroup": "avclub",
+            "defaultBlogHost": "www.avclub.com",
+            "defaultBlogId": "1636027099",
+            "defaultBlogLogo": null,
+            "defaultBlogRecircGroup": undefined,
+            "headline": "It turns out that people don&#39;t really want to spend $1,000 on an iPhone<em></em>",
+            "id": "1822570336",
+            "image": null,
+            "isVideo": undefined,
+            "likeCount": 3,
+            "originalProps": Object {
+              "amazonPrice": undefined,
+              "amazonPromoCode": undefined,
+              "authorId": "5876237249236221114",
+              "authorNameOrByline": "Sam Barsanti",
+              "authorScreenName": "mborlay",
+              "defaultBlogAvatar": Object {
+                "format": "png",
+                "frozenFormat": "png",
+                "id": "no63bw902mddhwxtjtxh",
+                "isAnimated": false,
+              },
+              "defaultBlogDisplayName": "The A.V. Club",
+              "defaultBlogGroup": "avclub",
+              "defaultBlogHost": "www.avclub.com",
+              "defaultBlogId": "1636027099",
+              "defaultBlogLogo": null,
+              "defaultBlogRecircGroup": undefined,
+              "headline": "It turns out that people don&#39;t really want to spend $1,000 on an iPhone<em></em>",
+              "id": "1822570336",
+              "image": null,
+              "isVideo": undefined,
+              "likeCount": 3,
+              "permalink": "https://www.avclub.com/it-turns-out-that-people-dont-really-want-to-spend-1-0-1822570336",
+              "plaintext": undefined,
+              "publishTimeMillis": 1517355780336,
+              "replyCount": 99,
+              "score": 0,
+              "viewCount": 200,
+            },
+            "permalink": "https://www.avclub.com/it-turns-out-that-people-dont-really-want-to-spend-1-0-1822570336",
+            "plaintext": undefined,
+            "publishTimeMillis": 1517355780336,
+            "replyCount": 99,
+            "score": 0,
+            "viewCount": 200,
+          }
+        }
+        serverSide={false}
+        withOverlay={true}
+      />
+      <popular-post-item__Headline
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "It turns out that people don&#39;t really want to spend $1,000 on an iPhone<em></em>",
+          }
+        }
+        isExternalNativeAd={false}
+      />
+      <div>
+        <popular-post-item__MetaItem>
+          <strong>
+            Sam Barsanti
+          </strong>
+        </popular-post-item__MetaItem>
+        <popular-post-item__PublishTime>
+          1/30/18 6:43PM
+        </popular-post-item__PublishTime>
+      </div>
+    </popular-post-item__LinkContainer>
+  </popular-post-item__SidebarItem>
+</EnsureDefaultTheme>
+`;
+
+exports[`<PopularPosts /> - PopularPostItem should truncate headline to 130 characters 1`] = `
+<popular-post-item__Headline
+  dangerouslySetInnerHTML={
+    Object {
+      "__html": "It turns out that people don&#39;t really want to spend $1,000 on an iPhone<em></em> This is a loooong headline, <i>believe me</i>. It just goes o...",
+    }
+  }
+  isExternalNativeAd={false}
+/>
+`;

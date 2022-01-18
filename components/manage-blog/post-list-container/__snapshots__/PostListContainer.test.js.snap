@@ -1,0 +1,64 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<PostListContainer /> should render properly 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  width: 100%;
+  padding: 40px 0;
+  font-size: 17px;
+}
+
+<PostListContainer
+  hasMore={false}
+  isLoading={false}
+  onLoadMoreClick={[MockFunction]}
+  status="published"
+>
+  <EnsureDefaultTheme>
+    <ThemeProvider
+      theme={[Function]}
+    >
+      <PostListContainer__MessageBox>
+        <StyledComponent
+          forwardedComponent={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": Array [],
+              "componentStyle": ComponentStyle {
+                "componentId": "PostListContainer__MessageBox-y8dh3a-3",
+                "isStatic": true,
+                "lastClassName": "c0",
+                "rules": Array [
+                  "display:flex;justify-content:center;width:100%;padding:40px 0;font-size:17px;",
+                ],
+              },
+              "displayName": "PostListContainer__MessageBox",
+              "foldedComponentIds": Array [],
+              "render": [Function],
+              "styledComponentId": "PostListContainer__MessageBox-y8dh3a-3",
+              "target": "span",
+              "toString": [Function],
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+        >
+          <span
+            className="c0"
+          >
+            No posts to display.
+          </span>
+        </StyledComponent>
+      </PostListContainer__MessageBox>
+    </ThemeProvider>
+  </EnsureDefaultTheme>
+</PostListContainer>
+`;

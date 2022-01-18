@@ -1,0 +1,16 @@
+{
+	"id": "5876237249237015770",
+	"screenName": "chriskohler",
+	"displayName": "Chris Kohler",
+	"authType": 3,
+	"authName": "google",
+	"createdMillis": 1490037736000,
+	"updatedMillis": 1536804857000,
+	"lastLoginMillis": 1536804857000,
+	"status": "enabled",
+	"avatar": {
+		"id": "ql1l79ncdygfqwckzobr",
+		"format": "jpg"
+	},
+	"isSuperuser": false
+}

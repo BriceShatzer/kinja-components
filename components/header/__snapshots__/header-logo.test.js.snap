@@ -1,0 +1,510 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header logo should render kinja logo there is no blog and no title 1`] = `
+.c1 {
+  --scale: 1;
+}
+
+.c3 {
+  position: relative;
+  height: calc(32px * var(--scale));
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-flex: 0;
+  -webkit-flex-grow: 0;
+  -ms-flex-positive: 0;
+  flex-grow: 0;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+}
+
+.c3 svg {
+  position: absolute;
+  -webkit-transform-origin: top left;
+  -ms-transform-origin: top left;
+  transform-origin: top left;
+  -webkit-transform: scale(var(--scale));
+  -ms-transform: scale(var(--scale));
+  transform: scale(var(--scale));
+}
+
+.c3.avclub {
+  width: calc(150px * var(--scale));
+}
+
+.c3.avclub svg {
+  top: -40%;
+}
+
+.c3.clickhole {
+  width: calc(216px * var(--scale));
+}
+
+.c3.clickhole svg {
+  top: -4%;
+}
+
+.c3.deadspin {
+  width: calc(254px * var(--scale));
+}
+
+.c3.deadspin svg {
+  top: 0%;
+}
+
+.c3.earther {
+  width: calc(217px * var(--scale));
+}
+
+.c3.earther svg {
+  top: -1%;
+}
+
+.c3.gizmodo {
+  width: calc(225px * var(--scale));
+}
+
+.c3.gizmodo svg {
+  top: 0%;
+}
+
+.c3.jalopnik {
+  width: calc(228px * var(--scale));
+}
+
+.c3.jalopnik svg {
+  top: 0%;
+}
+
+.c3.jezebel {
+  width: calc(206px * var(--scale));
+}
+
+.c3.jezebel svg {
+  top: 0%;
+}
+
+.c3.kotaku {
+  width: calc(212px * var(--scale));
+}
+
+.c3.kotaku svg {
+  top: -10%;
+}
+
+.c3.lifehacker {
+  width: calc(180px * var(--scale));
+}
+
+.c3.lifehacker svg {
+  top: -25%;
+}
+
+.c3.splinter {
+  width: calc(261px * var(--scale));
+}
+
+.c3.splinter svg {
+  top: -7%;
+}
+
+.c3.theinventory {
+  width: calc(258px * var(--scale));
+}
+
+.c3.theinventory svg {
+  top: -13%;
+}
+
+.c3.theroot {
+  width: calc(205px * var(--scale));
+}
+
+.c3.theroot svg {
+  top: -20%;
+}
+
+.c3.theonion {
+  width: calc(262px * var(--scale));
+}
+
+.c3.theonion svg {
+  top: -22%;
+}
+
+.c3.thetakeout {
+  width: calc(140px * var(--scale));
+}
+
+.c3.thetakeout svg {
+  top: -34%;
+}
+
+.c3.kinja {
+  width: calc(152px * var(--scale));
+}
+
+.c3.kinja svg {
+  top: -22%;
+}
+
+.c3.gomedia {
+  width: calc(241px * var(--scale));
+}
+
+.c3.gomedia svg {
+  top: -20%;
+}
+
+.c3.kinjadeals {
+  width: calc(203px * var(--scale));
+}
+
+.c3.kinjadeals svg {
+  top: -10%;
+}
+
+.c3.kinjavideo {
+  width: calc(243px * var(--scale));
+}
+
+.c3.kinjavideo svg {
+  top: -6%;
+}
+
+.c0 {
+  height: 100%;
+  font-size: 1.5rem;
+  color: #222;
+  font-weight: bold;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.c0:hover {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #000;
+}
+
+.c0 .c2 {
+  --scale: 0.8;
+}
+
+@media only screen and (max-width:63.69em) {
+  .c0 .c2 {
+    --scale: 0.6;
+  }
+}
+
+<WithPlatform>
+  <HeaderLogo
+    platform="web"
+  >
+    <EnsureDefaultTheme>
+      <ThemeProvider
+        theme={[Function]}
+      >
+        <header-logo__LogoLink
+          onClick={[Function]}
+        >
+          <StyledComponent
+            forwardedComponent={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": Array [],
+                "componentStyle": ComponentStyle {
+                  "componentId": "header-logo__LogoLink-sc-8vrmk6-0",
+                  "isStatic": false,
+                  "lastClassName": "c0",
+                  "rules": Array [
+                    "height:100%;font-size:1.5rem;color:",
+                    [Function],
+                    ";font-weight:bold;display:flex;align-items:center;&:hover{text-decoration:none;color:",
+                    [Function],
+                    ";}",
+                    ".c2",
+                    "{--scale:0.8;}",
+                    "@media only screen and ",
+                    "(max-width: 63.69em)",
+                    "{",
+                    "
+		",
+                    ".c2",
+                    " {
+			--scale: 0.6;
+		}
+	",
+                    "}",
+                  ],
+                },
+                "displayName": "header-logo__LogoLink",
+                "foldedComponentIds": Array [],
+                "render": [Function],
+                "styledComponentId": "header-logo__LogoLink-sc-8vrmk6-0",
+                "target": "a",
+                "toString": [Function],
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={null}
+            onClick={[Function]}
+          >
+            <a
+              className="c0"
+              onClick={[Function]}
+            >
+              <Logo
+                platform="web"
+              >
+                <BlogLogo
+                  name="kinja"
+                >
+                  <blog-logo__LogoScaleWrapper
+                    monochrome={false}
+                    scaling={1}
+                  >
+                    <StyledComponent
+                      forwardedComponent={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "attrs": Array [],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "blog-logo__LogoScaleWrapper-sc-2d8w30-0",
+                            "isStatic": false,
+                            "lastClassName": "c1",
+                            "rules": Array [
+                              "--scale:",
+                              [Function],
+                              ";svg{",
+                              [Function],
+                              "}",
+                            ],
+                          },
+                          "displayName": "blog-logo__LogoScaleWrapper",
+                          "foldedComponentIds": Array [],
+                          "render": [Function],
+                          "styledComponentId": "blog-logo__LogoScaleWrapper-sc-2d8w30-0",
+                          "target": "div",
+                          "toString": [Function],
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                      monochrome={false}
+                      scaling={1}
+                    >
+                      <div
+                        className="c1"
+                      >
+                        <blog-logo__LogoWrapper
+                          blogName="kinja"
+                          className="kinja"
+                        >
+                          <StyledComponent
+                            blogName="kinja"
+                            className="kinja"
+                            forwardedComponent={
+                              Object {
+                                "$$typeof": Symbol(react.forward_ref),
+                                "attrs": Array [],
+                                "componentStyle": ComponentStyle {
+                                  "componentId": "c2",
+                                  "isStatic": true,
+                                  "lastClassName": "c3",
+                                  "rules": Array [
+                                    "position:relative;height:calc(32px * var(--scale));display:flex;flex-grow:0;flex-shrink:0;svg{position:absolute;transform-origin:top left;transform:scale(var(--scale));}",
+                                    " ",
+                                    "
+			&.avclub {
+				width: calc(150px * var(--scale));
+				svg {
+					top: -40%;
+				}
+			}
+		
+			&.clickhole {
+				width: calc(216px * var(--scale));
+				svg {
+					top: -4%;
+				}
+			}
+		
+			&.deadspin {
+				width: calc(254px * var(--scale));
+				svg {
+					top: 0%;
+				}
+			}
+		
+			&.earther {
+				width: calc(217px * var(--scale));
+				svg {
+					top: -1%;
+				}
+			}
+		
+			&.gizmodo {
+				width: calc(225px * var(--scale));
+				svg {
+					top: 0%;
+				}
+			}
+		
+			&.jalopnik {
+				width: calc(228px * var(--scale));
+				svg {
+					top: 0%;
+				}
+			}
+		
+			&.jezebel {
+				width: calc(206px * var(--scale));
+				svg {
+					top: 0%;
+				}
+			}
+		
+			&.kotaku {
+				width: calc(212px * var(--scale));
+				svg {
+					top: -10%;
+				}
+			}
+		
+			&.lifehacker {
+				width: calc(180px * var(--scale));
+				svg {
+					top: -25%;
+				}
+			}
+		
+			&.splinter {
+				width: calc(261px * var(--scale));
+				svg {
+					top: -7%;
+				}
+			}
+		
+			&.theinventory {
+				width: calc(258px * var(--scale));
+				svg {
+					top: -13%;
+				}
+			}
+		
+			&.theroot {
+				width: calc(205px * var(--scale));
+				svg {
+					top: -20%;
+				}
+			}
+		
+			&.theonion {
+				width: calc(262px * var(--scale));
+				svg {
+					top: -22%;
+				}
+			}
+		
+			&.thetakeout {
+				width: calc(140px * var(--scale));
+				svg {
+					top: -34%;
+				}
+			}
+		
+			&.kinja {
+				width: calc(152px * var(--scale));
+				svg {
+					top: -22%;
+				}
+			}
+		
+			&.gomedia {
+				width: calc(241px * var(--scale));
+				svg {
+					top: -20%;
+				}
+			}
+		
+			&.kinjadeals {
+				width: calc(203px * var(--scale));
+				svg {
+					top: -10%;
+				}
+			}
+		
+			&.kinjavideo {
+				width: calc(243px * var(--scale));
+				svg {
+					top: -6%;
+				}
+			}
+		",
+                                    " ",
+                                  ],
+                                },
+                                "displayName": "blog-logo__LogoWrapper",
+                                "foldedComponentIds": Array [],
+                                "render": [Function],
+                                "styledComponentId": "c2",
+                                "target": "div",
+                                "toString": [Function],
+                                "warnTooManyClasses": [Function],
+                                "withComponent": [Function],
+                              }
+                            }
+                            forwardedRef={null}
+                          >
+                            <div
+                              className="kinja c2 c3"
+                            >
+                              <Kinja
+                                aria-label="Kinja logo"
+                                height="44"
+                                viewBox="0 0 152 44"
+                                width="152"
+                                xmlns="http://www.w3.org/2000/svg"
+                              >
+                                <svg
+                                  aria-label="Kinja logo"
+                                  height="44"
+                                  viewBox="0 0 152 44"
+                                  width="152"
+                                  xmlns="http://www.w3.org/2000/svg"
+                                >
+                                  <path
+                                    d="M42.24.02L35.7 11.26c-.85 1.46-2.5 4.03-6.99 3.94-4.07-.08-18.06-.2-19.93-.2-1.86-.01-4.89.58-6.66 2.14A8.3 8.3 0 0 0 .34 19.1h16.6c2.76 0 5.25.37 7.12 3.48C26.82 27.18 36.51 44 36.51 44h-13c-1.7 0-4.74-.13-6.92-4.05-1.98-3.56-7.78-13.76-8.72-15.38-.93-1.62-2.96-3.93-5.2-4.68-1.9-.63-2.67-.54-2.67-.54s.1-.12.19-.2c-.18 0-.21.08-.18.03l8.6-14.77c1.4-2.39 2.97-4.4 6.6-4.4 5.4-.02 27.03.01 27.03.01zM123.82 7v22.76c0 6.37-3.87 9.24-9.29 9.24a9.09 9.09 0 0 1-6.7-2.6l2.03-4.1a5.43 5.43 0 0 0 4.2 2.08c2.78 0 4.52-1.74 4.52-4.8V7h5.24zM51.18 7v15.13L61.04 7h6.08L56.84 21.85l11.08 16.58h-6.18l-8.1-12.96-2.46 3.63v9.33H46V7h5.18zm25.27 0v31.43h-5.19V7h5.19zm11.3 0l11.46 20.6V7h5.23v31.43h-5l-11.78-21.2v21.2h-5.18V7h5.28zm54.82 0L152 38.43h-5.6l-1.75-6.22h-10.37l-1.75 6.22h-5.6L136.35 7h6.22zm-3.1 5.56l-4.15 15.03h8.29l-4.15-15.03z"
+                                    fill="#000"
+                                    fillRule="evenodd"
+                                  />
+                                </svg>
+                              </Kinja>
+                            </div>
+                          </StyledComponent>
+                        </blog-logo__LogoWrapper>
+                      </div>
+                    </StyledComponent>
+                  </blog-logo__LogoScaleWrapper>
+                </BlogLogo>
+              </Logo>
+            </a>
+          </StyledComponent>
+        </header-logo__LogoLink>
+      </ThemeProvider>
+    </EnsureDefaultTheme>
+  </HeaderLogo>
+</WithPlatform>
+`;

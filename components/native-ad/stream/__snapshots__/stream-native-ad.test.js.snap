@@ -1,0 +1,390 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Stream Native Ad should statically render a stream native ad 1`] = `
+.c16 {
+  text-align: left;
+  font-size: 24px;
+  font-family: ProximaNovaCond,sans-serif;
+  line-height: 1.3;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.c11 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c9 {
+  float: left;
+  margin: 0;
+  position: relative;
+}
+
+.c9 .c18 {
+  border: 2px solid #FFF;
+  left: 0.5rem;
+  top: 0.5rem;
+  font-size: 1.125rem;
+  line-height: 1.125rem;
+  width: 2rem;
+  height: 2rem;
+}
+
+.c12 {
+  background-color: #F5F5F5;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: block;
+  height: 0;
+  overflow: hidden;
+  padding-bottom: 56.25%;
+  position: relative;
+  width: 100%;
+}
+
+.c12 img {
+  background: #F5F5F5;
+  overflow: hidden;
+}
+
+.c12 img.lazyloaded {
+  background: none;
+}
+
+.c12 img.ls-pre-lazy-img {
+  height: 100%;
+  background: none;
+}
+
+.c12 video {
+  max-width: 100%;
+  height: auto;
+}
+
+.c12 video::-webkit-media-controls-start-playback-button {
+  display: none;
+  -webkit-appearance: none;
+}
+
+.c12 img,
+.c12 video {
+  height: auto;
+  width: 100%;
+}
+
+.c5 {
+  font-family: ProximaNovaCond,sans-serif;
+  font-size: 15px;
+  font-weight: bold;
+  line-height: 25px;
+  text-transform: uppercase;
+  color: #222;
+}
+
+.c8 {
+  fill: currentColor;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c7 {
+  margin-right: 6px;
+  margin-top: -2px;
+}
+
+.c7.right {
+  margin-right: 0;
+  margin-left: 10px;
+}
+
+.c6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: #222;
+  font-family: ProximaNovaCond,sans-serif;
+  line-height: 25px;
+}
+
+.c4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+}
+
+.c1 {
+  position: relative;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+}
+
+.c2 .c3:not(:empty) {
+  margin-bottom: 4px;
+}
+
+.c14 .c3:not(:empty) {
+  margin: -1px 0 5px;
+}
+
+.c15 .c10 {
+  color: #000;
+}
+
+.c15 .c10:hover {
+  color: #000;
+}
+
+.c17 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  margin-top: -4px;
+}
+
+.c0 {
+  padding-left: 1.125rem;
+}
+
+@media only screen and (min-width:37.37em) {
+  .c16 {
+    margin-bottom: 8px;
+  }
+}
+
+@media only screen and (min-width:37.37em) {
+  .c9 {
+    -webkit-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    margin-right: 19px;
+    max-width: 247px;
+  }
+}
+
+@media only screen and (max-width:37.31em) {
+  .c9 {
+    margin-bottom: 8px;
+  }
+}
+
+@media only screen and (max-width:49.94em) {
+  .c4 {
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+  }
+}
+
+@media only screen and (max-width:37.31em) {
+  .c1 {
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+  }
+}
+
+@media only screen and (min-width:37.37em) {
+  .c2 {
+    display: none;
+  }
+}
+
+@media only screen and (max-width:37.31em) {
+  .c14 {
+    display: none;
+  }
+}
+
+@media only screen and (min-width:37.37em) {
+  .c13 {
+    -webkit-flex: 2.162;
+    -ms-flex: 2.162;
+    flex: 2.162;
+  }
+}
+
+@media only screen and (max-width:37.31em) {
+  .c17 {
+    margin-top: 10px;
+  }
+}
+
+@media only screen and (min-width:37.37em) {
+  .c0 {
+    padding-left: 1.125rem;
+    padding-right: calc(82px + 1.125rem);
+  }
+}
+
+<div
+  class="c0"
+>
+  <article
+    class="js_post_item c1"
+    data-commerce-source="nativestream"
+    data-id="0"
+    data-index="0"
+  >
+    <div
+      class="c2"
+    >
+      <div
+        class="c3 c4"
+      >
+        <span
+          class="c5"
+        >
+          Promoted
+        </span>
+        <div
+          class="c6"
+        >
+          <span
+            class="c7"
+            id="externalIcon"
+          >
+            <span
+              class="c8"
+            >
+              <svg
+                aria-label="ExternalLink icon"
+                height="18"
+                viewBox="0 0 18 18"
+                width="18"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M6 3a.5.5 0 0 1 0 1H3.5C2.67 4 2 4.67 2 5.5v9c0 .83.67 1.5 1.5 1.5h9c.83 0 1.5-.67 1.5-1.5V11a.5.5 0 1 1 1 0v3.5a2.5 2.5 0 0 1-2.5 2.5h-9A2.5 2.5 0 0 1 1 14.5v-9A2.5 2.5 0 0 1 3.5 3H6zm10.51-2h.06l.04.01.04.01.04.02a.5.5 0 0 1 .15.1l.03.02.01.02h.01l-.03-.02.03.03.03.04a.52.52 0 0 1 .08.27v6a.5.5 0 1 1-1 0V2.7l-8.15 8.15a.5.5 0 0 1-.7-.7L15.29 2H10.5a.5.5 0 1 1 0-1h6.01z"
+                  fill-rule="evenodd"
+                />
+              </svg>
+            </span>
+          </span>
+          <span
+            class=""
+          >
+            View on The Inventory
+          </span>
+        </div>
+      </div>
+    </div>
+    <figure
+      class="c9"
+    >
+      <a
+        class="js_link c10 c11"
+        data-ga="[[\\"Front page click\\",\\"stream post click - 0\\",\\"https://theinventory.com/ride-out-the-winter-in-sherpa-and-shearling-lined-every-1831468858%3Futm_source%3Ddfpnative%26utm_medium%3Dhomepage%26utm_campaign%3Dnative_sherpasherling_ds\\",{\\"metric19\\":1}]]"
+        data-kala="[\\"STREAM_CLICK\\",\\"POST\\",\\"0\\"]"
+        href="https://theinventory.com/ride-out-the-winter-in-sherpa-and-shearling-lined-every-1831468858%3Futm_source%3Ddfpnative%26utm_medium%3Dhomepage%26utm_campaign%3Dnative_sherpasherling_ds"
+      >
+        <div
+          class="js_lazy-image c12"
+        >
+          <div>
+            <img
+              data-anim-src=""
+              data-chomp-id="wvym61kyx8vht0kremsu"
+              data-format="jpg"
+              draggable="auto"
+              src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+              srcset="https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_180,q_80,w_320/wvym61kyx8vht0kremsu.jpg 320w, https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_264,q_80,w_470/wvym61kyx8vht0kremsu.jpg 470w, https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_80,q_80,w_80/wvym61kyx8vht0kremsu.jpg 80w"
+            />
+          </div>
+        </div>
+      </a>
+    </figure>
+    <div
+      class="c13"
+    >
+      <div
+        class="c14"
+      >
+        <div
+          class="c3 c4"
+        >
+          <span
+            class="c5"
+          >
+            Promoted
+          </span>
+          <div
+            class="c6"
+          >
+            <span
+              class="c7"
+              id="externalIcon"
+            >
+              <span
+                class="c8"
+              >
+                <svg
+                  aria-label="ExternalLink icon"
+                  height="18"
+                  viewBox="0 0 18 18"
+                  width="18"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M6 3a.5.5 0 0 1 0 1H3.5C2.67 4 2 4.67 2 5.5v9c0 .83.67 1.5 1.5 1.5h9c.83 0 1.5-.67 1.5-1.5V11a.5.5 0 1 1 1 0v3.5a2.5 2.5 0 0 1-2.5 2.5h-9A2.5 2.5 0 0 1 1 14.5v-9A2.5 2.5 0 0 1 3.5 3H6zm10.51-2h.06l.04.01.04.01.04.02a.5.5 0 0 1 .15.1l.03.02.01.02h.01l-.03-.02.03.03.03.04a.52.52 0 0 1 .08.27v6a.5.5 0 1 1-1 0V2.7l-8.15 8.15a.5.5 0 0 1-.7-.7L15.29 2H10.5a.5.5 0 1 1 0-1h6.01z"
+                    fill-rule="evenodd"
+                  />
+                </svg>
+              </span>
+            </span>
+            <span
+              class=""
+            >
+              View on The Inventory
+            </span>
+          </div>
+        </div>
+      </div>
+      <div
+        class="c15"
+      >
+        <a
+          class="js_link c10 c11"
+          data-ga="[[\\"Front page click\\",\\"stream post click - 0\\",\\"https://theinventory.com/ride-out-the-winter-in-sherpa-and-shearling-lined-every-1831468858%3Futm_source%3Ddfpnative%26utm_medium%3Dhomepage%26utm_campaign%3Dnative_sherpasherling_ds\\",{\\"metric19\\":1}]]"
+          data-kala="[\\"STREAM_CLICK\\",\\"POST\\",\\"0\\"]"
+          href="https://theinventory.com/ride-out-the-winter-in-sherpa-and-shearling-lined-every-1831468858%3Futm_source%3Ddfpnative%26utm_medium%3Dhomepage%26utm_campaign%3Dnative_sherpasherling_ds"
+        >
+          <h2
+            class="c16"
+          >
+            Ride Out the Winter In Sherpa and Shearling-Lined Everything
+          </h2>
+        </a>
+      </div>
+      <div
+        class="c17"
+      />
+    </div>
+  </article>
+</div>
+`;

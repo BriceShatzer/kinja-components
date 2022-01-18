@@ -1,0 +1,134 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<KinjaRoundup /> should render by default 1`] = `
+<Fragment>
+  <kinja-roundup__RoundupWrapper
+    borderbottom={true}
+  >
+    <kinja-roundup__RoundupItemsWrapper>
+      <kinja-roundup__RoundupHelpText>
+        Paste a Kinja permalink URL into each field to create a Roundup.
+      </kinja-roundup__RoundupHelpText>
+      <kinja-roundup__RoundupItems>
+        <div
+          key="-332065034"
+        >
+          <kinja-roundup__RoundupItemRow>
+            <Textfield18
+              blogTheme="default"
+              data-index={0}
+              error=""
+              key="-332065034"
+              label="Story 1"
+              name="Roundup Item"
+              onChange={[Function]}
+              value="Ditch The Dating Apps: 5 Real-Life Places To Meet My Wife"
+            />
+            <kinja-roundup__DeleteItem
+              data-index={0}
+              onClick={[Function]}
+            >
+              <TrashcanIcon />
+            </kinja-roundup__DeleteItem>
+          </kinja-roundup__RoundupItemRow>
+        </div>
+        <div
+          key="647052003"
+        >
+          <kinja-roundup__RoundupItemRow>
+            <Textfield18
+              blogTheme="default"
+              data-index={1}
+              error=""
+              key="647052003"
+              label="Story 2"
+              name="Roundup Item"
+              onChange={[Function]}
+              value="Tips For Playing Anthem"
+            />
+            <kinja-roundup__DeleteItem
+              data-index={1}
+              onClick={[Function]}
+            >
+              <TrashcanIcon />
+            </kinja-roundup__DeleteItem>
+          </kinja-roundup__RoundupItemRow>
+        </div>
+        <div
+          key="2"
+        >
+          <kinja-roundup__RoundupItemRow>
+            <Textfield18
+              blogTheme="default"
+              data-index={2}
+              error=""
+              key="2"
+              label="Story 3"
+              name="Roundup Item"
+              onChange={[Function]}
+              value=""
+            />
+            <kinja-roundup__DeleteItem
+              data-index={2}
+              onClick={[Function]}
+            >
+              <TrashcanIcon />
+            </kinja-roundup__DeleteItem>
+          </kinja-roundup__RoundupItemRow>
+        </div>
+      </kinja-roundup__RoundupItems>
+    </kinja-roundup__RoundupItemsWrapper>
+    <hr />
+    <kinja-roundup__RoundupPreviewWrapper>
+      <RoundupComponent
+        hideBlogInfo={false}
+        intro={Array []}
+        items={
+          Array [
+            RoundupItem {
+              "blog": TextNode {
+                "styles": Array [],
+                "type": "Text",
+                "value": "ClickHole",
+              },
+              "link": LinkNode {
+                "reference": "https://www.clickhole.com/ditch-the-dating-apps-5-real-life-places-to-meet-my-wi-1832472134",
+                "target": undefined,
+                "type": "Link",
+                "value": Array [
+                  TextNode {
+                    "styles": Array [],
+                    "type": "Text",
+                    "value": "Ditch The Dating Apps: 5 Real-Life Places To Meet My Wife",
+                  },
+                ],
+              },
+              "type": "RoundupItem",
+            },
+            RoundupItem {
+              "blog": TextNode {
+                "styles": Array [],
+                "type": "Text",
+                "value": "Kotaku",
+              },
+              "link": LinkNode {
+                "reference": "https://kotaku.com/tips-for-playing-anthem-1832821302",
+                "target": undefined,
+                "type": "Link",
+                "value": Array [
+                  TextNode {
+                    "styles": Array [],
+                    "type": "Text",
+                    "value": "Tips For Playing Anthem",
+                  },
+                ],
+              },
+              "type": "RoundupItem",
+            },
+          ]
+        }
+      />
+    </kinja-roundup__RoundupPreviewWrapper>
+  </kinja-roundup__RoundupWrapper>
+</Fragment>
+`;

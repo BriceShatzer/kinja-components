@@ -1,0 +1,50 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Footer/> should render 1`] = `
+<footer__Wrapper>
+  <footer__CurrentPathIndicator>
+    Move to
+    <footer__CurrentPathIndicatorInner>
+      <CurrentPath />
+    </footer__CurrentPathIndicatorInner>
+  </footer__CurrentPathIndicator>
+  <footer__ButtonWrapper>
+    <Button
+      label="Cancel"
+      onClick={[MockFunction]}
+      small={true}
+      weight="secondary"
+    />
+  </footer__ButtonWrapper>
+  <Button
+    label="Move here"
+    onClick={[MockFunction]}
+    small={true}
+  />
+</footer__Wrapper>
+`;
+
+exports[`<Footer/> should render while disabled 1`] = `
+<footer__Wrapper>
+  <footer__CurrentPathIndicator>
+    Move to
+    <footer__CurrentPathIndicatorInner>
+      <CurrentPath />
+    </footer__CurrentPathIndicatorInner>
+  </footer__CurrentPathIndicator>
+  <footer__ButtonWrapper>
+    <Button
+      label="Cancel"
+      onClick={[MockFunction]}
+      small={true}
+      weight="secondary"
+    />
+  </footer__ButtonWrapper>
+  <Button
+    disabled={true}
+    label="Move here"
+    onClick={[MockFunction]}
+    small={true}
+  />
+</footer__Wrapper>
+`;
